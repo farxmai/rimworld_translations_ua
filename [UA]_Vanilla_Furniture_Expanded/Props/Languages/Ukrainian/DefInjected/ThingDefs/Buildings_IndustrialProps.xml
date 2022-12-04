@@ -20,19 +20,19 @@
     <VFEPD_BrickPile.label>кам'яні блоки</VFEPD_BrickPile.label>
     <VFEPD_BrickPile.description>Купа кам'яних блоків.</VFEPD_BrickPile.description>
 
-    <VFEPD_BarrelGreen.label>зелена бочка</VFEPD_BarrelGreen.label>
+    <VFEPD_BarrelGreen.label>бочка (зелена)</VFEPD_BarrelGreen.label>
     <VFEPD_BarrelGreen.description>Металева бочка.</VFEPD_BarrelGreen.description>
 
-    <VFEPD_BarrelGrey.label>сіра бочка</VFEPD_BarrelGrey.label>
+    <VFEPD_BarrelGrey.label>бочка (сіра)</VFEPD_BarrelGrey.label>
     <VFEPD_BarrelGrey.description>Металева бочка.</VFEPD_BarrelGrey.description>
 
-    <VFEPD_BarrelRed.label>червона бочка</VFEPD_BarrelRed.label>
+    <VFEPD_BarrelRed.label>бочка (червона)</VFEPD_BarrelRed.label>
     <VFEPD_BarrelRed.description>Металева бочка.</VFEPD_BarrelRed.description>
 
-    <VFEPD_BarrelYellow.label>жовта бочка</VFEPD_BarrelYellow.label>
+    <VFEPD_BarrelYellow.label>бочка (жовта)</VFEPD_BarrelYellow.label>
     <VFEPD_BarrelYellow.description>Металева бочка.</VFEPD_BarrelYellow.description>
 
-    <VFEPD_BarrelBlue.label>синя бочка</VFEPD_BarrelBlue.label>
+    <VFEPD_BarrelBlue.label>бочка (синя)</VFEPD_BarrelBlue.label>
     <VFEPD_BarrelBlue.description>Металева бочка.</VFEPD_BarrelBlue.description>
 
     <VFEPD_PalletCardboard.label>палета з коробками</VFEPD_PalletCardboard.label>
@@ -59,19 +59,19 @@
     <VFEPD_PalletBarrelBlue.label>палета с синіми бочками</VFEPD_PalletBarrelBlue.label>
     <VFEPD_PalletBarrelBlue.description>Палета с металевими бочками.</VFEPD_PalletBarrelBlue.description>
 
-    <VFEPD_ContainerGreen.label>зелений транспортний контейнер</VFEPD_ContainerGreen.label>
+    <VFEPD_ContainerGreen.label>транспортний контейнер (зелений)</VFEPD_ContainerGreen.label>
     <VFEPD_ContainerGreen.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerGreen.description>
 
-    <VFEPD_ContainerGrey.label>сірий транспортний контейнер</VFEPD_ContainerGrey.label>
+    <VFEPD_ContainerGrey.label>транспортний контейнер (сірий)</VFEPD_ContainerGrey.label>
     <VFEPD_ContainerGrey.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerGrey.description>
 
-    <VFEPD_ContainerRed.label>червоний транспортний контейнер</VFEPD_ContainerRed.label>
+    <VFEPD_ContainerRed.label>транспортний контейнер (червоний)</VFEPD_ContainerRed.label>
     <VFEPD_ContainerRed.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerRed.description>
 
-    <VFEPD_ContainerYellow.label>жовтий транспортний контейнер</VFEPD_ContainerYellow.label>
+    <VFEPD_ContainerYellow.label>транспортний контейнер (жовтий)</VFEPD_ContainerYellow.label>
     <VFEPD_ContainerYellow.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerYellow.description>
 
-    <VFEPD_ContainerBlue.label>синій транспортний контейнер</VFEPD_ContainerBlue.label>
+    <VFEPD_ContainerBlue.label>транспортний контейнер (синій)</VFEPD_ContainerBlue.label>
     <VFEPD_ContainerBlue.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerBlue.description>
 
     <VFEPD_Pipes.label>стопка труб</VFEPD_Pipes.label>
