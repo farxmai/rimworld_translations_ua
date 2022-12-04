@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: romance attempt -->
-  <VFEA_RomanceAttempt_Lustful.label>флирт</VFEA_RomanceAttempt_Lustful.label>
+  <VFEA_RomanceAttempt_Lustful.label>флірт</VFEA_RomanceAttempt_Lustful.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
@@ -66,94 +66,91 @@
   -->
   <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef], [wootactic].</li>
-    <li>wooed->пытается флиртовать с</li>
-    <li>wooed->флиртует с</li>
-    <li>wooed->пытается привлечь к себе внимание</li>
-    <li>wooed->пытается добиться расположения</li>
-    <li>wooed->пытается завести роман с</li>
-    <li>wooed->пытается кадрить</li>
-    <li>wooed->подкатывает к</li>
-    <li>wooed->подбивает клинья к</li>
-    <li>wooed->заигрывает с</li>
-    <li>wooed->строит глазки</li>
+    <li>wooed->намагається фліртувати з</li>
+    <li>wooed->фліртує з</li>
+    <li>wooed->привертає увагу</li>
+    <li>wooed->намагається домогтися прихильності</li>
+    <li>wooed->намагається завести роман з</li>
+    <li>wooed->намагається кадрити</li>
+    <li>wooed->підкочує до</li>
+    <li>wooed->підбиває клини до</li>
+    <li>wooed->заграє з</li>
     <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
-    <li>wootactic(p=0.5)->[boasting] свой [PersonalCharacteristic_masc]</li>
+    <li>wootactic(p=0.5)->[boasting] свій [PersonalCharacteristic_masc]</li>
     <li>wootactic(p=0.5)->[boasting] свою [PersonalCharacteristic_fem]</li>
-    <li>wootactic(p=0.5)->[boasting] своё [PersonalCharacteristic_neutral]</li>
-    <li>wootactic(p=0.5)->[boasting] свои [PersonalCharacteristic_plural]</li>
-    <li>wootactic(p=2)->рассказывая историю [TalkTopicLight]</li>
-    <li>wootactic(p=2)->рассказывая историю [TalkTopicHeavy]</li>
-    <li>wootactic->сравнивая [RECIPIENT_possessive] с [romantic_adj] [romantic_noun]</li>
-    <li>wootactic->сравнивая [RECIPIENT_possessive] [PersonalCharacteristic] с [romantic_adj] [romantic_noun]</li>
-    <li>boasting->[boasting_adverb] нахваливая</li>
-    <li>boasting->[boasting_adverb] показывая</li>
-    <li>boasting->[boasting_adverb] демонстрируя</li>
-    <li>boasting->[boasting_adverb] упоминая в разговоре</li>
-    <li>boasting->[boasting_adverb] преувеличивая</li>
-    <li>boasting->[boasting_adverb] выпячивая</li>
-    <li>boasting->[boasting_adverb] выставляя напоказ</li>
+    <li>wootactic(p=0.5)->[boasting] своє [PersonalCharacteristic_neutral]</li>
+    <li>wootactic(p=0.5)->[boasting] свої [PersonalCharacteristic_plural]</li>
+    <li>wootactic(p=2)->розповідаючи історію [TalkTopicLight]</li>
+    <li>wootactic(p=2)->розповідаючи історію [TalkTopicHeavy]</li>
+    <li>wootactic->порівнюючи [RECIPIENT_possessive] з [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->порівнюючи [RECIPIENT_possessive] [PersonalCharacteristic] з [romantic_adj] [romantic_noun]</li>
+    <li>boasting->[boasting_adverb] нахвальуючи</li>
+    <li>boasting->[boasting_adverb] показуючи</li>
+    <li>boasting->[boasting_adverb] демонструючи</li>
+    <li>boasting->[boasting_adverb] згадуючи у розмові</li>
+    <li>boasting->[boasting_adverb] перебільшуючи</li>
+    <li>boasting->[boasting_adverb] випинаючи</li>
+    <li>boasting->[boasting_adverb] хизуючись</li>
     <li>boasting_adverb(p=5)-></li>
-    <li>boasting_adverb->важно</li>
-    <li>boasting_adverb->изящно</li>
+    <li>boasting_adverb->витончено</li>
+    <li>boasting_adverb->гордовито</li>
     <li>boasting_adverb->гордо</li>
-    <li>boasting_adverb->горделиво</li>
-    <li>boasting_adverb->хвастливо</li>
-    <li>boasting_adverb->нескромно</li>
+    <li>boasting_adverb->безсоромно</li>
     <li>boasting_adverb->тонко</li>
-    <li>boasting_adverb->навязчиво</li>
-    <li>boasting_adverb->ненавязчиво</li>
-    <li>boasting_adverb->как бы невзначай</li>
-    <li>boasting_adverb->как бы ненароком</li>
-    <li>boasting_adverb->с чувством собственной важности</li>
-    <li>boasting_adverb->с выражением превосходства на лице</li>
-    <li>complimenting(p=3)->[complimenting_adverb] хваля</li>
-    <li>complimenting->[complimenting_adverb] осыпая комплиментами</li>
-    <li>complimenting->[complimenting_adverb] нахваливая</li>
-    <li>complimenting->по достоинству оценивая</li>
-    <li>complimenting->[complimenting_adverb] говоря приятные слова про</li>
-    <li>complimenting(p=2)->[complimenting_adverb] шутя про</li>
-    <li>complimenting->задавая ехидный вопрос про</li>
-    <li>complimenting->отпуская колкий комментарий про</li>
+    <li>boasting_adverb->нав'язливо</li>
+    <li>boasting_adverb->ненав'язливо</li>
+    <li>boasting_adverb->немов ненароком</li>
+    <li>boasting_adverb->пихато</li>
+    <li>boasting_adverb->нахабно</li>
+    <li>boasting_adverb->відверто</li>
+    <li>complimenting(p=3)->[complimenting_adverb] нахвальуючи</li>
+    <li>complimenting->[complimenting_adverb] обсипаючи компліментами</li>
+    <li>complimenting->[complimenting_adverb] нахвальуючи</li>
+    <li>complimenting->гідно оцінюючи</li>
+    <li>complimenting->[complimenting_adverb] кажучи приємні слова про</li>
+    <li>complimenting(p=2)->[complimenting_adverb] журтуючи про</li>
+    <li>complimenting->відзначаючи</li>
+    <li>complimenting->коментуючи</li>
     <li>complimenting_adverb(p=3)-></li>
-    <li>complimenting_adverb->тонко</li>
-    <li>complimenting_adverb->изящно</li>
-    <li>complimenting_adverb->игриво</li>
-    <li>complimenting_adverb->заигрывающе</li>
-    <li>complimenting_adverb->как бы между делом</li>
-    <li>complimenting_adverb->бесстыдно</li>
-    <li>complimenting_adverb->не стесняясь</li>
-    <li>complimenting_adverb->самозабвенно</li>
-    <li>romantic_adj->красотой</li>
-    <li>romantic_adj->сиянием</li>
-    <li>romantic_adj->мерцанием</li>
+    <li>complimenting_adverb->витончено</li>
+    <li>complimenting_adverb->гордовито</li>
+    <li>complimenting_adverb->грайливо</li>
+    <li>complimenting_adverb->заграюче</li>
+    <li>complimenting_adverb->немов між іншим</li>
+    <li>complimenting_adverb->безсоромно</li>
+    <li>complimenting_adverb->не соромлячись</li>
+    <li>complimenting_adverb->самовіддано</li>
+    <li>romantic_adj->красою</li>
+    <li>romantic_adj->сяйвом</li>
+    <li>romantic_adj->мерехтінням</li>
     <li>romantic_adj->золотом</li>
-    <li>romantic_adj->очарованием</li>
-    <li>romantic_adj->великолепием</li>
-    <li>romantic_adj->нежностью</li>
-    <li>romantic_adj->изяществом</li>
-    <li>romantic_adj->величием</li>
+    <li>romantic_adj->шармом</li>
+    <li>romantic_adj->пишнотою</li>
+    <li>romantic_adj->ніжністю</li>
+    <li>romantic_adj->витонченістю</li>
+    <li>romantic_adj->величчю</li>
     <li>romantic_adj(p=2)->[romantic_adj_badass]</li>
-    <li>romantic_adj_badass->неудержимостью</li>
-    <li>romantic_adj_badass->бешенством</li>
-    <li>romantic_adj_badass->безумием</li>
-    <li>romantic_adj_badass->дикостью</li>
-    <li>romantic_adj_badass->огнём</li>
+    <li>romantic_adj_badass->нестримністю</li>
+    <li>romantic_adj_badass->люттю</li>
+    <li>romantic_adj_badass->божевіллям</li>
+    <li>romantic_adj_badass->дикістю</li>
+    <li>romantic_adj_badass->вогнем</li>
     <li>romantic_adj_badass->холодом</li>
-    <li>romantic_adj_badass->гибельностью</li>
-    <li>romantic_adj_badass->бессердечием</li>
-    <li>romantic_adj_badass->ужасом</li>
-    <li>romantic_adj_badass->тьмой</li>
-    <li>romantic_adj_badass->лютостью</li>
-    <li>romantic_adj_badass->суровостью</li>
-    <li>romantic_adj_badass->гневом</li>
-    <li>romantic_adj_badass->свирепостью</li>
-    <li>romantic_adj_badass->яростью</li>
-    <li>romantic_noun->цветка</li>
-    <li>romantic_noun->ручья</li>
-    <li>romantic_noun->реки</li>
-    <li>romantic_noun->звезды</li>
-    <li>romantic_noun->луны</li>
-    <li>romantic_noun->солнца</li>
-    <li>romantic_noun->полярного сияния</li>
+    <li>romantic_adj_badass->смертоносностю</li>
+    <li>romantic_adj_badass->безсердеччям</li>
+    <li>romantic_adj_badass->жахом</li>
+    <li>romantic_adj_badass->тьмою всередині</li>
+    <li>romantic_adj_badass->люттю</li>
+    <li>romantic_adj_badass->суворістю</li>
+    <li>romantic_adj_badass->гнівом</li>
+    <li>romantic_adj_badass->лютістю</li>
+    <li>romantic_adj_badass->лютістю</li>
+    <li>romantic_noun->квітки</li>
+    <li>romantic_noun->струмка</li>
+    <li>romantic_noun->річки</li>
+    <li>romantic_noun->зорі</li>
+    <li>romantic_noun->місяця</li>
+    <li>romantic_noun->сонця</li>
+    <li>romantic_noun->сяйва</li>
   </VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
 </LanguageData>

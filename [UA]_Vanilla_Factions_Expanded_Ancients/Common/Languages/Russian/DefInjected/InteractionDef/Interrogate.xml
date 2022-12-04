@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: attempt interrogation -->
-  <VFEA_InterrogatePrisoner.label>попытка допроса</VFEA_InterrogatePrisoner.label>
+  <VFEA_InterrogatePrisoner.label>спроба допиту</VFEA_InterrogatePrisoner.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
     <li>information->information</li>
@@ -10,8 +10,8 @@
   -->
   <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [information] [RECIPIENT_nameDef].</li>
-    <li>information->выбивает информацию из</li>
-    <li>information->получает данные от</li>
-    <li>information->добывает сведения от</li>
+    <li>information->вибиває інформацію з</li>
+    <li>information->отримує данні від</li>
+    <li>information->здобуває відомості від</li>
   </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
 </LanguageData>

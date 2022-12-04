@@ -99,7 +99,7 @@
   <!-- EN: Allow the point-defense turret to fire at incoming explosive projectiles, such as rockets and mortar shells. -->
   <VFEAncients.FireAtProjectilesDesc>Настроить турель точечной обороны на стрельбу по снарядам, таким как ракеты или миномётные снаряды.</VFEAncients.FireAtProjectilesDesc>
   <!-- EN: The process of injecting super-nanites has finished. Because your lab equipment includes a nanite sampler, you may now select between the two power and weakness pairs for {0} to obtain. -->
-  <VFEAncients.PowerChoice>Введение супернанитов завершено. Поскольку у вас есть отборщик нанитов, можно выбрать между двумя парами сил и слабостей для {0}.</VFEAncients.PowerChoice>
+  <VFEAncients.PowerChoice>Введение супернанітов завершено. Поскольку у вас есть отборщик нанитов, можно выбрать между двумя парами сил и слабостей для {0}.</VFEAncients.PowerChoice>
   <!-- EN: Select -->
   <VFEAncients.Select>Выбрать</VFEAncients.Select>
   <!-- EN: Mass Left: {0} / {1} ({2}) -->

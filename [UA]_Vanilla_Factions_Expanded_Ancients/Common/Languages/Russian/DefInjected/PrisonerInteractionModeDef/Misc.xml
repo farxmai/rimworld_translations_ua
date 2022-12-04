@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: interrogate -->
-  <VFEA_Interrogate.label>допрашивать</VFEA_Interrogate.label>
+  <VFEA_Interrogate.label>допитувати</VFEA_Interrogate.label>
   <!-- EN: Wardens will use various methods to extract information about nearby locations of interest from the prisoner. -->
-  <VFEA_Interrogate.description>Надзиратель будет применять различные методы для получения сведений от заключённых об интересных местах неподалёку.</VFEA_Interrogate.description>
+  <VFEA_Interrogate.description>Наглядач буде застосовувати різні методи для отримання відомостей від ув'язнених про цікаві місця неподалік.</VFEA_Interrogate.description>
 </LanguageData>

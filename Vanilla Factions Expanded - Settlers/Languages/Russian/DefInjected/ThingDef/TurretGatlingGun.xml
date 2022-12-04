@@ -8,8 +8,8 @@
 
   <Turret_GatlingGun.label>турель пулемета Гатлинга</Turret_GatlingGun.label>
   <Turret_GatlingGun.description>Простой автоматический пулемёт в лице управляемой турели. Чем дольше стреляет эта турель, тем больше скорость стрельбы. Может взорваться при повреждении.</Turret_GatlingGun.description>
-  <Turret_GatlingGun.comps.fuelLabel>Выстрелов до замены ствола</Turret_GatlingGun.comps.fuelLabel>
-  <Turret_GatlingGun.comps.fuelGizmoLabel>Прочность ствола</Turret_GatlingGun.comps.fuelGizmoLabel>
-  <Turret_GatlingGun.comps.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</Turret_GatlingGun.comps.outOfFuelMessage>
+  <Turret_GatlingGun.comps.fuelLabel>Пострілів до заміни ствола</Turret_GatlingGun.comps.fuelLabel>
+  <Turret_GatlingGun.comps.fuelGizmoLabel>Міцність ствола</Turret_GatlingGun.comps.fuelGizmoLabel>
+  <Turret_GatlingGun.comps.outOfFuelMessage>Неможливо вести вогонь: необхдна заміна ствола</Turret_GatlingGun.comps.outOfFuelMessage>
 
 </LanguageData>

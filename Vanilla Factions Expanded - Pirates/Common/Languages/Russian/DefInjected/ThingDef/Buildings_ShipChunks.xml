@@ -35,11 +35,11 @@
   <!-- EN: The remains of the housing for the Gauntlet charge cannon. Powered externally, the ammunition storage is wrecked and cannot be replaced. Once the turret empties its magazine, it is still valuable salvage worth recovery. -->
   <VFEP_ShipChunkGauntletTurret.description>Остатки энергоорудия «Краги». Боеприпасы для него подавались системами корабля, и потому орудие не может быть перезаряжено. Однако даже без боезапаса турель является источником ценных ресурсов.</VFEP_ShipChunkGauntletTurret.description>
   <!-- EN: Barrel durability -->
-  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>Прочность ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>Міцність ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
-  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>Выстрелов до замены ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>Пострілів до заміни ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>
   <!-- EN: Cannot shoot: Needs new barrel -->
-  <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>Неможливо вести вогонь: необхдна заміна ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
 
   <!-- EN: ship chunk reactor -->
   <VFEP_ShipChunkReactor.label>реактор корабля</VFEP_ShipChunkReactor.label>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: isolationist -->
-  <VFEA_Isolationist.label>изоляционизм</VFEA_Isolationist.label>
+  <VFEA_Isolationist.label>ізоляціонізм</VFEA_Isolationist.label>
   <!-- EN: Trust is a resource in low supply, as everyone we meet is the enemy. -->
-  <VFEA_Isolationist.description>Доверие — хрупкая вещь. Лучше не проверять её на прочность каждый раз и считать чужаков врагами.</VFEA_Isolationist.description>
+  <VFEA_Isolationist.description>Довіра — тендітна річ. Краще не перевіряти її на міцність щоразу і вважати чужинців ворогами.</VFEA_Isolationist.description>
 
   <!-- EN:
     <li>memeAdjective->isolated</li>
@@ -29,27 +29,48 @@
     <li>memeLeaderNoun->leader</li>
   -->
   <VFEA_Isolationist.generalRules.rulesStrings>
-    <li>memeAdjective->изолированный</li>
-    <li>memeAdjective->скрытый</li>
-    <li>memeAdjective->одинокий</li>
-    <li>memeAdjective->уединённый</li>
-    <li>memeAdjective->уникальный</li>
-    <li>memeAdjective->возвышающийся</li>
-    <li>memeAdjective->отдалённый</li>
-    <li>memeCreed->армия</li>
-    <li>memeCreed->нация</li>
-    <li>memeHyphenPrefix->спрятано</li>
-    <li>memeConcept->войны</li>
-    <li>memeConcept->изоляции</li>
-    <li>memeConcept->уединения</li>
+    <li>memeAdjective_masc->ізольований</li>
+    <li>memeAdjective_masc->прихований</li>
+    <li>memeAdjective_masc->одинацький</li>
+    <li>memeAdjective_masc->відокремлений</li>
+    <li>memeAdjective_masc->унікальний</li>
+    <li>memeAdjective_masc->піднесений</li>
+    <li>memeAdjective_masc->віддалений</li>
+    <li>memeAdjective_fem->ізольована</li>
+    <li>memeAdjective_fem->прихована</li>
+    <li>memeAdjective_fem->одинацька</li>
+    <li>memeAdjective_fem->відокремлена</li>
+    <li>memeAdjective_fem->унікальна</li>
+    <li>memeAdjective_fem->піднесена</li>
+    <li>memeAdjective_fem->віддалена</li>
+    <li>memeAdjective_neutral->ізольоване</li>
+    <li>memeAdjective_neutral->приховане</li>
+    <li>memeAdjective_neutral->одинацьке</li>
+    <li>memeAdjective_neutral->відокремлене</li>
+    <li>memeAdjective_neutral->унікальне</li>
+    <li>memeAdjective_neutral->піднесене</li>
+    <li>memeAdjective_neutral->віддалене</li>
+    <li>memeAdjective_plural->ізольовані</li>
+    <li>memeAdjective_plural->приховані</li>
+    <li>memeAdjective_plural->одинацькі</li>
+    <li>memeAdjective_plural->відокремлені</li>
+    <li>memeAdjective_plural->унікальні</li>
+    <li>memeAdjective_plural->піднесені</li>
+    <li>memeAdjective_plural->віддалені</li>
+    <li>memeCreed->армія</li>
+    <li>memeCreed->нація</li>
+    <li>memeHyphenPrefix->ізоло</li>
+    <li>memeConcept->війни</li>
+    <li>memeConcept->ізоляції</li>
+    <li>memeConcept->усамітнення</li>
     <li>memeLeaderNoun->генерал</li>
     <li>memeLeaderNoun->командир</li>
     <li>memeLeaderNoun->маршал</li>
-    <li>memeLeaderNoun->капитан</li>
-    <li>memeLeaderNoun->старший</li>
+    <li>memeLeaderNoun->капітан</li>
+    <li>memeLeaderNoun->старшина</li>
     <li>memeLeaderNoun->диктатор</li>
     <li>memeLeaderNoun->президент</li>
-    <li>memeLeaderNoun->лидер</li>
+    <li>memeLeaderNoun->лідер</li>
   </VFEA_Isolationist.generalRules.rulesStrings>
 
   <!-- EN:
@@ -76,68 +97,68 @@
     <li>animistProphecy(tag=meme_Isolationist) ->[itIsSaid] that a new order will be created when one supreme ruler emerges from the shadows on a planet filled to the brim with blood and viscera.</li>
   -->
   <VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Isolationist)        ->Люди, жившие в [place_summary] [place_name] никак не могли прийти к согласию и бесконечно ссорились между собой. Это надоело [deity0_name] и [deity_a_will] [memberNamePlural] правыми во всём властителями всего живого.</li>
-    <li>episode(uses=1,tag=meme_Isolationist)  ->Так правые стали сражаться с неправыми, а [deity0_name] [deity_a_accept] их: «Бейте их, везде и всюду. Они враги ваши и мира не будет пока живы неправые».</li>
-    <li>intro(tag=meme_Isolationist)           ->Люди, жившие в [place_summary] [place_name] поклонялись [deity0_name]. И [deity_a_spot] их достойными [memeConcept] и единственной фракцией, достойной возвышения.</li>
-    <li>conflict(tag=meme_Isolationist)        ->Однажды [foeLeader] [foe_a_accept] закон, запрещавший [memberNamePlural] занимать руководящие должности в [place_name]. Это привело к тому, что [memberNamePlural] стали организовывать тайные общества, руководящие из тени.</li>
-    <li>founderJoin(tag=meme_Isolationist)     ->Всё закончилось в тот момент, когда великий воин по имени [founderName] [founder_a_rise] в руки [place_massWeapon] и [founder_a_destroy] [place_community]. [deity0_name], увидев [founder_possessive] безжалостность, [deity_a_saw] провести жизнь в изоляции и секретности.</li>
-    <li>victory(tag=meme_Isolationist)         ->В итоге, [founderName] [founder_a_destroy] [place_name] при помощи [place_massWeapon] и [founder_a_kill] [foeLeader]. Однако [founder_pronoun] не [founder_a_rule] где-то далеко от [place_name].</li>
-    <li>setup(tag=meme_Isolationist)           ->[founderName] [founder_a_build] великую армию, распространившую силу и славу на многие земли. Пленных не было: чужаки утопали в крови.</li>
-    <li>story(uses=1,tag=meme_Isolationist)    ->Капитуляции не принимались: все чужаки должны были сражаться до последней капли крови. Мир также никогда не был приемлем. Город, который не хотел сражаться и пытался сдаться, уничтожался со всеми жителями при помощи [place_massWeapon].</li> 
-    <li>lessonIntro(tag=meme_Isolationist)         ->Однажды я [founder_a_look] на [foeLeader] и [foeLeader_possessive] жалких [foeSoldiers], когда стихли взрывы и [founder_a_rise] слово:</li>
-    <li>lesson(tag=meme_Isolationist)              ->«Прошли годы с тех пор, как мы, изолированные, но не сломленные, начали демонстрировать свою силу, нанося удары из тени...</li>
-    <li>lessonReinforcement(tag=meme_Isolationist) ->И не прекращаем делать это и сейчас, мы гордимся тем, что вонзаем силу своих сердец в сердца врагов.</li>
-    <li>archistBasis(tag=meme_Isolationist)    ->Арохотеки были созданы лучшими из людей. Лишь прячась в тенях, мы станем достойными их.</li>
-    <li>archistFact(tag=meme_Isolationist)     ->Архотеки уничтожают врагов без колебаний. Именно так должны поступать и мы с врагами.</li> 
-    <li>archistProphecy(tag=meme_Isolationist) ->Архотеки не вербуют людей в свои ряды. Поэтому и мы не должны вербовать своих врагов.</li>
-    <li>animistFact(tag=meme_Isolationist)     ->Великие духи [spiritElement] решают, кому править. Они дают свою силу тем, кто способен убивать своих врагов.</li>
-    <li>animistProphecy(tag=meme_Isolationist)   ->[itIsSaid], что порядок в мире настанет тогда, когда сильнейший правитель выйдет из тени и сядет на трон из черепов в океане крови.</li>
-    <li>deity_a_will(deity0_gender==None)->оно волей своей объявило</li>
-    <li>deity_a_will(deity0_gender==Male)->он волей своей объявил</li>
-    <li>deity_a_will(deity0_gender==Female)->она волей своей объявила</li>
-    <li>deity_a_accept(deity0_gender==None)->поддерживало</li>
-    <li>deity_a_accept(deity0_gender==Male)->поддерживал</li>
-    <li>deity_a_accept(deity0_gender==Female)->поддерживала</li>
-    <li>deity_a_spot(deity0_gender==None)->оно заметило это и посчитало</li>
-    <li>deity_a_spot(deity0_gender==Male)->он заметил это и посчитал</li>
-    <li>deity_a_spot(deity0_gender==Female)->она заметила это и посчитала</li>
-    <li>deity_a_saw(deity0_gender==None)->наказало</li>
-    <li>deity_a_saw(deity0_gender==Male)->наказал</li>
-    <li>deity_a_saw(deity0_gender==Female)->наказала</li>
-    <li>foe_a_accept(foeLeader_gender==Male)->принял</li>
-    <li>foe_a_accept(foeLeader_gender==Female)->приняла</li>
-    <li>founder_a_rise(founder_gender==Male)->взял</li>
+    <li>creation(tag=meme_Isolationist)        ->Люди, що жили [place_summary] [place_name] ніяк не могли дійти згоди і нескінченно сварилися між собою. Це набридло [deity0_name] і [deity_a_will] [memberNamePlural] правими у всьому володарями всього живого.</li>
+    <li>episode(uses=1,tag=meme_Isolationist)  ->Так праві стали боротися з неправими, а [deity0_name] [deity_a_accept] їх: «Бийте їх, скрізь і всюди. Вони вороги ваші та світу не буде поки що живі неправі».</li>
+    <li>intro(tag=meme_Isolationist)           ->Люди, що жили [place_summary] [place_name] вклонялися [deity0_name]. І [deity_a_spot] їх гідними [memeConcept] і єдиною фракцією, гідною піднесення.</li>
+    <li>conflict(tag=meme_Isolationist)        ->Якось [foeLeader] [foe_a_accept] закон, що забороняв [memberNamePlural] обіймати керівні посади в [place_name]. Це призвело до того, що [memberNamePlural] стали організовувати таємні товариства, що керують із тіні.</li>
+    <li>founderJoin(tag=meme_Isolationist)     ->Все закінчилося в той момент, коли великий воїн на ім'я [founderName] [founder_a_rise] до рук [place_massWeapon] і [founder_a_destroy] [place_community]. [deity0_name], побачивши [founder_possessive] безжалісність, [deity_a_saw] провести життя в ізоляції та таємності.</li>
+    <li>victory(tag=meme_Isolationist)         ->У результаті [founderName] [founder_a_destroy] [place_name] за допомогою [place_massWeapon] і [founder_a_kill] [foeLeader]. Однак [founder_pronoun] не [founder_a_rule] десь далеко від [place_name].</li>
+    <li>setup(tag=meme_Isolationist)           ->[founderName] [founder_a_build] велику армію, що поширила силу і славу на багато земель. Полонених не було: чужинці потопали в крові.</li>
+    <li>story(uses=1,tag=meme_Isolationist)    ->Капітуляції не приймалися: усі чужинці мали битися до останньої краплі крові. Мир також ніколи не був прийнятний. Місто, яке не хотіло битися і намагалося здатися, знищувалося з усіма жителями за допомогою [place_massWeapon].</li> 
+    <li>lessonIntro(tag=meme_Isolationist)         ->Якось я [founder_a_look] на [foeLeader] і [foeLeader_possessive] жалюгідних [foeSoldiers], коли стихли вибухи та [founder_a_rise] слово:</li>
+    <li>lesson(tag=meme_Isolationist)              ->Минули роки з того часу, як ми, ізольовані, але не зламані, почали демонструвати свою силу, завдаючи ударів із тіні...</li>
+    <li>lessonReinforcement(tag=meme_Isolationist) ->І не припиняємо робити це і зараз, ми пишаємося тим, що встромляємо силу своїх сердець у серця ворогів.</li>
+    <li>archistBasis(tag=meme_Isolationist)    ->Арохотеки були створені найкращими з людей. Лише ховаючись у тінях, ми станемо гідними їх.</li>
+    <li>archistFact(tag=meme_Isolationist)     ->Архотеки знищують ворогів без вагань. Саме так маємо чинити і ми з ворогами.</li> 
+    <li>archistProphecy(tag=meme_Isolationist) ->Архотеки не вербують людей до своїх лав. Тому й ми не повинні вербувати своїх ворогів.</li>
+    <li>animistFact(tag=meme_Isolationist)     ->Великі духи [spiritElement] вирішують, кому правити. Вони дають силу тим, хто здатний вбивати своїх ворогів.</li>
+    <li>animistProphecy(tag=meme_Isolationist)   ->[itIsSaid], що порядок у світі настане тоді, коли найсильніший правитель вийде з тіні і сяде на трон із черепів в океані крові.</li>
+    <li>deity_a_will(deity0_gender==None)->воно волею своєю оголосило</li>
+    <li>deity_a_will(deity0_gender==Male)->він волею своєю оголосив</li>
+    <li>deity_a_will(deity0_gender==Female)->вона своєю волею оголосила</li>
+    <li>deity_a_accept(deity0_gender==None)->підтримувало</li>
+    <li>deity_a_accept(deity0_gender==Male)->підтримував</li>
+    <li>deity_a_accept(deity0_gender==Female)->підтримувала</li>
+    <li>deity_a_spot(deity0_gender==None)->воно помітило це і порахувало</li>
+    <li>deity_a_spot(deity0_gender==Male)->він помітив це і порахував</li>
+    <li>deity_a_spot(deity0_gender==Female)->вона помітила це і порахувала</li>
+    <li>deity_a_saw(deity0_gender==None)->покарало</li>
+    <li>deity_a_saw(deity0_gender==Male)->покарав</li>
+    <li>deity_a_saw(deity0_gender==Female)->покарала</li>
+    <li>foe_a_accept(foeLeader_gender==Male)->прийняв</li>
+    <li>foe_a_accept(foeLeader_gender==Female)->прийняла</li>
+    <li>founder_a_rise(founder_gender==Male)->взяв</li>
     <li>founder_a_rise(founder_gender==Female)->взяла</li>
-    <li>founder_a_destroy(founder_gender==Male)->уничтожил</li>
-    <li>founder_a_destroy(founder_gender==Female)->уничтожила</li>
-    <li>founder_a_kill(founder_gender==Male)->убил</li>
-    <li>founder_a_kill(founder_gender==Female)->убила</li>
-    <li>founder_a_rule(founder_gender==Male)->не занял трон, а скрылся</li>
-    <li>founder_a_rule(founder_gender==Female)->не заняла трон, а скрылась</li>
-    <li>founder_a_build(founder_gender==Male)->создал</li>
-    <li>founder_a_build(founder_gender==Female)->создала</li>
-    <li>founder_a_look(founder_gender==Male)->посмотрел</li>
-    <li>founder_a_look(founder_gender==Female)->посмотрела</li>
+    <li>founder_a_destroy(founder_gender==Male)->знищив</li>
+    <li>founder_a_destroy(founder_gender==Female)->знищила</li>
+    <li>founder_a_kill(founder_gender==Male)->вбив</li>
+    <li>founder_a_kill(founder_gender==Female)->вбила</li>
+    <li>founder_a_rule(founder_gender==Male)->не зайняв трон, а втік</li>
+    <li>founder_a_rule(founder_gender==Female)->не зайняла трон, а втекла</li>
+    <li>founder_a_build(founder_gender==Male)->створив</li>
+    <li>founder_a_build(founder_gender==Female)->створила</li>
+    <li>founder_a_look(founder_gender==Male)->подивився</li>
+    <li>founder_a_look(founder_gender==Female)->подивилася</li>
   </VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: isolation -->
-  <VFEA_Isolationist.symbolPacks.0.adjective>изолировавшийся</VFEA_Isolationist.symbolPacks.0.adjective>
+  <VFEA_Isolationist.symbolPacks.0.adjective>ізольований</VFEA_Isolationist.symbolPacks.0.adjective>
   <!-- EN: isolator -->
-  <VFEA_Isolationist.symbolPacks.0.member>отшельник</VFEA_Isolationist.symbolPacks.0.member>
+  <VFEA_Isolationist.symbolPacks.0.member>відлюдник</VFEA_Isolationist.symbolPacks.0.member>
   <!-- EN: isolation -->
-  <VFEA_Isolationist.symbolPacks.0.theme>изоляции</VFEA_Isolationist.symbolPacks.0.theme>
+  <VFEA_Isolationist.symbolPacks.0.theme>ізоляції</VFEA_Isolationist.symbolPacks.0.theme>
 
   <!-- EN: secluded -->
-  <VFEA_Isolationist.symbolPacks.1.adjective>уединённый</VFEA_Isolationist.symbolPacks.1.adjective>
+  <VFEA_Isolationist.symbolPacks.1.adjective>усамітнений</VFEA_Isolationist.symbolPacks.1.adjective>
   <!-- EN: secludist -->
-  <VFEA_Isolationist.symbolPacks.1.member>уединившийся</VFEA_Isolationist.symbolPacks.1.member>
+  <VFEA_Isolationist.symbolPacks.1.member>самітник</VFEA_Isolationist.symbolPacks.1.member>
   <!-- EN: seclusion -->
-  <VFEA_Isolationist.symbolPacks.1.theme>уединения</VFEA_Isolationist.symbolPacks.1.theme>
+  <VFEA_Isolationist.symbolPacks.1.theme>усамітнення</VFEA_Isolationist.symbolPacks.1.theme>
 
   <!-- EN: secret -->
-  <VFEA_Isolationist.symbolPacks.2.adjective>секретный</VFEA_Isolationist.symbolPacks.2.adjective>
+  <VFEA_Isolationist.symbolPacks.2.adjective>таємний</VFEA_Isolationist.symbolPacks.2.adjective>
   <!-- EN: secret -->
-  <VFEA_Isolationist.symbolPacks.2.member>секретист</VFEA_Isolationist.symbolPacks.2.member>
+  <VFEA_Isolationist.symbolPacks.2.member>хранитель</VFEA_Isolationist.symbolPacks.2.member>
   <!-- EN: secret -->
-  <VFEA_Isolationist.symbolPacks.2.theme>секрета</VFEA_Isolationist.symbolPacks.2.theme>
+  <VFEA_Isolationist.symbolPacks.2.theme>таємниці</VFEA_Isolationist.symbolPacks.2.theme>
 </LanguageData>

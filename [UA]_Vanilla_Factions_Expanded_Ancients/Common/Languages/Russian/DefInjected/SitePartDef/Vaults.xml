@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: looted vault -->
-  <VFEA_LootedVault.label>разграбленное убежище</VFEA_LootedVault.label>
+  <VFEA_LootedVault.label>розграбоване сховище</VFEA_LootedVault.label>
   <!-- EN: A recently-discovered looted vault. -->
-  <VFEA_LootedVault.description>Недавно обнаруженное разграбленное убежище.</VFEA_LootedVault.description>
+  <VFEA_LootedVault.description>Нещодавно виявлене розграбоване сховище.</VFEA_LootedVault.description>
 
   <!-- EN: sealed vault -->
-  <VFEA_SealedVault.label>запечатанное убежище</VFEA_SealedVault.label>
+  <VFEA_SealedVault.label>запечатане сховище</VFEA_SealedVault.label>
   <!-- EN: A recently-discovered sealed vault. -->
-  <VFEA_SealedVault.description>Недавно обнаруженное запечатанное убежище.</VFEA_SealedVault.description>
+  <VFEA_SealedVault.description>Нещодавно виявлене запечатане сховище.</VFEA_SealedVault.description>
 
   <!-- EN: ennemies presence -->
-  <VFEA_AncientSoldierHostile.label>вражеское присутствие</VFEA_AncientSoldierHostile.label>
+  <VFEA_AncientSoldierHostile.label>ворожа присутність</VFEA_AncientSoldierHostile.label>
   <!-- EN: Ennemies are present in this place. -->
-  <VFEA_AncientSoldierHostile.description>Враги присутствуют в этом месте.</VFEA_AncientSoldierHostile.description>
+  <VFEA_AncientSoldierHostile.description>Вороги присутні у цьому місці.</VFEA_AncientSoldierHostile.description>
 </LanguageData>

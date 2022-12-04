@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: unstable -->
-  <Unstable.label>нестабильный</Unstable.label>
+  <Unstable.label>нестабільний</Unstable.label>
   <!-- EN: The subject’s brain has become highly tuned to psychic wavelengths, making them vulnerable to Mechanoid psychic attacks but also a far more capable psycaster. -->
-  <Unstable.description>Мозг субъекта стал слишком сосредоточен на психических волнах, что делает его уязвимым для гула механоидов, но позволяет быть более способным псиоником.</Unstable.description>
+  <Unstable.description>Мозок суб'єкта став надто зосереджений на психічних хвилях, що робить його вразливим для гулу механоїдів, але дозволяє бути більш здатним псіоніком.</Unstable.description>
 
   <!-- EN: extremely flammable -->
-  <ExtremelyFlammable.label>огнеопасный</ExtremelyFlammable.label>
+  <ExtremelyFlammable.label>вогненебезпечний</ExtremelyFlammable.label>
   <!-- EN: The subject’s entire body has become highly flammable, with the slightest spark being able to send them bursting into flames. -->
-  <ExtremelyFlammable.description>Всё тело субъекта стало легковоспламеняющимся. Теперь хватит и небольшой искры, чтобы поджечь его.</ExtremelyFlammable.description>
+  <ExtremelyFlammable.description>Все тіло суб'єкта стало легкозаймистим. Тепер вистачить і невеликої іскри, щоб підпалити його.</ExtremelyFlammable.description>
 
   <!-- EN: toxin intolerance -->
-  <ToxinIntolerance.label>восприимчивость химикатов</ToxinIntolerance.label>
+  <ToxinIntolerance.label>сприйнятливість хімікатів</ToxinIntolerance.label>
   <!-- EN: The subject’s organs are constantly lacking certain minerals (e.g. Iodine) and freely absorb them from the air, even if they're irradiated or bound to toxic chemicals. -->
-  <ToxinIntolerance.description>Органы субъекта постоянно испытывают хватку определённых минералов (например, йода) и стремятся восполнить её из воздуха, даже если он облучён или отравлен.</ToxinIntolerance.description>
+  <ToxinIntolerance.description>Органи суб'єкта постійно відчувають брак певних мінералів (наприклад, йоду) і прагнуть заповнити її з повітря, навіть якщо воно опромінене чи отруйне.</ToxinIntolerance.description>
 
   <!-- EN: heat intolerance -->
-  <HeatIntolerance.label>восприимчивость тепла</HeatIntolerance.label>
+  <HeatIntolerance.label>сприйнятливість тепла</HeatIntolerance.label>
   <!-- EN: The subject can no longer sweat properly, meaning they overheat very easily as their body can no longer cool itself. This lowers their maximum comfortable temperature by 10 degrees. -->
-  <HeatIntolerance.description>Субъект больше не может потеть из-за чего стал легче перегреваться. Максимальная комфортная температура снижена на 10 градусов.</HeatIntolerance.description>
+  <HeatIntolerance.description>Суб'єкт більше не може потіти, через що став легше перегріватися. Максимальна комфортна температура знижена на 10 градусів.</HeatIntolerance.description>
 
   <!-- EN: cold intolerance -->
-  <ColdIntolerance.label>восприимчивость холода</ColdIntolerance.label>
+  <ColdIntolerance.label>сприйнятливість холоду</ColdIntolerance.label>
   <!-- EN: The subject’s muscles no longer shiver involuntarily, meaning they can no longer warm themselves when exposed to cold temperatures. This raises their minimum comfortable temperature by 10 degrees. -->
-  <ColdIntolerance.description>Мышцы субъекта не способны вызывать дрожь из-за чего организм больше не может так согреваться. Минимальная комфортная температура повышена на 10 градусов.</ColdIntolerance.description>
+  <ColdIntolerance.description>М'язи суб'єкта не здатні викликати тремтіння, через що організм більше не може так зігріватися. Мінімальна комфортна температура підвищена на 10 градусів.</ColdIntolerance.description>
 
   <!-- EN: immunological disorder -->
-  <ImmunologicalDisorder.label>разрушенный иммунитет</ImmunologicalDisorder.label>
+  <ImmunologicalDisorder.label>зруйнований імунітет</ImmunologicalDisorder.label>
   <!-- EN: The subject’s immune system has been ruined, requiring them to take frequent medicine and receive constant medical care, as even the sniffles could kill them. -->
-  <ImmunologicalDisorder.description>Иммунная система субъекта была разрушена. Теперь ему необходим частый приём лекарств и постоянная медицинская помощь, так как даже насморк может убить его.</ImmunologicalDisorder.description>
+  <ImmunologicalDisorder.description>Імунну систему суб'єкта було зруйновано. Тепер йому необхідний частий прийом ліків та постійна медична допомога, оскільки навіть нежить може вбити його.</ImmunologicalDisorder.description>
 
   <!-- EN: finicky -->
-  <Finicky.label>перестраховщик</Finicky.label>
+  <Finicky.label>вибагливий</Finicky.label>
   <!-- EN: The subject has become incredibly fussy, demanding they pay extraneous attention to the most inconsequential of tasks and taking three times longer than usual. -->
-  <Finicky.description>Субъект стал чрезмерно требовательным к тому, как выполняются даже самые незначительные задачи и теперь они занимают в три раза больше времени.</Finicky.description>
+  <Finicky.description>Суб'єкт став надмірно вибагливим до того, як виконуються навіть найнезначніші завдання і тепер вони займають утричі більше часу.</Finicky.description>
 
   <!-- EN: unsure -->
-  <Unsure.label>неуверенный</Unsure.label>
+  <Unsure.label>невпевнений</Unsure.label>
   <!-- EN: The subject has become incredibly doubtful and suffers frequent dizzy spells, taking twice as long to acquire targets with their weapons as they re-check that they’re ready to fire. -->
-  <Unsure.description>Субъект стал невероятно часто сомневаться и страдать от приступов головокружения. Ему нужно в два раза больше времени для прицеливания из-за дополнительной проверки оружия.</Unsure.description>
+  <Unsure.description>Суб'єкт став неймовірно часто сумніватися та страждати від нападів запаморочення. Йому потрібно вдвічі більше часу для прицілювання через додаткову перевірку зброї.</Unsure.description>
 
   <!-- EN: always knows better -->
-  <AlwaysKnowsBetter.label>знает лучше всех</AlwaysKnowsBetter.label>
+  <AlwaysKnowsBetter.label>самовпевнений</AlwaysKnowsBetter.label>
   <!-- EN: The subject has developed a somewhat misplaced sense of pride due to their gene therapy and refuses to learn anything new, stating that they know better than everyone and no one can improve perfection. -->
-  <AlwaysKnowsBetter.description>Субъект развил несколько неуместное чувство гордости из-за своей генной терапии и теперь отказывается изучать что-либо новое, заявляя, что он всё знает лучше всех и ничто не улучшит совершенное знание.</AlwaysKnowsBetter.description>
+  <AlwaysKnowsBetter.description>Суб'єкт розвинув дещо недоречне почуття гордості через свою генну терапію і тепер відмовляється вивчати щось нове, заявляючи, що він все знає краще за всіх і ніщо не покращить досконале знання.</AlwaysKnowsBetter.description>
 </LanguageData>
