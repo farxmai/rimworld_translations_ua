@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: write books -->
+  <VBE_DoBillsWrite.label>писати книжки</VBE_DoBillsWrite.label>
+  <!-- EN: write -->
+  <VBE_DoBillsWrite.verb>писати використовючи</VBE_DoBillsWrite.verb>
+  <!-- EN: writing at -->
+  <VBE_DoBillsWrite.gerund>пише використовуючи</VBE_DoBillsWrite.gerund>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN: over 40ºC -->
+  <VGE_StatsReport_Over40>вище 40ºC</VGE_StatsReport_Over40>
+  <!-- EN: below 0ºC -->
+  <VGE_StatsReport_Below0>нижче 0ºC</VGE_StatsReport_Below0>
+  <!-- EN: armoured -->
+  <VGE_StatsReport_Armoured>укріплено</VGE_StatsReport_Armoured>
+  <!-- EN: no sunlight -->
+  <VGE_StatsReport_NoSunlight>без світла</VGE_StatsReport_NoSunlight>
+  <!-- EN: on water -->
+  <VGE_StatsReport_Water>на воді</VGE_StatsReport_Water>
+  <!-- EN: on dry land -->
+  <VGE_StatsReport_NotWater>на суші</VGE_StatsReport_NotWater>
+
+  <!-- EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid. -->
+  <VGE_EggPregnancy>Яйця {0} запліднені! Кладка яєць продовжиться після запліднення яйця.</VGE_EggPregnancy>
+  <!-- EN: {0} fertilized! -->
+  <VGE_EggPregnancyLabel>{0} запліднено!</VGE_EggPregnancyLabel>
+
+  <!-- EN: {0} has laid an egg! Keep it warm and protected. -->
+  <VGE_EggLaid>{0} {0_gender? зніс: знесла} яйце! Тримайте його в теплі та оберігайте.</VGE_EggLaid>
+  <!-- EN: {0} laid an egg! -->
+  <VGE_EggLaidLabel>{0} {0_gender? зніс: знесла} яйце!</VGE_EggLaidLabel>
+
+  <!-- EN: {0} has hatched from an egg! -->
+  <VGE_EggHatched>{0} {0_gender? вилупився: вилупилася} з яйця!</VGE_EggHatched>
+  <!-- EN: {0} hatched! -->
+  <VGE_EggHatchedLabel>{0} {0_gender? вилупився: вилупилася}!</VGE_EggHatchedLabel>
+
+  <!-- EN: Males don't lay eggs -->
+  <VGE_Male_Egg>Чоловічі особини не можуть відкладати яйця</VGE_Male_Egg>
+</LanguageData>

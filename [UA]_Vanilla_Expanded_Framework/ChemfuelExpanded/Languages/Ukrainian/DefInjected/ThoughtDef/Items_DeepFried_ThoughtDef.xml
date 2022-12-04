@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ate deep fried food -->
+  <CE_AteFriedGoods.stages.0.label>З'їдено страву у фритюрі</CE_AteFriedGoods.stages.0.label>
+  <!-- Greasy food. So delicious. -->
+  <CE_AteFriedGoods.stages.0.description>З'їдено смачну страву у фритюрі.</CE_AteFriedGoods.stages.0.description>
+
+</LanguageData>

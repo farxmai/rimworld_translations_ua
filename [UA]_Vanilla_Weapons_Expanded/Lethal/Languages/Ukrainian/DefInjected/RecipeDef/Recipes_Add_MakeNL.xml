@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_MeleeWeapon_StunBaton.label>зробити електрошокову палицю</Make_VWE_MeleeWeapon_StunBaton.label>
+  <Make_VWE_MeleeWeapon_StunBaton.description>зробити електрошокову палицю.</Make_VWE_MeleeWeapon_StunBaton.description>
+  <Make_VWE_MeleeWeapon_StunBaton.jobString>Виготовляє електрошокову палицю.</Make_VWE_MeleeWeapon_StunBaton.jobString>
+
+  <Make_VWE_Gun_TearGasLauncher.label>зробити газовий гранатомет</Make_VWE_Gun_TearGasLauncher.label>
+  <Make_VWE_Gun_TearGasLauncher.description>зробити газовий гранатомет.</Make_VWE_Gun_TearGasLauncher.description>
+  <Make_VWE_Gun_TearGasLauncher.jobString>Виготовляє газовий гранатомет.</Make_VWE_Gun_TearGasLauncher.jobString>
+
+  <Make_VWE_Gun_DartGun.label>зробити дротикомет</Make_VWE_Gun_DartGun.label>
+  <Make_VWE_Gun_DartGun.description>зробити дротикомет.</Make_VWE_Gun_DartGun.description>
+  <Make_VWE_Gun_DartGun.jobString>Виготовляє дротикомет</Make_VWE_Gun_DartGun.jobString>
+
+  <Make_VWE_Gun_RubberBulletPistol.label>зробити нелетальний пістолет</Make_VWE_Gun_RubberBulletPistol.label>
+  <Make_VWE_Gun_RubberBulletPistol.description>зробити нелетальний пістолет.</Make_VWE_Gun_RubberBulletPistol.description>
+  <Make_VWE_Gun_RubberBulletPistol.jobString>Виготовляє нелетальний пістолет</Make_VWE_Gun_RubberBulletPistol.jobString>
+
+  <Make_VWE_Gun_Taser.label>зробити електрошокер</Make_VWE_Gun_Taser.label>
+  <Make_VWE_Gun_Taser.description>зробити електрошокер.</Make_VWE_Gun_Taser.description>
+  <Make_VWE_Gun_Taser.jobString>Виготовляє електрошокер</Make_VWE_Gun_Taser.jobString>
+
+  <Make_VWE_TearGasGrenade.label>зробити гранату зі сльозогінним газом</Make_VWE_TearGasGrenade.label>
+  <Make_VWE_TearGasGrenade.description>зробити гранату зі сльозогінним газом.</Make_VWE_TearGasGrenade.description>
+  <Make_VWE_TearGasGrenade.jobString>Виготовляє гранату зі сльозогінним газом</Make_VWE_TearGasGrenade.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: awkward violent conversion -->
+  <VME_AwkwardViolentConversion.stages.0.label>незграбне звернення</VME_AwkwardViolentConversion.stages.0.label>
+  <!-- EN: That violent conversion was awkward. The words were vague and unconvincing. -->
+  <VME_AwkwardViolentConversion.stages.0.description>Примусове звернення виявилося незграбним, а слова, що вимовлялися, були розпливчастими і непереконливими.</VME_AwkwardViolentConversion.stages.0.description>
+
+  <!-- EN: satisfying violent conversion -->
+  <VME_SatisfyingViolentConversion.stages.0.label>задовільне звернення</VME_SatisfyingViolentConversion.stages.0.label>
+  <!-- EN: That violent conversion was satisfying. The speech was stirring and enjoyable to listen to. -->
+  <VME_SatisfyingViolentConversion.stages.0.description>Примусове звернення було задовільним, мова була захоплюючою та приємною.</VME_SatisfyingViolentConversion.stages.0.description>
+
+  <!-- EN: spectacular violent conversion -->
+  <VME_SpectacularViolentConversion.stages.0.label>дивовижне обращение</VME_SpectacularViolentConversion.stages.0.label>
+  <!-- EN: That violent conversion was electrifying! Surely our beliefs will prevail over any others! -->
+  <VME_SpectacularViolentConversion.stages.0.description>Примусове звернення було дивовижним! Наші переконання візьмуть гору над будь-якими іншими!</VME_SpectacularViolentConversion.stages.0.description>
+</LanguageData>

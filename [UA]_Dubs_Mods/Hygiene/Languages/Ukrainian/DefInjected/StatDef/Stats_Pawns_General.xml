@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThirstRateMultiplier.label>коефіцієнт спраги</ThirstRateMultiplier.label>
+  <ThirstRateMultiplier.description>Множник того, як швидко істота відчуває спрагу.</ThirstRateMultiplier.description>
+
+  <HygieneRateMultiplier.label>коефіцієнт гігієни</HygieneRateMultiplier.label>
+  <HygieneRateMultiplier.description>Коефіцієнт того, як швидко падає рівень гігієни істот.</HygieneRateMultiplier.description>
+
+  <BladderRateMultiplier.label>коефіцієнт потреби туалету</BladderRateMultiplier.label>
+  <BladderRateMultiplier.description>Множник того, як швидко падає рівень потреби в сечовому міхурі істот.</BladderRateMultiplier.description>
+
+</LanguageData>

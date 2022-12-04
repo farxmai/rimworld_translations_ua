@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boombat -->
+
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <AEXP_Boombat.description>В результаті якогось божевільного експерименту ці милі пухнасті гризуні стали ходячою бомбою. Будучи вбити вони справляють потужний вибух, що спалахує все навколо.</AEXP_Boombat.description>
+  <AEXP_Boombat.tools.0.label>ліва лапа</AEXP_Boombat.tools.0.label>
+  <AEXP_Boombat.tools.1.label>права лапа</AEXP_Boombat.tools.1.label>
+  <AEXP_Boombat.tools.2.label>зуби</AEXP_Boombat.tools.2.label>
+  <AEXP_Boombat.tools.3.label>голова</AEXP_Boombat.tools.3.label>
+
+
+  <!-- Kangaroo -->
+
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  <AEXP_Kangaroo.description>Кенгуру - велика сумчаста тварина розміром з людину, з сильними ногами та потужними руками. На нього полюють племена через ніжне м'ясо та термостійку шкіру. Кенгуру – сильні противники у рукопашному бою. Їх можна легко навчити, щоб перетворити на суперсолдат.</AEXP_Kangaroo.description>
+  <AEXP_Kangaroo.tools.0.label>ліва лапа</AEXP_Kangaroo.tools.0.label>
+  <AEXP_Kangaroo.tools.1.label>права лапа</AEXP_Kangaroo.tools.1.label>
+  <AEXP_Kangaroo.tools.2.label>зуби</AEXP_Kangaroo.tools.2.label>
+  <AEXP_Kangaroo.tools.3.label>голова</AEXP_Kangaroo.tools.3.label>
+  <AEXP_Kangaroo.race.meatLabel>м'ясо кенгуру</AEXP_Kangaroo.race.meatLabel>
+
+
+  <!-- Koala -->
+
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <AEXP_Koala.description>Коал легко впізнати за міцним тілом та великим круглим головам з пухнастими вухами. Зазвичай вони мешкають у посушливих помірних лісах, але рідко зустрічаються у тропічних районах. Коал люблять королівські сім'ї - вони є відмінними домашніми вихованцями через їхній чудовий нюх.</AEXP_Koala.description>
+  <AEXP_Koala.tools.0.label>ліва лапа</AEXP_Koala.tools.0.label>
+  <AEXP_Koala.tools.1.label>права лапа</AEXP_Koala.tools.1.label>
+  <AEXP_Koala.tools.2.label>зуби</AEXP_Koala.tools.2.label>
+  <AEXP_Koala.tools.3.label>голова</AEXP_Koala.tools.3.label>
+  <AEXP_Koala.race.meatLabel>м'ясо коали</AEXP_Koala.race.meatLabel>
+
+
+  <!-- Platypus -->
+
+  <AEXP_Platypus.label>качкодзьоб</AEXP_Platypus.label>
+  <AEXP_Platypus.description>Качкодзьоб - єдиний представник свого сімейства тварин, що вижив. Ці хвостаті ссавці, схожі на бобрів, мають качину дзьоб і відкладають яйця. Качкодзьобі всеїдні і здатні вбивати дрібних гризунів своїми отруйними шпорами, розміщеними на задніх лапах.</AEXP_Platypus.description>
+  <AEXP_Platypus.tools.0.label>ліва лапа</AEXP_Platypus.tools.0.label>
+  <AEXP_Platypus.tools.1.label>права лапа</AEXP_Platypus.tools.1.label>
+  <AEXP_Platypus.tools.2.label>задняя ліва шпора</AEXP_Platypus.tools.2.label>
+  <AEXP_Platypus.tools.3.label>задняя права шпора</AEXP_Platypus.tools.3.label>
+  <AEXP_Platypus.tools.4.label>голова</AEXP_Platypus.tools.4.label>
+  <AEXP_Platypus.race.meatLabel>м'ясо качкодзьоба</AEXP_Platypus.race.meatLabel>
+
+
+</LanguageData>

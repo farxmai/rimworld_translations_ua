@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Barrier.label>бар'єр</VFES_Barrier.label>
+  <VFES_Barrier.description>Металева барикада, що утримується бетонним каркасом. Забезпечує відмінне укриття від далеких атак.</VFES_Barrier.description>
+
+  <VFES_Turret_ChargeComplex.label>стаціонарний енргокулемет</VFES_Turret_ChargeComplex.label>
+  <VFES_Turret_ChargeComplex.description>Стаціонарна важка енерготурель.</VFES_Turret_ChargeComplex.description>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>Пострілів до заміни батареї</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>Заряд батареї</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібна заміна батареї</VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_ChargeComplex.label>стаціонарний енргокулемет</VFES_Gun_ChargeComplex.label>
+  <VFES_Gun_ChargeComplex.description>Стаціонарна важка енерготурель.</VFES_Gun_ChargeComplex.description>
+
+  <VFES_Bullet_ChargeComplex.label>енергоснаряд</VFES_Bullet_ChargeComplex.label>
+
+</LanguageData>

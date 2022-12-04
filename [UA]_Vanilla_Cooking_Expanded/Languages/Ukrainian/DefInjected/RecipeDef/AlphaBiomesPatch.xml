@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryAlienFish.label>приготувати інопланетну рибу у фритюрі x20</VCE_DeepFryAlienFish.label>
+  <VCE_DeepFryAlienFish.description>Приготувати інопланетну рибу у фритюрі.</VCE_DeepFryAlienFish.description>
+  <VCE_DeepFryAlienFish.jobString>готує інопланетну рибу у фритюрі x20</VCE_DeepFryAlienFish.jobString>
+
+  <VCE_CanAlienFish.label>законсервувати інопланетну рибу x20</VCE_CanAlienFish.label>
+  <VCE_CanAlienFish.description>Законсервувати інопланетну рибу.</VCE_CanAlienFish.description>
+  <VCE_CanAlienFish.jobString>консервує інопланетну рибу x20</VCE_CanAlienFish.jobString>
+
+</LanguageData>

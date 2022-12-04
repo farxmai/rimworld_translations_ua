@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleGrill.label>простий гриль</VCE_SimpleGrill.label>
+  <VCE_SimpleGrill.description>Просте м'ясо на грилі, що швидко приготоване з декількох інгредієнтів. Дуже ситне м'ясо на грилі дозволяє довго не відчувати голоду. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль ще гарячий і знагодиться на вершині своїх смакових ознак.</VCE_SimpleGrill.description>
+
+  <VCE_RuinedSimpleGrill.label>остиглий простий гриль</VCE_RuinedSimpleGrill.label>
+  <VCE_RuinedSimpleGrill.description>Просте м'ясо на грилі, що швидко приготоване з декількох інгредієнтів. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль охолонув, він все ще їстівний, але набагато менш смачний.</VCE_RuinedSimpleGrill.description>
+
+  <VCE_FineGrill.label>чудовий гриль</VCE_FineGrill.label>
+  <VCE_FineGrill.description>Комплексне м'ясо на грилі. Дуже ситне м'ясо на грилі дозволяє довго не відчувати голоду. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль ще гарячий і знагодиться на вершині своїх смакових ознак.</VCE_FineGrill.description>
+
+  <VCE_RuinedFineGrill.label>остиглий чудовий гриль</VCE_RuinedFineGrill.label>
+  <VCE_RuinedFineGrill.description>Комплексне м'ясо на грилі. Дуже ситне м'ясо на грилі дозволяє довго не відчувати голоду. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль охолонув, він все ще їстівний, але набагато менш смачний.</VCE_RuinedFineGrill.description>
+
+  <VCE_LavishGrill.label>вишуканий гриль</VCE_LavishGrill.label>
+  <VCE_LavishGrill.description>Цей шедевр кулінарного мистецтва живить тіло, розум та душу. Дуже ситне м'ясо на грилі дозволяє довго не відчувати голоду. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль ще гарячий і знагодиться на вершині своїх смакових ознак.</VCE_LavishGrill.description>
+
+  <VCE_RuinedLavishGrill.label>остиглий вишуканий гриль</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedLavishGrill.description>Цей шедевр кулінарного мистецтва живить тіло, розум та душу. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль охолонув, він все ще їстівний, але набагато менш смачний.</VCE_RuinedLavishGrill.description>
+
+  <VCE_GourmetGrill.label>першокласний гриль</VCE_GourmetGrill.label>
+  <VCE_GourmetGrill.description>Вершина кулінарного мистецтва.Дуже ситне м'ясо на грилі дозволяє довго не відчувати голоду. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль ще гарячий і знагодиться на вершині своїх смакових ознак.</VCE_GourmetGrill.description>
+
+  <VCE_RuinedGourmetGrill.label>остиглий першокласний гриль</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedGourmetGrill.description>Вершина кулінарного мистецтва. \n\n&lt;color=#E5E54C&gt;Стан: &lt;/color&gt; Цей гриль охолонув, він все ще їстівний, але набагато менш смачний.</VCE_RuinedGourmetGrill.description>
+
+</LanguageData>

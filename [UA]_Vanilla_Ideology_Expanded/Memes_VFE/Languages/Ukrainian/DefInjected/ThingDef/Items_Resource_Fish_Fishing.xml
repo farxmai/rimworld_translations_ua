@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: crayfish (adept catch) -->
+  <VCEF_CrayfishItem.label>рак (експертний улов)</VCEF_CrayfishItem.label>
+  <!-- EN: Raw crayfish. Crayfish are freshwater crustaceans resembling small lobsters (to which they are related). Some species are found in brooks and streams, where fresh water is running, while others thrive in swamps, ditches, and paddy fields.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_CrayfishItem.description>Річковий рак є прісноводним ракоподібним, що мешкає в річках, озерах та болотах.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_CrayfishItem.description>
+
+  <!-- EN: butterfish (adept catch) -->
+  <VCEF_ButterFishItem.label>масляна риба (експертний улов)</VCEF_ButterFishItem.label>
+  <!-- EN: Raw Atlantic butterfish. The Atlantic butterfish is distinguished by its very thin, deep body, resembling a flounder on edge. It earned its buttery name from its high oil content.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_ButterFishItem.description>Атлантична риба з великим, але плоским тілом. Названа так через великий вміст олії.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_ButterFishItem.description>
+
+  <!-- EN: freshwater stingray (adept catch) -->
+  <VCEF_FreshwaterStingrayItem.label>прісноводний скат (експертний улов)</VCEF_FreshwaterStingrayItem.label>
+  <!-- EN:Raw freshwater stingray. Freshwater stingrays are one of the only rays inhabiting freshwater rather than saltwater. Though docile animals, they were responsiblein old Earth for more injuries to humans each year than any other Amazonian species.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_FreshwaterStingrayItem.description>Прісноводні скати - це один з небагатьох видів скатів, що мешкає в прісній, а не в солоній воді. Незважаючи на свій зовнішній вигляд, на старій Землі щороку завдавали людям більше шкоди, ніж будь-який інший вид річки Амазонки.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_FreshwaterStingrayItem.description>
+
+  <!-- EN: flying fish (adept catch) -->
+  <VCEF_FlyingFishItem.label>летюча риба (експертний улов)</VCEF_FlyingFishItem.label>
+  <!-- EN: Raw flying fish. While they cannot fly in the same way a bird does, flying fish can make powerful, self-propelled leaps out of the water where their long wing-like fins enable gliding for considerable distances above the water's surface.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_FlyingFishItem.description>Не може літати, як птах, але може робити потужні стрибки з води та ковзати над поверхнею води за рахунок довгих, схожих на крила плавників.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_FlyingFishItem.description>
+
+  <!-- EN: arapaima (adept catch) -->
+  <VCEF_ArapaimaItem.label>арапайма (експертний улов)</VCEF_ArapaimaItem.label>
+  <!-- EN: Raw arapaima. On old Earth, it was among the world's largest freshwater fish, reaching as much as 3 m in length. It was an important food fish.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_ArapaimaItem.description>На старій Землі була однією з найбільших прісноводних риб, досягаючи 3 метри завдовжки. Була значною промисловою рибою.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_ArapaimaItem.description>
+
+  <!-- EN: shortfin mako shark (adept catch) -->
+  <VCEF_ShortfinMakoSharkItem.label>акула-мако (експертний улов)</VCEF_ShortfinMakoSharkItem.label>
+  <!-- EN: Raw shortfin mako shark. A large, predatory shark that lives in the open ocean and is often considered the fastest shark. It is known for its incredible leaping ability and can be observed jumping to extreme heights (out of the water) when hunting.\n\nThis is an adept catch and provides double nutrition than other fish in their size category. -->
+  <VCEF_ShortfinMakoSharkItem.description>Велика хижа акула, що мешкає у відкритому океані і вважається найшвидшою акулою. Відома своєю неймовірною здатністю до стрибків на велику відстань під час полювання.\n\nЦя риба є "експертним уловом" і дає подвійну поживність щодо інших риб цього розміру.</VCEF_ShortfinMakoSharkItem.description>
+</LanguageData>

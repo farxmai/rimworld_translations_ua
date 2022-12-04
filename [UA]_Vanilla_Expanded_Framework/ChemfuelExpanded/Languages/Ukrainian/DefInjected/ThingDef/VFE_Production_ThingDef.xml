@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- large chemfuel stove -->
+  <CA_ChemfuelStoveLarge.label>велика хімпаливна плита</CA_ChemfuelStoveLarge.label>
+  <!-- A large size manufacturing stove with multiple ovens that run on chemfuel to prepare meals and cook significantly faster. -->
+  <CA_ChemfuelStoveLarge.description>Велика хімпаливна плита для приготування їжі.</CA_ChemfuelStoveLarge.description>
+
+  <!-- large chemfuel-powered smithy -->
+  <CE_FueledSmithyLarge.label>велика хімпаливна кузня</CE_FueledSmithyLarge.label>
+  <!-- A huge chemfuel-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of chemfuel. -->
+  <CE_FueledSmithyLarge.description>Велика хімпаливна кузня для кування немеханічної зброї та інструментів. Споживає багато хімпалива.</CE_FueledSmithyLarge.description>
+
+</LanguageData>

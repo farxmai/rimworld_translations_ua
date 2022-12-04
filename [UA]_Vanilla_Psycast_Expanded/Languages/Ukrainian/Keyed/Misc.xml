@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagData>
+  <!-- EN: Must target a battery -->
+  <VPE.MustTargetBattery>Необхідно вибрати батарею</VPE.MustTargetBattery>
+  <!-- EN: Stop Hurricane -->
+  <VPE.StopHurricane>Зупинити ураган</VPE.StopHurricane>
+  <!-- EN: No nearby chunk -->
+  <VPE.NoChunks>Немає уламків неподалік</VPE.NoChunks>
+  <!-- EN: {PAWN_nameDef} must have living family members. -->
+  <VPE.MustHaveLivingFamilyMembers>У {PAWN_nameDef} повинні бути живі родичі.</VPE.MustHaveLivingFamilyMembers>
+  <!-- EN: {0} things at level {1} -->
+  <VPE.ThingsOfLevel>{0} предметів рівня {1}</VPE.ThingsOfLevel>
+  <!-- EN: Not enough value, must be worth at least $1 per item.< -->
+  <VPE.TooCheap>Немає ринкової ціни. Потрібна цінність не менше $1 за од.</VPE.TooCheap>
+  <!-- EN: Break Link -->
+  <VPE_BreakLink>Розірвати зв'язок</VPE_BreakLink>
+  <!-- EN: Break the link and immediately kill this construct -->
+  <VPE_BreakLinkDesc>Розірвати зв'язок і негайно знищити цей конструкт</VPE_BreakLinkDesc>
+  <!-- EN: Next PsySet -->
+  <VPE.PsySetNext>Наступний набір</VPE.PsySetNext>
+  <!-- EN: Previous PsySet< -->
+  <VPE.PsySetPrev>Попередній набір</VPE.PsySetPrev>
+  <!-- EN: Nearby -->
+  <VPE.Nearby>Навколо</VPE.Nearby>
+  <!-- EN: {0} wealth nearby out of {1} total wealth -->
+  <VPE.WealthNearby>{0} багатства навколо з {1} багатства загалом</VPE.WealthNearby>
+  <!-- EN: {0} other pawns nearby -->
+  <VPE.GroupFocus>{0} колоністів навколо</VPE.GroupFocus>
+  <!-- EN: All -->
+  <VPE.All>Все</VPE.All>
+  <!-- EN: Move to the next PsySet. Right click to choose a specific one.\nCurrent: {0}, Next: {1} -->
+  <VPE.PsySetDesc>Перейти до наступного набору. Правою кнопкою можна вибрати конкретний.\nПоточний: {0}, Наступний: {1}</VPE.PsySetDesc>
+  <!-- EN: Target must have quality -->
+  <VPE.MustHaveQuality>Ціль повинна мати рівень якості</VPE.MustHaveQuality>
+  <!-- EN: Target quality too high, must be lower than Excellent. -->
+  <VPE.QualityTooHigh>Якість має бути нижчою, ніж «майстерна».</VPE.QualityTooHigh>
+  <!-- EN: Not enough neural heat available -->
+  <VPE.NotEnoughHeat>Занадто високий рівень псі-напруги.</VPE.NotEnoughHeat>
+  <!-- EN: Must consume power. -->
+  <VPE.MustConsumePower>Потрібно поглинути енергію.</VPE.MustConsumePower>
+  <!-- EN: Target a stone chunk -->
+  <VPE.MustBeStoneChunk>Виберіть уламок</VPE.MustBeStoneChunk>
+  <!-- EN: Target steel slag -->
+  <VPE.MustBeSteelSlag>Виберіть металобрухт</VPE.MustBeSteelSlag>
+  <!-- EN: Psylink level gained: {0} -->
+  <VPE.PsylinkGained>Отримано рівень псі-зв'язку: {0}</VPE.PsylinkGained>
+  <!-- EN: {0} has gained a new level of psylink. Upon reaching that level, {1} raised psycasting-related stats slightly. {1} can now also allocate a point to either learn a new psycast, improve psycasting stats further or unlock a new meditation focus.\n\nPsycasting experience needed for next level is: {2}.</VPE.PsylinkGained.Desc>
+  <VPE.UnlockedByPoints>Unlocked via Psycaster points -->
+  <VPE.PsylinkGained.Desc>{0} {0_gender ? отримав : отримала} новий рівень псі-зв'язку. Досягши його, {1} {1_gender ? покращив : покращила} характеристики, пов'язані з псі-здібностями. {1} тепер може витратити очко навичок, щоб відкрити нову псі-здібність, покращити характеристики або відкрити новий тип медитації.\n\nДля наступного рівня знадобиться {2} очок досвіду.</VPE.PsylinkGained.Desc>
+  <!-- EN: Unlocked via Psycaster points -->
+  <VPE.UnlockedByPoints>Відкрито за очки псіоніка</VPE.UnlockedByPoints>
+  <!-- EN: Must target eltex -->
+  <VPE.MustEltex>Необхідно вибрати ельтекс</VPE.MustEltex>
+  <!-- EN: Not a psycaster -->
+  <VPE.NotPsycaster>Не є псіоніком</VPE.NotPsycaster>
+  <!-- EN: Already wearing a psyring -->
+  <VPE.AlreadyPsyring>Вже носить псі-перстень</VPE.AlreadyPsyring>
+  <!-- EN: Must be researchable -->
+  <VPE.Research>Повиннао бути доступним для дослідження</VPE.Research>
+  <!-- EN: Already researched -->
+  <VPE.AlreadyResearch>Вже вивчено</VPE.AlreadyResearch>
+  <!-- EN: Target must be ally or neutral. -->
+  <VPE.MustBeAllyOrNeutral>Ціль не має бути ворожою.</VPE.MustBeAllyOrNeutral>
+  <!-- EN: Target must be downed. -->
+  <VPE.MustBeDowned>Ціль має бути вбито.</VPE.MustBeDowned>
+  <!-- EN: Target must have at least one psycaster level. -->
+  <VPE.MustHavePsychicLevel>Ціль повинна мати, щонайменше 1 рівень псі-зв'язку.</VPE.MustHavePsychicLevel>
+  <!-- EN: Must have at least {0} neural heat. -->
+  <VPE.MustHaveHeatAmount>Необхідно, щонайменше, {0} псі-напруги.</VPE.MustHaveHeatAmount>
+  <!-- EN: Target must be corpse. -->
+  <VPE.MustBeCorpse>Необхідно вибрати тіло.</VPE.MustBeCorpse>
+  <!-- EN: Corpse must be humanlike. -->
+  <VPE.MustBeCorpseHumanlike>Тіло має належати людині.</VPE.MustBeCorpseHumanlike>
+  <!-- EN: Pack Summoned! -->
+  <VPE.PackSummon>Зграя наближається!</VPE.PackSummon>
+  <!-- EN: A pack of wild animals have been summoned by {0} to defend the colony. -->
+  <VPE.PackSummon.Desc>Дикі тварини були покликані {0} для захисту поселення.</VPE.PackSummon.Desc>
+  <!-- EN: No available fingers -->
+  <VPE.NoAvailableFingers>Немає доступних пальців</VPE.NoAvailableFingers>
+  <!-- EN: Currently channeling {0} -->
+  <VPE.CurrentChanneling>Вже відкрито канал з {0}</VPE.CurrentChanneling>
+  <!-- EN: Target must in the dark -->
+  <VPE.MustBeInDark>Ціль має бути в темряві</VPE.MustBeInDark>
+  <!-- EN: Must be a psycaster -->
+  <VPE.MustBePsycaster>Потрібен псіонік</VPE.MustBePsycaster>
+  <!-- EN: Already knows {0} -->
+  <VPE.AlreadyHasPsycast>Вже вивчено {0}</VPE.AlreadyHasPsycast>
+</LanguagData>

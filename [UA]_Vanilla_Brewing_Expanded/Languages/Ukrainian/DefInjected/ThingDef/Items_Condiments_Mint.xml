@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_MintPlant.label>м'ята</VBE_MintPlant.label>
+	<VBE_MintPlant.description>Листя м'яти відоме своєю охолоджувальною дією на ротову порожнину, а також тим, що його легко додавати в чаї або делікатно ними прикрашати страви. Цвіте у приміщенні та у квіткових горщиках, при цьому на неї приємно дивитися.</VBE_MintPlant.description>
+
+	<VBE_MintLeaves.label>листя м'яти</VBE_MintLeaves.label>
+	<VBE_MintLeaves.description>Листя м'яти відоме своєю охолоджувальною дією на ротову порожнину, а також тим, що його легко додавати в чаї або делікатно ними прикрашати страви. Листя м'яти досить швидко гниє.</VBE_MintLeaves.description>
+
+
+	<VCE_ConsumedMintLeaves.label>з'їв(ла) м'яту</VCE_ConsumedMintLeaves.label>
+	<VCE_ConsumedMintLeaves.description>Свіжий подих!</VCE_ConsumedMintLeaves.description>
+
+
+	<VCE_ConsumedMintLeaves.label>з'їв(ла) страву із м'ятою</VCE_ConsumedMintLeaves.label>
+	<VCE_ConsumedMintLeaves.description>З'їв кілька свіжих листків м'яти.</VCE_ConsumedMintLeaves.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Reloading.Unload>Розрядити {GEAR_labelShort}</Reloading.Unload>
+    <Reloading.NoAmmo>Без набоїв</Reloading.NoAmmo>
+    <Reloading.Ammo>Набої: {0} / {1}</Reloading.Ammo>
+    <Reloading.Reload>Перезарядити {AMMO_label} у {GEAR_label}</Reloading.Reload>
+</LanguageData>

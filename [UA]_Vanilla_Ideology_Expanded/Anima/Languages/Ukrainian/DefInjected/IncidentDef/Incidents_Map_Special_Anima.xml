@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Anima pod sprout -->
+  <GauranlenPodSpawn.label>паросток вузлового дерева</GauranlenPodSpawn.label>
+  <!-- EN: Anima pod sprout -->
+  <GauranlenPodSpawn.letterLabel>паросток вузлового дерева</GauranlenPodSpawn.letterLabel>
+  <!-- EN: An Anima pod has sprouted nearby!\n\nHarvest it to collect an Anima seed. This special seed can be used to plant the majestic Anima Nexus tree.\n\nYour colonists can connect with Anima Nexus trees and make them spawn resources and helpful dryads to work or fight for you. -->
+  <GauranlenPodSpawn.letterText>Неподалік з'явився паросток із насіннєвою коробкою вузлового древа душі\n\nЗберіть його, щоб отримати насіння вузлового дерева, яке можна використовувати для посадки дивовижного вузлового древа душі.\n\nВаші колоністи можуть провести ритуал зв'язування з деревом, щоб отримувати від нього ресурси та помічників у бою.</GauranlenPodSpawn.letterText>
+</LanguageData>

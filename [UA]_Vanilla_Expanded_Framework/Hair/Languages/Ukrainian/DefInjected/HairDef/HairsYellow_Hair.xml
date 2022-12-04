@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dreadlock -->
+  <VHE_Dreadlock.label>дреди</VHE_Dreadlock.label>
+  <!-- EN: mystic -->
+  <VHE_Mystic.label>містик</VHE_Mystic.label>
+  <!-- EN: straight -->
+  <VHE_Straight.label>прямі</VHE_Straight.label>
+  <!-- EN: twisted -->
+  <VHE_Twisted.label>переплетена</VHE_Twisted.label>
+  <!-- EN: wrap -->
+  <VHE_Wrap.label>загорнута</VHE_Wrap.label>
+  <!-- EN: barren -->
+  <VHE_Barren.label>пустка</VHE_Barren.label>
+  <!-- EN: battle braids -->
+  <VHE_BattleBraids.label>бойові коси</VHE_BattleBraids.label>
+  <!-- EN: scorpion king -->
+  <VHE_ScorpionKing.label>цар скорпіонів</VHE_ScorpionKing.label>
+  <!-- EN: tufthawk -->
+  <VHE_TuftHawk.label>ірокез пучком</VHE_TuftHawk.label>
+  <!-- EN: wilderness -->
+  <VHE_Wilderness.label>нетрі</VHE_Wilderness.label>
+  <!-- EN: braided hawk -->
+  <VHE_BraidedHawk.label>ірокез з косою</VHE_BraidedHawk.label>
+  <!-- EN: fire keepe -->
+  <VHE_FireKeeper.label>зберігач вогню</VHE_FireKeeper.label>
+  <!-- EN: hunter -->
+  <VHE_Hunter.label>мисливець</VHE_Hunter.label>
+  <!-- EN: tribal -->
+  <VHE_Tribal.label>племінна</VHE_Tribal.label>
+  <!-- EN: warrior -->
+  <VHE_Warrior.label>воїн</VHE_Warrior.label>
+  <!-- EN: battle knot -->
+  <VHE_BattleBraid.label>бойовий вузол</VHE_BattleBraid.label>
+  <!-- EN: double hawk -->
+  <VHE_DoubleHawk.label>подвійний ірокез</VHE_DoubleHawk.label>
+  <!-- EN: half-shaved -->
+  <VHE_HalfShaved.label>недострижений</VHE_HalfShaved.label>
+  <!-- EN: tower -->
+  <VHE_Tower.label>вежа</VHE_Tower.label>
+  <!-- EN: spikey -->
+  <VHE_Spikey.label>колючка</VHE_Spikey.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eltex meteorite -->
+  <VPE_EltexMeteorite.label>метеорит з ельтексом</VPE_EltexMeteorite.label>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of eltex. Eltex can be used to create psyfocus-enhancing gear, or sold to the Empire to gain honor. -->
+  <VPE_EltexMeteorite.letterText>Великий метеорит упав неподалік. У місці падіння можна знайти поклади ельтексу. Ельтекс можна використовувати для створення спорядження, яке покращує псіконцентрацію, або продати Імперії за прихильність корони.</VPE_EltexMeteorite.letterText>
+  <!-- EN: Eltex Meteorite -->
+  <VPE_EltexMeteorite.letterLabel>Метеорит з ельтексом</VPE_EltexMeteorite.letterLabel>
+</LanguageData>

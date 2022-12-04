@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fleshcrafted arm -->
+  <VME_FleshcraftedArmHediff.label>рука з плоті</VME_FleshcraftedArmHediff.label>
+  <!-- EN: a fleshcrafted arm -->
+  <VME_FleshcraftedArmHediff.labelNoun>рука з плоті</VME_FleshcraftedArmHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted arm. -->
+  <VME_FleshcraftedArmHediff.description>Вживлена рука з плоті.</VME_FleshcraftedArmHediff.description>
+  <!-- EN: fist -->
+  <VME_FleshcraftedArmHediff.comps.0.tools.0.label>кулак</VME_FleshcraftedArmHediff.comps.0.tools.0.label>
+
+  <!-- EN: fleshcrafted hand -->
+  <VME_FleshcraftedHandHediff.label>кисть з плоті</VME_FleshcraftedHandHediff.label>
+  <!-- EN: a fleshcrafted hand -->
+  <VME_FleshcraftedHandHediff.labelNoun>кисть з плоті</VME_FleshcraftedHandHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted hand. -->
+  <VME_FleshcraftedHandHediff.description>Вживлена кисть з плоті.</VME_FleshcraftedHandHediff.description>
+  <!-- EN: fist -->
+  <VME_FleshcraftedHandHediff.comps.0.tools.0.label>кулак</VME_FleshcraftedHandHediff.comps.0.tools.0.label>
+
+  <!-- EN: fleshcrafted finger -->
+  <VME_FleshcraftedFingerHediff.label>великий палець з плоті</VME_FleshcraftedFingerHediff.label>
+  <!-- EN: a fleshcrafted finger -->
+  <VME_FleshcraftedFingerHediff.labelNoun>великий палець з плоті</VME_FleshcraftedFingerHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted finger. -->
+  <VME_FleshcraftedFingerHediff.description>Вживлений великий палець з плоті.</VME_FleshcraftedFingerHediff.description>
+
+  <!-- EN: fleshcrafted toe -->
+  <VME_FleshcraftedToeHediff.label>палець ноги з плоті</VME_FleshcraftedToeHediff.label>
+  <!-- EN: a fleshcrafted toe -->
+  <VME_FleshcraftedToeHediff.labelNoun>палець ноги з плоті</VME_FleshcraftedToeHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted toe. -->
+  <VME_FleshcraftedToeHediff.description>Вживлений палець ноги з плоті.</VME_FleshcraftedToeHediff.description>
+
+  <!-- EN: fleshcrafted foot -->
+  <VME_FleshcraftedFootHediff.label>стопа з плоті</VME_FleshcraftedFootHediff.label>
+  <!-- EN: a fleshcrafted foot -->
+  <VME_FleshcraftedFootHediff.labelNoun>стопа з плоті</VME_FleshcraftedFootHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted foot. -->
+  <VME_FleshcraftedFootHediff.description>Вживлена стопа з плоті.</VME_FleshcraftedFootHediff.description>
+
+  <!-- EN: fleshcrafted leg -->
+  <VME_FleshcraftedLegHediff.label>нога з плоті</VME_FleshcraftedLegHediff.label>
+  <!-- EN: a fleshcrafted leg -->
+  <VME_FleshcraftedLegHediff.labelNoun>нога з плоті</VME_FleshcraftedLegHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted leg. -->
+  <VME_FleshcraftedLegHediff.description>Вживлена нога з плоті.</VME_FleshcraftedLegHediff.description>
+
+  <!-- EN: fleshcrafted heart -->
+  <VME_FleshcraftedHeartHediff.label>серце з плоті</VME_FleshcraftedHeartHediff.label>
+  <!-- EN: a fleshcrafted heart -->
+  <VME_FleshcraftedHeartHediff.labelNoun>серце з плоті</VME_FleshcraftedHeartHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted heart. -->
+  <VME_FleshcraftedHeartHediff.description>Вживлене серце з плоті.</VME_FleshcraftedHeartHediff.description>
+
+  <!-- EN: fleshcrafted lung -->
+  <VME_FleshcraftedLungHediff.label>легеня з плоті</VME_FleshcraftedLungHediff.label>
+  <!-- EN: a fleshcrafted lung -->
+  <VME_FleshcraftedLungHediff.labelNoun>легеня з плоті</VME_FleshcraftedLungHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted lung. -->
+  <VME_FleshcraftedLungHediff.description>Вживлена легеня з плоті.</VME_FleshcraftedLungHediff.description>
+
+  <!-- EN: fleshcrafted kidney -->
+  <VME_FleshcraftedKidneyHediff.label>нирка з плоті</VME_FleshcraftedKidneyHediff.label>
+  <!-- EN: a fleshcrafted kidney -->
+  <VME_FleshcraftedKidneyHediff.labelNoun>нирка з плоті</VME_FleshcraftedKidneyHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted kidney. -->
+  <VME_FleshcraftedKidneyHediff.description>Вживлена нирка з плоті.</VME_FleshcraftedKidneyHediff.description>
+
+  <!-- EN: fleshcrafted liver -->
+  <VME_FleshcraftedLiverHediff.label>печінка з плоті</VME_FleshcraftedLiverHediff.label>
+  <!-- EN: a fleshcrafted liver -->
+  <VME_FleshcraftedLiverHediff.labelNoun>печінка з плоті</VME_FleshcraftedLiverHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted liver. -->
+  <VME_FleshcraftedLiverHediff.description>Вживлена печінка з плоті.</VME_FleshcraftedLiverHediff.description>
+
+  <!-- EN: fleshcrafted eye -->
+  <VME_FleshcraftedEyeHediff.label>око з плоті</VME_FleshcraftedEyeHediff.label>
+  <!-- EN: a fleshcrafted eye -->
+  <VME_FleshcraftedEyeHediff.labelNoun>око з плоті</VME_FleshcraftedEyeHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted eye. -->
+  <VME_FleshcraftedEyeHediff.description>Вживлене око з плоті.</VME_FleshcraftedEyeHediff.description>
+
+  <!-- EN: fleshcrafted ear -->
+  <VME_FleshcraftedEarHediff.label>вухо з плоті</VME_FleshcraftedEarHediff.label>
+  <!-- EN: a fleshcrafted ear -->
+  <VME_FleshcraftedEarHediff.labelNoun>вухо з плоті</VME_FleshcraftedEarHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted ear. -->
+  <VME_FleshcraftedEarHediff.description>Вживлене вухо з плоті.</VME_FleshcraftedEarHediff.description>
+
+  <!-- EN: fleshcrafted nose -->
+  <VME_FleshcraftedNoseHediff.label>ніс з плоті</VME_FleshcraftedNoseHediff.label>
+  <!-- EN: a fleshcrafted nose -->
+  <VME_FleshcraftedNoseHediff.labelNoun>ніс з плоті</VME_FleshcraftedNoseHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted nose. -->
+  <VME_FleshcraftedNoseHediff.description>Вживлений ніс з плоті.</VME_FleshcraftedNoseHediff.description>
+
+  <!-- EN: fleshcrafted jaw -->
+  <VME_FleshcraftedJawHediff.label>щелепа з плоті</VME_FleshcraftedJawHediff.label>
+  <!-- EN: a fleshcrafted jaw -->
+  <VME_FleshcraftedJawHediff.labelNoun>щелепа з плоті</VME_FleshcraftedJawHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted jaw. -->
+  <VME_FleshcraftedJawHediff.description>Вживлена щелепа з плоті.</VME_FleshcraftedJawHediff.description>
+
+  <!-- EN: fleshcrafted stomach -->
+  <VME_FleshcraftedStomachHediff.label>шлунок з плоті</VME_FleshcraftedStomachHediff.label>
+  <!-- EN: a fleshcrafted stomach -->
+  <VME_FleshcraftedStomachHediff.labelNoun>шлунок з плоті</VME_FleshcraftedStomachHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted stomach. -->
+  <VME_FleshcraftedStomachHediff.description>Вживлений шлунок з плоті.</VME_FleshcraftedStomachHediff.description>
+
+  <!-- EN: fleshcrafted tongue -->
+  <VME_FleshcraftedTongueHediff.label>язик з плоті</VME_FleshcraftedTongueHediff.label>
+  <!-- EN: a fleshcrafted tongue -->
+  <VME_FleshcraftedTongueHediff.labelNoun>язик з плоті</VME_FleshcraftedTongueHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted tongue. -->
+  <VME_FleshcraftedTongueHediff.description>Вживлений язик з плоті.</VME_FleshcraftedTongueHediff.description>
+
+  <!-- EN: fleshcrafted spine -->
+  <VME_FleshcraftedSpineHediff.label>хребет з плоті</VME_FleshcraftedSpineHediff.label>
+  <!-- EN: a fleshcrafted spine -->
+  <VME_FleshcraftedSpineHediff.labelNoun>хребет з плоті</VME_FleshcraftedSpineHediff.labelNoun>
+  <!-- EN: An installed fleshcrafted spine. -->
+  <VME_FleshcraftedSpineHediff.description>Вживлений хребет з плоті.</VME_FleshcraftedSpineHediff.description>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: plant pot -->
+  <PlantPot.label>горщик для квітів</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Посадіть тут декоративні квіти, щоб покращити настрій людям навколо.</PlantPot.description>
+
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>кільце для жбурляння каміння</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Проста старовинна гра для якої достатньо мати палицю та жменю камінців. Гравці намагаються влучити камінцями у кільце на вешині палиці. Розслабляє, тренує влучність.</HoopstoneRing.description>
+
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>стовпчик для жбурляння підков</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Проста стародавня гра для якої достатньо мати палицю та кілька підков. Гравці кидають підкови, намагаючись змусити їх зачепитися за стовпчик. Розслабляє, тренує влучність.</HorseshoesPin.description>
+
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>місце збору каравану</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Визначає місце для причеплення тварин і формування караванів. Тут колоністи будуть причіплювати тварин під час завантаження каравану. Ви також можете використовувати їх під час зустрічей поза домом, щоб тварини не блукали.</CaravanPackingSpot.description>
+
+  <!-- EN: egg box -->
+  <EggBox.label>коробка для яєць</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Коробка із м’якого матеріалу для зберігання яєць. Тварини, що несуть яйця, будуть відкладати яйця в ящики для яєць, якщо зможуть. Щоб заощадити час, ваші колоністи винесуть усі яйця лише тоді, коли ящик буде заповнено. Коробка також захищає яйця від псування на відкритому повітрі, хоча вона не захищає від пошкодження температурою.</EggBox.description>
+
+  <TubeTelevision.label>ламповий телевізор</TubeTelevision.label>
+
+  <Cooler.label>кондиціонер</Cooler.label>
+
+</LanguageData>

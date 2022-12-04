@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VAEA_Apparel_Backpack.label>зробити рюкзак</Make_VAEA_Apparel_Backpack.label>
+  <Make_VAEA_Apparel_Backpack.description>зробити рюкзак.</Make_VAEA_Apparel_Backpack.description>
+  <Make_VAEA_Apparel_Backpack.jobString>Виробляє рюкзак</Make_VAEA_Apparel_Backpack.jobString>
+
+  <Make_VAEA_Apparel_MiniTurretPack.label>зробити комплект міні-турелі</Make_VAEA_Apparel_MiniTurretPack.label>
+  <Make_VAEA_Apparel_MiniTurretPack.description>зробити комплект міні-турелі.</Make_VAEA_Apparel_MiniTurretPack.description>
+  <Make_VAEA_Apparel_MiniTurretPack.jobString>Виробляє комплект міні-турелі</Make_VAEA_Apparel_MiniTurretPack.jobString>
+
+  <Make_VAEA_Apparel_RangedShieldBelt.label>зробити пояс-щит стрілецький</Make_VAEA_Apparel_RangedShieldBelt.label>
+  <Make_VAEA_Apparel_RangedShieldBelt.description>зробити пояс-щит стрілецький.</Make_VAEA_Apparel_RangedShieldBelt.description>
+  <Make_VAEA_Apparel_RangedShieldBelt.jobString>Виробляє пояс-щит стрілецький</Make_VAEA_Apparel_RangedShieldBelt.jobString>
+
+  <Make_VAEA_Apparel_ExplosiveBelt.label>зробити пояс самодетонації</Make_VAEA_Apparel_ExplosiveBelt.label>
+  <Make_VAEA_Apparel_ExplosiveBelt.description>зробити пояс самодетонації.</Make_VAEA_Apparel_ExplosiveBelt.description>
+  <Make_VAEA_Apparel_ExplosiveBelt.jobString>Виробляє пояс самодетонації</Make_VAEA_Apparel_ExplosiveBelt.jobString>
+
+  <Make_VAEA_Apparel_AmmoPack.label>зробити пояс з патронташем</Make_VAEA_Apparel_AmmoPack.label>
+  <Make_VAEA_Apparel_AmmoPack.description>зробити пояс з патронташем.</Make_VAEA_Apparel_AmmoPack.description>
+  <Make_VAEA_Apparel_AmmoPack.jobString>Виробляє пояс з патронташем</Make_VAEA_Apparel_AmmoPack.jobString>
+
+  <Make_VAEA_Apparel_ToolBelt.label>зробити пояс з інструментами</Make_VAEA_Apparel_ToolBelt.label>
+  <Make_VAEA_Apparel_ToolBelt.description>зробити пояс з інструментами.</Make_VAEA_Apparel_ToolBelt.description>
+  <Make_VAEA_Apparel_ToolBelt.jobString>Виробляє пояс з інструментами</Make_VAEA_Apparel_ToolBelt.jobString>
+
+  <VAEA_Make_Quiver.label>зробити колчан</VAEA_Make_Quiver.label>
+  <VAEA_Make_Quiver.description>зробити колчан.</VAEA_Make_Quiver.description>
+  <VAEA_Make_Quiver.jobString>Виробляє колчан</VAEA_Make_Quiver.jobString>
+
+  <Make_VAEA_Apparel_MedicBag.label>зробити польову аптечку</Make_VAEA_Apparel_MedicBag.label>
+  <Make_VAEA_Apparel_MedicBag.description>зробити польову аптечку.</Make_VAEA_Apparel_MedicBag.description>
+  <Make_VAEA_Apparel_MedicBag.jobString>Виробляє польову аптечку</Make_VAEA_Apparel_MedicBag.jobString>
+
+  <Make_VAEA_Apparel_BattleBanner.label>зробити бойовий стяг</Make_VAEA_Apparel_BattleBanner.label>
+  <Make_VAEA_Apparel_BattleBanner.description>зробити бойовий стяг.</Make_VAEA_Apparel_BattleBanner.description>
+  <Make_VAEA_Apparel_BattleBanner.jobString>Виробляє бойовий стяг</Make_VAEA_Apparel_BattleBanner.jobString>
+</LanguageData>

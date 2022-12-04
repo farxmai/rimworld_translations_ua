@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedHologram.label>незакінчена голограма</UnfinishedHologram.label>
+
+  <HologramBase.label>голограма</HologramBase.label>
+  <HologramBase.description>Пристрій проектування світла розміром з людину, що зображує витвір мистецтва, виконаний з використанням кількох мов програмування. Потребує електроенергію для роботи.</HologramBase.description>
+
+  <VFE_HologramOn.label>голограма</VFE_HologramOn.label>
+  <VFE_HologramOn.description>Пристрій проектування світла розміром з людину, що зображує витвір мистецтва, виконаний з використанням кількох мов програмування. Потребує електроенергію для роботи.</VFE_HologramOn.description>
+
+</LanguageData>

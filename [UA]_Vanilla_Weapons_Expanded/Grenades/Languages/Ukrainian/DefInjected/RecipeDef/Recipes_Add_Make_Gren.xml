@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_Apparel_GrenadeFragBelt.label>зв'язати осколкові гранати</Make_VWE_Apparel_GrenadeFragBelt.label>
+  <Make_VWE_Apparel_GrenadeFragBelt.description>зв'язати осколкові гранати.</Make_VWE_Apparel_GrenadeFragBelt.description>
+  <Make_VWE_Apparel_GrenadeFragBelt.jobString>Зв'язує осколкові гранати.</Make_VWE_Apparel_GrenadeFragBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeMolotovBelt.label>зв'язати коктейлі Молотова</Make_VWE_Apparel_GrenadeMolotovBelt.label>
+  <Make_VWE_Apparel_GrenadeMolotovBelt.description>зв'язати коктейлі Молотова.</Make_VWE_Apparel_GrenadeMolotovBelt.description>
+  <Make_VWE_Apparel_GrenadeMolotovBelt.jobString>Зв'язує коктейлі Молотова.</Make_VWE_Apparel_GrenadeMolotovBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeEMPBelt.label>зв'язати ЕМІ-гранати</Make_VWE_Apparel_GrenadeEMPBelt.label>
+  <Make_VWE_Apparel_GrenadeEMPBelt.description>зв'язати ЕМІ-гранати.</Make_VWE_Apparel_GrenadeEMPBelt.description>
+  <Make_VWE_Apparel_GrenadeEMPBelt.jobString>Зв'язує ЕМІ-гранати.</Make_VWE_Apparel_GrenadeEMPBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeSmokeBelt.label>зв'язати димові гранати</Make_VWE_Apparel_GrenadeSmokeBelt.label>
+  <Make_VWE_Apparel_GrenadeSmokeBelt.description>зв'язати димові гранати.</Make_VWE_Apparel_GrenadeSmokeBelt.description>
+  <Make_VWE_Apparel_GrenadeSmokeBelt.jobString>Зв'язує димові гранати.</Make_VWE_Apparel_GrenadeSmokeBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeToxicBelt.label>зв'язати отруйні гранати</Make_VWE_Apparel_GrenadeToxicBelt.label>
+  <Make_VWE_Apparel_GrenadeToxicBelt.description>зв'язати отруйні гранати.</Make_VWE_Apparel_GrenadeToxicBelt.description>
+  <Make_VWE_Apparel_GrenadeToxicBelt.jobString>Зв'язує отруйні гранати.</Make_VWE_Apparel_GrenadeToxicBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeFlashBelt.label>зв'язати світлошумові гранати</Make_VWE_Apparel_GrenadeFlashBelt.label>
+  <Make_VWE_Apparel_GrenadeFlashBelt.description>зв'язати світлошумові гранати.</Make_VWE_Apparel_GrenadeFlashBelt.description>
+  <Make_VWE_Apparel_GrenadeFlashBelt.jobString>Зв'язує світлошумові гранати.</Make_VWE_Apparel_GrenadeFlashBelt.jobString>
+
+  <Make_VWE_Apparel_GrenadeTearGasBelt.label>зв'язати гранати із газом</Make_VWE_Apparel_GrenadeTearGasBelt.label>
+  <Make_VWE_Apparel_GrenadeTearGasBelt.description>зв'язати гранати із газом.</Make_VWE_Apparel_GrenadeTearGasBelt.description>
+  <Make_VWE_Apparel_GrenadeTearGasBelt.jobString>Зв'язує гранати із газом.</Make_VWE_Apparel_GrenadeTearGasBelt.jobString>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: lowered -->
+  <VME_PsychicSensitivity_Lowered.label>знижено</VME_PsychicSensitivity_Lowered.label>
+  <!-- EN: Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution. -->
+  <VME_PsychicSensitivity_Lowered.description>Розум має стати неприступною ментальною фортецею, в яку не проникне жодна чужа думка.</VME_PsychicSensitivity_Lowered.description>
+
+  <!-- EN: heightened -->
+  <VME_PsychicSensitivity_Heightened.label>підвищено</VME_PsychicSensitivity_Heightened.label>
+  <!-- EN: Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution. -->
+  <VME_PsychicSensitivity_Heightened.description>Розум має стати зброєю стрімкої відплати, яка охопить увесь світ.</VME_PsychicSensitivity_Heightened.description>
+</LanguageData>

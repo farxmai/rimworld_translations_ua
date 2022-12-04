@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Anima Nexus pod sprout -->
+  <GauranlenTreePod.label>поява паростка вузлового дерева</GauranlenTreePod.label>
+  <!-- EN: an Anima Nexus pod will sprout at a random location on the map, if it can. -->
+  <GauranlenTreePod.effectDesc>паросток із насіннєвою коробкою вузлового древа душі з'явиться на карті, якщо це можливо.</GauranlenTreePod.effectDesc>
+  <!-- EN: An Anima Nexus pod sprouted nearby. -->
+  <GauranlenTreePod.letterInfoText>Неподалік з'явився паросток вузлового дерева.</GauranlenTreePod.letterInfoText>
+</LanguageData>

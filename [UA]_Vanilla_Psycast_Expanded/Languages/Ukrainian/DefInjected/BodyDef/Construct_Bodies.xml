@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: rock construct -->
+  <VPE_RockConstructBody.label>кам'яний конструкт</VPE_RockConstructBody.label>
+  <!-- EN: rocky body -->
+  <VPE_RockConstructBody.corePart.parts.1.customLabel>кам'яне тіло</VPE_RockConstructBody.corePart.parts.1.customLabel>
+
+  <!-- EN: metal construct -->
+  <VPE_MetalConstructBody.label>металевий конструкт</VPE_MetalConstructBody.label>
+  <!-- EN: metal body -->
+  <VPE_MetalConstructBody.corePart.parts.1.customLabel>металеве тіло</VPE_MetalConstructBody.corePart.parts.1.customLabel>
+</LanguageData>

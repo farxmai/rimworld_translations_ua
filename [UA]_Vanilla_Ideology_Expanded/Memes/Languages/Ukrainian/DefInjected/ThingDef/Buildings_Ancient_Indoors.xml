@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient barrel -->
+  <VME_AncientBarrel.label>старовинна бочка</VME_AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <VME_AncientBarrel.description>Давня дірява бочка виглядає, ніби в ній зберігалися якісь відходи. Єдине, що в ній зараз — це розмазаний засохлий бруд.</VME_AncientBarrel.description>
+
+  <!-- EN: ancient bed -->
+  <VME_AncientBed.label>старовинне ліжко</VME_AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <VME_AncientBed.description>Старий гнилий матрац на заіржавілому каркасі. Незважаючи на незручність, ліжко все ще можна використовувати за прямим призначенням, але полагодити вже не вийде.</VME_AncientBed.description>
+
+  <!-- EN: ancient crate -->
+  <VME_AncientCrate.label>старовинний ящик</VME_AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <VME_AncientCrate.description>Стародавній зламаний ящик. Все цінне, що в ньому було, стало непридатним.</VME_AncientCrate.description>
+
+  <!-- EN: ancient display bank -->
+  <VME_AncientDisplayBank.label>старовинні монітори</VME_AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientDisplayBank.description>Стародавня система екранів. Цінні частини відсутні, а все інше стало непридатним.</VME_AncientDisplayBank.description>
+
+  <!-- EN: ancient equipment blocks -->
+  <VME_AncientEquipmentBlocks.label>старовинні ящики з обладнанням</VME_AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientEquipmentBlocks.description>Декілька стародавніх ящиків з обладнанням невідомого призначення. Цінні частини відсутні, а все інше стало непридатним.</VME_AncientEquipmentBlocks.description>
+
+  <!-- EN: ancient generator -->
+  <VME_AncientGenerator.label>старовинний генератор</VME_AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VME_AncientGenerator.description>Стародавній електричний генератор. Його придатні для використання частини давно вилучені чи розбиті, а решта заржавіла.</VME_AncientGenerator.description>
+
+  <!-- EN: ancient lamp -->
+  <VME_AncientLamp.label>старовинна лампа</VME_AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <VME_AncientLamp.description>Стародавня лампа з автономним живленням. Її внутрішній акумулятор майже повністю розряджений, але вона все ще слабко світиться.</VME_AncientLamp.description>
+
+  <!-- EN: ancient locker bank -->
+  <VME_AncientLockerBank.label>старовинні шафки</VME_AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <VME_AncientLockerBank.description>Ряд стародавніх проржавілих шафок. Усі вони давно зламані, нічого цінного всередині не лишилося.</VME_AncientLockerBank.description>
+
+  <!-- EN: ancient machine -->
+  <VME_AncientMachine.label>старовинна машина</VME_AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientMachine.description>Громіздкий корпус стародавньої машини заповнений незрозумілими механізмами. Цінні частини відсутні, а все інше стало непридатним.</VME_AncientMachine.description>
+
+  <!-- EN: ancient military crate -->
+  <VME_AncientMilitaryCrate.label>старовиння військова скринька</VME_AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <VME_AncientMilitaryCrate.description>Стародавній ящик з армійськими відмітками. Він давно зламаний, а все цінне з нього — розтягнуте.</VME_AncientMilitaryCrate.description>
+
+  <!-- EN: ancient operating table -->
+  <VME_AncientOperatingTable.label>старовинний операційний стіл</VME_AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <VME_AncientOperatingTable.description>Стіл, який колись використовувався для хірургічних операцій. Він уже давно став непридатним.</VME_AncientOperatingTable.description>
+
+  <!-- EN: ancient spacer crate -->
+  <VME_AncientSpacerCrate.label>старовинний космічний ящик</VME_AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <VME_AncientSpacerCrate.description>Стародавній зламаний ящик. Усі цінності, що у ньому зберігалися, давно вже вилучено.</VME_AncientSpacerCrate.description>
+
+  <!-- EN: ancient storage cylinder -->
+  <VME_AncientStorageCylinder.label>старовинний бак</VME_AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientStorageCylinder.description>Стародавній пристрій схожий на сховище для якоїсь рідини. Цінні частини відсутні, а все інше стало непридатним.</VME_AncientStorageCylinder.description>
+
+  <!-- EN: ancient system rack -->
+  <VME_AncientSystemRack.label>старовинна серверна стійка</VME_AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientSystemRack.description>Стародавній стелаж, набитий незрозумілими пристроями. Цінні частини відсутні, а все інше стало непридатним.</VME_AncientSystemRack.description>
+</LanguageData>

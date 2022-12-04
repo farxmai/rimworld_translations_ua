@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_InsertSyrupDesc>Вибір сиропу</VBE_InsertSyrupDesc>
+	<VBE_StartInsertion>Принести сироп</VBE_StartInsertion>
+	<VBE_StartInsertionDesc>Принести сироп у сатуратор, щоб розпочати обробку.</VBE_StartInsertionDesc>
+	<VBE_CancelBringingSyrup>Скасувати доставку сиропу</VBE_CancelBringingSyrup>
+	<VBE_CancelBringingSyrupDesc>Скасування доставки сиропу до сатуратора.</VBE_CancelBringingSyrupDesc>
+	<VBE_SyrupFailurePower>Содова зіпсувалася через збій в електропостачанні сатуратора</VBE_SyrupFailurePower>
+
+	<VBE_InsertAmbMustDesc>Вибір сусла</VBE_InsertAmbMustDesc>
+	<VBE_StartInsertionAmbMust>Принести сусло</VBE_StartInsertionAmbMust>
+	<VBE_StartInsertionAmbMustDesc>Принести сусло амбрендідо дистиллятора, щоб почати процес перегонки.</VBE_StartInsertionAmbMustDesc>
+	<VBE_CancelBringingAmbMust>Скасувати доставку сусла</VBE_CancelBringingAmbMust>
+	<VBE_CancelBringingAmbMustDesc>Скасування доставки сусла амбренді до дистилятора.</VBE_CancelBringingAmbMustDesc>
+	<VBE_AmbrandyFailurePower>амбренді зіпсувалося через збій у електропостачанні дистилятора</VBE_AmbrandyFailurePower>
+	<VBE_RemoveAmbrandy>Вилучити амбренді ({0})</VBE_RemoveAmbrandy>
+	<VBE_RemoveAmbrandyDesc>Витягти амбренді з дистиллятора. Амбренді буде готове на якісному рівні: ({0})</VBE_RemoveAmbrandyDesc>
+
+	<VBE_InsertMustOrWhiskeyDesc>Вибір сусла</VBE_InsertMustOrWhiskeyDesc>
+	<VBE_StartInsertionMustOrWhiskey>Принести сусло віскі</VBE_StartInsertionMustOrWhiskey>
+	<VBE_StartInsertionMustOrWhiskeyDesc>Принести сусло віскі до бочки для віскі, щоб розпочати процес бродіння.</VBE_StartInsertionMustOrWhiskeyDesc>
+	<VBE_CancelBringingMustOrWhiskey>Скасувати доставку сусла</VBE_CancelBringingMustOrWhiskey>
+	<VBE_CancelBringingAmbMustDesc>Скасування доставки сусла віскі до бочки для віскі.</VBE_CancelBringingAmbMustDesc>
+
+	<VBE_InsertTequilaMustDesc>Вибір сусла</VBE_InsertTequilaMustDesc>
+	<VBE_StartInsertionTequilaMust>Принести сусло</VBE_StartInsertionTequilaMust>
+	<VBE_StartInsertionTequilaMustDesc>Принести сусло текілидо дистиллятора, щоб почати процес перегонки.</VBE_StartInsertionTequilaMustDesc>
+	<VBE_CancelBringingTequilaMust>Скасувати доставку сусла</VBE_CancelBringingTequilaMust>
+	<VBE_CancelBringingTequilaMustDesc>Скасування доставки сусла текіли до дистиллятора.</VBE_CancelBringingTequilaMustDesc>
+
+	<VBE_InsertVodkaMustDesc>Вибір сусла</VBE_InsertVodkaMustDesc>
+	<VBE_StartInsertionVodkaMust>Принести сусло</VBE_StartInsertionVodkaMust>
+	<VBE_StartInsertionVodkaMustDesc>Принести сусло горілки до дистиллятора, щоб почати процес перегонки.</VBE_StartInsertionVodkaMustDesc>
+	<VBE_CancelBringingVodkaMust>Скасувати доставку сусла</VBE_CancelBringingVodkaMust>
+	<VBE_CancelBringingVodkaMustDesc>Скасування доставки сусла горілки до дистилятора.</VBE_CancelBringingVodkaMustDesc>
+
+	<VBE_InsertGinMushDesc>Вибір сусла</VBE_InsertGinMushDesc>
+	<VBE_StartInsertionGinMush>Принести сусло</VBE_StartInsertionGinMush>
+	<VBE_StartInsertionGinMushDesc>Принести сусло джину до дистиллятора, щоб почати процес перегонки.</VBE_StartInsertionGinMushDesc>
+	<VBE_CancelBringingGinMush>Скасувати доставку сусла</VBE_CancelBringingGinMush>
+	<VBE_CancelBringingGinMushDesc>Скасування доставки сусла джина до дистилятора.</VBE_CancelBringingGinMushDesc>
+
+	<VBE_MushRipening>Дозрівання м'якуша</VBE_MushRipening>
+	<VBE_MushCurrentlyFrozen>Ця кашка амбренді заморожена і не дозріватиме в сусло амбренді</VBE_MushCurrentlyFrozen>
+	<VBE_MushCurrentlyRefrigerated>Ця кашка амбренді зберігається при низькій температурі і не перетвориться на сусло амбренді так швидко, як це могло б бути за відповідних умов (дозріє через {0})</VBE_MushCurrentlyRefrigerated>
+	<VBE_MushDryingCorrectly>Ця кашка амбренді дозріває в сусло амбренді вірним чином (дозріє через {0})</VBE_MushDryingCorrectly>
+
+	<VBE_CiderMaturing>Дозрівання сидрк</VBE_CiderMaturing>
+	<VBE_CiderCurrentlyFrozen>Цей неферментований сидр заморожений і не дозріватиме в сидрі</VBE_CiderCurrentlyFrozen>
+	<VBE_CiderCurrentlyRefrigerated>Цей неферментований сидр зберігається при низькій температурі і не перетвориться на сидр так швидко, як це могло б бути за відповідних умов (дозріє через {0})</VBE_CiderCurrentlyRefrigerated>
+	<VBE_CiderMaturingCorrectly>Цей неферментований сидр дозріває вірним чином (дозріє через {0})</VBE_CiderMaturingCorrectly>
+
+</LanguageData>

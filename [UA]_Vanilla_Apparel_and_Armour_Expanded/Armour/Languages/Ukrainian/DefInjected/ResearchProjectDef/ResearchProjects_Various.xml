@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: leather tanning -->
+  <VAE_LeatherTanning.label>дублення</VAE_LeatherTanning.label>
+  <!-- EN: Learn the process of tanning to craft more thicker and durable armors. -->
+  <VAE_LeatherTanning.description>Дублення дозволить створювати більш щільні та зносостійкі обладунки.</VAE_LeatherTanning.description>
+
+  <!-- EN: hazard protection -->
+  <VAE_HazardProtection.label>захист від небезпечного середовища</VAE_HazardProtection.label>
+  <!-- EN: Develop suits resistant to high toxicity and radiation. -->
+  <VAE_HazardProtection.description>Виготовлення костюмів, стійких до отруйних речовин та радіації.</VAE_HazardProtection.description>
+
+  <!-- EN: military camouflage -->
+  <VAE_MlitaryCamouflage.label>військовий камуфляж</VAE_MlitaryCamouflage.label>
+  <!-- EN: Craft special military apparel allowing users to resemble the background environment such as foliage. -->
+  <VAE_MlitaryCamouflage.description>Військовий камуфляж дозволить бійцям зливатися з довкіллям.</VAE_MlitaryCamouflage.description>
+
+  <!-- EN: siegebreaker armor -->
+  <VAE_SiegebreakerArmor.label>проривна броня</VAE_SiegebreakerArmor.label>
+  <!-- EN: Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components. -->
+  <VAE_SiegebreakerArmor.description>Проривна броня є важкою силовою бронею, що значно уповільнює, але відмінно захищає власника. Для створення знадобляться просунуті компоненти.</VAE_SiegebreakerArmor.description>
+
+  <!-- EN: trooper armor -->
+  <VAE_TrooperArmor.label>штурмова броня</VAE_TrooperArmor.label>
+  <!-- EN: Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components. -->
+  <VAE_TrooperArmor.description>Штурмова напів-силова броня, легка та проста у виготовленні. Для створення знадобляться просунуті компоненти.</VAE_TrooperArmor.description>
+</LanguageData>

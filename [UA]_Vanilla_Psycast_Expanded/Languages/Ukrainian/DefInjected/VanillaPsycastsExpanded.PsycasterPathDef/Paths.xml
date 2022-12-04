@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: empath -->
+  <VPE_Empath.label>емпат</VPE_Empath.label>
+  <!-- EN: Empath psycasts are focused on enhancing the mood of others, one way or another. -->
+  <VPE_Empath.description>Здібності емпата сфокусовані на маніпулюванні настроєм інших. В той чи інший бік.</VPE_Empath.description>
+  <!-- EN: Empaths are psycasters committed to serving their community and boosting their kin’s spirits. Known to inspire joy with but a few words, as well as snap people out of mental states, particularly powerful empaths can emit strong psychic soothes or even skip blood-related family members from across the globe. -->
+  <VPE_Empath.tooltip>Емпати — псіоніки, які прагнуть допомагати своїй спільноті та зміцнювати її дух. Вони здатні парою слів розвеселити або відмінити негативні психічні стани. Найсильніші емпати здатні навіть випромінювати сильні психічні заспокоєння або притягувати кровних родичів з усього світу.</VPE_Empath.tooltip>
+
+  <!-- EN: skipmaster -->
+  <VPE_Skipmaster.label>крокуючий</VPE_Skipmaster.label>
+  <!-- EN: Skipmaster psycasts are focused on using skipgates to change the course of battle or the life of the colony. -->
+  <VPE_Skipmaster.description>Можливості крокуючого направлені на створення дверей вимірів для миттєвого переміщення в просторі, здатних змінити хід битви або поліпшити життя колонії.</VPE_Skipmaster.description>
+  <!-- EN: Skipmasters often served the Empire by establishing convoluted skipdoor networks. Masters of logistics and bending space, they can skip people to desired locations and can even use skipgates for everyday chores - such as creating solar pinholes or skipping water to extinguish flames. -->
+  <VPE_Skipmaster.tooltip>Крокуючі часто опинялися на службі Імперії, створюючи складні просторові мережі. Вони є майстрами логістики та викривлення простору та здатні використовувати двері вимірів для переміщення людей або просто для повсякденних потреб: телепортація світла для рослин або води для гасіння пожеж.</VPE_Skipmaster.tooltip>
+
+  <!-- EN: conflagrator -->
+  <VPE_Conflagrator.label>піромант</VPE_Conflagrator.label>
+  <!-- EN: Conflagrator path is focused on manipulating fire, heat and energy to eliminate enemies. -->
+  <VPE_Conflagrator.description>Шлях піроманта зосереджений на управлінні вогнем, теплом та енергією для знищення ворогів.</VPE_Conflagrator.description>
+  <!-- EN: Conflagrators are the masters of flame, capable of eradicating entire regiments of enemy infantry using powerful fire tornadoes and explosions. Greatly respected across all psycaster paths, conflagrators bring fear, death and the stench of burnt meat wherever they go. -->
+  <VPE_Conflagrator.tooltip>Піроманти — майстри полум'я, що здатні перетворити на попел цілі полки ворожої піхоти за допомогою потужних вогняних вихорів та вибухів. Вони викликають страх у ворогів та повагу в інших псіоніків. Там, де пройшов піромант, залишається лише смерть та запах горілого м'яса.</VPE_Conflagrator.tooltip>
+
+  <!-- EN: protector -->
+  <VPE_Protector.label>захисник</VPE_Protector.label>
+  <!-- EN: Protector path is focused on providing aid and protection to your pawns, stopping them from dying and allowing you to escape from dangerous situations unscratched. -->
+  <VPE_Protector.description>Шлях захисника спрямований на надання підтримки та захисту вашим поселенцям. Він дозволить врятувати їх від смерті або вибратися з небезпечного місця неушкодженими.</VPE_Protector.description>
+  <!-- EN: Protectors serve on the front lines, defending the brave soldiers from harm. Not only can they stop projectiles using powerful skipshields, but they can also help the body recover from wounds, as well as boost the natural regeneration and immunity of those in need. -->
+  <VPE_Protector.tooltip>Захисники служать на передовій, вкриваючи своїх товаришів від можливої шкоди. Вони не тільки зупиняють снаряди і кулі за допомогою потужних щитів, але й можуть допомогти пораненому тілу повернутися до ладу, або посилити здатність організму до самозцілення.</VPE_Protector.tooltip>
+
+  <!-- EN: warlord -->
+  <VPE_Warlord.label>варлорд</VPE_Warlord.label>
+  <!-- EN: Warlord path is focused on upgrading the warfare capabilities of the Psycaster and psycaster alone - as all the Warlord psycasts are to an extent self-cast. -->
+  <VPE_Warlord.description>Шлях варлорда зосереджується на вдосконаленні власних бойових можливостей.</VPE_Warlord.description>
+  <!-- EN: Masters of warfare, warlords serve only themselves, able to improve their perception, reflexes, speed and stamina at will. Feared anywhere they go, a powerful warlord will never miss a shot and their blade will always find its target. -->
+  <VPE_Warlord.tooltip>Майстер битви, варлорди служать тільки собі. Вони здатні поліпшити своє сприйняття, швидкість, рефлекси і витривалість зусиллям волі. Вселяють страх скрізь, де з'являються, варлорди стріляють без промаху, а їх меч завжди знайде свою жертву.</VPE_Warlord.tooltip>
+
+  <!-- EN: chronopath -->
+  <VPE_Chronopath.label>хрономант</VPE_Chronopath.label>
+  <!-- EN: Chronopath path is focused on manipulating time, making things older, completing growth of plants, or de-aging your pawns. -->
+  <VPE_Chronopath.description>Шлях хрономанта дає можливість керувати часом, старіти речі, завершувати зростання рослин та омолоджувати поселенців.</VPE_Chronopath.description>
+  <!-- EN: Chronopaths are rare and mysterious psycasters, capable of manipulating the fabric of time itself. By creating skipgates through time rather than space, chronopaths can have weapons assemble themselves, alter someone’s age at will, and even create bizarre timequakes that accelerate the time of everything around them by dozens of years. -->
+  <VPE_Chronopath.tooltip>Хрономант - рідкісний та таємничий шлях псіоніків. Ті, хто йде цим шляхом, здатні взаємодіяти з самою тканиною часу, пронизувати простір і час. Хрономанти можуть змусити зброю збирати саму себе, зістарити когось лише зусиллям волі або навіть створити жахливі хроношторми, що прискорюють плин часу навколо хрономанта на десятки років.</VPE_Chronopath.tooltip>
+
+  <!-- EN: archotechist -->
+  <VPE_Archotechist.label>архотехніст</VPE_Archotechist.label>
+  <!-- EN: Archotechist path is a special path locked only for Empire-based psycasters. It allows spreading insanity, using psychic shock to down any wrong-doers, and to offload neural heat to others, as well as use neural heat in combat. -->
+  <VPE_Archotechist.description>Шлях архотехніста є унікальним для імперських псіоніків. Він дозволяє поширювати агресію, насилати психічний шок на незгодних, перенаправляти псі-напругу на інших та використовувати це у бою.</VPE_Archotechist.description>
+  <!-- EN: A path so mysterious only imperial scholars can confirm rumours, archotechists are able to tap into archotech engines and exert power so ridiculous and bizarre that it really makes one question their sanity. Archotechists can simply drive entire armies to insanity, and can even manipulate neural heat to mutilate their adversaries. -->
+  <VPE_Archotechist.tooltip>Шлях настільки таємничий, що лише імперські знавці наук можуть пролити світло на факт існування адептів цього шляху. Архотек-псіоніки здатні доторкнутися до розуміння пристроїв, створених архотеками та почерпнути силу з них. Силу настільки химерну, що мимоволі виникають питання щодо розуму псіоніків, які обрали цей шлях. Архотек-псионики здатні перекинути у вир безумства цілі армії, а їх здатність до управлінню псі-напругою дозволяє їм буквально розривати своїх ворогів на клапті.</VPE_Archotechist.tooltip>
+  <!-- EN: Imperials only -->
+  <VPE_Archotechist.lockedReason>Імперії</VPE_Archotechist.lockedReason>
+
+  <!-- EN: necropath -->
+  <VPE_Necropath.label>некромант</VPE_Necropath.label>
+  <!-- EN: Necropath is a path focused on distributing fear and death, whilst also gaining from death and corpses. You can resurrect fallen allies, prohibit them from dying and raise hordes of skeletons to fight for your cause. -->
+  <VPE_Necropath.description>Шлях некроманта сфокусований на поширенні страху та смерті, а також отриманні переваги від смертей та трупів. Він вміє повертати до життя загиблих союзників, запобігати їх смерті і піднімати орди скелетів, готових боротися за вас.</VPE_Necropath.description>
+  <!-- EN: Masters of the dark arts, necropaths live to defy death itself. They can cast fear into the hearts of their enemies, emit a paralytic pulse to knock attackers down, rot away the flesh of living bodies and ultimately summon the dead - either through wicked enthrallment or sacred resurrection. -->
+  <VPE_Necropath.tooltip>Некроманти, майстри темних мистецтв живуть всупереч самій смерті. Вони вселяють жах у серця своїх ворогів, випускають паралітичну хвилю, знерухомлюючи їх, змушують плоть гнити прямо на кістках живих і навіть повертають живих з полону смерті. Або як потворну поневолену подобу життя, або через чистий ритуал воскресіння.</VPE_Necropath.tooltip>
+
+  <!-- EN: staticlord -->
+  <VPE_Staticlord.label>штормлорд</VPE_Staticlord.label>
+  <!-- EN: Staticlord is a path focused on blasting enemies with electricity, disabling electronics and controlling the storm itself. -->
+  <VPE_Staticlord.description>Шлях штормлорда зосереджений на поразці ворогів блискавками, відключенні електроніки та керуванні штормами.</VPE_Staticlord.description>
+  <!-- EN: Lords of thunder and lightning, staticlords are excellent psycasters when it comes to controlling the flow of electricity and fighting against mechanoid swarms. They can summon powerful lightning bolts in many shapes and forms, as well as manipulate the weather to generate localised lightning storms and hurricanes. -->
+  <VPE_Staticlord.tooltip>Володарі грому і блискавки, штормлорди не знають собі рівних, коли йдеться про управління електрикою та знищення скупчень механоїдів. Вони можуть закликати потужні розряди електрики в різних його видах, а також управляти погодою, щоб створювати локальні грози і урагани.</VPE_Staticlord.tooltip>
+
+  <!-- EN: archon -->
+  <VPE_Archon.label>архонт</VPE_Archon.label>
+  <!-- EN: Archon path is the path of a psychic leader, providing various buffs to the entire colony, but also ruling with an iron fist. It’s also a path that allows you to drain enemy psycasters and gain Psycast levels this way. -->
+  <VPE_Archon.description>Ті, хто встав на шлях архонта, стають псі-лідерами, що дають різні посилення для всього поселення, але керують залізною рукою. Також цей шлях дозволяє забирати енергію у ворожих псіоніків і таким чином піднімати свій рівень.</VPE_Archon.description>
+  <!-- EN: The path of kings, archons often occupy the highest seats in their local governments. Being able to easily bond with others, manipulate their enemies either through friendship or pain, with powerful archons strengthening themselves by draining the psyessence of other psycasters. -->
+  <VPE_Archon.tooltip>Повстав на шлях королів, архонти займають вищі посади у планетарних ієрархіях. Вони здатні легко налагодити контакт чи підпорядкувати собі інших. Вони з однаковою легкістю управляють як друзями, так і ворогами, через дружбу чи біль. Сильніші архонти стають ще сильнішими, випиваючи насухо слабших псіоніків.</VPE_Archon.tooltip>
+
+  <!-- EN: frostshaper -->
+  <VPE_Frostshaper.label>холодомант</VPE_Frostshaper.label>
+  <!-- EN: Frostshaper is a path about manipulating the elements, particularly the cold, to your advantage. Not only you get to use the cold to freeze and slow enemies, frostshapers also gain access to many utility psycasts that either construct shelters out of ice blocks, or create cooling crystals that can be used both as a temporary fridge, and a trap. -->
+  <VPE_Frostshaper.description>Шлях холодоманта присвячений управлінню стихіями, і насамперед холодом. Здібності цього шляху використовуються не тільки для заморожування та уповільнення ворогів, але і для спорудження сховищ з крижаних блоків або створення крижаних кристалів для холодильників або пасток.</VPE_Frostshaper.description>
+  <!-- EN: Frostshapers are psycaster who devoted their life to pursue the cold embrace of frost. This makes them equally as deadly as conflagrators, capable of breathing freezing air and creating localised cold zones that freeze everything in seconds. Frostshapers can also create walls and obstacles out of ice, as well as summon crystals of pure entropy that plunge entire rooms into subzero temperatures. -->
+  <VPE_Frostshaper.tooltip>Холодоманти повністю присвячують себе холоду і зручно почуваються в обіймах льоду. Це робить їх не менш небезпечними, ніж їхніх прямих конкурентів — піромантів. Холодоманти здатні використовувати крижане дихання і створювати обмежені зони холоду, всередині яких все за секунди перетворюється на лід. Більше того, холодоманти здатні створювати стіни та перешкоди з льоду та викликати кристали чистої ентропії, здатні знизити температуру в кімнаті нижче нуля.</VPE_Frostshaper.tooltip>
+
+  <!-- EN: wildspeaker -->
+  <VPE_Wildspeaker.label>шепочучий</VPE_Wildspeaker.label>
+  <!-- EN: Wildspeaker path is a special path locked only for Tribal-based psycasters. It’s all about controlling nature and animals for defense and survival. -->
+  <VPE_Wildspeaker.description>Шлях голосу природи доступний лише псіонікам племен. Він присвячений управлінню природою та тваринами для захисту та виживання.</VPE_Wildspeaker.description>
+  <!-- EN: A secret path of the tribal communities, wildspeaking is the art of living in harmony with the forest and nature, and being able to summon the aid of the forest when needed. Tribal wildspeakers are known to control packs of territorial animals, be protected from all damage by an impenetrable shield, and they can also seem to make brambles and trees sprout out of the ground on a whim. -->
+  <VPE_Wildspeaker.tooltip>Таємний шлях, відомий лише племінним спільнотам. Здатність спілкуватися з живою природою і жити в гармонії з лісом і тваринами, що населяють його, здатність прохати ліси про допомогу, якщо в цьому виникає необхідність. Ті, хто стають на шлях голосу природи, здатні керувати зграями тварин і ховатися за непробивними щитами, по їхній команді дерева і кущі починають проростати там, де щойно була гола земля.</VPE_Wildspeaker.tooltip>
+  <!-- EN: Tribals only -->
+  <VPE_Wildspeaker.lockedReason>племен</VPE_Wildspeaker.lockedReason>
+
+  <!-- EN: harmonist -->
+  <VPE_Harmonist.label>гармоніст</VPE_Harmonist.label>
+  <!-- EN: Harmonists are all about manipulating the balance of the universe. Their abilities are never a clear benefit or a drawback, and they always come with a price one way or another. -->
+  <VPE_Harmonist.description>Гармоністи керують балансом у Всесвіті. Їхні здібності ніколи не несуть явних переваг чи недоліків, але так чи інакше мають свою ціну.</VPE_Harmonist.description>
+  <!-- EN: Harmonists alter the probability, luck and balance of the universe. They are able to peak under the veil and adjust the scales as they desire, controlling the minds of unsuspecting foes, changing what has happened,influencing what might happen or even overriding the personal history of others. -->
+  <VPE_Harmonist.tooltip>Гармоністи змінюють ймовірності, заграють із успіхом і балансують на лезі бритви Всесвіту. Вони здатні зазирнути за завісу незвіданого і змістити баланс на свою користь, впливати на розум ворога, що ні про що не підозрює, змінити те, що буде, вплинути на те, що може бути і переписати те, що вже було.</VPE_Harmonist.tooltip>
+
+  <!-- EN: technomancer -->
+  <VPE_Technomancer.label>техномант</VPE_Technomancer.label>
+  <!-- EN: Technomancers are masters of technology, knowledge and research, capable of using psychic energy to aid in concept exploration, but also to breathe life into small-scale constructs that can help and defend them. -->
+  <VPE_Technomancer.description>Техноманти є майстрами технологій, знань і досліджень, здатними використовувати псі-енергію для наукових пошуків та втілення своїх знань у невеликих конструктах, здатних допомогти у бою чи повсякденних справах.</VPE_Technomancer.description>
+  <!-- EN: Masters of knowledge and technology, technomancers can improve existing technology, generate infinite power, create constructs out of seemingly worthless materials as well as reverse engineer anything they can get their hands on. Especially powerful technomancers can even use eltex to create psyrings, essentially sharing their knowledge of the psycasting art with other amateur psycasters. -->
+  <VPE_Technomancer.tooltip>Знавці науки і технології, техноманти можуть поліпшити наявні зразки техніки, створювати невичерпні джерела енергії, створювати конструкти з мотлоху, і розібратися в будь-якій технології, до якої вони тільки можуть дотягнутися. Найуміліші техноманти здатні створювати псі-перстні з елтексу, ділячись таким чином своїми знаннями у мистецтві псіоніки з іншими, менш умілими псіоніками.</VPE_Technomancer.tooltip>
+
+  <!-- EN: Nightstalker -->
+  <VPE_Nightstalker.label>тіньохід</VPE_Nightstalker.label>
+  <!-- EN: Nightstalkers are warriors of the dark, gaining many combat related benefits when shrouded in the shadows. -->
+  <VPE_Nightstalker.description>Тіньоходи є воїнами, що борються під покровом темряви. Вони отримують різні переваги, коли приховані тінями.</VPE_Nightstalker.description>
+  <!-- EN: Silent assassins who strike from the shadows, nightstalkers move under the cover of darkness, gaining power from the absence of light. They are capable of skipping to wherever  darkness prevails and executing multiple, near-simultaneous strikes to their target’s heart. -->
+  <VPE_Nightstalker.tooltip>Безшумні вбивці, що завдають удару з тіней. Тіньоходи переміщаються під прикриттям темряви набираючи сили через відсутність світла. Вони здатні проникнути скрізь, де панує пітьма. Їхні удари завжди знаходять досягають мети і вони настільки швидкі, що часом здається, ніби тіньохіди здатні бути в декількох місцях одразу.</VPE_Nightstalker.tooltip>
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Minimap.Coords>Координати</Minimap.Coords>
+  <Minimap.ShowButt>Показати кнопку мінікарти</Minimap.ShowButt>
+  <Minimap.MintMinimapDesc>Відобразити мінікарту для поточної локації</Minimap.MintMinimapDesc>
+  <Minimap.MintMinimapWiki>Mint Minimap Wiki</Minimap.MintMinimapWiki>
+  <Minimap.DubsModsDiscord>Dubs Mods Discord</Minimap.DubsModsDiscord>
+  <Minimap.Setkeybindinkeyboardconfig>Встановіть прив’язку клавіш у конфігурації клавіатури</Minimap.Setkeybindinkeyboardconfig>
+  <Minimap.Pingbutton>Кнопка ping</Minimap.Pingbutton>
+  <Minimap.Mouse>Миша {0}</Minimap.Mouse>
+  <Minimap.None>Нема</Minimap.None>
+  <Minimap.Minimapmode>Режим мінікарти</Minimap.Minimapmode>
+  <Minimap.Free>Вільний</Minimap.Free>
+  <Minimap.Commsconsole>Комунікаційна консоль</Minimap.Commsconsole>
+  <Minimap.RimatomicsTACS>Rimatomics TACS</Minimap.RimatomicsTACS>
+  <Minimap.AttackAlerts>Сповіщення про напади</Minimap.AttackAlerts>
+  <Minimap.Fires>Пожежі</Minimap.Fires>
+  <Minimap.Hostiles>Вороги</Minimap.Hostiles>
+  <Minimap.Animals>Тварини</Minimap.Animals>
+  <Minimap.Wildlife>Дика природа</Minimap.Wildlife>
+  <Minimap.Predators>Хижаки</Minimap.Predators>
+  <Minimap.Colonists>Колоністи</Minimap.Colonists>
+  <Minimap.Prisoners>В'язні</Minimap.Prisoners>
+  <Minimap.SmallArmsFire>Стрілецька зброя</Minimap.SmallArmsFire>
+  <Minimap.Projectiles>Снаряди</Minimap.Projectiles>
+  <Minimap.FactionColours>Кольори фракцій</Minimap.FactionColours>
+  <Minimap.Fogged>Затуманений</Minimap.Fogged>
+  <Minimap.DrawPlants>Відображати рослини</Minimap.DrawPlants>
+  <Minimap.RealBuildingColour>Реальний колір будівлі</Minimap.RealBuildingColour>
+  <Minimap.RealTerrainColour>Реальний колір рельєфу</Minimap.RealTerrainColour>
+  <Minimap.RealPlantColour>Реальний колір рослин</Minimap.RealPlantColour>
+  <Minimap.Markers>Маркери</Minimap.Markers>
+  <Minimap.Enemies>Вороги</Minimap.Enemies>
+  <Minimap.Friendlies>Союзники</Minimap.Friendlies>
+  <Minimap.ColonyAnimals>Приручені тварини</Minimap.ColonyAnimals>
+  <Minimap.Mapsize>Розмір карти</Minimap.Mapsize>
+  <Minimap.IconScale>Розмір іконок</Minimap.IconScale>
+  <Minimap.ColonistScale>Розмір колоністів</Minimap.ColonistScale>
+  <Minimap.Ground>Земля</Minimap.Ground>
+  <Minimap.Plants>Рослини</Minimap.Plants>
+  <Minimap.Edifice>Споруди</Minimap.Edifice>
+  <Minimap.Water>Вода</Minimap.Water>
+  <Minimap.Fog>Туман</Minimap.Fog>
+  <Minimap.NoSignal>Нема сигналу</Minimap.NoSignal>
+  <Minimap.RimatomicsMinimap>Коли ввімкнено, для роботи міні-карти потрібна TACS (система збору цілей і зв’язку) від мода Rimatomics</Minimap.RimatomicsMinimap>
+  <Minimap.CommsConsoleMap>Якщо ввімкнено, для роботи міні-карти потрібна консоль зв’язку</Minimap.CommsConsoleMap>
+  <Minimap.FreeMinimap>Якщо ввімкнено, міні-картою можна користуватися безкоштовно, не вимагаючи додаткових будівель</Minimap.FreeMinimap>
+  <PinttoolTip>Пінгуйте місце на карті, яке можуть бачити інші гравці в мультіплеєрі</PinttoolTip>
+  <MapAnchorTip>Зафіксуйте мінікарту до поточного розміру та розташування</MapAnchorTip>
+  <SneakyFinderTip>Позначте на карті всі об’єкти, які мають те саме значення, що й поточний вибір</SneakyFinderTip>
+</LanguageData>

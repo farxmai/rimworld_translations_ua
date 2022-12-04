@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Tequila.label>текіла</VBE_Tequila.label>
+  <VBE_Tequila.description>Ферментований лікер із соку агави, який обожнюють як дикі  галасливі бандити, так і любителі муффало.</VBE_Tequila.description>
+  <VBE_Tequila.ingestible.ingestCommandString>Випити {0}</VBE_Tequila.ingestible.ingestCommandString>
+  <VBE_Tequila.ingestible.ingestReportString>п'є {0}</VBE_Tequila.ingestible.ingestReportString>
+  <VBE_Tequila.tools.0.label>пляшка</VBE_Tequila.tools.0.label>
+  <VBE_Tequila.tools.1.label>шийка</VBE_Tequila.tools.1.label>
+
+
+</LanguageData>

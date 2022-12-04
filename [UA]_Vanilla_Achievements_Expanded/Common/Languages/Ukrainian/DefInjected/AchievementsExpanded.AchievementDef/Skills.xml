@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sharpshooter -->
+  <sharpshooter.label>Соколине око</sharpshooter.label>
+  <!-- EN: Have a colonist reach level 20 in shooting -->
+  <sharpshooter.description>Колоніст досяг 20 рівня у стрільбі</sharpshooter.description>
+
+  <!-- EN: Mr. President -->
+  <mrPresident.label>Пане Президенте</mrPresident.label>
+  <!-- EN: Have a colonist reach level 20 in Social -->
+  <mrPresident.description>Колоніст досяг 20 рівня у спілкуванні</mrPresident.description>
+
+  <!-- EN: Conan The Barbarian -->
+  <conanTheBarbarian.label>Конан-варвар</conanTheBarbarian.label>
+  <!-- EN: Have a colonist reach level 20 in Melee -->
+  <conanTheBarbarian.description>Колоніст досяг 20 рівня у ближньому бою</conanTheBarbarian.description>
+</LanguageData>

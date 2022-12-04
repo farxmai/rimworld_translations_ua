@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<RecruitRelationshipDamage.label>шкода від рекрутування</RecruitRelationshipDamage.label>
+	<RecruitRelationshipDamage.description>Втрата відносин з фракцією гостя, якого ви успішно завербували.</RecruitRelationshipDamage.description>
+
+	<ForcedRecruitRelationshipDamage.label>шкода від примусового рекрутування</ForcedRecruitRelationshipDamage.label>
+	<ForcedRecruitRelationshipDamage.description>Втрата відносин з фракцією гостя, якого ви змусили залишитися з вами.</ForcedRecruitRelationshipDamage.description>
+
+	<RecruitEffectivity.label>ефективність рекрутування</RecruitEffectivity.label>
+	<RecruitEffectivity.description>Ефективність вербування, коли ви намагаєтеся переманити гостей та запропонувати їм залишитися.</RecruitEffectivity.description>
+
+</LanguageData>

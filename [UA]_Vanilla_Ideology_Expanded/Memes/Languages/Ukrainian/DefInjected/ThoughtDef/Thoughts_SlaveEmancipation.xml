@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: demagogic slave emancipation -->
+  <VME_DemagogicSlaveEmancipation.stages.0.label>демагогічне звільнення</VME_DemagogicSlaveEmancipation.stages.0.label>
+  <!-- EN: We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
+  <VME_DemagogicSlaveEmancipation.stages.0.description>Насамкінець ми були схожі на поганих хлопців... Після такого навряд чи хтось добровільно захоче приєднатися до поселення.</VME_DemagogicSlaveEmancipation.stages.0.description>
+
+  <!-- EN: freethinking slave emancipation -->
+  <VME_FreethinkingSlaveEmancipation.stages.0.label>вільнодумне звільнення</VME_FreethinkingSlaveEmancipation.stages.0.label>
+  <!-- EN: Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. -->
+  <VME_FreethinkingSlaveEmancipation.stages.0.description>Промова нашого лідера була ясною і лаконічною, що коротко пояснювала все зло рабства.</VME_FreethinkingSlaveEmancipation.stages.0.description>
+
+  <!-- EN: unshackling slave emancipation -->
+  <VME_UnshacklingSlaveEmancipation.stages.0.label>надихаюче звільнення</VME_UnshacklingSlaveEmancipation.stages.0.label>
+  <!-- EN: Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. -->
+  <VME_UnshacklingSlaveEmancipation.stages.0.description>Промова була дуже надихаючою, докладно описувала всі біди рабства та всі переваги суспільства вільних людей.</VME_UnshacklingSlaveEmancipation.stages.0.description>
+
+  <!-- EN: liberating slave emancipation -->
+  <VME_LiberatingSlaveEmancipation.stages.0.label>звільняюче звільнення</VME_LiberatingSlaveEmancipation.stages.0.label>
+  <!-- EN: Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. -->
+  <VME_LiberatingSlaveEmancipation.stages.0.description>Промова лідера була взірцем вихваляння достоїнств суспільства, звільненого від кайданів рабства.</VME_LiberatingSlaveEmancipation.stages.0.description>
+
+  <!-- EN: amazing slave emancipation -->
+  <VME_AmazingSlaveEmancipation.stages.0.label>дивовижне звільнення</VME_AmazingSlaveEmancipation.stages.0.label>
+  <!-- EN: Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. -->
+  <VME_AmazingSlaveEmancipation.stages.0.description>Ходять легенди про цю мову і про те, як вона змінила майбутнє, піднявши справу звільнення.</VME_AmazingSlaveEmancipation.stages.0.description>
+</LanguageData>

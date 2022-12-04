@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: orbital mech cluster targeter -->
+  <OrbitalTargeterMechCluster.label>вказівник для висадки механоїдів</OrbitalTargeterMechCluster.label>
+  <!-- EN: An ancient military targeting device. It signals an orbital platform to drop a mechanoid combat cluster at the targeted point. The cluster may include any mixture of mechanoids and mech defense structures.\n\nThough they may have once had some allegiance to the ancient army that created this unit, any mechs dropped now will indiscriminately attack any human they see - including the one that summoned them.\n\nThe unit only contains one usage code, so it can only be used once. -->
+  <OrbitalTargeterMechCluster.description>Давнє пристрій цілевказівки. Він подає сигнал на орбітальну платформу, яка десантує у визначену точку бойовий кластер механоїдів. Кластер може містити будь-який набір механоїдів та захисних систем.\n\nХочі ці механоїди і могли одного разу присягнути у вірності стародавньої армії, яка створила цей пристрій, зараз вони будуть атакувати всіх людей, яких побачать, без винятків.\n\nЦей пристрій містить один код активації і може бути використаний лише один раз.</OrbitalTargeterMechCluster.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>заряд</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>перезаряджається</OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>
+  <!-- EN: orbital mech cluster targeter -->
+  <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>вказівник для висадки механоїдів</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
+
+</LanguageData>

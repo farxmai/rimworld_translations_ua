@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SCat>Vanilla Event Expanded</SCat>
+  <BReset>Скинути налаштування</BReset>
+  <GCWReset>Зупинити всі події у світі</GCWReset>
+  <GCMReset>Зупинити всі події на карті</GCMReset>
+  <NeedToBeIngame>Ви повинні бути у грі, щоб зупиняти ігрові події</NeedToBeIngame>
+  <CEBC>&lt;color=cyan&gt;&lt;b&gt;Змінити базову ймовірність події (встановіть на 0, щоб вимкнути):&lt;/b&gt;&lt;/color&gt;</CEBC>
+  <BCS>Відкрити налаштування базових ймовірностей подій</BCS>
+  <MinTPE>Мінімум днів до повторення:</MinTPE>
+  <ETPE>Мінімум днів до старту:</ETPE>
+  <PES>&lt;color=cyan&gt;&lt;b&gt;Налаштування фіолетових подій:&lt;/b&gt;&lt;/color&gt;</PES>
+
+  <IABaseC>Льодовиковий період</IABaseC>
+  <GWBaseC>Глобальне потепління</GWBaseC>
+  <PRBaseC>Психічний дощ</PRBaseC>
+  <LNBaseC>Довга ніч</LNBaseC>
+  <PBBaseC>Психічне цвітіння</PBBaseC>
+
+  <HSBaseC>Град</HSBaseC>
+  <MSBaseC>Метеоритний дощ</MSBaseC>
+  <APCBaseC>Падіння контейнера (тварина)</APCBaseC>
+  <CPWBaseC>Падіння контейнера (зброя)</CPWBaseC>
+  <CPABaseC>Падіння контейнера (одяг)</CPABaseC>
+  <WJTBaseC>Поповнення</WJTBaseC>
+  <SPBaseC>Космічна битва</SPBaseC>
+  <SCBaseC>Падіння шатла</SCBaseC>
+  <EBaseC>Землетрус</EBaseC>
+  <CAWIBaseC>Тварини каравану</CAWIBaseC>
+  <CSBaseC>Паростки культур</CSBaseC>
+  <BAWIBaseC>Бойові тварини</BAWIBaseC>
+  <DBaseC>Посуха</DBaseC>
+  <WMWIBaseC>Дикуни блукають</WMWIBaseC>
+  <HPBaseC>Мисливський загін</HPBaseC>
+
+  <GCWResetOBO>Зупинка подій у світі...</GCWResetOBO>
+  <GCMResetOBO>Зупинка подій на карті...</GCMResetOBO>
+
+  <!-- EN: Number of day(s) in-between purple events: -->
+  <VEE_DaysBetweenPurpleEvents>Кількість днів між фіолетовими подіями:</VEE_DaysBetweenPurpleEvents>
+</LanguageData>

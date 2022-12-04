@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus_BuildMenu.label>Меню архітектури</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>Меню досліджень</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>Колесо команд</MintMenus_MintWheel.label>
+  <MintMenus_MintBillMenu.label>Меню виробництва</MintMenus_MintBillMenu.label>
+  <MintMenus_PinningHide.label>Меню спорядження (експериментальне)</MintMenus_PinningHide.label>
+  <MintMenus_MintGearMenu.label>Меню спорядження</MintMenus_MintGearMenu.label>
+
+</LanguageData>

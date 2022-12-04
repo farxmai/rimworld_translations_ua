@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_MintCoffee.label>м'ятниа кава</VBE_MintCoffee.label>
+	<VBE_MintCoffee.description>Гіркий еспресо змішується з вершками або молоком, потім додатково додається м'ята і прикрашається листочком м'яти. Прохолодна і бархатиста кава дає ще більш прохолодний, заспокійливий післясмак, не кажучи вже про дихання, що чудово пахне.</VBE_MintCoffee.description>
+
+
+	<VBE_MintCoffee.ingestible.ingestCommandString>Випити {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+	<VBE_MintCoffee.ingestible.ingestReportString>п'є {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

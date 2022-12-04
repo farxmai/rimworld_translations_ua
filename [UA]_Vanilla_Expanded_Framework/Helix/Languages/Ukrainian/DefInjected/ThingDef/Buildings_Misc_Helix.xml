@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gas-operated pod launcher -->
+  <VHGE_GasOperatedPodLauncher.label>газовий запускач капсул</VHGE_GasOperatedPodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <VHGE_GasOperatedPodLauncher.description>Пристрій для подачі палива та запуску транспортної капсули. Можна активувати кілька пускових установок одночасно, для цього вони мають бути встановлені впритул один до одного.</VHGE_GasOperatedPodLauncher.description>
+</LanguageData>

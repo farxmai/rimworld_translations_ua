@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: prune Gauranlen trees -->
+  <PruneGauranlenTree.label>підстригти вузлові дерева душі</PruneGauranlenTree.label>
+  <!-- EN: pruning -->
+  <PruneGauranlenTree.gerund>підстригти</PruneGauranlenTree.gerund>
+  <!-- EN: prune -->
+  <PruneGauranlenTree.verb>підстригти</PruneGauranlenTree.verb>
+</LanguageData>

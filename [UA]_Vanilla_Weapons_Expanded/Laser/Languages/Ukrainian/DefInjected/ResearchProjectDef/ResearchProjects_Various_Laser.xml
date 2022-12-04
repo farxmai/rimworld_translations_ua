@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_LaserWeapons.label>утильна лазерна зброя</VWE_LaserWeapons.label>
+  <VWE_LaserWeapons.description>Навчіться розбирати просунуті компоненти та збирати з них нестабільне, експериментальне лазерне озброєння.</VWE_LaserWeapons.description>
+	
+  <VWE_UltratechLaserWeapons.label>ультратехнологічна лазерна зброя</VWE_UltratechLaserWeapons.label>
+  <VWE_UltratechLaserWeapons.description>Навчіться створювати просунуту лазерну зброю, апофеоз ультратехнологічної війни.</VWE_UltratechLaserWeapons.description>
+</LanguageData>

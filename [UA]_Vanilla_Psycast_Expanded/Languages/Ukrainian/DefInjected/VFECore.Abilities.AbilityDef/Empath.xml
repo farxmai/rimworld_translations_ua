@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: word of joy -->
+  <VPE_WordofJoy.label>слово радості</VPE_WordofJoy.label>
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <VPE_WordofJoy.description>Вимовити слова, що наповнюють блаженством і спокоєм, одночасно впроваджуючи у свідомість цілі хвилю радості. Хвиля радості придушуватиме всі неприємні думки та почуття, підвищуючи її загальний настрій. Побічним ефектом є пригнічена свідомість, що проявляється у притупленні почуттів та погіршенні здатності до прийняття рішень.</VPE_WordofJoy.description>
+
+  <!-- EN: word of love -->
+  <VPE_WordofLove.label>слово любові</VPE_WordofLove.label>
+  <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
+  <VPE_WordofLove.description>Вимовити слова, вихваляючі чиїсь чесноти, одночасно впроваджуючи у свідомість цілі любовний інтерес. Протягом кількох днів після цього ціль відчуватиме психічно викликану любовну тягу до іншої людини. Її ставлення до неї сильно покращиться, крім того, ціль охоче прийме залицяння та пропозицію шлюбу. Дана дія може бути використана, щоб звести між собою двох людей, викликати в когось любов до псіоніка або змусити його самого когось полюбити.</VPE_WordofLove.description>
+
+  <!-- EN: word of serenity -->
+  <VPE_WordofSerenity.label>слово безтурботності</VPE_WordofSerenity.label>
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+  <VPE_WordofSerenity.description>Вимовити слова, що психічно впливають на свідомість, щоб припинити нервовий зрив людини або тварини. Ціль після цього ненадовго зануриться у псі-сон. Необхідна кількість псіконцентрації залежить від тяжкості психічного стану цілі.</VPE_WordofSerenity.description>
+
+  <!-- EN: word of inspiration -->
+  <VPE_WordofInspiration.label>слово натхнення</VPE_WordofInspiration.label>
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+  <VPE_WordofInspiration.description>Вимовити слова, які психічно впливають на свідомість цілі, викличуть у неї емоційний підйом і наповнять новими ідеями. Ціль отримає випадкове наснагу, що підходить для неї.</VPE_WordofInspiration.description>
+
+  <!-- EN: psychic sooth (male) -->
+  <VPE_SootheMale.label>психічне заспокоєння (чоловіки)</VPE_SootheMale.label>
+  <!-- EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males. -->
+  <VPE_SootheMale.description>Посилає сигнал розташованому неподіілк генератору щастя, щоб той випромінював хвилі психоактивного гулу, паралельно налаштовуючи сигнал так, щоб він впливав лише на чоловіків.</VPE_SootheMale.description>
+
+  <!-- EN: psychic sooth (female) -->
+  <VPE_SootheFemale.label>психічне заспокоєння (жінки)</VPE_SootheFemale.label>
+  <!-- EN:Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females. -->
+  <VPE_SootheFemale.description>Посилає сигнал розташованому неподіілк генератору щастя, щоб той випромінював хвилі психоактивного гулу, паралельно налаштовуючи сигнал так, щоб він впливав лише на жінок.</VPE_SootheFemale.description>
+
+  <!-- EN: bliss -->
+  <VPE_Bliss.label>щастя</VPE_Bliss.label>
+  <!-- EN: After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action. -->
+  <VPE_Bliss.description>Після невеликої медитації викликає відчуття безтурботності у зазначеній області, що досягає максимуму, коли ефект добігає кінця. Заспокійливий ефект  досягається за рахунок зниження концентрації уваги, але це не є ворожою дією.</VPE_Bliss.description>
+
+  <!-- EN: energy dump -->
+  <VPE_EnergyDump.label>відновлення енергії</VPE_EnergyDump.label>
+  <!-- EN: Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap. -->
+  <VPE_EnergyDump.description>Повністю знімає відчуття втоми у цілі, що знаходиться поблизу, в обмін на спустошення запасу сил псіоніка. Після застосування цієї здатності псіоніку знадобиться як слід виспатися.</VPE_EnergyDump.description>
+
+  <!-- EN: mind wipe -->
+  <VPE_MindWipe.label>стерти пам'ять</VPE_MindWipe.label>
+  <!-- EN: Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment. -->
+  <VPE_MindWipe.description>Викликає у цілі миттєву і нешкідливу ретроградну амнезію, що прибирає всі набуті спогади, соціальні зв'язки та навички, що не належать до її передісторії. Також у цілі виникне почуття сильної прихильності до поселення псіоніка та бажання заново відкрити для себе життя без уподобань.</VPE_MindWipe.description>
+
+  <!-- EN:reunion farskip -->
+  <VPE_ReunionFarskip.label>возз'єднання родичів</VPE_ReunionFarskip.label>
+  <!-- EN:After a short meditation period and followed by a 5-day coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions. -->
+  <VPE_ReunionFarskip.description>Після короткої медитації псіонік збирає всіх живих кровних родичів поселенця, переміщуючи їх до цілі. Усі переміщені родичі будуть у стані психічного шоку. Це не змінює їх взаємовідносини і вважається дуже грубим вчинком стосовно інших фракцій. Також після застосування цієї здатності псіонік впадає у п'ятиденну кому.</VPE_ReunionFarskip.description>
+</LanguageData>

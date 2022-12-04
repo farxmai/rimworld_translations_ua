@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_LuciferiumPowder.label>пудра люциферія</VBE_LuciferiumPowder.label>
+  <VBE_LuciferiumPowder.description>Пудра люциферія – це дрібнодисперсний порошок люциферія. Зазвичай її додають у спиртні напої в барах, які відвідують багаті та впливові люди. Є дуже розбавленою версією люциферія без ризику залежності.</VBE_LuciferiumPowder.description>
+
+  <VBE_WakeUpPowder.label>пудра бодьорина</VBE_WakeUpPowder.label>
+  <VBE_WakeUpPowder.description>Пудра бодьорина - це подрібнена і порошкоподібна форма бодьорина, напрочуд солодка і іноді використовується як заміна цукру в десертах або розчинена в ранковому еспресо. У такому розведеному вигляді цей препарат не буде таким стимулюючим. Зверніть увагу, що хоча пудра бодьорина не викликає звикання, вона все ж таки несе в собі ризик (хоч і дуже невеликий) серцевого нападу.</VBE_WakeUpPowder.description>
+
+  <VBE_GoJuiceStock.label>кубик го-соку</VBE_GoJuiceStock.label>
+  <VBE_GoJuiceStock.description>Кубик го-соку є желатинізованим кубиком, який можна перетравлювати, а не вводити шляхом ін'єкції. У такому розведеному вигляді препарат не зможе блокувати сильний біль.</VBE_GoJuiceStock.description>
+
+</LanguageData>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VAE_Footwear_PlateBoots.label>зробити пластинчасті чоботи</Make_VAE_Footwear_PlateBoots.label>
+  <Make_VAE_Footwear_PlateBoots.description>зробити пластинчасті чоботи.</Make_VAE_Footwear_PlateBoots.description>
+  <Make_VAE_Footwear_PlateBoots.jobString>виготовляє пластинчасті чоботи</Make_VAE_Footwear_PlateBoots.jobString>
+
+  <Make_VAE_Footwear_MarineBoots.label>зробити силові чоботи</Make_VAE_Footwear_MarineBoots.label>
+  <Make_VAE_Footwear_MarineBoots.description>зробити силові чоботи.</Make_VAE_Footwear_MarineBoots.description>
+  <Make_VAE_Footwear_MarineBoots.jobString>виготовляє силові чоботи</Make_VAE_Footwear_MarineBoots.jobString>
+
+  <Make_VAE_Handwear_PlateGloves.label>зробити пластинчасті рукавиці</Make_VAE_Handwear_PlateGloves.label>
+  <Make_VAE_Handwear_PlateGloves.description>зробити пластинчасті рукавиці.</Make_VAE_Handwear_PlateGloves.description>
+  <Make_VAE_Handwear_PlateGloves.jobString>виготовляє пластинчасті рукавиці</Make_VAE_Handwear_PlateGloves.jobString>
+
+  <Make_VAE_Handwear_MarineGloves.label>зробити силові рукавиці</Make_VAE_Handwear_MarineGloves.label>
+  <Make_VAE_Handwear_MarineGloves.description>зробити силові рукавиці.</Make_VAE_Handwear_MarineGloves.description>
+  <Make_VAE_Handwear_MarineGloves.jobString>виготовляє силові рукавиці</Make_VAE_Handwear_MarineGloves.jobString>
+
+  <Make_VAE_Apparel_BulletproofVest.label>зробити куленепробивний жилет</Make_VAE_Apparel_BulletproofVest.label>
+  <Make_VAE_Apparel_BulletproofVest.description>зробити куленепробивний жилет.</Make_VAE_Apparel_BulletproofVest.description>
+  <Make_VAE_Apparel_BulletproofVest.jobString>виготовляє куленепробивний жилет</Make_VAE_Apparel_BulletproofVest.jobString>
+
+  <Make_VAE_Apparel_GhillieSuit.label>зробити маскувальний халат</Make_VAE_Apparel_GhillieSuit.label>
+  <Make_VAE_Apparel_GhillieSuit.description>зробити маскувальний халат.</Make_VAE_Apparel_GhillieSuit.description>
+  <Make_VAE_Apparel_GhillieSuit.jobString>виготовляє маскувальний халат</Make_VAE_Apparel_GhillieSuit.jobString>
+
+  <Make_VAE_Apparel_AdvancedVest.label>зробити просунутий жилет</Make_VAE_Apparel_AdvancedVest.label>
+  <Make_VAE_Apparel_AdvancedVest.description>зробити просунутий жилет.</Make_VAE_Apparel_AdvancedVest.description>
+  <Make_VAE_Apparel_AdvancedVest.jobString>виготовляє просунутий жилет</Make_VAE_Apparel_AdvancedVest.jobString>
+
+  <Make_VAE_Apparel_HAZMATSuit.label>зробити захисний костюм</Make_VAE_Apparel_HAZMATSuit.label>
+  <Make_VAE_Apparel_HAZMATSuit.description>зробити захисний костюм.</Make_VAE_Apparel_HAZMATSuit.description>
+  <Make_VAE_Apparel_HAZMATSuit.jobString>виготовляє захисний костюм</Make_VAE_Apparel_HAZMATSuit.jobString>
+
+  <Make_VAE_Apparel_Gambeson.label>зробити гамбезон</Make_VAE_Apparel_Gambeson.label>
+  <Make_VAE_Apparel_Gambeson.description>зробити гамбезон.</Make_VAE_Apparel_Gambeson.description>
+  <Make_VAE_Apparel_Gambeson.jobString>виготовляє гамбезон</Make_VAE_Apparel_Gambeson.jobString>
+
+  <Make_VAE_Apparel_QuiltedVest.label>зробити стьобаний жилет</Make_VAE_Apparel_QuiltedVest.label>
+  <Make_VAE_Apparel_QuiltedVest.description>зробити стьобаний жилет.</Make_VAE_Apparel_QuiltedVest.description>
+  <Make_VAE_Apparel_QuiltedVest.jobString>виготовляє стьобаний жилет</Make_VAE_Apparel_QuiltedVest.jobString>
+
+  <Make_VAE_Apparel_LightPlateArmor.label>зробити легкий пластинчастий обладунок</Make_VAE_Apparel_LightPlateArmor.label>
+  <Make_VAE_Apparel_LightPlateArmor.description>зробити легкий пластинчастий обладунок.</Make_VAE_Apparel_LightPlateArmor.description>
+  <Make_VAE_Apparel_LightPlateArmor.jobString>виготовляє легкий пластинчастий обладунок</Make_VAE_Apparel_LightPlateArmor.jobString>
+
+  <Make_VAE_Apparel_PlateShoulderpads.label>зробити пластинчасті наплічники</Make_VAE_Apparel_PlateShoulderpads.label>
+  <Make_VAE_Apparel_PlateShoulderpads.description>зробити пластинчасті наплічники.</Make_VAE_Apparel_PlateShoulderpads.description>
+  <Make_VAE_Apparel_PlateShoulderpads.jobString>виготовляє пластинчасті наплічники</Make_VAE_Apparel_PlateShoulderpads.jobString>
+
+  <Make_VAE_Apparel_Chestplate.label>зробити кірасу</Make_VAE_Apparel_Chestplate.label>
+  <Make_VAE_Apparel_Chestplate.description>зробити кірасу.</Make_VAE_Apparel_Chestplate.description>
+  <Make_VAE_Apparel_Chestplate.jobString>виготовляє кірасу</Make_VAE_Apparel_Chestplate.jobString>
+
+  <Make_VAE_Apparel_Chainmail.label>зробити кольчугу</Make_VAE_Apparel_Chainmail.label>
+  <Make_VAE_Apparel_Chainmail.description>зробити кольчугу.</Make_VAE_Apparel_Chainmail.description>
+  <Make_VAE_Apparel_Chainmail.jobString>виготовляє кольчугу</Make_VAE_Apparel_Chainmail.jobString>
+
+  <Make_VAE_Apparel_PlateHelmet.label>зробити пластинчастий шолом</Make_VAE_Apparel_PlateHelmet.label>
+  <Make_VAE_Apparel_PlateHelmet.description>зробити пластинчастий шолом.</Make_VAE_Apparel_PlateHelmet.description>
+  <Make_VAE_Apparel_PlateHelmet.jobString>виготовляє пластинчастий шолом</Make_VAE_Apparel_PlateHelmet.jobString>
+
+  <Make_VAE_Apparel_WoodenArmor.label>зробити дерев'яний нагрудник</Make_VAE_Apparel_WoodenArmor.label>
+  <Make_VAE_Apparel_WoodenArmor.description>зробити дерев'яний нагрудник.</Make_VAE_Apparel_WoodenArmor.description>
+  <Make_VAE_Apparel_WoodenArmor.jobString>виготовляє дерев'яний нагрудник</Make_VAE_Apparel_WoodenArmor.jobString>
+
+  <Make_VAE_Headgear_StoneWarMask.label>зробити кам'яну маску війни</Make_VAE_Headgear_StoneWarMask.label>
+  <Make_VAE_Headgear_StoneWarMask.description>зробити кам'яну маску війни.</Make_VAE_Headgear_StoneWarMask.description>
+  <Make_VAE_Headgear_StoneWarMask.jobString>виготовляє кам'яну маску війни</Make_VAE_Headgear_StoneWarMask.jobString>
+
+  <Make_VAE_Headgear_HeavyMarineHelmet.label>зробити проривний шолом</Make_VAE_Headgear_HeavyMarineHelmet.label>
+  <Make_VAE_Headgear_HeavyMarineHelmet.description>зробити проривний шолом.</Make_VAE_Headgear_HeavyMarineHelmet.description>
+  <Make_VAE_Headgear_HeavyMarineHelmet.jobString>виготовляє проривний шолом</Make_VAE_Headgear_HeavyMarineHelmet.jobString>
+
+  <Make_VAE_Apparel_HeavyMarineArmor.label>зробити проривну броню</Make_VAE_Apparel_HeavyMarineArmor.label>
+  <Make_VAE_Apparel_HeavyMarineArmor.description>зробити проривну броню.</Make_VAE_Apparel_HeavyMarineArmor.description>
+  <Make_VAE_Apparel_HeavyMarineArmor.jobString>виготовляє проривну броню</Make_VAE_Apparel_HeavyMarineArmor.jobString>
+
+  <Make_VAE_Headgear_TrooperHelmet.label>зробити штурмовий шолом</Make_VAE_Headgear_TrooperHelmet.label>
+  <Make_VAE_Headgear_TrooperHelmet.description>зробити штурмовий шолом.</Make_VAE_Headgear_TrooperHelmet.description>
+  <Make_VAE_Headgear_TrooperHelmet.jobString>виготовляє штурмовий шолом</Make_VAE_Headgear_TrooperHelmet.jobString>
+
+  <Make_VAE_Apparel_TrooperArmor.label>зробити штурмову броню</Make_VAE_Apparel_TrooperArmor.label>
+  <Make_VAE_Apparel_TrooperArmor.description>зробити штурмову броню.</Make_VAE_Apparel_TrooperArmor.description>
+  <Make_VAE_Apparel_TrooperArmor.jobString>виготовляє штурмову броню</Make_VAE_Apparel_TrooperArmor.jobString>
+
+  <Make_VAE_Headgear_Balaclava.label>зробити балаклаву</Make_VAE_Headgear_Balaclava.label>
+  <Make_VAE_Headgear_Balaclava.description>зробити балаклаву.</Make_VAE_Headgear_Balaclava.description>
+  <Make_VAE_Headgear_Balaclava.jobString>виготовляє балаклаву</Make_VAE_Headgear_Balaclava.jobString>
+
+  <Make_VAE_Headgear_NightVisionGoggles.label>зробити ПНБ</Make_VAE_Headgear_NightVisionGoggles.label>
+  <Make_VAE_Headgear_NightVisionGoggles.description>зробити ПНБ.</Make_VAE_Headgear_NightVisionGoggles.description>
+  <Make_VAE_Headgear_NightVisionGoggles.jobString>виготовляє ПНБ</Make_VAE_Headgear_NightVisionGoggles.jobString>
+
+  <Make_VAE_Headgear_BallisticGoggles.label>зробити тактичні окуляри</Make_VAE_Headgear_BallisticGoggles.label>
+  <Make_VAE_Headgear_BallisticGoggles.description>зробити тактичні окуляри.</Make_VAE_Headgear_BallisticGoggles.description>
+  <Make_VAE_Headgear_BallisticGoggles.jobString>виготовляє тактичні окуляри</Make_VAE_Headgear_BallisticGoggles.jobString>
+
+  <Make_VAE_Headgear_GhillieHood.label>зробити маскувальний капюшон</Make_VAE_Headgear_GhillieHood.label>
+  <Make_VAE_Headgear_GhillieHood.description>зробити маскувальний капюшон.</Make_VAE_Headgear_GhillieHood.description>
+  <Make_VAE_Headgear_GhillieHood.jobString>виготовляє маскувальний капюшон</Make_VAE_Headgear_GhillieHood.jobString>
+
+  <Make_VAE_Headgear_HAZMATMask.label>зробити захисний капюшон</Make_VAE_Headgear_HAZMATMask.label>
+  <Make_VAE_Headgear_HAZMATMask.description>зробити захисний капюшон.</Make_VAE_Headgear_HAZMATMask.description>
+  <Make_VAE_Headgear_HAZMATMask.jobString>виготовляє захисний капюшон</Make_VAE_Headgear_HAZMATMask.jobString>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Light_Streetlamp.label>вуличний ліхтар</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Висока електрична лампа на вулиці. Не замикає через опади та включається лише вночі.</Light_Streetlamp.description>
+
+  <Misc_FileCabinet.label>картотека</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Предмет меблів, що використовується для організації документів та записів у паперовому вигляді. Це допомагає швидше виконувати дослідження.</Misc_FileCabinet.description>
+
+  <Shelf_1x1c.label>стеллаж (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>Невеликий стелаж для зберігання різних предметів. Такі предмети не впливатимуть на красу приміщення та не старітимуть, навіть якщо розташувати стелаж поза приміщенням.</Shelf_1x1c.description>
+
+  <Shelf_WeaponRack.label>збройовий стелаж</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Надміцний стелаж для зберігання зброї. Такі предмети не впливатимуть на красу приміщення та не старітимуть, навіть якщо розташувати стелаж поза приміщенням.</Shelf_WeaponRack.description>
+
+  <Bin_Small.label>відро для сміття</Bin_Small.label>
+  <Bin_Small.description>Невелике відро для сміття для підтримки чистоти навколо нього. Повільно видаляє сміття та бруд у радіусі 10 клітин.</Bin_Small.description>
+
+  <Bin_Large.label>контейнер для сміття</Bin_Large.label>
+  <Bin_Large.description>Сміттєвий контейнер для підтримки чистоти навколо нього. Повільно видаляє сміття та бруд у радіусі 20 клітин.</Bin_Large.description>
+
+</LanguageData>

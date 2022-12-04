@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 27 -->
+
+  <!-- EN: party life -->
+  <VME_PartyLife.label>любителі вечірок</VME_PartyLife.label>
+  <!-- EN: Let us toast to the acts of dance, drink and debauchery. Any free time is a good time, але party time is the best time. -->
+  <VME_PartyLife.description>Піднімемо тост за танці, випивку та розпусту. Будь-який вільний час – гарний час, але час для вечірок – найкращий час.</VME_PartyLife.description>
+
+  <VME_PartyLife.generalRules.rulesStrings>
+    <li>memeCreed->гедоністичний</li>
+    <li>memeAdjective->веселий</li>
+    <li>memeAdjective->танцювальний</li>
+    <li>memeAdjective->розважальний</li>
+    <li>memeConcept->танців</li>
+    <li>memeConcept->свята</li>
+    <li>memeLeaderNoun->головний тусовщик</li>
+    <li>memeMoralist->душа компанії</li>
+  </VME_PartyLife.generalRules.rulesStrings>
+
+  <VME_PartyLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PartyLife) ->[deity0_name] [deity0_spoke] до своїх послідовників: «Позначте цей день у своїх календарях як привід для веселощів, бо свята для мене священні».</li>
+    <li>episode(uses=1,tag=meme_PartyLife) ->Ось з того дня ми святкуємо.</li>
+    <li>intro(tag=meme_PartyLife) ->Десь, здається, те місце звалося [place_summary] [place_name], [memberNamePlural] спорудили гігантську сцену. Це було б ідеальне місце для вечірок та прославлення [deity0_god] на ім'я [deity0_name].</li>
+    <li>conflict(tag=meme_PartyLife) ->Сусіди, однак, були незадоволені кількістю шуму, вони хотіли отримати свій спокій, що важко дістався.</li>
+    <li>founderJoin(tag=meme_PartyLife) ->[founderName], [founder_Reveler] до уваги таку нісенітницю. Відпочинок – для слабаків! Подати ще коктейлів!</li>
+    <li>victory(tag=meme_PartyLife) ->Тому вони включили музику ще голосніше. Вечірка продовжилася!</li>
+    <li>setup(tag=meme_PartyLife) ->[founderName] [founder_was] відомим філософом, [founder_possessive] ім'я чули у всіх зоряних системах. [founder_pronoun] [founder_posited], що життя занадто коротке, щоб прожити його без задоволення, і що тільки звеличуючи достоїнства пустого життя, можна сподіватися на справжнє задоволення.</li>
+    <li>story(uses=1,tag=meme_PartyLife) ->На превеликий жаль, кілька років тому [founder_pronoun] [founder_dead] в результаті передозування. Мабуть, це була пекельна вечірка!</li>
+    <li>lessonIntro(tag=meme_PartyLife) ->Чуєш, чуєш, підійди сюди. Ох, мужику, яке рохмілля... Ось глянь, я хочу тобі сказати, що</li>
+    <li>lesson(tag=meme_PartyLife) ->я люблю гуляти. Я люблю вечірки. Та ось і все</li>
+    <li>lessonReinforcement(tag=meme_PartyLife) ->А тепер відвали і перестань кричати. Чорт забирай, моя бідна голова...</li>
+    <li>archistBasis(tag=meme_PartyLife) ->Невже ви дійсно думаєте, що архотекам, у їхній безмежній мудрості, є справа до тих, хто не вміє отримувати задоволення?</li>
+    <li>archistFact(tag=meme_PartyLife) ->Архотеки не можуть зійти до всіх, і зрозуміло вони виберуть найвеселішого, найщасливішого з нас.</li>
+    <li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], тільки ті, хто проводить своє життя, розважаючись у тисячах мрій, буде допущений до трансцедентного.</li>
+    <li>animistBasis(tag=meme_PartyLife) ->Духи хочуть, щоб ми раділи життю. Який сенс іти життям, наче тінь? </li>
+    <li>animistFact(tag=meme_PartyLife) ->Серед усіх духів дух радості та веселощів має неперевершену мудрість. Тільки він знає, як отримувати задоволення.</li>
+    <li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] тільки ті, хто проводить своє життя, розважаючись у тисячах мрій, можуть по-справжньому умилостивити духів.</li>
+    <li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] ми будемо веселитися. Це... насправді не має взагалі жодного відношення до комах. Я думаю... жук, мабуть, із задоволенням випив би пива? Так, давайте ще повторимо. Я все одно вже п'яний.</li>
+    <li>chthonianProphecy(tag=meme_PartyLife)->З цими моторошними сутностями не можна боротися, їх неможливо перемогти. Якби нам довелося зіткнутися з ними, то з тим самим успіхом ми могли б бути зовсім п'яними.</li>
+    <li>esotericismProphecy(tag=meme_PartyLife)->У цих окультних знаннях неможливо розібратися, будучи тверезим.</li>
+    <li>eschatologismFact(tag=meme_PartyLife)->Світ горітиме, і це те, з чим краще не стикатися тверезим.</li>
+    <li>introMemo(tag=meme_PartyLife)->Настав наш улюблений час у році! Обов'язковий командоосвітній захід компанії заплановано наступного вівторка. Не забудьте взяти із собою тенісні ракетки!</li>
+    <li>alienistProphecy(tag=meme_PartyLife)->Я чув, що існує якась дивна ящірка, яка перетворює рослини на спирт. Оооо, хлопче, я міг би обійняти цю ящірку прямо зараз.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->звернулося</li>
+    <li>deity0_spoke(deity0_gender==Male)->звернувся</li>
+    <li>deity0_spoke(deity0_gender==Female)->звернулася</li>
+    <li>deity0_god(deity0_gender==None)->божества</li>
+    <li>deity0_god(deity0_gender==Male)->бога</li>
+    <li>deity0_god(deity0_gender==Female)->богині</li>
+    <li>founder_Reveler(founder_gender==Male)->відомий як Великий Гуляка, не прийняв</li>
+    <li>founder_Reveler(founder_gender==Female)->відома як Велика Гуляка, не прийняла</li>
+
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_posited(founder_gender==Male)->стверджував</li>
+    <li>founder_posited(founder_gender==Female)->стверджувала</li>
+    <li>founder_dead(founder_gender==Male)->був знайдений мертвим</li>
+    <li>founder_dead(founder_gender==Female)->була знайдена мертвою</li>
+  </VME_PartyLife.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Party Life -->
+  <VME_PartyLife.symbolPacks.0.ideoName>Тусовка</VME_PartyLife.symbolPacks.0.ideoName>
+  <!-- EN: partying -->
+  <VME_PartyLife.symbolPacks.0.theme>тусовки</VME_PartyLife.symbolPacks.0.theme>
+  <!-- EN: partying -->
+  <VME_PartyLife.symbolPacks.0.adjective>розважальний</VME_PartyLife.symbolPacks.0.adjective>
+  <!-- EN: celebrant -->
+  <VME_PartyLife.symbolPacks.0.member>чувак</VME_PartyLife.symbolPacks.0.member>
+
+</LanguageData>

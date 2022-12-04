@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Comfier Than Usual -->
+  <comfierThanUsual.label>Зручніше, ніж зазвичай</comfierThanUsual.label>
+  <!-- EN: Construct a human leather armchair -->
+  <comfierThanUsual.description>Зробити крісло з людської шкіри</comfierThanUsual.description>
+
+  <!-- EN: The Architect -->
+  <theArchitect.label>Архітектор</theArchitect.label>
+  <!-- EN: Build 1000 Walls -->
+  <theArchitect.description>Побудувати 1000 стін</theArchitect.description>
+
+  <!-- EN: Building the Skynet -->
+  <buildingTheSkynet.label>Будуємо Скайнет</buildingTheSkynet.label>
+  <!-- EN: Construct 30 mini-turrets -->
+  <buildingTheSkynet.description>Побудувати 30 міні-турелей</buildingTheSkynet.description>
+
+  <!-- EN: It Ain't Rocket Science -->
+  <itAintRocketScience.label>Ілон Маск</itAintRocketScience.label>
+  <!-- EN: Build a spaceship -->
+  <itAintRocketScience.description>Побудувати космічний корабель</itAintRocketScience.description>
+</LanguageData>

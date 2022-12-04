@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fireKeeper -->
+  <VME_BonfireBehaviour.roles.0.label>хранитель вогню</VME_BonfireBehaviour.roles.0.label>
+  <!-- EN: Participants -->
+  <VME_BonfireBehaviour.spectatorsLabel>учасники</VME_BonfireBehaviour.spectatorsLabel>
+  <!-- EN: participate -->
+  <VME_BonfireBehaviour.spectatorGerund>брати участь</VME_BonfireBehaviour.spectatorGerund>
+</LanguageData>

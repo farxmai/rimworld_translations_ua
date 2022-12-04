@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: word of trust -->
+  <VPE_WordofTrust.label>слово довіри</VPE_WordofTrust.label>
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him. -->
+  <VPE_WordofTrust.description>Поговорити з бранцем, психічно впливаючи на його свідомість, щоб зменшити опір. Для здійснення безпосередньо рекрктування ця здатність не застосовується.</VPE_WordofTrust.description>
+
+  <!-- EN: word of productivity -->
+  <VPE_WordofProductivity.label>слово продуктивності</VPE_WordofProductivity.label>
+  <!-- EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity. -->
+  <VPE_WordofProductivity.description>Використовувати мотивуючі слова у поєднанні із значним посиленням метаболізму, щоб зробити ціль більш продуктивним членом суспільства на найближчі кілька днів. Вважається ворожою дією та успіх залежить від психічної чутливості цілі.</VPE_WordofProductivity.description>
+
+  <!-- EN: blinding pulse -->
+  <VPE_BlindingPulse.label>засліплюючий імпульс</VPE_BlindingPulse.label>
+  <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity. -->
+  <VPE_BlindingPulse.description>Викликати псіонічний шум у зорових центрах мозку у всіх, хто знаходиться неподалік точки застосування, фактично засліплюючи тих, хто зазнав впливу здатності. Триває приблизно півхвилини, успіх залежить від психічної чутливості цілей.</VPE_BlindingPulse.description>
+
+  <!-- EN: word of alliance -->
+  <VPE_WordofAlliance.label>слово дружби</VPE_WordofAlliance.label>
+  <!-- EN: Speak words of friendship and benefits to a close target using psychic suggestion, helping them realize that you’re not all that bad. Only works on those willing to listen and effect scales with the caster's psychic sensitivity. -->
+  <VPE_WordofAlliance.description>Зв'язати слова про дружбу і взаємовигоду з психічним впливом на ціль, що знаходиться поблизу, підштовхуючи її до усвідомлення того, що з вами не так вже й погано. Працює лише на тих, хто готовий слухати. Ефект залежить від психічної чутливості псіоніка.</VPE_WordofAlliance.description>
+
+  <!-- EN: group link -->
+  <VPE_GroupLink.label>груповий зв'язок</VPE_GroupLink.label>
+  <!-- EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range. -->
+  <VPE_GroupLink.description>Створює навколо психосферу, що дозволяє проектувати будь-які «слова», призначені для однієї цілі, на усіх хто в радіусі дії. Ефект зникає, якщо цілі залишають радіус дії.</VPE_GroupLink.description>
+
+  <!-- EN: word of pain -->
+  <VPE_WordofPain.label>слово болі</VPE_WordofPain.label>
+  <!-- EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity. -->
+  <VPE_WordofPain.description>Перевантажити нервові закінчення цілі, паралельно впливаючи на болючі центри мозку. Ефект зростає разом із психічною чутливістю цілі.</VPE_WordofPain.description>
+
+  <!-- EN: mind break -->
+  <VPE_MindBreak.label>злам розуму</VPE_MindBreak.label>
+  <!-- EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions. -->
+  <VPE_MindBreak.description>Хвиля спрямованого псионического шуму створює незворотні зміни у мозку цілі, перетворюючи її на псі-раба. Гарантовано розлютить фракцію, до якої раніше належала ціль.</VPE_MindBreak.description>
+
+  <!-- EN: word of protection -->
+  <VPE_WordofProtection.label>слово захисту</VPE_WordofProtection.label>
+  <!-- EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity. -->
+  <VPE_WordofProtection.description>Психічно змінити структуру тіла цілі за допомогою гармонізованого псіонічного шуму, роблячи її більш стійкою до пошкоджень. Ефект залежить від психічної чутливості псіоніка.</VPE_WordofProtection.description>
+
+  <!-- EN: drain psyessence -->
+  <VPE_DrainPsyessence.label>вилучити псі-есенцію</VPE_DrainPsyessence.label>
+  <!-- EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <VPE_DrainPsyessence.description>Застосовується по відношенню до знерухомлених псіонічно обдарованих персонажів. За допомогою сильного спрямованого псіонічного шуму тіло цілі плавиться і перетворюється на псі-есенцію, придатну для поглинання користувачем для підкріплення його псіонічних здібностей. Остання мить псіонічної руйнації відчувається всіма в радіусі багатьох кілометрів навколо, що неминуче призведе до дипломатичних наслідків.</VPE_DrainPsyessence.description>
+
+  <!-- EN: mass hallucination -->
+  <VPE_MassHallucination.label>масові галюцинації</VPE_MassHallucination.label>
+  <!-- EN: Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The resulting coma for the caster and the effect lasts for five days. -->
+  <VPE_MassHallucination.description>Створити викид псіонічної енергії, спрямованої на те, щоб переконати людей навколо, що приміщення виглядають бездоганно. Ефект зберігається протягом п'яти днів, але псіонік впадає в кому на цей час.</VPE_MassHallucination.description>
+</LanguageData>

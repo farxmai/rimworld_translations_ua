@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 3 -->
+
+  <!-- EN: god emperor -->
+  <VME_GodEmperor.label>Бог-Імператор</VME_GodEmperor.label>
+  <!-- EN: Наш Лідер повинен бути сприйнятий як живий Ґод, фізична manifestation наших ideals and precepts. -->
+  <VME_GodEmperor.description>Нашому лідерові слід поклонятися як живому Богу, фізичному втіленню наших ідеалів та заповідей.</VME_GodEmperor.description>
+
+  <VME_GodEmperor.generalRules.rulesStrings>
+    <li>memeAdjective->абсолютний</li>
+    <li>memeAdjective->божественний</li>
+    <li>memeHyphenPrefix->богоподібно</li>
+    <li>memeConcept->імперського самодержавства</li>
+    <li>memeLeaderNoun->Бог-Імператор</li>
+    <li>memeMoralist->вірний слуга</li>
+    <li>memeMoralist->провидець</li>
+  </VME_GodEmperor.generalRules.rulesStrings>
+
+  <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_GodEmperor) ->[deity0_name] благословив Вибраного [deity0_possessive], нашого Бога-Імператора, який вкаже наш шлях у житті.</li>
+    <li>episode(uses=1,tag=meme_GodEmperor) ->[deity0_name] сказав усім [memberNamePlural], "Бо ви повинні слідувати за моїм Обранцем, Богом-Імператором, і схилятися перед ним у смиренності, покірності та обожненні".</li>
+    <li>intro(tag=meme_GodEmperor) ->[memberNamePlural] побудували чудовий [altarName] у [place_summary] [place_name], величезний пам'ятник нашому богу-імператору.</li>
+    <li>conflict(tag=meme_GodEmperor) ->Боягуз [foeLeader], прагнув заперечувати нашу віру [deity0_name], tried to slay our God намагалися вбити нашого Бога-Імператора, але знайшли тільки смерть.</li>
+    <li>founderJoin(tag=meme_GodEmperor) ->[deity0_name] благословив [place_job] іменоване [founderName] з [foeLeader_possessive] божественну силу, і це священне місце наділяє силою нашого вічного Бога-Імператора.</li>
+    <li>setup(tag=meme_GodEmperor) ->Наш засновник [founderName] був найбільшим із учнів нашого Бога-Імператора, справжнім слугою.</li>
+    <li>story(uses=1,tag=meme_GodEmperor) ->Послідовники розповсюджували мудрість непохитної вірності постановам нашого Бога Імператора.</li>
+    <li>lessonIntro(tag=meme_GodEmperor) ->За всі роки мого служіння нашому Богу-Імператору я засвоїв один урок, дуже важливий урок:</li>
+    <li>lesson(tag=meme_GodEmperor) ->тільки через абсолютне підпорядкування нашому лідеру ми досягнемо наших цілей</li>
+    <li>lessonReinforcement(tag=meme_GodEmperor) ->Тільки завдяки Божественній волі нашого Бога-Імператора ми зможемо розкрити таємниці Космосу.</li>
+    <li>archistBasis(tag=meme_GodEmperor) ->Архотеки проголошують присутність свою в небі та розумі і Бога-Імператора - Вибраний їх.</li>
+    <li>archistFact(tag=meme_GodEmperor) ->Мудрість архотеків не знає межі. І нічого дивного в тому, що їхні прояви є втіленням мудрості.</li>
+    <li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd],Архотеки передадуть свою останню мудрість нашому Богу-Імператору, володарю [relic0_name].</li>
+    <li>animistFact(tag=meme_GodEmperor) ->Духи хочуть, щоб про них знали, і вони виявляють себе в тілі нашого Бога Імператора.</li>
+    <li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] Наш Бог-Імператор буде окроплений кров'ю та їхньою тисячою комах, благословенний їхньою спільною жертвою.</li>
+    <li>chthonianProphecy(tag=meme_GodEmperor)->Наш Бог-Імператор - хранитель безумства, той, хто оберігає наш розум від жорстокого безумства Космосу.</li>
+    <li>esotericismProphecy(tag=meme_GodEmperor)->Мудрість нашого Бога-Імператора відкриває йому шлях до незвіданого і він вестиме нас до цих таємних знань.</li>
+    <li>eschatologismFact(tag=meme_GodEmperor)->Наш Бог-Імператор принесе Кінець Часів. І в служінні йому ми торкнемося його великої слави.</li>
+    <li>introMemo(tag=meme_GodEmperor)->Я знаю, що ходили чутки про те, що генеральний директор компанії - Бог. Так, Бог-Імператор, насправді. Але це нічого не означає, якщо кожен із вас не працюватиме ПРОДУКТИВНО!</li>
+    <li>alienistProphecy(tag=meme_GodEmperor)->Всі ці екзотичні тварини стануть великим трофеєм для нашого улюбленого Бога Імператора.</li>
+  </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: God Emperor -->
+  <VME_GodEmperor.symbolPacks.0.ideoName>Божествений Імперіалізм</VME_GodEmperor.symbolPacks.0.ideoName>
+  <!-- EN: -->
+  <VME_GodEmperor.symbolPacks.0.theme>божественого імперіалізму</VME_GodEmperor.symbolPacks.0.theme>
+  <!-- EN: divine -->
+  <VME_GodEmperor.symbolPacks.0.adjective>імперіалістичний</VME_GodEmperor.symbolPacks.0.adjective>
+  <!-- EN: -->
+  <VME_GodEmperor.symbolPacks.0.member>слуга</VME_GodEmperor.symbolPacks.0.member>
+
+</LanguageData>

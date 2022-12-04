@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Settings -->
+	<ShowAlertNoDedicatedWaiter>Показати попередження за відсутності офіціанта</ShowAlertNoDedicatedWaiter>
+	<ShowAlertNoDedicatedWaiterDesc>Показувати попередження, якщо немає доступних робітників у години роботи ресторану</ShowAlertNoDedicatedWaiterDesc>
+
+	<!-- Messages -->
+	<MessageIncomeToday>Прибуток ресторану за день: {0}.</MessageIncomeToday>
+
+	<TabRegisterRestaurant>Ресторан</TabRegisterRestaurant>
+
+	<!-- Settings -->
+	<TabRegisterOpened>Працює</TabRegisterOpened>
+	<TabRegisterOpenedTooltip>Якщо увімкнено, відвідувачі зможуть робити замовлення в робочий час.</TabRegisterOpenedTooltip>
+	<TabRegisterGuests>Обслуговувати гостей</TabRegisterGuests>
+	<TabRegisterGuestsTooltip>Якщо увімкнено, гості зможуть робити замовлення.</TabRegisterGuestsTooltip>
+	<TabRegisterColonists>Обслуговувати колоністів.</TabRegisterColonists>
+	<TabRegisterColonistsTooltip>Якщо увімкнено, колоністи зможуть робити замовлення.</TabRegisterColonistsTooltip>
+	<TabRegisterPrisoners>Обслуговувати в'язнів</TabRegisterPrisoners>
+	<TabRegisterPrisonersTooltip>Якщо увімкнено, в'язні зможуть робити замовлення.</TabRegisterPrisonersTooltip>
+	<TabRegisterSlaves>Обслуговувати рабів</TabRegisterSlaves>
+	<TabRegisterSlavesTooltip>Якщо увімкнено, раби зможуть робити замовлення.</TabRegisterSlavesTooltip>
+	<TabRegisterGuestPrice>Націнка для гостей: {0}</TabRegisterGuestPrice>
+	<TabRegisterGuestPriceTooltip>Множник ринкової вартості. Ви можете побачити окремі ціни, коли наведете курсор на товари. Цей множник впливає настрої відвідувачів.</TabRegisterGuestPriceTooltip>
+	<TabRegisterGuestPriceFree>Безкоштовно</TabRegisterGuestPriceFree>
+	<TabRegisterDebtTooltip>{0}: {1} (натисніть для скидання)</TabRegisterDebtTooltip>
+
+	<!-- Stats -->
+	<TabRegisterRadius>Радіус</TabRegisterRadius>
+	<TabRegisterActiveStaff>Активно:</TabRegisterActiveStaff>
+	<TabRegisterSeats>Місць:</TabRegisterSeats>
+	<TabRegisterPatrons>Відвідувачі:</TabRegisterPatrons>
+	<TabRegisterTotalOrders>Усього замовлень:</TabRegisterTotalOrders>
+	<TabRegisterNeedsServing>Чекають на подачу:</TabRegisterNeedsServing>
+	<TabRegisterNeedsCooking>Чекають на приготування:</TabRegisterNeedsCooking>
+	<TabRegisterStocked>Готові страви:</TabRegisterStocked>
+	<TabRegisterDebts>Неоплачені рахунки:</TabRegisterDebts>
+	<TabRegisterEarnedYesterday>Зароблено вчора:</TabRegisterEarnedYesterday>
+	<TabRegisterEarnedToday>Зароблено сьогодні:</TabRegisterEarnedToday>
+
+	<!-- Dining -->
+	<CommandToggleDining>Ресторан</CommandToggleDining>
+	<CommandToggleDiningDesc>Якщо увімкнено, відвідувачі будуть використовувати це місце для замовлення їжі.</CommandToggleDiningDesc>
+	<CommandSetDeco>Оформлення</CommandSetDeco>
+	<CommandSetDecoDesc>Змінити вигляд оформлення столу.</CommandSetDecoDesc>
+	<JobDineGoReport>Їсть у ресторані.</JobDineGoReport>
+
+	<!-- Alerts -->
+	<AlertNoRegister>Немає касового апарату</AlertNoRegister>
+	<AlertNoRegisterExplanation>Для відкриття ресторану вам потрібний касовий апарат.</AlertNoRegisterExplanation>
+	<AlertNoWaiter>Немає доступних офіціантів</AlertNoWaiter>
+	<AlertNoWaiterExplanation>Для керування рестораном вам потрібна принаймні одна зміна офіціантів, призначте їх на касовому апараті.</AlertNoWaiterExplanation>
+
+</LanguageData>

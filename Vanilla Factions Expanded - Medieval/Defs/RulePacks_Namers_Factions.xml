@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <RulePackDef>
+        <defName>VFEM_NamerFactionMedieval</defName>
+        <include>
+            <li>OutlanderPlaceNameUtility</li>
+        </include>
+        <rulePack>
+            <rulesStrings>
+                <li>r_name(p=0.3)->[PlaceOutlander]</li>
+                <li>r_name->[Medieval_Political_Union] [PlaceOutlander]</li>
+            </rulesStrings>
+            <rulesFiles>
+                <li>Medieval_Political_Union->Words/Nouns/Medieval_Political_Union</li>
+            </rulesFiles>
+        </rulePack>
+    </RulePackDef>
+
+    <RulePackDef>
+        <defName>VFEM_NamerSettlementMedieval</defName>
+        <include>
+            <li>OutlanderPlaceNameUtility</li>
+        </include>
+        <rulePack>
+            <rulesStrings>
+                <li>r_name(p=0.8)->[Medieval_Settlement] [PlaceOutlander]</li>
+				<li>r_name->[Medieval_Settlement] [Animals]</li>
+            </rulesStrings>
+            <rulesFiles>
+                <li>Medieval_Settlement->Words/Nouns/Medieval_Settlement</li>
+				<li>Animals->Words/Nouns/Animals</li>
+            </rulesFiles>
+        </rulePack>
+    </RulePackDef>
+
+</Defs>

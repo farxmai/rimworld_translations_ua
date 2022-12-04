@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: defeated in combat -->
+  <VME_Defeat_Dishonorable.stages.0.label>поразка у бою</VME_Defeat_Dishonorable.stages.0.label>
+  <!-- EN: I was defeated in combat, this brings me great dishonor. -->
+  <VME_Defeat_Dishonorable.stages.0.description>Я {PAWN_gender ? зазнав : зазнала} поразки у бою. Це позбавляє мене честі.</VME_Defeat_Dishonorable.stages.0.description>
+
+  <!-- EN: defeated in combat twice -->
+  <VME_SecondDefeat_Dishonorable.stages.0.label>друга поразка у бою</VME_SecondDefeat_Dishonorable.stages.0.label>
+  <!-- EN: I was defeated in combat again, my dishonor is immeasurable. -->
+  <VME_SecondDefeat_Dishonorable.stages.0.description>Я {PAWN_gender ? зазнав : зазнала} поразки у бою вдруге. Тепер лише смерть змиє цю ганьбу.</VME_SecondDefeat_Dishonorable.stages.0.description>
+</LanguageData>

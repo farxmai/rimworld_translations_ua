@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FirstTimeSettingsWarning>Перший раз запускаєте Simple Sidearms?\n\nЦя піктограма означає, що параметри мода ще не налаштовано. Він зникне під час першого доступу до меню налаштувань.\n\nНатисніть, щоб перейти до налаштувань зараз.</FirstTimeSettingsWarning>
+
+  <ActiveTab_desc></ActiveTab_desc>
+  <ActiveTab_title>Налаштування</ActiveTab_title>
+  <ToolAutoSwitch_desc>Чи повинні колоністи міняти інструменти/зброю з бонусами то роботи для свого поточного завдання?</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>Атоперимикання інструментів</ToolAutoSwitch_title>
+  <OptimalMelee_desc>Чи повинні колоністи автоматично перемикатися на зброю ближнього бою з вищою шкодою?</OptimalMelee_desc>
+  <OptimalMelee_title>Використовувати найкращу зброю ближнього бою</OptimalMelee_title>
+  <CQCAutoSwitch_desc>Чи повинні колоністи перемикатися на зброю ближнього бою, коли їх атакують у ближньому бою?</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>Атоперимикання режиму ближнього бою</CQCAutoSwitch_title>
+  <CQCFistSwitch_desc>Чи повинні колоністи міняти зброю, навіть якщо вони її не використовують?</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>Атоперимикання рукопашного бою</CQCFistSwitch_title>
+  <CQCTargetOnly_desc>Чи повинні колоністи реагувати лише на атаки своєї поточної цілі?</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>Атоперимикання при атаках з боку цілі</CQCTargetOnly_title>
+
+  <DropMode_desc>У яких ситуаціях колоністи змушені кидати зброю замість того, щоб перемістити її в інвентар?</DropMode_desc>
+  <DropMode_title>Критерії скидання зброї</DropMode_title>
+  <ReEquipBest_desc>Після викидання зброї автоекіпірування знаходитиме найкращу зброю з доступних (замість найближчої)</ReEquipBest_desc>
+  <ReEquipBest_title>Переоснащення найкращим доступним спорядженням</ReEquipBest_title>
+
+  <FumbleRecoveryChance_title>Шанс уникнути затримок переоснащення</FumbleRecoveryChance_title>
+  <FumbleRecoveryChance_hint>Вертикальна вісь — це можливість затримок переоснащення зброї. Горизонтальна вісь — це навички ближнього чи дальнього бою (залежно від того, що краще)</FumbleRecoveryChance_hint>
+
+  <ReEquipOutOfCombat_desc>Викинувши зброю, автоматично переобладнайте її після бою.</ReEquipOutOfCombat_desc>
+  <ReEquipOutOfCombat_title>Переспорядити викинуту зброю</ReEquipOutOfCombat_title>
+  <ReEquipBest_desc>Автоматичне переоснащення на найкращу доступну зброю (замість найближчої)</ReEquipBest_desc>
+  <ReEquipBest_title>Переспорядити найкраще з доступного</ReEquipBest_title>
+  <ReEquipInCombat_desc>Автоматичне переобладнання зброї навіть у бою, коли ви не воюєте активно.</ReEquipInCombat_desc>
+  <ReEquipInCombat_title>Переспорядити під час бою</ReEquipInCombat_title>
+
+  <SkipDangerousWeapons_desc>Заборонити автоматичне спорядження небезпечної зброї (коктейлів Молотова, осколкових гранат, гранатометів тощо)</SkipDangerousWeapons_desc>
+  <SkipDangerousWeapons_title>Пропускати небезпечну зброю</SkipDangerousWeapons_title>
+  <SkipEMPWeapons_desc>Заборонити автоматичне спорядження зброї EMP (зауважте, що колоністи розглядатимуть автоматичне спорядження лише під час бою з механоїдами).</SkipEMPWeapons_desc>
+  <SkipEMPWeapons_title>Пропускати EMІ зброю</SkipEMPWeapons_title>
+
+  <PreserveInventoryInCaravans_desc>Зберігайте зброю в потрібному інвентарі, коли повертаєтеся з караванів. (Експериментально)</PreserveInventoryInCaravans_desc>
+  <PreserveInventoryInCaravans_title>Зберігате зброю у каравані</PreserveInventoryInCaravans_title>
+
+  <HideSidearmsInCaravanDialogs_desc>Сховайте додаткову зброю в діалогових вікнах каравану, щоб запобігти її випадковому продажу. (Експериментально)</HideSidearmsInCaravanDialogs_desc>
+  <HideSidearmsInCaravanDialogs_title>Приховувати додаткову зброю при торгівлі</HideSidearmsInCaravanDialogs_title>
+
+  <ShowAlertsMissingSidearm_desc>Показувати сповіщення для колоністів, які пам’ятають, що у них була зброя, якої вони більше не мають і не можуть знайти їй заміну.</ShowAlertsMissingSidearm_desc>
+  <ShowAlertsMissingSidearm_title>Показати сповіщення про про втрату</ShowAlertsMissingSidearm_title>
+
+  <AllowBlockedWeaponUse_desc>Дозволити використання зброї, яка зазвичай заблокована (наприклад, зброя для особи, зброя з біокодуванням і зброя з обмеженням ідеологічної ролі)</AllowBlockedWeaponUse_desc>
+  <AllowBlockedWeaponUse_title>Дозволити використання заблокованої зброї</AllowBlockedWeaponUse_title>
+
+  <LimitCarryInfo_desc></LimitCarryInfo_desc>
+  <LimitCarryInfo_title>*Завжди має обмеження щодо вантажопідйомності колоніста</LimitCarryInfo_title>
+
+  <CEOverrideInfo_desc></CEOverrideInfo_desc>
+  <CEOverrideInfo_title>Вимкнено на користь системи CE.</CEOverrideInfo_title>
+
+  <LimitModeAmountMelee_desc>Чи існують обмеження на всі види зброї ближнього бою.</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>Загальній ліміт зброї ближнього бою</LimitModeAmountMelee_title>
+  <LimitModeAmountRanged_desc>Чи існують якісь обмеження на всі види стрілецької зброї.</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>Загальній ліміт ситрілецької зброї</LimitModeAmountRanged_title>
+  <LimitModeAmount_desc>Чи існують якісь обмеження на всі види додаткової зброї?</LimitModeAmount_desc>
+  <LimitModeAmount_title>Загальній ліміт додаткової зброї</LimitModeAmount_title>
+  <LimitModeSingleMelee_desc>Які обмеження є на носіння додаткової зброї ближнього бою.</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>Ліміт окремої зброї ближнього бою</LimitModeSingleMelee_title>
+  <LimitModeSingleRanged_desc>Які обмеження є на носіння додаткової стрілецької зброї.</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>Ліміт окремої стрілецької зброї</LimitModeSingleRanged_title>
+  <LimitModeSingle_desc>Які обмеження є на носіння додаткової зброї.</LimitModeSingle_desc>
+  <LimitModeSingle_title>Ліміт окремої додаткової зброї</LimitModeSingle_title>
+
+  <LimitModeAmountTotal_title>Всього</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>Які обмеження є на носіння додаткової зброї.</LimitModeAmountTotal_desc>
+
+  <MaximumMassAmountAbsolute_desc>Максимальна загальна маса зброї, що може носити колоніст.</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>Макс. маса додаткової зброї</MaximumMassAmountAbsolute_title>
+  <MaximumMassAmountRelative_desc>Максимальний % загальної маси додаткової зброї, яку може носити колоніст, відносно його вантажопідйомності.</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>Максимальний відсоток маси додаткової зброї</MaximumMassAmountRelative_title>
+  <MaximumMassSingleAbsolute_desc>Максимальна маса однієї зброї, яку може носити колоніст.</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>Макс. маса на конкретної зброї</MaximumMassSingleAbsolute_title>
+  <MaximumMassSingleRelative_desc>Максимальний % загальної маси додаткової зброї, яку може носити колоніст, відносно його вантажопідйомності</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>Макс. % маси на кожну додаткову зброю</MaximumMassSingleRelative_title>
+  <MaximumSlots_desc>Скільки додаткової зброї може носити колоніст.</MaximumSlots_desc>
+  <MaximumSlots_title>Слоти</MaximumSlots_title>
+  <RangedCombatAutoSwitchMaxWarmup_desc>Який поріг, після якого колоніст відмовиться переривати свою атаку, щоб перейти на зброю?</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>Максимальний відсоток прогріву</RangedCombatAutoSwitchMaxWarmup_title>
+  <RangedCombatAutoSwitch_desc>Чи повинні колоністи перемикатися на відповідну стрілецьку додаткову зброю?</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>Використовувати найкращу стрілецьку зброю</RangedCombatAutoSwitch_title>
+  <SeparateModes_desc>Чи має стрілецька та рукопашна зброя мати окремі вимоги?</SeparateModes_desc>
+  <SeparateModes_title>Поділ ближній бій/стрільба</SeparateModes_title>
+  <SidearmSelection_desc></SidearmSelection_desc>
+  <SidearmSelection_title>Вибір зброї</SidearmSelection_title>
+  <SingleshotAutoSwitch_desc>Чи повинні колоністи переходити на додаткову зброю після витрачання розходних матеріалів?</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>Автоперемикання режиму одиночної стрілянини</SingleshotAutoSwitch_title>
+  <SpeedSelectionBiasMelee_desc>Схильність колоніста до вибору зброї з вищою швидкістю атаки.</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>Зміщення швидкості (ближній бій)</SpeedSelectionBiasMelee_title>
+  <SpeedSelectionBiasRanged_desc>Схильність колоніста до вибору зброї із швидшим темпом стрілянини.</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>Зміщення швидкості (стрілянина)</SpeedSelectionBiasRanged_title>
+  <WeaponMatch_desc>Зброя, що відповідає заданим критеріям.</WeaponMatch_desc>
+  <WeaponMatch_title></WeaponMatch_title>
+
+  <SidearmSpawnChance_desc>Шанс того, що у будь-якого колоніста, що з'являється у грі зі зброєю, буде також і додаткова зброя.</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>Шанс появи додаткової зброї</SidearmSpawnChance_title>
+  <SidearmSpawnChanceDropoff_desc>Величина, на яку зменшується шанс появи додаткової зброї.</SidearmSpawnChanceDropoff_desc>
+  <SidearmSpawnChanceDropoff_title>Додаткове зменшення шансу появи зброї</SidearmSpawnChanceDropoff_title>
+  <SidearmBudgetMultiplier_desc>Вартості додаткової зброї, залежить від основної зброї за замовчуванням.</SidearmBudgetMultiplier_desc>
+  <SidearmBudgetMultiplier_title>Множник вартості додаткової зброї</SidearmBudgetMultiplier_title>
+  <SidearmBudgetDropoff_desc>Сумма, на которую уменьшается бюджет на каждое дополнительное оружие.</SidearmBudgetDropoff_desc>
+  <SidearmBudgetDropoff_title>Додаткове зменшення вартості додаткової зброї</SidearmBudgetDropoff_title>
+  <ColonistDefaultWeaponMode_desc>Режим уподобання зброї за умовчанням для колоністів, керованих гравцем.</ColonistDefaultWeaponMode_desc>
+  <ColonistDefaultWeaponMode_title>Режим зброї для колоністів</ColonistDefaultWeaponMode_title>
+  <NPCDefaultWeaponMode_desc>Режим уподобання зброї за умовчанням для колоністів NPC.</NPCDefaultWeaponMode_desc>
+  <NPCDefaultWeaponMode_title>Режим зброї для всіх інших</NPCDefaultWeaponMode_title>
+
+  <PrimaryWeaponMode_option_Ranged>Стрілецька</PrimaryWeaponMode_option_Ranged>
+  <PrimaryWeaponMode_option_Melee>Ближньобійна</PrimaryWeaponMode_option_Melee>
+  <PrimaryWeaponMode_option_BySkill>За навичками</PrimaryWeaponMode_option_BySkill>
+  <PrimaryWeaponMode_option_ByGenerated>За чергою</PrimaryWeaponMode_option_ByGenerated>
+
+
+  <LimitModeSingle_option_None>Без обмежень</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>Масова частка</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>Абсолютна маса</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>Конкретна зброя</LimitModeSingle_option_Selection>
+
+  <LimitModeAmount_option_None>Без обмежень</LimitModeAmount_option_None>
+  <LimitModeAmount_option_MaximumCarryWeightOnly>Без обмежень</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>Масова частка</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>Абсолютна маса</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>Слоти</LimitModeAmount_option_Slots>
+
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>Шаблони</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>Тригери</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>Ліміти</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>Поява</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>Різне</ActiveTab_option_Misc>
+
+  <DropMode_option_Never>Ніколи</DropMode_option_Never>
+  <DropMode_option_InDistress>У біді</DropMode_option_InDistress>
+  <DropMode_option_InCombat>У бою</DropMode_option_InCombat>
+  <DropMode_option_Always>Завжди</DropMode_option_Always>
+
+  <Fumbled>Незграбне поводження!</Fumbled>
+  <Fumbled_dev>Незграбне поводження! ({0})</Fumbled_dev>
+
+  <PresetExport_title></PresetExport_title>
+  <PresetExport_desc></PresetExport_desc>
+  <PresetExport_label>Копіювання активної конфігурації в буфер обміну</PresetExport_label>
+
+
+  <PresetCustom_title>Користувальницькі</PresetCustom_title>
+  <PresetCustom_desc>Налаштування користувача. Автоматично вибирається при внесенні змін.</PresetCustom_desc>
+  <PresetCustom_label></PresetCustom_label>
+  <Preset0_title>Вимкнено</Preset0_title>
+  <Preset0_desc>Усі опції відключені. Хороша основа для конфігурацій, що використовують лише малу частину можливостей моди.</Preset0_desc>
+  <Preset0_label></Preset0_label>
+  <Preset1half_title>Полегшені</Preset1half_title>
+  <Preset1half_desc>Дозволяє використовувати одну легку зброю як додаткову зброю.</Preset1half_desc>
+  <Preset1half_label></Preset1half_label>
+  <Preset1_title>Тільки екіпірування</Preset1_title>
+  <Preset1_desc>Дозволяє екіпірувати додаткову зброю, але не дає нічого іншого. По суті це зручне розширення інвентарю.</Preset1_desc>
+  <Preset1_label></Preset1_label>
+  <Preset2_title>Базові</Preset2_title>
+  <Preset2_desc>Прості налаштування. Колоністи можуть використовувати кілька видів легкої зброї та намагатимуться застосовувати її у відповідних ситуаціях.</Preset2_desc>
+  <Preset2_label></Preset2_label>
+  <Preset3_title>Розширені</Preset3_title>
+  <Preset3_desc>Колоністи більш творчо підходять до вибору зброї, але все ж таки залишаються в рамках того, що можна очікувати від звичайних людей, які намагаються вижити в небезпечному світі.</Preset3_desc>
+  <Preset3_label></Preset3_label>
+  <Preset4_title>Надмірні</Preset4_title>
+  <Preset4_desc>Принесіть усі! Мініган? Принесіть два! Спис? У мене в рюкзаку ціла колекція!</Preset4_desc>
+  <Preset4_label></Preset4_label>
+  <Preset5_title>Бійцівські</Preset5_title>
+  <Preset5_desc>Зброя ближнього бою усім.</Preset5_desc>
+  <Preset5_label></Preset5_label>
+
+
+  <SidearmPickupFail_NoFreeSpace>Нема вільного місця</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>Занадто важке</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>Занадто важка амуніція</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>Занадто важка стрілецька зброя</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>Занадто важка додаткова зброя</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>Занадто важка рукопашна зброя</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>Занадто важка стрілецька зброя</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>Занадто важка додаткова зброя</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>Не додаткова зброя</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>Не додаткова зброя</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>Не додаткова зброя</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>Слоти заповнено</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>Слоти рукопашної зброї заповнено</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>Слоти стрілецької зброї заповнено</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupFail_NotAToolForPacifist>Неможливо. {0} не здатний до насильства.</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupPass>Без проблем</SidearmPickupPass>
+  <AsSidearm> як додаткову зброю</AsSidearm>
+  <AsTool> як інструмент</AsTool>
+
+  <Preset_option_NoneApplied>Нема</Preset_option_NoneApplied>
+  <Preset_option_Custom>Користувальницькі</Preset_option_Custom>
+  <Preset_option_Lite>Полегшені</Preset_option_Lite>
+  <Preset_option_Disabled>Вимкнено</Preset_option_Disabled>
+  <Preset_option_LoadoutOnly>Тільки екіпірування</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>Базові</Preset_option_Basic>
+  <Preset_option_Advanced>Розширені</Preset_option_Advanced>
+  <Preset_option_Excessive>Надмірні</Preset_option_Excessive>
+  <Preset_option_Brawler>Бійцівські</Preset_option_Brawler>
+
+  <WeaponListKind_option_Both>Обидві</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>Рукопашна</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>Стрілецька</WeaponListKind_option_Ranged>
+
+  <TribalWeapons>Племінна</TribalWeapons>
+  <NonTribalWeapons>Не племінна</NonTribalWeapons>
+
+  <ConsideredSidearms>Додаткова зброя</ConsideredSidearms>
+  <NotConsideredSidearms>Не додаткова зброя</NotConsideredSidearms>
+
+  <LockedWeaponSwitch>Автоперемикання неможливе (стрілецька)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>Автоперемикання можливе (стрілецька)</UnlockedWeaponSwitch>
+
+  <WeaponSwitchAutolockOn>Блокування автоперемикання</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>Вимкнено</WeaponSwitchAutolockOff>
+
+  <DrawSidearm_gizmoTitle>Зброя</DrawSidearm_gizmoTitle>
+  <SidearmPreference_Ranged>Використовувати стрілецьку зброю.</SidearmPreference_Ranged>
+  <SidearmPreference_Skill>Використовуйте зброю відповідно до вміння чи бажання.</SidearmPreference_Skill>
+  <SidearmPreference_Melee>Використовувати зброю ближнього бою.</SidearmPreference_Melee>
+  <DrawSidearm_gizmoTooltipRanged>Клацніть ЛКМ, щоб встановити {0} як основну стрілецьку зброю.\nКлацніть ПКМ щоб скинути {0}.</DrawSidearm_gizmoTooltipRanged>
+  <DrawSidearm_gizmoTooltipMelee>Клацніть ЛКМ, щоб встановити {0} як основну зброю ближнього бою.\nКлацніть ПКМ щоб скинути {0}.</DrawSidearm_gizmoTooltipMelee>
+  <DrawSidearm_gizmoTooltipRangedDefault>Клацніть ЛКМ, щоб примуосво використовувати {0} як основну стрілецьку зброю.\nКлацніть ПКМ щоб скинути {0}.</DrawSidearm_gizmoTooltipRangedDefault>
+  <DrawSidearm_gizmoTooltipMeleePreferred>Клацніть ЛКМ, щоб примуосво використовувати {0} як основну зброю ближнього бою.\nКлацніть ПКМ щоб скинути {0}.</DrawSidearm_gizmoTooltipMeleePreferred>
+  <DrawSidearm_gizmoTooltipForced>Клацніть ПКМ щоб скинути примусове використання {0}.</DrawSidearm_gizmoTooltipForced>
+  <DrawSidearm_gizmoTooltipWhileDrafted>Клацніть ЛКМ, щоб примуосво використовувати {0} до кінця бою.</DrawSidearm_gizmoTooltipWhileDrafted>
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>Клацніть ПКМ щоб скинути примусове використання {0}.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+  <DrawSidearm_gizmoTooltipMemory>Клацніть ПКМ щоб забути про {0}.</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Жодної взаємодії під час підготовки.</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmed>Клацніть ЛКМ, щоб примуосво використовувати рукопаший бій.</DrawSidearm_gizmoTooltipUnarmed>
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>Клацніть ЛКМ, щоб примуосво використовувати рукопаший бій.\nКлацніть ПКМ щоб скинути {0}.</DrawSidearm_gizmoTooltipUnarmedPreferred>
+  <DrawSidearm_gizmoTooltipUnarmedForced>Клацніть ПКМ щоб скинути примусове використання рукопашного бою.</DrawSidearm_gizmoTooltipUnarmedForced>
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Клацніть ЛКМ, щоб використовувати рукопашинй бій до кінця бою.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Клацніть ПКМ щоб скинути примусове використання рукопашного бою.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+
+  <Alert_MissingSidearm_label>Колоніст втратив додаткову зброю</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>Колоніст втратив основну зброю</Alert_MissingPrimary_label>
+
+  <Alert_MissingSidearm_desc>У цих колоністів не вистачає додаткової зброї:\n\n{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>У цих колоністів не вистачає основної зброї:\n\n{0}</Alert_MissingPrimary_desc>
+
+  <!-- Legacy -->
+  <DropMode_option_Panic>У біді</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>У бою</DropMode_option_PanicOrRange>
+
+  <SidearmsEnableNeolithicExtension_desc>Дозволити більшій кількості племен використовувати зброю як додаткову зброю.</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>Розширення можливості застосування додаткової зброї в епоху неоліту</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>Додаткова зброя вважається зброєю епохи неоліту</SidearmsNeolithicExtension_title>
+
+</LanguageData>

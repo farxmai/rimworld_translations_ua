@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 16 -->
+
+  <!-- EN: vegan -->
+  <VME_Vegan.label>веганство</VME_Vegan.label>
+  <!-- EN: Дозволяє їсти є barbaric і uncouth, тому що є fruits of hard labor and ever-giving soil. -->
+  <VME_Vegan.description>Поїдання м'яса — варварство і худоба, краще є плоди важкої праці та вічно родючого ґрунту.</VME_Vegan.description>
+
+  <VME_Vegan.generalRules.rulesStrings>
+    <li>memeAdjective->веганський</li>
+    <li>memeAdjective->вегетаріанська</li>
+    <li>memeAdjective->етичний</li>
+    <li>memeAdjective->овочевий</li>
+    <li>memeCreed->веганізм</li>
+    <li>memeHyphenPrefix->біо</li>
+    <li>memeConcept->прав тварин</li>
+  </VME_Vegan.generalRules.rulesStrings>
+
+  <VME_Vegan.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Vegan) ->[deity0_name] сказав послідовникам [deity0_possessive]: "Зверни плоть, адже вона нечиста і грішна".</li>
+    <li>episode(uses=1,tag=meme_Vegan) ->Як нам звелів [deity0_name], ми відмовилися від вживання м'яса. Наші тіла не будуть гробницею для інших живих істот.</li>
+    <li>intro(tag=meme_Vegan) ->На [place_summary] [place_name], [memberNamePlural] побудував гігантську ферму, де вирощувалися всілякі соковиті фрукти та пухкі овочі.</li>
+    <li>conflict(tag=meme_Vegan) ->An evil industrial farmer, seeing [foeLeader_possessive] profits evaporate due to most [memberNamePlural]s shunning meat, wanted to sabotage farma any means necessary.</li>
+    <li>founderJoin(tag=meme_Vegan) ->наш засновник, [founderName], твердо сказав [foeLeader_objective]: "Чи можеш ти подивитися тварині в очі і сказати їй: "Мій апетит важливіший за твої страждання"?".</li>
+    <li>victory(tag=meme_Vegan) ->Згодом усі прийняли докази [founderName_possessive] і тепер [memberNamePlural] завжди будуть ставитися з повагою до природи навколо.</li>
+    <li>setup(tag=meme_Vegan) ->[founderName] був екологом в одному з Блискучих світів, на межі кліматичного колапсу. [founder_pronoun] виявив, що багато планет, які значною мірою покладалися на споживання м'яса як спосіб прогодувати своє населення, зрештою зазнали екологічної катастрофи. М'ясо просто недостатньо ефективне для того, щоб прогодувати велике населення.</li>
+    <li>story(uses=1,tag=meme_Vegan) ->Знаходячись у пошуках кращого шляху, [founderName] став веганом, і назавжди відмовився від м'яса. Однак інше суспільство надто вкоренилося у своїх старих звичаях, і послідовникам [founder_pronoun] та [founderName_possessive] довелося втекти з приреченої планети, намагаючись знайти новий будинок серед зірок.</li>
+    <li>lessonIntro(tag=meme_Vegan) ->Старший еколог у моєму каравані навчив мене історії веганізму, тому, як багато спільнот осягав крах через їхню прихильність до своєї звички поїдати м'ясо. Він допоміг мені прийти до того:</li>
+    <li>lesson(tag=meme_Vegan) ->стати веганом - означає зробити перший крок до того, щоб врятувати всю планету і всіх живих істот на ній. </li>
+    <li>lessonReinforcement(tag=meme_Vegan) ->Будь-яке життя заслуговує на повагу, гідності та співчуття. Абсолютно будь-яка.</li>
+    <li>archistBasis(tag=meme_Vegan) ->Мудрість архотеків не знає кордонів. І невже ти думаєш, що вони схвалять жорстокість до інших? Люди так довго поводилися як тирани по відношенню до тварин, що ті навіть уже не вважаються жертвами гноблення. Про них взагалі ніхто не думає. Вони – ніщо. Вони життя не мають значення, а смерті не мають числа.</li>
+    <li>archistFact(tag=meme_Vegan) ->Між людиною і твариною немає особливої ​​різниці - і ті, й інші можуть відчувати задоволення і біль, радість і смуток. А для архотеха ми всі однакові.</li>
+    <li>archistProphecy(tag=meme_Vegan) ->[inTheEnd], відмова від насильства веде до найвищої ідеї, яка співвідноситься з метою еволюції. Поки ми не припинимо завдавати болю іншим - ми все ще будемо дикунами.</li>
+    <li>animistBasis(tag=meme_Vegan) ->Частина твоєї душі не підбадьориться від сну, поки ти не відчув у собі любові до тварин навколо, вона буде прихована від духовного світу.</li>
+    <li>animistFact(tag=meme_Vegan) ->Душа однакова у всіх живих істот, хоч і живе вона в різних тілах. Веганська їжа - це їжа для душі, у найчистішій своїй формі.</li>
+    <li>animistProphecy(tag=meme_Vegan) ->[itIsSaid] Душа однакова у всіх живих істот, хоч і живе вона в різних тілах. Веганська їжа - є їжа для душі, в чистій своїй формі. Твоя душа – це твої наміри. І якщо вони чисті, то ти теж чистий.</li>
+    <li>serketistProphecy(tag=meme_Vegan) ->[itIsSaid] Усім нам зрозуміла ідея про те, що наша священна їжа - це дар від найсвятіших із усіх живих істот.</li>
+    <li>chthonianProphecy(tag=meme_Vegan) ->Жахливі істоти, що живуть за межею того, що підвладно людському розуму пожеруть нашу плоть, зриваючи її з кісток і бенкетуючи нашими нутрощами. І що ж, хіба ми не кращі за них?</li>
+    <li>esotericismProphecy(tag=meme_Vegan) ->Для розуміння окультного та прихованого потрібен чистий розум. А розум може бути чистим лише тоді, коли він не бажає примножувати чужих страждань.</li>
+    <li>eschatologismFact(tag=meme_Vegan) ->Ми відкинемо поїдання оскверненої, гниючої плоті, як символ того, через що цей світ, разом з його жорстокосердними мешканцями має бути очищений.</li>
+    <li>introMemo(tag=meme_Vegan) ->Починаючи з цього дня в нашій їдальні є тільки вегетаріанське меню. Причина проста: м'ясо надто дороге і нам потрібно оптимізувати витрати, щоб залишатися конкурентними.</li>
+    <li>alienistProphecy(tag=meme_Vegan) ->Ці заблукалі створіння - настільки ж невинні, як і нещасні. Було б величезною помилкою завдавати їм біль у будь-який спосіб.</li>
+  </VME_Vegan.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Vegan -->
+  <VME_Vegan.symbolPacks.0.ideoName>Віганство</VME_Vegan.symbolPacks.0.ideoName>
+  <!-- EN: veganism -->
+  <VME_Vegan.symbolPacks.0.theme>веганства</VME_Vegan.symbolPacks.0.theme>
+  <!-- EN: vegan -->
+  <VME_Vegan.symbolPacks.0.adjective>веганський</VME_Vegan.symbolPacks.0.adjective>
+  <!-- EN: vegan -->
+  <VME_Vegan.symbolPacks.0.member>веган</VME_Vegan.symbolPacks.0.member>
+
+  <!-- EN: Vegetarian -->
+  <VME_Vegan.symbolPacks.1.ideoName>Вегетаріанство</VME_Vegan.symbolPacks.1.ideoName>
+  <!-- EN: vegetarianism -->
+  <VME_Vegan.symbolPacks.1.theme>вегетаріанства</VME_Vegan.symbolPacks.1.theme>
+  <!-- EN: vegetarian -->
+  <VME_Vegan.symbolPacks.1.adjective>вегетаріанський</VME_Vegan.symbolPacks.1.adjective>
+  <!-- EN: vegetarian -->
+  <VME_Vegan.symbolPacks.1.member>вегетаріанець</VME_Vegan.symbolPacks.1.member>
+
+</LanguageData>

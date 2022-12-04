@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_MeleeWeapon_Axe.label>сокирка</VWE_MeleeWeapon_Axe.label>
+  <VWE_MeleeWeapon_Axe.description>Сокира, прикріплена до сокирища. Занадто короткий, щоб бити двома руками, але завдяки своїй формі не вимагає занадто багато сил для розрубування броні та плоті.</VWE_MeleeWeapon_Axe.description>
+  <VWE_MeleeWeapon_Axe.tools.0.label>держак</VWE_MeleeWeapon_Axe.tools.0.label>
+  <VWE_MeleeWeapon_Axe.tools.1.label>лезо</VWE_MeleeWeapon_Axe.tools.1.label>
+</LanguageData>

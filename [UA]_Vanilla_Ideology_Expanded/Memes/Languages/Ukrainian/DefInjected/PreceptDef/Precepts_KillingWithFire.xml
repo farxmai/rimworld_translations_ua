@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: preferred -->
+  <VME_KillingWithFire_Preferred.label>бажано</VME_KillingWithFire_Preferred.label>
+  <!-- EN: To watch my enemies be burnt in sacred fire elates our kind like nothing else can. -->
+  <VME_KillingWithFire_Preferred.description>Ніщо так не тішить, як видовище ворогів, що згоряють у священному полум'ї.</VME_KillingWithFire_Preferred.description>
+
+  <!-- EN: abhorrent -->
+  <VME_KillingWithFire_Abhorrent.label>огидно</VME_KillingWithFire_Abhorrent.label>
+  <!-- EN: Watching a person burn to dead without trying to help is horrible, and should be avoided at all costs. -->
+  <VME_KillingWithFire_Abhorrent.description>Жахливо, коли хтось згоряє живцем, а його не намагаються врятувати. Таке не повинно бути.</VME_KillingWithFire_Abhorrent.description>
+</LanguageData>

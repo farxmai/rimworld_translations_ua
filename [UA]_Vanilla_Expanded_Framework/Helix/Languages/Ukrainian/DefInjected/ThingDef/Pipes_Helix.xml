@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gas pipe -->
+  <VHGE_HelixienPipe.label>газова труба</VHGE_HelixienPipe.label>
+  <!-- EN: A pipe that transmits helixien gas. -->
+  <VHGE_HelixienPipe.description>Труба, призначена для транспортування хеліксінового газу.</VHGE_HelixienPipe.description>
+
+  <!-- EN: subterranean gas pipe -->
+  <VHGE_SubterraneanHelixienPipe.label>підземна газова труба</VHGE_SubterraneanHelixienPipe.label>
+  <!-- EN: A pipe that transmits helixien gas. This pipe is hidden from view and is protected from gas explosions. Much more expensive to build than regular pipes. -->
+  <VHGE_SubterraneanHelixienPipe.description>Підземна труба, призначена для транспортування геліксинового газу. Прихована від очей та захищена від вибухів. Потребує більше ресурсів, ніж звичайна труба.</VHGE_SubterraneanHelixienPipe.description>
+
+</LanguageData>

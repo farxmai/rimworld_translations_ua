@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_Megachicken.label>мегакурка</VAERoy_Megachicken.label>
+  <VAERoy_Megachicken.labelMale>мегапівень</VAERoy_Megachicken.labelMale>
+  <VAERoy_Megachicken.labelFemale>мегакурка</VAERoy_Megachicken.labelFemale>
+  <VAERoy_Megachicken.lifeStages.0.label>мегакурча</VAERoy_Megachicken.lifeStages.0.label>
+  <VAERoy_Megachicken.lifeStages.1.labelMale>мегакурча</VAERoy_Megachicken.lifeStages.1.labelMale>
+  <VAERoy_Megachicken.labelPlural>мегакурки</VAERoy_Megachicken.labelPlural>
+  <VAERoy_Megachicken.labelMalePlural>мегапівені</VAERoy_Megachicken.labelMalePlural>
+  <VAERoy_Megachicken.labelFemalePlural>мегакурки</VAERoy_Megachicken.labelFemalePlural>
+
+</LanguageData>

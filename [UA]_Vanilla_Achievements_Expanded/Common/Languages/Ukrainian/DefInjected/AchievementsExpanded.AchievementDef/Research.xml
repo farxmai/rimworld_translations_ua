@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sticks And Stones -->
+  <sticksAndStones.label>Каміння та палиці</sticksAndStones.label>
+  <!-- EN: Research all neolithic technologies -->
+  <sticksAndStones.description>Дослідити всі технології неоліту</sticksAndStones.description>
+
+  <!-- EN: Out of the Dark Ages -->
+  <outOfTheDarkAges.label>З темних віків</outOfTheDarkAges.label>
+  <!-- EN: Research all medieval technologies -->
+  <outOfTheDarkAges.description>Дослідити всі технології середньовіччя</outOfTheDarkAges.description>
+
+  <!-- EN: Industrial Revolution -->
+  <industrialRevolution.label>Промислова революція</industrialRevolution.label>
+  <!-- EN: Research all industrial technologies -->
+  <industrialRevolution.description>Дослідити всі технології індустріального рівня</industrialRevolution.description>
+
+  <!-- EN: Off To The Stars -->
+  <offToTheStars.label>До зірок</offToTheStars.label>
+  <!-- EN: Research all spacer technologies -->
+  <offToTheStars.description>Дослідити всі технології космічного рівня</offToTheStars.description>
+</LanguageData>

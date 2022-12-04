@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: One Step Closer -->
+  <oneStepCloser.label>На крок ближче</oneStepCloser.label>
+  <!-- EN: Obtain an AI Persona Core -->
+  <oneStepCloser.description>Отримати ядро ШІ</oneStepCloser.description>
+
+  <!-- EN: Human Leather Cowboy Hat -->
+  <humanLeatherHat.label>Ковбой не залишає трофеї</humanLeatherHat.label>
+  <!-- EN: Craft a human leather cowboy hat -->
+  <humanLeatherHat.description>Пошити ковбойський капелюх із людської шкіри</humanLeatherHat.description>
+
+  <!-- EN: Midas -->
+  <midas.label>Мідас</midas.label>
+  <!-- EN: Have 5000 gold -->
+  <midas.description>Накопичити 5 000 золота</midas.description>
+
+  <!-- EN: 4/20 Blaze It -->
+  <fourtwentyblazeIt.label>Перекур</fourtwentyblazeIt.label>
+  <!-- EN: Obtain 420 smokeleaf -->
+  <fourtwentyblazeIt.description>Отримати 420 одиниць димолисту</fourtwentyblazeIt.description>
+
+  <!-- EN: Silence of the Lambs -->
+  <silenceOfTheLambs.label>Мовчання ягнят</silenceOfTheLambs.label>
+  <!-- EN: Obtain 100 human meat -->
+  <silenceOfTheLambs.description>Отримати 100 одиниць людятинки</silenceOfTheLambs.description>
+
+  <!-- EN: The Stuff Of Legends -->
+  <theStuffOfLegends.label>Це леген... зажди-зажди... дарно!</theStuffOfLegends.label>
+  <!-- EN: Craft any legendary item -->
+  <theStuffOfLegends.description>Виготовити легендарний предмет</theStuffOfLegends.description>
+
+  <!-- EN: Future Caveman -->
+  <futureCaveman.label>Зброя майбутнього</futureCaveman.label>
+  <!-- EN: Make a plasteel club -->
+  <futureCaveman.description>Виготовити дубину із пласталі</futureCaveman.description>
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>Встановлено</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>Мінімальна дальність</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>Перезарядиться за</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>Неможлево зробити постріл</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>під дахом</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>У стволі: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>Не заряджено</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>Вже активовано</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>Активувати</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>Накзати колоністу активувати {lookup: {THING_labelShort}; Case; 3}.</OrderActivationDesc>
+  <!-- EN: Must be activated by a colonist. -->
+  <MustBeActivatedByColonist>Має бути активовано колоністом.</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>Нема вогню поруч</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>Поблизу нема вогню. Паливо не використовувалося.</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>Виберіть, хто має це активувати.</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>Нема палива</NoFuel>
+
+</LanguageData>

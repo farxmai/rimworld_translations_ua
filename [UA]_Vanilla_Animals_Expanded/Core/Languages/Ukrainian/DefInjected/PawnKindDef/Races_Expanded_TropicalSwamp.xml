@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <AEXP_Alligator.label>алігатор</AEXP_Alligator.label>
+  <AEXP_Alligator.labelPlural>алігатори</AEXP_Alligator.labelPlural>
+  <AEXP_Alligator.lifeStages.0.label>дитинча алігатора</AEXP_Alligator.lifeStages.0.label>
+  <AEXP_Alligator.lifeStages.0.labelPlural>дитинчата алігатора</AEXP_Alligator.lifeStages.0.labelPlural>
+  <AEXP_Alligator.lifeStages.0.labelMale>дитинча алігатора</AEXP_Alligator.lifeStages.0.labelMale>
+  <AEXP_Alligator.lifeStages.0.labelMalePlural>дитинчата алігатора</AEXP_Alligator.lifeStages.0.labelMalePlural>
+  <AEXP_Alligator.lifeStages.0.labelFemale>дитинча алігатора</AEXP_Alligator.lifeStages.0.labelFemale>
+  <AEXP_Alligator.lifeStages.0.labelFemalePlural>дитинчата алігатора</AEXP_Alligator.lifeStages.0.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.1.label>молодий алігатор</AEXP_Alligator.lifeStages.1.label>
+  <AEXP_Alligator.lifeStages.1.labelPlural>молоді алігатори</AEXP_Alligator.lifeStages.1.labelPlural>
+  <AEXP_Alligator.lifeStages.1.labelMale>молодий алігатор</AEXP_Alligator.lifeStages.1.labelMale>
+  <AEXP_Alligator.lifeStages.1.labelMalePlural>молоді алігатори</AEXP_Alligator.lifeStages.1.labelMalePlural>
+  <AEXP_Alligator.lifeStages.1.labelFemale>молодий алігатор</AEXP_Alligator.lifeStages.1.labelFemale>
+  <AEXP_Alligator.lifeStages.1.labelFemalePlural>молоді алігатори</AEXP_Alligator.lifeStages.1.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.2.label>алігатор</AEXP_Alligator.lifeStages.2.label>
+  <AEXP_Alligator.lifeStages.2.labelPlural>алігатори</AEXP_Alligator.lifeStages.2.labelPlural>
+  <AEXP_Alligator.lifeStages.2.labelMale>алігатор</AEXP_Alligator.lifeStages.2.labelMale>
+  <AEXP_Alligator.lifeStages.2.labelMalePlural>алігатори</AEXP_Alligator.lifeStages.2.labelMalePlural>
+  <AEXP_Alligator.lifeStages.2.labelFemale>алігатор</AEXP_Alligator.lifeStages.2.labelFemale>
+  <AEXP_Alligator.lifeStages.2.labelFemalePlural>алігатори</AEXP_Alligator.lifeStages.2.labelFemalePlural>
+  <AEXP_Alligator.labelMale>алігатор</AEXP_Alligator.labelMale>
+  <AEXP_Alligator.labelMalePlural>алігатори</AEXP_Alligator.labelMalePlural>
+  <AEXP_Alligator.labelFemale>алігатор</AEXP_Alligator.labelFemale>
+  <AEXP_Alligator.labelFemalePlural>алігатори</AEXP_Alligator.labelFemalePlural>
+
+
+  <!-- Anaconda -->
+
+  <AEXP_Anaconda.label>анаконда</AEXP_Anaconda.label>
+  <AEXP_Anaconda.labelPlural>анаконди</AEXP_Anaconda.labelPlural>
+  <AEXP_Anaconda.lifeStages.0.label>змієня анаконди</AEXP_Anaconda.lifeStages.0.label>
+  <AEXP_Anaconda.lifeStages.0.labelPlural>зміята анаконди</AEXP_Anaconda.lifeStages.0.labelPlural>
+  <AEXP_Anaconda.lifeStages.0.labelMale>змієня анаконди</AEXP_Anaconda.lifeStages.0.labelMale>
+  <AEXP_Anaconda.lifeStages.0.labelMalePlural>зміята анаконди</AEXP_Anaconda.lifeStages.0.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.0.labelFemale>змієня анаконди</AEXP_Anaconda.lifeStages.0.labelFemale>
+  <AEXP_Anaconda.lifeStages.0.labelFemalePlural>зміята анаконди</AEXP_Anaconda.lifeStages.0.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.1.label>молода анаконда</AEXP_Anaconda.lifeStages.1.label>
+  <AEXP_Anaconda.lifeStages.1.labelPlural>молоді анаконди</AEXP_Anaconda.lifeStages.1.labelPlural>
+  <AEXP_Anaconda.lifeStages.1.labelMale>молода анаконда</AEXP_Anaconda.lifeStages.1.labelMale>
+  <AEXP_Anaconda.lifeStages.1.labelMalePlural>молоді анаконди</AEXP_Anaconda.lifeStages.1.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.1.labelFemale>молода анаконда</AEXP_Anaconda.lifeStages.1.labelFemale>
+  <AEXP_Anaconda.lifeStages.1.labelFemalePlural>молоді анаконди</AEXP_Anaconda.lifeStages.1.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.2.label>анаконда</AEXP_Anaconda.lifeStages.2.label>
+  <AEXP_Anaconda.lifeStages.2.labelPlural>анаконди</AEXP_Anaconda.lifeStages.2.labelPlural>
+  <AEXP_Anaconda.lifeStages.2.labelMale>анаконда</AEXP_Anaconda.lifeStages.2.labelMale>
+  <AEXP_Anaconda.lifeStages.2.labelMalePlural>анаконди</AEXP_Anaconda.lifeStages.2.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.2.labelFemale>анаконда</AEXP_Anaconda.lifeStages.2.labelFemale>
+  <AEXP_Anaconda.lifeStages.2.labelFemalePlural>анаконди</AEXP_Anaconda.lifeStages.2.labelFemalePlural>
+  <AEXP_Anaconda.labelMale>анаконда</AEXP_Anaconda.labelMale>
+  <AEXP_Anaconda.labelMalePlural>анаконди</AEXP_Anaconda.labelMalePlural>
+  <AEXP_Anaconda.labelFemale>анаконда</AEXP_Anaconda.labelFemale>
+  <AEXP_Anaconda.labelFemalePlural>анаконди</AEXP_Anaconda.labelFemalePlural>
+
+
+  <!-- Indian Elephant -->
+
+  <AEXP_IndianElephant.label>індійський слон</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.labelPlural>індійські слони</AEXP_IndianElephant.labelPlural>
+  <AEXP_IndianElephant.lifeStages.0.label>індійський слоненя</AEXP_IndianElephant.lifeStages.0.label>
+  <AEXP_IndianElephant.lifeStages.0.labelPlural>індійські слоненята</AEXP_IndianElephant.lifeStages.0.labelPlural>
+  <AEXP_IndianElephant.lifeStages.0.labelMale>індійський слоненя</AEXP_IndianElephant.lifeStages.0.labelMale>
+  <AEXP_IndianElephant.lifeStages.0.labelMalePlural>індійські слоненята</AEXP_IndianElephant.lifeStages.0.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.0.labelFemale>індійський слоненя</AEXP_IndianElephant.lifeStages.0.labelFemale>
+  <AEXP_IndianElephant.lifeStages.0.labelFemalePlural>індійські слоненята</AEXP_IndianElephant.lifeStages.0.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.1.label>молодий індійський слон</AEXP_IndianElephant.lifeStages.1.label>
+  <AEXP_IndianElephant.lifeStages.1.labelPlural>молоді індійські слони</AEXP_IndianElephant.lifeStages.1.labelPlural>
+  <AEXP_IndianElephant.lifeStages.1.labelMale>молодий індійський слон</AEXP_IndianElephant.lifeStages.1.labelMale>
+  <AEXP_IndianElephant.lifeStages.1.labelMalePlural>молоді індійські слони</AEXP_IndianElephant.lifeStages.1.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.1.labelFemale>молода індійська слониха</AEXP_IndianElephant.lifeStages.1.labelFemale>
+  <AEXP_IndianElephant.lifeStages.1.labelFemalePlural>молоді індійські слонихи</AEXP_IndianElephant.lifeStages.1.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.2.label>індійський слон</AEXP_IndianElephant.lifeStages.2.label>
+  <AEXP_IndianElephant.lifeStages.2.labelPlural>індійські слони</AEXP_IndianElephant.lifeStages.2.labelPlural>
+  <AEXP_IndianElephant.lifeStages.2.labelMale>індійський слон</AEXP_IndianElephant.lifeStages.2.labelMale>
+  <AEXP_IndianElephant.lifeStages.2.labelMalePlural>індійські слони</AEXP_IndianElephant.lifeStages.2.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.2.labelFemale>індійська слониха</AEXP_IndianElephant.lifeStages.2.labelFemale>
+  <AEXP_IndianElephant.lifeStages.2.labelFemalePlural>індійські слонихи</AEXP_IndianElephant.lifeStages.2.labelFemalePlural>
+  <AEXP_IndianElephant.labelMale>індійський слон</AEXP_IndianElephant.labelMale>
+  <AEXP_IndianElephant.labelMalePlural>індійські слони</AEXP_IndianElephant.labelMalePlural>
+  <AEXP_IndianElephant.labelFemale>індійська слониха</AEXP_IndianElephant.labelFemale>
+  <AEXP_IndianElephant.labelFemalePlural>індійські слонихи</AEXP_IndianElephant.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VIEHAR_Apparel_Rags.label>зробити ганчір'я</Make_VIEHAR_Apparel_Rags.label>
+  <Make_VIEHAR_Apparel_Rags.description>Виготовити ганчір'я.</Make_VIEHAR_Apparel_Rags.description>
+  <Make_VIEHAR_Apparel_Rags.jobString>виготовляє ганчір'я</Make_VIEHAR_Apparel_Rags.jobString>
+
+  <Make_VIEHAR_Apparel_BishopHat.label>зробити капелюх єпископа</Make_VIEHAR_Apparel_BishopHat.label>
+  <Make_VIEHAR_Apparel_BishopHat.description>Виготовити капелюх єпископа.</Make_VIEHAR_Apparel_BishopHat.description>
+  <Make_VIEHAR_Apparel_BishopHat.jobString>виготовляє капелюх єпископа</Make_VIEHAR_Apparel_BishopHat.jobString>
+
+  <Make_VIEHAR_Apparel_BrimlessHat.label>зробити капелюх без полів</Make_VIEHAR_Apparel_BrimlessHat.label>
+  <Make_VIEHAR_Apparel_BrimlessHat.description>Виготовити капелюх без полів.</Make_VIEHAR_Apparel_BrimlessHat.description>
+  <Make_VIEHAR_Apparel_BrimlessHat.jobString>виготовляє капелюх без полів</Make_VIEHAR_Apparel_BrimlessHat.jobString>
+
+  <Make_VIEHAR_Apparel_CommisarHat.label>зробити капелюх комісара</Make_VIEHAR_Apparel_CommisarHat.label>
+  <Make_VIEHAR_Apparel_CommisarHat.description>Виготовити капелюх комісара.</Make_VIEHAR_Apparel_CommisarHat.description>
+  <Make_VIEHAR_Apparel_CommisarHat.jobString>виготовляє капелюх комісара</Make_VIEHAR_Apparel_CommisarHat.jobString>
+
+  <Make_VIEHAR_Apparel_Fez.label>зробити феску</Make_VIEHAR_Apparel_Fez.label>
+  <Make_VIEHAR_Apparel_Fez.description>Виготовити феску.</Make_VIEHAR_Apparel_Fez.description>
+  <Make_VIEHAR_Apparel_Fez.jobString>виготовляє феску</Make_VIEHAR_Apparel_Fez.jobString>
+
+  <Make_VIEHAR_Apparel_Headbag.label>зробити капелюх-мішок</Make_VIEHAR_Apparel_Headbag.label>
+  <Make_VIEHAR_Apparel_Headbag.description>Виготовити капелюх-мішок.</Make_VIEHAR_Apparel_Headbag.description>
+  <Make_VIEHAR_Apparel_Headbag.jobString>виготовляє капелюх-мішок</Make_VIEHAR_Apparel_Headbag.jobString>
+
+  <Make_VIEHAR_Apparel_Headscarf.label>зробити капелюх-хустку</Make_VIEHAR_Apparel_Headscarf.label>
+  <Make_VIEHAR_Apparel_Headscarf.description>Виготовити капелюх-хустку.</Make_VIEHAR_Apparel_Headscarf.description>
+  <Make_VIEHAR_Apparel_Headscarf.jobString>виготовляє капелюх-хустку</Make_VIEHAR_Apparel_Headscarf.jobString>
+
+  <Make_VIEHAR_Apparel_HorseMask.label>зробити маску коня</Make_VIEHAR_Apparel_HorseMask.label>
+  <Make_VIEHAR_Apparel_HorseMask.description>Виготовити маску коня.</Make_VIEHAR_Apparel_HorseMask.description>
+  <Make_VIEHAR_Apparel_HorseMask.jobString>виготовляє маску коня</Make_VIEHAR_Apparel_HorseMask.jobString>
+
+  <Make_VIEHAR_Apparel_MilitaryCap.label>зробити пілотку</Make_VIEHAR_Apparel_MilitaryCap.label>
+  <Make_VIEHAR_Apparel_MilitaryCap.description>Виготовити пілотку.</Make_VIEHAR_Apparel_MilitaryCap.description>
+  <Make_VIEHAR_Apparel_MilitaryCap.jobString>виготовляє пілотку</Make_VIEHAR_Apparel_MilitaryCap.jobString>
+
+  <Make_VIEHAR_Apparel_Skullcap.label>зробити ярмулку</Make_VIEHAR_Apparel_Skullcap.label>
+  <Make_VIEHAR_Apparel_Skullcap.description>Виготовити ярмулку.</Make_VIEHAR_Apparel_Skullcap.description>
+  <Make_VIEHAR_Apparel_Skullcap.jobString>виготовляє ярмулку</Make_VIEHAR_Apparel_Skullcap.jobString>
+
+  <Make_VIEHAR_Apparel_SpikedSkullcap.label>зробити шипасту кіпу</Make_VIEHAR_Apparel_SpikedSkullcap.label>
+  <Make_VIEHAR_Apparel_SpikedSkullcap.description>Виготовити шипасту кіпу.</Make_VIEHAR_Apparel_SpikedSkullcap.description>
+  <Make_VIEHAR_Apparel_SpikedSkullcap.jobString>виготовляє шипасту кіпу</Make_VIEHAR_Apparel_SpikedSkullcap.jobString>
+
+  <Make_VIEHAR_Apparel_WideHat.label>зробити широкополий капелюх</Make_VIEHAR_Apparel_WideHat.label>
+  <Make_VIEHAR_Apparel_WideHat.description>Виготовити широкополий капелюх.</Make_VIEHAR_Apparel_WideHat.description>
+  <Make_VIEHAR_Apparel_WideHat.jobString>виготовляє широкополий капелюх</Make_VIEHAR_Apparel_WideHat.jobString>
+</LanguageData>

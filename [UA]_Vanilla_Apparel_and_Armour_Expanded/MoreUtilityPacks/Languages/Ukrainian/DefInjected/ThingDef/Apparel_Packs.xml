@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: field mortar -->
+  <SGC_Apparel_FieldMortar.label>польовий міномет</SGC_Apparel_FieldMortar.label>
+  <!-- EN: A scaled-down version of a standard mortar launcher. Trades the tremendous range of its full-sized cousin in favour of increased accuracy. Despite the efforts to make the deivce more portable, it will slow the wearer and requires a fair amount setup time per volley. It can be reloaded, but it requires a frankly unreasonable number of high-explosive shells to do so. -->
+  <SGC_Apparel_FieldMortar.description>Зменшена версія стандартної мінометної установки. Величезний діапазон свого повнорозмірного двоюрідного брата змінюється на користь підвищеної точності. Незважаючи на зусилля, спрямовані на те, щоб зробити пристрій більш портативним, він уповільнює роботу користувача та потребує досить багато часу для налаштування на кожен залп. Його можна перезарядити, але для цього потрібна відверто непомірна кількість осколково-фугасних снарядів.</SGC_Apparel_FieldMortar.description>
+  <!-- EN: payload -->
+  <SGC_Apparel_FieldMortar.comps.CompReloadable.chargeNoun>перезарядка</SGC_Apparel_FieldMortar.comps.CompReloadable.chargeNoun>
+  <!-- EN: field mortar -->
+  <SGC_Apparel_FieldMortar.verbs.Verb_LaunchProjectileStatic.label>польовий міномет</SGC_Apparel_FieldMortar.verbs.Verb_LaunchProjectileStatic.label>
+  
+  <!-- EN: Wearable Forklift -->
+  <SGC_Apparel_Forklift.label>роботизований екзопомічик</SGC_Apparel_Forklift.label>
+  <!-- EN: A glitter-tech industrial exoskeleton designed to outfit the wearer for heavy-duty lifting and precision manufacturing. The device allows the wearer to carry extremely heavy objects with ease, while self-guided robotic multi-tools push the user's work skills to the limits of human capability. -->
+  <SGC_Apparel_Forklift.description>Блискучий промисловий екзоскелет, розроблений для того, щоб спорядити користувача для підйому важких навантажень і точного виробництва. Пристрій дозволяє користувачеві з легкістю переносити надзвичайно важкі предмети, тоді як роботизовані мультиінструменти, які самостійно керуються, розширюють робочі навички користувача до меж людських можливостей.</SGC_Apparel_Forklift.description>
+  
+  <!-- EN: Rescue Frame -->
+  <SGC_Apparel_RescueFrame.label>комплект рятувальника</SGC_Apparel_RescueFrame.label>
+  <!-- EN: A glitter-tech crisis exoskeleton designed to outfit the wearer for search and rescue during disasters. The device generates a strong shield that protects the wearer from harm and extreme environments, while on-board medical tools increase tend speed to the limits of human capability. Since the device is very bulky, the wearer cannot fight properly. -->
+  <SGC_Apparel_RescueFrame.description>Кризовий екзоскелет із блискучими технологіями, створений для того, щоб спорядити власника для пошуку та порятунку під час катастроф. Пристрій створює міцний щит, який захищає користувача від пошкоджень і екстремальних умов, а бортові медичні інструменти збільшують швидкість до меж людських можливостей. Оскільки пристрій дуже громіздкий, власник не може правильно битися.</SGC_Apparel_RescueFrame.description>
+  
+  <!-- EN: Robotic Rig -->
+  <SGC_Apparel_RoboticRig.label>роботизована рука</SGC_Apparel_RoboticRig.label>
+  <!-- EN: A wearable robotic arm outfitted with a precision multi-tool designed to assist its user perform intricate tasks. While it does not provide any protection, it improves the wearer's manipulation/sight, and assists with aim time in combat. -->
+  <SGC_Apparel_RoboticRig.description>Роботизована рука, оснащена точним багатофункціональним інструментом, призначеним для допомоги користувачеві у виконанні складних завдань. Незважаючи на те, що він не забезпечує жодного захисту, він покращує маніпуляції/приціл власника та допомагає з часом прицілювання в бою.</SGC_Apparel_RoboticRig.description>
+  
+  <!-- EN: Survival Pack -->
+  <SGC_Apparel_SurvivalPack.label>комплект мандрівника</SGC_Apparel_SurvivalPack.label>
+  <!-- EN: A heavy backpack and outdoors kit designed to support long caravanning trips. Various powered containers for food and gear improve carrying capacity and foraging, which keep the wearer happier and fuller while on the road. -->
+  <SGC_Apparel_SurvivalPack.description>Важкий рюкзак і набір для відпочинку на природі, призначений для довгих поїздок на каравані. Різноманітні контейнери для їжі та спорядження покращують вантажопідйомність і допомогають у пошуках їжі, що робить власника щасливішим і ситішим у дорозі.</SGC_Apparel_SurvivalPack.description>
+  
+  <!-- EN: Trauma Kit -->
+  <SGC_Apparel_TraumaKit.label>комплект медпідтримки</SGC_Apparel_TraumaKit.label>
+  <!-- EN: A wearable medical kit designed to support combat functionality. Provides a small amount of protection and medical support to the wearer to keep them going longer despite severe injuries. -->
+  <SGC_Apparel_TraumaKit.description>Медичний комплект, призначений для підтримки бойових функціональних можливостей. Забезпечує невеликий захист і медичну підтримку власнику, щоб вони могли працювати довше, незважаючи на важкі травми.</SGC_Apparel_TraumaKit.description>
+  
+</LanguageData>

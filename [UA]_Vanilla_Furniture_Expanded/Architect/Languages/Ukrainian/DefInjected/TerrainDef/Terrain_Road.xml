@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_PlayerBrokenAsphalt.label>розбитий асфальт</VFEArch_PlayerBrokenAsphalt.label>
+  <VFEArch_PlayerBrokenAsphalt.description>Старий, розбитий на частини асфальт, що часто зустрічається у вигляді старих шосе навколо занедбаних місць. По ньому дуже легко пересуватися як людям, так і транспортним засобам.</VFEArch_PlayerBrokenAsphalt.description>
+
+  <VFEArch_PlayerPackedDirt.label>втоптана земля</VFEArch_PlayerPackedDirt.label>
+  <VFEArch_PlayerPackedDirt.description>Ущільнена земля, що трохи збільшує швидкість пересування, зазвичай утворює доріжки навколо часто відвідуваних місць.</VFEArch_PlayerPackedDirt.description>
+
+</LanguageData>

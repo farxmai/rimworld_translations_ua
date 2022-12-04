@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DrankSoda.label>Випив(а) содову</VBE_DrankSoda.label>
+  <VBE_DrankSoda.description>Багато цукру потрапляє в кровотік, забезпечуючи короткочасний приплив енергії. Дає 5% бафф до маніпуляції на 5 годин.</VBE_DrankSoda.description>
+
+  <VBE_DrankTea.label>Випив(а) чай</VBE_DrankTea.label>
+  <VBE_DrankTea.description>Таніни, що містяться у чаї, після метаболізму посилюють подразники в нервовій системі, пригнічуючи бажання спати, а також зміцнюють імунну систему.\n\nЗбільшує швидкість набуття імунітету на 15%, забезпечує зниження швидкості заповнення шкали втоми на 10% на 5 годин.</VBE_DrankTea.description>
+
+  <VBE_TequilaAsIngredient.label>Випив(а) коктейль з текілою</VBE_TequilaAsIngredient.label>
+  <VBE_TequilaAsIngredient.description>Випив(а) коктейль, до складу якого входила текіла. Надає 15% бонус до шансу приручення тварини.</VBE_TequilaAsIngredient.description>
+
+  <VBE_WhiskeyAsIngredient.label>Випив(а) коктейль з віскі</VBE_WhiskeyAsIngredient.label>
+  <VBE_WhiskeyAsIngredient.description>Випив(а) коктейль, до складу якого входив віскі. Надає бонус до точності стрільби.</VBE_WhiskeyAsIngredient.description>
+
+  <VBE_VodkaAsIngredient.label>Випив(а) коктейль з горілкою</VBE_VodkaAsIngredient.label>
+  <VBE_VodkaAsIngredient.description>Випив(а) коктейль, до складу якого входив горілка. Збільшує шанс ухилення у ближньому бою на 20%.</VBE_VodkaAsIngredient.description>
+
+  <VBE_GinAsIngredient.label>Випив(а) коктейль із джином</VBE_GinAsIngredient.label>
+  <VBE_GinAsIngredient.description>Випив(а) коктейль, до складу якого входив джин.</VBE_GinAsIngredient.description>
+
+  <VBE_AmbrandyAsIngredient.label>Випив(а) коктейль з амбренді</VBE_AmbrandyAsIngredient.label>
+  <VBE_AmbrandyAsIngredient.description>Випив(а) коктейль, до складу якого входив амбренді.</VBE_AmbrandyAsIngredient.description>
+
+  <VBE_RBMeadAsIngredient.label>Випив(а) коктейль із медовухою</VBE_RBMeadAsIngredient.label>
+  <VBE_RBMeadAsIngredient.description>Випив(а) коктейль, до складу якого входила медовуха.</VBE_RBMeadAsIngredient.description>
+
+  <VBE_WineAsIngredient.label>Випив(а) коктейль з вином</VBE_WineAsIngredient.label>
+  <VBE_WineAsIngredient.description>Випив(а) коктейль, до складу якого входило вино...</VBE_WineAsIngredient.description>
+
+  <VBE_ConsumedLuciferiumPowder.label>спожито пудру люциферію (зі страви)</VBE_ConsumedLuciferiumPowder.label>
+  <VBE_ConsumedLuciferiumPowder.description>Пудра люциферія – це дрібнодисперсний порошок люциферія. У такому розведеному вигляді ліки, безумовно, не загоїть жодних ран, але значно пожвавлять свого споживача.</VBE_ConsumedLuciferiumPowder.description>
+
+  <VBE_ConsumedGoStock.label>спожито кубик го-соку (зі страви)</VBE_ConsumedGoStock.label>
+  <VBE_ConsumedGoStock.description>Кубик го-соку є желатинізованим кубиком, який можна перетравлювати, а не вводити шляхом ін'єкції. У такому розведеному вигляді препарат не зможе блокувати сильний біль.</VBE_ConsumedGoStock.description>
+
+  <VBE_ConsumedWakeupPowder.label>спожито пудру бодьорину (зі страви)</VBE_ConsumedWakeupPowder.label>
+  <VBE_ConsumedWakeupPowder.description>Пудра бодьорина - це подрібнена і порошкоподібна форма бодьорина, напрочуд солодка і іноді використовується як заміна цукру в десертах або розчинена в ранковому еспресо. У такому розведеному вигляді цей препарат не буде таким стимулюючим. Зверніть увагу, що хоча пудра бодьорина не викликає звикання, вона все ж таки несе в собі ризик (хоч і дуже невеликий) серцевого нападу.</VBE_ConsumedWakeupPowder.description>
+
+
+</LanguageData>

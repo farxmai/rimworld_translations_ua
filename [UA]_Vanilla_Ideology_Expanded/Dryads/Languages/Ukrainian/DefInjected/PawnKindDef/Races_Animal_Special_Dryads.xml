@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dryad_Basic.label>дріада</Dryad_Basic.label>
+  <Dryad_Basic.labelPlural>дріади</Dryad_Basic.labelPlural>
+
+  <Dryad_Woodmaker.label>дріада-древороб</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.labelPlural>дріади-древороби</Dryad_Woodmaker.labelPlural>
+
+  <Dryad_Berrymaker.label>дріада-ягідник</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.labelPlural>дріади-ягідники</Dryad_Berrymaker.labelPlural>
+
+  <Dryad_Gaumaker.label>дріада-насінник</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.labelPlural>дріади-насінники</Dryad_Gaumaker.labelPlural>
+
+  <Dryad_Medicinemaker.label>дріада-лікороб</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.labelPlural>дріади-лікороби</Dryad_Medicinemaker.labelPlural>
+
+  <Dryad_Carrier.label>дріада-носій</Dryad_Carrier.label>
+  <Dryad_Carrier.labelPlural>дріади-носії</Dryad_Carrier.labelPlural>
+
+  <Dryad_Clawer.label>дріада-кігтервач</Dryad_Clawer.label>
+  <Dryad_Clawer.labelPlural>дріади-кігтервачі</Dryad_Clawer.labelPlural>
+
+  <Dryad_Barkskin.label>дріада-дубошкір</Dryad_Barkskin.label>
+  <Dryad_Barkskin.labelPlural>дріади-дубошкіри</Dryad_Barkskin.labelPlural>
+
+  <!-- EN: stonedigger dryad -->
+  <VDE_Dryad_Stonedigger.label>дріада-каменяр</VDE_Dryad_Stonedigger.label>
+  <!-- EN: stonedigger dryads -->
+  <VDE_Dryad_Stonedigger.labelPlural>дріади-каменярі</VDE_Dryad_Stonedigger.labelPlural>
+
+  <!-- EN: spitter dryad -->
+  <VDE_Dryad_Spitter.label>дріада-плювальник</VDE_Dryad_Spitter.label>
+  <!-- EN: spitter dryads -->
+  <VDE_Dryad_Spitter.labelPlural>дріади-плювальники</VDE_Dryad_Spitter.labelPlural>
+
+  <!-- EN: gaubricmaker dryad -->
+  <VDE_Dryad_Gaubricmaker.label>дріада-вовнянник</VDE_Dryad_Gaubricmaker.label>
+  <!-- EN: gaubricmaker dryads -->
+  <VDE_Dryad_Gaubricmaker.labelPlural>дріади-вовнянники</VDE_Dryad_Gaubricmaker.labelPlural>
+
+  <!-- EN: nectarmaker dryad -->
+  <VDE_Dryad_Nectarmaker.label>дріада-нектарник</VDE_Dryad_Nectarmaker.label>
+  <!-- EN: nectarmaker dryads -->
+  <VDE_Dryad_Nectarmaker.labelPlural>дріади-нектарники</VDE_Dryad_Nectarmaker.labelPlural>
+</LanguageData>

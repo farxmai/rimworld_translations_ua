@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Gun_MakeshiftPistol.label>кустарний пістолет</VWE_Gun_MakeshiftPistol.label>
+  <VWE_Gun_MakeshiftPistol.description>Зібраний на колінці самозарядний пістолет старого зразка з контрольованою віддачею. Йому не вистачає зупиняючої сили та дальності заводського пістолета, та й тримається кустарний пістолет лише за рахунок синьої ізоленти, готовий заклинити будь-якої миті.</VWE_Gun_MakeshiftPistol.description>
+  <VWE_Gun_MakeshiftPistol.tools.grip.label>рукоять</VWE_Gun_MakeshiftPistol.tools.grip.label>
+  <VWE_Gun_MakeshiftPistol.tools.barrel.label>ствол</VWE_Gun_MakeshiftPistol.tools.barrel.label>
+
+  <VWE_Bullet_MakeshiftPistol.label>куля кустарного пістолета</VWE_Bullet_MakeshiftPistol.label>
+
+  <VWE_Gun_MakeshiftSMG.label>кустарний ПК</VWE_Gun_MakeshiftSMG.label>
+  <VWE_Gun_MakeshiftSMG.description>Компактний ПК ручної, але не надто вмілої роботи. Він має невелику дальність стрілянини та часті клинці через неякісне складання та ненадійні деталі. Хоча б висока скорострільність компенсує ці слабкості.</VWE_Gun_MakeshiftSMG.description>
+  <VWE_Gun_MakeshiftSMG.tools.grip.label>рукоять</VWE_Gun_MakeshiftSMG.tools.grip.label>
+  <VWE_Gun_MakeshiftSMG.tools.barrel.label>ствол</VWE_Gun_MakeshiftSMG.tools.barrel.label>
+
+  <VWE_Bullet_MakeshiftSMG.label>куля кустарного ПП</VWE_Bullet_MakeshiftSMG.label>
+
+  <VWE_Gun_MakeshiftRifle.label>кустарная гвинтівка</VWE_Gun_MakeshiftRifle.label>
+  <VWE_Gun_MakeshiftRifle.description>Імпровізована автоматична штурмова рушниця загального призначення. Уявляє собою купу мотлоху, прироблену до стовбурної коробки бойової гвинтівки. Має хорошу дальність, хорошу міць і хорошу точність. Однак є ризик клину.</VWE_Gun_MakeshiftRifle.description>
+  <VWE_Gun_MakeshiftRifle.tools.stock.label>ложа</VWE_Gun_MakeshiftRifle.tools.stock.label>
+  <VWE_Gun_MakeshiftRifle.tools.barrel.label>ствол</VWE_Gun_MakeshiftRifle.tools.barrel.label>
+
+  <VWE_Bullet_MakeshiftRifle.label>куля кустарной гвинтівки</VWE_Bullet_MakeshiftRifle.label>
+
+  <VWE_Gun_MakeshiftShotgun.label>кустарний дробовик</VWE_Gun_MakeshiftShotgun.label>
+  <VWE_Gun_MakeshiftShotgun.description>Саморобний варіант потужного дробовика, що випускає шквал дробинок. Він смертельний, але зблизька. Через велику кількість дрібних помилок у проекті, кількість дробинок, що випускаються, буде змінюватися від пострілу до пострілу.</VWE_Gun_MakeshiftShotgun.description>
+  <VWE_Gun_MakeshiftShotgun.tools.stock.label>ложа</VWE_Gun_MakeshiftShotgun.tools.stock.label>
+  <VWE_Gun_MakeshiftShotgun.tools.barrel.label>ствол</VWE_Gun_MakeshiftShotgun.tools.barrel.label>
+
+  <VWE_Bullet_MakeshiftShotgun.label>дріб кустарного дробовика</VWE_Bullet_MakeshiftShotgun.label>
+
+  <VWE_Gun_MakeshiftLMG.label>кустарний ручной кулемет</VWE_Gun_MakeshiftLMG.label>
+  <VWE_Gun_MakeshiftLMG.description>Ручний кулемет зроблено в кустарних умовах. Він громіздкий, неточний і здатний заклинати. Довгі черги кулемета ефективні проти груп ворогів, але довжина цих черг є цілком випадковою.</VWE_Gun_MakeshiftLMG.description>
+  <VWE_Gun_MakeshiftLMG.tools.stock.label>ложа</VWE_Gun_MakeshiftLMG.tools.stock.label>
+  <VWE_Gun_MakeshiftLMG.tools.barrel.label>ствол</VWE_Gun_MakeshiftLMG.tools.barrel.label>
+
+  <VWE_Bullet_MakeshiftLMG.label>куля кустарного ручного кулемета</VWE_Bullet_MakeshiftLMG.label>
+</LanguageData>

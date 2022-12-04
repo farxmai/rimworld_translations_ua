@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeTeaFast.label>приготувати чай (швидко)</VBE_MakeTeaFast.label>
+  <VBE_MakeTeaFast.description>Приготувати чай.</VBE_MakeTeaFast.description>
+  <VBE_MakeTeaFast.jobString>готує чай</VBE_MakeTeaFast.jobString>
+
+  <VBE_MakeBlackTea.label>приготувати чорний чай</VBE_MakeBlackTea.label>
+  <VBE_MakeBlackTea.description>Приготувати чорний чай.</VBE_MakeBlackTea.description>
+  <VBE_MakeBlackTea.jobString>готує чорний чай</VBE_MakeBlackTea.jobString>
+
+  <VBE_MakeYuenYeung.label>приготувати каву юеньюн</VBE_MakeYuenYeung.label>
+  <VBE_MakeYuenYeung.description>Приготувати каву юеньюн.</VBE_MakeYuenYeung.description>
+  <VBE_MakeYuenYeung.jobString>готує каву юеньюн</VBE_MakeYuenYeung.jobString>
+
+  <VBE_MakeKombucha.label>приготувати чай комбуча</VBE_MakeKombucha.label>
+  <VBE_MakeKombucha.description>Приготувати чай комбуча.</VBE_MakeKombucha.description>
+  <VBE_MakeKombucha.jobString>готує чай комбуча</VBE_MakeKombucha.jobString>
+
+
+</LanguageData>

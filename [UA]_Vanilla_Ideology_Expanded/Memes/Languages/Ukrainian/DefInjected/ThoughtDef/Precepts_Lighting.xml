@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: darklight -->
+  <VME_Darklight_NormalPreferred_Darklight.stages.0.label>темне світло</VME_Darklight_NormalPreferred_Darklight.stages.0.label>
+  <!-- EN: Darklight is unnatural. -->
+  <VME_Darklight_NormalPreferred_Darklight.stages.0.description>Темне світло таке неприродне.</VME_Darklight_NormalPreferred_Darklight.stages.0.description>
+
+  <!-- EN: despised darkness -->
+  <VME_Darklight_DislikeDarkness.stages.0.label>гнітюча пітьма</VME_Darklight_DislikeDarkness.stages.0.label>
+  <!-- EN: Darkness is unnatural and disgusting. -->
+  <VME_Darklight_DislikeDarkness.stages.0.description>Перебувати у темряві ненормально та огидно.</VME_Darklight_DislikeDarkness.stages.0.description>
+</LanguageData>

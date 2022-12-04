@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 25 -->
+
+  <!-- EN: mechanoid supremacy -->
+  <VME_MechanoidSupremacy.label>панування механоїдів</VME_MechanoidSupremacy.label>
+  <!-- EN: Never tire, never wither, never need for sustenance. Mechanoids є humanity perfect і повинні бути відновлені як наші superiores. -->
+  <VME_MechanoidSupremacy.description>Ніколи не втомлюються, ніколи не виявляють слабкості, ніколи не потребують харчування. Механоїди досконаліші за людство, і ми повинні приймати їх як своїх покровителів.</VME_MechanoidSupremacy.description>
+
+  <VME_MechanoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->механоїдний</li>
+    <li>memeAdjective->машинний</li>
+    <li>memeAdjective->кібернетичний</li>
+    <li>memeCreed->перфекцизм</li>
+    <li>memeCreed->механоїдизм</li>
+    <li>memeHyphenPrefix->технічно</li>
+    <li>memeHyphenPrefix->кібер</li>
+    <li>memeHyphenPrefix->хутро</li>
+    <li>memeConcept->технології</li>
+    <li>memeConcept->кремнію</li>
+    <li>memeConcept->механоїдів</li>
+    <li>memeLeaderNoun->кіборг</li>
+    <li>memeLeaderAdjective->технічно</li>
+    <li>memeLeaderAdjective->хутро</li>
+  </VME_MechanoidSupremacy.generalRules.rulesStrings>
+
+  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MechanoidSupremacy) ->[deity0_name] [deity0_spoke] до своїх послідовників: «Механоїди були створені на мій образ і подобу. Їхній образ священний, і ви повинні прагнути стати подібними до них».</li>
+    <li>episode(uses=1,tag=meme_MechanoidSupremacy) ->[deity0_name] [deity0_gave] нам вчення, дотримуючись якого ми спорудили безліч статуй за образом божественних механоїдів.</li>
+
+    <li>intro(tag=meme_MechanoidSupremacy) ->[place_summary] [place_name] — так звалося місце, де [memberNamePlural] побудували гігантську статую двоногого механоїда, поверхня якого була вкрита безліччю жахливих кіс. Говорять, що [deity0_name] має саме такий образ.</li>
+    <li>conflict(tag=meme_MechanoidSupremacy) ->[foeLeader] [foe_apostate] зображення богохульним, оскільки [foe_venerated] як божество. [foeLeader_pronoun] [foe_sought] повалити статую і ув'язнити послідовників істинного божества — [deity0_name].</li>
+    <li>founderJoin(tag=meme_MechanoidSupremacy) ->[founderName], Великий Механо-жрець, [founder_prayed] про руйнування грізного ворога, і [deity0_name] [deity0_summoned] з небес посадкові капсули кластера механоїдів.</li>
+    <li>victory(tag=meme_MechanoidSupremacy) ->[foeLeader] був убитий механоїдами, а разом з ним і [foeLeader_possessive] його солдати. Так [deity0_name] назавжди [deity0_cemmenting] свою могутність.</li>
+
+    <li>setup(tag=meme_MechanoidSupremacy) ->[founderName] [founder_spent] більшу частину життя, вивчаючи механоїдів. [founder_pronoun] [founder_came] переконання, що механоїди — це вдосконалене людство, наступний ступінь еволюції.</li>
+    <li>story(uses=1,tag=meme_MechanoidSupremacy) ->У прагненні продовжити свої дослідження [founderName] [founder_assembled] команду вчених і [founder_chartered] корабель для подорожі в окраїнні світи, де [founder_possessive] експеримент .</li>
+
+    <li>lessonIntro(tag=meme_MechanoidSupremacy) ->Мої експерименти з механоїдами були великі і ретельні. Після багатьох років праці я дійшов висновку, що</li>
+    <li>lesson(tag=meme_MechanoidSupremacy) ->механоїди - це вдосконалене людство, наступний ступінь еволюції</li>
+    <li>lessonReinforcement(tag=meme_MechanoidSupremacy) ->Механоїди ніколи не втомлюються, ніколи не виявляють слабкість, ніколи не потребують харчування. Вони перевершують нас, органічних істот, у всіх відношеннях.</li>
+
+    <li>archistBasis(tag=meme_MechanoidSupremacy) ->Архотеки будують незліченних механоїдів за своїм образом і подобою. Дивовижні машини, які набагато перевершують нас.</li>
+    <li>archistFact(tag=meme_MechanoidSupremacy) ->Механоїди, створені архотеками, є досконалими машинами, які ніколи не втомлюються, ніколи не слабшають, ніколи не потребують їжі.</li>
+    <li>archistProphecy(tag=meme_MechanoidSupremacy) ->[inTheEnd], тільки вивчаючи і шануючи механоїдів, ми можемо сподіватися наблизитися до архотеків і, можливо, брати участь у трансцендентному.</li>
+
+    <li>animistBasis(tag=meme_MechanoidSupremacy) ->Механоїди керовані наймогутнішими духами. Хижими духами машин, які ненавидять все живе.</li>
+    <li>animistFact(tag=meme_MechanoidSupremacy) ->Тільки змилостививши духів машин, ми можемо сподіватися уникнути їхнього гніву, бо вони сліпі до матеріального світу.</li>
+    <li>animistProphecy(tag=meme_MechanoidSupremacy) ->[itIsSaid] тільки ті, хто поважають і шанують механоїдів, можуть по-справжньому спілкуватися з духами.</li>
+
+    <li>serketistProphecy(tag=meme_MechanoidSupremacy)->[itIsSaid] ми створимо досконалу істоту, комаху-механоїду, натхненну технологіями архотека, яка принесе нову еру процвітання.</li>
+
+    <li>chthonianProphecy(tag=meme_MechanoidSupremacy)->Ми — ніщо перед цими моторошними сутностями, і тільки об'єднавши наші тіла з тілами найпотужніших машин, ми можемо сподіватися протистояти їм.</li>
+
+    <li>esotericismProphecy(tag=meme_MechanoidSupremacy)->Таке окультне знання буде важко знайти. Ми вивчатимемо тіла механоїдів, бо вони є досконалими істотами і ключем до розгадки таємниць Космосу.</li>
+
+    <li>eschatologismFact(tag=meme_MechanoidSupremacy)->Ми наслідуватимемо люті і лютості механоїдів, досконалих істот, одержимих викоріненням людства.</li>
+
+    <li>introMemo(tag=meme_MechanoidSupremacy)->Починаючи з наступного кварталу, ми надаватимемо кожному нашому співробітнику корисного помічника-механоїда. Вони будуть поставлятися з попередньо налаштованими новими фірмовими пакетами для підвищення продуктивності, що, я вважаю, більшість із вас вважатиме дуже корисним для підвищення вашої продуктивності праці та збільшення рентабельності інвестицій.</li>
+
+    <li>alienistProphecy(tag=meme_MechanoidSupremacy)->Ці несхожі істоти — недосконалі, банальні біологічні машини, які бліді в порівнянні з будь-яким механоїдом, але вони є кроком у правильному напрямку.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->звернулося</li>
+    <li>deity0_spoke(deity0_gender==Male)->звернувся</li>
+    <li>deity0_spoke(deity0_gender==Female)->звернулася</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>foe_apostate(foeLeader_gender==Male)->був відступником і рахував</li>
+    <li>foe_apostate(foeLeader_gender==Female)->була відступницею і визнала</li>
+    <li>foe_venerated(foeLeader_gender==Male)->сам себе шанував</li>
+    <li>foe_venerated(foeLeader_gender==Female)->сама себе шанувала</li>
+    <li>foe_sought(foeLeader_gender==Male)->шукав можливість</li>
+    <li>foe_sought(foeLeader_gender==Female)->шукала можливість</li>
+
+    <li>founder_prayed(founder_gender==Male)->молився</li>
+    <li>founder_prayed(founder_gender==Female)->молилася</li>
+    <li>deity0_summoned(deity0_gender==None)->викликало</li>
+    <li>deity0_summoned(deity0_gender==Male)->викликав</li>
+    <li>deity0_summoned(deity0_gender==Female)->викликала</li>
+    <li>deity0_cemmenting(deity0_gender==None)->зміцнило</li>
+    <li>deity0_cemmenting(deity0_gender==Male)->зміцнив</li>
+    <li>deity0_cemmenting(deity0_gender==Female)->зміцнила</li>
+
+    <li>founder_spent(founder_gender==Male)->провів</li>
+    <li>founder_spent(founder_gender==Female)->провела</li>
+    <li>founder_came(founder_gender==Male)->прийшов</li>
+    <li>founder_came(founder_gender==Female)->прийшла</li>
+    <li>founder_assembled(founder_gender==Male)->зібрав</li>
+    <li>founder_assembled(founder_gender==Female)->зібрала</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтував</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтувала</li>
+  </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Mechanoid -->
+  <VME_MechanoidSupremacy.symbolPacks.0.ideoName>Механоїдизм</VME_MechanoidSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: mechanoids -->
+  <VME_MechanoidSupremacy.symbolPacks.0.theme>механоїдів</VME_MechanoidSupremacy.symbolPacks.0.theme>
+  <!-- EN: mechanoid -->
+  <VME_MechanoidSupremacy.symbolPacks.0.adjective>механоїдний</VME_MechanoidSupremacy.symbolPacks.0.adjective>
+  <!-- EN: mechanoid worshipper -->
+  <VME_MechanoidSupremacy.symbolPacks.0.member>механідопоклонник</VME_MechanoidSupremacy.symbolPacks.0.member>
+
+</LanguageData>

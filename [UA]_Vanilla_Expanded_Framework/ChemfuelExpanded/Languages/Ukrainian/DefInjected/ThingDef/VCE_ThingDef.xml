@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- chemfuel deep fryer -->
+  <CE_ChemfuelDeepFrier.label>хімпаливна фритюрница</CE_ChemfuelDeepFrier.label>
+  <!-- A deep fryer is a kitchen appliance used for deep frying, and this particular model uses chemfuel to power itself. Deep frying is a method of cooking by submerging food into oil at high heat, typically between temperatures of 350 °F and 375 °F (175 °C to 190 °C). -->
+  <CE_ChemfuelDeepFrier.description>Фритюрниця – це кухонний прилад, що використовується для смаження у фритюрі, і в цій конкретній моделі для живлення використовується хімічне паливо. Смаження у фритюрі - це спосіб приготування шляхом занурення продуктів в олію на сильному вогні, зазвичай при температурі від 175 до 190°C.</CE_ChemfuelDeepFrier.description>
+  <!-- grill -->
+  <CE_ChemfuelGrill.label>хімпаливний гриль</CE_ChemfuelGrill.label>
+  <!-- A grill is a device that cooks food by applying heat from below. This is a chemfuel powered grill that needs chemfuel as fuel to work. -->
+  <CE_ChemfuelGrill.description>Гриль - це пристрій, що готує їжу, випромінюючи тепло знизу продукту. Це гриль, який працює на хімічному паливі.</CE_ChemfuelGrill.description>
+  <!-- chemfuel pot -->
+  <CE_ChemfuelPot.label>хімпаливна стійка з каструлею</CE_ChemfuelPot.label>
+  <!-- Soup is ancient as time itself, well almost .This is a chemfuel powered cooking pot, which needs chemfuel to work. -->
+  <CE_ChemfuelPot.description>Невеликий прилад що використовується для кип'ятіння води ті підтримки її температури. Працює аналогічно електричному варіанту але на хімічному паливі.</CE_ChemfuelPot.description>
+  <!-- Air fryer  -->
+  <CE_AirFryer.label>аерогриль</CE_AirFryer.label>
+  <!-- An air fryer is a small countertop convection oven designed to simulate deep frying without submerging the food in oil. A fan circulates hot air at high speed, producing a crisp layer via browning reactions. Much healthier than deep frying. -->
+  <CE_AirFryer.description>Аерогриль - це невелика настільна конвекційна піч, призначена для імітації смаження у фритюрі без занурення продуктів у олію. Гаряче повітря циркулює з високою швидкістю, створюючи хрусткий шар. Набагато корисніше, ніж смаження у фритюрі.</CE_AirFryer.description>
+
+</LanguageData>

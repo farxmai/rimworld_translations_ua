@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_HarvestAquatic.label>збирати урожай у воді</VCE_HarvestAquatic.label>
+  <VCE_HarvestAquatic.verb>збирати</VCE_HarvestAquatic.verb>
+  <VCE_HarvestAquatic.gerund>збирати</VCE_HarvestAquatic.gerund>
+
+  <VCE_SowAquatic.label>висаджувати рослини у воді</VCE_SowAquatic.label>
+  <VCE_SowAquatic.verb>сіяти</VCE_SowAquatic.verb>
+  <VCE_SowAquatic.gerund>сіяти</VCE_SowAquatic.gerund>
+
+  <VCE_HarvestSandy.label>збирати урожай на піску</VCE_HarvestSandy.label>
+  <VCE_HarvestSandy.verb>збирати</VCE_HarvestSandy.verb>
+  <VCE_HarvestSandy.gerund>збирати</VCE_HarvestSandy.gerund>
+
+  <VCE_SowSandy.label>висаджувати рослини на піску</VCE_SowSandy.label>
+  <VCE_SowSandy.verb>сіяти</VCE_SowSandy.verb>
+  <VCE_SowSandy.gerund>сіяти</VCE_SowSandy.gerund>
+</LanguageData>

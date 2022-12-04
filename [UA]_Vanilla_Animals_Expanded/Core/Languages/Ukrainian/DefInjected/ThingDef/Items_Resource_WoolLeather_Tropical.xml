@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tiger leather -->
+  
+  <AEXP_Leather_Tiger.label>шкіра тигра</AEXP_Leather_Tiger.label>
+  <AEXP_Leather_Tiger.description>На старій Землі тигри часто ставали мішенню браконьєрів через їхне розкішне хутро, що мало не призвело до їх зникнення. В умовах беззаконня , шкіра тигра з хутром розглядається як ще один екзотичний товар для торгівлі між поселеннями.</AEXP_Leather_Tiger.description>
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>шкіри тигра</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
+
+</LanguageData>

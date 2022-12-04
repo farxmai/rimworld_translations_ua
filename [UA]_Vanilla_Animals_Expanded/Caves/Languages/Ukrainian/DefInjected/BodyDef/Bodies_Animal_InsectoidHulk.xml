@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_InsectoidHulkBody.label>тулуб тарганхалка</VAE_InsectoidHulkBody.label>
+  <VAE_InsectoidHulkBody.corePart.parts.0.customLabel>ліве надкрилля</VAE_InsectoidHulkBody.corePart.parts.0.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.1.customLabel>праве надкрилля</VAE_InsectoidHulkBody.corePart.parts.1.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>ліве око</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>праве око</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>ліве вусико</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>праве вусико</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.5.customLabel>ліва задня кінцівка</VAE_InsectoidHulkBody.corePart.parts.5.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.6.customLabel>права задня кінцівка</VAE_InsectoidHulkBody.corePart.parts.6.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.7.customLabel>права передня кінцівка</VAE_InsectoidHulkBody.corePart.parts.7.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.8.customLabel>ліва передня кінцівка</VAE_InsectoidHulkBody.corePart.parts.8.customLabel>
+
+
+</LanguageData>

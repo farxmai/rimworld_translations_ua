@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<GuestDiplomacy.label>покращення відносин</GuestDiplomacy.label>
+	<GuestDiplomacy.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] проводить ввічливу бесіду з [RECIPIENT_nameDef] про [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] обговорює політичне питання [subject] з [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] [PersonalCharacteristic] [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] фракцію [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] відносини з фракцією [RECIPIENT_factionName].</li>
+		<li>r_logentry->[INITIATOR_nameDef] передає привіт [PersonFamily] [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] намагається знайти щось спільне з [RECIPIENT_nameDef] у [opinion].</li>
+
+		<li>opinion->спільній підтримці [ConceptPositive]</li>
+		<li>opinion->спільній недовірі до [ConceptNegative]</li>
+		<li>opinion->страху [ConceptNegative]</li>
+		<li>opinion->схожості сприйняття [ConceptAny]</li>
+		<li>opinion->любові до [ConceptPositive]</li>
+		<li>complimented->хвалить</li>
+		<li>complimented->оспівує</li>
+		<li>complimented->прославляє</li>
+		<li>complimented->возвеличує</li>
+	</GuestDiplomacy.logRulesInitiator.rulesStrings>
+
+	<CharmGuestAttempt.label>спроба звабити</CharmGuestAttempt.label>
+	<CharmGuestAttempt.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] розповідає [RECIPIENT_nameDef] все проо [ConceptPositive] у [INITIATOR_factionName].</li>
+		<li>r_logentry->[INITIATOR_nameDef] розказує [RECIPIENT_nameDef] [adjwords] речі про інших колоністів.</li>
+		<li>r_logentry->[INITIATOR_nameDef] знакомит [RECIPIENT_nameDef] с другими поселенцами.</li>
+		<li>saidwords->говорить [adjwords] слова</li>
+		<li>saidwords->висловлює думку про [ConceptPositive]</li>
+		<li>saidwords->робить [adjwords] комплименти в бік</li>
+		<li>adjwords->інтригуючі</li>
+		<li>adjwords->добрі</li>
+		<li>adjwords->обнадійливі</li>
+		<li>adjwords->приємні</li>
+		<li>adjwords->чарівні</li>
+	</CharmGuestAttempt.logRulesInitiator.rulesStrings>
+
+</LanguageData>

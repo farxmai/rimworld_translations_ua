@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<Hospitality_Faction.label>фракція</Hospitality_Faction.label>
+	<AccommodationArea.label>дозволена зона</AccommodationArea.label>
+	<ShoppingArea.label>торгівельна зона</ShoppingArea.label>
+
+	<MakeFriends.headerTip>Заводити дружбу</MakeFriends.headerTip>
+	<Entertain.headerTip>Розважати</Entertain.headerTip>
+	<Hospitality.headerTip>Задоволення гостинністю</Hospitality.headerTip>
+	<FriendsForRecruiting.headerTip>Друзі у колонії</FriendsForRecruiting.headerTip>
+
+</LanguageData>

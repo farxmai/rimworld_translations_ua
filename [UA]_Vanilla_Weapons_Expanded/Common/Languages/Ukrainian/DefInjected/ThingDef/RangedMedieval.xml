@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Bow_Crossbow.label>арбалет</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>Арбалет це тип зброї далекого бою, схожий за принципом дії на лук, що складається з схожого на лук вузла, встановленого горизонтально на головній рамі, яка тримається в руках, як рушниця. Це рання спроба людства створити щось далекобійне для пробиття броні.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.0.label>ложа</VWE_Bow_Crossbow.tools.0.label>
+
+  <VWE_Arrow_Bolt.label>арбалетний болт</VWE_Arrow_Bolt.label>
+
+
+  <VWE_Gun_Musket.label>крем'яний мушкет</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>Старовинний крем'яний мушкет - будучи одним з перших у своєму роді, він має малу дальність і скорострільність.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.0.label>приклад</VWE_Gun_Musket.tools.0.label>
+  <VWE_Gun_Musket.tools.1.label>ствол</VWE_Gun_Musket.tools.1.label>
+
+  <Bullet_Leadball.label>свинцева куля</Bullet_Leadball.label>
+
+
+  <VWE_Gun_Flintlock.label>крем'яний пістоль</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>Цей пістолет має гладкий ствол і довгу дерев'яну ручку з набалдашником на кінці. Як випливає з назви, в основі крем'яного пістолета стоїть ударно-кремневий замок.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.0.label>приклад</VWE_Gun_Flintlock.tools.0.label>
+  <VWE_Gun_Flintlock.tools.1.label>ствол</VWE_Gun_Flintlock.tools.1.label>
+
+  <VWE_Throwing_Knives.label>метальні ножі</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>Набір збалансованих ножів, призначених для метання.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.0.label>рукоять</VWE_Throwing_Knives.tools.0.label>
+  <VWE_Throwing_Knives.tools.1.label>лезо</VWE_Throwing_Knives.tools.1.label>
+  <VWE_Throwing_Knives.tools.2.label>вістря</VWE_Throwing_Knives.tools.2.label>
+
+  <VWE_FlyingBlade.label>метальний ніж</VWE_FlyingBlade.label>
+
+
+  <VWE_Tool_Whip.label>батіг</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>Традиційний інструмент, що використовується для завдання ударів по тваринах, щоб домогтися від них покори і покірності.\n\nМожна завдавати ударів і по людях.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.0.label>кінчик</VWE_Tool_Whip.tools.0.label>
+
+  <VWE_WhipSlash.label>удар батога</VWE_WhipSlash.label>
+</LanguageData>

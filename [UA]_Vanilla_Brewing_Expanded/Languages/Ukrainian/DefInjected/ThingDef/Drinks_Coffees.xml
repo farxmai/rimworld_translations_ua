@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffee.label>кава</VBE_HotCoffee.label>
+  <VBE_HotCoffee.description>Теплий, гіркий напій, як правило, з додаванням молока та цукру. Фаворит серед студентів та офісних працівників по всій галактиці завдяки високому вмісту кофеїну та приємному аромату.</VBE_HotCoffee.description>
+  <VBE_HotCoffee.ingestible.ingestCommandString>Випити {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <VBE_HotCoffee.ingestible.ingestReportString>п'є {0}</VBE_HotCoffee.ingestible.ingestReportString>
+
+  <VBE_IceCoffee.label>холодна кава</VBE_IceCoffee.label>
+  <VBE_IceCoffee.description>Крижана, охолоджена кава. Багато хто віддає перевагу охолодженій каві в більш теплому кліматі, як і її теплий аналог, вона однаково поширена як серед студентів, так і серед професіоналів своєї справи.</VBE_IceCoffee.description>
+  <VBE_IceCoffee.ingestible.ingestCommandString>Випити {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <VBE_IceCoffee.ingestible.ingestReportString>п'є {0}</VBE_IceCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

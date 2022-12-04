@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_Aurora.stages.beautiful_aurora.label>Прекрасне сяйво</VEE_Aurora.stages.beautiful_aurora.label>
+  <VEE_Aurora.stages.beautiful_aurora.description>Вид сяйва приголомшливий.</VEE_Aurora.stages.beautiful_aurora.description>
+
+  <VEE_Hail.stages.hit_by_hailstones.label>Під градом</VEE_Hail.stages.hit_by_hailstones.label>
+  <VEE_Hail.stages.hit_by_hailstones.description>Нагадує про Нікополь... Йобана Русня!</VEE_Hail.stages.hit_by_hailstones.description>
+</LanguageData>

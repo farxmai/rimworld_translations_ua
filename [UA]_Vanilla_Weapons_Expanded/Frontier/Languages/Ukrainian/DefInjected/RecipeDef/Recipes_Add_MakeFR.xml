@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWEFT_Gun_HeavyRevolver.label>зробити важкий револьвер</Make_VWEFT_Gun_HeavyRevolver.label>
+  <Make_VWEFT_Gun_HeavyRevolver.description>зробити важкий револьвер.</Make_VWEFT_Gun_HeavyRevolver.description>
+  <Make_VWEFT_Gun_HeavyRevolver.jobString>Виготовляє важкий револьвер.</Make_VWEFT_Gun_HeavyRevolver.jobString>
+
+  <Make_VWEFT_Gun_VolcanicPistol.label>зробити револьвер волканик</Make_VWEFT_Gun_VolcanicPistol.label>
+  <Make_VWEFT_Gun_VolcanicPistol.description>зробити револьвер волканик.</Make_VWEFT_Gun_VolcanicPistol.description>
+  <Make_VWEFT_Gun_VolcanicPistol.jobString>Виготовляє револьвер волканик.</Make_VWEFT_Gun_VolcanicPistol.jobString>
+
+  <Make_VWEFT_Gun_FrontierPistol.label>зробити пістолет прикордоння</Make_VWEFT_Gun_FrontierPistol.label>
+  <Make_VWEFT_Gun_FrontierPistol.description>зробити пістолет прикордоння.</Make_VWEFT_Gun_FrontierPistol.description>
+  <Make_VWEFT_Gun_FrontierPistol.jobString>Виготовляє пістолет прикордоння</Make_VWEFT_Gun_FrontierPistol.jobString>
+
+  <Make_VWEFT_Gun_RollingBlockRifle.label>зробити гвинтівку з роликовим затвором</Make_VWEFT_Gun_RollingBlockRifle.label>
+  <Make_VWEFT_Gun_RollingBlockRifle.description>зробити гвинтівку з роликовим затвором.</Make_VWEFT_Gun_RollingBlockRifle.description>
+  <Make_VWEFT_Gun_RollingBlockRifle.jobString>Виготовляє гвинтівку з роликовим затвором</Make_VWEFT_Gun_RollingBlockRifle.jobString>
+
+  <Make_VWEFT_Gun_RepeatingShotgun.label>зробити магазинний дробовик</Make_VWEFT_Gun_RepeatingShotgun.label>
+  <Make_VWEFT_Gun_RepeatingShotgun.description>зробити магазинний дробовик.</Make_VWEFT_Gun_RepeatingShotgun.description>
+  <Make_VWEFT_Gun_RepeatingShotgun.jobString>Виготовляє магазинний дробовик</Make_VWEFT_Gun_RepeatingShotgun.jobString>
+
+  <Make_VWEFT_Gun_GaussRevolver.label>зробити гаус-револьвер</Make_VWEFT_Gun_GaussRevolver.label>
+  <Make_VWEFT_Gun_GaussRevolver.description>зробити гаус-револьвер.</Make_VWEFT_Gun_GaussRevolver.description>
+  <Make_VWEFT_Gun_GaussRevolver.jobString>Виготовляє гаус-револьвер.</Make_VWEFT_Gun_GaussRevolver.jobString>
+
+  <Make_VWEFT_Gun_GaussRepeater.label>зробити гаус-дробовик</Make_VWEFT_Gun_GaussRepeater.label>
+  <Make_VWEFT_Gun_GaussRepeater.description>зробити гаус-дробовик.</Make_VWEFT_Gun_GaussRepeater.description>
+  <Make_VWEFT_Gun_GaussRepeater.jobString>Виготовляє гаус-дробовик.</Make_VWEFT_Gun_GaussRepeater.jobString>
+
+  <Make_VWEFT_Gun_HandheldGatlingGun.label>зробити ручний гатлінг</Make_VWEFT_Gun_HandheldGatlingGun.label>
+  <Make_VWEFT_Gun_HandheldGatlingGun.description>зробити ручний гатлінг.</Make_VWEFT_Gun_HandheldGatlingGun.description>
+  <Make_VWEFT_Gun_HandheldGatlingGun.jobString>Виготовляє ручний гатлінг</Make_VWEFT_Gun_HandheldGatlingGun.jobString>
+
+  <Make_VWEFT_Gun_Derringer.label>зробити револьвер дерінджер</Make_VWEFT_Gun_Derringer.label>
+  <Make_VWEFT_Gun_Derringer.description>зробити револьвер дерінджер.</Make_VWEFT_Gun_Derringer.description>
+  <Make_VWEFT_Gun_Derringer.jobString>Виготовляє револьвер дерінджер</Make_VWEFT_Gun_Derringer.jobString>
+
+  <Make_VWEFT_Gun_LeverActionShotgun.label>зробити важільний дробовик</Make_VWEFT_Gun_LeverActionShotgun.label>
+  <Make_VWEFT_Gun_LeverActionShotgun.description>зробити важільний дробовик.</Make_VWEFT_Gun_LeverActionShotgun.description>
+  <Make_VWEFT_Gun_LeverActionShotgun.jobString>Виготовляє важільний дробовик</Make_VWEFT_Gun_LeverActionShotgun.jobString>
+
+  <Make_VWEFT_Gun_SalvagedLaserRevolver.label>зробити утильний лазерний револьвер</Make_VWEFT_Gun_SalvagedLaserRevolver.label>
+  <Make_VWEFT_Gun_SalvagedLaserRevolver.description>зробити утильний лазерний револьвер.</Make_VWEFT_Gun_SalvagedLaserRevolver.description>
+  <Make_VWEFT_Gun_SalvagedLaserRevolver.jobString>Виготовляє утильний лазерний револьвер.</Make_VWEFT_Gun_SalvagedLaserRevolver.jobString>
+
+  <Make_VWEFT_Gun_SalvagedLaserRepeater.label>зробити утильний лазерний карабін</Make_VWEFT_Gun_SalvagedLaserRepeater.label>
+  <Make_VWEFT_Gun_SalvagedLaserRepeater.description>зробити утильний лазерний карабін.</Make_VWEFT_Gun_SalvagedLaserRepeater.description>
+  <Make_VWEFT_Gun_SalvagedLaserRepeater.jobString>Виготовляє утильний лазерний карабін.</Make_VWEFT_Gun_SalvagedLaserRepeater.jobString>
+
+  <Make_VWEFT_Gun_SalvagedLaserHuntingRifle.label>зробити утильну лазерну гвинтівку</Make_VWEFT_Gun_SalvagedLaserHuntingRifle.label>
+  <Make_VWEFT_Gun_SalvagedLaserHuntingRifle.description>зробити утильну лазерну гвинтівку.</Make_VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+  <Make_VWEFT_Gun_SalvagedLaserHuntingRifle.jobString>Виготовляє утильну лазерну гвинтівку</Make_VWEFT_Gun_SalvagedLaserHuntingRifle.jobString>
+</LanguageData>

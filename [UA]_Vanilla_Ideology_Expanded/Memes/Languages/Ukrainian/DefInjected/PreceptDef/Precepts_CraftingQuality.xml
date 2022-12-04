@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: increased -->
+  <VME_CraftingQuality_Increased.label>підвищено</VME_CraftingQuality_Increased.label>
+  <!-- EN: We pride ourselves in our work, and take no shortcuts in achieving perfection.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Increases quality of items created on a worktable by 1, up to Legendary. -->
+  <VME_CraftingQuality_Increased.description>Ми пишаємось своєю працею і не шукаємо компромісів при досягненні досконалості.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - На рівень підвищується якість створюваних предметів до «легендарного».</VME_CraftingQuality_Increased.description>
+
+  <!-- EN: decreased -->
+  <VME_CraftingQuality_Decreased.label>знижено</VME_CraftingQuality_Decreased.label>
+  <!-- EN: We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Decreases quality of items created on a worktable by 1, down to Awful. -->
+  <VME_CraftingQuality_Decreased.description>Ме не ремісники. Навіщо щось виготовляти, якщо це можна купити чи вкрасти?\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - На рівень знижується якість створюваних предметів до «жахливого».</VME_CraftingQuality_Decreased.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FloorWoodRustic.label>Деревянные доски</FloorWoodRustic.label>
+  <FloorWoodWide.label>Белые деревянные доски</FloorWoodWide.label>
+  <FloorWoodLight.label>Пол из светлого дерева</FloorWoodLight.label>
+  <FloorWoodMosaic.label>Мозаичный деревянный пол</FloorWoodMosaic.label>
+  <FloorWoodVertical.label>Вертикальный деревянный пол</FloorWoodVertical.label>
+  <FloorWoodBarn.label>Пол сарая</FloorWoodBarn.label>
+
+  <FloorWoodRustic.description>Деревенские деревянные доски, тщательно отполированные и очищенные от сколов. Красиво смотрится, но медленно устанавливается.</FloorWoodRustic.description>
+  <FloorWoodWide.description>Белые простые деревянные доски для минимализма. Легко строить.</FloorWoodWide.description>
+  <FloorWoodLight.description>Светлый полированный деревянный пол с красивым рисунком.</FloorWoodLight.description>
+  <FloorWoodMosaic.description>Деревянный пол с мозаичным рисунком. Красиво, но для этого нужно много дерева и долго укладывать.</FloorWoodMosaic.description>
+  <FloorWoodVertical.description>Пол из темного дерева.</FloorWoodVertical.description>
+  <FloorWoodBarn.description>Шероховатый устойчивый пол. Быстро строить. Медленно пачкается.</FloorWoodBarn.description>
+
+</LanguageData>

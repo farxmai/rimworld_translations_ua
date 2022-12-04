@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: deep drill -->
+  <DeepDrill.label>бурова установка</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Установка глибокого буріння для видобутку корисних копалин з глибини поверхні. Для виявлення ресурсів використовуйте геопроникаючий сканер. Це свердло дасть уламки каменю, якщо немає ресурсів. Можна вільно переставляти.</DeepDrill.description>
+
+  <!-- EN: drug lab -->
+  <DrugLab.label>хімлабораторія</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Робоче місце оснащене різними контейнера, нагрівачами та вимірювальними приладами для виробництва різноманітних наркотиків.</DrugLab.description>
+
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>виробничий верстат</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Верстак, оснащений передовими інструментами для виробництва технологічних чудес з найпростіших матеріалів.</FabricationBench.description>
+
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>гідропонна ферма</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Ванна з штучними поживними речовинами для вирощування рослин. Насоси для поживних речовин повинні працювати постійно; рослини загинуть при відключенні живлення.</HydroponicsBasin.description>
+
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>електричний стіл дослідника</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Високотехнологічний дослідницький стіл з комп’ютерами та пристроями для електронних вимірювань. Дозволяє більш швидкі дослідження та розблоковує розширені дослідницькі проєкти.</HiTechResearchBench.description>
+
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>простий стіл дослідника</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Простий дослідницький стіл з письмовим приладдям і вимірювальними приладами. Тут працюють дослідники, щоб відкривати нові речі.</SimpleResearchBench.description>
+
+</LanguageData>

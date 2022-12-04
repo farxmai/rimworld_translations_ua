@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: second triumvir -->
+  <VME_IdeoRole_LeaderSecond.label>другий лідер</VME_IdeoRole_LeaderSecond.label>
+  <!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+  <VME_IdeoRole_LeaderSecond.description>Другий лідер, який об'єднує нас та представляє фракцію на дипломатичних переговорах.</VME_IdeoRole_LeaderSecond.description>
+
+  <!-- EN: third triumvir -->
+  <VME_IdeoRole_LeaderThird.label>третій лідер</VME_IdeoRole_LeaderThird.label>
+  <!-- EN: A leader who holds the group together and represents your faction in diplomatic interactions. -->
+  <VME_IdeoRole_LeaderThird.description>Третій лідер, який об'єднує нас та представляє фракцію на дипломатичних переговорах.</VME_IdeoRole_LeaderThird.description>
+</LanguageData>

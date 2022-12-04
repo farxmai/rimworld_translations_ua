@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hyena -->
+
+  <AEXP_Hyena.label>гіена</AEXP_Hyena.label>
+  <AEXP_Hyena.description>Велика м'ясоїдна тварина, схожа на собаку хоча генетично ближча до котів. Найчастіше зустрічається у степах та пустинях. Сміх гієні - поширений образ у легендах племен. Він сіє страх у довгі пустельні ночі.</AEXP_Hyena.description>
+  <AEXP_Hyena.tools.0.label>ліва лапа</AEXP_Hyena.tools.0.label>
+  <AEXP_Hyena.tools.1.label>права лапа</AEXP_Hyena.tools.1.label>
+  <AEXP_Hyena.tools.2.label>зуби</AEXP_Hyena.tools.2.label>
+  <AEXP_Hyena.tools.3.label>голова</AEXP_Hyena.tools.3.label>
+  <AEXP_Hyena.race.meatLabel>м'ясо гіени</AEXP_Hyena.race.meatLabel>
+
+
+  <!-- Desert Tortoise -->
+
+  <AEXP_DesertTortoise.label>пустельна черепаха</AEXP_DesertTortoise.label>
+  <AEXP_DesertTortoise.description>ЭЦя броньована рептилія, що мешкає в пустелі, відома своєю низькою швидкістю пересування і надзвичайно твердим куполообразним панцирем, через що вбити її непросто. Пустельні черепахи, незважаючи на свій невеликий розмір, є відмінними бойовими тваринами та їх відносно легко приручити.</AEXP_DesertTortoise.description>
+  <AEXP_DesertTortoise.tools.0.label>клюв</AEXP_DesertTortoise.tools.0.label>
+  <AEXP_DesertTortoise.tools.1.label>голова</AEXP_DesertTortoise.tools.1.label>
+
+
+  <!-- Lion -->
+
+  <AEXP_Lion.label>лев</AEXP_Lion.label>
+  <AEXP_Lion.description>Король тваринного світу, лев - мускулиста кішка з широкими грудьми, короткою головою і визначною гривою. Леви - найбільший із видів котів, тому вони чудово проявляють себе як бойові тварини, незважаючи на свою дикість.</AEXP_Lion.description>
+  <AEXP_Lion.tools.0.label>ліва лапа</AEXP_Lion.tools.0.label>
+  <AEXP_Lion.tools.1.label>права лапа</AEXP_Lion.tools.1.label>
+  <AEXP_Lion.tools.2.label>зуби</AEXP_Lion.tools.2.label>
+  <AEXP_Lion.tools.3.label>голова</AEXP_Lion.tools.3.label>
+  <AEXP_Lion.race.meatLabel>м'ясо льва</AEXP_Lion.race.meatLabel>
+
+
+  <!-- Gila Monster -->
+
+  <AEXP_GilaMonster.label>отрутозуб</AEXP_GilaMonster.label>
+  <AEXP_GilaMonster.description>Велика, повільна ящірка яка мешкає переважно в пустелях. Відома своїм отруйним укусом, який спричиняє сильне отруєння жертви. Чужоземці донині вірять у казки, в яких говориться, що ця ящірка – породження пекла і що її смердюче дихання смертельно.</AEXP_GilaMonster.description>
+  <AEXP_GilaMonster.tools.0.label>ліва лапа</AEXP_GilaMonster.tools.0.label>
+  <AEXP_GilaMonster.tools.1.label>права лапа</AEXP_GilaMonster.tools.1.label>
+  <AEXP_GilaMonster.tools.2.label>зуби</AEXP_GilaMonster.tools.2.label>
+  <AEXP_GilaMonster.tools.3.label>голова</AEXP_GilaMonster.tools.3.label>
+  <AEXP_GilaMonster.race.meatLabel>м'ясо отрутозуба</AEXP_GilaMonster.race.meatLabel>
+
+
+</LanguageData>

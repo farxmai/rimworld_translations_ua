@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 22 -->
+
+  <!-- EN: nomad -->
+  <VME_Nomad.label>кочівництво</VME_Nomad.label>
+  <!-- EN: Stagnation is death and as with all things in this world, home are only temporary. Traveling this world and walking roads unwalked always leads to greater things. -->
+  <VME_Nomad.description>Застій - це смерть, а житло - тимчасове, як і все в цьому світі. Подорожі цим світом і прогулянки нехоженими дорогами незмінно призведуть до великих звершень.</VME_Nomad.description>
+
+  <VME_Nomad.generalRules.rulesStrings>
+    <li>memeAdjective->кочовий</li>
+    <li>memeAdjective->мандрівний</li>
+    <li>memeAdjective->вільний</li>
+    <li>memeAdjective->пересувний</li>
+    <li>memeHyphenPrefix->мандро</li>
+    <li>memeConcept->блукань</li>
+    <li>memeConcept->мандр</li>
+    <li>memeLeaderNoun->подорожник</li>
+    <li>memeLeaderNoun->мандрівник</li>
+  </VME_Nomad.generalRules.rulesStrings>
+
+  <VME_Nomad.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nomad) ->[deity0_name] [deity0_wrote] свої заповіді на семи глиняних табличках. Третя заповідь гласила: «Я все життя кочуватиму, заради любові до далеких і незвіданих місць».</li>
+    <li>episode(uses=1,tag=meme_Nomad) ->[deity0_name] [deity0_gave] нам вчення, дотримуючись якого ми уникали будівництва міст і проводили своє життя в русі, вільні від кайданів осілого способу життя.</li>
+    <li>intro(tag=meme_Nomad) ->[memberNamePlural] були стурбовані, тому що [deity0_name] [deity0_commanded] їм не будувати міста і не селитися в них, і вони втомилися блукати біля тих, хто живе за рахунок землі.</li>
+    <li>conflict(tag=meme_Nomad) ->Один із старійшин хотів порушити заповіді, що [deity0_gave] [deity0_name], спокушений обіцянками родючих полів та високих стін для захисту від ворогів.</li>
+    <li>founderJoin(tag=meme_Nomad) ->[founderName], [founder_Khan] від нахабства старійшин, та [founder_hanged] їх усіх. Після цієї події [memberNamePlural] стали найдосвідченішими кочівниками на землі і ніколи не затримувалися надовго на одному місці.</li>
+    <li>victory(tag=meme_Nomad) ->Саме так ми перейнялися пристрастю до подорожей і об'їздили весь світ, ніде не пустивши коріння.</li>
+    <li>setup(tag=meme_Nomad) ->[founderName] [founder_was1] від задушливої ​​множини людей у ​​величезних містах. [founder_pronoun] [founder_longed] до повернення до простих часів, до невеликих громад, де люди могли вільно блукати на природі, не переймаючись постійним місцем.</li>
+    <li>story(uses=1,tag=meme_Nomad) ->У пошуках гострих відчуттів від пригод, [founderName] [founder_assembled] невелику групу послідовників та [founder_chartered] корабель для подорожі до околиць світу. На жаль, [founderName_pronoun] [founder_died] помер через кілька років у пустелі, тому що окраїнні світи виявилися набагато дикішими, ніж [founder_proonoun] собі [founder_imagine]. Але [founder_possessive] нащадки перейшли на шлях кочівників.</li>
+    <li>lessonIntro(tag=meme_Nomad) ->Ви коли-небудь бували в багатолюдному місті? Навіть найбільші людські міста – це вигрібні ями хвороб, насильства, корупції. Очевидно, що</li>
+    <li>lesson(tag=meme_Nomad) ->справжня природа людей полягає в тому, щоб жити в невеликих кочових громадах</li>
+    <li>lessonReinforcement(tag=meme_Nomad) ->Непристойно селитися в такому місці і розмножуватися, наче паразити.</li>
+    <li>archistBasis(tag=meme_Nomad) ->Міста неугодні архотекам. Після піднесення немає потреби фізично займати такі величезні простори, топлячи природу в какофонії змученого металу та цегли.</li>
+    <li>archistFact(tag=meme_Nomad) ->Архотеки вчать нас, що правильний спосіб життя - це створення невеликих кочових громад, які поважають довкілля.</li>
+    <li>archistProphecy(tag=meme_Nomad) ->[inTheEnd], ті, хто проводять своє життя в міському ув'язненні, не вийдуть за межі, а як охоплені пристрастю до подорожей, приєднаються до архотеків.</li>
+    <li>animistBasis(tag=meme_Nomad) ->Духи керують усім, від абстрактних концепцій до конкретних предметів. Зокрема, у кожного місця є свій власний дух, і тому розташування там метушливого, галасливого, брудного міста шкідливе для духу цього місця.</li>
+    <li>animistFact(tag=meme_Nomad) ->Дух спраги подорожей дуже сильний і вселяє в людину пристрасть до свободи і до досліджень: ніколи не знаєш, що може принести майбутня дорога.</li>
+    <li>animistProphecy(tag=meme_Nomad) ->[itIsSaid] тільки ті, хто можуть жити без коріння і вільно блукати, зможуть по-справжньому умилостивити духів.</li>
+    <li>serketistProphecy(tag=meme_Nomad)->[itIsSaid] ми житимемо вільно, немов комахи, що блукають по всій землі в пошуках того, що принесе дорога.</li>
+    <li>chthonianProphecy(tag=meme_Nomad)->Переживання в одному місці викликає гнів цих страшних сутностей. Краще постійно бути в бігах і ніколи, ніколи не озиратися назад, бо на комічні жахи чекають.</li>
+    <li>esotericismProphecy(tag=meme_Nomad)->Таке окультне знання буде надзвичайно важко знайти, і ми повинні вільно блукати, обшукуючи кожен куточок світу.</li>
+    <li>eschatologismFact(tag=meme_Nomad)->Ми будемо нишпорити по всіх куточках світу, ніколи не відпочиваючи, ніколи не сповільнюючись, поки не наблизимо кінець світу.</li>
+    <li>introMemo(tag=meme_Nomad)->В інтересах самовіддачі, гнучкості та рішучості ми вирішили запровадити нову політику «мобільних офісів», яка значно підвищить нашу продуктивність. Дякуємо за те, що ви довіряєте нашій спроможності знаходити нові способи і надалі надавати кращі товари та послуги для наших клієнтів, при цьому піклуючись про наших співробітників.</li>
+    <li>alienistProphecy(tag=meme_Nomad)->Ці несхожі істоти можуть бути нашими супутниками в дорозі, які вічно шукають місце, яке могли б зайняти.</li>
+    <li>deity0_wrote(deity0_gender==None)->записало</li>
+    <li>deity0_wrote(deity0_gender==Male)->записав</li>
+    <li>deity0_wrote(deity0_gender==Female)->записала</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>deity0_commanded(deity0_gender==None)->велело</li>
+    <li>deity0_commanded(deity0_gender==Male)->наказав</li>
+    <li>deity0_commanded(deity0_gender==Female)->веліла</li>
+    <li>founder_Khan(founder_gender==Male)->Великий Хан, втомився</li>
+    <li>founder_Khan(founder_gender==Female)->Велика Ханша, втомилася</li>
+    <li>founder_hanged(founder_gender==Male)->повішив</li>
+    <li>founder_hanged(founder_gender==Female)->повісила</li>
+    <li>founder_was1(founder_gender==Male)->був досвідченим виживачем, втомленим</li>
+    <li>founder_was1(founder_gender==Female)->була досвідченою виживалкою, яка втомилася</li>
+    <li>founder_longed(founder_gender==Male)->прагнув</li>
+    <li>founder_longed(founder_gender==Female)->прагнула</li>
+    <li>founder_assembled(founder_gender==Male)->зібрав</li>
+    <li>founder_assembled(founder_gender==Female)->зібрала</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтував</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтувала</li>
+    <li>founder_died(founder_gender==Male)->помер</li>
+    <li>founder_died(founder_gender==Female)->померла</li>
+    <li>founder_imagine(founder_gender==Male)->представляв</li>
+    <li>founder_imagine(founder_gender==Female)->представляла</li>
+  </VME_Nomad.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nomadism -->
+  <VME_Nomad.symbolPacks.0.ideoName>Кочівництво</VME_Nomad.symbolPacks.0.ideoName>
+  <!-- EN: nomadism -->
+  <VME_Nomad.symbolPacks.0.theme>кочівництва</VME_Nomad.symbolPacks.0.theme>
+  <!-- EN: nomadic -->
+  <VME_Nomad.symbolPacks.0.adjective>кочовий</VME_Nomad.symbolPacks.0.adjective>
+  <!-- EN: nomad -->
+  <VME_Nomad.symbolPacks.0.member>кочівник</VME_Nomad.symbolPacks.0.member>
+
+</LanguageData>

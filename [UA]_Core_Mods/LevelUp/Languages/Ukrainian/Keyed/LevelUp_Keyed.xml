@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- UI -->
+	<LevelUp.LevelUpActionsLabel>Підвищення рівня</LevelUp.LevelUpActionsLabel>
+	<LevelUp.LevelDownActionsLabel>Втрата рівня</LevelUp.LevelDownActionsLabel>
+
+	<LevelUp.LevelUpActionHeaderDescription>Ефекти що з'являються, коли колоніст підвищує навичку.</LevelUp.LevelUpActionHeaderDescription>
+	<LevelUp.LevelDownActionHeaderDescription>Ефекти що з'являються, коли колоніст втрачає навички.</LevelUp.LevelDownActionHeaderDescription>
+
+	<LevelUp.CooldownLabel>Кулдаун</LevelUp.CooldownLabel>
+	<LevelUp.CooldownEntryDescription>Тривалість кулдауну, вказана в секундах реального часу.\n\nЯкщо її застосувати до дії, дія не виконуватиметься для того самого колоніста та навички знову, доки не закінчиться час перезарядки.</LevelUp.CooldownEntryDescription>
+	<LevelUp.CooldownOnActionDescription>Чи має застосовуватися кулдаун для цієї дії.\n\nЯкщо застосовано, ця дія не виконуватиметься для того самого колоніста та навички знову, доки не закінчиться час відновлення.</LevelUp.CooldownOnActionDescription>
+
+	<LevelUp.GeneralSettingsLabel>Загальне</LevelUp.GeneralSettingsLabel>
+	<LevelUp.HistoricalLabel>Історичне</LevelUp.HistoricalLabel>
+	<LevelUp.HistoricalDescription>Чи слід зберігати повідомлення в історії.</LevelUp.HistoricalDescription>
+
+	<LevelUp.InjectableValuesLabel>Ін'єкційні значення</LevelUp.InjectableValuesLabel>
+	<LevelUp.FormattingLabel>Форматування</LevelUp.FormattingLabel>
+	<LevelUp.FormattingBoldLabel>Жирний</LevelUp.FormattingBoldLabel>
+	<LevelUp.FormattingItalicLabel>Курсив</LevelUp.FormattingItalicLabel>
+	<LevelUp.FormattingColorLabel>Колір</LevelUp.FormattingColorLabel>
+
+	<!-- Default message texts -->
+	<LevelUp.DefaultLevelUpMessage><![CDATA[<color=orange>{PAWN}</color>: рівень {SKILL} підвищівся до {LEVEL}]]></LevelUp.DefaultLevelUpMessage>
+	<LevelUp.DefaultLevelDownMessage><![CDATA[<color=orange>{PAWN}</color>: рівень {SKILL} впав до {LEVEL}.]]></LevelUp.DefaultLevelDownMessage>
+	<LevelUp.DefaultLevelUpOverheadMessage>{SKILL}\nрівень {LEVEL}</LevelUp.DefaultLevelUpOverheadMessage>
+	<LevelUp.DefaultLevelDownOverheadMessage>{SKILL}\nрівень {LEVEL}</LevelUp.DefaultLevelDownOverheadMessage>
+</LanguageData>

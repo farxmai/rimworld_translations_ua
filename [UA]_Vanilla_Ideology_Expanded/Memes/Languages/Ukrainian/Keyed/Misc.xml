@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Play classic -->
+  <PlayClassic>Грати класично</PlayClassic>
+  <!-- EN: Create custom\n(fluid) -->
+  <CreateCustomFluid>Створити свою\n(змінну)</CreateCustomFluid>
+  <!-- EN: Create custom\n(fixed) -->
+  <CreateCustomFixed>Створити свою\n(усталену)</CreateCustomFixed>
+
+  <!-- EN: Automation efficiency: increased precept -->
+  <VME_Automation>Ефективність автоматизації: підвищена принципом</VME_Automation>
+  <!-- EN: Automation efficiency: decreased precept -->
+  <VME_AutomationDecreased>Ефективність автоматизації: знижена принципом</VME_AutomationDecreased>
+  <!-- EN: Crafting speed: slower for manual precept -->
+  <VME_AutomationManual>Швидкість виробництва: уповільнена принципом</VME_AutomationManual>
+  <!-- EN: Meditation: exquisite precept -->
+  <VME_MeditationSpotExtra>Медитація: досконала від принципу</VME_MeditationSpotExtra>
+  <!-- EN: Recreation: loved precept -->
+  <VME_ExtraJoyGain>Розваги: подобаються від принципу</VME_ExtraJoyGain>
+  <!-- EN: Pâtissier role -->
+  <VME_ExtraPatissierCooking>Кондитер</VME_ExtraPatissierCooking>
+  <!-- EN: Eldritch Corruption too low -->
+  <VME_ExtraCertaintyLoss>Рівень порочності замалий</VME_ExtraCertaintyLoss>
+  <!-- EN: Eldritch Corruption -->
+  <VME_NullCertaintyLoss>Рівень порочності</VME_NullCertaintyLoss>
+  <!-- EN: {0} is not harbouring suicidal thoughts! -->
+  <VME_PawnMustBeSuicidal>{0} не думає про самогубство!</VME_PawnMustBeSuicidal>
+  <!-- EN: {0} must be the best melee fighter in the colony! -->
+  <VME_PawnMustBeBestMelee>{0} не найкращий боєць у колонії!</VME_PawnMustBeBestMelee>
+  <!-- EN: An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area. -->
+  <VME_RitualTargetDivineTheStarsInfo>Місце для нічного обряду не під дахом. Необхідно прибрати дах хоча б у 25 клітинах від зони.</VME_RitualTargetDivineTheStarsInfo>
+  <!-- EN: A built wicker man. -->
+  <VME_WickerManInfo>Місце побудови плетеної людини.</VME_WickerManInfo>
+  <!-- EN: You need a prisoner to start the wicker man ritual. -->
+  <VME_CantStartWickerManRitual>Необхідний в'язень для спалення плетеної людини.</VME_CantStartWickerManRitual>
+  <!-- EN: Participant must be a slave. -->
+  <VME_MessageRitualRoleMustBeSlave>Учасник має бути рабом.</VME_MessageRitualRoleMustBeSlave>
+  <!-- EN: Organizer and participants must be consenting adults. -->
+  <VME_NeedsAdults>Натхненник та учасники мають бути повнолітніми.</VME_NeedsAdults>
+
+  <!-- EN: No reachable wicker man. -->
+  <VME_AbilityDisabledNoWickerMan>Плетена людина недоступна.</VME_AbilityDisabledNoWickerMan>
+  <!-- EN: This ability needs to target a turret or mechanoid. -->
+  <VME_AbilityNeedsATurret>Ціль здібності має бути туреллю або механоїдом.</VME_AbilityNeedsATurret>
+  <!-- EN: This ability needs to target a wild or hostile insectoid. -->
+  <VME_AbilityNeedsInsect>Ціль здібності має бути диким чи ворожим інсектоїдом.</VME_AbilityNeedsInsect>
+  <!-- EN: This ability needs to target an empty spot under mountain roof. -->
+  <VME_AbilityNeedsRoof>Здібність потребує вільного простору під горою.</VME_AbilityNeedsRoof>
+  <!-- EN: This ability needs to target an empty spot. -->
+  <VME_AbilityNeedsSpotEmpty>Здібність потребує вільного простору.</VME_AbilityNeedsSpotEmpty>
+  <!-- EN: This ability needs to target food categorized as a meal. -->
+  <VME_AbilityNeedsMeal>Ціль здібності має бути стравою.</VME_AbilityNeedsMeal>
+  <!-- EN: A trader caravan has been attracted to your settlement and will arrive in approximately a day. -->
+  <VME_AbilityCaravanWillArrive>До вашого поселення притягнуто торговий караван, який прибуде приблизно через добу.</VME_AbilityCaravanWillArrive>
+  <!-- EN: Meal is already a dessert. This ability needs to target a meal that isn't a dessert. -->
+  <VME_AbilityAlreadyADessert>Ця страва вже є десертом, оберіть іншу страву.</VME_AbilityAlreadyADessert>
+  <!-- EN: This ability needs to target a free colonist. -->
+  <VME_AbilityNeedsAColonist>Ціль здібності має бути вільним колоністом.</VME_AbilityNeedsAColonist>
+  <!-- EN: This ability needs to target a fresh humanoid corpse. -->
+  <VME_AbilityNeedsCorpse>Ціль здібності має бути свіжим трупом гуманоїда.</VME_AbilityNeedsCorpse>
+
+  <!-- EN: Uninstall building -->
+  <VME_DeconstructBuildingLabel>Демонтувати</VME_DeconstructBuildingLabel>
+  <!-- EN: Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible -->
+  <VME_DeconstructBuildingDesc>Демонтувати стародавній мотлох, щоб встановити його в іншому місці. Його можна транспортувати караваном, що уможливлює цілі експедиції за мотлохом.</VME_DeconstructBuildingDesc>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingLabel>Відмінити демонтаж</VME_CancelDeconstructBuildingLabel>
+  <!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingDesc>Відмінити демонтаж.</VME_CancelDeconstructBuildingDesc>
+  <!-- EN: Last straw: cosmic horror -->
+  <VME_BreakCorruption>Остання крапля: космічний жах</VME_BreakCorruption>
+  <!-- EN: Must be built on passable water. -->
+  <VME_NeedsWater>Повинно бути розташоване на мілководді.</VME_NeedsWater>
+  <!-- EN: Fish traps must be built at least 10 tiles apart from each other. -->
+  <VME_NeedsDistance>Пастка для риби повинна бути побудована щонайменше на 10 клітин від інших пасток.</VME_NeedsDistance>
+  <!-- EN: This fish trap can catch small fish: -->
+  <VME_SmallFishTrapDescriptionInspect>Ця пастка ловить маленьку рибу:</VME_SmallFishTrapDescriptionInspect>
+  <!-- EN: Next small fish caught in -->
+  <VME_SmallFishCaughtIn>Наступна риба буде спіймана за</VME_SmallFishCaughtIn>
+  <!-- EN: This fish trap can catch medium fish: -->
+  <VME_MediumFishTrapDescriptionInspect>Ця пастка ловить середню рибу:</VME_MediumFishTrapDescriptionInspect>
+  <!-- EN: Next medium fish caught in -->
+  <VME_MediumFishCaughtIn>Наступна риба буде спіймана за</VME_MediumFishCaughtIn>
+  <!-- EN: This fish trap can catch large fish: -->
+  <VME_LargeFishTrapDescriptionInspect>Ця пастка ловить велику рибу:</VME_LargeFishTrapDescriptionInspect>
+  <!-- EN: Next large fish caught in -->
+  <VME_LargeFishCaughtIn>Наступна риба буде спіймана за</VME_LargeFishCaughtIn>
+  <!-- EN: Catches until breaking: {0} -->
+  <VME_UsesLeftUntilItBreaks>Уловів до руйнування: {0}</VME_UsesLeftUntilItBreaks>
+  <!-- EN: Only adults can participate in this ritual -->
+  <VME_PawnMustBeAnAdult>Тільки повнолітні можуть брати участь у цьому ритуалі</VME_PawnMustBeAnAdult>
+  <!-- EN: Insect nest maintenance: {0}% -->
+  <VME_Maintenance>Піклування про гніздо: {0}%</VME_Maintenance>
+  <!-- EN: Maintenance needed. If it reaches 0% the nest will be destroyed. -->
+  <VME_MaintenanceNeeded>Потрібне обслуговування. Якщо воно сягне 0%, гніздо зруйнується.</VME_MaintenanceNeeded>
+  <!-- EN: The Queen snorts at you: "No, I don't think I will" -->
+  <VME_NotTheQueen>Королева пирхає: «Я так не думаю»</VME_NotTheQueen>
+  <!-- EN: Could not find any valid party spot or organizer was unavailable. -->
+  <VME_NoValidPartySpot>Неможливо знайти місце для вечірки або організатор недоступний.</VME_NoValidPartySpot>
+  <!-- EN: You need a reasonably healthy prisoner to start the ritual -->
+  <VME_CantStartRitualNoConvertee>Потрібен здоровий в'язень для ритуалу</VME_CantStartRitualNoConvertee>
+  <!-- EN: Unfortunately, {0} refused to see our reasonable ways and was sacrificed. -->
+  <VME_ViolentOutcome>На жаль, в'язень {0} не прислухався до голосу розуму і був принесений у жертву.</VME_ViolentOutcome>
+  <!-- EN: {0} saw our reasonable ways and was converted to our ideoligion. -->
+  <VME_NonViolentOutcome>В'язень {0} прислухався до голосу розуму і звернувся до нашої ідеолігії.</VME_NonViolentOutcome>
+  <!-- EN: Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count). -->
+  <VME_RitualNeedsNightOrDarkness>Ритуал повинен проводитися вночі або за будь-яких інших умов, коли глобальна освітленість нижче 50% (але не при затемненнях).</VME_RitualNeedsNightOrDarkness>
+  <!-- EN: Ritual needs to be done at night, and with clear weather. -->
+  <VME_RitualNeedsClearWeather>Ритуал повинен проводитися вночі та на прозорій воді.</VME_RitualNeedsClearWeather>
+  <!-- EN: Bonfire at {0}% strength -->
+  <VME_BonfireDyingIn>Сила ритуального багаття: {0}%</VME_BonfireDyingIn>
+  <!-- EN: High corruption -->
+  <VEM_HighCorruption>Високий рівень порочності</VEM_HighCorruption>
+  <!-- EN: These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0} -->
+  <VEM_HighCorruptionDesc>Наступні колоністи мають надто високий рівень порочності (понад 90%). Коли він сягне 100%, вони отримають найсильніший нервовий зрив: \n\n{0}</VEM_HighCorruptionDesc>
+  <!-- EN: Low corruption -->
+  <VEM_LowCorruption>Низьий рівень порочності</VEM_LowCorruption>
+  <!-- EN: These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0} -->
+  <VEM_LowCorruptionDesc>Наступні люди мають дуже низький рівень порочності (нижче 10%). Коли він сягне 0%, порочність можна буде замінити будь-якою іншою ідеолігією. Будуйте обеліски, щоб підтримувати рівень порочності або проводьте містичні ритуали для підняття його на 10%:\n\n{0}</VEM_LowCorruptionDesc>
+  <!-- EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme. -->
+  <VME_MessageJunkChunkDrop>Шматки стародавнього космічного сміття впали неподалік. Їх можна демонтувати і перенести в інше місце — на ваше звалище. Ця подія сталася через те, що у вас живе поселенець з ідеолігією, що має рису «Збір брухту».</VME_MessageJunkChunkDrop>
+  <!-- EN: Colonist must be capable of Talking -->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>Поселенець повинен мати можливість говорити</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <!-- EN: Ritual needs the Exalted Priesthood meme -->
+  <VME_NeedsExaltedPriesthood>Ритуал вимагає рису «Влада Церкви»</VME_NeedsExaltedPriesthood>
+
+  <!-- EN: Reset -->
+  <VME_Reset>Скинути</VME_Reset>
+  <!-- EN: max memes -->
+  <VME_Meme>максимум рис</VME_Meme>
+  <!-- EN: max rituals -->
+  <VME_Ritual>максимум ритуалів</VME_Ritual>
+  <!-- EN: max styles -->
+  <VME_Styles>максимум стилів</VME_Styles>
+  <!-- EN: max relics -->
+  <VME_Relics>максимум реліквій</VME_Relics>
+  <!-- EN: max buildings -->
+  <VME_Buildings>максимум будівель</VME_Buildings>
+  <!-- EN: Max number of memes allowed (default is 4) -->
+  <VME_MemeAmount>Максимум доступних рис (за замовчуванням 4)</VME_MemeAmount>
+  <!-- EN: Max number of memes allowed. Note that this only applies to player ideoligions. -->
+  <VME_MemeAmountTooltip>Максимум доступних рис. Впливає лише на ідеолігію гравця.</VME_MemeAmountTooltip>
+  <!-- EN: Max number non-meme specific rituals allowed (default is 6) (requires game reload) -->
+  <VME_RitualAmount>Максимум доступних ритуалов, не пов'язаних з рисами (за замовчуванням 6, потрібне перезавантаження)</VME_RitualAmount>
+  <!-- EN: Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions (requires game reload). -->
+  <VME_RitualAmountTooltip>Максимум доступних ритуалов, не пов'язаних з рисами. Ритуали, примусово додані рисами ЗАЗВИЧАЙ не повинні враховуватись, але бувають винятки (потрібне перезавантаження).</VME_RitualAmountTooltip>
+  <!-- EN: Max number of ideo visual styles allowed (default is 3) (requires game reload) -->
+  <VME_StylesAmount>Максимум доступних стилів для ідеолігії (за замовчуванням 3, потрібне перезавантаження)</VME_StylesAmount>
+  <!-- EN: Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them (requires game reload). -->
+  <VME_StylesAmountTooltip>Максимум доступних стилів для ідеолігії. За замовчуванням у моді він встановлений на 5, проти 3 в основній грі через велику кількість нових (потрібне перезавантаження).</VME_StylesAmountTooltip>
+  <!-- EN: Max number of ideo relics allowed (default is 3) -->
+  <VME_RelicsAmount>Максимум доступних реліквій (за замовчуванням 3)</VME_RelicsAmount>
+  <!-- EN: Max number of ideo relics allowed -->
+  <VME_RelicsAmountTooltip>Максимум доступних реліквій.</VME_RelicsAmountTooltip>
+  <!-- EN: Max number of ideo buildings allowed (default is 2) -->
+  <VME_BuildingsAmount>Максимум доступних будівель (за замовчуванням 2)</VME_BuildingsAmount>
+  <!-- EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes. -->
+  <VME_BuildingsAmountTooltip>Максимум доступних будівель. Це включає вівтарі, піктограми і т.п., але не включає споруди, додані рисами.</VME_BuildingsAmountTooltip>
+</LanguageData>

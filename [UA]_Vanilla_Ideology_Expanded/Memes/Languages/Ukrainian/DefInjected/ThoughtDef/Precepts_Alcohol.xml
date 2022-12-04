@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: missing alcohol -->
+  <VME_Alcohol_Demanded.stages.0.label>бракує алкоголю</VME_Alcohol_Demanded.stages.0.label>
+  <!-- EN: I could use a drink. Something stronger please. -->
+  <VME_Alcohol_Demanded.stages.0.description>Я б {PAWN_gender ? випив: випила}. Чогось міцнішого, якщо можна.</VME_Alcohol_Demanded.stages.0.description>
+  <!-- EN: no alcohol -->
+  <VME_Alcohol_Demanded.stages.1.label>без алкоголю</VME_Alcohol_Demanded.stages.1.label>
+  <!-- EN: I wish I could have a drink of something stronger. -->
+  <VME_Alcohol_Demanded.stages.1.description>Я {PAWN_gender ? хотів : хотіла} випити чогось міцного.</VME_Alcohol_Demanded.stages.1.description>
+  <!-- EN: needs alcohol -->
+  <VME_Alcohol_Demanded.stages.2.label>потрібен алкоголь</VME_Alcohol_Demanded.stages.2.label>
+  <!-- EN: I need a drink of something stronger. -->
+  <VME_Alcohol_Demanded.stages.2.description>Мне треба випити чогось міцного.</VME_Alcohol_Demanded.stages.2.description>
+  <!-- EN: craves alcohol -->
+  <VME_Alcohol_Demanded.stages.3.label>жага алкоголю</VME_Alcohol_Demanded.stages.3.label>
+  <!-- EN: I’d kill for a drop of something stronger. -->
+  <VME_Alcohol_Demanded.stages.3.description>Я б {PAWN_gender ? вбив : вбила} за краплю чогось міцного.</VME_Alcohol_Demanded.stages.3.description>
+  <!-- EN: demands alcohol -->
+  <VME_Alcohol_Demanded.stages.4.label>вимагає алкоголю</VME_Alcohol_Demanded.stages.4.label>
+  <!-- EN: Booze or I riot. -->
+  <VME_Alcohol_Demanded.stages.4.description>Чарка горілки або буде лихо.</VME_Alcohol_Demanded.stages.4.description>
+
+
+  <!-- EN: missing alcohol -->
+  <VME_Alcohol_Desired.stages.0.label>бракує алкоголю</VME_Alcohol_Desired.stages.0.label>
+  <!-- EN: It's been a while since I've had a drink. -->
+  <VME_Alcohol_Desired.stages.0.description>Давно я не {PAWN_gender ? випивав : випивала}.</VME_Alcohol_Desired.stages.0.description>
+  <!-- EN: desiring a drink -->
+  <VME_Alcohol_Desired.stages.1.label>бажання хильнути</VME_Alcohol_Desired.stages.1.label>
+  <!-- EN: What this colony needs is a bar so we can take a few drinks with our friends after a day of hard work. -->
+  <VME_Alcohol_Desired.stages.1.description>Якщо чогось й бракує нашій колонії, то це бару, в якому можна випити з друзями після важкого робочого дня.</VME_Alcohol_Desired.stages.1.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.2.label>жага хильнути</VME_Alcohol_Desired.stages.2.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.2.description>Наполеглива робота – це добре, та я б радше хильнув кухлик пива чи чогось міцнішого.</VME_Alcohol_Desired.stages.2.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.3.label>жага хильнути</VME_Alcohol_Desired.stages.3.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.3.description>Наполеглива робота – це добре, та я б радше хильнув кухлик пива чи чогось міцнішого.</VME_Alcohol_Desired.stages.3.description>
+  <!-- EN: wanting a drink -->
+  <VME_Alcohol_Desired.stages.4.label>жага хильнути</VME_Alcohol_Desired.stages.4.label>
+  <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+  <VME_Alcohol_Desired.stages.4.description>Наполеглива робота – це добре, та я б радше хильнув кухлик пива чи чогось міцнішого.</VME_Alcohol_Desired.stages.4.description>
+
+
+  <!-- EN: consumed alcohol -->
+  <VME_Alcohol_MildAbstinence.stages.0.label>вживання алкоголю</VME_Alcohol_MildAbstinence.stages.0.label>
+  <!-- EN: I drank a bit of alcohol. Not a big deal, but I feel a bit woozy. -->
+  <VME_Alcohol_MildAbstinence.stages.0.description>Я {PAWN_gender ? випив : випила} спиртного. Зовсім небагато, та голова вже трохи паморочиться.</VME_Alcohol_MildAbstinence.stages.0.description>
+  <!-- EN: abstained from alcohol -->
+  <VME_Alcohol_MildAbstinence.stages.1.label>утримання від алкоголю</VME_Alcohol_MildAbstinence.stages.1.label>
+  <!-- EN: I haven't consumed alcohol lately. -->
+  <VME_Alcohol_MildAbstinence.stages.1.description>Останнім часом я не {PAWN_gender ? вживав : вживала} алкоголь.</VME_Alcohol_MildAbstinence.stages.1.description>
+</LanguageData>

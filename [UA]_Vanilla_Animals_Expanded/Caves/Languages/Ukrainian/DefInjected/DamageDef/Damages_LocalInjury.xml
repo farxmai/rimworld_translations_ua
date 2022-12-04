@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_PlagueBite.label>чумний укус</VAE_PlagueBite.label>
+  <VAE_PlagueBite.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} від чумного укуса.</VAE_PlagueBite.deathMessage>
+
+  <VAE_VeryToxicBite.label>дуже отруйний укус</VAE_VeryToxicBite.label>
+  <VAE_VeryToxicBite.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} після укусу від дуже отруйної істоти.</VAE_VeryToxicBite.deathMessage>
+
+  <VAE_ToxicSting.label>отруйна кровотеча</VAE_ToxicSting.label>
+  <VAE_ToxicSting.deathMessage>{0} {0_gender ? стік : стікла : стікло} кров'ю.</VAE_ToxicSting.deathMessage>
+
+  <VAE_UncontrollableBleeding.label>неконтрольована кровотеча</VAE_UncontrollableBleeding.label>
+  <VAE_UncontrollableBleeding.deathMessage>{0} {0_gender ? стік : стікла : стікло} кров'ю.</VAE_UncontrollableBleeding.deathMessage>
+
+  <VAE_HulkAttack.label>руйнівна атака</VAE_HulkAttack.label>
+  <VAE_HulkAttack.deathMessage>{0} {0_gender ? розчавлен : розчавлена : розчавлено} руйнівним ударом тарганхалка.</VAE_HulkAttack.deathMessage>
+
+  <VAE_HulkDualAttack.label>нищівний удар</VAE_HulkDualAttack.label>
+  <VAE_HulkDualAttack.deathMessage>{0} {0_gender ? розчавлен : розчавлена : розчавлено} нищівними ударами кінцівок тарганхалка</VAE_HulkDualAttack.deathMessage>
+
+  <VAE_CocoonBite.label>потрапляння в кокон</VAE_CocoonBite.label>
+  <VAE_CocoonBite.deathMessage>{0} {0_gender ? потрапив : потрапила : потрапило} у кокон.</VAE_CocoonBite.deathMessage>
+
+  <VAE_CocoonRanged.label>постріл коконом</VAE_CocoonRanged.label>
+  <VAE_CocoonRanged.deathMessage>{0} {0_gender ? задихнувся : задихнулася : задихнулося} від шовкової павутини.</VAE_CocoonRanged.deathMessage>
+
+  <VAE_InfectedMandibles.label>зараження мандібули</VAE_InfectedMandibles.label>
+  <VAE_InfectedMandibles.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} від инфекції.</VAE_InfectedMandibles.deathMessage>
+
+
+</LanguageData>

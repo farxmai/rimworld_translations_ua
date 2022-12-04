@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_Apparel_Exoframe.label>зробити екзоскелет</Make_VWE_Apparel_Exoframe.label>
+  <Make_VWE_Apparel_Exoframe.description>зробити екзоскелет.</Make_VWE_Apparel_Exoframe.description>
+  <Make_VWE_Apparel_Exoframe.jobString>Виготовляє екзоскелет</Make_VWE_Apparel_Exoframe.jobString>
+
+  <Make_VWE_Gun_HandheldMortar.label>зробити ручний міномет</Make_VWE_Gun_HandheldMortar.label>
+  <Make_VWE_Gun_HandheldMortar.description>зробити ручний міномет.</Make_VWE_Gun_HandheldMortar.description>
+  <Make_VWE_Gun_HandheldMortar.jobString>Виготовляє ручний міномет</Make_VWE_Gun_HandheldMortar.jobString>
+
+  <Make_VWE_Gun_Autocannon.label>зробити автогармату</Make_VWE_Gun_Autocannon.label>
+  <Make_VWE_Gun_Autocannon.description>зробити автогармату.</Make_VWE_Gun_Autocannon.description>
+  <Make_VWE_Gun_Autocannon.jobString>Виготовляє автогармату</Make_VWE_Gun_Autocannon.jobString>
+
+  <Make_VWE_Gun_HeavyFlamer.label>зробити важкий вогнемет</Make_VWE_Gun_HeavyFlamer.label>
+  <Make_VWE_Gun_HeavyFlamer.description>зробити важкий вогнемет.</Make_VWE_Gun_HeavyFlamer.description>
+  <Make_VWE_Gun_HeavyFlamer.jobString>Виготовляє важкий вогнемет</Make_VWE_Gun_HeavyFlamer.jobString>
+
+  <Make_VWE_Gun_SwarmMissileLauncher.label>зробити ракетницю «Рій»</Make_VWE_Gun_SwarmMissileLauncher.label>
+  <Make_VWE_Gun_SwarmMissileLauncher.description>зробити ракетницю «Рій».</Make_VWE_Gun_SwarmMissileLauncher.description>
+  <Make_VWE_Gun_SwarmMissileLauncher.jobString>Виготовляє ракетницю «Рій»</Make_VWE_Gun_SwarmMissileLauncher.jobString>
+  
+  <Make_VWE_Gun_UraniumSlugRifle.label>зробити гармату «Уран»</Make_VWE_Gun_UraniumSlugRifle.label>
+  <Make_VWE_Gun_UraniumSlugRifle.description>зробити гармату «Уран».</Make_VWE_Gun_UraniumSlugRifle.description>
+  <Make_VWE_Gun_UraniumSlugRifle.jobString>Виготовляє гармату «Уран»</Make_VWE_Gun_UraniumSlugRifle.jobString>
+</LanguageData>

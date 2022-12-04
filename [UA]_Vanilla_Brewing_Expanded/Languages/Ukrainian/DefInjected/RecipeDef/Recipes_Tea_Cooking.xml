@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_MakeGreenTea.label>приготувати зелений чай</VBE_MakeGreenTea.label>
+	<VBE_MakeGreenTea.description>Приготувати зелений чай.</VBE_MakeGreenTea.description>
+	<VBE_MakeGreenTea.jobString>готує зелений чай.</VBE_MakeGreenTea.jobString>
+
+
+	<VBE_MakeMintTea.label>приготувати м'ятний чай</VBE_MakeMintTea.label>
+	<VBE_MakeMintTea.description>Приготувати м'ятний чай.</VBE_MakeMintTea.description>
+	<VBE_MakeMintTea.jobString>готує м'ятний чай.</VBE_MakeMintTea.jobString>
+
+
+	<VBE_MakeMasalaChai.label>приготувати масала-чай</VBE_MakeMasalaChai.label>
+	<VBE_MakeMasalaChai.description>Приготувати масала-чай.</VBE_MakeMasalaChai.description>
+	<VBE_MakeMasalaChai.jobString>готує масала-чай.</VBE_MakeMasalaChai.jobString>
+
+
+	<VBE_MakeNoonChai.label>приготувати рожевий чай</VBE_MakeNoonChai.label>
+	<VBE_MakeNoonChai.description>Приготувати рожевий чай.</VBE_MakeNoonChai.description>
+	<VBE_MakeNoonChai.jobString>готує рожевий чай.</VBE_MakeNoonChai.jobString>
+
+
+</LanguageData>

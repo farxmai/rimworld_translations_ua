@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAERoy_RoyalTiger.label>королівський тигр</VAERoy_RoyalTiger.label>
+  <VAERoy_RoyalTiger.description>Великий генетично модифікований шаблезубий тигр, що еволюціонував у неволі. Дворяни часто купують їх для своїх розпещених дітей, тому що насправді королівський тигр абсолютно не небезпечний і воліє тікати при першому виді небезпеки.</VAERoy_RoyalTiger.description>
+  <VAERoy_RoyalTiger.tools.0.label>лівий кіготь</VAERoy_RoyalTiger.tools.0.label>
+  <VAERoy_RoyalTiger.tools.1.label>правий кіготь</VAERoy_RoyalTiger.tools.1.label>
+  <VAERoy_RoyalTiger.tools.3.label>голова</VAERoy_RoyalTiger.tools.3.label>
+  <VAERoy_RoyalTiger.race.foodType>сире м'ясо</VAERoy_RoyalTiger.race.foodType>
+
+</LanguageData>

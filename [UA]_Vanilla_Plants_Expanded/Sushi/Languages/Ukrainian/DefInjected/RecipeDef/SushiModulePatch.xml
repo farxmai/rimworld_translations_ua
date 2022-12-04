@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_MilkFromSoybeans.label>витягти молоко з соєвих бобів</VCE_MilkFromSoybeans.label>
+  <VCE_MilkFromSoybeans.description>Витягти молоко з соєвих бобів. Молоко, отримане в такий спосіб може бути використане в будь-яких рецептах, які потребують молока.\n\nРослинне молоко загалом менш поживне, оскільки більшість поживних речовин втрачається у його отримання. Молоко, отримане із соєвих бобів, є винятком.</VCE_MilkFromSoybeans.description>
+  <VCE_MilkFromSoybeans.jobString>Витягує молоко з бобів</VCE_MilkFromSoybeans.jobString>
+</LanguageData>

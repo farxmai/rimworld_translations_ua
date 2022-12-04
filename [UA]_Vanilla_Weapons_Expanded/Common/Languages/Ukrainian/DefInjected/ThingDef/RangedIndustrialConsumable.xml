@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gun_DoomsdayRocket.label>ракетниця «Судний день»</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Одноразова пускова установка із ракетою величезної руйнівної сили. Ефективна проти великих скупчень незахищених цілей. Викликає пожежі.\n\nЧерез незручність у користуванні та одноразовості кажуть, що треба бути трохи божевільним, щоб користуватися цією зброєю.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.barrel.label>ствол</Gun_DoomsdayRocket.tools.barrel.label>
+  
+  <Gun_TripleRocket.label>ракетниця «Трійка»</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Одноразова пускова установка, що випускає швидку чергу із трьох ракет. Ефективна проти невеликих груп добре захищених цілей.\n\nЧерез незручності в обігу, одноразовості та великій руйнівній потужності кажуть, що потрібно бути трохи божевільним, щоб користуватися цією зброєю.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.barrel.label>ствол</Gun_TripleRocket.tools.barrel.label>
+  
+  <VWE_Gun_RocketLauncher.label>ракетниця</VWE_Gun_RocketLauncher.label>
+  <VWE_Gun_RocketLauncher.description>Стріляє поодиноким мінометним снарядом із високою точністю.</VWE_Gun_RocketLauncher.description>
+  <VWE_Gun_RocketLauncher.tools.0.label>ствол</VWE_Gun_RocketLauncher.tools.0.label>
+</LanguageData>

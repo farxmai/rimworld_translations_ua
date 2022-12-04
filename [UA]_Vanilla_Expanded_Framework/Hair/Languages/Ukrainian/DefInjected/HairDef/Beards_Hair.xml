@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: van dyke -->
+  <VHE_BeardVanDyke.label>ван дайк</VHE_BeardVanDyke.label>
+  <!-- EN: Seer -->
+  <VHE_BeardSeer.label>мудрець</VHE_BeardSeer.label>
+  <!-- EN: old dutch -->
+  <VHE_BeardOldDutch.label>старий голландець</VHE_BeardOldDutch.label>
+  <!-- EN: moustache -->
+  <VHE_BeardMoustache.label>вуса</VHE_BeardMoustache.label>
+  <!-- EN: lincoln -->
+  <VHE_BeardLincoln.label>линкольн</VHE_BeardLincoln.label>
+  <!-- EN: khan -->
+  <VHE_BeardKhan.label>хан</VHE_BeardKhan.label>
+  <!-- EN: goatee -->
+  <VHE_BeardGoatee.label>козлина</VHE_BeardGoatee.label>
+  <!-- EN: french -->
+  <VHE_BeardFrench.label>французька</VHE_BeardFrench.label>
+  <!-- EN: fork -->
+  <VHE_BeardFork.label>кущі</VHE_BeardFork.label>
+  <!-- EN: curly -->
+  <VHE_BeardCurly.label>густа</VHE_BeardCurly.label>
+  <!-- EN: stubble -->
+  <VHE_BeardStubble.label>щетина</VHE_BeardStubble.label>
+  <!-- EN: mutton chops -->
+  <VHE_BeardMuttonChops.label>бакенбарди</VHE_BeardMuttonChops.label>
+  <!-- EN: urist -->
+  <VHE_BeardUrist.label>юрист</VHE_BeardUrist.label>
+  <!-- EN: clean shaven -->
+  <VHE_BeardCleanShaven.label>поголений</VHE_BeardCleanShaven.label>
+  <!-- EN: circle -->
+  <VHE_BeardCircle.label>кругла</VHE_BeardCircle.label>
+  <!-- EN: boxed -->
+  <VHE_BeardBoxed.label>квадратна</VHE_BeardBoxed.label>
+</LanguageData>

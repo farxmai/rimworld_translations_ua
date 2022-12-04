@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto Drill -->
+
+  <VFE_ChunkToMine>Видобувати {0}</VFE_ChunkToMine>
+  <VFE_ChunkRandomMine>Видобувати випадкові фрагменти породи</VFE_ChunkRandomMine>
+  <VFE_ChooseMine>Вибрати тип видобутої породи</VFE_ChooseMine>
+  <VFE_ChooseMineDesc>Вибрати тип видобутої породи. Ви можете вибрати будь-який тип з доступних на цій карті порід, або випадкових з них.</VFE_ChooseMineDesc>
+  <VFE_RandomRock>Випадкова порода</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>Вибрати продуктивність пристрою</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>Цю будівлю необхідно розмістити на воді</VFE_NeedsWater>
+
+  <!-- Random Building Graphics -->
+
+  <VFE_ChangeGraphic>Змінити вигляд</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>Змініть зображення цієї будівлі випадковим чином серед доступних</VFE_ChangeGraphicDesc>
+
+  <!-- Random Building Graphics, Options -->
+
+  <VFE_RandomOrSequentially>Кнопка "Змінити вигляд" змінює графіку у випадковому порядку</VFE_RandomOrSequentially>
+  <VFE_HideRandomizeButton>Сховати кнопку «Змінити графіку»</VFE_HideRandomizeButton>
+
+  <VFE.SwitchLightColor>Перемнути колір освітлення</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>Змінити поточний колір освітлення.</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>Змінити поточний колір на {0}</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>Живлення вимкнено. Не можна перемикати колір.</VFE.ColorSwitchPowerOff>
+
+</LanguageData>

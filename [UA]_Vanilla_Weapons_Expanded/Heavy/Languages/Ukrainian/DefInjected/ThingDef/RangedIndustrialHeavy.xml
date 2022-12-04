@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Gun_Autocannon.label>автогармата</VWE_Gun_Autocannon.label>
+  <VWE_Gun_Autocannon.description>Самозарядна крупнокаліберна гармата. Ця гармата не дозволяє швидко цілитись та вести вогонь по противнику на невеликій відстані. Її потужні снаряди завдають тяжких ушкоджень. Ця зброя настільки важка, що для її використання потрібна силова броня. Кількість пострілів обмежена.</VWE_Gun_Autocannon.description>
+	<VWE_Gun_Autocannon.tools.grip.label>рукоять</VWE_Gun_Autocannon.tools.grip.label>
+	<VWE_Gun_Autocannon.tools.barrel.label>ствол</VWE_Gun_Autocannon.tools.barrel.label>
+
+  <VWE_Gun_HandheldMortar.label>ручний міномет</VWE_Gun_HandheldMortar.label>
+  <VWE_Gun_HandheldMortar.description>Ручний міномет. Відправляє бомби навіть за мури. Далеко, але не точно. Цей міномет не дозволяє швидко цілитись, а також стріляти за близькими цілями. Ця зброя настільки важка, що для її використання потрібна силова броня. Кількість пострілів обмежена.</VWE_Gun_HandheldMortar.description>
+	<VWE_Gun_HandheldMortar.tools.grip.label>рукоять</VWE_Gun_HandheldMortar.tools.grip.label>
+	<VWE_Gun_HandheldMortar.tools.barrel.label>ствол</VWE_Gun_HandheldMortar.tools.barrel.label>
+
+  <VWE_Gun_HeavyFlamer.label>важкий вогнемет</VWE_Gun_HeavyFlamer.label>
+  <VWE_Gun_HeavyFlamer.description>Потужний вогнемет військового зразка, створений на основі вогнемету «інферно» механоїдів. Здатний покрити всю територію перед стрільцем вогнем. Ця зброя настільки важка, що для її використання потрібна силова броня. Кількість пострілів обмежена.</VWE_Gun_HeavyFlamer.description>
+	<VWE_Gun_HeavyFlamer.tools.grip.label>рукоять</VWE_Gun_HeavyFlamer.tools.grip.label>
+	<VWE_Gun_HeavyFlamer.tools.barrel.label>ствол</VWE_Gun_HeavyFlamer.tools.barrel.label>
+
+  <VWE_Bullet_HeavyFlamer.label>струя вогню</VWE_Bullet_HeavyFlamer.label>
+
+  <VWE_Gun_SwarmMissileLauncher.label>ракетниця «Рій»</VWE_Gun_SwarmMissileLauncher.label>
+  <VWE_Gun_SwarmMissileLauncher.description>Ракетниця, що випускає 8 невеликих ракет з незалежним автонаведенням. Ця зброя настільки важка, що для її використання потрібна силова броня. Кількість пострілів обмежена.</VWE_Gun_SwarmMissileLauncher.description>
+	<VWE_Gun_SwarmMissileLauncher.tools.grip.label>рукоять</VWE_Gun_SwarmMissileLauncher.tools.grip.label>
+	<VWE_Gun_SwarmMissileLauncher.tools.barrel.label>ствол</VWE_Gun_SwarmMissileLauncher.tools.barrel.label>
+
+  <VWE_Bullet_SwarmRocket.label>ракета «Рій»</VWE_Bullet_SwarmRocket.label>
+
+  <VWE_Gun_UraniumSlugRifle.label>гармата «Уран»</VWE_Gun_UraniumSlugRifle.label>
+  <VWE_Gun_UraniumSlugRifle.description>Самозарядна гармата, що стріляє урановими кулями. Її надщільні уранові снаряди здатні пробити навіть найміцнішу броню. Вкрай точна на далеких дистанціях, але не може вести вогонь за цілями поблизу. Ця зброя настільки важка, що для її використання потрібна силова броня. Кількість пострілів обмежена.</VWE_Gun_UraniumSlugRifle.description>
+	<VWE_Gun_UraniumSlugRifle.tools.grip.label>рукоять</VWE_Gun_UraniumSlugRifle.tools.grip.label>
+	<VWE_Gun_UraniumSlugRifle.tools.barrel.label>ствол</VWE_Gun_UraniumSlugRifle.tools.barrel.label>
+</LanguageData>

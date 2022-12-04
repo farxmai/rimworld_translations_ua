@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:enchant quality -->
+  <VPE_EnchantQuality.label>покращити якість</VPE_EnchantQuality.label>
+  <!-- EN:The caster concentrates on an item and attempts to improve its quality by reshaping the material slightly, but cannot imitate a master’s handiwork. -->
+  <VPE_EnchantQuality.description>Псіонік фокусується на предметі та намагається покращити якість, злегка змінюючи форму. Але цього замало, щоб зробити предмет легендарним.</VPE_EnchantQuality.description>
+
+  <!-- EN:mend -->
+  <VPE_Mend.label>полагодити</VPE_Mend.label>
+  <!-- EN:The caster concentrates on an item and attempts to repair present damage by rebinding the material, with the effect scaling with their psychic sensitivity. -->
+  <VPE_Mend.description>Псіонік фокусується на предметі та намагається усунути пошкодження матеріалу. Ефект залежить від психічної чутливості псіоніка.</VPE_Mend.description>
+
+  <!-- EN:conure heat pearls -->
+  <VPE_ConjureHeatPearls.label>створити перли псі-напруги </VPE_ConjureHeatPearls.label>
+  <!-- EN:Converts a minimum amount of the caster’s heat into metaphysical pearls. These can be thrown at other psycasters to induce massive amounts of heat on them, but are otherwise harmless. -->
+  <VPE_ConjureHeatPearls.description>Перетворює деяку кількість накопиченої псіоніком псі-напруги в метафізичні предмети, найбільше схожі на перли. Ці перлини можуть бути кинуті в інших псіоніків, щоб викликати у них швидке накопичення псі-напруги.</VPE_ConjureHeatPearls.description>
+
+  <!-- EN:haywire -->
+  <VPE_Haywire.label>збій програми</VPE_Haywire.label>
+  <!-- EN:Designates an area to experience psychic interference, effectively scrambling electronic systems’ IFFs while identifying the caster’s people as allies. Duration scales with psychic sensitivity. -->
+  <VPE_Haywire.description>У зазначеному місці виникають психічні перешкоди, що порушують коректну роботу електронних систем і зокрема — систем розпізнавання «свій-чужий», що змушує їх розпізнавати самого псіоніка та членів його фракції як союзників. Тривалість ефекту залежить від психічної чутливості псіоніка.</VPE_Haywire.description>
+
+  <!-- EN:power -->
+  <VPE_Power.label>чиста енергія</VPE_Power.label>
+  <!-- EN:etaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity. -->
+  <VPE_Power.description>Метафізично переналаштовує систему енергопостачання у пристрої так, щоб енергія для його роботи протягом декількох днів надходила з флуктуацій квантової піни. Тривалість ефекту залежить від психічної чутливості псіоніка.</VPE_Power.description>
+
+  <!-- EN:rock construct -->
+  <VPE_RockConstruct.label>кам'яний конструкт</VPE_RockConstruct.label>
+  <!-- EN:Converts a minimum amount of the caster’s heat capacity into metaphysical crystals to be implanted into a stone chunk. This new rock construct is capable of performing simple chores, and breaking the crystal allows the heat capacity to be restored. -->
+  <VPE_RockConstruct.description>Переводить деякий обсяг доступного ліміту псі-напруги у форму, яку можна влити безпосередньо в уламок каменю. Кам'яний конструкт, що вийшов, здатний виконувати самі базові команди, а знищення кристального ядра дозволяє повернути ліміт псі-напруги до колишніх значень.</VPE_RockConstruct.description>
+
+  <!-- EN:steel construct -->
+  <VPE_SteelConstruct.label>сталевий конструкт</VPE_SteelConstruct.label>
+  <!-- EN:Converts a minimum amount of the caster’s heat capacity into metaphysical crystals to be implanted into a steel slag. This new steel construct will follow the caster and defend them from harm, and breaking the crystal allows the heat capacity to be restored. -->
+  <VPE_SteelConstruct.description>Переводить деякий обсяг доступного ліміту псі-напруги у форму, яку можна влити безпосередньо в шматок металобрухту. Сталевий конструкт, слідуватиме за псіоніком і захищатиме його, а знищення кристального ядра дозволяє повернути ліміт псі-напруги до колишніх значень.</VPE_SteelConstruct.description>
+
+  <!-- EN:craft psyring -->
+  <VPE_CraftPsyRing.label>створити псі-перстень</VPE_CraftPsyRing.label>
+  <!-- EN:Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice. -->
+  <VPE_CraftPsyRing.description>Психічно надати фрагменту ельтексу форму кільця, пронизаного знаннями псіоніка. Будучи одягненим іншим псіоніком, дозволяє користуватися ув'язненими в кільці здатністю без необхідності попередньої практики.</VPE_CraftPsyRing.description>
+
+  <!-- EN:word of progress -->
+  <VPE_WordofProgress.label>слово прогресу</VPE_WordofProgress.label>
+  <!-- EN:Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity. -->
+  <VPE_WordofProgress.description>Вимовити слова, що пробуджують у слухача наявні здібності до вирішення складних завдань, паралельно психічно заряджаючи його розум і надихаючи. У результаті цілі вдвічі підвищується швидкість досліджень та зростання інтелектуальних навичок протягом п'яти днів. Ефект залежить також від психічної чутливості цілі.</VPE_WordofProgress.description>
+
+  <!-- EN:reverse engineer -->
+  <VPE_ReverseEngineer.label>зворотня розробка</VPE_ReverseEngineer.label>
+  <!-- EN:The caster concentrates on an object and attempts to unravel the knowledge needed to manufacture more of them. The long, intense concentration ends with the caster falling into a 6-hour coma. -->
+  <VPE_ReverseEngineer.description>Псіонік фокусується на предметі і намагається зрозуміти таємні знання, необхідні для створення цього предмета. Результатом тривалої напруги псіонічних та когнітивних здібностей є шестигодинна кома.</VPE_ReverseEngineer.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Summon a Trade Caravan -->
+  <TradeCaravanReward.label>торговий караван</TradeCaravanReward.label>
+  <!-- EN: Spawn Cargo Pods -->
+  <CargoPodsReward.label>вантажні контейнери</CargoPodsReward.label>
+  <!-- EN: Man in Black Joins -->
+  <ManInBlackReward.label>незнайомця в чорному</ManInBlackReward.label>
+</LanguageData>

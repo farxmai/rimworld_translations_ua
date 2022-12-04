@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stone darkcampfire -->
+  <Stone_DarklightCampfire.label>тьмяне кам'яне багаття</Stone_DarklightCampfire.label>
+  <!-- EN: Cooks meals, produces less heat but more light, burns out slower than the standard campfire. People who prefer darklight work best with this light source. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Stone_DarklightCampfire.description>Дозволяє готувати їжу. На відміну від звичайного багаття, дає менше тепла, більше світла і горить довше. Тьмяне світло, що випромінюється багаттям, потрібне людям для роботи та зручності пересування. Як і будь-яке джерело тепла, має бути розташоване поза приміщенням, щоб не перегріти його. Також в багаття можна підкидати дрова та продовжувати час горіння.</Stone_DarklightCampfire.description>
+
+  <!-- EN: modern darklamp -->
+  <Light_ModernDarkLamp.label>сучасна тьмяна лампа</Light_ModernDarkLamp.label>
+  <!-- EN: A power saving lamp that more effectively converts electricity to light, useful for lighting rooms. People who prefer darklight work best with this light source. Will short circuit in rain. -->
+  <Light_ModernDarkLamp.description>Енергозберігаюча лампа, яка ефективніше перетворює електроенергію на світло, корисна для освітлення приміщень. Підходить для тих, хто недолюблює яскраве світло. Замикає при попаданні на неї вологи.</Light_ModernDarkLamp.description>
+
+  <!-- EN: darklamp end table -->
+  <Table_DarkLightEndTable.label>тумбочка з тьмяною лампою</Table_DarkLightEndTable.label>
+  <!-- EN: A small bedside table that has been adorned with a darklight, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <Table_DarkLightEndTable.description>Невеликий столик, прикрашений лампою. Не заважає тим, хто недолюлює яскраве світло. Додає зручності ліжкам, якщо розташований безпосередньо поруч із узголів'ям. Другий столик з лампою не принесе позитивного ефекту.</Table_DarkLightEndTable.description>
+
+  <!-- EN: outdoor lamp -->
+  <Light_OutdoorDarkLamp.label>вуличний тьмяний ліхтар</Light_OutdoorDarkLamp.label>
+  <!-- EN: A tall electrical darklamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+  <Light_OutdoorDarkLamp.description>Висока електрична лампа на вулиці. Не заважає тим, хто недолюлює яскраве світло. Не замикає через опади та включається лише вночі.</Light_OutdoorDarkLamp.description>
+  <!-- EN: Off during daylight hours -->
+  <Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>Вимкнено вдень</Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>
+</LanguageData>

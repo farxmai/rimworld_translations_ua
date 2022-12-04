@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:word of fear -->
+  <VPE_WordofFear.label>слово жаху</VPE_WordofFear.label>
+  <!-- EN:Induces panic by overloading their flight response system for a short duration. Considered a hostile action. -->
+  <VPE_WordofFear.description>Спричиняє паніку, перевантажуючи систему реагування на короткий час. Вважається ворожою дією.</VPE_WordofFear.description>
+
+  <!-- EN:liferot -->
+  <VPE_Liferot.label>гниття</VPE_Liferot.label>
+  <!-- EN:Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and intense gagging due to the smell. Duration scales with the target’s psychic sensitivity and is an obviously overtly hostile action. -->
+  <VPE_Liferot.description>Провокує випадково локалізовані некротичні виразки в організмі цілі. Викликає інфекцію та подальше, викликане запахом, блювання. Тривалість залежить від психічної чутливості до цілі. Вважається ворожою дією.</VPE_Liferot.description>
+
+  <!-- EN:steal vitality -->
+  <VPE_StealVitality.label>викрадення життя</VPE_StealVitality.label>
+  <!-- EN:Siphons vitality form a close, living target, transferring the target’s natural healing factor, movement speed and consciousness to the caster. Considered an overtly hostile action. -->
+  <VPE_StealVitality.description>Викачує життєві сили з живої цілі, що знаходиться поблизу. Псіонік отримує приріст до швидкості регенерації, швидкості пересування та рівня свідомості. Вважається ворожою дією.</VPE_StealVitality.description>
+
+  <!-- EN:paralysis pulse -->
+  <VPE_ParalysisPulse.label>паралітична хвиля</VPE_ParalysisPulse.label>
+  <!-- EN:Emits a cloud of black particles around the caster, which afflicts all those within the area - except the caster - with 10 days of paralytic abasia. The radius scales with the caster’s psychic sensitivity. -->
+  <VPE_ParalysisPulse.description>Псіонік створює хмару чорних частинок навколо себе, яка впливає на всіх у радіусі дії, крім самого псіоніка. Дія полягає в десятиденному періоді паралітичної абазії. Радіус дії змінюється залежно від психічної чутливості псіоніка.</VPE_ParalysisPulse.description>
+
+  <!-- EN:corpsetalk -->
+  <VPE_Corpsetalk.label>говорити з мертвими</VPE_Corpsetalk.label>
+  <!-- EN:Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal. -->
+  <VPE_Corpsetalk.description>Націльтесь на труп і тимчасово присвойте навички жертви, щоб компенсувати недоліки псіоніка. Ефект триває протягом сезону, перш ніж повернутися до нормального стану.</VPE_Corpsetalk.description>
+
+  <!-- EN:ghostwalk -->
+  <VPE_Ghostwalk.label>примарна хода</VPE_Ghostwalk.label>
+  <!-- EN:>Psychically convinces the atoms of the caster that they are able to pass between the atoms of structures. The duration of the deceit scales with the caster’s psychic sensitivity. -->
+  <VPE_Ghostwalk.description>Психічно переконує атоми псіоніка, що вони здатні проходити між атомами структур. Тривалість обману залежить від психічної чутливості псіоніка.</VPE_Ghostwalk.description>
+
+  <!-- EN:consume bodies -->
+  <VPE_ConsumeBodies.label>поглинання плоті</VPE_ConsumeBodies.label>
+  <!-- EN:Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat. -->
+  <VPE_ConsumeBodies.description>Психічно збирає всю залишкову життєву силу з трупів гуманоїдів поблизу та зберігає есенцію як постійний буфер накопичення напруги.</VPE_ConsumeBodies.description>
+
+  <!-- EN:deathshield -->
+  <VPE_Deathshield.label>відмова від смерті</VPE_Deathshield.label>
+  <!-- EN:Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs. -->
+  <VPE_Deathshield.description>На 24 години замикає життєву силу в тілі, не даючи цілі померти. Після закінчення цього терміну ціль може загинути від накопичених поранень, кровотечі, а також втрачених кінцівок та органів.</VPE_Deathshield.description>
+
+  <!-- EN:enthrall -->
+  <VPE_Enthrall.label>підняти мертвих</VPE_Enthrall.label>
+  <!-- EN:Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies. -->
+  <VPE_Enthrall.description>Психічно виокремлює життєву силу цілі і вливає її у кістки, змушуючи їх рухатися протягом дня. Єдиний інстинкт, що залишився, у такої істоти — завдавати біль ворогам псіоніка.</VPE_Enthrall.description>
+
+  <!-- EN:resurrect -->
+  <VPE_Resurrect.label>воскресіння</VPE_Resurrect.label>
+  <!-- EN:By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. -->
+  <VPE_Resurrect.description>Жертвуючи одним із пальців, псіонік здатний відтворити ефект сироватки воскресіння на будь-якому трупі, який ще не встиг до кінця розкластися, використовуючи психічну енергію, щоб відновити пошкоджені тканини та запустити серце, вдихнувши в нього життя. Ціль буде знерухомлена, а її приналежність до фракції залишиться незмінною. Чим гірший стан тіла, тим помітнішими будуть негативні побічні ефекти воскресіння.</VPE_Resurrect.description>
+</LanguageData>

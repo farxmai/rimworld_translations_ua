@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFriedBigMeat.label>м'ясо у фритюрі</VCE_DeepFriedBigMeat.label>
+  <VCE_DeepFriedBigMeat.description>Хрумка, нездорова, але смачна їжа.</VCE_DeepFriedBigMeat.description>
+
+  <VCE_DeepFriedVegetables.label>овочі у фритюрі</VCE_DeepFriedVegetables.label>
+  <VCE_DeepFriedVegetables.description>Хрумка, нездорова, але смачна їжа.</VCE_DeepFriedVegetables.description>
+
+  <VCE_DeepFriedFish.label>риба у фритюрі</VCE_DeepFriedFish.label>
+  <VCE_DeepFriedFish.description>Хрумка, нездорова, але смачна їжа.</VCE_DeepFriedFish.description>
+
+  <VCE_DeepFriedSushi.label>суші у фритюрі</VCE_DeepFriedSushi.label>
+  <VCE_DeepFriedSushi.description>Хрумка, нездорова, але смачна їжа. Суші – це досить корисна для здоров'я їжа, але рано чи пізно хтось додумався б приготувати її у фритюрі та анулювати цей статус корисності цієї їжі.</VCE_DeepFriedSushi.description>
+
+</LanguageData>

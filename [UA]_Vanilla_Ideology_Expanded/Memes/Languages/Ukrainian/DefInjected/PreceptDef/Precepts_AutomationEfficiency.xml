@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: increased -->
+  <VME_AutomationEfficiency_Increased.label>підвищено</VME_AutomationEfficiency_Increased.label>
+  <!-- EN: From the woodwork of a simple bow to grand factoriums, a craftmaster knows how to craft with efficiency.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: +50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: +25%. -->
+  <VME_AutomationEfficiency_Increased.description>Чи то простий тесляр чи досвідчений інженер — майстер своєї справи знає, як можна працювати ефективніше.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Швидкість роботи за електрифікованим робочим місцем: +50%.\n - Швидкість роботи заводів з VFE - Mechanoids: +25%.</VME_AutomationEfficiency_Increased.description>
+
+  <!-- EN: decreased -->
+  <VME_AutomationEfficiency_Decreased.label>знижено</VME_AutomationEfficiency_Decreased.label>
+  <!-- EN: Advanced machines and automated factories are to be shunned, for they detract from the exquisiteness of artisanal work.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: -50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: -25%. -->
+  <VME_AutomationEfficiency_Decreased.description>Краще уникати бездушних машин та безлюдних заводів. Вони кидають тінь на блискучу красу ручної роботи.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Швидкість роботи за електрифікованим робочим місцем: -50%.\n - Швидкість роботи заводів з VFE - Mechanoids: -25%.</VME_AutomationEfficiency_Decreased.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_TobaccoHigh.label>під тютюном</VBE_TobaccoHigh.label>
+  <VBE_TobaccoHigh.description>Нікотин у кровотоку. Створює м'яке відчуття нечіткого благополуччя.</VBE_TobaccoHigh.description>
+  <VBE_TobaccoHigh.labelNoun>під тютюном</VBE_TobaccoHigh.labelNoun>
+
+  <VBE_DeluxeTobaccoHigh.label>під якісним тютюном</VBE_DeluxeTobaccoHigh.label>
+  <VBE_DeluxeTobaccoHigh.description>Нікотин у кровотоку. Створює м'яке відчуття нечіткого благополуччя.</VBE_DeluxeTobaccoHigh.description>
+  <VBE_DeluxeTobaccoHigh.labelNoun>під якісним тютюном</VBE_DeluxeTobaccoHigh.labelNoun>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <VBE_TobaccoTolerance.label>толерантність до тютюну</VBE_TobaccoTolerance.label>
+  <VBE_TobaccoTolerance.description>Підвищена толерантність до тютюну. Чим більша ця толерантність, тим більше тютюну потрібно для досягнення того ж таки ефекту.</VBE_TobaccoTolerance.description>
+
+  <VBE_TobaccoAddiction.label>залежність від тютюну</VBE_TobaccoAddiction.label>
+  <VBE_TobaccoAddiction.description>Хімічна залежність від тютюну. Тривала присутність тютюну викликала неврологічні адаптації на клітинному рівні, тому мозок більше не може нормально функціонувати без нього. Без регулярних доз тютюну почнеться ломка, проте тривала помірність змусить мозок адаптуватися до свого звичайного стану, позбавившись залежності.</VBE_TobaccoAddiction.description>
+  <VBE_TobaccoAddiction.stages.1.label>ломка</VBE_TobaccoAddiction.stages.1.label>
+
+
+</LanguageData>

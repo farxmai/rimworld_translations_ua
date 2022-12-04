@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: disallowed -->
+  <VME_SocialInteractions_Disallowed.label>заборонено</VME_SocialInteractions_Disallowed.label>
+  <!-- EN: Chatter between those of our creed is forbidden. We seek to achieve a greater understanding through a venere of silence and secrecy, an oath few outsiders can comprehend. -->
+  <VME_SocialInteractions_Disallowed.description>Балаканина між членами нашої спільноти заборонена. Ми прагнемо досягти більшого порозуміння через мовчання та збереження таємниць. Лише деякі чужинці зможуть зрозуміти зміст нашої обітниці.</VME_SocialInteractions_Disallowed.description>
+</LanguageData>

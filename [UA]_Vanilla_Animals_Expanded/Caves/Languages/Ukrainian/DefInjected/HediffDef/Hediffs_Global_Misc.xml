@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_StrengthenedByBond.label>любить господаря</VAE_StrengthenedByBond.label>
+  <VAE_StrengthenedByBond.description>Ця тварина прив'язалася до колоніста і стала значно сильнішою. Однак, якщо його ви помрете, тварина залишить цю місцевість назавжди.</VAE_StrengthenedByBond.description>
+
+  <VAE_NoPain.label>не відчуває болі</VAE_NoPain.label>
+  <VAE_NoPain.description>У цієї істоти знижена больова чутливість і потрібно більше часу, щоб вона знепритомніла через біль.</VAE_NoPain.description>
+
+  <VAE_StunnedByViciousAttack.label>Приголомшений лютою атакою</VAE_StunnedByViciousAttack.label>
+  <VAE_StunnedByViciousAttack.description>Ця істота зазнала жорстокого нападу.</VAE_StunnedByViciousAttack.description>
+
+  <VAE_SilkCovered.label>вкритий шовком</VAE_SilkCovered.label>
+  <VAE_SilkCovered.description>Ця істота зазнала нападу гігантського павука і частково вкрита нитками липкого шовку.</VAE_SilkCovered.description>
+
+  <VAE_WallBreaker.label>руйнівник стін</VAE_WallBreaker.label>
+  <VAE_WallBreaker.description>цей тарганхалк лютує і руйнує стіни та інші конструкції на своєму шляху.</VAE_WallBreaker.description>
+
+  <VAE_BleedingWound.label>кровоточива рана</VAE_BleedingWound.label>
+  <VAE_BleedingWound.description>Кровоточива рана, що викликає велику втрату крові протягом деякого часу після появи.</VAE_BleedingWound.description>
+  <VAE_BleedingWound.stages.0.label>слабка кровотеча</VAE_BleedingWound.stages.0.label>
+  <VAE_BleedingWound.stages.1.label>помірна кровотеча</VAE_BleedingWound.stages.1.label>
+  <VAE_BleedingWound.stages.2.label>надмірна кровотеча</VAE_BleedingWound.stages.2.label>
+
+  <VAE_OpenWound.label>відкрита рана</VAE_OpenWound.label>
+  <VAE_OpenWound.description>жахлива на вигляд відкрита рана.</VAE_OpenWound.description>
+  <VAE_OpenWound.comps.0.labelTendedWell>перев'язано</VAE_OpenWound.comps.0.labelTendedWell>
+  <VAE_OpenWound.comps.0.labelTendedWellInner>зашито</VAE_OpenWound.comps.0.labelTendedWellInner>
+  <VAE_OpenWound.comps.0.labelSolidTendedWell>вилікувано</VAE_OpenWound.comps.0.labelSolidTendedWell>
+  <VAE_OpenWound.injuryProps.destroyedLabel>відрізано</VAE_OpenWound.injuryProps.destroyedLabel>
+  <VAE_OpenWound.injuryProps.destroyedOutLabel>вирвано</VAE_OpenWound.injuryProps.destroyedOutLabel>
+  <VAE_OpenWound.labelNoun>відкрита рана</VAE_OpenWound.labelNoun>
+
+
+</LanguageData>

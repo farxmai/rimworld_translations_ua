@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Corpse_VDE_Dryad_Stonedigger.label>туша дріади-каменяра</Corpse_VDE_Dryad_Stonedigger.label>
+  <Corpse_VDE_Dryad_Stonedigger.description>Мертва дріада-каменяр.</Corpse_VDE_Dryad_Stonedigger.description>
+
+  <Corpse_VDE_Dryad_Spitter.label>туша дріади-плювальника</Corpse_VDE_Dryad_Spitter.label>
+  <Corpse_VDE_Dryad_Spitter.description>Мертва дріада-плювальник.</Corpse_VDE_Dryad_Spitter.description>
+
+  <Corpse_VDE_Dryad_Gaubricmaker.label>туша дріади-вовнянника</Corpse_VDE_Dryad_Gaubricmaker.label>
+  <Corpse_VDE_Dryad_Gaubricmaker.description>Мертва дріада-вовнянник.</Corpse_VDE_Dryad_Gaubricmaker.description>
+
+  <Corpse_VDE_Dryad_Nectarmaker.label>туша дріади-нектарника</Corpse_VDE_Dryad_Nectarmaker.label>
+  <Corpse_VDE_Dryad_Nectarmaker.description>Мертва дріада-нектарник.</Corpse_VDE_Dryad_Nectarmaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Stonedigger.label>туша проб. дріади-каменяра</Corpse_VDE_AwakenedDryad_Stonedigger.label>
+  <Corpse_VDE_AwakenedDryad_Stonedigger.description>Мертва пробуджена дріада-каменяр.</Corpse_VDE_AwakenedDryad_Stonedigger.description>
+
+  <Corpse_VDE_AwakenedDryad_Spitter.label>туша проб. дріади-плювальника</Corpse_VDE_AwakenedDryad_Spitter.label>
+  <Corpse_VDE_AwakenedDryad_Spitter.description>Мертва пробуджена дріада-плювальник.</Corpse_VDE_AwakenedDryad_Spitter.description>
+
+  <Corpse_VDE_AwakenedDryad_Gaubricmaker.label>туша проб. дріади-вовнянника</Corpse_VDE_AwakenedDryad_Gaubricmaker.label>
+  <Corpse_VDE_AwakenedDryad_Gaubricmaker.description>Мертва пробуджена дріада-вовнянник.</Corpse_VDE_AwakenedDryad_Gaubricmaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Nectarmaker.label>туша проб. дріади-нектарника</Corpse_VDE_AwakenedDryad_Nectarmaker.label>
+  <Corpse_VDE_AwakenedDryad_Nectarmaker.description>Мертва пробуджена дріада-нектарник.</Corpse_VDE_AwakenedDryad_Nectarmaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Berrymaker.label>туша проб. дріади-ягідника</Corpse_VDE_AwakenedDryad_Berrymaker.label>
+  <Corpse_VDE_AwakenedDryad_Berrymaker.description>Мертва пробуджена дріада-ягідник.</Corpse_VDE_AwakenedDryad_Berrymaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Medicinemaker.label>туша проб. дріади-лікороба</Corpse_VDE_AwakenedDryad_Medicinemaker.label>
+  <Corpse_VDE_AwakenedDryad_Medicinemaker.description>Мертва пробуджена дріада-лікороб.</Corpse_VDE_AwakenedDryad_Medicinemaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Woodmaker.label>туша проб. дріади-древороба</Corpse_VDE_AwakenedDryad_Woodmaker.label>
+  <Corpse_VDE_AwakenedDryad_Woodmaker.description>Мертва пробуджена дріада-древороб.</Corpse_VDE_AwakenedDryad_Woodmaker.description>
+
+  <Corpse_VDE_AwakenedDryad_Barkskin.label>туша проб. дріади-дубошкіра</Corpse_VDE_AwakenedDryad_Barkskin.label>
+  <Corpse_VDE_AwakenedDryad_Barkskin.description>Мертва пробуджена дріада-дубошкір.</Corpse_VDE_AwakenedDryad_Barkskin.description>
+
+  <Corpse_VDE_AwakenedDryad_Carrier.label>туша проб. дріади-носія</Corpse_VDE_AwakenedDryad_Carrier.label>
+  <Corpse_VDE_AwakenedDryad_Carrier.description>Мертва пробуджена дріада-носій.</Corpse_VDE_AwakenedDryad_Carrier.description>
+
+  <Corpse_VDE_AwakenedDryad_Clawer.label>туша проб. дріади-кігтервача</Corpse_VDE_AwakenedDryad_Clawer.label>
+  <Corpse_VDE_AwakenedDryad_Clawer.description>Мертва пробуджена дріада-кігтервач.</Corpse_VDE_AwakenedDryad_Clawer.description>
+</LanguageData>

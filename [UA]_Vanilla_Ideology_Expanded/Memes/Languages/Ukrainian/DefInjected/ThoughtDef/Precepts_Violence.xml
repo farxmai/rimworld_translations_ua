@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: attacked harmless person -->
+  <VME_Violence_Honorable.stages.0.label>атаковано невинного</VME_Violence_Honorable.stages.0.label>
+  <!-- EN: I have used deadly force on a harmless adversary. This proves our strength and our resolve. -->
+  <VME_Violence_Honorable.stages.0.description>Я застосував смертоносну силу до безпомічного ворога. Це доводить нашу силу і нашу рішучість.</VME_Violence_Honorable.stages.0.description>
+
+  <!-- EN: attacked harmless person -->
+  <VME_Violence_Disapproved.stages.0.label>атаковано невинного</VME_Violence_Disapproved.stages.0.label>
+  <!-- EN: I have used deadly force on a harmless adversary. This is wrong. -->
+  <VME_Violence_Disapproved.stages.0.description>Я застосував смертоносну силу до безпомічного ворога. Так не мало бути.</VME_Violence_Disapproved.stages.0.description>
+
+  <!-- EN: attacked person -->
+  <VME_Violence_Abhorrent.stages.0.label>атаковано невинного</VME_Violence_Abhorrent.stages.0.label>
+  <!-- EN: I have used deadly force on an adversary. It brings great shame. -->
+  <VME_Violence_Abhorrent.stages.0.description>Мої дії призвели до вбивства. Який сором!</VME_Violence_Abhorrent.stages.0.description>
+</LanguageData>

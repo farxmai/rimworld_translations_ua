@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Cigarettes.label>сигарети</VBE_Cigarettes.label>
+  <VBE_Cigarettes.description>Маленька згорнута паперова трубка, нещільно набита тютюновим листям. Пропонує короткочасну ейфорію, а також розумову стимуляцію та викликає сильну залежність.</VBE_Cigarettes.description>
+  <VBE_Cigarettes.ingestible.ingestCommandString>Курити {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <VBE_Cigarettes.ingestible.ingestReportString>курить {0}</VBE_Cigarettes.ingestible.ingestReportString>
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>курить {0}</VBE_Cigarettes.ingestible.ingestReportStringEat>
+
+  <VBE_Cigars.label>сигари</VBE_Cigars.label>
+  <VBE_Cigars.description>Товстий висушений тютюновий лист, набитий до країв великою кількістю тютюнового листя і обгорнутий золотою фольгою.</VBE_Cigars.description>
+  <VBE_Cigars.ingestible.ingestCommandString>Курити {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <VBE_Cigars.ingestible.ingestReportString>курить {0}</VBE_Cigars.ingestible.ingestReportString>
+  <VBE_Cigars.ingestible.ingestReportStringEat>курить {0}</VBE_Cigars.ingestible.ingestReportStringEat>
+
+
+</LanguageData>

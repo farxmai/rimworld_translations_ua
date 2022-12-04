@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: exalted -->
+  <VME_DumbLabor_Exalted.label>піднесено</VME_DumbLabor_Exalted.label>
+  <!-- EN: An aching body is to be revered. Nearly nothing is found more rewarding than a day of hard work. -->
+  <VME_DumbLabor_Exalted.description>Ми звеличуємо героїв праці. Важко знайти щось важливіше, ніж день, відданий у трудовому пориві важкій роботі.</VME_DumbLabor_Exalted.description>
+
+  <!-- EN: liked -->
+  <VME_DumbLabor_Liked.label>подобається</VME_DumbLabor_Liked.label>
+  <!-- EN: Hard work is good for your body and for your mind. -->
+  <VME_DumbLabor_Liked.description>Тяжка робота корисна як для тіла, так і для розуму.</VME_DumbLabor_Liked.description>
+
+  <!-- EN: indifferent -->
+  <VME_DumbLabor_Indifferent.label>байдуже</VME_DumbLabor_Indifferent.label>
+  <!-- EN: Dumb tasks are necessary. That's all there is to it. -->
+  <VME_DumbLabor_Indifferent.description>Прості справи треба робити. От і все.</VME_DumbLabor_Indifferent.description>
+
+  <!-- EN: disliked -->
+  <VME_DumbLabor_Disliked.label>не подобається</VME_DumbLabor_Disliked.label>
+  <!-- EN: We'd rather not do cleaning and hauling tasks, as they are incredibly exhausting, but they are necessary. -->
+  <VME_DumbLabor_Disliked.description>Ми воліли б не займатися прибиранням і перенесенням. Вони неймовірно стомлюючі, але, на жаль, потрібні.</VME_DumbLabor_Disliked.description>
+
+  <!-- EN: horrible -->
+  <VME_DumbLabor_Horrible.label>жахливо</VME_DumbLabor_Horrible.label>
+  <!-- EN: We should not suffer the laborious degradation of our bodies, nor the degradation of sweat forming on our brow.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Leader and Moralist roles will be incapable of Dumb Labor. -->
+  <VME_DumbLabor_Horrible.description>Ми не повинні страждати ні від знемоги наших тіл, ні від поту, що стікає з чола.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Лідер та Священик не займаються простою роботою.</VME_DumbLabor_Horrible.description>
+</LanguageData>

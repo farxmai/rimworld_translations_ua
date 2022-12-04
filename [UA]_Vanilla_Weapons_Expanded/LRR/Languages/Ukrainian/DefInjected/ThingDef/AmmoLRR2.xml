@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RR_RocketAmmo.label>ракети</RR_RocketAmmo.label>
+  <RR_RocketAmmo.description>Вибухова боєголовка з оперенням та розгінним двигуном для запуску з ракетних установок.</RR_RocketAmmo.description>
+
+  <RR_DoomsdayRocketAmmo.label>ракета судного дня</RR_DoomsdayRocketAmmo.label>
+  <RR_DoomsdayRocketAmmo.description>Велика ракета, що запускається із ракетниці судного дня.</RR_DoomsdayRocketAmmo.description>
+
+  <RR_ChargeRocketAmmo.label>енергоракета</RR_ChargeRocketAmmo.label>
+  <RR_ChargeRocketAmmo.description>Боєголовка з лазерним наведенням, що має ефективний розгінний двигун та відкаліброване оперення. Призначена для стрільби з ракетних установок із рельсотронами.</RR_ChargeRocketAmmo.description>
+
+</LanguageData>

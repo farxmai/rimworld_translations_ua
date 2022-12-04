@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookChirashizushiSimple.label>приготувати миску чиращизущі (простий)</VCE_CookChirashizushiSimple.label>
+  <VCE_CookChirashizushiSimple.description>Приготувати миску чиращизущі (простий).</VCE_CookChirashizushiSimple.description>
+  <VCE_CookChirashizushiSimple.jobString>готує миску чиращизущі (простий)</VCE_CookChirashizushiSimple.jobString>
+
+  <VCE_CookChirashizushiSimpleBulk.label>приготувати миску чиращизущі (простий) x4</VCE_CookChirashizushiSimpleBulk.label>
+  <VCE_CookChirashizushiSimpleBulk.description>Приготувати 4 миски чиращизущі (простий).</VCE_CookChirashizushiSimpleBulk.description>
+  <VCE_CookChirashizushiSimpleBulk.jobString>готує миску чиращизущі (простий) x4</VCE_CookChirashizushiSimpleBulk.jobString>
+
+  <VCE_CookNorimakiSimple.label>приготувати норімакі (простий)</VCE_CookNorimakiSimple.label>
+  <VCE_CookNorimakiSimple.description>Приготувати норімакі (простий).</VCE_CookNorimakiSimple.description>
+  <VCE_CookNorimakiSimple.jobString>готує норімакі (простий)</VCE_CookNorimakiSimple.jobString>
+
+  <VCE_CookNorimakiSimpleBulk.label>приготувати норімакі (простий) x4</VCE_CookNorimakiSimpleBulk.label>
+  <VCE_CookNorimakiSimpleBulk.description>Приготувати 4 норімакі (простий).</VCE_CookNorimakiSimpleBulk.description>
+  <VCE_CookNorimakiSimpleBulk.jobString>готує норімакі (простий) x4</VCE_CookNorimakiSimpleBulk.jobString>
+
+  <VCE_CookUramakiFine.label>приготувати урамакі (чудовий)</VCE_CookUramakiFine.label>
+  <VCE_CookUramakiFine.description>Приготувати урамакі (чудовий).</VCE_CookUramakiFine.description>
+  <VCE_CookUramakiFine.jobString>готує урамакі (чудовий)</VCE_CookUramakiFine.jobString>
+
+  <VCE_CookUramakiFineBulk.label>приготувати урамакі (чудовий) x4</VCE_CookUramakiFineBulk.label>
+  <VCE_CookUramakiFineBulk.description>Приготувати 4 урамакі (чудовий).</VCE_CookUramakiFineBulk.description>
+  <VCE_CookUramakiFineBulk.jobString>готує урамакі (чудовий) x4</VCE_CookUramakiFineBulk.jobString>
+
+  <VCE_CookNigiriFine.label>приготувати нігірі (чудовий)</VCE_CookNigiriFine.label>
+  <VCE_CookNigiriFine.description>Приготувати нігірі (чудовий).</VCE_CookNigiriFine.description>
+  <VCE_CookNigiriFine.jobString>готує нігірі (чудовий)</VCE_CookNigiriFine.jobString>
+
+  <VCE_CookNigiriFineBulk.label>приготувати нігірі (чудовий) x4</VCE_CookNigiriFineBulk.label>
+  <VCE_CookNigiriFineBulk.description>Приготувати 4 нігірі (чудовий).</VCE_CookNigiriFineBulk.description>
+  <VCE_CookNigiriFineBulk.jobString>готує нігірі (чудовий) x4</VCE_CookNigiriFineBulk.jobString>
+
+  <VCE_CookTemakiLavish.label>приготувати темакі (вишуканий)</VCE_CookTemakiLavish.label>
+  <VCE_CookTemakiLavish.description>Приготувати темакі (вишуканий).</VCE_CookTemakiLavish.description>
+  <VCE_CookTemakiLavish.jobString>готує темакі (вишуканий)</VCE_CookTemakiLavish.jobString>
+
+  <VCE_CookTemakiLavishBulk.label>приготувати темакі (вишуканий) x4</VCE_CookTemakiLavishBulk.label>
+  <VCE_CookTemakiLavishBulk.description>Приготувати 4 темакі (вишуканий).</VCE_CookTemakiLavishBulk.description>
+  <VCE_CookTemakiLavishBulk.jobString>готує темакі (вишуканий) x4</VCE_CookTemakiLavishBulk.jobString>
+
+  <VCE_CookFutomakiLavish.label>приготувати футомакі (вишуканий)</VCE_CookFutomakiLavish.label>
+  <VCE_CookFutomakiLavish.description>Приготувати футомакі (вишуканий).</VCE_CookFutomakiLavish.description>
+  <VCE_CookFutomakiLavish.jobString>готує футомакі (вишуканий)</VCE_CookFutomakiLavish.jobString>
+
+  <VCE_CookFutomakiLavishBulk.label>приготувати футомакі (вишуканий) x4</VCE_CookFutomakiLavishBulk.label>
+  <VCE_CookFutomakiLavishBulk.description>Приготувати 4 футомакі (вишуканий).</VCE_CookFutomakiLavishBulk.description>
+  <VCE_CookFutomakiLavishBulk.jobString>готує футомакі (вишуканий) x4</VCE_CookFutomakiLavishBulk.jobString>
+
+  <VCE_CookGunkanmakiGourmet.label>приготувати гунканмакі (першокласний)</VCE_CookGunkanmakiGourmet.label>
+  <VCE_CookGunkanmakiGourmet.description>Приготувати гунканмакі (першокласний). Вершина кулінарного мистецтва.</VCE_CookGunkanmakiGourmet.description>
+  <VCE_CookGunkanmakiGourmet.jobString>готує гунканмакі (першокласний)</VCE_CookGunkanmakiGourmet.jobString>
+
+  <VCE_CookOshizushiiGourmet.label>приготувати ошизуші (першокласний)</VCE_CookOshizushiiGourmet.label>
+  <VCE_CookOshizushiiGourmet.description>Приготувати ошизуші (першокласний). Вершина кулінарного мистецтва.</VCE_CookOshizushiiGourmet.description>
+  <VCE_CookOshizushiiGourmet.jobString>готує ошизуші (першокласний)</VCE_CookOshizushiiGourmet.jobString>
+
+  <VCE_MakeHumanSurimi.label>приготувати сурімі з людського м'яса</VCE_MakeHumanSurimi.label>
+  <VCE_MakeHumanSurimi.description>Приготувати сурімі з людського м'яса. Перетворіть людське м'ясо в однорідну пасту, що імітує текстуру молюска.</VCE_MakeHumanSurimi.description>
+  <VCE_MakeHumanSurimi.jobString>готує сурімі з людського м'яса</VCE_MakeHumanSurimi.jobString>
+
+</LanguageData>

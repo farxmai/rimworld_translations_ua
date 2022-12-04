@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dishonorable -->
+  <VME_Defeat_Dishonorable.label>ганебно</VME_Defeat_Dishonorable.label>
+  <!-- EN: Suffering a setback on the battlefield is an insult to body, mind, and spirit.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - A colonist that is downed in combat by a humanlike enemy twice in less than 30 days will start requiring a ceremonial suicide ritual to cleanse his dishonor. Mechanoids and animals don't count for this. -->
+  <VME_Defeat_Dishonorable.description>Поразка на полі бою ображає тіло, розум і дух.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Поселенець, двічі зазнавший поразки у бою із супротивником за 30 днів, почне вимагати ритуального самогубства, щоб змити своє безчестя. Поразки від механоїдів та тварин не враховуються.</VME_Defeat_Dishonorable.description>
+</LanguageData>

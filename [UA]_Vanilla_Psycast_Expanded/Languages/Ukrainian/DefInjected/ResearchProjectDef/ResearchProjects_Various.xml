@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eltex gear -->
+  <VPE_EltexGear.label>спорядження з ельтексу</VPE_EltexGear.label>
+  <!-- EN: Tailor and craft complex eltex apparel, capable of improving psychic focus of your psycasters, as well as an eltex-infused staff. -->
+  <VPE_EltexGear.description>Складне у виготовленні спорядження з ельтексу дозволить покращити псіконцентрацію так само, як і одяг з ельтексу.</VPE_EltexGear.description>
+
+  <!-- EN: caster gear -->
+  <VPE_CasterGear.label>спорядження псіоніків</VPE_CasterGear.label>
+  <!-- EN: Craft simple psycaster apparel, armor and gear using eltex. -->
+  <VPE_CasterGear.description>Простий одяг, броня та спорядження з ельтексу покращать ефективність псіоніків.</VPE_CasterGear.description>
+</LanguageData>

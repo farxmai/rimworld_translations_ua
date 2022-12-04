@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gas-powered turbine -->
+  <CA_GasTurbine.label>газовий турбо генератор</CA_GasTurbine.label>
+  <!-- A helixien gas powered turbojet. Although cumbersome, it produces a lot power and can be linked to the helixien gas network. -->
+  <CA_GasTurbine.description>Геліксіновий турбореактивний двигун. Незважаючи на громіздкість, він виробляє багато енергії та може бути підключений до газової мережі.</CA_GasTurbine.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Gaubric production -->
+  <VDE_GaubricDesc>Виробництво гаутканини</VDE_GaubricDesc>
+  <!-- EN: Neutroamine production -->
+  <VDE_NeutroamineDesc>Виробництво нейтроаміну</VDE_NeutroamineDesc>
+
+
+  <!-- EN: Awaken dryads -->
+  <VDE_Awaken>Пробудження дріади</VDE_Awaken>
+  <!-- EN: Turn three dryads of a type into an awakened version that is free from the trees. This new awakened dryad will act as a normal animal of the colony in most aspects. -->
+  <VDE_AwakenDesc>Зверніть трьох дріад одного типу в пробуджену форму, яка не буде прив'язана до дерева і стане схожою на будь-яку іншу тварину в поселенні.</VDE_AwakenDesc>
+  <!-- EN: Awakening in {0} -->
+  <VDE_TicksToSpawn>Пробудження за {0}</VDE_TicksToSpawn>
+  <!-- EN: Convert to Ambrosia Palm -->
+  <VDE_TurnIntoPalm>Звернення до пальм амброзії</VDE_TurnIntoPalm>
+  <!-- EN: Evolves the dryad into an ambrosia palm that produces the drug periodically -->
+  <VDE_TurnIntoPalmDesc>Перетворити дріаду на пальму амброзії, яка вироблятиме час від часу наркотик.</VDE_TurnIntoPalmDesc>
+</LanguageData>

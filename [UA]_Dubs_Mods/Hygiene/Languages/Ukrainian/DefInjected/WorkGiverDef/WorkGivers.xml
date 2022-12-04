@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlaceFertilizer.label>удобрювати</PlaceFertilizer.label>
+  <PlaceFertilizer.verb>удобрювати</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>вносить добрива</PlaceFertilizer.gerund>
+
+  <TipSewage.label>перекинути бочку з каналізаційними відходами</TipSewage.label>
+  <TipSewage.verb>перекинути</TipSewage.verb>
+  <TipSewage.gerund>перекидає</TipSewage.gerund>
+
+  <DrainWaterTank.label>злити воду</DrainWaterTank.label>
+  <DrainWaterTank.verb>злити</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>зливає</DrainWaterTank.gerund>
+
+  <DBHAdministerFluids.label>напоїти пацієнта</DBHAdministerFluids.label>
+  <DBHAdministerFluids.verb>дати пити</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>дає воду</DBHAdministerFluids.gerund>
+
+  <DBHAdministerFluidsWarden.label>напоїти пацієнта</DBHAdministerFluidsWarden.label>
+  <DBHAdministerFluidsWarden.verb>дати пити</DBHAdministerFluidsWarden.verb>
+  <DBHAdministerFluidsWarden.gerund>дає воду</DBHAdministerFluidsWarden.gerund>
+
+  <ClearBlockage.label>прочитити злив</ClearBlockage.label>
+  <ClearBlockage.verb>прочитити</ClearBlockage.verb>
+  <ClearBlockage.gerund>прочищає</ClearBlockage.gerund>
+
+  <washPatient.label>мити пацієнта</washPatient.label>
+  <washPatient.verb>мити</washPatient.verb>
+  <washPatient.gerund>миє</washPatient.gerund>
+
+  <DocCleanBedpan.label>очистити підкладне судно (качку)</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>очистити</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>очищує</DocCleanBedpan.gerund>
+
+  <cleanBedpan.label>очистити підкладне судно (качку)</cleanBedpan.label>
+  <cleanBedpan.verb>очистити</cleanBedpan.verb>
+  <cleanBedpan.gerund>очищує</cleanBedpan.gerund>
+
+
+</LanguageData>

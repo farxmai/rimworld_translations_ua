@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: loved -->
+  <VME_Recreation_Loved.label>схвалюється</VME_Recreation_Loved.label>
+  <!-- EN: Fun and games aren’t optional - Enjoy every moment of recreation and make it the best you can for yourself and your friends.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists gain recreation at 50% the speed when using any Joy buildings.\n - Increases by 50% the mood buff acquired by colonists after a party. -->
+  <VME_Recreation_Loved.description>Ігри та веселощі не забаганка. Потрібно насолоджуватися кожним моментом відпочинку, і робити його якнайкраще для себе і для друзів.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Колоністи, що використовують розважальні будівлі, задовольняють потребу відпочинку на 50% швидше.\n - Підвищення настрою від відвідування вечірки на 50% більше.</VME_Recreation_Loved.description>
+
+  <!-- EN: normal -->
+  <VME_Recreation_Normal.label>байдуже</VME_Recreation_Normal.label>
+  <!-- EN: Recreation is an important part of life. -->
+  <VME_Recreation_Normal.description>У житті є час і для розваг.</VME_Recreation_Normal.description>
+
+  <!-- EN: disapproved -->
+  <VME_Recreation_Disapproved.label>не схвалюється</VME_Recreation_Disapproved.label>
+  <!-- EN: Recreation is a waste of time.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists get -5 mood for half a day after doing a recreation job. -->
+  <VME_Recreation_Disapproved.description>Розваги - марнотратство часу.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Поселенці після розваги отримують -5 до настрою на півдня.</VME_Recreation_Disapproved.description>
+</LanguageData>

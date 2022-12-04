@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Українська мова для базової гри та модів [UA]</name>
+  <author>Farxmai2</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2888397564</url>
+  <packageId>Farxmai2.ModsTranslation.UA</packageId>
+  <description>В цьому паку ви знайдете як деякі виправлення офіційної української локалізації Ядра та офіційних аддонів, так і переклади деяких популярних модів, серед яких: 
+  
+  Allow Tool
+  Pick Up And Haul
+  Simple Sidearms
+  Colony Groups
+  Deep Storage
+  RPG Style Inventory
+  Snap Out
+  Stabilize
+  Share The Load
+  Replace Stuff
+  Smart Medicine
+  Common Sense
+  RimHUD
+  LevelUp
+
+Сама локалізація та безпосередньо список модів будуть доповнюватись з часом. 
+ 
+  </description>
+
+  <loadAfter>
+    <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>UnlimitedHugs.AllowTool</li>
+    <li>Mehni.PickUpAndHaul</li>
+    <li>PeteTimesSix.SimpleSidearms</li>
+    <li>DerekBickley.LTOColonyGroupsFinal</li>
+    <li>LWM.DeepStorage</li>
+    <li>Sandy.RPGStyleInventory.avilmask.Revamped</li>
+    <li>weilbyte.snapout</li>
+    <li>Linkolas.Stabilize</li>
+    <li>Uuugggg.ShareTheLoad</li>
+    <li>Uuugggg.ReplaceStuff</li>
+    <li>Uuugggg.SmartMedicine</li>
+    <li>avilmask.CommonSense</li>
+    <li>Jaxe.RimHUD</li>
+    <li>Krafs.LevelUp</li>
+  </loadAfter>
+</ModMetaData>

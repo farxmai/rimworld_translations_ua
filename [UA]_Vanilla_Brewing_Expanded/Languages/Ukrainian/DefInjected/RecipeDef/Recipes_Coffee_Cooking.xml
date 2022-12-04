@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BrewMintCoffee.label>приготувати м'ятну каву</VBE_BrewMintCoffee.label>
+  <VBE_BrewMintCoffee.description>Приготувати м'ятну каву.</VBE_BrewMintCoffee.description>
+  <VBE_BrewMintCoffee.jobString>готує м'ятну каву</VBE_BrewMintCoffee.jobString>
+
+  <VBE_BrewDalgonaCoffee.label>приготувати дальгона-каву</VBE_BrewDalgonaCoffee.label>
+  <VBE_BrewDalgonaCoffee.description>Приготувати дальгона-каву.</VBE_BrewDalgonaCoffee.description>
+  <VBE_BrewDalgonaCoffee.jobString>готує дальгона-каву</VBE_BrewDalgonaCoffee.jobString>
+
+
+</LanguageData>

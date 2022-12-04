@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PublicBathroom.label>громадська купальня</PublicBathroom.label>
+  <PrivateBathroom.label>особиста ванна кімната</PrivateBathroom.label>
+  <PublicRestroom.label>громадський туалет</PublicRestroom.label>
+  <SaunaRoom.label>сауна</SaunaRoom.label>
+
+</LanguageData>

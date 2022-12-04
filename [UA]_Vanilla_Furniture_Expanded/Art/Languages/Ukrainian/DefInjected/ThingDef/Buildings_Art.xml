@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Pottery.label>керамічний виріб</VFE_Pottery.label>
+  <VFE_Pottery.description>Невеличкий гончарний виріб із художнім гравіюванням. Може бути створено робочому місці.</VFE_Pottery.description>
+
+  <VFE_StatueSmall.label>мала статуя</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>Невеликий шматок матеріалу на декоративному постаменті, якому надали художньої форми.</VFE_StatueSmall.description>
+
+  <VFE_Carving.label>різьблений виріб</VFE_Carving.label>
+  <VFE_Carving.description>Невелика різьблена скульптура до пояса. Може діяти як укриття.</VFE_Carving.description>
+
+  <VFE_StatueLarge.label>велика статуя</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>Шматок матеріалу розміром у людський зріст на декоративному постаменті, якому надали художню форму.</VFE_StatueLarge.description>
+
+  <VFE_StatueGrand.label>величезна статуя</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>Величезний шмат матеріалу на декоративному постаменті, якому надали художню форму.</VFE_StatueGrand.description>
+
+  <VFE_Monument.label>монумент</VFE_Monument.label>
+  <VFE_Monument.description>Непрохідна масивна пам'ятка з декоративним постаментом та великим художнім твором.</VFE_Monument.description>
+
+  <VFE_Relief.label>барельєф</VFE_Relief.label>
+  <VFE_Relief.description>Непрохідна стіна з художнім рельєфом на ній.</VFE_Relief.description>
+
+  <VFE_Pillar.label>колона</VFE_Pillar.label>
+  <VFE_Pillar.description>Непрохідна декоративна колона, здатна підтримувати дах.</VFE_Pillar.description>
+
+  <VFE_Obelisk.label>обеліск</VFE_Obelisk.label>
+  <VFE_Obelisk.description>Високий шматок матеріалу у формі обеліска з художнім твором, вирізаним з його боків.</VFE_Obelisk.description>
+
+  <VFE_Plinth.label>постамент</VFE_Plinth.label>
+  <VFE_Plinth.description>Невеликий постамент із художніми образами, вирізьбленими з його боків. Може використовуватись для зберігання різних предметів. Зберігані предмети не старітимуть, навіть якщо розташувати постамент поза приміщенням.</VFE_Plinth.description>
+
+  <VFE_DecorativePlantPot.label>декоративний квітковий горщик</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>Посадіть тут декоративні квіти, щоби покращити настрій людей навколо.</VFE_DecorativePlantPot.description>
+
+  <VFE_Wallpaper.label>шпалери</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>Непрохідна стіна з красивими шпалерами. Достатньо міцна, щоб підтримувати дах.</VFE_Wallpaper.description>
+
+</LanguageData>

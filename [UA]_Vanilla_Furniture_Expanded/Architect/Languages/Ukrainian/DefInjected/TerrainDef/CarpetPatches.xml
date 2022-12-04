@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_CarpetYellow.label>жовтий килим</VFEArch_CarpetYellow.label>
+  <VFEArch_CarpetYellow.description>Жовтий килим, що привертає увагу.</VFEArch_CarpetYellow.description>
+
+  <VFEArch_CarpetPurple.label>фіолетовий килим</VFEArch_CarpetPurple.label>
+  <VFEArch_CarpetPurple.description>Килим м'якого фіолетового кольору для затишної спальні.</VFEArch_CarpetPurple.description>
+
+  <VFEArch_CarpetWhite.label>білий килим</VFEArch_CarpetWhite.label>
+  <VFEArch_CarpetWhite.description>Корпоративний білий килим, що важко очищається.</VFEArch_CarpetWhite.description>
+
+  <VFEArch_CarpetDarkRed.label>темно-червоний килим</VFEArch_CarpetDarkRed.label>
+  <VFEArch_CarpetDarkRed.description>Килим затишного темного відтінку червоного.</VFEArch_CarpetDarkRed.description>
+
+  <VFEArch_CarpetOrange.label>помаранчевий килим</VFEArch_CarpetOrange.label>
+  <VFEArch_CarpetOrange.description>Ексцентричний помаранчевий килим для бізнес-залів.</VFEArch_CarpetOrange.description>
+
+  <VFEArch_CarpetGreenish.label>смарагдовий килим</VFEArch_CarpetGreenish.label>
+  <VFEArch_CarpetGreenish.description>Нейтральний смарагдовий килим, відмінно підходить для ночівлі та сніданків.</VFEArch_CarpetGreenish.description>
+
+  <VFEArch_CarpetBrown.label>коричневий килим</VFEArch_CarpetBrown.label>
+  <VFEArch_CarpetBrown.description>Килим промислових стандартів, що дешево виглядає, для не найвишуканіших місць.</VFEArch_CarpetBrown.description>
+
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_BrewingBarrel.label>пивна діжка</VFEPD_BrewingBarrel.label>
+    <VFEPD_BrewingBarrel.description>Велика порожня діжка для пива.</VFEPD_BrewingBarrel.description>
+
+    <VFEPD_Cooker.label>плита</VFEPD_Cooker.label>
+    <VFEPD_Cooker.description>Плита.</VFEPD_Cooker.description>
+
+    <VFEPD_Microwave.label>мікрохвильовка</VFEPD_Microwave.label>
+    <VFEPD_Microwave.description>Настільний мікрохвильовий пристрій.</VFEPD_Microwave.description>
+
+    <VFEPD_Oven.label>духовка</VFEPD_Oven.label>
+    <VFEPD_Oven.description>Духовка.</VFEPD_Oven.description>
+
+    <VFEPD_Fridge.label>холодильник</VFEPD_Fridge.label>
+    <VFEPD_Fridge.description>Великий холодильних.</VFEPD_Fridge.description>
+
+    <VFEPD_WaterDispenser.label>кулер для води</VFEPD_WaterDispenser.label>
+    <VFEPD_WaterDispenser.description>Офісне приладдя для втамування спраги.</VFEPD_WaterDispenser.description>
+
+    <VFEPD_FoodTrolley.label>візок для страв</VFEPD_FoodTrolley.label>
+    <VFEPD_FoodTrolley.description>Візок для страв.</VFEPD_FoodTrolley.description>
+
+    <VFEPD_KitchenSurface.label>кухонний стіл з дошкою</VFEPD_KitchenSurface.label>
+    <VFEPD_KitchenSurface.description>Проста кухонна поверхня з обробною дошкою.</VFEPD_KitchenSurface.description>
+
+    <VFEPD_KitchenSurfaceEmpty.label>кухонний стіл</VFEPD_KitchenSurfaceEmpty.label>
+    <VFEPD_KitchenSurfaceEmpty.description>Проста кухонна поверхня.</VFEPD_KitchenSurfaceEmpty.description>
+
+    <VFEPD_KitchenSink.label>кухонна мийка</VFEPD_KitchenSink.label>
+    <VFEPD_KitchenSink.description>Проста кухонна поверхня з раковиною.</VFEPD_KitchenSink.description>
+
+    <VFEPD_WineRack.label>винна шафа</VFEPD_WineRack.label>
+    <VFEPD_WineRack.description>Цивілізований стелаж для зберігання вина.</VFEPD_WineRack.description>
+
+    <VFEPD_MopBucket.label>відро для прибирання</VFEPD_MopBucket.label>
+    <VFEPD_MopBucket.description>Відро зі шваброю.</VFEPD_MopBucket.description>
+
+    <VFEPD_CookingAppliances.label>кухонне приладдя</VFEPD_CookingAppliances.label>
+    <VFEPD_CookingAppliances.description>Випадкове кухонне приладдя для приготування страв.</VFEPD_CookingAppliances.description>
+
+    <VFEPD_CuttingBoard.label>кухонна обробна дошка</VFEPD_CuttingBoard.label>
+    <VFEPD_CuttingBoard.description>Обробна дошка для приготування страв.</VFEPD_CuttingBoard.description>
+
+    <VFEPD_Knives.label>кухонні ножі</VFEPD_Knives.label>
+    <VFEPD_Knives.description>Набір кухонних ножів.</VFEPD_Knives.description>
+
+    <VFEPD_DinnerSet.label>порожній посуд</VFEPD_DinnerSet.label>
+    <VFEPD_DinnerSet.description>Порожній посуд в якому подаватимуть страву.</VFEPD_DinnerSet.description>
+
+    <VFEPD_Spices.label>спеції</VFEPD_Spices.label>
+    <VFEPD_Spices.description>Випадковий набір спецій для приготування страв.</VFEPD_Spices.description>
+
+</LanguageData>

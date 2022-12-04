@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VanillaBooksExpandedExpanded_PrintingPressManual.label>друкарський верстат</VanillaBooksExpandedExpanded_PrintingPressManual.label>
+  <VanillaBooksExpandedExpanded_PrintingPressManual.description>Механічний пристрій для застосування тиску до пофарбованої поверхні, що лежить на друкарському носії, такому як тканина, за допомогою перенесення чорнил. Може використовуватись для друку копій книг.</VanillaBooksExpandedExpanded_PrintingPressManual.description>
+
+  <VanillaBooksExpandedExpanded_PrintingPressElectric.label>електричний друкарський верстат</VanillaBooksExpandedExpanded_PrintingPressElectric.label>
+  <VanillaBooksExpandedExpanded_PrintingPressElectric.description>Складний елктрифікований механічний пристрій для застосування тиску до пофарбованої поверхні, що лежить на друкарському носії, такому як тканина, за допомогою перенесення чорнил. Через свої габарити та вагу, цей верстат не може бути перенесено після першого встановлення.</VanillaBooksExpandedExpanded_PrintingPressElectric.description>
+
+
+</LanguageData>

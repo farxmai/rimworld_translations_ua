@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Participants will get completely random results, with no regard for ritual quality. -->
+  <VME_DivineStarsRitualOutcome.description>Кожен учасник отримає свій випадковий результат, незалежно від якості ритуалу.</VME_DivineStarsRitualOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.label>соціальний вплив {PAWN_labelShort}</VME_DivineStarsRitualOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.labelAbstract>соціальний вплив промовця</VME_DivineStarsRitualOutcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_DivineStarsRitualOutcome.comps.1.label>кількість учасників</VME_DivineStarsRitualOutcome.comps.1.label>
+
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>незбагненно</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>Наша доля була відкрита зірками</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>незбагненно</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>Наша доля була відкрита зірками</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+</LanguageData>

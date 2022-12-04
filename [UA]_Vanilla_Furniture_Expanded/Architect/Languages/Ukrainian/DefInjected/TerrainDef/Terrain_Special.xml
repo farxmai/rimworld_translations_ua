@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_BridgeSandstone.label>міст із пісковика</VFEArch_BridgeSandstone.label>
+  <VFEArch_BridgeSandstone.description>Кам'яна споруда, яку можна розташовувати над водою. На кам'яних мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeSandstone.description>
+
+  <VFEArch_BridgeGranite.label>міст із граніту</VFEArch_BridgeGranite.label>
+  <VFEArch_BridgeGranite.description>Кам'яна споруда, яку можна розташовувати над водою. На кам'яних мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeGranite.description>
+
+  <VFEArch_BridgeLimestone.label>міст із вапняку</VFEArch_BridgeLimestone.label>
+  <VFEArch_BridgeLimestone.description>Кам'яна споруда, яку можна розташовувати над водою. На кам'яних мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeLimestone.description>
+
+  <VFEArch_BridgeSlate.label>міст із сланцю</VFEArch_BridgeSlate.label>
+  <VFEArch_BridgeSlate.description>Кам'яна споруда, яку можна розташовувати над водою. На кам'яних мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeSlate.description>
+
+  <VFEArch_BridgeMarble.label>міст із мармуру</VFEArch_BridgeMarble.label>
+  <VFEArch_BridgeMarble.description>Кам'яна споруда, яку можна розташовувати над водою. На кам'яних мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeMarble.description>
+
+  <VFEArch_BridgeSteel.label>сталевий міст</VFEArch_BridgeSteel.label>
+  <VFEArch_BridgeSteel.description>Надзвичайно міцна металева споруда, яку можна розташовувати над водою. На сталевих мостах можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Мости дозволяють полегшити будівництво у болотистих місцевостях.</VFEArch_BridgeSteel.description>
+
+  <VFEArch_ConcreteFoundation.label>бетонний фундамент</VFEArch_ConcreteFoundation.label>
+  <VFEArch_ConcreteFoundation.description>Фундаменти можна будувати на бруді, м'якому піску тощо. На фундаменті можна будувати різноманітні, включаючи важкі, конструкції та стіни будь-якого типу. Фундаменти дозволяють полегшити будівництво в болотистих та пустельних місцевостях. Підлога може бути побудована на фундаменті.</VFEArch_ConcreteFoundation.description>
+
+</LanguageData>

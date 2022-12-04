@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Backgrounds Expanded -->
+  <VBE>Vanilla Backgrounds Expanded</VBE>
+  <!-- EN: Randomize -->
+  <VBE.Randomize>Випадково</VBE.Randomize>
+  <!-- EN: Randomize background on game start -->
+  <VBE.Randomize.Desc>Показувати випадкову заставку</VBE.Randomize.Desc>
+  <!-- EN: Cycle -->
+  <VBE.Cycle>Циклічно</VBE.Cycle>
+  <!-- EN: Cycle background occasionally while in game -->
+  <VBE.Cycle.Desc>Циклічна зміна заставок</VBE.Cycle.Desc>
+  <!-- EN: Cycle time: -->
+  <VBE.CycleTime>Час циклу:</VBE.CycleTime>
+  <!-- EN: Toggle Backgrounds Being Shown -> -->
+  <VBE.ToggleBackgrounds>Обрати заставки -></VBE.ToggleBackgrounds>
+  <!-- EN: Select Background -> -->
+  <VBE.SelectBackground>Обрати заставку -></VBE.SelectBackground>
+  <!-- EN: Allow Animations -->
+  <VBE.AllowAnimated>З анімаціями</VBE.AllowAnimated>
+  <!-- EN: Allow animated backgrounds to be used. -->
+  <VBE.AllowAnimated.Desc>Дозволити використання анімацій в заставках</VBE.AllowAnimated.Desc>
+  <!-- EN: animated -->
+  <VBE.Animated>Анімована</VBE.Animated>
+  <!-- EN: A cool background -->
+  <VBE.NoDesc>Просто крута заставка</VBE.NoDesc>
+  <!-- EN: Open Backgrounds Folder -->
+  <VBE.OpenBackgrounds>Відкрити папку з заставками</VBE.OpenBackgrounds>
+  <!-- EN: RimThemes Compat -->
+  <VBE.RimThemes>Сумісність з RimThemes</VBE.RimThemes>
+  <!-- EN: Overwrite RimThemes backgrounds with the ones from this mod. -->
+  <VBE.RimThemes.Desc>Замінити фони з RimThemes фонами з цього моди.</VBE.RimThemes.Desc>
+  <!-- EN: Enable all -->
+  <VBE.AllowAll>Увімкнути все</VBE.AllowAll>
+  <!-- EN: Disable all -->
+  <VBE.DisallowAll>Вимкнуи все</VBE.DisallowAll>
+  <!-- EN: Better Loading Compat -->
+  <VBE.BetterLoading>Сумісність з Better Loading</VBE.BetterLoading>
+  <!-- EN: Patch better loading to switch control the background of it's display -->
+  <VBE.BetterLoading.Desc>Виправлення для Better Loading дозволяють моду змінювати його фон.</VBE.BetterLoading.Desc>
+  <!-- EN: Move progress bar -->
+  <VBE.BetterLoading.Move>Перемістити індикатор прогресу</VBE.BetterLoading.Move>
+  <!-- EN: Move the better loading progress bar to the bottom to better show the background image -->
+  <VBE.BetterLoading.Move.Desc>Перемістити індикатор прогресу вниз для кращого сприйняття фону.</VBE.BetterLoading.Move.Desc>
+  <!-- EN: Animate on load -->
+  <VBE.AnimatedLoad>Анімації під час запуску</VBE.AnimatedLoad>
+  <!-- EN: Show animations during initial game load. WARNING: In vanilla, these animations will freeze fequently. -->
+  <VBE.AnimatedLoad.Desc>Увімкнути анімацію для завантажувального екрана гри. Врахуйте: вони часто підвисатимуть.</VBE.AnimatedLoad.Desc>
+  <!-- EN: Show on load -->
+  <VBE.OnLoad>Показувати під час запуску</VBE.OnLoad>
+  <!-- EN: Show on initial game load. Requires a restart (obviously) -->
+  <VBE.OnLoad.Desc>Показувати обране тло під час запуску гри. Потребує перезапуску (очевидно!).</VBE.OnLoad.Desc>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>Навантаження</SandyMassCarried>
+  <SandyMassValue>{0} / {1} кг.</SandyMassValue>
+  <Sandy_ViewList>Показати списком</Sandy_ViewList>
+  <RPG_Inventory_Width>Ширина</RPG_Inventory_Width>
+  <RPG_Inventory_Height>Висота</RPG_Inventory_Height>
+  <RPG_Style_Inventory_Title>RPG Style Inventory</RPG_Style_Inventory_Title>
+  <RPG_Style_Inventory_ArmorHarmony>Магічний захист</RPG_Style_Inventory_ArmorHarmony>
+  <RPG_Display_All_Slots_Label>Показати всі слоти</RPG_Display_All_Slots_Label>
+  <RPG_Display_All_Slots_Note>Відображати всі підтримувані слоти, навіть якщо їх неможливо використовувати</RPG_Display_All_Slots_Note>
+  <Primary_Weapon>Основна зброя</Primary_Weapon>
+  <Secondary_Weapon>Ручна зброя</Secondary_Weapon>
+  <RPG_AutoFitWidth_Button_Label>Автопідбір ширини (найближчий)</RPG_AutoFitWidth_Button_Label>
+  <RPG_AutoFitWidth_Tight_Button_Label>Автопідбір ширини (щільно)</RPG_AutoFitWidth_Tight_Button_Label>
+  <RPG_AutoFitWidth_Wide_Button_Label>Автопідбір ширини (просторо)</RPG_AutoFitWidth_Wide_Button_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Label>Показувати комфортні температури в одному рядку</RPG_Dispaly_Temp_On_The_Same_Line_Label>
+  <RPG_Dispaly_Temp_On_The_Same_Line_Note></RPG_Dispaly_Temp_On_The_Same_Line_Note>
+  <Sandy_SimplifiedView>Просто</Sandy_SimplifiedView>
+  <RPG_Display_Apparel_Healthbar_Label>Показувати смужку цілості</RPG_Display_Apparel_Healthbar_Label>
+  <RPG_Display_Apparel_Healthbar_Note>Замінює динамічне тло цілості</RPG_Display_Apparel_Healthbar_Note>
+  <RPG_Colors_Changing>Змінити {0}</RPG_Colors_Changing>
+  <RPG_Colors_Apply>Застосувати</RPG_Colors_Apply>
+  <RPG_Colors_Red>Червоний: </RPG_Colors_Red>
+  <RPG_Colors_Green>Зелений: </RPG_Colors_Green>
+  <RPG_Colors_Blue>Синій: </RPG_Colors_Blue>
+  <RPG_Colors_Preview>Передпоказ: </RPG_Colors_Preview>
+  <RPG_Colors_Button_Label>Змінити</RPG_Colors_Button_Label>
+  <RPG_Color_Codes_Label>Показати рамки якості</RPG_Color_Codes_Label>
+  <RPG_Color_Codes_Note></RPG_Color_Codes_Note>
+  <RPG_Display_Background_Label>Показати тло предметів</RPG_Display_Background_Label>
+  <RPG_Display_Background_Note></RPG_Display_Background_Note>
+  <RPG_Display_Static_Slot_Background_Label>Показати базове тло</RPG_Display_Static_Slot_Background_Label>
+  <RPG_Display_Static_Slot_Background_Note></RPG_Display_Static_Slot_Background_Note>
+  <RPG_Frame2_Label>Використовувати товсті рамки</RPG_Frame2_Label>
+  <RPG_Frame2_Note></RPG_Frame2_Note>
+
+</LanguageData>

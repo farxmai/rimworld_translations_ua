@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mechanoid Utility Packs -->
+  <MechUtility.label>допоміжні системи механоїдів</MechUtility.label>
+  <!-- EN: Construct advanced utility items from mechanoid components. -->
+  <MechUtility.description>Створюйте вдосконалені корисні предмети з компонентів механоїдів.</MechUtility.description>
+  
+</LanguageData>

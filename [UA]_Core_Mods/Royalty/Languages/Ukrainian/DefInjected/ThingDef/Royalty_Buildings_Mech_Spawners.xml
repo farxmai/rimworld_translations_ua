@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mech assembler -->
+  <MechAssembler.label>збиральник механоїдів</MechAssembler.label>
+  <!-- EN: An automated mechanoid factory. It periodically assembles and deploys new mechanoids. -->
+  <MechAssembler.description>Автоматична фабрика зі збирання механоїдів. Періодично виробляє та запускає механоїдів.</MechAssembler.description>
+
+  <!-- EN: mech capsule -->
+  <MechCapsule.label>капсула з механоїдами</MechCapsule.label>
+  <!-- EN: A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened. -->
+  <MechCapsule.description>Капсула для зберігання та розгортання бойових механоїдів. Усередині знаходяться кілька механоїдів, які при пробудженні вирвуться з неї та вступлять у бій.</MechCapsule.description>
+
+  <!-- EN: mech drop beacon -->
+  <MechDropBeacon.label>маяк механоїдів</MechDropBeacon.label>
+  <!-- EN: A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby. -->
+  <MechDropBeacon.description>Маяк для виклику десантних підкріплень механоїдів. При активації викликає групу механоїдів у капсулах, що приземляться неподалік.</MechDropBeacon.description>
+
+</LanguageData>

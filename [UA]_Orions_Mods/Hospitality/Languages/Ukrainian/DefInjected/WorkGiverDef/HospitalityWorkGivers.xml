@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<Recruiter.label>заводити дружбу з гостями</Recruiter.label>
+	<Recruiter.verb>заводити дружбу</Recruiter.verb>
+	<Recruiter.gerund>заводити дружбу з </Recruiter.gerund>
+
+	<Diplomat.label>розважати гостей</Diplomat.label>
+	<Diplomat.verb>розважати</Diplomat.verb>
+	<Diplomat.gerund>розважати</Diplomat.gerund>
+
+	<Hospitality_WithdrawVendingMachineEarnings.label>спустошити торговий автомат</Hospitality_WithdrawVendingMachineEarnings.label>
+	<Hospitality_WithdrawVendingMachineEarnings.verb>спустошити торговий автомат</Hospitality_WithdrawVendingMachineEarnings.verb>
+	<Hospitality_WithdrawVendingMachineEarnings.gerund>спустошити торговий автомат</Hospitality_WithdrawVendingMachineEarnings.gerund>
+
+</LanguageData>

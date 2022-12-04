@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_StoneSlab.label>плита для сну</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>Велика плита з гладкого каменю, дуже незручна і лише трохи краще за сон на підлозі.</Bed_StoneSlab.description>
+
+  <Bed_Simple.label>просте ліжко</Bed_Simple.label>
+  <Bed_Simple.description>Такий собі матрац з подушкою на міцній рамі для більш-менш комфортного відпочинку.</Bed_Simple.description>
+
+</LanguageData>

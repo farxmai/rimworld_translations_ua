@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Anima Nexus tree -->
+  <Plant_TreeGauranlen.label>вузлове дерево душі</Plant_TreeGauranlen.label>
+  <!-- EN: A large, distinctive-looking tree with a unique life-cycle, warm, skin-smooth bark and long iridescent leaves. Infused with bioluminescent micro-organisms, anima trees develop a unique form of psychic symbiosis with surrounding lifeforms. Each Anima Nexus tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a tree and partially control the dryads it produces.\n\nSome say Anima Nexus trees are the homes of nature spirits that follow humanity across worlds. Tribal psycasters are also able to draw psyfocus from anima trees while meditating to them.\n\nAnima trees' psychic properties are weakened if artificial structures are placed nearby. They refuse to be caged or studied, and must remain part of nature. -->
+  <Plant_TreeGauranlen.description>Велике та незвичайне дерево з унікальним життєвим циклом. У нього тепла і гладка на дотик кора і довге листя, що переливається. Листя є домом для безлічі мікроорганізмів, що світяться. Дерева душі утворюють унікальну форму психічного симбіозу з оточуючими формами життя. У кожному вузловому дереві душі у несвідомому стані перебуває королева дріад. Вона породжує істот, званих дріадами, які доглядають дерево і охороняють його. В обмін на це, дерево піклується про своїх захисників, живлячи їх безпосередньо. З боку здається, що дріади є частиною дерева і створені безпосередньо їм.\n\nЛюдина може налагодити з деревом зв'язок і впливати на тип дріад, який воно породжує.\n\nДехто каже, що вузлове дерево душі — це будинок духу природи, який слідує за людиною, куди б він не попрямував. Псіоніки з племен можуть відновлювати свою псіконцентрацію, медитуючи поряд з деревами.\n\nПсихічний потенціал дерев слабшає, якщо поруч знаходяться рукотворні будівлі. Вони не переносять штучних кордонів та спроб вивчення, і мають залишатися частиною природи.</Plant_TreeGauranlen.description>
+
+  <!-- EN: Anima bush -->
+  <Plant_MossGauranlen.label>мох душі</Plant_MossGauranlen.label>
+  <!-- EN: Symbiotic bush infused with luminous microorganisms, often found growing around Anima Nexus trees. -->
+  <Plant_MossGauranlen.description>Симбіотичний мох, повний мікроорганізмів, що світяться, росте навколо вузлових древ душі.</Plant_MossGauranlen.description>
+
+  <!-- EN: Anima pod -->
+  <Plant_PodGauranlen.label>насіннєва капсула древа душі</Plant_PodGauranlen.label>
+  <!-- EN: A small pod that protects a single Anima seed. This seed can be harvested and used to plant an Anima Nexus tree. -->
+  <Plant_PodGauranlen.description>Капсула, що покриває одне насіння вузлового дерева душі. Його можна посадити, щоб виростити нове дерево.</Plant_PodGauranlen.description>
+
+  <!-- EN: Anima seed -->
+  <GauranlenSeed.label>насіння дерева душі</GauranlenSeed.label>
+  <!-- EN: The seed of an Anima Nexus tree. It can be planted to create a new Anima Nexus tree. -->
+  <GauranlenSeed.description>Насіння, що дозволяє виростити вузлове дерево душі.</GauranlenSeed.description>
+</LanguageData>

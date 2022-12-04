@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_GaussRevolver.label>болванка револьвера</VWEFT_Bullet_GaussRevolver.label>
+
+  <VWEFT_Gun_GaussRevolver.label>гаус-револьвер</VWEFT_Gun_GaussRevolver.label>
+  <VWEFT_Gun_GaussRevolver.description>Зроблений за космічними технологіями револьвер дозволяє відчути потужність високих технологій навіть у цій глушині. Масив котушок розганяє болванки до готовності пробити кілька голів, що вишикувалися в лінію. Як і інша зброя прикордоння, за чутками, вона здатна на неймовірно вдалі постріли.</VWEFT_Gun_GaussRevolver.description>
+  <VWEFT_Gun_GaussRevolver.tools.0.label>рукоятка</VWEFT_Gun_GaussRevolver.tools.0.label>
+  <VWEFT_Gun_GaussRevolver.tools.1.label>ствол</VWEFT_Gun_GaussRevolver.tools.1.label>
+
+  <VWEFT_Bullet_GaussRepeater.label>болванка дробовика</VWEFT_Bullet_GaussRepeater.label>
+
+  <VWEFT_Gun_GaussRepeater.label>гаус-дробовик</VWEFT_Gun_GaussRepeater.label>
+  <VWEFT_Gun_GaussRepeater.description>Дробовик, зроблений за космічними технологіями та стилізований під роботу зброярів індустріальних світів. Набір котушок розганяє болванки до запаморочливих швидкостей, дозволяючи їм пробивати багато шарів броні і плоті. Як і інша зброя прикордоння, за чутками, вона здатна на неймовірно вдалі постріли.</VWEFT_Gun_GaussRepeater.description>
+  <VWEFT_Gun_GaussRepeater.tools.0.label>ложа</VWEFT_Gun_GaussRepeater.tools.0.label>
+  <VWEFT_Gun_GaussRepeater.tools.1.label>ствол</VWEFT_Gun_GaussRepeater.tools.1.label>
+</LanguageData>

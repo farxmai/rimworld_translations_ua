@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 8 -->
+
+  <!-- EN: craft culture -->
+  <VME_CraftCulture.label>ремісництво</VME_CraftCulture.label>
+  <!-- EN: Один повинен aspire до тяжкості очистити в своїх кінчиків після довгого дня шопінгу. A talented blacksmith або tailor is to be dignified. -->
+  <VME_CraftCulture.description>Почесна справа - створювати щось до відчуття болю в пальцях після тривалого робочого дня. Бути талановитим ковалем або кравцем - гідне заняття.</VME_CraftCulture.description>
+
+  <VME_CraftCulture.generalRules.rulesStrings>
+    <li>memeAdjective->майстерний</li>
+    <li>memeAdjective->ремісничий</li>
+    <li>memeAdjective->ковальський</li>
+    <li>memeAdjective->виготовляючий</li>
+    <li>memeHyphenPrefix->ремісничо</li>
+    <li>memeConcept->ремесла</li>
+    <li>memeLeaderNoun->великий майстер</li>
+    <li>memeMoralist->кресляр</li>
+    <li>memeMoralist->крафтер</li>
+  </VME_CraftCulture.generalRules.rulesStrings>
+
+  <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CraftCulture) ->[deity0_name] Великий Ремісник, [deity0_pronoun] створив Всесвіт і створив перших людей з первісної глини.</li>
+    <li>episode(uses=1,tag=meme_CraftCulture) ->[deity0_name] сказав усім [memberNamePlural]: "Немає більш цінного дару, ніж створення, адже так ви слідуєте моїми кроками."</li>
+    <li>intro(tag=meme_CraftCulture) ->[memberNamePlural] побудували [altarName] на [place_summary] [place_name], звели монумент [deity0_name] славі та втілень умінь наших ремісників.</li>
+    <li>conflict(tag=meme_CraftCulture) ->Боярус на ім'я [foeLeader], прагнучи осоромити дітище [deity0_name], намагався знищити створене [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_CraftCulture) ->[deity0_name] благословив [founderName] рукотворним дивом, [relic0_name], який дозволив [founderName_objective] відновити шкоду, яку завдав [foeLeader], перш ніж вона буде втрачена назавжди.</li>
+    <li>victory(tag=meme_CraftCulture) ->[founderName] глянув на виснаженого [foeLeader], що поширився перед ним, і на обличчі [founderName_possessive] з'явилася усмішка: "Дура, ти не можеш нашкодити творам послідовників творчою силою [deity0_possessive], як і наші винаходи.".</li>
+    <li>setup(tag=meme_CraftCulture) ->Наш засновник, [founderName] був великим ремісником і не існувало такої машини, або предмета, які були б непідвладні рукам [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_CraftCulture) ->Послідовники [founder_possessive] прийшли до нього, щоб піднести йому хвалу за його неперевершені твори.</li>
+    <li>lessonIntro(tag=meme_CraftCulture) ->За всі мої роки, поки я створював ці чудові речі, я засвоїв один урок, який стоїть понад інші:</li>
+    <li>lesson(tag=meme_CraftCulture) ->Тільки створюючи, ми можемо вселити натхнення в наші душі, що знаходяться серед цього байдужого до нас Всесвіту.</li>
+    <li>lessonReinforcement(tag=meme_CraftCulture) ->Мертві не отримують турботи, але поки хтось може радіти тому, що ти створив - ти житимеш.</li>
+    <li>archistBasis(tag=meme_CraftCulture) ->Архотеки - не частина природи Всесвіту. Вони були створені. Вони рукотворні. І створили їх люди.</li>
+    <li>archistFact(tag=meme_CraftCulture) ->Мудрість архотеків перевершує будь-які межі і мудрість їх повинна поширюватися по Всесвіту так само, як поширюється життя, з моменту його народження.</li>
+    <li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], створюючи і вдосконалюючи такі рукотворні дива, як велика [relic0_name], ми у своїй майстерності наблизимося до забутих творців, які колись відкрили секрети архотехнології.</li>
+    <li>animistFact(tag=meme_CraftCulture) ->Духи потребують судин, які дозволять їм проявити себе в нашому світі. І створюючи чудові винаходи, ми даємо їм таку посудину.</li>
+    <li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] наслідуючи працьовитість комах, ми створюємо сотні і тисячі справді чудових творінь.</li>
+    <li>chthonianProphecy(tag=meme_CraftCulture)->Тільки пронизані таємними, нелюдськими знаннями винаходи зможуть дати нам хоча б примарний захист від безумства. Створюючи, ми прокладемо собі шлях порятунку.</li>
+    <li>esotericismProphecy(tag=meme_CraftCulture)->Вивчаючи те, як працюють химерні винаходи, ми зможемо розкрити секрети стародавніх і навіть зазирнути за межу того, що доступне людському розумінню.</li>
+    <li>eschatologismFact(tag=meme_CraftCulture)->Змініть моє слово: світ рухне і ми будемо творцями його кінця.</li>
+    <li>introMemo(tag=meme_CraftCulture)->Починаючи з наступного вівторка, будуть затверджені нові виробничі норми на кожній станції. Майте на увазі, що будь-які відхилення від встановлених норм спричиняють негайні дисциплінарні заходи, регульовані Посібником. Колеги, це не богадільня, ми тут для того, щоб ВИРОБЛЯТИ.</li>
+    <li>alienistProphecy(tag=meme_CraftCulture)->Всі ці заблукалі творіння рук людських - є невичерпна судина натхнення для наших власних винаходів.</li>
+  </VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Crafting -->
+  <VME_CraftCulture.symbolPacks.0.ideoName>Ремісництво</VME_CraftCulture.symbolPacks.0.ideoName>
+  <!-- EN: crafting -->
+  <VME_CraftCulture.symbolPacks.0.theme>ремісництва</VME_CraftCulture.symbolPacks.0.theme>
+  <!-- EN: crafting -->
+  <VME_CraftCulture.symbolPacks.0.adjective>ремісничий</VME_CraftCulture.symbolPacks.0.adjective>
+  <!-- EN: crafter -->
+  <VME_CraftCulture.symbolPacks.0.member>ремісник</VME_CraftCulture.symbolPacks.0.member>
+
+  <!-- EN: Making -->
+  <VME_CraftCulture.symbolPacks.1.ideoName>Майстерність</VME_CraftCulture.symbolPacks.1.ideoName>
+  <!-- EN: making -->
+  <VME_CraftCulture.symbolPacks.1.theme>майстерності</VME_CraftCulture.symbolPacks.1.theme>
+  <!-- EN: making -->
+  <VME_CraftCulture.symbolPacks.1.adjective>майстерний</VME_CraftCulture.symbolPacks.1.adjective>
+  <!-- EN: maker -->
+  <VME_CraftCulture.symbolPacks.1.member>майстер</VME_CraftCulture.symbolPacks.1.member>
+
+  <!-- EN: Artificing -->
+  <VME_CraftCulture.symbolPacks.2.ideoName>Артифакція</VME_CraftCulture.symbolPacks.2.ideoName>
+  <!-- EN: artificing -->
+  <VME_CraftCulture.symbolPacks.2.theme>артифакції</VME_CraftCulture.symbolPacks.2.theme>
+  <!-- EN: artificial -->
+  <VME_CraftCulture.symbolPacks.2.adjective>артифактний</VME_CraftCulture.symbolPacks.2.adjective>
+  <!-- EN: artificer -->
+  <VME_CraftCulture.symbolPacks.2.member>артифактор</VME_CraftCulture.symbolPacks.2.member>
+
+  <!-- EN: Tinkering -->
+  <VME_CraftCulture.symbolPacks.3.ideoName>Фабрицизм</VME_CraftCulture.symbolPacks.3.ideoName>
+  <!-- EN: tinkering -->
+  <VME_CraftCulture.symbolPacks.3.theme>фабрицизму</VME_CraftCulture.symbolPacks.3.theme>
+  <!-- EN: tinkering -->
+  <VME_CraftCulture.symbolPacks.3.adjective>фабричний</VME_CraftCulture.symbolPacks.3.adjective>
+  <!-- EN: tinkerer -->
+  <VME_CraftCulture.symbolPacks.3.member>робітник</VME_CraftCulture.symbolPacks.3.member>
+
+</LanguageData>

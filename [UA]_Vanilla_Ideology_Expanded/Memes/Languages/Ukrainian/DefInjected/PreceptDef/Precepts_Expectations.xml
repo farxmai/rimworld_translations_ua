@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: high -->
+  <VME_Expectations_High.label>високі</VME_Expectations_High.label>
+  <!-- EN: Our people are creatures of comfort, even the commoners among us deserve to relax or be pampered from time to time.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Expectations increased by 1 for everyone in the colony. -->
+  <VME_Expectations_High.description>Людина народжена для щастя, навіть простолюдини мають право час від часу відпочити і побалувати себе.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Для кожного у поселенні очікування підвищено на 1.</VME_Expectations_High.description>
+
+  <!-- EN: low -->
+  <VME_Expectations_Low.label>низькі</VME_Expectations_Low.label>
+  <!-- EN: The Rim is an inhospitable place. We shouldn't expect a comfy live.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Expectations lowered by 1 for everyone in the colony. -->
+  <VME_Expectations_Low.description>Крайовий світ - не надто гостинне місце. Тут не варто чекати комфорту.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Для кожного в поселенні очікування знижено на 1.</VME_Expectations_Low.description>
+</LanguageData>

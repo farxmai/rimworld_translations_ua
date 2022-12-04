@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DoBillsGrill.label>Готувати на грилі</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.verb>Готувати</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsGrill.gerund>Готувати</VCE_DoBillsGrill.gerund>
+
+  <VCE_DoBillsFryer.label>Готувати у фритюрі</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.verb>Готувати</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsFryer.gerund>Готувати</VCE_DoBillsFryer.gerund>
+
+  <VCE_DoBillsCanning.label>Консервувати</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.verb>Консервувати</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsCanning.gerund>Консервувати</VCE_DoBillsCanning.gerund>
+
+  <VCE_DoBillsPrep.label>Готувати припрви</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.verb>Готувати</VCE_DoBillsPrep.verb>
+  <VCE_DoBillsPrep.gerund>Готувати</VCE_DoBillsPrep.gerund>
+
+</LanguageData>

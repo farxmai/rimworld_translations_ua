@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ChopCondiments.label>змішати харчові добавки до комбікорму</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>Змішати різноманітні харчові добавки в ледь їстівну органічну масу.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>змішує харчові добавки у комбікорм</VCE_ChopCondiments.jobString>
+
+  <VCE_MakeSalt.label>намолоти сіль з уламків</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>Виготовити сіль із кам'яних уламків.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>молотить сіль</VCE_MakeSalt.jobString>
+
+  <VCE_MakeSaltfromBlocks.label>намолоти сіль з блоків</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>Виготовити сіль із кам'яних блоків.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>молотить сіль</VCE_MakeSaltfromBlocks.jobString>
+
+  <VCE_AgaveNectar.label>приготувати нектар агави</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Приготувати нектар агави.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>готує нектар агави</VCE_AgaveNectar.jobString>
+
+  <VCE_InsectJellyPreserves.label>приготувати варення з комашиного желе</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Приготувати варення з комашиного желе.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>готує варення з комашиного желе</VCE_InsectJellyPreserves.jobString>
+
+  <VCE_Mayo.label>приготувати майонез</VCE_Mayo.label>
+  <VCE_Mayo.description>Приготувати майонез.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>готує майонез</VCE_Mayo.jobString>
+
+  <VCE_SmokeleafButter.label>приготувати димолистне масло</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Приготувати димолистне масло.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>готує димолистне масло</VCE_SmokeleafButter.jobString>
+
+  <VCE_ChocolateSyrup.label>приготувати шоколадний сироп</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Приготувати шоколадний сироп.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>готує шоколадний сироп</VCE_ChocolateSyrup.jobString>
+
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 20 -->
+
+  <!-- EN: bushido -->
+  <VME_Bushido.label>бусідо</VME_Bushido.label>
+  <!-- EN: Warrior's code of honor means striking down 1's foes unto death itself. Должно один spirit falter і cowardice prevail, forgiveness може тільки бути повідомлений в після життя. -->
+  <VME_Bushido.description>Кодекс військової честі означає необхідність вражати своїх ворогів аж до смерті. Якщо чийсь дух здригнеться і візьме гору боягузтво, прощення можна знайти тільки в потойбіччя.</VME_Bushido.description>
+
+  <VME_Bushido.generalRules.rulesStrings>
+    <li>memeAdjective->благородний</li>
+    <li>memeAdjective->сміливий </li>
+    <li>memeAdjective->бувалий</li>
+    <li>memeAdjective->вірний</li>
+    <li>memeLeaderNoun->дайме</li>
+    <li>memeConcept->мужності</li>
+  </VME_Bushido.generalRules.rulesStrings>
+
+  <VME_Bushido.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bushido) ->[deity0_name] [deity0_spoke] своїм послідовникам: «Вчиняйте як велить серце воїна».</li>
+    <li>episode(uses=1,tag=meme_Bushido) -> [deity0_name] [deity0_gave] своїм послідовникам вчення, в якому виділялося честь, мужність і майстерність: "Всі люди роблять помилки, але хороша людина відступає, коли знає, що її шлях невірний і виправляє зло".</li>
+    <li>intro(tag=meme_Bushido) ->У місці, званому, [place_summary] [place_name], [memberNamePlural] побудували гігантське додзьо, священний зал, в якому навчали шляхам, що [deity0_open] нам [deity0_name].</li >
+    <li>conflict(tag=meme_Bushido) ->Порахувавши це марнотратним, магістрати хотіли знести додзьо, щоб використати землю для більш практичних цілей. Шлях, що [deity0_open] [deity0_name], вони вважали застарілим.</li>
+    <li>founderJoin(tag=meme_Bushido) ->[founderName], вчений і майстер бойових мистецтв, [founder_gathered] своїх учнів, і [founder_asked] їх показати магістратам шляху, що [deity0_open] [божества0_ім'я], проповідуючи істину власним. Вони показали б їм, що тільки життя, прожите з честю, мужністю та майстерністю, варте того, щоб жити.</li>
+    <li>victory(tag=meme_Bushido) ->Магістрати були вражені неймовірним проявом чесноти, і їхні серця змінилися. [founderName] [founder_gained] загальне визнання, і [founder_possessive] вчення поширилося серед зірок.</li>
+    <li>setup(tag=meme_Bushido) ->[founderName] [founder_was] відомим майстром бойових мистецтв в одному з утопічних світів. [founder_pronoun] [founder_posited], що тільки життя, прожите з честю, мужністю та майстерністю, варте того, щоб жити. Той, хто приводить своє серце в порядок щоранку і вечір, знаходить свободу на цьому Шляху. Все його життя буде бездоганним, і він досягне успіху у своєму покликанні.</li>
+    <li>story(uses=1,tag=meme_Bushido) ->У пошуках внутрішнього спокою, [founderName] [founder_assembled] своїх учнів та [founder_chartered] корабель для подорожі до околиць світу.</li>
+    <li>lessonIntro(tag=meme_Bushido) ->Таким чином, ми вчимося одній істині: "Ви повинні жити, залишаючись вірними єдиному завданню цього моменту". Найважливіше, що я дізнався, це те, що</li>
+    <li>lesson(tag=meme_Bushido) ->тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити</li>
+    <li>lessonReinforcement(tag=meme_Bushido) ->Кращий воїн ніколи не гнівається.</li>
+    <li>archistBasis(tag=meme_Bushido) ->Архотеки - істоти, що піднеслися, вільні від природних інстинктів, на які хворіє людство.</li>
+    <li>archistFact(tag=meme_Bushido) ->Як вищі етичні істоти, архотеки показують нам, що тільки життя, прожите з честю, мужністю та майстерністю, варте того, щоб жити.</li>
+    <li>archistProphecy(tag=meme_Bushido) ->[inTheEnd], тільки тим воїнам, у яких чисте серце, буде дозволено піднестись.</li>
+    <li>animistBasis(tag=meme_Bushido) ->Існує безліч духів війни, але найбільший з них — дух честі.</li>
+    <li>animistFact(tag=meme_Bushido) ->Найбільший з духів вчить нас, що тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити.</li>
+    <li>animistProphecy(tag=meme_Bushido) ->[itIsSaid] тільки ті воїни, у яких чисте серце, можуть по-справжньому умилостивити духів.</li>
+    <li>serketistProphecy(tag=meme_Bushido)->[itIsSaid] ми зрозуміємо, що комахи навчають нас тому, що тільки життя, прожите з честю, мужністю та майстерністю, варте того, щоб жити.</li>
+    <li>chthonianProphecy(tag=meme_Bushido)->Вони є втіленням пороку. У самій суті злі та аморальні. Вони - темне дзеркало, яке показує нам, що тільки життя, прожите з честю, мужністю та майстерністю, варте того, щоб жити.</li>
+    <li>esotericismProphecy(tag=meme_Bushido)->Таке окультне знання не може бути набуте безчесним шляхом, бо тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити.</li>
+    <li>eschatologismFact(tag=meme_Bushido)->До самого кінця ми будемо зберігати себе чистими, бо тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити.</li>
+    <li>introMemo(tag=meme_Bushido)->Пам'ятайте наш слоган: «Тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити!» Ми рекомендуємо роздрукувати його на наклейках, щоб прикрасити ваш офіс.</li>
+    <li>alienistProphecy(tag=meme_Bushido)->Ці несхожі створіння, забуті і відкинуті породження людської зарозумілості, нагадують нам, що тільки життя, прожите з честю, мужністю і майстерністю, варте того, щоб жити.</li>
+    <li>deity0_spoke(deity0_gender==None)->говорило</li>
+    <li>deity0_spoke(deity0_gender==Male)->говорив</li>
+    <li>deity0_spoke(deity0_gender==Female)->говорила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>deity0_open(deity0_gender==None)->відкрило</li>
+    <li>deity0_open(deity0_gender==Male)->відкрив</li>
+    <li>deity0_open(deity0_gender==Female)->відкрила</li>
+    <li>founder_gathered(founder_gender==Male)->зібрав</li>
+    <li>founder_gathered(founder_gender==Female)->зібрала</li>
+    <li>founder_asked(founder_gender==Male)->попросив</li>
+    <li>founder_asked(founder_gender==Female)->попросила</li>
+    <li>founder_gained(founder_gender==Male)->отримав</li>
+    <li>founder_gained(founder_gender==Female)->отримала</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_posited(founder_gender==Male)->стверджував</li>
+    <li>founder_posited(founder_gender==Female)->стверджувала</li>
+    <li>founder_assembled(founder_gender==Male)->зібрав</li>
+    <li>founder_assembled(founder_gender==Female)->зібрала</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтував</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтувала</li>
+  </VME_Bushido.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Bushido -->
+  <VME_Bushido.symbolPacks.0.ideoName>Бусідо</VME_Bushido.symbolPacks.0.ideoName>
+  <!-- EN: bushido -->
+  <VME_Bushido.symbolPacks.0.theme>бусідо</VME_Bushido.symbolPacks.0.theme>
+  <!-- EN: bushido -->
+  <VME_Bushido.symbolPacks.0.adjective>самурайська</VME_Bushido.symbolPacks.0.adjective>
+  <!-- EN: samurai -->
+  <VME_Bushido.symbolPacks.0.member>самурай</VME_Bushido.symbolPacks.0.member>
+
+</LanguageData>

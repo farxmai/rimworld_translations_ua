@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GeneralTitle>Загальне</GeneralTitle>
+  <!-- CSG -->
+  <CSGTitle>Створення власної структури</CSGTitle>
+  <CSGLog>Увімкнути журнал налагодження створення структури: </CSGLog>
+
+  <!-- Toggable patches -->
+  <TPTitle>Перемикання патчів</TPTitle>
+  <NeedRestart>Для застосування всіх налаштувань потрібно перезапустити</NeedRestart>
+  <XPatchFound>знайдно {0} патчів</XPatchFound>
+  <!-- Weather damages -->
+  <VEF.WeatherDamages>Погодні пошкодження</VEF.WeatherDamages>
+  <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+  <!-- Faction Discovery -->
+  <FDTitle>Відкриття фракції</FDTitle>
+  <NeedToBeInGame>Для початку завантажте файл збереження</NeedToBeInGame>
+  <AskForPopUp>Додати фракцію</AskForPopUp>
+  <AskForPopUpExplained>Натисніть це, щоб з'являлося повідомлення про додавання кожної окремої фракції, якщо ви хочете додати їх у свою гру</AskForPopUpExplained>
+  <CanAddXFaction>{0} фракцій може бути додано до вашого поточного файлу збереження</CanAddXFaction>
+
+  <VEF.DisableModSourceReport>Вимкнути звіт про мод в інформаційних картках</VEF.DisableModSourceReport>
+
+  <!-- EN: Search:  -->
+  <VEF.Shields.Search>Пошук: </VEF.Shields.Search>
+  <!-- EN: Reset mod settings to default -->
+  <VEF.Shields.ResetModSettingsToDefault>Скинути налаштування</VEF.Shields.ResetModSettingsToDefault>
+  <!-- EN: Set weapons to be usable or not usable with shields. -->
+  <VEF.Shields.ExplanationTitle>Увімкнути доступну зі щитами зброю.</VEF.Shields.ExplanationTitle>
+  <!-- EN: Show melee weapons -->
+  <VEF.Shields.ShowMeleeWeapons>Показати ближню</VEF.Shields.ShowMeleeWeapons>
+  <!-- EN: Show range weapons -->
+  <VEF.Shields.ShowRangeWeapons>Показать дальню</VEF.Shields.ShowRangeWeapons>
+
+</LanguageData>

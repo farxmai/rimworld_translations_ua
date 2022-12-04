@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_Gun_MakeshiftPistol.label>зробити кустарний пістолет</Make_VWE_Gun_MakeshiftPistol.label>
+  <Make_VWE_Gun_MakeshiftPistol.description>зробити кустарний пістолет.</Make_VWE_Gun_MakeshiftPistol.description>
+  <Make_VWE_Gun_MakeshiftPistol.jobString>Виготовляє кустарний пістолет</Make_VWE_Gun_MakeshiftPistol.jobString>
+
+  <Make_VWE_Gun_MakeshiftSMG.label>зробити кустарний ПК</Make_VWE_Gun_MakeshiftSMG.label>
+  <Make_VWE_Gun_MakeshiftSMG.description>зробити кустарний ПК.</Make_VWE_Gun_MakeshiftSMG.description>
+  <Make_VWE_Gun_MakeshiftSMG.jobString>Виготовляє кустарний ПК</Make_VWE_Gun_MakeshiftSMG.jobString>
+  
+  <Make_VWE_Gun_MakeshiftRifle.label>зробити кустарну гвинтівку</Make_VWE_Gun_MakeshiftRifle.label>
+  <Make_VWE_Gun_MakeshiftRifle.description>зробити кустарну гвинтівку.</Make_VWE_Gun_MakeshiftRifle.description>
+  <Make_VWE_Gun_MakeshiftRifle.jobString>Виготовляє кустарну гвинтівку</Make_VWE_Gun_MakeshiftRifle.jobString>
+
+  <Make_VWE_Gun_MakeshiftShotgun.label>зробити кустарний дробовик</Make_VWE_Gun_MakeshiftShotgun.label>
+  <Make_VWE_Gun_MakeshiftShotgun.description>зробити кустарний дробовик.</Make_VWE_Gun_MakeshiftShotgun.description>
+  <Make_VWE_Gun_MakeshiftShotgun.jobString>Виготовляє кустарний дробовик</Make_VWE_Gun_MakeshiftShotgun.jobString>
+
+  <Make_VWE_Gun_MakeshiftLMG.label>зробити кустарний ручний кулемет</Make_VWE_Gun_MakeshiftLMG.label>
+  <Make_VWE_Gun_MakeshiftLMG.description>зробити кустарний ручний кулемет.</Make_VWE_Gun_MakeshiftLMG.description>
+  <Make_VWE_Gun_MakeshiftLMG.jobString>Виготовляє кустарний ручний кулемет</Make_VWE_Gun_MakeshiftLMG.jobString>
+</LanguageData>

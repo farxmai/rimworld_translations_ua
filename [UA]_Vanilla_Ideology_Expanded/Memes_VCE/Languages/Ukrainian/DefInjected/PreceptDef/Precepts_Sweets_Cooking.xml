@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: craved -->
+  <VME_Sweets_Craved.label>бажано</VME_Sweets_Craved.label>
+  <!-- EN: Desserts and treats shouldn’t be withheld, sugary confections should be eaten at least every couple days. -->
+  <VME_Sweets_Craved.description>Не варто прибирати десерти та солодощі на верхню полицю. Кондитерські вироби необхідно їсти не рідше ніж раз на пару днів.</VME_Sweets_Craved.description>
+
+  <!-- EN: impartial -->
+  <VME_Sweets_Impartial.label>байдуже</VME_Sweets_Impartial.label>
+  <!-- EN: Sweets aren’t that great, they can easily be left behind. -->
+  <VME_Sweets_Impartial.description>Солодощі переоцінені. Можна обійтися без них.</VME_Sweets_Impartial.description>
+</LanguageData>

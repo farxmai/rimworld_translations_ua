@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<VPWE.GainedPersonaWeaponTitle>Синхронозброя {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+	<VPWE.GainedPersonaWeaponDesc>Отримав титул {1} в Імперії, {PAWN_nameDef} удостоюється особистої синхронозброї.
+Можна вибрати тип цієї зброї та повністю змінити її вигляд та вбудовану ІІ-особистість на свій смак. Однак можна закрити це повідомлення та повернутися до нього пізніше.
+Вибрана зброя буде негайно доставлена у транспортній капсулі та синхронізована з {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+	<VPWE.ClaimWeapon>Отримати {0}</VPWE.ClaimWeapon>
+	<VPWE.Postpone>Відкласти</VPWE.Postpone>
+	<VPWE.ClaimFor>Отримати для {PAWN_nameDef}</VPWE.ClaimFor>
+	<VPWE.Persona>Особистість: </VPWE.Persona>
+	<VPWE.AlreadyBondedWarning>{PAWN_nameDef} вже має синхронізацію з {1}. Ви точно хочете отримати нову синхронізацію?</VPWE.AlreadyBondedWarning>
+</LanguageData>

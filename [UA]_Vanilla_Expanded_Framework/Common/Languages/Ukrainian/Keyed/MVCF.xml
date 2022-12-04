@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MVCF.Toggle>Перемкнути {0}</MVCF.Toggle>
+    <MVCF.ToggleUsing>Автоматично перемикатися за допомогою {0}</MVCF.ToggleUsing>
+    <MVCF.ToggleAuto>Увімкнути автоматичне використання</MVCF.ToggleAuto>
+
+    <!-- EN: Still on cooldown. {0} left. -->
+    <MVCF.Cooldown>Перезаряджається. Залишилось: {0}.</MVCF.Cooldown>
+    <!-- EN: Multi-Verb Combat Framework -->
+    <MVCF.Setting>Multi-Verb Combat Framework</MVCF.Setting>
+    <!-- EN: Developer Mode -->
+    <MVCF.Settings.Debug>Режим розробника</MVCF.Settings.Debug>
+    <!-- EN: Log level: -->
+    <MVCF.Settings.LogLevel>Рівень логів:</MVCF.Settings.LogLevel>
+    <!-- EN: None -->
+    <MVCF.Settings.LogLevel.None>Відсутнє</MVCF.Settings.LogLevel.None>
+    <!-- EN: Important -->
+    <MVCF.Settings.LogLevel.Important>Важливе</MVCF.Settings.LogLevel.Important>
+    <!-- EN: Verbose -->
+    <MVCF.Settings.LogLevel.Verbose>Детальний</MVCF.Settings.LogLevel.Verbose>
+    <!-- EN: Silly -->
+    <MVCF.Settings.LogLevel.Silly>Надлишковий</MVCF.Settings.LogLevel.Silly>
+    <!-- EN: Tick -->
+    <MVCF.Settings.LogLevel.Tick>Кожен тік</MVCF.Settings.LogLevel.Tick>
+
+</LanguageData>

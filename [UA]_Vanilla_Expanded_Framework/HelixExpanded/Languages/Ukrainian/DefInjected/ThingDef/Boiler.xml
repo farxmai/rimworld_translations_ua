@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HelixienGasBoiler.label>газовий бойлер</HelixienGasBoiler.label>
+  <HelixienGasBoiler.description>Виробляє змінну кількість тепла для радіаторів і баків гарячої води. Ручне керування налаштуваннями потужності. Можна контролювати за допомогою термостата.</HelixienGasBoiler.description>
+
+</LanguageData>

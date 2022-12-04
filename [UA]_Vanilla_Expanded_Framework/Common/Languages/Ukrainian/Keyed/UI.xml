@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <VEF.Hire>Найняти {0}</VEF.Hire>
+    <VEF.HireDesc>Найміть {0} для допомоги в колонії, наприклад із захистом.</VEF.HireDesc>
+    <VEF.AvailableSilver>Наявне срібло: {0}</VEF.AvailableSilver>
+    <VEF.Value>Значення</VEF.Value>
+    <VEF.ChooseNumberOfUnits>Скільки треба?</VEF.ChooseNumberOfUnits>
+    <VEF.Breakdown>Занепад</VEF.Breakdown>
+    <VEF.DayAmount>Кількість днів</VEF.DayAmount>
+    <VEF.Cost>Вартість найму</VEF.Cost>
+    <VEF.RiskMult>Множник ризику</VEF.RiskMult>
+    <VEF.TotalPrice>Загальна сума</VEF.TotalPrice>
+    <VEF.HiringDesc>Ви можете найняти {0} на будь-який період часу. Ви можете одночасно мати лише один активний контракт, і ви не можете змішувати фракції, з яких ви наймаєте.
+Якщо найнятий {0} загине під час виконання обов’язків, ви отримаєте додаткове 5% збільшення ціни контракту за мертвого пірата за всіма майбутніми контрактами на цілий рік.</VEF.HiringDesc>
+    <VEF.LongTerm>Довгострокові контракти значно дорожчі</VEF.LongTerm>
+    <VEF.ContractInfo>Переглянути контракт із {0}</VEF.ContractInfo>
+    <VEF.PawnsList>Контракт:</VEF.PawnsList>
+    <VEF.ContractTitle>Контракт з {0}</VEF.ContractTitle>
+    <VEF.Spent>Витрачено срібла:</VEF.Spent>
+    <VEF.TimeLeft>Часу залишилося:</VEF.TimeLeft>
+    <VEF.CancelContract>Розірвати контракт</VEF.CancelContract>
+    <VEF.NoRefund>Скасування контракту не призведе до повернення срібла, яке ви витратили на нього.</VEF.NoRefund>
+    <VEF.Customize>Налаштувати {0}</VEF.Customize>
+    <VEF.CustomizationTitle>{0} Налаштування</VEF.CustomizationTitle>
+    <VEF.Name>Ім'я</VEF.Name>
+    <VEF.Cancel>Скасувати</VEF.Cancel>
+    <VEF.AvailableContracts>Доступні контракти: {0}</VEF.AvailableContracts>
+    <VEF.MechsSection>Механоїди</VEF.MechsSection>
+</LanguageData>

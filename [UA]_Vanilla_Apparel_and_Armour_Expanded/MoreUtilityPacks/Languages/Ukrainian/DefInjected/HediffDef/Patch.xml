@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+
+		<SGC_CommandTowerHediff.label>переносний радіокомплект</SGC_CommandTowerHediff.label>
+		<SGC_CommandTowerHediff.labelNoun>переносний радіокомплект</SGC_CommandTowerHediff.labelNoun>
+		<SGC_CommandTowerHediff.description>Переносний радіокомплект дає змогу командувати найближчими союзниками!</SGC_CommandTowerHediff.description>
+
+		<SGC_CommandTowerHiddenHediff.label>переносний радіокомплект</SGC_CommandTowerHiddenHediff.label>
+		<SGC_CommandTowerHiddenHediff.labelNoun>переносний радіокомплект</SGC_CommandTowerHiddenHediff.labelNoun>
+		<SGC_CommandTowerHiddenHediff.description>Переносний радіокомплект дає змогу командувати найближчими союзниками!</SGC_CommandTowerHiddenHediff.description>
+
+		<CommandTowerBuff.label>польове командування</CommandTowerBuff.label>
+		<CommandTowerBuff.description>Завдяки знаходженню біля командира певною мірою підвищилася бойова здатність.</CommandTowerBuff.description>
+
+		<SGC_CombatMechPackHediff.label>механоїдний набір посилення</SGC_CombatMechPackHediff.label>
+		<SGC_CombatMechPackHediff.labelNoun>механоїдний набір посилення</SGC_CombatMechPackHediff.labelNoun>
+		<SGC_CombatMechPackHediff.description>Переносний нейроінтерфейс інтегрований в організм користувача, який розширює його можливості.</SGC_CombatMechPackHediff.description>
+
+
+	</LanguageData>

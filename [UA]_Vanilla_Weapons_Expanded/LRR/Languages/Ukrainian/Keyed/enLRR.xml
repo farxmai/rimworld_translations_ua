@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UnloadWeapon>Розрядити {GEAR_labelShort}</UnloadWeapon>
+  <Reloading.NoAmmo>Розряджено</Reloading.NoAmmo>
+  <Reloading.Ammo>Заряджено: {0} / {1}</Reloading.Ammo>
+
+</LanguageData>

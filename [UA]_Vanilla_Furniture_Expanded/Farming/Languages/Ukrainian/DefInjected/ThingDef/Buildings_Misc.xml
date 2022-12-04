@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Scarecrow.label>лякало</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Гуманоїдна фігура, зроблена з сіна і одягнена в старий одяг, створюється для залякування тварин. Невеликі тварини боятимуться і не наближатимуться.</VFE_Scarecrow.description>
+
+  <VFE_AnimalFeeder.label>годівниця для тварин</VFE_AnimalFeeder.label>
+  <VFE_AnimalFeeder.description>Годівниця. Зберігаюча їжа не старітиме, навіть якщо розташувати годівницю поза приміщенням.</VFE_AnimalFeeder.description>
+
+  <VFE_Sprinkler.label>розбризкувач</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Розбризкувач води, що може автоматично поливати зону навколо себе, збільшуючи швидкість, з якою зростають рослини.</VFE_Sprinkler.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <FF_BasicMedicineProduction.label>Базові медикаменти</FF_BasicMedicineProduction.label>
+    <FF_BasicMedicineProduction.description>Виготовляйте прості ліки з лікувальних рослин, деревини та тканини.</FF_BasicMedicineProduction.description>
+
+    <FF_AntidepressantProduction.label>Виробництво антидепресантів</FF_AntidepressantProduction.label>
+    <FF_AntidepressantProduction.description>Приготуйте антидепресант – препарат, що викликає легку ейфорію, який використовується для протидії депресії.</FF_AntidepressantProduction.description>
+
+    <FF_PainkillerProduction.label>Виробництво знеболювальних</FF_PainkillerProduction.label>
+    <FF_PainkillerProduction.description>Приготуйте знеболювальне - болезаспокійливий препарат, що полегшує біль. Корисно поселенцям із болючими шрамами.</FF_PainkillerProduction.description>
+
+    <FF_ScytheProduction.label>Виробництво імуностимуляторів</FF_ScytheProduction.label>
+    <FF_ScytheProduction.description>Приготуйте "Косу" - імуностимулятор, який різко зміцнює імунну систему за рахунок введення пацієнта в кому.</FF_ScytheProduction.description>
+
+    <FF_OverclockProduction.label>Виробництво стимуляторів</FF_OverclockProduction.label>
+    <FF_OverclockProduction.description>Приготуйте "Розгін" - лікувальну суміш, що самоін'єктується, яка прискорює метаболізм, збільшує рухливість і продуктивність, але зменшує витривалість.</FF_OverclockProduction.description>
+
+    <FF_EctostasisProduction.label>Виробництво стабілізаторів</FF_EctostasisProduction.label>
+    <FF_EctostasisProduction.description>Приготуйте ектостаз - гомеостатичний препарат, який використовує механітів запрограмованих на підтримку базових функцій організму на початковому рівні.</FF_EctostasisProduction.description>
+
+    <FF_SorrowProduction.label>Виробництво заспокійливих</FF_SorrowProduction.label>
+    <FF_SorrowProduction.description>Приготуйте "Смуток" - заспокійливий засіб, який використовується, щоб спричинити стан катарсичного смутку.</FF_SorrowProduction.description>
+
+    <FF_FibrodustProduction.label>Виробництво кровозупиняючих</FF_FibrodustProduction.label>
+    <FF_FibrodustProduction.description>Приготуйте кровозупиняюючу присипку – коагулянт, який тимчасово зупиняє кровотечу, але може спричинити проблеми із серцево-судинною системою.</FF_FibrodustProduction.description>
+
+    <FF_NeodermProduction.label>Виробництво заживляючої мазі</FF_NeodermProduction.label>
+    <FF_NeodermProduction.description>Приготуйте Неодерм - мазь, що регенерує, яка з часом болісно загоює шкірні рубці.</FF_NeodermProduction.description>
+
+</LanguageData>
+ 

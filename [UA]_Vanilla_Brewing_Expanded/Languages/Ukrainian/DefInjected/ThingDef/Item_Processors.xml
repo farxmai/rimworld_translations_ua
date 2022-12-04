@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SodaFountain.label>сатуратор</VBE_SodaFountain.label>
+  <VBE_SodaFountain.description>Універсальна установка для виробництва содової. Сироп ретельно змішують із водою, газують, а потім глибоко охолоджують перед розливом у стерилізовані пляшки.</VBE_SodaFountain.description>
+
+  <VBE_AmbrandyDistillery.label>дистилятор амбренді</VBE_AmbrandyDistillery.label>
+  <VBE_AmbrandyDistillery.description>Дистилятор для дозрівання амбренді із сусла амбренді.</VBE_AmbrandyDistillery.description>
+
+  <VBE_WhiskeyCask.label>бочка для віскі</VBE_WhiskeyCask.label>
+  <VBE_WhiskeyCask.description>Бочка для дозрівання віскі із сусла віскі.</VBE_WhiskeyCask.description>
+
+  <VBE_TequilaBarrel.label>дистилятор текіли</VBE_TequilaBarrel.label>
+  <VBE_TequilaBarrel.description>Дистилятор для дозрівання текіли із сусла текіли.</VBE_TequilaBarrel.description>
+
+  <VBE_VodkaDrum.label>дистилятор горілки</VBE_VodkaDrum.label>
+  <VBE_VodkaDrum.description>Дистилятор для створення горілки із сусла горілки.</VBE_VodkaDrum.description>
+
+  <VBE_GinStill.label>дистилятор джину</VBE_GinStill.label>
+  <VBE_GinStill.description>Дистилятор для дозрівання джину із сусла джину.</VBE_GinStill.description>
+
+</LanguageData>

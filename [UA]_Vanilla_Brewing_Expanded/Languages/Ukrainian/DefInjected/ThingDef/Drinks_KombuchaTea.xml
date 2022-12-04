@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Kombucha.label>чай комбуча</VBE_Kombucha.label>
+  <VBE_Kombucha.description>Солодкий чай, залишений для ферментації, а після стає кисло-солодкий чаєм, іноді навіть природно газовании, відомим як комбуча.</VBE_Kombucha.description>
+  <VBE_Kombucha.ingestible.ingestCommandString>Випити {0}</VBE_Kombucha.ingestible.ingestCommandString>
+  <VBE_Kombucha.ingestible.ingestReportString>п'є {0}</VBE_Kombucha.ingestible.ingestReportString>
+
+
+</LanguageData>

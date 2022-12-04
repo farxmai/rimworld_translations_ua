@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no pain sensitivity -->
+  <VPE_NoPain.label>блокування болю</VPE_NoPain.label>
+  <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VPE_NoPain.description>Цільова істота має знижену чутливість до болю, тому портібно більше ударів щоб вона впала.</VPE_NoPain.description>
+</LanguageData>

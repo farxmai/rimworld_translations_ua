@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 19 -->
+
+  <!-- EN: fire worship -->
+  <VME_FireWorship.label>культ вогню</VME_FireWorship.label>
+  <!-- EN: Слухаючи flame breathes життя в цій планеті і багато інших, як це, може йти на користь для salvation і може бути скинути наші емоції до ash. -->
+  <VME_FireWorship.description>Священне полум'я вдихає життя в цю планету і в багато інших, подібних до неї. Нехай воно приведе нас до спасіння і оберне наших ворогів у попіл.</VME_FireWorship.description>
+
+  <VME_FireWorship.generalRules.rulesStrings>
+    <li>memeAdjective->палаюча </li>
+    <li>memeAdjective->вогняний</li>
+    <li>memeAdjective->палаючий </li>
+    <li>memeAdjective->полум'яний</li>
+    <li>memeAdjective->тліючий</li>
+    <li>memeHyphenPrefix->вогні</li>
+    <li>memeLeaderNoun->запальник</li>
+    <li>memeLeaderNoun->факел</li>
+    <li>memeLeaderNoun->великий палій</li>
+    <li>memeConcept->вогню</li>
+  </VME_FireWorship.generalRules.rulesStrings>
+
+  <VME_FireWorship.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FireWorship) ->[deity0_name] вселяло в послідовників [deity0_infused] священне полум'я: «І герой, і боягуз відчувають один і той же страх, тільки герой протистоїть своєму страху і перетворює його на вогонь».</li>
+    <li>episode(uses=1,tag=meme_FireWorship) ->Наслідуючи вчення [deity0_name] [deity0_gave] ми зрозуміли, що вогонь не знищує, він загартовує.</li>
+    <li>intro(tag=meme_FireWorship) ->У місці, званому, [place_summary] [place_name], [memberNamePlural] склали величезне багаття, присвячене [deity0_god] вогню на ім'я [deity0_name].</li>
+    <li>conflict(tag=meme_FireWorship) ->[foe_envious] [foeLeader] [foe_saw] вогнище на горизонті і [foe_wanted] погасити його полум'я.</li>
+    <li>founderJoin(tag=meme_FireWorship) ->Наражаючись на велику небезпеку, [founderName], [founder_acolyte] [deity0_god1] вогню на ім'я [deity0_name], вночі [founder_infiltrated] у табір, де спали [foeSoldiers], та [founder_ablaze] намети.</li>
+    <li>victory(tag=meme_FireWorship) ->[memberNamePlural] ніколи не забували болісних криків палаючих солдатів. Обвуглені трупи були кинуті в багаття, як попередження всім, хто знову спробує кинути виклик волі вогню [deity0_god] на ім'я [deity0_name].</li>
+    <li>setup(tag=meme_FireWorship) ->[founderName] у юності [founder_was1] у в'язницю за [founder_possessive] передбачувані злочини. [founder_possessive] називали палієм. Але тюремники не могли розглянути, що [founder_pronoun] насправді [founder_was] є провидцем і пророком. [founderName_pronoun] [founder_saw] приховані написи всередині всіх мов полум'я.</li>
+    <li>story(uses=1,tag=meme_FireWorship) ->Маленька іскра може розпалити велику пожежу. Філософія, яку [founder_formulated] [founderName] стала головною школою думки, і поширилася серед зірок.</li>
+    <li>lessonIntro(tag=meme_FireWorship) ->Я знайшов їх серед попелу: почорнілі, обвуглені останки, понівечені до невпізнання. Це було сумно, але я попереджав їх, що</li>
+    <li>lesson(tag=meme_FireWorship) ->вогонь ніколи не буває ласкавим господарем</li>
+    <li>lessonReinforcement(tag=meme_FireWorship) ->Найсильніші уроки дістаються з найглибшої води та найжаркішого вогню.</li>
+    <li>archistBasis(tag=meme_FireWorship) ->Архотеки мудрі, чисті. Вони виявляють нам себе в найвідчутнішій з усіх видимих ​​таємниць — вогні.</li>
+    <li>archistFact(tag=meme_FireWorship) ->Кажуть, що світ, який вступає в трансцендентність, покритий пожежами, що охоплюють усі континенти. Містичний вогонь, який не винищує, а збирає душі, щоб дозволити їм піднестись.</li>
+    <li>archistProphecy(tag=meme_FireWorship) ->[inTheEnd], тільки тим, хто гідний священного вогню, буде дозволено розвинутися за межі свого людського «я».</li>
+    <li>animistBasis(tag=meme_FireWorship) ->Немає духу сильнішого, ніж дух вогню. Усі інші духи підпорядковані йому.</li>
+    <li>animistFact(tag=meme_FireWorship) ->Вогняне полум'я, що коливається, пропонує нам заглянути в світ духів, оскільки воно являє собою перетворення дерева в попіл.</li>
+    <li>animistProphecy(tag=meme_FireWorship) ->[itIsSaid] тільки ті, хто поклоняються вогню, зможуть умилостивити духів.</li>
+    <li>serketistProphecy(tag=meme_FireWorship)->[itIsSaid]ми будемо подібні до жука-пожежника, якого тягне до вогню як джерела всього життя.</li>
+    <li>chthonianProphecy(tag=meme_FireWorship)->Оволодівши священним вогнем і керуючи ним, ми могли б вислизнути від цих космічних чудовиськ і, можливо, спалити їх вщент, якщо вони вирішать покінчити з нами.</li>
+    <li>esotericismProphecy(tag=meme_FireWorship)->Вивчення священного полум'я принесе дороге розуміння природи Всесвіту, оскільки вогонь - це найвищий, найчистіший вираз ентропії.</li>
+    <li>eschatologismFact(tag=meme_FireWorship)->Ми будемо дивитися, як все це горить.</li>
+    <li>introMemo(tag=meme_FireWorship)->Нагадуючи, що навчання з евакуації при пожежі цього тижня заплановані на годину раніше, ніж звичайно. Ми дуже серйозно ставимося до заходів безпеки: вогонь може бути священним, але обгорілий співробітник шкодить прибутку.</li>
+    <li>alienistProphecy(tag=meme_FireWorship)->Всі ці несхожі створіння, забуті твори людства, послужать розпалюванням для полум'я.</li>
+    <li>deity0_infused(deity0_gender==None)->вдихнуло</li>
+    <li>deity0_infused(deity0_gender==Male)->вдихнув</li>
+    <li>deity0_infused(deity0_gender==Female)->вдихнула</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>deity0_god(deity0_gender==None)->божеству</li>
+    <li>deity0_god(deity0_gender==Male)->богу</li>
+    <li>deity0_god(deity0_gender==Female)->богині</li>
+    <li>foe_envious(foeLeader_gender==Male)->заздрісний</li>
+    <li>foe_envious(foeLeader_gender==Female)->заздрісна</li>
+    <li>foe_saw(foeLeader_gender==Male)->побачив</li>
+    <li>foe_saw(foeLeader_gender==Female)->побачила</li>
+    <li>foe_wanted(foeLeader_gender==Male)->захотів</li>
+    <li>foe_wanted(foeLeader_gender==Female)->захотіла</li>
+    <li>founder_acolyte(founder_gender==Male)->послушник</li>
+    <li>founder_acolyte(founder_gender==Female)->послушниця</li>
+    <li>deity0_god1(deity0_gender==None)->божества</li>
+    <li>deity0_god1(deity0_gender==Male)->бога</li>
+    <li>deity0_god1(deity0_gender==Female)->богині</li>
+    <li>founder_infiltrated(founder_gender==Male)->прокрався</li>
+    <li>founder_infiltrated(founder_gender==Female)->прокралася</li>
+    <li>founder_ablaze(founder_gender==Male)->підпал</li>
+    <li>founder_ablaze(founder_gender==Female)->підпалила</li>
+    <li>founder_was1(founder_gender==Male)->заключений</li>
+    <li>founder_was1(founder_gender==Female)->була укладена</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_saw(founder_gender==Male)->побачив</li>
+    <li>founder_saw(founder_gender==Female)->побачила</li>
+    <li>founder_formulated(founder_gender==Male)->сформулював</li>
+    <li>founder_formulated(founder_gender==Female)->сформулювала</li>
+  </VME_FireWorship.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Fire Worship -->
+  <VME_FireWorship.symbolPacks.0.ideoName>Культ вогню</VME_FireWorship.symbolPacks.0.ideoName>
+  <!-- EN: fire worshipping -->
+  <VME_FireWorship.symbolPacks.0.theme>культу вогню</VME_FireWorship.symbolPacks.0.theme>
+  <!-- EN: fire worshipping -->
+  <VME_FireWorship.symbolPacks.0.adjective>вогнепоклонницький</VME_FireWorship.symbolPacks.0.adjective>
+  <!-- EN: fire worshipper -->
+  <VME_FireWorship.symbolPacks.0.member>вогнеприхильник</VME_FireWorship.symbolPacks.0.member>
+
+</LanguageData>

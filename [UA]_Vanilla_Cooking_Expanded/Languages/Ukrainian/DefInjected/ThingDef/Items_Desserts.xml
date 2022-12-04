@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleDessert.label>простий десерт</VCE_SimpleDessert.label>
+  <VCE_SimpleDessert.description>Простий десерт, швидко виготовлений з кількох інгредієнтів.</VCE_SimpleDessert.description>
+
+  <VCE_FineDessert.label>чудовий десерт</VCE_FineDessert.label>
+  <VCE_FineDessert.description>Комплексний десерт, обережно створений із широкого асортименту інгредієнтів.</VCE_FineDessert.description>
+
+  <VCE_LavishDessert.label>вишуканий десерт</VCE_LavishDessert.label>
+  <VCE_LavishDessert.description>Цей шедевр кулінарного мистецтва живить тіло, розум та душу.</VCE_LavishDessert.description>
+
+  <VCE_GourmetDessert.label>першокласний десерт</VCE_GourmetDessert.label>
+  <VCE_GourmetDessert.description>Вершина кулінарного мистецтва.</VCE_GourmetDessert.description>
+
+</LanguageData>

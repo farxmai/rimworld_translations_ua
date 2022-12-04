@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_DrugCabinet.label>шафа для хімічної лабораторії</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Збільшує швидкість роботи. Має бути розташований неподалік хімічної лабораторії. До однієї хімічної лабораторії можуть бути прив'язані не більше двох шаф для хімічної лабораторії.</VFE_DrugCabinet.description>
+
+  <VFE_MachiningCabinet.label>шафа для верстата</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Збільшує швидкість роботи. Має бути розташований неподалік верстата. До одного верстата можуть бути прив'язані не більше двох шаф для верстата.</VFE_MachiningCabinet.description>
+
+  <VFE_SmithyCabinet.label>шафа для кузні</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Збільшує швидкість роботи. Має бути розташований неподалік кузні. До однієї кузні можуть бути прив'язані не більше двох шаф для кузні.</VFE_SmithyCabinet.description>
+
+  <VFE_KitchenSinkCabinet.label>кухонна раковина</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Збільшує швидкість роботи. Повинна бути розміщена неподалік плити. До однієї плити може бути прив'язана лише одна кухонна раковина.</VFE_KitchenSinkCabinet.description>
+
+  <VFE_TailorCabinet.label>шафа для столу кравця</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Збільшує швидкість роботи. Повинен бути розташований неподалік швейного робочого місця. До одного швейного робочого місця можуть бути прив'язані не більше двох швейних шаф.</VFE_TailorCabinet.description>
+
+  <VFE_FabricationCabinet.label>шафа для виробничого верстата</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Збільшує швидкість роботи. Повинен бути розташований неподалік високоточного верстата. До високоточного верстата можуть бути прив'язані не більше двох шаф для високоточного верстата.</VFE_FabricationCabinet.description>
+
+</LanguageData>

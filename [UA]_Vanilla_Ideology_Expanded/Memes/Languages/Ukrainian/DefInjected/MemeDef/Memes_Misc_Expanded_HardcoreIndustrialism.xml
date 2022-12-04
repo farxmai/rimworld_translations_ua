@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 4 -->
+
+  <!-- EN: industrialism -->
+  <VME_HardcoreIndustrialism.label>індустріалізм</VME_HardcoreIndustrialism.label>
+  <!-- EN: Work gives a man dignity. Тільки через hard work and being productive can a person really grow. -->
+  <VME_HardcoreIndustrialism.description>Праця дає людині гідність. Тільки завдяки завзятій та плідній праці людина може по-справжньому зростати.</VME_HardcoreIndustrialism.description>
+
+  <VME_HardcoreIndustrialism.generalRules.rulesStrings>
+    <li>memeAdjective->високоурожайний</li>
+    <li>memeAdjective->продуктивний</li>
+    <li>memeAdjective->плідний</li>
+    <li>memeAdjective->творчий</li>
+    <li>memeAdjective->енергійний</li>
+    <li>memeConcept->виробництва</li>
+    <li>memeLeaderNoun->індустріаліст</li>
+    <li>memeMoralist->бригадир</li>
+  </VME_HardcoreIndustrialism.generalRules.rulesStrings>
+
+  <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HardcoreIndustrialis)       ->[deity0_name] спонукав послідовників [deity0_possessive] до роботи, бо немає нічого святішого завзяття.</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis) ->[deity0_name] сказав усім [memberNamePlural], "Секретів успіху не існує. Це результат підготовки, наполегливої ​​праці та отримання уроків з невдач".</li>
+    <li>intro(tag=meme_HardcoreIndustrialis)          ->[memberNamePlural] побудували чудовий [altarName] у [place_summary] [place_name], чудовий центр для заводів, які випускали величезну кількість готової продукції.</li>
+    <li>conflict(tag=meme_HardcoreIndustrialis)       ->Боягуз [foeLeader], прагнув заперечувати нашу віру [deity0_name], намагалися саботувати наші заводські лінії, але наша стійкість була непохитною.</li>
+    <li>founderJoin(tag=meme_HardcoreIndustrialis)    ->[deity0_name] благословив [place_job] іменоване [founderName] з [foeLeader_possessive] божественною силою, що зробила його найбільшим мануфактором з будь-коли відомих.</li>
+    <li>setup(tag=meme_HardcoreIndustrialis)          ->Наш розділ [founderName] був генієм. Промисловцем та філантропом, якому були подібні нафтові барони давнини.</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)   ->Там були нескінченні фабрики, побудовані руками [founder_possessive]. Над кожним входом висіла вивіска з єдиним девізом: "Наполегливою працею і старанням можна досягти чого завгодно".</li>
+    <li>lessonIntro(tag=meme_HardcoreIndustrialis)    ->Всі ми засвоїли один життєво важливий урок:</li>
+    <li>lesson(tag=meme_HardcoreIndustrialis)         ->як тільки ми повіримо, що успіх визначається укоріненим рівнем здібностей, а не стійкістю і працьовитістю, ми станемо крихкими перед труднощами</li>
+    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->І саме тому наполеглива праця завжди окупається, чим би ви не займалися.</li>
+    <li>archistBasis(tag=meme_HardcoreIndustrialis)   ->Архотеки це вершина технології, і тільки завдяки наполегливій роботі ми можемо наблизитися до їх досконалості.</li>
+    <li>archistFact(tag=meme_HardcoreIndustrialis)    ->З наших заводів ллється сто тисяч тонн пласталі. Перемога промисловості над природою.</li>
+    <li>archistProphecy(tag=meme_HardcoreIndustrialis)->[inTheEnd], ми досить розумні щоб розкрити секрети передових технологій [relic0_name].</li>
+    <li>animistFact(tag=meme_HardcoreIndustrialis)    ->Якщо існують духи природи, то логічно припустити, що повинні існувати і духи машин.</li>
+    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)   ->[itIsSaid] Ми станемо такими ж стійкими та продуктивними як наші улюблені комахи.</li>
+    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)   ->Тільки наполегливою працею ми можемо врятуватися від цих страшних демонів. Наша завзятість стане їхньою загибеллю.</li>
+    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis) ->Наші машини будуть пронизані окультною магією, це буде потужний двигун творення, який відкриє новий світ достатку.</li>
+    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)   ->Наші фабрики заполонять небо і задушать все живе. Їхня шкіра відокремиться від кісток і згорить у вогні промисловості.</li>
+    <li>introMemo(tag=meme_HardcoreIndustrialis)           ->До моєї інформації дійшло, що наші виробничі квоти знизилися на 4,56% порівняно з минулим кварталом. Це неприпустимо, і я вірю, що ви працюватимете старанніше, ніж будь-коли, щоб збільшити нашу пропускну здатність до бажаного рівня.</li>
+    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)    ->Всі ці дивовижні істоти показують нам, чого може досягти винахідливість людства завдяки завзятій праці та ретельним експериментам.</li>
+  </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Industrialism -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.ideoName>Індустріалізм</VME_HardcoreIndustrialism.symbolPacks.0.ideoName>
+  <!-- EN: Industrialism -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.theme>індустріалізму</VME_HardcoreIndustrialism.symbolPacks.0.theme>
+  <!-- EN: productive -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.adjective>індустріальний</VME_HardcoreIndustrialism.symbolPacks.0.adjective>
+  <!-- EN: worker -->
+  <VME_HardcoreIndustrialism.symbolPacks.0.member>працівник</VME_HardcoreIndustrialism.symbolPacks.0.member>
+
+</LanguageData>

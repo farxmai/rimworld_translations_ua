@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: traveled the world -->
+  <VME_Travel_Desired.stages.0.label>щойно з подорожі</VME_Travel_Desired.stages.0.label>
+  <!-- EN: There is nothing as exhilarating as seeing what the world has to offer. -->
+  <VME_Travel_Desired.stages.0.description>Немає нічого більш захоплюючого, як побачити світ.\n(менше 5 днів тому)</VME_Travel_Desired.stages.0.description>
+  <!-- EN: traveled the world -->
+  <VME_Travel_Desired.stages.1.label>подорожував</VME_Travel_Desired.stages.1.label>
+  <!-- EN: Travelling is amazing. Seeing the sights, discovering new lands... The memories of my last travels are still fresh in my mind. -->
+  <VME_Travel_Desired.stages.1.description>Подорожувати - це дивно. Оглядати пам'ятки, відкривати нові землі... Ще свіжі в пам'яті спогади про мої останні подорожі.\n(менше 10 днів тому)</VME_Travel_Desired.stages.1.description>
+  <!-- EN: traveled the world -->
+  <VME_Travel_Desired.stages.2.label>подорожував нещодавно</VME_Travel_Desired.stages.2.label>
+  <!-- EN: It's been a few days since I travelled. I loved it. -->
+  <VME_Travel_Desired.stages.2.description>Минуло кілька днів, як я подорожував. Мені це подобалось.\n(менше 15 днів тому)</VME_Travel_Desired.stages.2.description>
+  <!-- EN: traveled the world -->
+  <VME_Travel_Desired.stages.3.label>подорожував цього року</VME_Travel_Desired.stages.3.label>
+  <!-- EN: I have a fond memory of my past travels. -->
+  <VME_Travel_Desired.stages.3.description>Я добре пам'ятаю свої минулі мандрівки.\n(менше 60 днів тому)</VME_Travel_Desired.stages.3.description>
+
+  <!-- EN: had to leave the colony -->
+  <VME_Travel_Despised.stages.0.label>щойно залишив дім</VME_Travel_Despised.stages.0.label>
+  <!-- EN: I despise travelling. Leaving the security of our colony is terrible. -->
+  <VME_Travel_Despised.stages.0.description>Терпіти не можу йти з безпеки нашого поселення у невідомість.\n(менше 5 днів тому)</VME_Travel_Despised.stages.0.description>
+  <!-- EN: had to leave the colony -->
+  <VME_Travel_Despised.stages.1.label>залишив дім</VME_Travel_Despised.stages.1.label>
+  <!-- EN: The memories of my last travels are still fresh in my mind. I hated it. -->
+  <VME_Travel_Despised.stages.1.description>Спогади про подорожі ще зовсім свіжі в моїй пам'яті. Я ненавиджу це.\n(менше 10 днів тому)</VME_Travel_Despised.stages.1.description>
+  <!-- EN: had to leave the colony -->
+  <VME_Travel_Despised.stages.2.label>залишив дім нещодавно</VME_Travel_Despised.stages.2.label>
+  <!-- EN: It's been a few days since I travelled. I hated it. -->
+  <VME_Travel_Despised.stages.2.description>Минуло кілька днів, як я подорожував. Я ненавиджу це.\n(менше 15 днів тому)</VME_Travel_Despised.stages.2.description>
+  <!-- EN: had to leave the colony -->
+  <VME_Travel_Despised.stages.3.label>залишив дім цього року</VME_Travel_Despised.stages.3.label>
+  <!-- EN: I have uncomfortable memories of my past travels. -->
+  <VME_Travel_Despised.stages.3.description>У мене неприємні спогади про минулі подорожі.\n(менше 60 днів тому)</VME_Travel_Despised.stages.3.description>
+</LanguageData>

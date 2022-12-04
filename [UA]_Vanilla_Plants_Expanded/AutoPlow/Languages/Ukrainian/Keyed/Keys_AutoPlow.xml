@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<VPEAutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPEAutoPlow.ModName>
+	<VPEAutoPlow.CompatLabel>Вимкнути забезпечення сумісності</VPEAutoPlow.CompatLabel>
+	<VPEAutoPlow.CompatTooltip>Якщо ви зберігали гру з модом для версії нижче 1.1, вимкніть цей параметр. Увімкніть, якщо хочете вимкнути сумісність.</VPEAutoPlow.CompatTooltip>
+	<VPEAutoPlow.allowAutoPlow>Дозволити автоматично орати ґрунт</VPEAutoPlow.allowAutoPlow>
+	<VPEAutoPlow.allowAutoPlowDesc>Дозволити автоматично орати після збирання врожаю</VPEAutoPlow.allowAutoPlowDesc>
+</LanguageData>

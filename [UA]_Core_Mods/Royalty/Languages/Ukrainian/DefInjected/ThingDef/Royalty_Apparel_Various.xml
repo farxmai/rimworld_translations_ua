@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+  <!-- EN: phoenix armor -->
+  <Apparel_ArmorCataphractPhoenix.label>силова броня «фенікс»</Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
+  <Apparel_ArmorCataphractPhoenix.description>Різновид катафрактарської броні з інтегрованим реактивним наплічним вогнеметом. Дана броня дещо поступається стандартному варіанту за захищеністю від звичайних пошкоджень, проте має підвищену вогнетривкість. Реактивний вогнемет несе вкрай обмежений боєзапас і має перезаряджатися після кожного використання. "Фенікси" спеціалізуються на зачистці замкнутих просторів, що кишать противниками, - наприклад, підземель і космічних кораблів. Завдяки такій броні "фенікси" можуть рухатися вузькими коридорами, заливати вогнем приміщення за приміщенням і виходити з диму неушкодженими.</Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: incendiary -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>запалювальний снаряд</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <!-- EN: launch incendiary -->
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>запустити запалювальний снаряд</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+
+  <!-- EN: locust armor -->
+  <Apparel_ArmorLocust.label>силова броня «сарана»</Apparel_ArmorLocust.label>
+  <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
+  <Apparel_ArmorLocust.description>Різновид розвідброні з інтегрованим реактивним ранцем для польотів на короткі відстані. Ця броня трохи поступається за захищеністю своєму стандартному варіанту. Кожен стрибок споживає певну кількість палива, тому броня потребує перезаряджання після кількох використань ранця.\n\nНа відміну від більшості підрозділів армій високотехнологічних світів, «сарни» тренуються переважно із холодною зброєю. Вони уникають позиційного бою, воліючи влітати на своїй реактивній броні прямо вглиб ворожих укріплень і боротися врукопашну. «Сарни» погано показують себе у затяжній обороні або в замкнутих просторах, проте не мають рівних у бою на близькій дистанції та на пересіченій місцевості.</Apparel_ArmorLocust.description>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>стрибковий заряд</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.verbs.jump.label>здійснити стрибок</Apparel_ArmorLocust.verbs.jump.label>
+
+  <!-- EN: grenadier armor -->
+  <Apparel_ArmorMarineGrenadier.label>гренадерська силова броня</Apparel_ArmorMarineGrenadier.label>
+  <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
+  <Apparel_ArmorMarineGrenadier.description>Різновид силової броні з інтегрованим наплічним гранатометом. Ця броня трохи поступається за захищеністю стандартного варіанту. Гранатомет має дуже обмежений боєзапас та повинен перезаряджатися після використання.\n\nГренадери зазвичай спеціалізуються у проривах укріплень чи внутрішніх переборок космічних кораблів. Незважаючи на свою знижену ефективність на далеких відстанях, гренадери можуть бути на диво смертоносними в замкнутих просторах.</Apparel_ArmorMarineGrenadier.description>
+  <!-- EN: grenade -->
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>граната</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <!-- EN: launch frag grenade -->
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>запустить осколочную гранату</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+
+  <!-- EN: cataphract armor -->
+  <Apparel_ArmorCataphract.label>катафрактарська броня</Apparel_ArmorCataphract.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorCataphract.description>Важка силова броня, створена для максимального захисту власника, але обмежуча його мобільність. Декілька шарів пласталевого волокна з абляційним покриттям захистять від усіх атак, крім найвлучніших або найпотужніших. Нейроімітуюча робомеханіка допоможе власнику пересуватися в масивній броні, але все ж таки вона досить громіздка.\n\nЧасто використовується Імперськими катафрактаріями, щоб прориватися через добре укріплені лінії оборони в безвихідних ситуаціях.</Apparel_ArmorCataphract.description>
+
+  <!-- EN: prestige cataphract armor -->
+  <Apparel_ArmorCataphractPrestige.label>розкішна катафрактарська броня</Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorCataphractPrestige.description>Важка силова броня, створена для максимального захисту власника, але обмежує мобільність. Декілька шарів пласталевого волокна з абляційним покриттям захистять від усіх атак, крім найвлучніших або найпотужніших. Нейроімітуюча робомеханіка допоможе власнику пересуватися в масивній броні, але все ж таки вона досить громіздка.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorCataphractPrestige.description>
+
+  <!-- EN: cataphract helmet -->
+  <Apparel_ArmorHelmetCataphract.label>катафрактарський шолом</Apparel_ArmorHelmetCataphract.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorHelmetCataphract.description>Високотехнологічний шолом важкої броні, виготовлений з єдиної оболонки з пласталевого волокна і забезпечений системою непрямого огляду, що дозволяє розширити бічний зір. Захистить від усіх видів атак, крім найпотужніших або найвлучніших.\n\nЧасто використовується імперськими катафрактаріями, щоб прориватися через добре укріплені лінії оборони в безвихідних ситуаціях.</Apparel_ArmorHelmetCataphract.description>
+
+  <!-- EN: prestige cataphract helmet -->
+  <Apparel_ArmorHelmetCataphractPrestige.label>розкішный катафрактарський шолом</Apparel_ArmorHelmetCataphractPrestige.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetCataphractPrestige.description>Високотехнологічний шолом важкої броні, виготовлений з єдиної оболонки з пласталевого волокна і забезпечений системою непрямого огляду, що дозволяє розширити бічний зір. Захистить від усіх видів атак, крім найпотужніших або найвлучніших.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorHelmetCataphractPrestige.description>
+
+  <!-- EN: prestige recon helmet -->
+  <Apparel_ArmorHelmetReconPrestige.label>розкішный розвідувальний шолом</Apparel_ArmorHelmetReconPrestige.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetReconPrestige.description>Високотехнологічний броньований шолом із вбудованим комп'ютером та захистом із пласталевого волокна.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorHelmetReconPrestige.description>
+
+
+  <!-- EN: prestige marine helmet -->
+  <Apparel_ArmorMarineHelmetPrestige.label>розкішный силовий шолом</Apparel_ArmorMarineHelmetPrestige.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarineHelmetPrestige.description>Шолом силової броні з вбудованим комп'ютером та багатошаровим захистом із пласталевого волокна.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorMarineHelmetPrestige.description>
+
+  <!-- EN: prestige marine armor -->
+  <Apparel_ArmorMarinePrestige.label>розкішна силова броня</Apparel_ArmorMarinePrestige.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarinePrestige.description>Костюм силової броні. Багатошаровий захист із пласталевого волокна добре відображає атаки і має мало вразливих вузлів сполучення. Нейроімітуюча робомеханіка дозволяє легко носити броню.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorMarinePrestige.description>
+
+  <!-- EN: prestige recon armor -->
+  <Apparel_ArmorReconPrestige.label>розкішна розвідувальна броня</Apparel_ArmorReconPrestige.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorReconPrestige.description>Полегшена версія силового обладунку, що даж можливість рухатись трохи швидше відностно повного варіанту. Легкі пластини з пласталі блокують атаки, не зменшуючи мобільності, а нейроімітуючі механізми в нижній частині броні дозволяють людині носити броню без зменшення швидкості руху.\n\nЦю розкішну, вишукану броню зазвичай носять, щоб підкреслити високий статус власника, а вшиті волокна ельтексу посилюють психочутливість носить.</Apparel_ArmorReconPrestige.description>
+
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>стрілецький візор</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>Носити пристрій, що допомагає користувачеві цілитися. Воно виявляє та аналізує цілі за допомогою електромагнітних сенсорів, що працюють в інфрачервоному, видимому та міліметровому діапазонах. Вбудований комп'ютер проводить всі необхідні обчислення та проектує потрібну інформацію на сітківку ока. Не дає жодного захисту.</Apparel_Gunlink.description>
+
+  <!-- EN: incendiary grenade -->
+  <Proj_GrenadePhoenixFire.label>запалювальний снаряд</Proj_GrenadePhoenixFire.label>
+
+  <!-- EN: frag grenade -->
+  <Proj_GrenadierGrenade.label>осколочна граната</Proj_GrenadierGrenade.label>
+
+</LanguageData>

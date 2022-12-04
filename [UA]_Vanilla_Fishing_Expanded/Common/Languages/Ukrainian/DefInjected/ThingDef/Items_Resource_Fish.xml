@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VCEF_RawAnchovy.label>анчоус</VCEF_RawAnchovy.label>
+	<VCEF_RawAnchovy.description>Сирий анчоус. Невелика, поширена кормова риба сімейства анчоусових. Більшість видів мешкає зграями в морях, але існують види, що мешкають у солонуватій та прісній воді.</VCEF_RawAnchovy.description>
+	<VCEF_RawAnchovy.tools.0.label>анчоус</VCEF_RawAnchovy.tools.0.label>
+
+	<VCEF_RawAngelfish.label>риба-янгол</VCEF_RawAngelfish.label>
+	<VCEF_RawAngelfish.description>Сира риба-янгол. Ціла родина різних риб, що мешкають у солоній та прісній воді. Зазвичай мають яскраве забарвлення та плоску статуру з високою спиною.</VCEF_RawAngelfish.description>
+	<VCEF_RawAngelfish.tools.0.label>риба-янгол</VCEF_RawAngelfish.tools.0.label>
+
+	<VCEF_RawAnglerfish.label>риба-вудильник</VCEF_RawAnglerfish.label>
+	<VCEF_RawAnglerfish.description>Сира риба-вудильник, отримала свою назву через передню частину спинного плавця, розташованого над пащею, у вигляді «вудочки» (ілліції) з приманкою (ескі) для залучення видобутку.</VCEF_RawAnglerfish.description>
+	<VCEF_RawAnglerfish.tools.0.label>риба-вудильник</VCEF_RawAnglerfish.tools.0.label>
+
+	<VCEF_RawBass.label>окунь</VCEF_RawBass.label>
+	<VCEF_RawBass.description>Сирий окунь. Представник великого загону прісноводних та морських риб.</VCEF_RawBass.description>
+	<VCEF_RawBass.tools.0.label>окунь</VCEF_RawBass.tools.0.label>
+
+	<VCEF_RawCatfish.label>сом</VCEF_RawCatfish.label>
+	<VCEF_RawCatfish.description>Сирий сом. Представник загону променеперих, що включає безліч різних видів риб. Примітний наявністю видатних вусів.</VCEF_RawCatfish.description>
+	<VCEF_RawCatfish.tools.0.label>сом</VCEF_RawCatfish.tools.0.label>
+
+	<VCEF_RawClownfish.label>риба-клоун</VCEF_RawClownfish.label>
+	<VCEF_RawClownfish.description>Сира риба-клоун. Для риб-клоунів характерний симбіоз із різними видами морських коралів. Забарвлення риб варіює від насичено пурпурового до вогненно-жовтогарячого, червоного і жовтого.</VCEF_RawClownfish.description>
+	<VCEF_RawClownfish.tools.0.label>риба-клоун</VCEF_RawClownfish.tools.0.label>
+
+	<VCEF_RawCod.label>тріска</VCEF_RawCod.label>
+	<VCEF_RawCod.description>Сира тріска. Тріска відноситься до великих видів риб з ненаситним апетитом. Харчується в основному іншими рибами та різними безхребетними. Тріска здавна вважалася ідеальною рибою для вживання людиною, з її листковою білою м'якоттю, високим вмістом білка і низьким вмістом жиру.</VCEF_RawCod.description>
+	<VCEF_RawCod.tools.0.label>тріска</VCEF_RawCod.tools.0.label>
+
+	<VCEF_RawEel.label>вугор</VCEF_RawEel.label>
+	<VCEF_RawEel.description>Сирий вугор. Представник роду променеперих риб, сімейства вугрових. Це риби з подовженим тілом без черевних плавців, деякі види ще й без грудних плавців. Повзають і плавають вугри, згинаючи тіло, подібно до зміїв. По тілу вугра, що пливе, як би пробігає хвиля з постійною амплітудою.</VCEF_RawEel.description>
+	<VCEF_RawEel.tools.0.label>вугор</VCEF_RawEel.tools.0.label>
+
+	<VCEF_RawGoldfish.label>золота рибка</VCEF_RawGoldfish.label>
+	<VCEF_RawGoldfish.description>Сира золота рибка. Золота рибка - прісноводна променепера риба з сімейства коропових загону карпоподібних. Це одна з найпоширеніших акваріумних риб.</VCEF_RawGoldfish.description>
+	<VCEF_RawGoldfish.tools.0.label>золота рибка</VCEF_RawGoldfish.tools.0.label>
+
+	<VCEF_RawGuppy.label>гуппі</VCEF_RawGuppy.label>
+	<VCEF_RawGuppy.description>Сира гуппі. Гуппі є однією з найпоширеніших тропічних риб у світі та одним з найпопулярніших видів прісноводних акваріумних риб.</VCEF_RawGuppy.description>
+	<VCEF_RawGuppy.tools.0.label>гуппі</VCEF_RawGuppy.tools.0.label>
+
+	<VCEF_RawHaddock.label>пікша</VCEF_RawHaddock.label>
+	<VCEF_RawHaddock.description>Сира пікша. Пікша - морська риба із сімейства тріскових. Це важлива промислова риба, яку зазвичай вживають у свіжому чи копченому вигляді.</VCEF_RawHaddock.description>
+	<VCEF_RawHaddock.tools.0.label>пікша</VCEF_RawHaddock.tools.0.label>
+
+	<VCEF_RawHalibut.label>палтус</VCEF_RawHalibut.label>
+	<VCEF_RawHalibut.description>Сирий палтус. Палтус - загальна назва, головним чином застосовується до трьох камбал з сімейства камбалових.</VCEF_RawHalibut.description>
+	<VCEF_RawHalibut.tools.0.label>палтус</VCEF_RawHalibut.tools.0.label>
+
+	<VCEF_RawHerring.label>оселедець</VCEF_RawHerring.label>
+	<VCEF_RawHerring.description>Сирий оселедець. Оселедець - кормова риба, що відноситься до сімейства оселедцевих. Оселедець часто переміщається великими одвірками поблизу берегів.</VCEF_RawHerring.description>
+	<VCEF_RawHerring.tools.0.label>оселедець</VCEF_RawHerring.tools.0.label>
+
+	<VCEF_RawKoi.label>короп коі</VCEF_RawKoi.label>
+	<VCEF_RawKoi.description>Сирий короп коі. Коі були виведені з амурського сазана і зазвичай містяться в декоративних цілях у відкритих ставках.</VCEF_RawKoi.description>
+	<VCEF_RawKoi.tools.0.label>ккороп коі</VCEF_RawKoi.tools.0.label>
+
+	<VCEF_RawLobster.label>омар</VCEF_RawLobster.label>
+	<VCEF_RawLobster.description>Сирий омар. Омари – великі морські ракоподібні. У омарів довгі тіла з м'язистими хвостами. Три з п'яти пар їхніх ніг мають клешні, включаючи першу пару, яка зазвичай набагато більша за інші.</VCEF_RawLobster.description>
+	<VCEF_RawLobster.tools.0.label>омар</VCEF_RawLobster.tools.0.label>
+
+	<VCEF_RawMackerel.label>макрель</VCEF_RawMackerel.label>
+	<VCEF_RawMackerel.description>Сира макрель. Макрель — загальна назва, що застосовується до різних видів пелагічних риб, в основному з сімейства скумбрієвих. Вони зустрічаються як у помірних, так і в тропічних морях, мешкаючи переважно біля узбережжя.</VCEF_RawMackerel.description>
+	<VCEF_RawMackerel.tools.0.label>макрель</VCEF_RawMackerel.tools.0.label>
+
+	<VCEF_RawMinnow.label>гольян</VCEF_RawMinnow.label>
+	<VCEF_RawMinnow.description>Сирий гольян. Гольян — загальна назва ряду видів дрібних прісноводних риб, що належать до кількох родів сімейства коропових.</VCEF_RawMinnow.description>
+	<VCEF_RawMinnow.tools.0.label>гольян</VCEF_RawMinnow.tools.0.label>
+
+	<VCEF_RawPerch.label>прісноводний окунь</VCEF_RawPerch.label>
+	<VCEF_RawPerch.description>Сирий прісноводний окунь. Прісноводна промислова риба, що належить до сімейства окуневих. Окуні дають свою назву великому загону хребетних окунеподібних. Багато видів прісноводних промислових риб тією чи іншою мірою нагадують прісноводного окуня, але належать до інших родів.</VCEF_RawPerch.description>
+	<VCEF_RawPerch.tools.0.label>прісноводний окунь</VCEF_RawPerch.tools.0.label>
+
+	<VCEF_RawPiranha.label>піранья</VCEF_RawPiranha.label>
+	<VCEF_RawPiranha.description>Сира піранья. Піранья - прісноводна риба, що мешкає в річках, озерах та водосховищах. Хоча вони часто описуються як надзвичайно хижі і харчуються переважно рибою, їх харчові звички сильно різняться, і ці риби також їдять рослинну їжу, що дозволяє вважати їх всеїдними.</VCEF_RawPiranha.description>
+	<VCEF_RawPiranha.tools.0.label>піранья</VCEF_RawPiranha.tools.0.label>
+
+
+	<VCEF_RawPufferfish.label>риба-фугу</VCEF_RawPufferfish.label>
+	<VCEF_RawPufferfish.description>Сира риба-фугу. Фугу - сімейство переважно морських та гирлових риб. Більшість видів фугу є отруйними, а деякі - одними з найотруйніших хребетних у світі. У деяких видів внутрішні органи, такі як печінка, а іноді шкіра, містять тетродотоксин і дуже токсичні для більшості тварин, коли їх їдять. Однак м'ясо деяких видів фугу вважається делікатесом, коли його готують спеціально навчені кухарі.</VCEF_RawPufferfish.description>
+	<VCEF_RawPufferfish.tools.0.label>риба-фугу</VCEF_RawPufferfish.tools.0.label>
+
+
+	<VCEF_RawSalmon.label>лосось</VCEF_RawSalmon.label>
+	<VCEF_RawSalmon.description>Сирий лосось. Лосось - назва для декількох видів променеперих риб сімейства лососевих. Як правило, лососі є анадромними: вони вилуплюються у прісній воді, мігрують до океану, а потім повертаються у прісну воду для розмноження. Однак популяції кількох видів протягом усього свого життя обмежуються прісною водою.</VCEF_RawSalmon.description>
+	<VCEF_RawSalmon.tools.0.label>лосось</VCEF_RawSalmon.tools.0.label>
+
+	<VCEF_RawSprat.label>кілька</VCEF_RawSprat.label>
+	<VCEF_RawSprat.description>Сира кілька. Представник групи кормових риб, що належать до роду шпротових до сімейства оселедцевих. Як і більшість кормових риб, шпроти дуже активна, дрібна, жирна риба. Вони мандрують великими зграями разом з іншими рибами та плавають безперервно протягом усього дня.</VCEF_RawSprat.description>
+	<VCEF_RawSprat.tools.0.label>кілька</VCEF_RawSprat.tools.0.label>
+
+	<VCEF_RawSwordfish.label>риба-меч</VCEF_RawSwordfish.label>
+	<VCEF_RawSwordfish.description>Сира риба-меч. Риба-меч, також відома як мечонос, велика, хижа риба з характерним довгим, плоским і загостреним «мечем».</VCEF_RawSwordfish.description>
+	<VCEF_RawSwordfish.tools.0.label>риба-меч</VCEF_RawSwordfish.tools.0.label>
+
+	<VCEF_RawTrout.label>форель</VCEF_RawTrout.label>
+	<VCEF_RawTrout.description>Сира форель. Форель - загальна назва кількох прісноводних видів та форм риб, що належать до сімейства лососевих. Більшість видів форелі живуть виключно у прісних озерах та річках, але є й ті, які можуть провести два-три роки у морі, перш ніж повернутися у прісну воду на нерест.</VCEF_RawTrout.description>
+	<VCEF_RawTrout.tools.0.label>форель</VCEF_RawTrout.tools.0.label>
+
+	<VCEF_RawTuna.label>тунець</VCEF_RawTuna.label>
+	<VCEF_RawTuna.description>Сирий тунець. Тунець – велика морська риба. Активний і спритний хижак, тунець має гладке, обтічне тіло і є однією з найшвидкіших риб. Тунець високо цінується як промислова риба. Крім цього, його величезні розміри, швидкість і міць завжди викликали захоплення рибалок, письменників і вчених.</VCEF_RawTuna.description>
+	<VCEF_RawTuna.tools.0.label>тунець</VCEF_RawTuna.tools.0.label>
+</LanguageData>

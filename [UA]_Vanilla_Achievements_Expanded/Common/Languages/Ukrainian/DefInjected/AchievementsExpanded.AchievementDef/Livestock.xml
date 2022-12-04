@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Three Little Pigs -->
+  <threeLittlePigs.label>Три порося</threeLittlePigs.label>
+  <!-- EN: Have 3 Pigs and 1 Timberwolf -->
+  <threeLittlePigs.description>Тримайте 3 свиней і 1 вовка</threeLittlePigs.description>
+
+  <!-- EN: Look At All Those Chickens -->
+  <lookAtAllThoseChickens.label>Як у бабусі в селі</lookAtAllThoseChickens.label>
+  <!-- EN: Have 20 Geese -->
+  <lookAtAllThoseChickens.description>Тримайте 20 гусей</lookAtAllThoseChickens.description>
+
+  <!-- EN: Sustainable Fuel Source -->
+  <sustainableFuelSource.label>Не коштуй їх "молоко"</sustainableFuelSource.label>
+  <!-- EN: Have 8 Boomalopes -->
+  <sustainableFuelSource.description>Тримайте 8 бумалоп</sustainableFuelSource.description>
+
+  <!-- EN: Muffalo Rancher -->
+  <muffaloRancher.label>Корованик</muffaloRancher.label>
+  <!-- EN: Have 12 Muffalos -->
+  <muffaloRancher.description>Тримайте 12 муффало</muffaloRancher.description>
+
+  <!-- EN: Ark Half Full -->
+  <arkHalfFull.label>Кожної тварі... в одном екземплярі</arkHalfFull.label>
+  <!-- EN: Have 1 of every vanilla animal at the same time. -->
+  <arkHalfFull.description>Тримайте по тварині кожного виду з базової гри</arkHalfFull.description>
+
+  <!-- EN: Gentle Giant -->
+  <gentleGiant.label>Домашній велетень</gentleGiant.label>
+  <!-- EN: Tame a Thrumbo -->
+  <gentleGiant.description>Приручити трумбо</gentleGiant.description>
+</LanguageData>

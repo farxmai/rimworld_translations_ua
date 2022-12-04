@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_IndustrialGenerators.label>промислові генератори</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Дослідження створення генераторів промислового класу, здатних зберігати значно більше палива та виробляти більше електроенергії.</VFE_IndustrialGenerators.description>
+
+  <VFE_AdvancedBatteries.label>просунуті акумулятори</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Дослідження створення просунутих акумуляторів, здатних зберігати значно більше електроенергії, ніж звичайні.</VFE_AdvancedBatteries.description>
+
+  <VFE_AdvancedPowerSources.label>просунуті джерела енергії</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Дослідження створення екологічно чистих генераторів енергії, таких як просунуті сонячні панелі та просунуті вітрогенератори.</VFE_AdvancedPowerSources.description>
+
+  <VFE_NuclearPower.label>атомна енергія</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>Дослідження ультимативного методу генерації енергії ядерна енергія настільки ефективна, наскільки смертельна.</VFE_NuclearPower.description>
+
+  <VFE_TidalPower.label>приливна енергія</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Дослідження створення генераторів, що виробляють електроенергію приливними силами води.</VFE_TidalPower.description>
+
+  <VFE_GasExtraction.label>видобуток газу</VFE_GasExtraction.label>
+  <VFE_GasExtraction.description>Дослідження видобутку хеліксинового газу та виробництва електроенергії за його допомогою.</VFE_GasExtraction.description>
+
+</LanguageData>

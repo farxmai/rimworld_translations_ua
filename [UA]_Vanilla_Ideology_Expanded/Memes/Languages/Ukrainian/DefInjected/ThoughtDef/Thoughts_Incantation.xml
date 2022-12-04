@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: squamous incantation -->
+  <VME_SquamousIncantation.stages.0.label>сквамозний містичний ритуал</VME_SquamousIncantation.stages.0.label>
+  <!-- EN: An indescribably hideous gibbering! I'd even describe it as squamous, but I don't even know what that is! An unutterable word! -->
+  <VME_SquamousIncantation.stages.0.description>Це можна було б назвати сквамозним, але що це слово взагалі означає? Невимовне слово!</VME_SquamousIncantation.stages.0.description>
+
+  <!-- EN: accursed incantation -->
+  <VME_AccursedIncantation.stages.0.label>проклятий містичний ритуал</VME_AccursedIncantation.stages.0.label>
+  <!-- EN: A litany of dark morbidities expressed in crime, perversion, and insanity. -->
+  <VME_AccursedIncantation.stages.0.description>Літанія темних хвороб, виражених у злочинах, збоченнях і божевіллях.</VME_AccursedIncantation.stages.0.description>
+
+  <!-- EN: blasphemous incantation -->
+  <VME_BlasphemousIncantation.stages.0.label>блюзнірський містичний ритуал</VME_BlasphemousIncantation.stages.0.label>
+  <!-- EN: A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse. -->
+  <VME_BlasphemousIncantation.stages.0.description>Обіцянки прихованих і бездонних світів дивного життя, які пульсують у безодні за зірками і жахливо тиснуть на нашу власну земну кулю в нечестивих вимірах, які можуть побачити лише мертві та вражені місяцем.</VME_BlasphemousIncantation.stages.0.description>
+
+  <!-- EN: loathsome incantation -->
+  <VME_LoathsomeIncantation.stages.0.label>огидний містичний ритуал</VME_LoathsomeIncantation.stages.0.label>
+  <!-- EN: We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. -->
+  <VME_LoathsomeIncantation.stages.0.description>Ми живемо на тихому острові невігластва посеред чорних морів нескінченності, і це не означає, що ми повинні плисти далеко.</VME_LoathsomeIncantation.stages.0.description>
+</LanguageData>

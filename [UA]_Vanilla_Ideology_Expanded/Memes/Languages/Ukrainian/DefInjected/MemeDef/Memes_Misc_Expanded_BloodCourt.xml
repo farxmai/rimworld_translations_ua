@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 23 -->
+
+  <!-- EN: blood court -->
+  <VME_BloodCourt.label>кривавий суд</VME_BloodCourt.label>
+  <!-- EN: Наші літератури повинні бути talented melee fighter і brutal warrior, тільки usurped by one greater. Bloodshed, corpses, scars є частиною життя і show strength on this planet. -->
+  <VME_BloodCourt.description>Звання нашого лідера має завоювати наймайстерніший боєць і найсуворіший воїн. Кровопролиття, трупи, шрами – це частина життя та демонстрація сили на цій планеті.</VME_BloodCourt.description>
+
+  <VME_BloodCourt.generalRules.rulesStrings>
+    <li>memeAdjective->кривавий</li>
+    <li>memeAdjective->жорстокий</li>
+    <li>memeConcept->сили</li>
+    <li>memeConcept->боротьби</li>
+    <li>memeLeaderNoun->кровопускач</li>
+    <li>memeLeaderNoun->гладіатор</li>
+    <li>memeLeaderNoun->суддя</li>
+  </VME_BloodCourt.generalRules.rulesStrings>
+
+  <VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_BloodCourt) ->[deity0_name] [deity0_slain] більшість інших богів, і [deity0_possessive] послідовники зіщулилися в страху: «Сила походить з невгамовної волі. Тільки ті з вас, хто виявить себе в кривавій битві, будуть гідні моєї поваги».</li>
+    <li>episode(uses=1,tag=meme_BloodCourt) ->[deity0_name] [deity0_gave] нам вчення, дотримуючись якого ми засвоїли найважливіший урок: «Не чекайте надзвичайного шансу. Використовуйте звичайні випадки і робіть їх великими. Слабкі люди чекають на можливості; сильні творять їх».</li>
+    <li>intro(tag=meme_BloodCourt) ->[memberNamePlural] прославилися своїм гладіаторським рингом, присвяченим [deity0_god] на ім'я [deity0_name]. Там проводили криваві смертельні поєдинки, щоб вирішити, хто буде наступним лідером.</li>
+    <li>conflict(tag=meme_BloodCourt) ->[founderName] [founder_challenged] на дуель. Радісна подія, заради якої вся громада відклала свої розбіжності. Переможець став би наступним лідером і повів би народ до величі.</li>
+    <li>founderJoin(tag=meme_BloodCourt) ->Але [founderName] [founder_knew], що [founder_possessive] суперник збирається шахраювати, [deity0_name] [deity0_whispered] [founder_objective] правду в [founder_possessive] снах.</li>
+    <li>victory(tag=meme_BloodCourt) ->Незважаючи на те, що бої між дорослими членами спільноти за межами рингу були заборонені, [deity0_name] [deity0_gave] дозвіл на те, щоб [founderName] [founder_behead] безчесного суперника уві сні. Це стало повним приниженням та ганьбою для сім'ї суперника, а [founderName] таким чином [founder_consolidating] свою владу.</li>
+    <li>setup(tag=meme_BloodCourt) ->[founderName] [founder_was] шаленим полководцем і постійно [founder_fighting] проти залишків загиблої зоряної імперії. [founder_pronoun] [founder_understood], що конфлікт і ворожнеча це те, що рухає цивілізацію вперед. Благодушність призводить до застою.</li>
+    <li>story(uses=1,tag=meme_BloodCourt) ->[founder_pronoun] навчив нас, що сильна, успішна особистість не є жертвою свого оточення. Вона сама створює сприятливі умови. Її власна вроджена сила та енергія змушують події повертати туди, куди вона бажає.</li>
+    <li>lessonIntro(tag=meme_BloodCourt) ->Зростання в цьому місці було неймовірно важко, і не всім з нас це вдалося. Але ті, хто загинув у цій боротьбі, ясно дали зрозуміти, що </li>
+    <li>lesson(tag=meme_BloodCourt) ->труднощі призначені для того, щоб пробуджувати, а не перешкоджати. Людський дух має зміцнюватись у конфлікті</li>
+    <li>lessonReinforcement(tag=meme_BloodCourt) ->Ви маєте владу над своїм розумом, а не над зовнішніми обставинами. Усвідомте це і набудете сили.</li>
+    <li>archistBasis(tag=meme_BloodCourt) ->Архітотеки над усе цінують силу. Бо ті, хто слабий і беззахисний, не є істинними людьми і є фактично марними.</li>
+    <li>archistFact(tag=meme_BloodCourt) ->Для них особистість, гідна переваги - це звичайний індивідуум, який знаходить у собі сили упиратися і перемагати, незважаючи на непереборні перешкоди.</li>
+    <li>archistProphecy(tag=meme_BloodCourt) ->[inTheEnd], тільки ті, хто нав'язує свою волю іншим силою, будуть гідні піднестися.</li>
+    <li>animistBasis(tag=meme_BloodCourt) ->Духи над усе цінують силу. Бо ті, хто слабий і беззахисний, не є істинними людьми і є фактично марними.</li>
+    <li>animistFact(tag=meme_BloodCourt) ->Для духів особистість, гідна переваги — це звичайний індивідуум, який знаходить у собі сили упиратися і перемагати, незважаючи на непереборні перешкоди.</li>
+    <li>animistProphecy(tag=meme_BloodCourt) ->[itIsSaid] тільки ті, хто нав'язує свою волю іншим силою, зможуть умилостивити духів.</li>
+    <li>serketistProphecy(tag=meme_BloodCourt)->[itIsSaid] ми зламаємо будь-який опір, який стане на нас на шляху.</li>
+    <li>chthonianProphecy(tag=meme_BloodCourt)->Якщо ми хочемо протистояти цим жорстоким моторошним сутностям, ми не можемо миритися зі слабкістю. Тільки проявивши справжню силу, ми зможемо протистояти космічному божевілля.</li>
+    <li>esotericismProphecy(tag=meme_BloodCourt)->Такі окультні знання не отримати без насильства. Лише виявивши справжню силу, ми можемо сподіватися розкрити таємниці Космосу.</li>
+    <li>eschatologismFact(tag=meme_BloodCourt)->Звичайно ж люди будуть чинити опір, чіпляючись за своє жалюгідне існування в цьому приреченому, проклятом світі. Ми зламаємо їх.</li>
+    <li>introMemo(tag=meme_BloodCourt)->Ви зацікавлені у просуванні по службі? Радий повідомити, що відтепер ми плануємо схвалені компанією гладіаторські бої біля кавоварки. Втомилися від боса? Покажіть це! </li>
+    <li>alienistProphecy(tag=meme_BloodCourt)->Ці несхожі істоти можуть показати нам, як виглядає сила, і, перемігши їх, ми зможемо довести собі, що заслуговуємо на неї.</li>
+    <li>deity0_slain(deity0_gender==None)->вбило</li>
+    <li>deity0_slain(deity0_gender==Male)->вбив</li>
+    <li>deity0_slain(deity0_gender==Female)->вбила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>deity0_god(deity0_gender==None)->божеству</li>
+    <li>deity0_god(deity0_gender==Male)->богу</li>
+    <li>deity0_god(deity0_gender==Female)->богині</li>
+    <li>founder_challenged(founder_gender==Male)->було викликано</li>
+    <li>founder_challenged(founder_gender==Female)->була викликана</li>
+    <li>founder_knew(founder_gender==Male)->знав</li>
+    <li>founder_knew(founder_gender==Female)->знала</li>
+    <li>deity0_whispered(deity0_gender==None)->нашептало</li>
+    <li>deity0_whispered(deity0_gender==Male)->нашептав</li>
+    <li>deity0_whispered(deity0_gender==Female)->нашептала</li>
+    <li>founder_behead(founder_gender==Male)->безголовий</li>
+    <li>founder_behead(founder_gender==Female)->безголова</li>
+    <li>founder_consolidating(founder_gender==Male)->зміцнив</li>
+    <li>founder_consolidating(founder_gender==Female)->зміцнила</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_fighting(founder_gender==Male)->боровся</li>
+    <li>founder_fighting(founder_gender==Female)->боролася</li>
+    <li>founder_understood(founder_gender==Male)->розумів</li>
+    <li>founder_understood(founder_gender==Female)->розуміла</li>
+  </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Blood Court -->
+  <VME_BloodCourt.symbolPacks.0.ideoName>Кривавий Суд</VME_BloodCourt.symbolPacks.0.ideoName>
+  <!-- EN: violence -->
+  <VME_BloodCourt.symbolPacks.0.theme>насильства</VME_BloodCourt.symbolPacks.0.theme>
+  <!-- EN: violent -->
+  <VME_BloodCourt.symbolPacks.0.adjective>насильницький</VME_BloodCourt.symbolPacks.0.adjective>
+  <!-- EN: fighter -->
+  <VME_BloodCourt.symbolPacks.0.member>боєць</VME_BloodCourt.symbolPacks.0.member>
+
+
+</LanguageData>

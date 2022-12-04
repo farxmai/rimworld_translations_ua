@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Campfire is missing. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.3.desc>Відсутнє багаття.</CelebrationPartyDanceDrum.stages.0.failTriggers.3.desc>
+  <!-- EN: Campfire is not lit. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.4.desc>Багаття не розпалене.</CelebrationPartyDanceDrum.stages.0.failTriggers.4.desc>
+  <!-- EN: No drums. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.5.desc>Відсутні барабани.</CelebrationPartyDanceDrum.stages.0.failTriggers.5.desc>
+
+  <!-- EN: Darklight campfire is missing. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.6.desc>Відсутнє тьмяне багаття.</CelebrationPartyDanceDrum.stages.0.failTriggers.6.desc>
+  <!-- EN: Darklight campfire is not lit. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.7.desc>Тьмяне багаття не розпалене.</CelebrationPartyDanceDrum.stages.0.failTriggers.7.desc>
+  <!-- EN: No drums. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.8.desc>Відсутні барабани.</CelebrationPartyDanceDrum.stages.0.failTriggers.8.desc>
+
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.9.desc>Відсутнє вогнище.</CelebrationPartyDanceDrum.stages.0.failTriggers.9.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.10.desc>Вогнище не розпалене.</CelebrationPartyDanceDrum.stages.0.failTriggers.10.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.11.desc>Відсутні барабани.</CelebrationPartyDanceDrum.stages.0.failTriggers.11.desc>
+
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.12.desc>Відсутнє вогнище.</CelebrationPartyDanceDrum.stages.0.failTriggers.12.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.13.desc>Вогнище не розпалене.</CelebrationPartyDanceDrum.stages.0.failTriggers.13.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.14.desc>Відсутні барабани.</CelebrationPartyDanceDrum.stages.0.failTriggers.14.desc>
+</LanguageData>

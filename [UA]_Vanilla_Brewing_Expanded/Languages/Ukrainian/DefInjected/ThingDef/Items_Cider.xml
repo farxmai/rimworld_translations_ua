@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_UnfermentedCider.label>неферментований сидр</VBE_UnfermentedCider.label>
+  <VBE_UnfermentedCider.description>Неферментований сидр із закваскою у герметичній ємності. Якщо дати спокій для розвитку потрібних бактерій, кінцевим результатом буде слабкий алкогольний напій.</VBE_UnfermentedCider.description>
+
+  <VBE_Cider.label>сидр</VBE_Cider.label>
+  <VBE_Cider.description>Освіжаючий та фруктовий слабоалкогольний напій. Як не намагайтеся, безглуздо намагатися налигатися одним сидром, тому він популярний серед тих, хто в минулому мав алкогольну залежність.</VBE_Cider.description>
+  <VBE_Cider.tools.0.label>пляшка</VBE_Cider.tools.0.label>
+  <VBE_Cider.tools.1.label>шийка</VBE_Cider.tools.1.label>
+  <VBE_Cider.ingestible.ingestCommandString>Випити {0}</VBE_Cider.ingestible.ingestCommandString>
+  <VBE_Cider.ingestible.ingestReportString>п'є {0}.</VBE_Cider.ingestible.ingestReportString>
+
+
+</LanguageData>

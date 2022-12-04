@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: unemancipated slaves in colony -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.label>раби в колонії</VME_Slavery_Forbidden_SlavesInColony.stages.0.label>
+  <!-- EN: There are slaves in the colony. We should emancipate them as soon as possible. -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.description>У нас у поселенні є раби. Вони страждають у неволі. Потрібно звільнити їх якнайшвидше.</VME_Slavery_Forbidden_SlavesInColony.stages.0.description>
+  <!-- EN: suffered slavery -->
+  <VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>страждає від рабства</VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>
+</LanguageData>

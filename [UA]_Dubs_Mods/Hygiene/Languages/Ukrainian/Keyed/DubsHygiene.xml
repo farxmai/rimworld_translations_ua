@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Construction-->
+  <DesignatorRemovePlumbing>Розібрати труби</DesignatorRemovePlumbing>
+  <DesignatorRemovePlumbingDesc>Розібрати секцію трубопровіду.</DesignatorRemovePlumbingDesc>
+  <RemoveSewage>Прибрати відходи</RemoveSewage>
+  <RemoveSewageDesc>Прибрати відходи у бочки</RemoveSewageDesc>
+  <RemovePlumbing>Розібрати трубопровід</RemovePlumbing>
+  <RemoveAirCon>Розібрати систему кондиціонування</RemoveAirCon>
+
+  <!--Warnings-->
+  <DBH.requiresSaunaRoom>Кімната занадто велика для нагрівання сауни!\nДля нагрівання розмір кімнати не повинен перевищувати 50 клітинок на кожну встановлену кам'янку.\nДодайте більше кам'янок для сауни або зменшіть кімнату.</DBH.requiresSaunaRoom>
+  <DBH.HeatedPool>Басейн нагріто</DBH.HeatedPool>
+  <DBH.CantUsePool>Неможливо використовувати басейн:</DBH.CantUsePool>
+  <DBH.PoolRaining>йде дощ</DBH.PoolRaining>
+  <DBH.PoolTooCold>надто холодно {0}</DBH.PoolTooCold>
+  <DBHPrisonWater>В'язням потрібне джерело води</DBHPrisonWater>
+  <DBHPrisonWaterEx>У тюремній камері немає доступу до питної води. Зробіть як мінімум одне джерело питної води, наприклад ванну або басейн, щоб ув'язнені могли вгамувати спрагу.</DBHPrisonWaterEx>
+  <Alert_MissingTower>Відсутня водонапірна вежа</Alert_MissingTower>
+  <Alert_MissingTowerDesc>Для зберігання води, що перекачується зі свердловини, потрібна водонапірна вежа або бочка.</Alert_MissingTowerDesc>
+  <Alert_MissingWell>Відсутній колодязь</Alert_MissingWell>
+  <Alert_MissingWellDesc>Насос вимагає наявності свердловини з трубопроводом для доступу до ґрунтових вод.</Alert_MissingWellDesc>
+  <Alert_MissingPump>Відсутній водяний насос</Alert_MissingPump>
+  <Alert_MissingPumpDesc>Водяний насос необхідний для перекачування води зі свердловини у водонапірну вежа.</Alert_MissingPumpDesc>
+  <DBHFalloutWarning>Забруднення води токсичними опадами</DBHFalloutWarning>
+  <DBHFalloutWarningEx>Після двох днів токсичних опадів будуть забруднені всі резервуари для зберігання води, підключені до водозабірних свердловин.\n\nПідготуйтеся, створивши запас води, а потім за допомогою клапана від'єднайте їх від свердловин, щоб захистити воду від забруднення, поки не стало запізно.\n\nВи також можете використовувати глибинні свердловини для доступу до чистої води або створити установку фільтрації, яка усуне всі забруднення з водних запасів.</DBHFalloutWarningEx>
+
+  <LowCoolingCap>Низький обсяг охолодження ви можете збільшити потужність зовнішніх блоків.</LowCoolingCap>
+  <NotOwned>Доступ обмежений</NotOwned>
+  <GenderRestricted>Тільки {0}</GenderRestricted>
+  <PrisonersOnly>Тільки в'язні</PrisonersOnly>
+  <BlockedSewage>Забився злив стічних вод</BlockedSewage>
+  <BlockedSewageDesc>Нечистоти скупчилися в зливному отворі та забили злив.\n\nПобудуйте більше сливів або додайте септик для створення буфера та зменшення навантаження на сливи.</BlockedSewageDesc>
+  <LowWaterTemp>Низька температура води</LowWaterTemp>
+  <LowWaterTempDesc>Температура води у цьому баку надто низька. Колоністи, що розраховують на гарячу воду, можуть засмутитися.\n\nУвімкніть бойлери, збільшіть нагрівання або додайте ще один бак із гарячою водою.</LowWaterTempDesc>
+  <WellNeedsWater>Має бути розміщено на клітці з ґрунтовими водами</WellNeedsWater>
+  <AssigningRequiresRoom>Сантехніка має бути в приміщенні для встановлення обмежень.</AssigningRequiresRoom>
+  <NoWaterTowers>Необхідна водонапірна вежа</NoWaterTowers>
+  <AssigningRequiresBladderNeed>Для призначення необхідна бажання подзюрити, у {0} його немає</AssigningRequiresBladderNeed>
+
+  <NoCompostingMaterial>Нема компосту</NoCompostingMaterial>
+  <Nowater>Нема води</Nowater>
+  <Nosewage>Нема відведення відходів</Nosewage>
+  <RequiresPlumbing>Потрібен водопровід</RequiresPlumbing>
+  <AccessRestricted>Доступ обмежений</AccessRestricted>
+
+  <TooHot>Занадто гаряче: x{0}</TooHot>
+  <InRain>Під дощем: x{0}</InRain>
+  <PhysicalActivity>Фізична активність: x{0}</PhysicalActivity>
+  <FilthyRoom>Кімната: x{0}</FilthyRoom>
+  <TotalHygieneStat>Разом: x{0}</TotalHygieneStat>
+  <DirtyHands>Брудні руки - Ризик захворювання</DirtyHands>
+  <Contaminated>Забруднення - Ризик захворювання</Contaminated>
+
+  <LetterLabelBlockedDrain>Забився злив</LetterLabelBlockedDrain>
+  <LetterBlockedDrain>Забився злив. Прибиральнику необхідно усунути засмічення.</LetterBlockedDrain>
+
+  <ContaminationAlert>Забруднення у воді</ContaminationAlert>
+  <ContaminationAlertDesc>Свердловина була забруднена. \n\nДжерело забруднення:\n{0} \n\nАбо перемістіть свердловину або усуньте джерела забруднення. Якщо ви використовуєте свердловину з трубопроводом, додайте фільтраційну установку, яка також очистить воду у водонапірних вежах через деякий час.</ContaminationAlertDesc>
+  <ContaminatiedTowerAlert>Забруднення у водонапірній вежі</ContaminatiedTowerAlert>
+  <ContaminatiedTowerAlertDesc>Водосховище забруднене, що спричиняє серйозні ризики для здоров'я ваших колоністів! Вам необхідно усунути причину забруднення, потім спустошити водосховища або збудувати фільтраційну установку.</ContaminatiedTowerAlertDesc>
+
+  <MessageHygieneDisease>У {0} {1} через недотримання особистої гігієни</MessageHygieneDisease>
+  <MessageWaterDisease>У {0} {1} через неочищену воду</MessageWaterDisease>
+  <MessageWaterDiseaseContaminated>У {0} {1} через забруднену воду</MessageWaterDiseaseContaminated>
+
+  <!--Restrictions-->
+  <ChangeGenderRestriction>Змінити гендерні обмеження</ChangeGenderRestriction>
+  <CommandFixtureSetAsMedicalLabel>Медичні</CommandFixtureSetAsMedicalLabel>
+  <CommandFixtureSetAsMedicalDesc>Обмежити цю сантехніку лише для пацієнтів.</CommandFixtureSetAsMedicalDesc>
+  <PatientsOnly>Тільки для пацієнтів</PatientsOnly>
+  <AttackHelicopter>Бойовий гелікоптер</AttackHelicopter>
+  <Unisex>Унісекс</Unisex>
+  <ConnectFixturesToBed>Пов'язати з ліжком</ConnectFixturesToBed>
+  <ConnectFixturesToBedDesc>Прив'язати сантехніку до найближчого ліжка для встановлення власника. Затисніть shift для прив'язки кількох ліжок.</ConnectFixturesToBedDesc>
+  <CancelConnectFixturesToBed>Прибрати прив'язку</CancelConnectFixturesToBed>
+  <CancelConnectFixturesToBedDesc>Прибрати прив'язку з ліжком.</CancelConnectFixturesToBedDesc>
+  <dbh.Animalsonly>Тільки для тварин</dbh.Animalsonly>
+  <ChangeOccupancyRestriction>Перевірка зайнятості</ChangeOccupancyRestriction>
+  <ChangeOccupancyRestrictionDesc>Колоністи перевіряють, чи не зарезервований об'єкт у кімнаті, перш ніж намагатися використати його. Перешкоджає ситуації, коли колоністи вирішили одночасно використовувати басейни та туалети та дарма витратили час на пересування до об'єкта.</ChangeOccupancyRestrictionDesc>
+  <dbh.AllowColonists>Колоністи</dbh.AllowColonists>
+  <dbh.AllowSlaves>Раби</dbh.AllowSlaves>
+  <dbh.AllowGuests>Гості</dbh.AllowGuests>
+  <dbh.NoColonists>Заборонено для колоністів</dbh.NoColonists>
+  <dbh.NoSlaves>Заборонено для рабів</dbh.NoSlaves>
+  <dbh.NoGuests>Заборонено для гостей</dbh.NoGuests>
+
+  <!--Heating-->
+  <WaterTemp>Температура води: {0}</WaterTemp>
+  <ConnectedHeatingCapacity>Опалення: {0}/{1} U ({2})</ConnectedHeatingCapacity>
+  <ConnectedCoolingCapacity>Охолодження: {0}/{1} U ({2})</ConnectedCoolingCapacity>
+  <HeatingUnits>Використання опалення: {0} U</HeatingUnits>
+  <CoolingUnits>Використання охолодження: {0} U</CoolingUnits>
+  <HeatingMode>Од. опалення/потужність: {0} U / {1} Вт</HeatingMode>
+  <CoolingMode>Од. охолодження/потужність: {0} U / {1} Вт</CoolingMode>
+  <CoolingEfficiencyGood>Ефективність: {0}</CoolingEfficiencyGood>
+  <CoolingEfficiencyBad>Ефективність: {0} опалення</CoolingEfficiencyBad>
+  <TargetTemp>Мінімальна температура: {0}</TargetTemp>
+  <LowerPower>Зменшити живлення</LowerPower>
+  <LowerPowerDesc>Зменшити опалення.</LowerPowerDesc>
+  <RaisePower>Збільшити живлення</RaisePower>
+  <RaisePowerDesc>Збільшити опалення.</RaisePowerDesc>
+  <HotwaterCapacity>Об'єм гарячої води: {0}</HotwaterCapacity>
+  <OverrideThermostat>Ігнорування термостату</OverrideThermostat>
+  <OverrideThermostatDesc>Тримати бойлер безперервно працюючим незалежно від термостата.</OverrideThermostatDesc>
+  <MustPlaceFreezerWithFreeSpaces>Витяжні клапани не повинні бути перегороджені!</MustPlaceFreezerWithFreeSpaces>
+  <SolarEfficiencyCold>Надто холодно</SolarEfficiencyCold>
+  <SolarEfficiencyRoof>Під дахом</SolarEfficiencyRoof>
+  <SolarEfficiencyGood>Ефективність опалення: {0} U ({1})</SolarEfficiencyGood>
+  <RadCurrentCap>Температура радіатора: {0}</RadCurrentCap>
+  <ThermostatSetupWarning>Термостат заблокований баками із гарячою водою. Переведіть всі підключені баки гарячої води до термостата.</ThermostatSetupWarning>
+  <HotWaterTankUseThermostat>Управління за допомогою термостату</HotWaterTankUseThermostat>
+  <HotWaterTankUseThermostatDesc>Вмикає нагрівання на 1 годину за низької температури в баках. Якщо це вимкнено, котли працюватимуть постійно та ігноруватимуть кімнатні термостати.</HotWaterTankUseThermostatDesc>
+
+  <!--Hygiene-->
+  <WashHands>Вимити руки</WashHands>
+  <Wash>Митися</Wash>
+  <UseToilet>Використати</UseToilet>
+  <SewageUsage>Використання: {0}</SewageUsage>
+  <MustBePlumbing>Має бути водопровід</MustBePlumbing>
+  <BlockedDrain>Забито злив</BlockedDrain>
+  <PlumbOrEmpty>Приєднайте або спутеште вигрібну яму</PlumbOrEmpty>
+  <WashingMachineSpinning>Запущено...</WashingMachineSpinning>
+  <WashingMachineUnload>Необхідно розвантажити</WashingMachineUnload>
+  <WashingMachineLoad>Завантаження: {0}/{1}</WashingMachineLoad>
+  <NoDirtyClothes>Немає брудного одягу</NoDirtyClothes>
+  <WashingNoSpace>Немає місця</WashingNoSpace>
+  <NoUnreservedSource>Немає доступних джерел води досить високої якості.</NoUnreservedSource>
+
+  <!--Water-->
+  <RaiseFillRate>Налив +50L</RaiseFillRate>
+  <LowerFillRate>Налив -50L</LowerFillRate>
+  <WaterFillRate>Наповнюваність: {0}L/h</WaterFillRate>
+  <dbhDrink>Пити</dbhDrink>
+  <CommandDesignateOpenCloseValveLabel>Переключити вентиль</CommandDesignateOpenCloseValveLabel>
+  <CommandDesignateOpenCloseValveDesc>Перекрити або відкрити вентиль.</CommandDesignateOpenCloseValveDesc>
+  <ValveClosed>Вентиль перекрито</ValveClosed>
+
+  <PumpCapacity>Подача насосу: {0} л/день</PumpCapacity>
+  <GroundCapacity>Об'єм ґрунтових вод: {0} л/день</GroundCapacity>
+  <PipedPumpCapacity>Подача насосу/Об'єм ґрунтових вод: {0}/{1} л/день ({2})</PipedPumpCapacity>
+
+  <WaterStorage>Води запасено: {0} л</WaterStorage>
+  <TotalWaterStorage>Води запасено: {0} л</TotalWaterStorage>
+
+  <PollutionLevel>Рівень забруднення: {0}</PollutionLevel>
+
+  <CommandSprinkleDown>Зменшити радіус</CommandSprinkleDown>
+  <CommandSprinkleUp>Збільшити радіус</CommandSprinkleUp>
+  <UntreatedWater>Якість: Не очищено – низький шанс захворювання</UntreatedWater>
+  <ContaminatedWater>Якість: Забруднено – високий шанс захворювання!</ContaminatedWater>
+  <TreatedWater>Якість: Очищено - безпечно</TreatedWater>
+
+  <DrainTank>Спустошити бак</DrainTank>
+  <DrainTankDesc>Спустошити бак й позбутися забруднення.</DrainTankDesc>
+
+  <WaterValueOffset>Значення води: {0} за {1} л</WaterValueOffset>
+  <HyWater>Вода</HyWater>
+
+  <OverlapsWells>В зоні дії {0} свердловин</OverlapsWells>
+
+  <!--Sewage-->
+  <dbh.SewageReadout>Відходи {0}</dbh.SewageReadout>
+  <DrainSepticTank>Спустоишити</DrainSepticTank>
+  <DrainSepticTankDesc>Встановіть рівень, при якому відходи повинні бути злиті в бочки, які можуть бути переміщені, перекинуті, спалені або перетворені на добриво.</DrainSepticTankDesc>
+  <SewageProcessing>Очистка: {0} л/день містить: {1} л ({2})</SewageProcessing>
+  <DoNotDrainTank>Не спустоишувати</DoNotDrainTank>
+  <DrainSepticTankAt>Спустоишувати ємність при {0}</DrainSepticTankAt>
+
+  <PitCapacity>Яма: {0}</PitCapacity>
+  <PitFull>Яма заповнена, спустоште її!</PitFull>
+  <KickOver>Перекинути</KickOver>
+  <KickOverDesc>Розплескати фекалії із цієї бочки на землю.</KickOverDesc>
+
+  <!--Composting-->
+  <ContainsCompost>Містить компосту: {0}/{1} л</ContainsCompost>
+  <ContainsFecalSludge>Містить відходів: {0}/{1} л</ContainsFecalSludge>
+  <Composted>Удобрено</Composted>
+  <CompostingProgress>Прогрес компостування: {0} ({1})</CompostingProgress>
+  <ComposterOutOfIdealTemperature>Неідеальна температура для компостування</ComposterOutOfIdealTemperature>
+  <IdealCompostingTemperature>Ідеальна температура для компостування</IdealCompostingTemperature>
+  <GrowingZoneNotAllowed>Області посівів рослин відключено</GrowingZoneNotAllowed>
+  <NoFertilizerFound>Добрива не знайдено</NoFertilizerFound>
+  <AreaPlaceFertilizer>Зона для удобрення</AreaPlaceFertilizer>
+  <AreaPlaceFertilizerDesc>Визначити зону для удобрення ґрунту.</AreaPlaceFertilizerDesc>
+  <AddFertilizerArea>Додати область</AddFertilizerArea>
+  <RemoveFertilizerArea>Видалити область</RemoveFertilizerArea>
+
+  <!--Mod Options-->
+  <dbh.DrinkPackSearchRange>Радіус пошуку упаковок для води: {0}</dbh.DrinkPackSearchRange>
+  <dbh.DrinksToPack>Упаковка води: пошук {0}, упаковка {1}</dbh.DrinksToPack>
+  <dbh.restartconfirm>Перезапуск</dbh.restartconfirm>
+  <dbh.PriorityIndoorCleaning>Пріоритет прибирання</dbh.PriorityIndoorCleaning>
+  <dbh.PriorityIndoorCleaningTip>Дозволяє прибирати в приміщенні з більш високим пріоритетом.</dbh.PriorityIndoorCleaningTip>
+  <dbh.ModRemove>Допомога у видаленні мода</dbh.ModRemove>
+  <dbh.ModRemoveDesc>Кроки:\n\n1: Збережіть гру відразу після натискання кнопки підтвердження\n2: Вийдіть в головне меню, відключіть мод і перезапустіть гру\n3: Завантажте збережену гру, проігноруйте будь-які винятки і знову збережіть\n4: Завантажте збережену гру ще раз. Всі винятки, пов'язані з відсутністю гігієни defs не повинні з'явитися!</dbh.ModRemoveDesc>
+  <PetsGetThirst>Спрага у тварин</PetsGetThirst>
+  <PetsGetThirstTip>Тварини відчуватимуть спрагу і потребуватимуть води.</PetsGetThirstTip>
+  <fixtureQualityRequiresRestart>Потрібно перезапустити, щоб додати якість та зовнішній вигляд сантехніки.\n\n Перезапустити зараз?</fixtureQualityRequiresRestart>
+  <fixtureQuality>Якість та зовнішній вигляд сантехніки</fixtureQuality>
+  <fixtureQualityTip>Включити якість та зовнішній вигляд для сантехніки (наприклад, для унітазів).</fixtureQualityTip>
+  <QuitToMenuToChange>Перейдіть до головного меню для зміни</QuitToMenuToChange>
+  <RimefellerLink>Rimefeller підключено</RimefellerLink>
+  <RimefellerLinkTip>Дозволити використання води для розщеплювачів та нафтопереробників уRimefeller.</RimefellerLinkTip>
+  <RimatomicsLink>Rimatomics підключено</RimatomicsLink>
+  <RimatomicsLinkTip>Дозволити використання води в охолоджувальних установках Rimatomics.</RimatomicsLinkTip>
+  <OverrideNeedSettingsTip>Вимкнути вручну потреби залежно від типу тіла, раси та стану здоров'я.</OverrideNeedSettingsTip>
+  <OverrideNeedsSettings>Фільтри потреб</OverrideNeedsSettings>
+  <Disablebladderneed>Вимкнути потребу в туалеті</Disablebladderneed>
+  <Disablehygieneneed>Вимкнути потребу в гігієні</Disablehygieneneed>
+  <DisableNeedsLabel>Потребу</DisableNeedsLabel>
+  <NeedCheckboxTip>Позначте, щоб увімкнути.</NeedCheckboxTip>
+  <PrisonersGetNeeds>В'язні</PrisonersGetNeeds>
+  <PrisonersGetNeedsTip>Чи матимуть бранці потреби.</PrisonersGetNeedsTip>
+  <HospitalityGuestsGetNeeds>Гості</HospitalityGuestsGetNeeds>
+  <HospitalityGuestsGetNeedsTip>Чи матимуть гості потреби.</HospitalityGuestsGetNeedsTip>
+  <PrivacyChecks>Приватність</PrivacyChecks>
+  <PrivacyChecksTip>Колоністи турбуються про приватність під час водних процедур чи використання туалетів.</PrivacyChecksTip>
+  <CoolingEfficiency>Ефективність охлаждения</CoolingEfficiency>
+  <CoolingEfficiencyTip>Чи мають високі температури впливати на ефективність охолодження, як у випадку зі стандартними кондиціонерами.</CoolingEfficiencyTip>
+  <RainIrrigation>Зрошення дощем</RainIrrigation>
+  <RainIrrigationTip>Дощ даватиме такий самий імпульс до зростання, як і зрошувачі. Може зменшити продуктивність системи.</RainIrrigationTip>
+  <DisableNeeds>Вимкнути потреби</DisableNeeds>
+  <DisableNeedsTip>Повністю вимкнути потреби. Перезаписує всі інші параметри.</DisableNeedsTip>
+  <AllowModdedDrinks>Модифіковані напої</AllowModdedDrinks>
+  <AllowModdedDrinksTip>Колоністам буде дозволено пити та забирати будь-які модифіковані напої, напої VGP та RimCuisine можуть використовуватися за замовчуванням, для інших знадобиться модифікація для defs.</AllowModdedDrinksTip>
+  <AllowDrinkPacking>Забирати пляшки з водою</AllowDrinkPacking>
+  <AllowDrinkPackingTip>Колоністи автоматично забиратимуть пляшки з водою у свій інвентар, коли вони можуть n\n\nМоже не працювати з деякими модами, для CE вам потрібно буде вручну керувати своїм спорядженням, щоб увімкнути пляшки з водою. Інакше колоністи їх упускатимуть!</AllowDrinkPackingTip>
+  <NeedsFilter>Ручне налаштування</NeedsFilter>
+  <MainFeatures>Основні можлдивості</MainFeatures>
+  <ExperimentalFeatures>Експерименти</ExperimentalFeatures>
+  <PetsGetBladder>Потреба тварин у туалеті</PetsGetBladder>
+  <PetsGetBladderTip>Вімнути потребу для домашніх тварин у туалеті, також додає туалетні лотки для вихованців.</PetsGetBladderTip>
+  <WildAnimalsGetBladder>Потреба дичини у туалеті</WildAnimalsGetBladder>
+  <WildAnimalsGetBladderTip>Вімнути потребу для дичини у туалеті, від цього може бути брудно.</WildAnimalsGetBladderTip>
+  <ThirstNeed>Спрага</ThirstNeed>
+  <ThirstNeedTip>Включити спрагу для всіх колоністів з малою потребою також додає питні фонтани і пляшки з водою. Потребує перезапуску.</ThirstNeedTip>
+  <FertilizerVisible>Добрива видимі</FertilizerVisible>
+  <FertilizerVisibleTip>Чи має клітина добрива бути видимою.</FertilizerVisibleTip>
+  <AllowNonHuman>Нелюдські колоністи</AllowNonHuman>
+  <AllowNonHumanTip>Включити потреби нелюдських колоністів. Ви можете вимкнути потреби окремих істот за допомогою налаштувань.</AllowNonHumanTip>
+  <dbh.ExtraFeatures>Додатково</dbh.ExtraFeatures>
+  <DBHLiteMode>Спрощений режим</DBHLiteMode>
+  <DBHLiteModeTip>Переключає мод у спрощений режим, які видаляє труби, водопостачання та каналізацію, а також будь-які будівлі та вид робіт, не пов'язані безпосередньо з гігієною та спрагою. з існуючими спорудами гігієни, вам може знадобитися зберегти його окремо і перезавантажити після активації режиму.</DBHLiteModeTip>
+  <LiteRequiresRestart>Ви повинні перезавантажити гру після зміни налаштування спрощеного режиму.\n\nЯкщо ви намагаєтеся завантажити збереження з існуючими спорудами гігієни, вам може знадобитися зберегти його окремо і перезавантажити після активації, щоб усунути помилки.</LiteRequiresRestart>
+  <PassiveWaterCoolersLink>Охолоджувачі використовують воду</PassiveWaterCoolersLink>
+  <PassiveWaterCoolersLinkTip>Випарювальні охолоджувачі більше не заправляються деревом і натомість вони заповнюються водою, як і водяні баки.</PassiveWaterCoolersLinkTip>
+  <sos2int>Інтеграція з SoS2</sos2int>
+  <sos2intTip>Додає обробку води та стічних вод у систему життєзабезпечення, а труби – у конструкцію кораблів.</sos2intTip>
+  <StockpileWater>Запаси води x{0}</StockpileWater>
+  <HygieneWiki>Вікі моду Bad Hygiene</HygieneWiki>
+  <HygieneWikiDesc>Перейти до вікі моду Bad Hygiene.</HygieneWikiDesc>
+  <SurvivalMode>Режим виживання</SurvivalMode>
+  <SurvivalModeTip>Обмежує запаси води на мілководді до дуже невеликих значень, елементи ландшафту більше не генерують воду, а площа підземних вод була зменшена Не потрібно починати нову гру, працює зі збереженнями.</SurvivalModeTip>
+  <HydroponicsLink>Гідропоніка</HydroponicsLink>
+  <HydroponicsLinkTip>Будівлі для вирощування рослин, такі як гідропонічні ферми, мають резервуари для води, які необхідно заповнювати з труб. Рослини помирають через відсутність води замість відсутності електроенергії. Резервуари заповнюються лише тоді, коли будова підключена до електрики.</HydroponicsLinkTip>
+  <ThirstRequiresRestart>Щоб додати або видалити елементи, пов'язані зі спрагою, потрібно перезапустити\n\n перезапустити зараз?</ThirstRequiresRestart>
+  <AllowAltDes>Дозволити модифікацію категорій</AllowAltDes>
+  <AllowAltDesTip>Дозволити іншим модам змінювати меню будівництва та розмітки.</AllowAltDesTip>
+
+</LanguageData>

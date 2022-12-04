@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: amulet -->
+  <VIE_RelicInertAmulet.label>амулет</VIE_RelicInertAmulet.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertAmulet.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertAmulet.description>
+
+  <!-- EN: antlers -->
+  <VIE_RelicInertAntlers.label>рога</VIE_RelicInertAntlers.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertAntlers.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertAntlers.description>
+
+  <!-- EN: orb -->
+  <VIE_RelicInertApple.label>сфера</VIE_RelicInertApple.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertApple.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertApple.description>
+
+  <!-- EN: axe head -->
+  <VIE_RelicInertAxeHead.label>головка сокири</VIE_RelicInertAxeHead.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertAxeHead.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertAxeHead.description>
+
+  <!-- EN: bone -->
+  <VIE_RelicInertBone.label>кістка</VIE_RelicInertBone.label>
+  <VIE_RelicInertBone.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBone.description>
+
+  <!-- EN: book -->
+  <VIE_RelicInertBook.label>книга</VIE_RelicInertBook.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBook.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBook.description>
+
+  <!-- EN: bottle -->
+  <VIE_RelicInertBottle.label>пляшка</VIE_RelicInertBottle.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBottle.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBottle.description>
+
+  <!-- EN: bowl -->
+  <VIE_RelicInertBowl.label>миска</VIE_RelicInertBowl.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBowl.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBowl.description>
+
+  <!-- EN: bracelet -->
+  <VIE_RelicInertBracelet.label>браслет</VIE_RelicInertBracelet.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBracelet.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBracelet.description>
+
+  <!-- EN: broken mask -->
+  <VIE_RelicInertBrokenMask.label>зламана маска</VIE_RelicInertBrokenMask.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBrokenMask.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBrokenMask.description>
+
+  <!-- EN: broken spear -->
+  <VIE_RelicInertBrokenSpear.label>зламаний спис</VIE_RelicInertBrokenSpear.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBrokenSpear.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBrokenSpear.description>
+
+  <!-- EN: bucket -->
+  <VIE_RelicInertBucket.label>відро</VIE_RelicInertBucket.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertBucket.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertBucket.description>
+
+  <!-- EN: ceremonial mask -->
+  <VIE_RelicInertCeremonialMask.label>церемоніальна маска</VIE_RelicInertCeremonialMask.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertCeremonialMask.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertCeremonialMask.description>
+
+  <!-- EN: chain -->
+  <VIE_RelicInertChain.label>ланцюг</VIE_RelicInertChain.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertChain.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertChain.description>
+
+  <!-- EN: tech -->
+  <VIE_RelicInertEngine.label>двигун</VIE_RelicInertEngine.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertEngine.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertEngine.description>
+
+  <!-- EN: engram -->
+  <VIE_RelicInertEngram.label>енграма</VIE_RelicInertEngram.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertEngram.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertEngram.description>
+
+  <!-- EN: fossil -->
+  <VIE_RelicInertFossil.label>скам'янілість</VIE_RelicInertFossil.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertFossil.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertFossil.description>
+
+  <!-- EN: gauntlet -->
+  <VIE_RelicInertGauntlet.label>рукавиця</VIE_RelicInertGauntlet.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertGauntlet.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertGauntlet.description>
+
+  <!-- EN: horn -->
+  <VIE_RelicInertHorn.label>ріг</VIE_RelicInertHorn.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertHorn.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertHorn.description>
+
+  <!-- EN: idol -->
+  <VIE_RelicInertIdol.label>ідол</VIE_RelicInertIdol.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertIdol.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertIdol.description>
+
+  <!-- EN: implant -->
+  <VIE_RelicInertImplant.label>імплант</VIE_RelicInertImplant.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertImplant.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertImplant.description>
+
+  <!-- EN: insect skull -->
+  <VIE_RelicInertInsectSkull.label>череп інсектоїда</VIE_RelicInertInsectSkull.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertInsectSkull.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertInsectSkull.description>
+
+  <!-- EN: mechanoid head -->
+  <VIE_RelicInertMechanoidHead.label>голова механоїда</VIE_RelicInertMechanoidHead.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertMechanoidHead.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertMechanoidHead.description>
+
+  <!-- EN: medallion -->
+  <VIE_RelicInertMedallion.label>медальйон</VIE_RelicInertMedallion.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertMedallion.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertMedallion.description>
+
+  <!-- EN: mug -->
+  <VIE_RelicInertMug.label>гуртка</VIE_RelicInertMug.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertMug.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertMug.description>
+
+  <!-- EN: slag -->
+  <VIE_RelicInertPlate.label>металобрухт</VIE_RelicInertPlate.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertPlate.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertPlate.description>
+
+  <!-- EN: polished rock -->
+  <VIE_RelicInertPolishedRock.label>полірований камінь</VIE_RelicInertPolishedRock.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertPolishedRock.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertPolishedRock.description>
+
+  <!-- EN: pyramid -->
+  <VIE_RelicInertPyramid.label>пірамідка</VIE_RelicInertPyramid.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertPyramid.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertPyramid.description>
+
+  <!-- EN: ring -->
+  <VIE_RelicInertRing.label>перстень</VIE_RelicInertRing.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertRing.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertRing.description>
+
+  <!-- EN: scroll -->
+  <VIE_RelicInertScroll.label>сувій</VIE_RelicInertScroll.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertScroll.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertScroll.description>
+
+  <!-- EN: shroud -->
+  <VIE_RelicInertShroud.label>плащаниця</VIE_RelicInertShroud.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertShroud.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertShroud.description>
+
+  <!-- EN: skull -->
+  <VIE_RelicInertSkull.label>череп</VIE_RelicInertSkull.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertSkull.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertSkull.description>
+
+  <!-- EN: stack -->
+  <VIE_RelicInertStack.label>база даних</VIE_RelicInertStack.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertStack.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertStack.description>
+
+  <!-- EN: statuette -->
+  <VIE_RelicInertStatuette.label>статуетка</VIE_RelicInertStatuette.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertStatuette.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertStatuette.description>
+
+  <!-- EN: broken sword -->
+  <VIE_RelicInertSword.label>зламаний меч</VIE_RelicInertSword.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertSword.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertSword.description>
+
+  <!-- EN: tools -->
+  <VIE_RelicInertTools.label>інструменти</VIE_RelicInertTools.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <VIE_RelicInertTools.description>Об'єкт, що має ідеологічне значення.</VIE_RelicInertTools.description>
+</LanguageData>

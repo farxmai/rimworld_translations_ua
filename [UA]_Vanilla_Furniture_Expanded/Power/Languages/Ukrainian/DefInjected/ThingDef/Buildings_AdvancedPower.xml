@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_AdvancedWindTurbine.label>просунутий вітрогенератор</VFE_AdvancedWindTurbine.label>
+  <VFE_AdvancedWindTurbine.description>Просунуте пристрій, що перетворює силу вітру на електроенергію. Потребує відкритий простір перед та за ним для оптимального потоку повітря.</VFE_AdvancedWindTurbine.description>
+
+  <VFE_AdvancedSolarGenerator.label>просунута сонячна батарея</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedSolarGenerator.description>Просунуте пристрій, що перетворює сонячне світло на електричний струм. Не працює у темряві та від штучного освітлення.</VFE_AdvancedSolarGenerator.description>
+
+  <VFE_AdvancedWatermillGenerator.label>просунутий водяний генератор</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>Просунуте пристрій, що перетворює енергію течії води електричний струм. Слід розміщувати так, щоб колесо було у водному потоці. Якщо колеса генераторів розмістити надто близько один до одного, вироблені ними завихрення у водному потоці накладуться один на одного і знизять загальний виробіток енергії.</VFE_AdvancedWatermillGenerator.description>
+
+  <VPE_AdvancedGeothermalGenerator.label>просунутий геотрермальний генератор</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>Просунуте пристрій, що виробляє енергію з парових гейзерів. Має бути розміщений на гейзері.</VPE_AdvancedGeothermalGenerator.description>
+
+</LanguageData>

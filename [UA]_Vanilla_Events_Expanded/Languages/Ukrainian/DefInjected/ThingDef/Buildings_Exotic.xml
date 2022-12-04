@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_ShipChunkHuman.label>уламок корабля</VEE_ShipChunkHuman.label>
+  <VEE_ShipChunkHuman.description>Шматок космічного корабля. Може бути розібраний для отримання корисних ресурсів.</VEE_ShipChunkHuman.description>
+
+  <VEE_Shuttle.label>уламок шатла</VEE_Shuttle.label>
+  <VEE_Shuttle.description>Шматок шатла. Може бути розібраний для отримання корисних ресурсів.</VEE_Shuttle.description>
+
+  <ShuttleChunkIncoming.label>уламок шатла (прибуття)</ShuttleChunkIncoming.label>
+
+  <SlagIncoming.label>металобрухт (прибуття)</SlagIncoming.label>
+</LanguageData>

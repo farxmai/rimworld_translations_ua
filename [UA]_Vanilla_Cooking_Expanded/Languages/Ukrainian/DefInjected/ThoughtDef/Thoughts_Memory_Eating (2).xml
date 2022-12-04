@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedSoySauce.stages.0.label>з'їв(ла) соєвий соус</VCE_ConsumedSoySauce.stages.0.label>
+  <VCE_ConsumedSoySauce.stages.0.description>Солоність, умамі, насолода і дуже слабка гіркота. Досконалість.</VCE_ConsumedSoySauce.stages.0.description>
+
+  <VCE_ConsumedWasabi.stages.0.label>подих дракона</VCE_ConsumedWasabi.stages.0.label>
+  <VCE_ConsumedWasabi.stages.0.description>Горлянка палає та хочу ще!</VCE_ConsumedWasabi.stages.0.description>
+
+  <VCE_AteSimpleSushi.stages.0.label>з'їв(ла) прості суші</VCE_AteSimpleSushi.stages.0.label>
+  <VCE_AteSimpleSushi.stages.0.description>Навіть прості суші - делікатес.</VCE_AteSimpleSushi.stages.0.description>
+
+  <VCE_AteFineSushi.stages.0.label>з'їв(ла) чудові суші</VCE_AteFineSushi.stages.0.label>
+  <VCE_AteFineSushi.stages.0.description>Я з'їв(ла) чудові суші. Смак дуже ніжний.</VCE_AteFineSushi.stages.0.description>
+
+  <VCE_AteLavishSushi.stages.0.label>з'їв(ла) вишукані суші</VCE_AteLavishSushi.stages.0.label>
+  <VCE_AteLavishSushi.stages.0.description>Я з'їв(ла) просто неймовірні суші. Неперевершено!</VCE_AteLavishSushi.stages.0.description>
+
+  <VCE_AteGourmetSushi.stages.0.label>з'їв(ла) першокласні суші</VCE_AteGourmetSushi.stages.0.label>
+  <VCE_AteGourmetSushi.stages.0.description>Думаю, я тільки що з'їв русалку... і хочу ще!</VCE_AteGourmetSushi.stages.0.description>
+
+  <VCE_AteFriedSushi.stages.0.label>з'їв(ла) гарячі суші</VCE_AteFriedSushi.stages.0.label>
+  <VCE_AteFriedSushi.stages.0.description>Їжа з скоринкою. Дуже смачно!</VCE_AteFriedSushi.stages.0.description>
+
+</LanguageData>

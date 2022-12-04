@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCEF_Fishing.label>Рибалка</VCEF_Fishing.label>
+  <VCEF_Fishing.labelShort>Рибалка</VCEF_Fishing.labelShort>
+  <VCEF_Fishing.pawnLabel>Рибалка</VCEF_Fishing.pawnLabel>
+  <VCEF_Fishing.gerundLabel>Ловити рибу</VCEF_Fishing.gerundLabel>
+  <VCEF_Fishing.description>Рибалка ловить рибу у спеціалізованих зонах.</VCEF_Fishing.description>
+  <VCEF_Fishing.verb>ловити</VCEF_Fishing.verb>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_MilkFromRice.label>витягти молоко з рису</VCE_MilkFromRice.label>
+  <VCE_MilkFromRice.description>Витягти молоко з рису. Це молоко може використовуватися в будь-яких рецептах, що вимагають наявності молока. Рослинне молоко в цілому менш поживне, тому що більшість поживних речовин втрачається в процесі його отримання.</VCE_MilkFromRice.description>
+  <VCE_MilkFromRice.jobString>Витягує молоко з рису</VCE_MilkFromRice.jobString>
+
+  <VCE_MilkFromAlmonds.label>витягти молоко з мигдалю</VCE_MilkFromAlmonds.label>
+  <VCE_MilkFromAlmonds.description>Витягти молоко з мигдалю. Це молоко може використовуватися в будь-яких рецептах, що вимагають наявності молока. Рослинне молоко в цілому менш поживне, тому що більшість поживних речовин втрачається в процесі його отримання.</VCE_MilkFromAlmonds.description>
+  <VCE_MilkFromAlmonds.jobString>Витягує молоко з мигдалю</VCE_MilkFromAlmonds.jobString>
+
+  <VCE_MilkFromCoconuts.label>витягти молоко з кокосів</VCE_MilkFromCoconuts.label>
+  <VCE_MilkFromCoconuts.description>Витягти молоко з кокосів. Це молоко може використовуватися в будь-яких рецептах, що вимагають наявності молока. Рослинне молоко в цілому менш поживне, тому що більшість поживних речовин втрачається в процесі його отримання.</VCE_MilkFromCoconuts.description>
+  <VCE_MilkFromCoconuts.jobString>Витягує молоко з кокосів</VCE_MilkFromCoconuts.jobString>
+
+  <VCE_MilkFromOats.label>витягти молоко з вівса</VCE_MilkFromOats.label>
+  <VCE_MilkFromOats.description>Витягти молоко з вівса. Це молоко може використовуватися в будь-яких рецептах, що вимагають наявності молока. Рослинне молоко в цілому менш поживне, тому що більшість поживних речовин втрачається в процесі його отримання.</VCE_MilkFromOats.description>
+  <VCE_MilkFromOats.jobString>Витягує молоко з вівса</VCE_MilkFromOats.jobString>
+</LanguageData>

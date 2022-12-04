@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>біонічний сечовий міхур</BionicBladder.label>
+  <BionicBladder.description>Встановлений біонічний сечовий міхур.</BionicBladder.description>
+  <BionicBladder.labelNoun>біонічний сечовий міхур</BionicBladder.labelNoun>
+
+  <HygieneEnhancer.label>підсилювач гігієни</HygieneEnhancer.label>
+  <HygieneEnhancer.description>Встановлений підсилювач гігієни.</HygieneEnhancer.description>
+  <HygieneEnhancer.labelNoun>підсилювач гігієни</HygieneEnhancer.labelNoun>
+
+
+</LanguageData>

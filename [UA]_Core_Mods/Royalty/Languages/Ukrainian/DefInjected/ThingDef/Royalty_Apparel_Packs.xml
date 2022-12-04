@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: low-shield pack -->
+  <Apparel_PackBroadshield.label>переносний генератор бар'єру</Apparel_PackBroadshield.label>
+  <!-- EN: A single-use man-portable low-shield projector. Deployed on the ground, it generates a circular shield that allows bullets out but not in. The unit is designed to last only a short time before burning out.\n\nMany ultratech combat squads owe their lives to a shield pack deployed at just the right time. -->
+  <Apparel_PackBroadshield.description>Одноразовий переносний проектор захисного бар'єру. Розгортається на землі і створює поле, що не пропускає кулі ззовні. Генератор призначений для нетривалого періоду роботи, після чого виходить з ладу.\n\nБагато бойових загонів з високотехнологічних світів зобов'язані своїм життям цьому пристрою, активованому в правильний момент.</Apparel_PackBroadshield.description>
+  <!-- EN: shield -->
+  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>щит</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
+  <!-- EN: deploy low-shield -->
+  <Apparel_PackBroadshield.verbs.deploy_lowshield.label>активувати бар'єр</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
+
+  <!-- EN: jump pack -->
+  <Apparel_PackJump.label>реактивний ранець</Apparel_PackJump.label>
+  <!-- EN: A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap long distances at high speed, even over obstacles. It must be recharged after several uses.\n\nSome spacer tech militaries have melee combat specialists who use jump packs to bypass obstacles and rapidly close with the enemy. -->
+  <Apparel_PackJump.description>Переносний реактивний ранець для польотів на короткі відстані. Інтегрована система кріплень, що настроюється, і система управління польотом допомагають здійснювати довгі стрибки на високій швидкості навіть через перешкоди. Після кількох застосувань потребує перезаряджання.\n\nВ арміях деяких високотехнологічних світів є фахівці ближнього бою, які використовують цей пристрій для стрімкого зближення з противником в обхід перешкод.</Apparel_PackJump.description>
+  <!-- EN: jump -->
+  <Apparel_PackJump.comps.CompReloadable.chargeNoun>реактивний стрибок</Apparel_PackJump.comps.CompReloadable.chargeNoun>
+  <!-- EN: jump -->
+  <Apparel_PackJump.verbs.jump.label>здійснити реактивний стрибок</Apparel_PackJump.verbs.jump.label>
+
+</LanguageData>

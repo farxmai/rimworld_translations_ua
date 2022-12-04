@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: automated turrets -->
+  <VME_AutonomousWeapons_Accepted.stages.0.label>автоматичні турелі</VME_AutonomousWeapons_Accepted.stages.0.label>
+  <!-- EN: We use automated turrets. They are an incredible boon to our defenses. -->
+  <VME_AutonomousWeapons_Accepted.stages.0.description>Ми використовуємо автоматичні турелі. Вони надзвичайно корисні для нашої оборони.</VME_AutonomousWeapons_Accepted.stages.0.description>
+
+  <!-- EN: automated turrets -->
+  <VME_AutonomousWeapons_Exalted.stages.0.label>автоматичні турелі</VME_AutonomousWeapons_Exalted.stages.0.label>
+  <!-- EN: We use automated turrets. Automated defenses are key to a proper defense of what is ours. -->
+  <VME_AutonomousWeapons_Exalted.stages.0.description>Ми використовуємо автоматичні турелі. Автоматичний захист - ключ до належного захисту нашої колонії.</VME_AutonomousWeapons_Exalted.stages.0.description>
+</LanguageData>

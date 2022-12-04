@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: hunter -->
+  <VEE_TribalHunter.label>мисливець</VEE_TribalHunter.label>
+  <VEE_TribalHunter.labelPlural>мисливці</VEE_TribalHunter.labelPlural>
+  <VEE_TribalHunter.labelMale>мисливець</VEE_TribalHunter.labelMale>
+  <VEE_TribalHunter.labelMalePlural>мисливці</VEE_TribalHunter.labelMalePlural>
+  <VEE_TribalHunter.labelFemale>мисливиця</VEE_TribalHunter.labelFemale>
+  <VEE_TribalHunter.labelFemalePlural>мисливиці</VEE_TribalHunter.labelFemalePlural>
+
+  <!-- EN: hunter -->
+  <Hunter.label>мисливець</Hunter.label>
+  <Hunter.labelPlural>мисливці</Hunter.labelPlural>
+  <Hunter.labelMale>мисливець</Hunter.labelMale>
+  <Hunter.labelMalePlural>мисливці</Hunter.labelMalePlural>
+  <Hunter.labelFemale>мисливиця</Hunter.labelFemale>
+  <Hunter.labelFemalePlural>мисливиці</Hunter.labelFemalePlural>
+
+</LanguageData>

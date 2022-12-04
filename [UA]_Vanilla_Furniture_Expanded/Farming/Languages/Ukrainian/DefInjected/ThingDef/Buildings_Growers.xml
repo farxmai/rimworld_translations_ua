@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox.label>ящик для рослин</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Ящик з ґрунтом для вирощування рослин. Не потребує електроенергії для роботи.</VFE_PlanterBox.description>
+
+  <VFE_Ecosystem.label>штучна екосистема</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Дозволяє швидко вирощувати рослини у штучному поживному середовищі. Потребує багато електроенергії; рослини загинуть, якщо її не буде.\n\nМістить вбудовану сонячну лампу.</VFE_Ecosystem.description>
+
+</LanguageData>

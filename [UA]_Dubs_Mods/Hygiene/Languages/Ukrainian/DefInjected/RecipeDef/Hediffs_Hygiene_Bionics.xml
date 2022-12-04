@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicBladder.label>встановити біонічний сечовий міхур</InstallBionicBladder.label>
+  <InstallBionicBladder.description>Встановити біонічний сечовий міхур.</InstallBionicBladder.description>
+  <InstallBionicBladder.jobString>Встановлення біонічний сечовий міхур.</InstallBionicBladder.jobString>
+
+  <InstallHygieneEnhancer.label>встановити підсилювач гігієни</InstallHygieneEnhancer.label>
+  <InstallHygieneEnhancer.description>Встановити підсилювач гігієни.</InstallHygieneEnhancer.description>
+  <InstallHygieneEnhancer.jobString>Встановлення підсилювач гігієни.</InstallHygieneEnhancer.jobString>
+
+
+</LanguageData>

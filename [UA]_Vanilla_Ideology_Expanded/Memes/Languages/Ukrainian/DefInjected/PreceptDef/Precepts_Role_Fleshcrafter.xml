@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fleshcrafter -->
+  <VME_IdeoRole_Fleshcrafter.label>майстер плоті</VME_IdeoRole_Fleshcrafter.label>
+  <!-- EN: A veritable anatomical expert capable of excising organs from recently deceased cadavers. Because of organ damage and decay only between one and three organs will be harvested at random and the rest of the corpse will be reduced to meat. -->
+  <VME_IdeoRole_Fleshcrafter.description>Досвідчений знавець анатомії, що вміє вилучати органи з тіл нещодавно померлих. Через внутрішні пошкодження і розкладання, що починається, можна встигнути витягти тільки від одного до трьох випадкових органів. Після чого в тілі залишиться лише м'ясо.</VME_IdeoRole_Fleshcrafter.description>
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 21 -->
+
+  <!-- EN: light -->
+  <VME_Light.label>культ світла</VME_Light.label>
+  <!-- EN: Darkness obscures one's vision as well as 1's mind, darklight є wicked occurrence і is not to be condoned. -->
+  <VME_Light.description>Темрява затьмарює зір так само, як і розум. Темне світло - це порочне явище, з яким не можна миритися.</VME_Light.description>
+
+  <VME_Light.generalRules.rulesStrings>
+    <li>memeAdjective->світлий</li>
+    <li>memeAdjective->яскравий</li>
+    <li>memeHyphenPrefix->світло</li>
+    <li>memeHyphenPrefix->яскраво</li>
+    <li>memeConcept->світла</li>
+    <li>memeLeaderNoun->осяяний</li>
+    <li>memeLeaderNoun->паладин</li>
+    <li>memeLeaderAdjective->світлий</li>
+    <li>memeMoralist->просвітитель</li>
+  </VME_Light.generalRules.rulesStrings>
+
+
+  <VME_Light.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Light) ->На початку [deity0_created] [deity0_name] небо та землю. І [deity0_said] [deity0_pronoun]: «Хай буде світло». І стало світло.</li>
+    <li>episode(uses=1,tag=meme_Light) ->І [deity0_saw] [deity0_name] світло, що воно добре, і [deity0_divided] [deity0_name] світло від темряви. І [deity0_called] [deity0_name] світло вдень, а темряву вночі.</li>
+    <li>intro(tag=meme_Light) ->І [deity0_said] [deity0_name]: «Нехай будуть світила на тверді небесній для відокремлення дня від ночі, і для знамень, і часів, і днів, і років». [memberNamePlural] побудували храм на згадку про [deity0_possessive] слова.</li>
+    <li>conflict(tag=meme_Light) ->[foe_envious] [foeLeader] [foe_looked] на ці чудеса і [foe_wanted] занурити Всесвіт у темряву.</li>
+    <li>founderJoin(tag=meme_Light) ->[founderName], [founder_prophet] про допомогу. І [deity0_made] [deity0_name] два світила великі: світило більше, для керування днем, і світило менше, для керування вночі, і зірки. І [deity0_set] їх [deity0_name] на тверді небесній, щоб світити на світ.</li>
+    <li>victory(tag=meme_Light) ->The [foeLeader] [foe_humbled] в жаху, бо світло сонця було сильніше [foeLeader_possessive] волі.</li>
+    <li>setup(tag=meme_Light) ->[founderName] [founder_was] був рятувальником у забутому околицевому світі. [founder_pronoun] [founder_looked] на бідність і убожество племен, що деградували, і [founder_understood], що тільки чистота серця і помислів зможе подолати труднощі, з якими стикається людство.</li>
+    <li>story(uses=1,tag=meme_Light) ->[founderName] [founder_created] найбільша неурядова організація, відома людству, і добровольці поширилися серед зірок, щоб поділитися [founder_possessive] посланням згоди та миру.</li>
+    <li>lessonIntro(tag=meme_Light) ->Волонтерство - це суть людини. Ніхто не досяг успіху в житті без будь-якої допомоги. Я хочу, щоб ви зрозуміли, що </li>
+    <li>lesson(tag=meme_Light) ->найкращий спосіб знайти себе — це втратити себе у служінні іншим</li>
+    <li>lessonReinforcement(tag=meme_Light) ->Ось що означає розсіяти пітьму.</li>
+    <li>archistBasis(tag=meme_Light) ->Архотеки з самого початку сприймали всесвіт за допомогою почуттів, що виходять за рамки фізичних. Чистота їхніх думок заливає Всесвіт світлом.</li>
+    <li>archistFact(tag=meme_Light) ->Затуманюючи наші почуття темрявою, ми тільки перешкоджаємо собі розуміти всесвіт так, як це роблять архотехи.</li>
+    <li>archistProphecy(tag=meme_Light) ->[inTheEnd], ми назавжди виженемо пітьму і відкриємо мудрість архотеків для всього людства.</li>
+    <li>animistBasis(tag=meme_Light) ->Світ духів — це світ, вкритий темрявою, що блокує їхню пряму взаємодію з матеріальним світом.</li>
+    <li>animistFact(tag=meme_Light) ->Ми повинні вигнати темряву зі світу духів і наповнити його світлом, щоб духи могли по-справжньому побачити нас такими, якими ми є.</li>
+    <li>animistProphecy(tag=meme_Light) ->[itIsSaid] тільки ті, хто може безперешкодно заглядати у світ духів, можуть по-справжньому спілкуватися з духами.</li>
+    <li>serketistProphecy(tag=meme_Light)->[itIsSaid] ми будемо дивитися немиготливими фасетковими очима у Всесвіт чистого сяйва, вільний від темряви, який прив'язує нас до наших крихких оболонок ссавців.</li>
+    <li>chthonianProphecy(tag=meme_Light)->Ці моторошні сутності насолоджуються темрявою. Розумна похмура темрява зі спіральних чорних вихорів, що проникає всередину вашої суті. Тому ми приймемо світло, щоб назавжди вигнати їхню порожнечу безумства.</li>
+    <li>esotericismProphecy(tag=meme_Light)->Таке окультне знання лежить у темряві. Тому ми повинні прийняти світло, щоб вигнати таємниці з того, що планують приховати від нас.</li>
+    <li>eschatologismFact(tag=meme_Light)->Сліпуча світло сповістить про кінець світу, огорнувши світ смертоносним, знищуючим сяйвом.</li>
+    <li>introMemo(tag=meme_Light)->Згідно з планом, з наступного вівторка у всіх наших офісах будуть встановлені нові неонові світильники синього кольору. Це енергоефективні світильники, нешкідливі для довкілля! </li>
+    <li>alienistProphecy(tag=meme_Light)->Ці несхожі істоти надто далеко відхилилися від світла і блукають у пітьмі.</li>
+    <li>deity0_created(deity0_gender==None)->створив</li>
+    <li>deity0_created(deity0_gender==Male)->створив</li>
+    <li>deity0_created(deity0_gender==Female)-> створила </li>
+    <li>deity0_said(deity0_gender==None)->сказало</li>
+    <li>deity0_said(deity0_gender==Male)->сказав</li>
+    <li>deity0_said(deity0_gender==Female)->сказала</li>
+    <li>deity0_saw(deity0_gender==None)->побачило</li>
+    <li>deity0_saw(deity0_gender==Male)->побачив</li>
+    <li>deity0_saw(deity0_gender==Female)->побачила</li>
+    <li>deity0_divided(deity0_gender==None)->відділило</li>
+    <li>deity0_divided(deity0_gender==Male)->відділив</li>
+    <li>deity0_divided(deity0_gender==Female)->відділила</li>
+    <li>deity0_called(deity0_gender==None)->назвало</li>
+    <li>deity0_called(deity0_gender==Male)->назвав</li>
+    <li>deity0_called(deity0_gender==Female)->назвала</li>
+    <li>foe_envious(foeLeader_gender==Male)->заздрісний</li>
+    <li>foe_envious(foeLeader_gender==Female)->заздрісна</li>
+    <li>foe_looked(foeLeader_gender==Male)->дивився</li>
+    <li>foe_looked(foeLeader_gender==Female)->дивилася</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотів</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотіла</li>
+    <li>founder_prophet(founder_gender==Male)->найбільший пророк, молився</li>
+    <li>founder_prophet(founder_gender==Female)->найбільша пророчиця, молилася</li>
+    <li>deity0_made(deity0_gender==None)->створело</li>
+    <li>deity0_made(deity0_gender==Male)->створив</li>
+    <li>deity0_made(deity0_gender==Female)->створила</li>
+    <li>deity0_set(deity0_gender==None)->поставило</li>
+    <li>deity0_set(deity0_gender==Male)->поставив</li>
+    <li>deity0_set(deity0_gender==Female)->поставила</li>
+    <li>foe_humbled(foeLeader_gender==Male)->був принижений і втік</li>
+    <li>foe_humbled(foeLeader_gender==Female)->була принижена та бігла</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_looked(founder_gender==Male)->дивився</li>
+    <li>founder_looked(founder_gender==Female)->переглянула</li>
+    <li>founder_understood(founder_gender==Male)->зрозумів</li>
+    <li>founder_understood(founder_gender==Female)->зрозуміла</li>
+    <li>founder_created(founder_gender==Male)->створив</li>
+    <li>founder_created(founder_gender==Female)->створила</li>
+  </VME_Light.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Light -->
+  <VME_Light.symbolPacks.0.ideoName>Світлість</VME_Light.symbolPacks.0.ideoName>
+  <!-- EN: light -->
+  <VME_Light.symbolPacks.0.theme>світла</VME_Light.symbolPacks.0.theme>
+  <!-- EN: light -->
+  <VME_Light.symbolPacks.0.adjective>світлий</VME_Light.symbolPacks.0.adjective>
+  <!-- EN: lightbringer -->
+  <VME_Light.symbolPacks.0.member>світлоносець</VME_Light.symbolPacks.0.member>
+</LanguageData>

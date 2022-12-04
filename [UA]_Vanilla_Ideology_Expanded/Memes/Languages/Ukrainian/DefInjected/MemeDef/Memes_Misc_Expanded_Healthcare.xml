@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 31 -->
+
+  <!-- EN: healthcare -->
+  <VME_Healthcare.label>святість здоров'я</VME_Healthcare.label>
+  <!-- EN: Досить наших Bodies і Minds є деякі наші люди, що дуже серйозно. Це важливо те, що ми бачимо для всіх інших і налаштовуються на ваші друзі і сімейні особи. -->
+  <VME_Healthcare.description>Благополуччя наших тіл і розумів — це те, до чого ми дуже серйозно ставимося. Турбота одна про одну важлива, як і турбота про рани, отримані нашими друзями або членами сім'ї.</VME_Healthcare.description>
+
+  <VME_Healthcare.generalRules.rulesStrings>
+    <li>memeAdjective->здоровий</li>
+    <li>memeAdjective->медичний</li>
+    <li>memeAdjective->профілактичний</li>
+    <li>memeCreed->режим профілактики</li>
+    <li>memeCreed->культ здоров'я</li>
+    <li>memeHyphenPrefix->мед</li>
+    <li>memeConcept->лікарні</li>
+    <li>memeLeaderNoun->лікар</li>
+    <li>memeLeaderNoun->терапевт</li>
+    <li>memeLeaderNoun->хірург</li>
+    <li>memeMoralist->доктор</li>
+  </VME_Healthcare.generalRules.rulesStrings>
+
+  <VME_Healthcare.descriptionMaker.rules.rulesStrings>
+
+    <li>creation(tag=meme_Healthcare) ->[deity0_name] [deity0_spoke] своїм послідовникам: «Дайте людям те, що їм потрібно: їжу, ліки, чисте повітря, чисту воду, дерева та траву. Не питайте, хто цього вартийб адже життя усых рівноцінне».</li>
+    <li>episode(uses=1,tag=meme_Healthcare) ->Як [deity0_commanded] [deity0_name], ми завжди дбали один про одного і об'єднували наші сили, щоб ніхто не страждав на самоті.</li>
+    <li>intro(tag=meme_Healthcare) ->У місці, що відоме як [place_summary] [place_name], [memberNamePlural] побудували гігантську лікарню, де дбали про хворих та немічних.</li>
+    <li>conflict(tag=meme_Healthcare) ->Злісний продавець страхових полісів, бачачи, як прибуток [foeLeader_possessive] випаровується через громадську охорону здоров'я, вирішив шкодити лікарні всіма доступними засобами.</li>
+    <li>founderJoin(tag=meme_Healthcare) ->Наш засновник, [founderName], твердо [founder_spoke] [foeLeader_objective]: "Недоречно розмірковувати про золоту середину для чогось, що є основним правом".</li>
+    <li>victory(tag=meme_Healthcare) ->Зрештою всі переконалися у вірності його [founderName_possessive] аргументів, і [memberNamePlural] назавжди повірили у необхідність загальної охорони здоров'я.</li>
+    <li>setup(tag=meme_Healthcare) ->[founderName] [founder_was] досвідченим хірургом в одному з утопічних світів, але втратив здатність користуватися руками внаслідок дорожньої пригоди. Ось так він і став Верховним Магом і... а ні, заждіть, не той Всесвіт...</li>
+    <li>story(uses=1,tag=meme_Healthcare) ->[founderName] [founder_argued], що здоров'я – це ваша гарантія. Виглядає абсолютно безглуздим безжальна витрата здоров'я заради заробляння грошей, які потім будуть витрачені на відновлення здоров'я.</li>
+    <li>lessonIntro(tag=meme_Healthcare) ->Старший лікар нашого поселення навчав мене історії охорони здоров'я, і ​​чому зцілення тих, хто не має коштів на лікування, є основою вільного суспільства. Він вів мене до розуміння того, що</li>
+    <li>lesson(tag=meme_Healthcare) ->кожна подорож у вашому житті починається зі здорового розуму та здорового маршруту</li>
+    <li>lessonReinforcement(tag=meme_Healthcare) ->Ви можете не цінувати наявність хорошого здоров'я, але ви безперечно пошкодуєте про відсутність хорошого здоров'я, тому що здоров'я — це щастя.</li>
+    <li>archistBasis(tag=meme_Healthcare) ->Архотеки нескінченно мудрі істоти. Для них важливі такі цінності, як розуміння та співчуття.</li>
+    <li>archistFact(tag=meme_Healthcare) ->Суспільство, яке не дбає про нужденних, - це жорстока глузування з цивілізації. Як би архотеки судили про нас, якби ми не зцілювали тих, хто цього потребує?</li>
+    <li>archistProphecy(tag=meme_Healthcare) ->[inTheEnd], архотеки дозволять лише найспівчутливішим з нас піднестись.</li>
+    <li>animistBasis(tag=meme_Healthcare) ->Духи цінують співчуття та співчуття понад усе інше.</li>
+    <li>animistFact(tag=meme_Healthcare) ->Душа однакова у всіх живих істот, тому має сенс не робити відмінностей при зціленні інших.</li>
+    <li>animistProphecy(tag=meme_Healthcare) ->[itIsSaid], що тільки ті, хто дійсно може подбати про нужденних, зможуть спілкуватися з духами.</li>
+    <li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid], ми піклуватимемося один про одного, як комахи. Об'єднані метою, волею та співчуттям один до одного.</li>
+    <li>chthonianProphecy(tag=meme_Healthcare)->Ці моторошні істоти могли б побачити, як ми б'ємося і сваримося між собою, розриваємо один одного на частини. Ми покажемо їм, що співчуття і співчуття є єдиною метою, до якої варто прагнути.</li>
+    <li>esotericismProphecy(tag=meme_Healthcare)->Для розуміння такого окультного знання знадобиться ясний розум. Завдяки співчуттю та співчуттю до інших ми досягнемо того стану розуму, який дозволить нам побачити космос таким, яким він є насправді.</li>
+    <li>eschatologismFact(tag=meme_Healthcare)->Ми плекатимемо і підтримуватимемо один одного, тому що ми є оплотом чистоти в цьому непристойному світі, і в порівнянні ми побачимо його беззаконня і те, чому його жорстокі жителі повинні бути очищені.</li>
+    <li>introMemo(tag=meme_Healthcare)->Нагадуємо, що компанія пропонує комплексні медичні пільги в рамках вашого трудового договору. Не соромтеся вивчати докладну інформацію у внутрішній мережі компанії та надсилати будь-які запити до відділу кадрів.</li>
+    <li>alienistProphecy(tag=meme_Healthcare)->Ці несхожі створіння - бідні, невинні істоти. Ми повинні піклуватися про них і виявляти співчуття та співчуття.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->сказало</li>
+    <li>deity0_spoke(deity0_gender==Male)->сказав</li>
+    <li>deity0_spoke(deity0_gender==Female)->сказала</li>
+    <li>deity0_commanded(deity0_gender==None)->наказало</li>
+    <li>deity0_commanded(deity0_gender==Male)->наказав</li>
+    <li>deity0_commanded(deity0_gender==Female)->наказала</li>
+    <li>founder_spoke(founder_gender==Male)->заявив</li>
+    <li>founder_spoke(founder_gender==Female)->заявила</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_argued(founder_gender==Male)->стверджував</li>
+    <li>founder_argued(founder_gender==Female)->стверджувала</li>
+
+  </VME_Healthcare.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Healthcare -->
+  <VME_Healthcare.symbolPacks.0.ideoName>Охорона здоров'я</VME_Healthcare.symbolPacks.0.ideoName>
+  <!-- EN: healthcare -->
+  <VME_Healthcare.symbolPacks.0.theme>охорони здоров'я</VME_Healthcare.symbolPacks.0.theme>
+  <!-- EN: medical -->
+  <VME_Healthcare.symbolPacks.0.adjective>медичний</VME_Healthcare.symbolPacks.0.adjective>
+  <!-- EN: medic -->
+  <VME_Healthcare.symbolPacks.0.member>медик</VME_Healthcare.symbolPacks.0.member>
+
+</LanguageData>

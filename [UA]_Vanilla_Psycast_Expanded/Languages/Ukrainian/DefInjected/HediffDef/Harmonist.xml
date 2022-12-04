@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mind control -->
+  <VPE_MindControlled.label>контроль розуму</VPE_MindControlled.label>
+  <!-- EN: Psychically-induced mind control, giving absolute control to another person. -->
+  <VPE_MindControlled.description>Психічно спричинений контроль над розумом, що дає абсолютну владу над іншою персоною.</VPE_MindControlled.description>
+
+  <!-- EN: mind scramble -->
+  <VPE_MindScramble.label>розумове сум'яття</VPE_MindScramble.label>
+  <!-- EN: Psychically-induced mind scramble, caused by attempting to be two people at once. -->
+  <VPE_MindScramble.description>Психічно спричинена сплутаність свідомості, спричинена спробою бути двома особистостями одночасно.</VPE_MindScramble.description>
+
+  <!-- EN: psychic guidance -->
+  <VPE_PsychicGuidance.label>псі-керівництво</VPE_PsychicGuidance.label>
+  <!-- EN: Psychically-induced guidance from another person. -->
+  <VPE_PsychicGuidance.description>Психічно викликаний контроль, спричинений іншою персоною.</VPE_PsychicGuidance.description>
+
+  <!-- EN: psychic guide -->
+  <VPE_PsychicGuide.label>пси-керівник</VPE_PsychicGuide.label>
+  <!-- EN: Psychically-induced absence of mind caused by giving guidance to another person. -->
+  <VPE_PsychicGuide.description>Психічно спричинена відсутність розуму, викликана наданням вказівок іншій людині.</VPE_PsychicGuide.description>
+
+  <!-- EN: lucky -->
+  <VPE_Lucky.label>вдача</VPE_Lucky.label>
+  <!-- EN: Psychically-induced luck that allows this person to always hit their target, and never be hit by their enemy. -->
+  <VPE_Lucky.description>Психічно викликана вдача, яка дозволяє цій людині завжди вражати свою ціль і ніколи не бути враженою ворогом.</VPE_Lucky.description>
+
+  <!-- EN: unlucky -->
+  <VPE_UnLucky.label>невдача</VPE_UnLucky.label>
+  <!-- EN: Psychically-induced bad luck that stops this person from ever hitting their target, whilst always being hit by the enemy. -->
+  <VPE_UnLucky.description>Психічно спричинена невдача, через яку ціль завжди промахується по ворогах, а вони ніколи.</VPE_UnLucky.description>
+</LanguageData>

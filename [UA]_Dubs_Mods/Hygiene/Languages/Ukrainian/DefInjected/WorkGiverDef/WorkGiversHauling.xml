@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsBurnPit.label>спалювати в ямі</DoBillsBurnPit.label>
+  <DoBillsBurnPit.verb>палити</DoBillsBurnPit.verb>
+  <DoBillsBurnPit.gerund>спалює у</DoBillsBurnPit.gerund>
+
+  <RemoveSewage.label>вичистити відходи в бочки</RemoveSewage.label>
+  <RemoveSewage.verb>вичистити відходи</RemoveSewage.verb>
+  <RemoveSewage.gerund>вичисчає відходи</RemoveSewage.gerund>
+
+  <UnloadWashing.label>вивантажити прання</UnloadWashing.label>
+  <UnloadWashing.verb>вивантажити прання</UnloadWashing.verb>
+  <UnloadWashing.gerund>вивантажує прання</UnloadWashing.gerund>
+
+  <LoadWashing.label>завантажити прання</LoadWashing.label>
+  <LoadWashing.verb>завантажити прання</LoadWashing.verb>
+  <LoadWashing.gerund>завантажує прання</LoadWashing.gerund>
+
+  <UnloadComposter.label>дістати компост з компстера</UnloadComposter.label>
+  <UnloadComposter.verb>дістати компост</UnloadComposter.verb>
+  <UnloadComposter.gerund>дістає компост з</UnloadComposter.gerund>
+
+  <FillComposter.label>наповнити компостер</FillComposter.label>
+  <FillComposter.verb>наповнити</FillComposter.verb>
+  <FillComposter.gerund>наповнює</FillComposter.gerund>
+
+  <emptySepticTank.label>очистити септик</emptySepticTank.label>
+  <emptySepticTank.verb>очисчити</emptySepticTank.verb>
+  <emptySepticTank.gerund>очищує</emptySepticTank.gerund>
+
+  <WardenEmptySepticTank.label>очисчити септик</WardenEmptySepticTank.label>
+  <WardenEmptySepticTank.verb>очисчити</WardenEmptySepticTank.verb>
+  <WardenEmptySepticTank.gerund>очищує</WardenEmptySepticTank.gerund>
+
+  <RefillWater.label>наповнити водою</RefillWater.label>
+  <RefillWater.verb>наповнити</RefillWater.verb>
+  <RefillWater.gerund>наповнює</RefillWater.gerund>
+
+  <WardenRefillWater.label>наповнити водою</WardenRefillWater.label>
+  <WardenRefillWater.verb>наповнити</WardenRefillWater.verb>
+  <WardenRefillWater.gerund>наповнює</WardenRefillWater.gerund>
+
+  <CleanFilthIndoors.label>прибрати бруд у приміщенні</CleanFilthIndoors.label>
+  <CleanFilthIndoors.verb>прибрати</CleanFilthIndoors.verb>
+  <CleanFilthIndoors.gerund>прибрає</CleanFilthIndoors.gerund>
+
+  <emptyLatrine.label>спустошити вигрібну яму</emptyLatrine.label>
+  <emptyLatrine.verb>спустошити</emptyLatrine.verb>
+  <emptyLatrine.gerund>спустошує</emptyLatrine.gerund>
+
+  <RefillTub.label>наповнити баддю</RefillTub.label>
+  <RefillTub.verb>наповнити</RefillTub.verb>
+  <RefillTub.gerund>наповнює</RefillTub.gerund>
+
+
+</LanguageData>

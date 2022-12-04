@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Pemmican.label>приготувати пемікан</Make_Pemmican.label>
+  <Make_Pemmican.description>Приготувати пемікан.</Make_Pemmican.description>
+  <Make_Pemmican.jobString>готує пемікан</Make_Pemmican.jobString>
+
+  <Make_PemmicanBulk.label>приготувати пемікан x4</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.description>Приготувати 4 порції пемікану.</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.jobString>готує пемікан</Make_PemmicanBulk.jobString>
+
+  <Make_Kibble.label>приготувати комбікорм</Make_Kibble.label>
+  <Make_Kibble.description>Приготувати комбікорм.</Make_Kibble.description>
+  <Make_Kibble.jobString>готує комбікорм</Make_Kibble.jobString>
+
+  <CookMealSurvival.label>приготувати сухий пайок</CookMealSurvival.label>
+  <CookMealSurvival.description>Приготувати сухий пайок.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>готує сухий пайок</CookMealSurvival.jobString>
+
+  <CookMealSurvivalBulk.label>приготувати сухий пайок x4</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.description>Приготувати 4 порції сухого пайку.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.jobString>готує сухий пайок</CookMealSurvivalBulk.jobString>
+
+  <!--=================================== Simple meal ==========================================-->
+
+  <CookMealSimple.label>приготувати просту страву</CookMealSimple.label>
+  <CookMealSimple.description>Приготувати просту страву.</CookMealSimple.description>
+  <CookMealSimple.jobString>готує просту страву</CookMealSimple.jobString>
+
+  <CookMealSimpleBulk.label>приготувати просту страву x4</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.description>Приготувати 4 порції простої страви.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.jobString>готує просту страву</CookMealSimpleBulk.jobString>
+
+  <!--=================================== Fine meal ==========================================-->
+
+  <CookMealFine.label>приготувати чудову страву</CookMealFine.label>
+  <CookMealFine.description>Приготувати чудову страву.</CookMealFine.description>
+  <CookMealFine.jobString>готує чудову страву</CookMealFine.jobString>
+
+  <CookMealFineBulk.label>приготувати чудову страву x4</CookMealFineBulk.label>
+  <CookMealFineBulk.description>Приготувати 4 порції чудової страви.</CookMealFineBulk.description>
+  <CookMealFineBulk.jobString>готує чудову страву</CookMealFineBulk.jobString>
+
+  <CookMealFine_Veg.label>приготувати чудову вегетеріанську страву</CookMealFine_Veg.label>
+  <CookMealFine_Veg.description>Приготувати чудову вегетеріанську страву.</CookMealFine_Veg.description>
+  <CookMealFine_Veg.jobString>готує чудову вегетеріанську страву</CookMealFine_Veg.jobString>
+
+  <CookMealFineBulk_Veg.label>приготувати чудову вегетеріанську страву x4</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.description>Приготувати 4 порції чудової вегетеріанської страви.</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.jobString>готує чудову вегетеріанську страву</CookMealFineBulk_Veg.jobString>
+
+  <CookMealFine_Meat.label>приготувати чудову м'ясну страву</CookMealFine_Meat.label>
+  <CookMealFine_Meat.description>Приготувати чудову м'ясну страву.</CookMealFine_Meat.description>
+  <CookMealFine_Meat.jobString>готує чудову м'ясну страву</CookMealFine_Meat.jobString>
+
+  <CookMealFineBulk_Meat.label>приготувати чудову м'ясну страву x4</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.description>Приготувати 4 порції чудової м'ясної страви.</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.jobString>готує чудову м'ясну страву</CookMealFineBulk_Meat.jobString>
+
+  <!--=================================== Lavish meal ==========================================-->
+
+  <CookMealLavish.label>приготувати вишукану страву</CookMealLavish.label>
+  <CookMealLavish.description>Приготувати вишукану страву.</CookMealLavish.description>
+  <CookMealLavish.jobString>готує вишукану страву</CookMealLavish.jobString>
+
+  <CookMealLavishBulk.label>приготувати вишукану страву x4</CookMealLavishBulk.label>
+  <CookMealLavishBulk.description>Приготувати 4 порції вишуканої страви.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.jobString>готує вишукану страву</CookMealLavishBulk.jobString>
+
+  <CookMealLavish_Veg.label>приготувати вишукану вегетеріанську страву</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.description>Приготувати вишукану вегетеріанську страву.</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.jobString>готує вишукану вегетеріанську страву</CookMealLavish_Veg.jobString>
+
+  <CookMealLavishBulk_Veg.label>приготувати вишукану вегетеріанську страву x4</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.description>Приготувати 4 порції вишуканої вегетеріанської страви.</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.jobString>готує вишукану вегетеріанську страву</CookMealLavishBulk_Veg.jobString>
+
+  <CookMealLavish_Meat.label>приготувати вишукану м'ясну страву</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.description>Приготувати вишукану м'ясну страву.</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.jobString>готує вишукану м'ясну страву</CookMealLavish_Meat.jobString>
+
+  <CookMealLavishBulk_Meat.label>приготувати вишукану м'ясну страву x4</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.description>Приготувати 4 порції вишуканої м'ясної страви.</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.jobString>готує вишукану м'ясну страву</CookMealLavishBulk_Meat.jobString>
+
+
+</LanguageData>

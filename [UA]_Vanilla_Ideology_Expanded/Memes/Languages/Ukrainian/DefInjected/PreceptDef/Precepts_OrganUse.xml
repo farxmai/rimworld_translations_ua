@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: post mortem -->
+  <VME_OrganUse_PostMortem.label>посмертно</VME_OrganUse_PostMortem.label>
+  <!-- EN: The organs of one’s being should never go to waste, so long as their vessel is no longer required.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Through the fleshcrafter role can butcher fresh humanoid bodies to acquire fleshcrafted organs. -->
+  <VME_OrganUse_PostMortem.description>Органи людини не повинні зникати даремно, якщо власник вже їх не потребує.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Майстер плоті може витягувати із свіжих тіл гуманоїдів неаугментовані органи.</VME_OrganUse_PostMortem.description>
+</LanguageData>

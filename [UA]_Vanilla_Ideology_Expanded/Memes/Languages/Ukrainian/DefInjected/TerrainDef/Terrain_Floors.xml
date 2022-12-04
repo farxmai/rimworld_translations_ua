@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: corporate fine sandstone tile -->
+  <VME_CorporateFineTileSandstone.label>корпоративна вишукана плитка з пісковика</VME_CorporateFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSandstone.description>Розкішна кам'яна плитка в корпоративному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_CorporateFineTileSandstone.description>
+
+  <!-- EN: corporate fine granite tile -->
+  <VME_CorporateFineTileGranite.label>корпоративна вишукана плитка з граніту</VME_CorporateFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileGranite.description>Розкішна кам'яна плитка в корпоративному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_CorporateFineTileGranite.description>
+
+  <!-- EN: corporate fine limestone tile -->
+  <VME_CorporateFineTileLimestone.label>корпоративна вишукана плитка з вапняку</VME_CorporateFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileLimestone.description>Розкішна кам'яна плитка в корпоративному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_CorporateFineTileLimestone.description>
+
+  <!-- EN: corporate fine slate tile -->
+  <VME_CorporateFineTileSlate.label>корпоративна вишукана плитка зі сланцю</VME_CorporateFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSlate.description>Розкішна кам'яна плитка в корпоративному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_CorporateFineTileSlate.description>
+
+  <!-- EN: corporate fine marble tile -->
+  <VME_CorporateFineTileMarble.label>корпоративна вишукана плитка з мармуру</VME_CorporateFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileMarble.description>Розкішна кам'яна плитка в корпоративному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_CorporateFineTileMarble.description>
+
+
+  <!-- EN: shintao fine sandstone tile -->
+  <VME_ShintaoFineTileSandstone.label>синдаистическая вишукана плитка з пісковика</VME_ShintaoFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSandstone.description>Розкішна кам'яна плитка в синдаїстичному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_ShintaoFineTileSandstone.description>
+
+  <!-- EN: shintao fine granite tile -->
+  <VME_ShintaoFineTileGranite.label>синдаистическая вишукана плитка з граніту</VME_ShintaoFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileGranite.description>Розкішна кам'яна плитка в синдаїстичному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_ShintaoFineTileGranite.description>
+
+  <!-- EN: shintao fine limestone tile -->
+  <VME_ShintaoFineTileLimestone.label>синдаистическая вишукана плитка з вапняку</VME_ShintaoFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileLimestone.description>Розкішна кам'яна плитка в синдаїстичному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_ShintaoFineTileLimestone.description>
+
+  <!-- EN: shintao fine slate tile -->
+  <VME_ShintaoFineTileSlate.label>синдаистская вишукана плитка зі сланцю</VME_ShintaoFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSlate.description>Розкішна кам'яна плитка в синдаїстичному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_ShintaoFineTileSlate.description>
+
+  <!-- EN: shintao fine marble tile -->
+  <VME_ShintaoFineTileMarble.label>синдаистическая вишукана плитка з мармуру</VME_ShintaoFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileMarble.description>Розкішна кам'яна плитка в синдаїстичному стилі, що чудово підкреслює фінансове становище власника. Трудомістка у виробництві.</VME_ShintaoFineTileMarble.description>
+
+  <!-- EN: shintao red carpet -->
+  <VME_ShintaoCarpetRed.label>даоський червоний килим</VME_ShintaoCarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <VME_ShintaoCarpetRed.description>Плюшевий килим чудового трояндового відтінку.</VME_ShintaoCarpetRed.description>
+
+  <!-- EN: shintao green carpet -->
+  <VME_ShintaoCarpetGreen.label>даоський зелений килим</VME_ShintaoCarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <VME_ShintaoCarpetGreen.description>Натуралістичний зелений килим. Земляні тони, чувак.</VME_ShintaoCarpetGreen.description>
+
+  <!-- EN: shintao blue carpet -->
+  <VME_ShintaoCarpetBlue.label>даоський синій килим</VME_ShintaoCarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <VME_ShintaoCarpetBlue.description>Плюшевий килим холодного блакитного кольору, що облягає пальці ніг.</VME_ShintaoCarpetBlue.description>
+
+  <!-- EN: shintao cream carpet -->
+  <VME_ShintaoCarpetCream.label>даоський кремовий килим</VME_ShintaoCarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <VME_ShintaoCarpetCream.description>Привабливий килим кремового кольору.</VME_ShintaoCarpetCream.description>
+
+  <!-- EN: shintao dark carpet -->
+  <VME_ShintaoCarpetDark.label>даоський темний килим</VME_ShintaoCarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <VME_ShintaoCarpetDark.description>Темно-сірий килим професійного вигляду.</VME_ShintaoCarpetDark.description>
+
+  <!-- EN: fine shintao burgundy carpet -->
+  <VME_ShintaoCarpetFineBurgundy.label>вишуканий даоський багряний килим</VME_ShintaoCarpetFineBurgundy.label>
+  <!-- EN: Classic burgundy carpet for that classic rich look. -->
+  <VME_ShintaoCarpetFineBurgundy.description>Класичний бордовий килим для класичного насиченого вигляду.</VME_ShintaoCarpetFineBurgundy.description>
+
+  <!-- EN: fine shintao indigo carpet -->
+  <VME_ShintaoCarpetFineIndigo.label>вишуканий даоський аметистовий килим</VME_ShintaoCarpetFineIndigo.label>
+  <!-- EN: Soft and silky indigo carpet, for that extra sense of pomp. -->
+  <VME_ShintaoCarpetFineIndigo.description>М’який і шовковистий килим кольору індиго для додаткового відчуття пишності.</VME_ShintaoCarpetFineIndigo.description>
+
+  <!-- EN: fine shintao white carpet -->
+  <VME_ShintaoCarpetFineWhite.label>вишуканий даоський білий килим</VME_ShintaoCarpetFineWhite.label>
+  <!-- EN: Sublime white carpet, glimmering with subtle patterns. -->
+  <VME_ShintaoCarpetFineWhite.description>Витончений білий килим, що мерехтить тонкими візерунками.</VME_ShintaoCarpetFineWhite.description>
+</LanguageData>

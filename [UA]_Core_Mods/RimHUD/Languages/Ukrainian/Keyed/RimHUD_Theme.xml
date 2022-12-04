@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Theme.HudPosition>Позиція HUD</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>Зафіксувати на дошці</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>Потрібно змінити область перевірки, дивіться нижче.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>Зона фікації</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>Вгорі ліворуч|Центр зверху|Вгорі праворуч|Центр ліворуч|Центр|Центр праворуч|Внизу ліворуч|Центр знизу|Внизу праворуч</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+
+  <RimHUD.Theme.RefreshRate>Інтервал оновлення</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>Час оновлення HUD. У разі падіння частоти кадрів встановіть більше значення.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>мс</RimHUD.Theme.RefreshRateUnits>
+
+  <RimHUD.Theme.HudDimensions>Розміри HUD</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>Ширина</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>Висота</RimHUD.Theme.HudHeight>
+
+  <RimHUD.Theme.TextOptions>Налаштування тексту</RimHUD.Theme.TextOptions>
+
+  <RimHUD.Theme.TextStyleRegular>Розмір текста</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Заголовок</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Опис</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>Ширина підписів</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Ширина значень</RimHUD.Theme.ValueWidth>
+
+  <RimHUD.Theme.InspectPane>Область перевірки</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>Змінити</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Це потрібно для фіксованого режиму HUD.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Показати журнал персонажів</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Додає журнал для вибраного персонажа на панель перевірки. Доступно лише у нефіксованому режимі.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Висота панелі</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Мінимум вкладинок</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Ширина вкладинки</RimHUD.Theme.InspectPaneTabWidth>
+
+  <RimHUD.Theme.OtherOptions>Інше</RimHUD.Theme.OtherOptions>
+
+  <RimHUD.Theme.ShowFactionIcon>Показувати значок фракції</RimHUD.Theme.ShowFactionIcon>
+  <RimHUD.Theme.ShowIdeoligionIcon>Показувати значок ідеології</RimHUD.Theme.ShowIdeoligionIcon>
+  <RimHUD.Theme.ShowDecimals>Показувати десяткові знаки</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>Відступ між повідомленнями</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Змінює відстань між повідомленнями, що відображаються у правій частині екрана. Базово: 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Стискання повідомлень</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Стискає всі повідомлення та попередження у правій частині екрана, якщо вони перекриваються HUD.</RimHUD.Theme.LetterCompressDesc>
+
+  <RimHUD.Theme.HudColors>Кольори HUD</RimHUD.Theme.HudColors>
+
+  <RimHUD.Theme.MainTextColor>Основний колір</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>Не активний колір</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Критичний колір</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Поереджуючий колір</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>Інформаційний колір</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>Позитивний колір</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Чудовий колір</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Тло смужки</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Базовий показник</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Низький показник</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Критичний показник</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Тло перемикача</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Перемикач тексту</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Лінія</RimHUD.Theme.LineColor>
+
+  <RimHUD.Theme.FactionColors>Кольори фракцій</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Колоністи</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Союзники</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Мандрівники</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Вороги</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Дикуни</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.FactionPrisonerColor>В'язні</RimHUD.Theme.FactionPrisonerColor>
+  <RimHUD.Theme.FactionSlaveColor>Раби</RimHUD.Theme.FactionSlaveColor>
+
+  <RimHUD.Theme.SkillColors>Кольори навичок</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Прискорене навчання</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Швидке навчання</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Сповільнене навчання</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Використовується</RimHUD.Theme.SkillActiveColor>
+
+  <RimHUD.TextStyle.Size>Розмір</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>Висота</RimHUD.TextStyle.Height>
+</LanguageData>

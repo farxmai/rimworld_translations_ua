@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: abhorrent -->
+  <VME_InsectMeatEating_Sacrilegious.label>огидно</VME_InsectMeatEating_Sacrilegious.label>
+  <!-- EN: Eating the flesh of divine insects is vile and disgusting, even the idea of putting it near your mouth should be met with embarrassment. -->
+  <VME_InsectMeatEating_Sacrilegious.description>Поїдати плоть священних комах неприйнятно та огидно. Викликає сором навіть думка підности її до рота.</VME_InsectMeatEating_Sacrilegious.description>
+
+  <!-- EN: don't care -->
+  <VME_InsectMeatEating_DontCare.label>байдуже</VME_InsectMeatEating_DontCare.label>
+  <!-- EN: Insect meat is just another type of meat. There are innumerable cultures in human history with a rich entomophagy tradition. -->
+  <VME_InsectMeatEating_DontCare.description>М'ясо комах - просто ще один вид м'яса. Людська історія знала безліч культур з багатою практикою ентомофагії.</VME_InsectMeatEating_DontCare.description>
+</LanguageData>

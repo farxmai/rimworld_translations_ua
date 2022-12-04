@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Therapy.label>надавати консультацію</Therapy.label>
+  <Therapy.verb>консультація</Therapy.verb>
+  <Therapy.gerund>консультувати</Therapy.gerund>
+
+  <ReceiveTherapy.label>очікувати на терапію</ReceiveTherapy.label>
+  <ReceiveTherapy.verb>очікування</ReceiveTherapy.verb>
+  <ReceiveTherapy.gerund>очікувати</ReceiveTherapy.gerund>
+
+</LanguageData>

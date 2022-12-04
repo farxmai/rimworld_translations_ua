@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Hair Expanded -->
+  <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
+
+  <!-- EN: Whether or not beards are rendered on pawns. -->
+  <VanillaHairExpanded.Beards_ToolTip>Чи відображаються бороди на персонажах.</VanillaHairExpanded.Beards_ToolTip>
+
+  <!-- EN: Change hairstyle -->
+  <VanillaHairExpanded.ChangeHairstyle>Зміна стилю</VanillaHairExpanded.ChangeHairstyle>
+
+  <!-- EN: Hairstyles -->
+  <VanillaHairExpanded.Hairstyles>Зачіски</VanillaHairExpanded.Hairstyles>
+  <!-- EN: Beards -->
+  <VanillaHairExpanded.Beards>Бороди</VanillaHairExpanded.Beards>
+  <!-- EN: Colour sliders -->
+  <VanillaHairExpanded.CustomMode>Кольори</VanillaHairExpanded.CustomMode>
+  <!-- EN: Colours tied -->
+  <VanillaHairExpanded.ColoursTied>Пов'язати кольори</VanillaHairExpanded.ColoursTied>
+</LanguageData>

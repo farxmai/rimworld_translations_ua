@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MainTab_MintMenus.label>Перемкнути вкладку меню</MainTab_MintMenus.label>
+  <MainTab_MintResearch.label>Перемкнути вкладку дослідження</MainTab_MintResearch.label>
+  <MainTab_MintDesignators.label>Перемкнути вкладку позначень</MainTab_MintDesignators.label>
+  <MainTab_MintBillMenu.label>Перемкнути вкладку виробництва</MainTab_MintBillMenu.label>
+  <MainTab_MintGearMenu.label>Перемкнути вкладку спорядження</MainTab_MintGearMenu.label>
+
+</LanguageData>

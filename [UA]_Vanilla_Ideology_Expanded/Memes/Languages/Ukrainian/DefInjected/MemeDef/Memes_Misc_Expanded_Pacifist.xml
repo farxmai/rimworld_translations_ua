@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 18 -->
+
+  <!-- EN: pacifist -->
+  <VME_Pacifist.label>пацифізм</VME_Pacifist.label>
+  <!-- EN: While defending onelf is aceptable, we have come too far and evolved too much to ever endorse the premise of warfare or slavery. Єдині tantrums повинні тільки manifest в формах, що не harm others or property. -->
+  <VME_Pacifist.description>Хоча самозахист і є прийнятним, але ми зайшли занадто далеко в розвитку, щоб підтримувати ідеї війни чи рабства. Навіть гнів має проявлятися лише формі, яка не завдає шкоди ні людям, ні майну.</VME_Pacifist.description>
+
+  <VME_Pacifist.generalRules.rulesStrings>
+    <li>memeAdjective->пацифістська</li>
+    <li>memeAdjective->миротворчий</li>
+    <li>memeAdjective->заспокійливий</li>
+    <li>memeLeaderNoun->миротворець</li>
+    <li>memeConcept->миру</li>
+  </VME_Pacifist.generalRules.rulesStrings>
+
+  <VME_Pacifist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Pacifist) ->[deity0_name] побачив насильство в людському серці і відвернувся у відразі до людства.</li>
+    <li>episode(uses=1,tag=meme_Pacifist) ->Звертаючись до віруючих, [deity0_name] сказав: "Є багато причин, за які варто померти, але, звичайно, немає жодної, за яку варто було б вбивати".</li>
+    <li>intro(tag=meme_Pacifist) ->[place_summary] [place_name] завжди роздирали конфлікти. [memberNamePlural] не була чужа жорстокість і кровопролиття і це дуже засмучувало [deity0_name].</li>
+    <li>conflict(tag=meme_Pacifist) ->[deity0_name] бачив постійні махінації жахливого [foeLeader], розпалювача війни, і як [foeLeader_pronoun] постійно роздмухував полум'я війни.</li>
+    <li>founderJoin(tag=meme_Pacifist) ->На знак божественного натхнення [deity0_name] наділило [foeLeader] думками та стражданнями всіх тих, кого [foeLeader_pronoun] покалічив і вбив, і [foeLeader_pronoun] відразу ж передумав. З цього моменту [foeLeader] взяв [foeLeader_possessive] нове ім'я як голос [deity0_name]: [founderName] Миротворець.</li>
+    <li>victory(tag=meme_Pacifist) ->[founderName] змусив усіх нас зрозуміти, що ніхто не може бути викуплений і що вічна мудрість полягає в тому, щоб на ненависть відповідати не ненавистю.</li>
+    <li>setup(tag=meme_Pacifist) ->[founderName] був колишнім воєначальником. Сотні тисяч впали перед арміями [founderName_possessive]. Після багатьох років боротьби [founder_pronoun] одного разу подивився на [founderName_objective] себе в дзеркало і побачив лише кров усіх жертв [founderName_possessive], і тоді [founder_pronoun] вирішив проповідувати справу повного пацифізму. Історія спокутування [founderName_possessive] звучатиме у віки.</li>
+    <li>story(uses=1,tag=meme_Pacifist) ->[founderName] краще за інших розумів, що ніщо не покладе край війні, якщо люди самі не відмовляться йти на війну.</li>
+    <li>lessonIntro(tag=meme_Pacifist) ->Військові уроки були частиною нашої шкільної освіти, але наш учитель був, як він казав, войовничим пацифістом. Він намагався навіяти нам, що</li>
+    <li>lesson(tag=meme_Pacifist) ->ніщо не покладе край війні, якщо люди самі не відмовляться від війни</li>
+    <li>lessonReinforcement(tag=meme_Pacifist) ->Ніколи не робіть нічого проти совісті, навіть якщо цього вимагає держава.</li>
+    <li>archistBasis(tag=meme_Pacifist) ->Можете собі уявити, як архотеки ставляться до такої примітивної речі, як війна?</li>
+    <li>archistFact(tag=meme_Pacifist) ->Війна за своєю суттю марнотратна. Виділення ресурсів на вбивство одне одного призводить лише до виснаження цих ресурсів, які можна було б краще використовуватиме поліпшення життя всіх людей. Для архотека це безглузде марнотратство огидно.</li>
+    <li>archistProphecy(tag=meme_Pacifist) ->[inTheEnd], тільки ті, хто може протистояти своїм основним спонуканням до насильства, будуть готові вийти за його межі.</li>
+    <li>animistBasis(tag=meme_Pacifist) ->Дух війни незмірно сильний, що підгодовується тисячоліттями міжзоряної експансії людей. У ньому немає місця любові та співчуття до людства, яке підживлює його своїми стражданнями.</li>
+    <li>animistFact(tag=meme_Pacifist) ->Живити дух війни розбратами безглуздо і марнотратно. Натомість ми повинні культивувати та живити дух миру, згоди.</li>
+    <li>animistProphecy(tag=meme_Pacifist) ->[itIsSaid] тільки ті, хто може протистояти своїм найелементарнішим поривам до насильства, будуть готові до спілкування з духами.</li>
+    <li>serketistProphecy(tag=meme_Pacifist)->[itIsSaid] ми зрозуміємо, що комахи не жорстокі за своєю природою і не вбивають заради спортивного інтересу, як це роблять люди. Ми повинні прагнути бути більш схожими на них.</li>
+    <li>chthonianProphecy(tag=meme_Pacifist)->Насильство не стане ключем до перемоги над цими давніми сутностями, бо не можна боротися з терором за допомогою терору. Тільки відкинувши насильство, породжене їх космічним безумством, ми можемо сподіватися врятуватися по-справжньому.</li>
+    <li>esotericismProphecy(tag=meme_Pacifist)->Окультні знання дуже тонкі, і їх не можна набути силою. Ми відточуватимемо свій розум без насильства, щоб відкрити приховані істини Всесвіту.</li>
+    <li>eschatologismFact(tag=meme_Pacifist)->Як би світ не заслуговував на спалення, ми не вбивці. Якщо ми станемо вбивцями, то чим ми кращі за цей проклятий Всесвіт? Ні, Апокаліпсис має бути принесений без кровопролиття, чисто. Це єдиний спосіб.</li>
+    <li>introMemo(tag=meme_Pacifist)->Повідомляємо вам, що з двома співробітниками (імена яких залишаться неназваними відповідно до умов конфіденційності компанії), які вчора влаштували бійку із застосуванням насильства, були розірвані контракти, і вони більше не є частиною нашого штату. Подібне насильство на робочому місці огидне, і ми не залишимо його безкарним.</li>
+    <li>alienistProphecy(tag=meme_Pacifist)->Ці заблукалі створіння - невинні істоти. Ми не вбивці, і, можливо, нам краще дати їм спокій.</li>
+  </VME_Pacifist.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Pacifism -->
+  <VME_Pacifist.symbolPacks.0.ideoName>Пацифізм</VME_Pacifist.symbolPacks.0.ideoName>
+  <!-- EN: pacifism -->
+  <VME_Pacifist.symbolPacks.0.theme>пацифізму</VME_Pacifist.symbolPacks.0.theme>
+  <!-- EN: pacifist -->
+  <VME_Pacifist.symbolPacks.0.adjective>пацифістський</VME_Pacifist.symbolPacks.0.adjective>
+  <!-- EN: pacifist -->
+  <VME_Pacifist.symbolPacks.0.member>пацифіст</VME_Pacifist.symbolPacks.0.member>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VanillaBooksExpandedExpanded_AllowCopies.label>Дозволити копіювати копії</VanillaBooksExpandedExpanded_AllowCopies.label>
+  <VanillaBooksExpandedExpanded_AllowCopies.description>Дозволити копіювати книжки, які були створені шляхом копіювання.</VanillaBooksExpandedExpanded_AllowCopies.description>
+
+  <VanillaBooksExpandedExpanded_AllowOriginals.label>Дозволити копіювати оригінали</VanillaBooksExpandedExpanded_AllowOriginals.label>
+  <VanillaBooksExpandedExpanded_AllowOriginals.description>Дозволити копіювати книжки, що є першоджерельним авторським рукописом.</VanillaBooksExpandedExpanded_AllowOriginals.description>
+
+
+</LanguageData>

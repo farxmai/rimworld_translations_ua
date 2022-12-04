@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: A Formal Complaint -->
+  <aFormalComplaint.label>Офіційна скарга</aFormalComplaint.label>
+  <!-- EN: Have a pawn go berserk -->
+  <aFormalComplaint.description>Колоніст в режимі берсерка</aFormalComplaint.description>
+
+  <!-- EN: Call Of The Wild -->
+  <callOfTheWild.label>Поклик джунглів</callOfTheWild.label>
+  <!-- EN: Have a pawn run wild -->
+  <callOfTheWild.description>Колоніст здичав</callOfTheWild.description>
+
+  <!-- EN: Let's Start A Revolution -->
+  <letsStartARevolution.label>Розпочнемо революцію</letsStartARevolution.label>
+  <!-- EN: Have 5 pawns on mental break at the same time -->
+  <letsStartARevolution.description>5 колоністів у стані нервового зриву одночасно</letsStartARevolution.description>
+
+  <!-- EN: 50 Shades Of Grey -->
+  <fiftyShadesOfGrey.label>50 відтінків сірого</fiftyShadesOfGrey.label>
+  <!-- EN: Have a pawn go into a sadistic rage on a prisoner -->
+  <fiftyShadesOfGrey.description>Ув'язнений став жертвою садистського гніву</fiftyShadesOfGrey.description>
+</LanguageData>

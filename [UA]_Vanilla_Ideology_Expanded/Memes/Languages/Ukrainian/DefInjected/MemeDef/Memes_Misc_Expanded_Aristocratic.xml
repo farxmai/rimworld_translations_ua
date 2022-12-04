@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 10 -->
+
+  <!-- EN: aristocratic -->
+  <VME_Aristocratic.label>аристократизм</VME_Aristocratic.label>
+  <!-- EN: Kings і Queens є true path to prosperity, mind of the common man is unfit for leadership. -->
+  <VME_Aristocratic.description>Королівська влада — вірний шлях до процвітання, розум простолюдина непридатний для лідерства.</VME_Aristocratic.description>
+
+  <VME_Aristocratic.generalRules.rulesStrings>
+    <li>memeAdjective->королівський</li>
+    <li>memeAdjective->царський</li>
+    <li>memeAdjective->монархічний</li>
+    <li>memeAdjective->княжий</li>
+    <li>memeAdjective->самодержавний</li>
+    <li>memeHyphenPrefix->аристо</li>
+    <li>memeConcept->аристократії</li>
+    <li>memeConcept->благородних</li>
+    <li>memeConcept->блакитної крові</li>
+    <li>memeLeaderNoun->барон</li>
+    <li>memeLeaderNoun->граф</li>
+    <li>memeLeaderNoun->князь</li>
+    <li>memeLeaderNoun->лорд</li>
+  </VME_Aristocratic.generalRules.rulesStrings>
+
+  <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Aristocratic) ->[deity0_name] побачило, що деякі з [memberNamePlural] більш придатні для правління, ніж інші, і звернулося до них: "Чому ви ставитеся до всіх однаково? Деякі з вас народжені бути правителями, а інші народжені, щоб ними керували.</li>
+    <li>episode(uses=1,tag=meme_Aristocratic) ->[deity0_name] сказав усім [memberNamePlural]: "Почитайте своїх лідерів і звертайтеся з ними, як з моїми посланцями у світі смертних, бо вони більше, ніж прості люди". </li>
+    <li>intro(tag=meme_Aristocratic) ->[memberNamePlural] побудували величний [altarName] на [place_summary] [place_name], пам'ятник, що показує славу [deity0_name].</li>
+    <li>conflict(tag=meme_Aristocratic) ->Постійні селянські повстання загрожували існуванню храму [deity0_name], і лідери [memberNamePlural] вирішили їх зупинити.</li>
+    <li>founderJoin(tag=meme_Aristocratic) ->[deity0_name] доручив [founderName] змусити чернь знати своє місце після того, як вони загрожували життям тих, хто перебуває над ними.</li>
+    <li>victory(tag=meme_Aristocratic) ->[founderName] придушив селянські повстання, і з того часу його королівський рід був благословенний.</li>
+    <li>setup(tag=meme_Aristocratic) ->Наш засновник [founderName] був великим соціологом, який побачив слабкі демократичні системи у рідному світі [founder_possessive] і знайшов їх неадекватними. [founder_pronoun} сів у приватний космічний корабель і вирушив із сотнями послідовників [founder_possessive], щоб створити ідеальне феодальне суспільство.</li>
+    <li>story(uses=1,tag=meme_Aristocratic) ->Послідовники [founderName] вивчили праці [founder_possessive] та створили соціальну структуру, яка залишається стабільною вже понад двісті років.</li>
+    <li>lessonIntro(tag=meme_Aristocratic) ->За всі роки мого правління над людьми я засвоїв один урок, найдорожчий урок:</li>
+    <li>lesson(tag=meme_Aristocratic) ->одні люди народжуються, щоб бути правителями, а інші - щоб ними управляли</li>
+    <li>lessonReinforcement(tag=meme_Aristocratic) ->І тільки шануючи і підкоряючись нашим благородним аристократам, ми можемо справді побудувати стабільне суспільство.</li>
+    <li>archistBasis(tag=meme_Aristocratic) ->Архотеки бездоганні. Ідеальний приклад ієрархії, де більшість живе для того, щоб служити потребам небагатьох шляхетних.</li>
+    <li>archistFact(tag=meme_Aristocratic) ->Немає жодних підстав для коливань: тільки ті, хто дійсно підкоряється своїм ставленикам, будуть винагороджені, коли Архотеки заявлять про себе решті Всесвіту.</li>
+    <li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], Архотеки дозволять піднестися тим, хто благородних кровей, але їхнім слугам буде дозволено служити їм і після цього.</li>
+    <li>animistFact(tag=meme_Aristocratic) ->Духи цінують чистокровних людей вище за інших, бо ті, хто може командувати іншими в житті, також доводять силу свого духу.</li>
+    <li>serketistProphecy(tag=meme_Aristocratic)->Як у мурах і бджіл є королеви і трутні, так і ми повинні організувати наші суспільства: один благородний крові, що править над своїми підданими.</li>
+    <li>chthonianProphecy(tag=meme_Aristocratic)->Наші лідери благородної крові захистять нас і вкриють від космічного божевілля цих жахливих істот. Тільки підкоряючись їм, ми можемо сподіватися зберегти розум.</li>
+    <li>esotericismProphecy(tag=meme_Aristocratic)->Благородна кров наших вождів дозволить їм заглянути за завісу незвіданого. І відкриє їм секрети, які навіки залишаться невідомими їхнім скромним слугам.</li>
+    <li>eschatologismFact(tag=meme_Aristocratic)->Ми назвемо нашого лідера Принцом Брехні. Той, хто принесе кінець усьому сущому.</li>
+    <li>introMemo(tag=meme_Aristocratic)->Пам'ятайте, що люди благородної крові мають привілеї на відпустку. Так, я розумію, що деякі з вас хотіли б взяти відпустку в серпні, і що у вас, можливо, двоє дітей, і важко знайти хороший дитячий садок у цей місяць, але відсутність у вас блакитних кровей означає, що вам доведеться пристосовуватися до поточної ситуації.</li>
+    <li>alienistProphecy(tag=tag=meme_Aristocratic)->Ми створимо чудові королівські звіринці з усіма цими істотами, справжню демонстрацію нашої сили та могутності.</li>
+  </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nobility -->
+  <VME_Aristocratic.symbolPacks.0.ideoName>Благородство</VME_Aristocratic.symbolPacks.0.ideoName>
+  <!-- EN: nobility -->
+  <VME_Aristocratic.symbolPacks.0.theme>благородства</VME_Aristocratic.symbolPacks.0.theme>
+  <!-- EN: noble -->
+  <VME_Aristocratic.symbolPacks.0.adjective>благородний</VME_Aristocratic.symbolPacks.0.adjective>
+  <!-- EN: subject -->
+  <VME_Aristocratic.symbolPacks.0.member>персона</VME_Aristocratic.symbolPacks.0.member>
+
+  <!-- EN: Aristocracy -->
+  <VME_Aristocratic.symbolPacks.1.ideoName>Аристократизм</VME_Aristocratic.symbolPacks.1.ideoName>
+  <!-- EN: aristocracy -->
+  <VME_Aristocratic.symbolPacks.1.theme>аристократії</VME_Aristocratic.symbolPacks.1.theme>
+  <!-- EN: aristocratic -->
+  <VME_Aristocratic.symbolPacks.1.adjective>аристократичний</VME_Aristocratic.symbolPacks.1.adjective>
+  <!-- EN: subject -->
+  <VME_Aristocratic.symbolPacks.1.member>аристократ</VME_Aristocratic.symbolPacks.1.member>
+
+</LanguageData>

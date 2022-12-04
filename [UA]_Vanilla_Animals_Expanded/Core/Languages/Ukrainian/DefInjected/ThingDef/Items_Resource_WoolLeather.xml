@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pinnipeds -->
+
+  <AEXP_Leather_Pinniped.label>шкіра ластоногого</AEXP_Leather_Pinniped.label>
+  <AEXP_Leather_Pinniped.description>Дублена та висушена шкіра ластоногого. Середньої міцності, але забезпечує хорошу термоізоляцію.</AEXP_Leather_Pinniped.description>
+  <AEXP_Leather_Pinniped.stuffProps.stuffAdjective>шкіри ластоногого</AEXP_Leather_Pinniped.stuffProps.stuffAdjective>
+
+</LanguageData>

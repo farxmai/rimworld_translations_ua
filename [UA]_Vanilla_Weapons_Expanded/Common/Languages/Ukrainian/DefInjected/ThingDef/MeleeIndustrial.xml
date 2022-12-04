@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_MeleeWeapon_Shovel.label>саперна лопатка</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Незважаючи на те, що ця маленька лопата зазвичай використовується на полі бою для копання траншей, вона чудово справляється з роллю зброї ближнього бою.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.0.label>рукоятка</VWE_MeleeWeapon_Shovel.tools.0.label>
+  <VWE_MeleeWeapon_Shovel.tools.1.label>штик</VWE_MeleeWeapon_Shovel.tools.1.label>
+
+  <VWE_MeleeWeapon_Baton.label>палиця</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>Коротка шліфована палиця що часто використовуються правохоронцями для придушення народних повстаннь.</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.0.label>рукоятка</VWE_MeleeWeapon_Baton.tools.0.label>
+  <VWE_MeleeWeapon_Baton.tools.1.label>ударна частина</VWE_MeleeWeapon_Baton.tools.1.label>
+
+  <VWE_MeleeWeapon_CombatKnife.label>боевий ніж</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>Ніж - один із найстаріших інструментів людства. Існує безліч різних форм і видів ножів, але суть незмінна: ручка та лезо. \n\nБойовий ніж є стандартною зброєю ближнього бою більшості збройних сил.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.0.label>рукоятка</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.1.label>лезо</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.2.label>вістря</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+
+  <VWE_MeleeWeapon_Wrench.label>гайковий ключ</VWE_MeleeWeapon_Wrench.label>
+  <VWE_MeleeWeapon_Wrench.description>Універсальний інструмент, щоб змусити працювати навіть найміцніші речі. Допомагає будувати конструкції поселення та руйнувати конструкції механоїдів.</VWE_MeleeWeapon_Wrench.description>
+  <VWE_MeleeWeapon_Wrench.tools.0.label>рукоятка</VWE_MeleeWeapon_Wrench.tools.0.label>
+  <VWE_MeleeWeapon_Wrench.tools.1.label>ударна частина</VWE_MeleeWeapon_Wrench.tools.1.label>
+
+  <VWE_MeleeWeapon_Cleaver.label>м'ясницький ніж</VWE_MeleeWeapon_Cleaver.label>
+  <VWE_MeleeWeapon_Cleaver.description>Ніж - один із найстаріших інструментів людства. Існує безліч різних форм і видів ножів, але суть незмінна: ручка та лезо. \n\nСікач зазвичай використовується кухарями для рубання м'яса та кісток.</VWE_MeleeWeapon_Cleaver.description>
+  <VWE_MeleeWeapon_Cleaver.tools.0.label>рукоятка</VWE_MeleeWeapon_Cleaver.tools.0.label>
+  <VWE_MeleeWeapon_Cleaver.tools.1.label>лезо</VWE_MeleeWeapon_Cleaver.tools.1.label>
+
+  <VWE_MeleeWeapon_Scalpel.label>скальпель</VWE_MeleeWeapon_Scalpel.label>
+  <VWE_MeleeWeapon_Scalpel.description>Ніж - один із найстаріших інструментів людства. Існує безліч різних форм і видів ножів, але суть незмінна: ручка та лезо. \n\nСкальпель зазвичай використовується хірургами через його надзвичайну гостроту.</VWE_MeleeWeapon_Scalpel.description>
+  <VWE_MeleeWeapon_Scalpel.tools.0.label>лезо</VWE_MeleeWeapon_Scalpel.tools.0.label>
+  <VWE_MeleeWeapon_Scalpel.tools.1.label>вістря</VWE_MeleeWeapon_Scalpel.tools.1.label>
+</LanguageData>

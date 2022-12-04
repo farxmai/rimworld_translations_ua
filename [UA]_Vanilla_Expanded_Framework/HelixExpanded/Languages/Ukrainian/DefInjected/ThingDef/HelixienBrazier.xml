@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HelixienGasBrazier.label>газова жаровня</HelixienGasBrazier.label>
+  <HelixienGasBrazier.description>Жаровня, що працює на природному газі. Можна вмикати і вимикати. Буде освітлювати навколишнє середовище та генерувати тепло. Підходить для знаті.</HelixienGasBrazier.description>
+
+  <HelixienGasDarklightBrazier.label>газова тьмяна жаровня</HelixienGasDarklightBrazier.label>
+  <HelixienGasDarklightBrazier.description>Спеціальна жаровня на природному газі, яка освітлює довкілля тьмяним світлом і виділяє тепло. Можна вмикати і вимикати. Підходить для знаті.</HelixienGasDarklightBrazier.description>
+
+</LanguageData>

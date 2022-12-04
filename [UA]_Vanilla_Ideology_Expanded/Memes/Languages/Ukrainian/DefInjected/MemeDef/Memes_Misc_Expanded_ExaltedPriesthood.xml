@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 12 -->
+
+  <!-- EN: exalted priesthood -->
+  <VME_ExaltedPriesthood.label>влада церкви</VME_ExaltedPriesthood.label>
+  <!-- EN: Ваша література повинна бути для нас, і вона є важливою, що ми робимо їх advice. -->
+  <VME_ExaltedPriesthood.description>Наш лідер має бути і нашим духовником, нам важливо прислухатися до його проповідей.</VME_ExaltedPriesthood.description>
+
+  <VME_ExaltedPriesthood.generalRules.rulesStrings>
+    <li>memeAdjective->піднесений</li>
+    <li>memeAdjective->теократичний</li>
+    <li>memeAdjective->священний</li>
+    <li>memeHyphenPrefix->свято</li>
+    <li>memeConcept->папства</li>
+    <li>memeLeaderNoun->тато</li>
+    <li>memeMoralist->кардинал</li>
+    <li>memeMoralist->архієпископ</li>
+  </VME_ExaltedPriesthood.generalRules.rulesStrings>
+
+  <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_ExaltedPriesthood) ->[deity0_name] зміцнив нашу віру, призначивши нашого дорогого засновника, [founderName], главою церкви [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_ExaltedPriesthood) ->[deity0_name] сказав усім [memberNamePlural], "[founderName] буде моїм намісником, маючи можливість як наставляти на шлях істиний, так і заперечити тим, хто хоче від нього відступити ."</li>
+    <li>intro(tag=meme_ExaltedPriesthood) ->[memberNamePlural] побудували чудовий [altarName] на [place_summary] [place_name], щоб кожен бажаючий міг приєднатися до [founderName] щоб збільшити переваги [deity0_name].</li>
+    <li>conflict(tag=meme_ExaltedPriesthood) ->Боягуз [foeLeader], заперечував святість [founderName], намагався знищити [altarName] за допомогою факела.</li>
+    <li>founderJoin(tag=meme_ExaltedPriesthood) ->Молячись [deity0_name], величезна стріла чистого світла вирвалася з рук [founderName], вразивши [foeLeader] миттєво.</li>
+    <li>victory(tag=meme_ExaltedPriesthood) ->Всі поплічники [foeSoldiers] відразу впали на коліна, принижені демонстрацією сили [founderName] благали прийняти їх у нашу віру.</li>
+    <li>setup(tag=meme_ExaltedPriesthood) ->Наш засновник [founderName] був великим теологом. [founderName_possessive] Вивчаючи безліч божеств, яких створювала людина, [founderName_objective] прийшов до того, що хоча релігії і не є істиною, життя позбавлене віри - було б позбавлене і всякого сенсу.</li>
+    <li>story(uses=1,tag=meme_ExaltedPriesthood) ->Як послідовники [founderName_possessive], ми продовжимо вивчення теології і спробуємо розгадати найглибші таємниці Космосу.</li>
+    <li>lessonIntro(tag=meme_ExaltedPriesthood) ->За всі роки вивчення релігії я засвоїв один урок, дуже важливий урок:</li>
+    <li>lesson(tag=meme_ExaltedPriesthood) ->нам потрібні священики, щоб спрямовувати людський дух, навіть якщо з'ясується, що богів немає</li>
+    <li>lessonReinforcement(tag=meme_ExaltedPriesthood) ->Навіть не вірячи трансцендентне, ми все ще не маємо всієї повноти картини.</li>
+    <li>archistBasis(tag=meme_ExaltedPriesthood) ->Архотеки понад усе цінують сильне керівництво. Якщо група людей роз'єднана, вони слабкі.</li>
+    <li>archistFact(tag=meme_ExaltedPriesthood) ->Наш дорогий лідер, найвищий з усіх наших жерців, буде провідником, через який ми спілкуватимемося з архонтами і проситимемо про нашу Трансценденцію.</li>
+    <li>archistProphecy(tag=meme_ExaltedPriesthood) ->[inTheEnd], архонти висловлять свою останню мудрість нашому лідерові, володарю [relic0_name], і ми благоговійно встанемо поряд з ним або з нею в цей останній момент.</li>
+    <li>animistFact(tag=meme_ExaltedPriesthood) ->Наш дорогий лідер, найвищий серед наших жерців, є Голосом Духів. Тільки через нього чи через неї духи озвучують свої бажання серед істинно віруючих.</li>
+    <li>serketistProphecy(tag=meme_ExaltedPriesthood)->[itIsSaid] вищі з наших жерців вийдуть за межі смертної оболонки і стануть одним цілим із комахами.</li>
+    <li>chthonianProphecy(tag=meme_ExaltedPriesthood)->Темний Жрець, вищий серед наших священиків, захистить нас від безумства з-за меж зірок, діючи як психічний маяк надії, що купається у темряві порожнечі.</li>
+    <li>esotericismProphecy(tag=meme_ExaltedPriesthood)->Темний Жрець, вищий серед наших священиків, наважиться увійти у світ шелестів і напівзабутих обіцянок. Тільки він один може розглянути найбільшу з усіх загадок.</li>
+    <li>eschatologismFact(tag=meme_ExaltedPriesthood)->Темний Жрець, вищий серед наших священиків, сповістить про настання кінця часів. Провісник руйнування цього світу.</li>
+    <li>introMemo(tag=meme_ExaltedPriesthood)->Якщо ви подивіться на календар, то напевно помітили, що день народження нашого Шановного Керівника та Генерального директора через два тижні. Звичайно, це необов'язкова річ, але в ім'я гарного командного духу я очікую, що кожен із вас знайде подарунок вартістю не менш ніж двомісячну зарплату. Це щонайменше, що ми можемо зробити!</li>
+    <li>alienistProphecy(tag=meme_ExaltedPriesthood)->Наш дорогий лідер, вищий з наших жерців, вирішить долю всіх цих заблудлих людських творінь, бо ми довіряємо його мудрості в таких питаннях.</li>
+  </VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Papacy -->
+  <VME_ExaltedPriesthood.symbolPacks.0.ideoName>Папізм</VME_ExaltedPriesthood.symbolPacks.0.ideoName>
+  <!-- EN: papacy -->
+  <VME_ExaltedPriesthood.symbolPacks.0.theme>папізму</VME_ExaltedPriesthood.symbolPacks.0.theme>
+  <!-- EN: papal -->
+  <VME_ExaltedPriesthood.symbolPacks.0.adjective>папська</VME_ExaltedPriesthood.symbolPacks.0.adjective>
+  <!-- EN: follower -->
+  <VME_ExaltedPriesthood.symbolPacks.0.member>папист</VME_ExaltedPriesthood.symbolPacks.0.member>
+
+  <!-- EN: Theocracy -->
+  <VME_ExaltedPriesthood.symbolPacks.1.ideoName>Теократизм</VME_ExaltedPriesthood.symbolPacks.1.ideoName>
+  <!-- EN: theocracy -->
+  <VME_ExaltedPriesthood.symbolPacks.1.theme>теократії</VME_ExaltedPriesthood.symbolPacks.1.theme>
+  <!-- EN: theocratic -->
+  <VME_ExaltedPriesthood.symbolPacks.1.adjective>теократичний</VME_ExaltedPriesthood.symbolPacks.1.adjective>
+  <!-- EN: follower -->
+  <VME_ExaltedPriesthood.symbolPacks.1.member>адепт</VME_ExaltedPriesthood.symbolPacks.1.member>
+
+</LanguageData>

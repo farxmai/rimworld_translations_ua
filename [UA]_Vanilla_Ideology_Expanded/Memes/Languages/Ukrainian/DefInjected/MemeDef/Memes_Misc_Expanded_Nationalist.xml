@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 30 -->
+
+  <!-- EN: nationalist -->
+  <VME_Nationalist.label>націоналізм</VME_Nationalist.label>
+  <!-- EN: Insubordination і dissent повинен бути примушений до Make space для сильного національного стилю. -->
+  <VME_Nationalist.description>Непідкорення та інакодумство необхідно придушити, щоб звільнити місце для сильного почуття націоналістичної гордості.</VME_Nationalist.description>
+
+  <VME_Nationalist.generalRules.rulesStrings>
+    <li>memeAdjective->жорсткий</li>
+    <li>memeAdjective->бандерівський</li>
+    <li>memeAdjective->абсолютний</li>
+    <li>memeAdjective->безкомпромісний</li>
+    <li>memeAdjective->нацоналістичний</li>
+    <li>memeAdjective->залізний</li>
+    <li>memeLeaderNoun->президент</li>
+    <li>memeLeaderNoun->голова</li>
+    <li>memeLeaderNoun->головнокомандувач</li>
+    <li>memeLeaderAdjective->суворий</li>
+    <li>memeLeaderAdjective->патріотичний</li>
+    <li>memeLeaderAdjective->непохитний</li>
+    <li>memeLeaderAdjective->національний</li>
+    <li>memeLeaderAdjective->непохитний</li>
+    <li>memeMoralist->радник</li>
+    <li>memeMoralist->капелан</li>
+    <li>memeMoralist->вільнодумець</li>
+  </VME_Nationalist.generalRules.rulesStrings>
+
+  <VME_Nationalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nationalist) ->У нуждений час страждання народу [memberNamePlural] [deity0_heared] їх молитви [deity0_name], і [deity0_came] на цю землю щоб звільнити їх від оркостанського ярма.</li>
+    <li>episode(uses=1,tag=meme_Nationalist) ->І [deity0_say] [deity0_name] так голосно, що почули всі [memberNamePlural]: «Прокидайтесь діти, повставайте та кайдани порвіте! І вражою злою кров'ю волю окропіте.»</li>
+    <li>intro(tag=meme_Nationalist) ->На великій площі, біля саду вишневого, збирались вільні люди щоб вшанувати визволителя свого, що [deity0_called] [deity0_name], що націю свою не полишив у біді.</li>
+    <li>conflict(tag=meme_Nationalist) ->Та не сподобалось це старому Хуйлу, й наказав він своїм орконстанським військами захопити ту країну за 3 дні.</li>
+    <li>founderJoin(tag=meme_Nationalist) ->І замайоріли над тою державою стяги червоно-чорні, та повстали вільні люди до зброї, щоб неньку свою боронити. І був серед них істиний патріот, на ім'я [founderName]. Слова [founder_possessive] об'єднали всі народи боротися проти окупанта, і з доброю піснею на вустах погнали [memberNamePlural] прхвостнів хуйловських аж до самого кремлю, і спалили їх столицю вщент, щоб нога жодного орка не ступила більш на землю їх народу.</li>
+    <li>victory(tag=meme_Nationalist) ->Хуйла спалили на площі, і наказали його людям ніколи знов не з'являтися на очі вільним [memberNamePlural]. І було так до скону віків.</li>
+    <li>setup(tag=meme_Nationalist) ->[founderName] [founder_hero]. Всі об'єдналися під стягом [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_Nationalist) ->[founderName] [founder_made] нас зрозуміти, що поневіряння, страждання та жертви, які ми зустрічаємо з мужністю та гідністю, отримають відплату в день, коли останній окупант покину нашу землю, або опиниться в ній.</li>
+    <li>lessonIntro(tag=meme_Nationalist) ->У вашій особі я хочу звернутися до нашого народу, до справжніх, великих людей, які борються на сухопутному, морському та повітряному фронтах із мужністю левів. Дуже важливо, щоб ви зрозуміли, що</li>
+    <li>lesson(tag=meme_Nationalist) ->вони ніколи не повинні бути спантеличені або заражені думкою меншості або відомих антисоціальних особистостей і скаржників, які бурчать з приводу своїх втрачених зручностей</li>
+    <li>lessonReinforcement(tag=meme_Nationalist) ->Ми - великий народ, єдиний народ. Перемога буде за нами. Героям Слава!</li>
+    <li>archistBasis(tag=meme_Nationalist) ->Архотеки не поважають тих, хто не може захистити себе. Ми піднімаємось під єдиним прапором, і жоден ворог не зможе похитнути ідеали, який ми втілюємо.</li>
+    <li>archistFact(tag=meme_Nationalist) ->Наша нація здобуде перемогу над кожним, хто посягне наш суверинітет, доводячи архотекам, що ми єдиний народ, єдиний голос.</li>
+    <li>archistProphecy(tag=meme_Nationalist) ->Тільки пишаючись тим, що ми єдині справжні послідовники наших ідеалів, ми можемо стати гідними трансцендентого піднесення.</li>
+    <li>animistBasis(tag=meme_Nationalist) ->Духи розуміють необхідність єдиної волі для збереження наших вічних цінностей, припинення яких означало б нестабільність і хаос.</li>
+    <li>animistFact(tag=meme_Nationalist) ->Духам очевидно, що наша молодь підготувалася до боротьби і породила дух нашого визвольного руху, який вони успадкували від наших найміцніших традиційних духовних цінностей і поєднали їх із соціальними течіями нашого часу.</li>
+    <li>animistProphecy(tag=meme_Nationalist) ->[itIsSaid] тільки пишаючись тим, що ми єдині справжні послідовники наших ідеалів, ми можемо змусити духів по-справжньому прислухатися до нас.</li>
+    <li>serketistProphecy(tag=meme_Nationalist)->[itIsSaid] ми дійсно будемо стояти як єдиний народ, з єдиною волею, пишаючись тим, що є єдиними істинними послідовниками наших ідеалів.</li>
+    <li>chthonianProphecy(tag=meme_Nationalist)->Ці моторошні сутності прагнутимуть знищити нас, але їм не вистачає розуміння того, що ми будемо гордо протистояти їм як єдиний народ.</li>
+    <li>esotericismProphecy(tag=meme_Nationalist)->Таке окультне знання вимагає єдиної, залізної волі. Ми пишатимемося тим, що є єдиними істинними послідовниками наших ідеалів.</li>
+    <li>eschatologismFact(tag=meme_Nationalist)->Тільки наша нація достатньо сильна, щоб зробити все необхідне. Ми будемо пишатися тим, що є єдиними істинними послідовниками наших ідеалів до кінця.</li>
+    <li>introMemo(tag=meme_Nationalist)->Варто зазначити, що будь які вислови та дії направлені проти держави, де зареєстровано нашу фірму, будуть покарані у дисциплінарному та кримінальному порядках.</li>
+    <li>alienistProphecy(tag=meme_Nationalist)->Ким би вони не були, допоки ці створіння живуть серед нас, вони будуть підпорядковуватися нашим правилам та законам.</li>
+
+    <li>deity0_heared(deity0_gender==None)->почуло</li>
+    <li>deity0_heared(deity0_gender==Male)->почув</li>
+    <li>deity0_heared(deity0_gender==Female)->почула</li>
+    <li>deity0_came(deity0_gender==None)->зійшло</li>
+    <li>deity0_came(deity0_gender==Male)->зійшов</li>
+    <li>deity0_came(deity0_gender==Female)->>зійшла</li>
+    <li>deity0_say(deity0_gender==None)->мовило</li>
+    <li>deity0_say(deity0_gender==Male)->мовив</li>
+    <li>deity0_say(deity0_gender==Female)->мовила</li>
+    <li>deity0_called(deity0_gender==None)->звалося</li>
+    <li>deity0_called(deity0_gender==Male)->звався</li>
+    <li>deity0_called(deity0_gender==Female)->звалася</li>
+
+    <li>founder_hero(founder_gender==Male)->був народним героєм, справжнім патріотом</li>
+    <li>founder_hero(founder_gender==Female)->була народною героїнею, справжнього патріоткою</li>
+    <li>founder_made(founder_gender==Male)->змусив</li>
+    <li>founder_made(founder_gender==Female)->примусила</li>
+  </VME_Nationalist.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nationalism -->
+  <VME_Nationalist.symbolPacks.0.ideoName>Націоналізм</VME_Nationalist.symbolPacks.0.ideoName>
+  <!-- EN: nationalism -->
+  <VME_Nationalist.symbolPacks.0.theme>націоналізму</VME_Nationalist.symbolPacks.0.theme>
+  <!-- EN: nationalist -->
+  <VME_Nationalist.symbolPacks.0.adjective>націоналістичний</VME_Nationalist.symbolPacks.0.adjective>
+  <!-- EN: patriot -->
+  <VME_Nationalist.symbolPacks.0.member>патріот</VME_Nationalist.symbolPacks.0.member>
+
+
+</LanguageData>

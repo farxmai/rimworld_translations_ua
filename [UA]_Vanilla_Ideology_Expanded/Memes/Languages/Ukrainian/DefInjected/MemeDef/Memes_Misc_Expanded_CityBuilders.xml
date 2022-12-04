@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 24 -->
+
+  <!-- EN: city builders -->
+  <VME_CityBuilders.label>урбанізм</VME_CityBuilders.label>
+  <!-- EN: Наша родина повинна позначити всі пристосунки з великою компанією, домашніми, workshops, і територіями обслуги повинні бути всі сучасні і доступні для всіх. -->
+  <VME_CityBuilders.description>У нашому поселенні повинні бути всі зручності великого міста. Житло, робота та місця відпочинку повинні бути в достатній кількості та бути доступними для всіх.</VME_CityBuilders.description>
+
+
+  <VME_CityBuilders.generalRules.rulesStrings>
+    <li>memeAdjective->будівельний</li>
+    <li>memeAdjective->працьовитий</li>
+    <li>memeLeaderNoun->великий будівельник</li>
+    <li>memeLeaderNoun->архітектор</li>
+    <li>memeConcept->міст</li>
+  </VME_CityBuilders.generalRules.rulesStrings>
+
+  <VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CityBuilders) ->[deity0_name] [deity0_spoke] нам: «Побудуйте міста і оточіть їх стінами та вежами, воротами та ґратами. Ця земля ваша, бо ви шукали мене; з кожної великої гори і з кожного високого пагорба тектимуть водяні потоки, доки не впадуть вежі».</li>
+    <li>episode(uses=1,tag=meme_CityBuilders) ->[deity0_name] [deity0_gave] нам вчення, дотримуючись якого ми щосили намагалися стати найбагатшою фракцією. Поети співатимуть про процвітання та багатство ще довго після того, як нас не стане.</li>
+    <li>intro(tag=meme_CityBuilders) ->[place_summary] [place_name] — будівельний майданчик, на якому [memberNamePlural] побудуй найбільше місто з великим храмом, присвяченим їх божеству, [deity0_name].</li>
+    <li>conflict(tag=meme_CityBuilders) ->[foe_envious] [foeLeader] [foe_wanted] завоювати це місто, тому що він [foe_jealous] дозвілля, яким насолоджувалися його мешканці. [foeLeader_possessive] [foe_assembled] величезну армію щоб осадити місто.</li>
+    <li>founderJoin(tag=meme_CityBuilders) ->[founderName], [founder_known] як Великий магістрат, [founder_laughed] над цією зухвалістю. Хіба [foeLeader] не [foe_know], що [deity0_name] [deity0_protected] своє священне місто? Міські стіни були високі, як гори, і неприступні.</li>
+    <li>victory(tag=meme_CityBuilders) ->Через кілька місяців [foeLeader] [foe_forced] відступити, тому що більшість [foeLeader_possessive] слуг помирала від голоду та холоду. Місто не впало, і гордо стоятиме ще багато тисячоліття.</li>
+    <li>setup(tag=meme_CityBuilders) ->[founderName] [founder_was] мировим суддею в маленькому поселенні в одному з околиць світу. [founder_pronoun] [founder_believed], що у незначного поселення мало шансів перед постійними зовнішніми загрозами, і [founder_proposed] серію монументальних будівельних проектів, які перетворили б маленьке село на великий мегаполіс.</li>
+    <li>story(uses=1,tag=meme_CityBuilders) ->[founderName] [founder_stayed] у пам'яті людей як Великий Архітектор, а [founder_possessive] місто гордо стоятиме багато тисячоліття.</li>
+    <li>lessonIntro(tag=meme_CityBuilders) ->У старовинних книгах я вивчав забуте мистецтво військових облог. Якщо ми хочемо, щоб наші міста стояли гордо, ми повинні розуміти, що</li>
+    <li>lesson(tag=meme_CityBuilders) ->найвищі, міцніші стіни побудовані не з каменю, а з людської праці та поту</li>
+    <li>lessonReinforcement(tag=meme_CityBuilders) ->Добре захищене місто не руйнується. Місто, побудоване з любов'ю, непереможне.</li>
+    <li>archistBasis(tag=meme_CityBuilders) ->Архотеки є неперевершеними будівельниками. Вся планета може змінюватись і пристосовуватися до їхніх потреб.</li>
+    <li>archistFact(tag=meme_CityBuilders) ->Ми наслідуватимемо будівельну майстерність архотеків у наших власних містах, створюючи чудеса інженерної думки, які витримають випробування часом.</li>
+    <li>archistProphecy(tag=meme_CityBuilders) ->[inTheEnd], найбільші будівельники серед нас стануть обраними і їм буде дозволено піднятись.</li>
+    <li>animistBasis(tag=meme_CityBuilders) ->Немає більшого духу, ніж дух творчості. Він проявляється у всьому, що створено майстерним майстром.</li>
+    <li>animistFact(tag=meme_CityBuilders) ->Ми зведемо неймовірні дива інженерної думки. Великі міста, які стануть свідченням сили духу творчості.</li>
+    <li>animistProphecy(tag=meme_CityBuilders) ->[itIsSaid] найбільші будівельники серед нас будуть обрані і отримають дозвіл на спілкування з духами.</li>
+    <li>serketistProphecy(tag=meme_CityBuilders)->[itIsSaid] ми збудуємо величезні міста-вулки, схожі на людські термітники, які заслонять Сонце.</li>
+    <li>chthonianProphecy(tag=meme_CityBuilders)->Груба і жорстока міць цих моторошних сутностей настільки велика, що тільки ховаючись у добре захищених броньованих містах, ми можемо сподіватися протистояти їх руйнівному впливу.</li>
+    <li>esotericismProphecy(tag=meme_CityBuilders)->Такі окультні знання будуть відкриті тільки в великих експериментах. Ми побудуємо величні бібліотеки та лабораторії, величезні міста для наукового аналізу та досліджень.</li>
+    <li>eschatologismFact(tag=meme_CityBuilders)->Ми побудуємо гігантські міста, що розкинулися, з яких наша міць хлине, як розплавлений свинець, і спалить весь світ.</li>
+    <li>introMemo(tag=meme_CityBuilders)->Я радий повідомити, що ми відкриваємо сім нових представництв компанії. Якщо ви хочете попросити переклад будь-якого з них, будь ласка, дайте мені знати якнайшвидше.</li>
+    <li>alienistProphecy(tag=meme_CityBuilders)->Ці несхожі істоти можуть бути корисними при будівництві наших славних міст.</li>
+    <li>deity0_spoke(deity0_gender==None)->говорило</li>
+    <li>deity0_spoke(deity0_gender==Male)->говорив</li>
+    <li>deity0_spoke(deity0_gender==Female)->говорила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>foe_envious(foeLeader_gender==Male)->заздрісний</li>
+    <li>foe_envious(foeLeader_gender==Female)->заздрісна</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотів</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотіла</li>
+    <li>foe_jealous(foeLeader_gender==Male)->заздрив</li>
+    <li>foe_jealous(foeLeader_gender==Female)->заздрила</li>
+    <li>foe_assembled(foeLeader_gender==Male)->зібрав</li>
+    <li>foe_assembled(foeLeader_gender==Female)->зібрала</li>
+    <li>founder_known(founder_gender==Male)->відомий</li>
+    <li>founder_known(founder_gender==Female)->відома</li>
+    <li>founder_laughed(founder_gender==Male)->посміявся</li>
+    <li>founder_laughed(founder_gender==Female)->посміялася</li>
+    <li>foe_know(foeLeader_gender==Male)->знав</li>
+    <li>foe_know(foeLeader_gender==Female)->знала</li>
+    <li>deity0_protected(deity0_gender==None)->захистило</li>
+    <li>deity0_protected(deity0_gender==Male)->захист</li>
+    <li>deity0_protected(deity0_gender==Female)->захистила</li>
+    <li>foe_forced(foeLeader_gender==Male)->був змушений</li>
+    <li>foe_forced(foeLeader_gender==Female)->була змушена</li>
+
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_believed(founder_gender==Male)->вважав</li>
+    <li>founder_believed(founder_gender==Female)->вважала</li>
+    <li>founder_proposed(founder_gender==Male)->запланував</li>
+    <li>founder_proposed(founder_gender==Female)->запланувала</li>
+    <li>founder_stayed(founder_gender==Male)->залишився</li>
+    <li>founder_stayed(founder_gender==Female)->залишилась</li>
+  </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Builders -->
+  <VME_CityBuilders.symbolPacks.0.ideoName>Урбанізм</VME_CityBuilders.symbolPacks.0.ideoName>
+  <!-- EN: building -->
+  <VME_CityBuilders.symbolPacks.0.theme>урбанізму</VME_CityBuilders.symbolPacks.0.theme>
+  <!-- EN: builder -->
+  <VME_CityBuilders.symbolPacks.0.adjective>урбаністичний</VME_CityBuilders.symbolPacks.0.adjective>
+  <!-- EN: builder -->
+  <VME_CityBuilders.symbolPacks.0.member>урбаніст</VME_CityBuilders.symbolPacks.0.member>
+
+
+</LanguageData>

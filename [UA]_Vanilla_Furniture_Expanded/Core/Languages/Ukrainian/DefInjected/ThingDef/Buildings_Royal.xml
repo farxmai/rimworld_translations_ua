@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Kingsize.label>королівське ліжко</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Ліжко, яке підходить для короля, заповнене золотими прикрасами і має високий підголівник. Надзвичайно зручна та красива, це справжня розкіш.</Bed_Kingsize.description>
+
+  <Table_RoyalEndTable.label>королівська тумбочка</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Невелика тумбочка, прикрашена розкішними золотими деталями. Додає зручності ліжкам, якщо розташована безпосередньо поруч із узголів'ям. Другий такий столик не дасть позитивного ефекту.</Table_RoyalEndTable.description>
+
+  <Table_RoyalDresser.label>королівський комод</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Розкішний комод, прикрашений чистим золотом та має елегантний дизайн. Додає зручності ліжкам, що стоять поряд. Розміщення більше одного королівського комоду поруч із одним ліжком не дасть позитивного ефекту.</Table_RoyalDresser.description>
+
+  <Seat_RoyalChair.label>королівський стілець</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Зручний м'який стілець із високою спинкою, розташованою у золотій рамі. Можна ставити поряд зі столами, робочими верстатами та в будь-яких інших місцях.</Seat_RoyalChair.description>
+
+  <Seat_RoyalArmchair.label>королівське крісло</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Велике, м'яке розкішне крісло. Встановлено у золотій рамі, і лише для найбагатших еліт. Можна ставити поряд зі столами, робочими верстатами та в будь-яких інших місцях.</Seat_RoyalArmchair.description>
+
+  <Table_Royal1x1c.label>королівський стіл (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Вражаючий стіл для трапез, цей стіл у комплекті із золотим зовнішнім ободом та закругленими кутами, підходить для багатіїв.</Table_Royal1x1c.description>
+
+  <Table_Royal2x2c.label>королівський стіл (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Вражаючий стіл для трапез, цей стіл у комплекті із золотим зовнішнім ободом та закругленими кутами, підходить для багатіїв.</Table_Royal2x2c.description>
+
+  <Table_Royal1x2c.label>королівський стіл (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Вражаючий стіл для трапез, цей стіл у комплекті із золотим зовнішнім ободом та закругленими кутами, підходить для багатіїв.</Table_Royal1x2c.description>
+
+  <Table_Royal3x3c.label>королівський стіл (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Вражаючий стіл для трапез, цей стіл у комплекті із золотим зовнішнім ободом та закругленими кутами, підходить для багатіїв.</Table_Royal3x3c.description>
+
+  <Table_Royal2x4c.label>королівський стіл (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Вражаючий стіл для трапез, цей стіл у комплекті із золотим зовнішнім ободом та закругленими кутами, підходить для багатіїв.</Table_Royal2x4c.description>
+
+</LanguageData>

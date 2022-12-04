@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: T-800 -->
+  <T-800.label>Термінатор</T-800.label>
+  <!-- EN: Have a single pawn with bionic legs, arms, spine, ears and eyes -->
+  <T-800.description>У вашого колоніста біонні руки, ноги, очі, вуха та хребет</T-800.description>
+
+  <!-- EN: I'm A Pirate! -->
+  <imAPirate.label>Йохо-хо!</imAPirate.label>
+  <!-- EN: Install a peg leg on a pawn -->
+  <imAPirate.description>Встановити дерев'яну ногу колоністу</imAPirate.description>
+
+  <!-- EN: On Edge -->
+  <onEdge.label>На волосину від смерті</onEdge.label>
+  <!-- EN: Gain immunity when infection is on 99% -->
+  <onEdge.description>Виробити імунітет, коли зараження досягло 99%</onEdge.description>
+
+  <!-- EN: That'll Show Him -->
+  <thatllShowHim.label>Не завадить схуднути</thatllShowHim.label>
+  <!-- EN: Starve a pawn to death -->
+  <thatllShowHim.description>Заморити колоніста голодом</thatllShowHim.description>
+</LanguageData>

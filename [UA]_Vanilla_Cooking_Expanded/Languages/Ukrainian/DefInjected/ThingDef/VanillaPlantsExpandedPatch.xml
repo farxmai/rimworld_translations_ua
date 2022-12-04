@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Ketchup.label>кетчуп</VCE_Ketchup.label>
+  <VCE_Ketchup.description>Густий соус з тушкованих помідорів, і солоний, і гострий, а також із солодким післясмаком. Ідеально підходить для м'ясних страв або смажених страв..</VCE_Ketchup.description>
+
+  <VCE_HotSauce.label>гострий соус</VCE_HotSauce.label>
+  <VCE_HotSauce.description>Міцний гострий соус, виготовлений з тушкованого перцю чилі та інших спецій.</VCE_HotSauce.description>
+
+</LanguageData>

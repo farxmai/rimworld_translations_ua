@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_Grass.label>трава</VFEArch_Grass.label>
+  <VFEArch_Grass.description>Поле трави з плямами землі тут і там. Дуже приємно виглядає, не потребує ресурсів для будівництва.</VFEArch_Grass.description>
+
+  <VFEArch_LawnPlot.label>галявина з газоном</VFEArch_LawnPlot.label>
+  <VFEArch_LawnPlot.description>Прекрасно підстрижена трава з дуже високою цінністю. Для створення потрібний величезний обсяг роботи.</VFEArch_LawnPlot.description>
+
+</LanguageData>

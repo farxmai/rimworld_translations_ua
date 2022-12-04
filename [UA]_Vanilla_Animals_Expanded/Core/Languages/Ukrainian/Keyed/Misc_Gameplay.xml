@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <NocturnalAnimals.BodyClock>Біологічний годинник</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Визначає коли тварина спить і коли не спить.\n\nДенні тварини сплять вночі і не сплять вдень, у той час як нічні тварини сплять вдень і не сплять вночі. Сутінкові тварини в основному активні у сутінках.</NocturnalAnimals.BodyClock_Description>
+
+  <NocturnalAnimals.BodyClock_Diurnal>Днівний</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Нічний</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Сутінковий</NocturnalAnimals.BodyClock_Crepuscular>
+
+</LanguageData>

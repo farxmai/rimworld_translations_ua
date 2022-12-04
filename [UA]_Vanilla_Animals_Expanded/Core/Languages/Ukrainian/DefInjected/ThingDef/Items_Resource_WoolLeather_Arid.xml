@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hippopotamus -->
+
+  <AEXP_Leather_Hippopotamus.label>шкіра бегемота</AEXP_Leather_Hippopotamus.label>
+  <AEXP_Leather_Hippopotamus.description>Щільна шкіра бегемота. Вона не тільки надзвичайно міцна, а й забезпечує значний захист від спеки.</AEXP_Leather_Hippopotamus.description>
+  <AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>шкіри бегемота</AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>
+
+  <!-- Wildebeest -->
+
+  <AEXP_Leather_Wildebeest.label>шкіра антилопи</AEXP_Leather_Wildebeest.label>
+  <AEXP_Leather_Wildebeest.description>Густе, але пухке хутро та шкіра антилопи гну. Хоча воно забезпечує певний захист від пошкоджень, воно не відрізняється довговічністю.</AEXP_Leather_Wildebeest.description>
+  <AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>шкіри антилопи</AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>
+</LanguageData>

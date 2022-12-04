@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VCE_PlumsDrying>Сливи сушаться</VCE_PlumsDrying>
+	<VCE_PlumsCurrentlyFrozen>Ці сливи заморожені і не висушаться до стану чорносливу.</VCE_PlumsCurrentlyFrozen>
+	<VCE_PlumsCurrentlyRefrigerated>Ці сливи охолоджені і не висушаться до стану чорносливу так швидко, як могли б (сушаться в {0})</VCE_PlumsCurrentlyRefrigerated>
+	<VCE_PlumsDryingCorrectly>Ці сливи сушаться до стану чорносливу в правильних умовах (сушаться {0})</VCE_PlumsDryingCorrectly>
+</LanguageData>

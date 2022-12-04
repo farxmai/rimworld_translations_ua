@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gastronomy_StandBy.label>очікувати відвідувачв</Gastronomy_StandBy.label>
+  <Gastronomy_StandBy.verb>очікування</Gastronomy_StandBy.verb>
+  <Gastronomy_StandBy.gerund>очікувати</Gastronomy_StandBy.gerund>
+
+  <Gastronomy_TakeOrder.label>прийняти замовлення</Gastronomy_TakeOrder.label>
+  <Gastronomy_TakeOrder.verb>приймати замовлення</Gastronomy_TakeOrder.verb>
+  <Gastronomy_TakeOrder.gerund>приймає замовлення</Gastronomy_TakeOrder.gerund>
+
+  <Gastronomy_Serve.label>обслуговувати</Gastronomy_Serve.label>
+  <Gastronomy_Serve.verb>обслуговувати</Gastronomy_Serve.verb>
+  <Gastronomy_Serve.gerund>обслуговує</Gastronomy_Serve.gerund>
+
+  <Gastronomy_MakeTable.label>сервірувати стіл</Gastronomy_MakeTable.label>
+  <Gastronomy_MakeTable.verb>сервірувати</Gastronomy_MakeTable.verb>
+  <Gastronomy_MakeTable.gerund>сервірує</Gastronomy_MakeTable.gerund>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SushiPrepTable.label>стіл для суші</VCE_SushiPrepTable.label>
+  <VCE_SushiPrepTable.description>Робочий стіл для нарізки та приготування різноманітних суші.</VCE_SushiPrepTable.description>
+
+  <VCE_SoyFermenter.label>ферментатор соєвого соусу</VCE_SoyFermenter.label>
+  <VCE_SoyFermenter.description>Соєвий ферментатор являє собою металевий циліндричний барабан, де соєві боби пресуються, змішуються з бактеріями Aspergillus і зерном, і витримуються протягом тривалого періоду часу. В результаті виходить соєвий соус високого гатунку, який можна використовувати як харчову добавку.</VCE_SoyFermenter.description>
+
+</LanguageData>

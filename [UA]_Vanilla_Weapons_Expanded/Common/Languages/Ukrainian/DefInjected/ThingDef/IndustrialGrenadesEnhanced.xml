@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_SmokeGrenade.label>димові гранати</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Старомодна ємність зі стисненим димом, яка вибухає при ударі та створює стіну диму.</VWE_SmokeGrenade.description>
+  <VWE_Projectile_SmokeGrenade.label>димова граната</VWE_Projectile_SmokeGrenade.label>
+
+
+  <VWE_ToxicGrenade.label>отруйні гранати</VWE_ToxicGrenade.label>
+  <VWE_ToxicGrenade.description>Заповнена смертоносним газом ємність, що викликає сильну інтоксикацію за дуже короткий проміжок часу.</VWE_ToxicGrenade.description>
+  <VWE_Projectile_ToxicGrenade.label>отруйна граната</VWE_Projectile_ToxicGrenade.label>
+
+
+  <VWE_FlashGrenade.label>світлошумові гранати</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>Світлошумова граната. Тимчасово приголомшує органічних противників, дозволяючи скоротити дистанцію.</VWE_FlashGrenade.description>
+  <VWE_Projectile_FlashGrenade.label>світлошумова граната</VWE_Projectile_FlashGrenade.label>
+
+
+  <Weapon_GrenadeEMP.label>ЕМІ-гранати</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Електромагнітні імпульсні гранати пошкоджують електронне обладнання.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>кинути ЕМІ-гранату</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+
+
+  <Weapon_GrenadeFrag.label>осколкові гранати</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Старомодні осколкові гранати. Їх можна кидати на короткі відстані, де вони вибухнуть, пошкодивши будь-що і будь-кого поруч.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>кинути осколкову гранату</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+
+
+  <Weapon_GrenadeMolotov.label>коктейлі молотова</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Скляні пляшки наповнені легкозаймистою речовиною з палаючою тканиною в горловині. Улюблена зброя хуліганів і відчайдушних воїнів від обідка до обіда.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>кинути молотова</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+
+</LanguageData>

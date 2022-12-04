@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: awakened carrier dryad -->
+  <VDE_AwakenedDryad_Carrier.label>пробуджена дріада-носій</VDE_AwakenedDryad_Carrier.label>
+  <!-- EN: A dryad caste specialized in carrying items. Its awakening has improved their size, carrying capacity and added functionality as a pack animal for long-distance hauling.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Carrier.description>Каста дріад займаються перенесенням речей. Пробудження збільшило розміри, вантажопідйомність і дало можливість приєднуватися до караванів як в'ючної тварини.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Carrier.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Carrier.tools.0.label>ліва лапа</VDE_AwakenedDryad_Carrier.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Carrier.tools.1.label>права лапа</VDE_AwakenedDryad_Carrier.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Carrier.tools.3.label>голова</VDE_AwakenedDryad_Carrier.tools.3.label>
+
+  <!-- EN: awakened clawer dryad -->
+  <VDE_AwakenedDryad_Clawer.label>пробуджена дріада-кігтервач</VDE_AwakenedDryad_Clawer.label>
+  <!-- EN: A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Its awakening has improved their combat prowess and strengthened the wings, permitting them to ignore terrain movement penalties.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Clawer.description>Дріади, основне призначення яких - потужні атаки у бою. Пробудження збільшило бойові навички та посилило крила, дозволивши ігнорувати штрафи місцевості до пересування.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Clawer.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Clawer.tools.0.label>ліва лапа</VDE_AwakenedDryad_Clawer.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Clawer.tools.1.label>права лапа</VDE_AwakenedDryad_Clawer.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Clawer.tools.3.label>голова</VDE_AwakenedDryad_Clawer.tools.3.label>
+
+  <!-- EN: awakened barkskin dryad -->
+  <VDE_AwakenedDryad_Barkskin.label>пробуджена дріада-дубошкір</VDE_AwakenedDryad_Barkskin.label>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Its awakening has created multiple layers of hardened bark and deadened all pain receptors. Can act as a mobile form of cover.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Barkskin.description>Каста дріад, основне призначення яких приймати удар під час бою. Пробудження дало нові шари шкіри і заглушило больові рецептори. Тепер це пересувне укриття.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Barkskin.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Barkskin.tools.0.label>ліва лапа</VDE_AwakenedDryad_Barkskin.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Barkskin.tools.1.label>права лапа</VDE_AwakenedDryad_Barkskin.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Barkskin.tools.3.label>голова</VDE_AwakenedDryad_Barkskin.tools.3.label>
+
+  <!-- EN: awakened woodmaker dryad -->
+  <VDE_AwakenedDryad_Woodmaker.label>пробуджена дріада-древороб</VDE_AwakenedDryad_Woodmaker.label>
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Its awakening has accelerated the wood-like material production and instilled a motherly instinct to create nests made of numerous twigs.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Woodmaker.description>Каста повільних та незграбних дріад, що займаються виробництвом деревини. Пробудження прискорило виробництво матеріалу і прищепило материнський інстинкт створювати гнізда з численних гілок.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Woodmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Woodmaker.tools.0.label>ліва лапа</VDE_AwakenedDryad_Woodmaker.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Woodmaker.tools.1.label>права лапа</VDE_AwakenedDryad_Woodmaker.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Woodmaker.tools.3.label>голова</VDE_AwakenedDryad_Woodmaker.tools.3.label>
+
+  <!-- EN: awakened medicinemaker dryad -->
+  <VDE_AwakenedDryad_Medicinemaker.label>пробуджена дріада-лікороб</VDE_AwakenedDryad_Medicinemaker.label>
+  <!-- EN: A dryad caste specialized in medicine production. Its awakening has accelerated the herbal production and gives them a large nodule that slowly accumulated neutroamine, which can be milked when full.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Medicinemaker.description>Каста дріад займається виробництвом медикаментів. Пробудження прискорило виробництво трав та утворило великий виступ, у якому накопичується нейтроамін. Коли він заповнюється, дріаду можна доїти.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Medicinemaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.0.label>ліва лапа</VDE_AwakenedDryad_Medicinemaker.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.1.label>права лапа</VDE_AwakenedDryad_Medicinemaker.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Medicinemaker.tools.3.label>голова</VDE_AwakenedDryad_Medicinemaker.tools.3.label>
+
+  <!-- EN: awakened berrymaker dryad -->
+  <VDE_AwakenedDryad_Berrymaker.label>пробуджена дріада-ягідник</VDE_AwakenedDryad_Berrymaker.label>
+  <!-- EN: A dryad caste specialized in food production. Its awakening has accelerated the berry production and instills an instinct to bury parts of its peeling hide that are entirely similar to regular berry bushes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Berrymaker.description>Каста дріад, які займаються виробленням їжі. Пробудження прискорило виробництво ягід і привело інстинкт закопувати частини своєї шкіри, які злізли, які стають невідмінними від звичайних ягідних кущів.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Berrymaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Berrymaker.tools.0.label>ліва лапа</VDE_AwakenedDryad_Berrymaker.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Berrymaker.tools.1.label>права лапа</VDE_AwakenedDryad_Berrymaker.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Berrymaker.tools.3.label>голова</VDE_AwakenedDryad_Berrymaker.tools.3.label>
+
+  <!-- EN: awakened stonedigger dryad -->
+  <VDE_AwakenedDryad_Stonedigger.label>пробуджена дріада-каменяр</VDE_AwakenedDryad_Stonedigger.label>
+  <!-- EN: An extremely easy-going caste of dryad which specializes in finding stone chunks. Its awakening has instilled a sense of awe and strengthened pincers, drawing envy from stone ruins and carving excavated stone chunks into blocks to build a better shell.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Stonedigger.description>Каста дріад, що відрізняється особливо спокійним і радісним ставленням до життя і займається пошуком кам'яних уламків. Пробудження посилило клешні і прищепило інтерес і заздрість до кам'яних руїн, змушуючи добувати уламки заради кращого панцира.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Stonedigger.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Stonedigger.tools.0.label>ліва лапа</VDE_AwakenedDryad_Stonedigger.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Stonedigger.tools.1.label>права лапа</VDE_AwakenedDryad_Stonedigger.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Stonedigger.tools.3.label>голова</VDE_AwakenedDryad_Stonedigger.tools.3.label>
+
+  <!-- EN: awakened nectarmaker dryad -->
+  <VDE_AwakenedDryad_Nectarmaker.label>пробуджена дріада-нектарник</VDE_AwakenedDryad_Nectarmaker.label>
+  <!-- EN: A curious dryad caste specialized in ambrosia production. Its awakening has accelerated the ambrosia production and allows it to permanently root itself, transforming into a hardy Ambrosia Palm tree.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Nectarmaker.description>Каста дріад, що викликає пильний інтерес, здатна виробляти амброзію. Пробудження прискорило виробництво амброзії і дозволило пускати коріння, перетворюючись на пальму амброзії.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Nectarmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.0.label>ліва лапа</VDE_AwakenedDryad_Nectarmaker.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.1.label>права лапа</VDE_AwakenedDryad_Nectarmaker.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Nectarmaker.tools.3.label>голова</VDE_AwakenedDryad_Nectarmaker.tools.3.label>
+
+  <!-- EN: awakened spitter dryad -->
+  <VDE_AwakenedDryad_Spitter.label>пробуджена дріада-плювальник</VDE_AwakenedDryad_Spitter.label>
+  <!-- EN: A dryad caste specialized in territorialism and can launch ranged acid projectiles. Its awakening has improved their range and adds large acid reservoirs that explode when the dryad dies.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Spitter.description>Каста дріад, що займається охороною своєї території та здатна до плювань кислотою на далекі дистанції. Пробудження збільшило дальність плювків та додало великі резервуари з кислотою, що вибухають після смерті дріади.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Spitter.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Spitter.tools.0.label>ліва лапа</VDE_AwakenedDryad_Spitter.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Spitter.tools.1.label>права лапа</VDE_AwakenedDryad_Spitter.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Spitter.tools.3.label>голова</VDE_AwakenedDryad_Spitter.tools.3.label>
+
+  <!-- EN: awakened gaubricmaker dryad -->
+  <VDE_AwakenedDryad_Gaubricmaker.label>пробуджена дріада-вовнянник</VDE_AwakenedDryad_Gaubricmaker.label>
+  <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Its awakening has accelerated the fabric production and lengthens the shagginess, turning it an adorable, living wonder-mop that cleans up messes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan. -->
+  <VDE_AwakenedDryad_Gaubricmaker.description>Каста дріад, що виробляє вовняний, схожий на шкіру тварин, матеріал. Пробудження прискорило виробництво матеріалу і зробило дріаду ще кудлатішою, перетворивши її на милу живу чудо-швабру, яка прибирає безлад.\n\nПробуджені дріади мають усі переваги та недоліки своїх «сплячих» родичів. При цьому пробуджені дріади більш ефективні в роботі та вільні у пересуванні. Однак вони не можуть міняти касту і отримувати підживлення від королеви, що дуже обмежує їхню тривалість життя.</VDE_AwakenedDryad_Gaubricmaker.description>
+  <!-- EN: left claw -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.0.label>ліва лапа</VDE_AwakenedDryad_Gaubricmaker.tools.0.label>
+  <!-- EN: right claw -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.1.label>права лапа</VDE_AwakenedDryad_Gaubricmaker.tools.1.label>
+  <!-- EN: head -->
+  <VDE_AwakenedDryad_Gaubricmaker.tools.3.label>голова</VDE_AwakenedDryad_Gaubricmaker.tools.3.label>
+</LanguageData>

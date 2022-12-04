@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radio_Industrial.label>індустріальне радіо</Radio_Industrial.label>
+  <Radio_Industrial.description>Старий пристрій минулої епохи, він здатний вловлювати радіохвилі і перетворювати їх на звукові. Навіть у маргінальних світах часто є старий передавач або самотня радіостанція, яка щось мовить.</Radio_Industrial.description>
+
+  <Radio_Spacer.label>довгохвильове радіо</Radio_Spacer.label>
+  <Radio_Spacer.description>Високотехнологічний радіоприймач, здатний приймати дуже слабкі сигнали та відтворювати їх із кришталево чистою якістю.</Radio_Spacer.description>
+
+  <Joy_Arcade.label>аркадний автомат</Joy_Arcade.label>
+  <Joy_Arcade.description>Висока шафка з маленьким катодно-променевим дисплеєм і панеллю управління для гри в різні встановлені ігри.</Joy_Arcade.description>
+
+  <Joy_InudstrialComputer.label>старий комп'ютер</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Настільний комп'ютер на основі старого дизайну, дуже неефективний і схильний до збоїв. Дає невеликий буст до здатності вчитися після використання.</Joy_InudstrialComputer.description>
+
+  <Joy_ModernComputer.label>сучасний комп'ютер</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Високотехнологічний комп'ютер з РК-монітором і більш продуктивними деталями, які менш схильні до збоїв. Дає буст до здатності вчитися після використання.</Joy_ModernComputer.description>
+
+  <Joy_Piano.label>піаніно</Joy_Piano.label>
+  <Joy_Piano.description>Велике піаніно має досить приємне звучання яке розважає слухачів, крім того це відмінний спосіб розвинути художній талант.</Joy_Piano.description>
+
+  <Joy_RouletteTable.label>рулетка</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Стіл з м'яким покриттям та колесом для гри в рулетку - гарний спосіб тренувати свої навички спілкування та удачу.</Joy_RouletteTable.description>
+
+  <Joy_DartsBoard.label>дартс</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Популярна гра в маргінальних світах, що полягає в метанні дротиків за круглою метою. Це розслаблює і тренує навички стрілянини з більшою швидкістю, ніж підкови чи обруч.</Joy_DartsBoard.description>
+
+  <Joy_PunchingBag.label>боксерська груша</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Боксерська груша з тканинним набиванням, призначена для спуску на ній гніву. Може бути досить заспокійливою розвагою та допомагає тренувати рукопашний бій.</Joy_PunchingBag.description>
+
+</LanguageData>

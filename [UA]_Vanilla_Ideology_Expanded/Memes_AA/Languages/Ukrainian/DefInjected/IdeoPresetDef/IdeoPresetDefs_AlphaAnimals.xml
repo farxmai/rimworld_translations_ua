@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: astrological corruptors -->
+  <VME_Astrological_Corruptors.label>передбачені винищувачі</VME_Astrological_Corruptors.label>
+  <!-- EN: The stars beckon, and we obey. We shall be the faceless bearers of a new awakening, for we have peered into the unknown and its vastness has filled us with wonder.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Alienism. -->
+  <VME_Astrological_Corruptors.description>Ми підкоряємося поклику зірок. Ми станемо безликими вісниками нового пробудження. Ми заглянули в прірву і вона наповнила нас з посмішкою.\n\n&lt;color=#E5E54C&gt;Рекомендована структура:&lt;/color&gt;\n - Алієнізм.</VME_Astrological_Corruptors.description>
+
+  <!-- EN: inhuman ravagers -->
+  <VME_Inhuman_Ravagers.label>нелюдські руйнівники</VME_Inhuman_Ravagers.label>
+  <!-- EN: The dark confines of the Universe hid the existence of the Flesh that Hungers, a transdimensional conversion that reveals the true reality of life. We will forcefully bring its boon into the whole galaxy, erasing the obsolete examples of prior lifeforms, faulty and incomplete as they are.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Alienism. -->
+  <VME_Inhuman_Ravagers.description>Темні куточки Всесвіту приховували Плоть-Що-Жадає — міжпросторове утворення, що втілює ідеальну форму життя. Наша сила принесе галактиці її благо, застарілі та недосконалі форми життя будуть стерті: їхній час минув.\n\n&lt;color=#E5E54C&gt;екомендована структура:&lt;/color&gt;\n - Алієнізм.</VME_Inhuman_Ravagers.description>
+</LanguageData>

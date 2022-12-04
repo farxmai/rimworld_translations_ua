@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: small fishing trap -->
+  <VME_SmallFishingTrap.label>маленька рибальська пастка</VME_SmallFishingTrap.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a small trap that will only catch small sized fish. -->
+  <VME_SmallFishingTrap.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише маленьких риб.</VME_SmallFishingTrap.description>
+  <!-- EN: small fishing trap (blueprint) -->
+  <VME_SmallFishingTrap_Blueprint.label>маленька рибальська пастка (креслення)</VME_SmallFishingTrap_Blueprint.label>
+  <!-- EN:small fishing trap (blueprint) -->
+  <VME_SmallFishingTrap_Blueprint_Install.label>маленька рибальська пастка (креслення)</VME_SmallFishingTrap_Blueprint_Install.label>
+  <!-- EN: small fishing trap (building) -->
+  <VME_SmallFishingTrap_Frame.label>маленька рибальська пастка (будується)</VME_SmallFishingTrap_Frame.label>
+  <!-- EN:A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a small trap that will only catch small sized fish. -->
+  <VME_SmallFishingTrap_Frame.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише маленьких риб.</VME_SmallFishingTrap_Frame.description>
+
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a medium trap that will only catch medium sized fish. -->
+  <VME_MediumFishingTrap.label>середня рибальська пастка</VME_MediumFishingTrap.label>
+  <!-- EN: small fishing trap -->
+  <VME_MediumFishingTrap.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише середніх риб.</VME_MediumFishingTrap.description>
+  <!-- EN: medium fishing trap (blueprint) -->
+  <VME_MediumFishingTrap_Blueprint.label>середня рибальська пастка (креслення)</VME_MediumFishingTrap_Blueprint.label>
+  <!-- EN: medium fishing trap (blueprint) -->
+  <VME_MediumFishingTrap_Blueprint_Install.label>середня рибальська пастка (креслення)</VME_MediumFishingTrap_Blueprint_Install.label>
+  <!-- EN: medium fishing trap (building) -->
+  <VME_MediumFishingTrap_Frame.label>середня рибальська пастка (будується)</VME_MediumFishingTrap_Frame.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a medium trap that will only catch medium sized fish. -->
+  <VME_MediumFishingTrap_Frame.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише середніх риб.</VME_MediumFishingTrap_Frame.description>
+
+  <!-- EN: large fishing trap -->
+  <VME_LargeFishingTrap.label>велика рибальська пастка</VME_LargeFishingTrap.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a large trap that will only catch large sized fish. -->
+  <VME_LargeFishingTrap.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише великих риб.</VME_LargeFishingTrap.description>
+  <!-- EN: large fishing trap (blueprint) -->
+  <VME_LargeFishingTrap_Blueprint.label>велика рибальська пастка (креслення)</VME_LargeFishingTrap_Blueprint.label>
+  <!-- EN: large fishing trap (blueprint) -->
+  <VME_LargeFishingTrap_Blueprint_Install.label>велика рибальська пастка (креслення)</VME_LargeFishingTrap_Blueprint_Install.label>
+  <!-- EN: large fishing trap (building) -->
+  <VME_LargeFishingTrap_Frame.label>велика рибальська пастка (будується)</VME_LargeFishingTrap_Frame.label>
+  <!-- EN: A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a large trap that will only catch large sized fish. -->
+  <VME_LargeFishingTrap_Frame.description>Примітивна, але досить хитра барикада з дерев'яної палиці та сітки, призначена для того, щоб захопити плаваючу рибу і залишити її без виходу. Рибні пастки з часом руйнуються течією та самою рибою, та потребують заміни.\n\nЦя пастка малого розміру здатна ловити лише великих риб.</VME_LargeFishingTrap_Frame.description>
+</LanguageData>

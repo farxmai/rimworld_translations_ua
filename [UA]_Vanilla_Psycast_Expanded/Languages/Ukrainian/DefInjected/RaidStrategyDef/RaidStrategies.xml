@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: They are moving in to help you immediately. -->
+  <VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>Вони поспішають, щоб допомогти вам.</VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>
+  <!-- EN: These raiders seem to be led by a powerful psycaster. Psycasters can use psychic powers to manipulate the battlefield and easily tip the scales of the conflict. You should watch out for them, and prioritise targeting them when you see that they are about to cast a psycast.\n\nPsycasters in this group: -->
+  <VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>Схоже, що цей рейд очолює сильний псіонік. Псіоніки можуть використовувати псі-здібості для управління полем бою і серйозно вплинути на баланс сил. Їм варто приділити особливу увагу і намагатися позбутися їх в першу чергу до того, як вони застосують свої сили.\n\nПсіоніки, що беруть участь у рейді:
+  </VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>
+  <!-- EN: Raid (Psycaster) -->
+  <VPE_ImmediateAttack_Psycasters.letterLabelEnemy>Рейд (псіоніки)</VPE_ImmediateAttack_Psycasters.letterLabelEnemy>
+  <!-- EN: Friendlies (Psycaster) -->
+  <VPE_ImmediateAttack_Psycasters.letterLabelFriendly>Союзники (псіоніки)</VPE_ImmediateAttack_Psycasters.letterLabelFriendly>
+</LanguageData>

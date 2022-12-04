@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_AnimalBaby.label>дитинча</VAERoy_AnimalBaby.label>
+  <VAERoy_AnimalJuvenile.label>молодий</VAERoy_AnimalJuvenile.label>
+  <VAERoy_AnimalAdult.label>зрілий</VAERoy_AnimalAdult.label>
+  <VAERoy_AnimalAdultIntermediate.label>дорослий</VAERoy_AnimalAdultIntermediate.label>
+  <VAERoy_AnimalAdultMax.label>старий</VAERoy_AnimalAdultMax.label>
+
+</LanguageData>

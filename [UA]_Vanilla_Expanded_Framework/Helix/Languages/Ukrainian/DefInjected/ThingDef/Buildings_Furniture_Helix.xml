@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sun lamp -->
+  <VHGE_GasSunLamp.label>газова сонячна лампа</VHGE_GasSunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <VHGE_GasSunLamp.description>Потужний промисловий світильник. Висвітлює місцевість досить яскраво для вирощування рослин та потребує середньої кількості газу. Автоматично вимикається вночі.</VHGE_GasSunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <VHGE_GasSunLamp.comps.3.offMessage>Вимкнена під час сну рослин</VHGE_GasSunLamp.comps.3.offMessage>
+
+  <!-- EN: gas lamp -->
+  <VHGE_GasLamp.label>газова лампа</VHGE_GasLamp.label>
+  <!-- EN: A gas-powered standing lamp that lights an area. People need light to move and work at full speed. Needs to be connected to the helixien gas network. Can be safely placed outdoors.-->
+  <VHGE_GasLamp.description>Газовий світильник. Світло потрібне людям для роботи та зручності пересування. Має бути підключено до газової мережі. Можна розміщувати на вулиці.</VHGE_GasLamp.description>
+
+  <!-- EN: gas wall lamp -->
+  <VHGE_GasWallLamp.label>газова настінна лампа</VHGE_GasWallLamp.label>
+  <!-- EN: A gas-powered wall light that lights an area. People need light to move and work at full speed. Needs to be connected to the helixien gas network. Can be safely placed outdoors. -->
+  <VHGE_GasWallLamp.description>Настінний газовий світильник. Світло потрібне людям для роботи та зручності пересування. Має бути підключено до газової мережі. Можна розміщувати на вулиці.</VHGE_GasWallLamp.description>
+
+  <!-- EN: gas floodlight -->
+  <VHGE_GasFloodlight.label>газовий ліхтар</VHGE_GasFloodlight.label>
+  <!-- EN: A gas-powered tall floodlight that lights a massive area. People need light to move and work at full speed. It doesn’t shine bright enough to grow crops. Needs to be connected to the helixien gas network. Can be safely placed outdoors. -->
+  <VHGE_GasFloodlight.description>Високий газовий ліхтар, що висвітлює велику територію. Світло потрібне людям для роботи та зручності пересування. Світить недостатньо яскраво, щоб рослини могли рости. Має бути підключено до газової мережі. Можна розміщувати на вулиці.</VHGE_GasFloodlight.description>
+</LanguageData>

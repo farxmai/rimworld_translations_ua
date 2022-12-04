@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VBE_Newspaper.label>друкувати газету</Make_VBE_Newspaper.label>
+  <Make_VBE_Newspaper.description>Друкувати газету.</Make_VBE_Newspaper.description>
+  <Make_VBE_Newspaper.jobString>друкує газету</Make_VBE_Newspaper.jobString>
+
+  <Make_VBE_BookShooting.label>написати посібник зі стрільби</Make_VBE_BookShooting.label>
+  <Make_VBE_BookShooting.description>Написати посібник зі стрільби.</Make_VBE_BookShooting.description>
+  <Make_VBE_BookShooting.jobString>пише посібник зі стрільби</Make_VBE_BookShooting.jobString>
+
+  <Make_VBE_BookAnimals.label>написати посібник з зоології</Make_VBE_BookAnimals.label>
+  <Make_VBE_BookAnimals.description>Написати посібник з зоології.</Make_VBE_BookAnimals.description>
+  <Make_VBE_BookAnimals.jobString>пише посібник з зоології</Make_VBE_BookAnimals.jobString>
+
+  <Make_VBE_BookArt.label>написати посібник з мистецтва</Make_VBE_BookArt.label>
+  <Make_VBE_BookArt.description>Написати посібник з мистецтва.</Make_VBE_BookArt.description>
+  <Make_VBE_BookArt.jobString>пише посібник з мистецтва</Make_VBE_BookArt.jobString>
+
+  <Make_VBE_BookConstruction.label>написати посібник з будівництва</Make_VBE_BookConstruction.label>
+  <Make_VBE_BookConstruction.description>Написати посібник з будівництва.</Make_VBE_BookConstruction.description>
+  <Make_VBE_BookConstruction.jobString>пише посібник з будівництва</Make_VBE_BookConstruction.jobString>
+
+  <Make_VBE_BookCooking.label>написати посібник з кулінарії</Make_VBE_BookCooking.label>
+  <Make_VBE_BookCooking.description>Написати посібник з кулінарії.</Make_VBE_BookCooking.description>
+  <Make_VBE_BookCooking.jobString>пише посібник з кулінарії</Make_VBE_BookCooking.jobString>
+
+  <Make_VBE_BookCrafting.label>написати посібник з ремесла</Make_VBE_BookCrafting.label>
+  <Make_VBE_BookCrafting.description>Написати посібник з ремесла.</Make_VBE_BookCrafting.description>
+  <Make_VBE_BookCrafting.jobString>пише посібник з ремесла</Make_VBE_BookCrafting.jobString>
+
+  <Make_VBE_BookIntellectual.label>написати науковий посібник</Make_VBE_BookIntellectual.label>
+  <Make_VBE_BookIntellectual.description>Написати науковий посібник.</Make_VBE_BookIntellectual.description>
+  <Make_VBE_BookIntellectual.jobString>пише науковий посібник</Make_VBE_BookIntellectual.jobString>
+
+  <Make_VBE_BookMedical.label>написати медичний посібник</Make_VBE_BookMedical.label>
+  <Make_VBE_BookMedical.description>Написати медичний посібник.</Make_VBE_BookMedical.description>
+  <Make_VBE_BookMedical.jobString>пише медичний посібник</Make_VBE_BookMedical.jobString>
+
+  <Make_VBE_BookMelee.label>написати посібник з рукопашного бою</Make_VBE_BookMelee.label>
+  <Make_VBE_BookMelee.description>Написати посібник з рукопашного бою.</Make_VBE_BookMelee.description>
+  <Make_VBE_BookMelee.jobString>пише посібник з рукопашного бою</Make_VBE_BookMelee.jobString>
+
+  <Make_VBE_BookMining.label>написати посібник з геології</Make_VBE_BookMining.label>
+  <Make_VBE_BookMining.description>Написати посібник з геології.</Make_VBE_BookMining.description>
+  <Make_VBE_BookMining.jobString>пише посібник з геології</Make_VBE_BookMining.jobString>
+
+  <Make_VBE_BookGrowing.label>написати посібник з рослинознавства</Make_VBE_BookGrowing.label>
+  <Make_VBE_BookGrowing.description>Написати посібник з рослинознавства.</Make_VBE_BookGrowing.description>
+  <Make_VBE_BookGrowing.jobString>пише посібник з рослинознавства</Make_VBE_BookGrowing.jobString>
+
+  <Make_VBE_BookSocial.label>написати трактат з етики спілкування</Make_VBE_BookSocial.label>
+  <Make_VBE_BookSocial.description>Написати трактат з етики спілкування.</Make_VBE_BookSocial.description>
+  <Make_VBE_BookSocial.jobString>пише трактат з етики спілкування</Make_VBE_BookSocial.jobString>
+</LanguageData>

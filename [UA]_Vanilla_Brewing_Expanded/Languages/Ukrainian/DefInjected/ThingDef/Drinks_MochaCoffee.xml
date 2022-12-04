@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MochaCoffee.label>мокко</VBE_MochaCoffee.label>
+  <VBE_MochaCoffee.description>Кава "мокко" - це кава, змішана з солодким та вишуканим шоколадом. Ті, хто дотримуються снобських переконань, стверджують, що мокко - це більше десерт, аніж справжній кавовий напій.</VBE_MochaCoffee.description>
+  <VBE_MochaCoffee.ingestible.ingestCommandString>Випити {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+  <VBE_MochaCoffee.ingestible.ingestReportString>п'є {0}</VBE_MochaCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

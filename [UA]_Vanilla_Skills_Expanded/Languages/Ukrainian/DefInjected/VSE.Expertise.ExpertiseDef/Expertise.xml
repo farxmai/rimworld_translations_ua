@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Precision.label>Точність вогню</Precision.label>
+  <Precision.description>Експертність у точності стрільби з високотехнологічної та низькотехнологічної зброї дальнього дистанції.</Precision.description>
+
+  <CloseQuarters.label>Прицілювання</CloseQuarters.label>
+  <CloseQuarters.description>Експертність прицілювання під час стрільби як з високотехнологічної, так і з низькотехнологічною зброєю дальнього дистанції.</CloseQuarters.description>
+
+  <Gunner.label>Перезаряджання</Gunner.label>
+  <Gunner.description>Експертність перезаряджання високотехнологічної та низькотехнологічної зброї дальнього бою.</Gunner.description>
+
+  <Sharp.label>Проколювання</Sharp.label>
+  <Sharp.description>Експертність пробивання броні при використанні гострої холодної зброї.</Sharp.description>
+
+  <Blunt.label>Двобій</Blunt.label>
+  <Blunt.description>Експертність у швидкому збройному ближньому бою.</Blunt.description>
+
+  <Tamer.label>Приборкувач</Tamer.label>
+  <Tamer.description>Експертність приручення диких тварин.</Tamer.description>
+
+  <Rancher.label>Скотар</Rancher.label>
+  <Rancher.description>Експертність у скотарстві та зборі продукції тваринництва.</Rancher.description>
+
+  <Hunter.label>Мисливець</Hunter.label>
+  <Hunter.description>Експертність в мистецтві полювання.</Hunter.description>
+
+  <Trainer.label>Дресирувальник</Trainer.label>
+  <Trainer.description>Експертність роботи з колоніальними тваринами та дресирування.</Trainer.description>
+
+  <QualityExpert.label>Да-Вінчі</QualityExpert.label>
+  <QualityExpert.description>Експертність у створенні творів мистецтва підвищеної якості.</QualityExpert.description>
+
+  <QuantityExpert.label>Боб Росс</QuantityExpert.label>
+  <QuantityExpert.description>Експертність швидкого та ефективного створення творів мистецтва.</QuantityExpert.description>
+
+  <Flooring.label>Тесляр</Flooring.label>
+  <Flooring.description>Експертність вкладування підлог.</Flooring.description>
+
+  <Repairman.label>Ремонтник</Repairman.label>
+  <Repairman.description>Експертність з ремонту зруйнованих та пошкоджених конструкцій.</Repairman.description>
+
+  <Architect.label>Архітектор</Architect.label>
+  <Architect.description>Експертність створення складних і красивих будівель.</Architect.description>
+
+  <Foreman.label>Бригадир</Foreman.label>
+  <Foreman.description>Експертність у швидкому та ефективному будівництві великої кількості будівель.</Foreman.description>
+
+  <Butcher.label>М'ясник</Butcher.label>
+  <Butcher.description>Експертність обробки мертвих тварин.</Butcher.description>
+
+  <DrugChef.label>Пінкман</DrugChef.label>
+  <DrugChef.description>Експертність у створенні медичних препаратів та ліків.</DrugChef.description>
+
+  <TopChef.label>Обережний кухар</TopChef.label>
+  <TopChef.description>Експертність у створенні безпечних для споживання страв у будь-якому середовищі.</TopChef.description>
+
+  <IndustrialChef.label>Швидкий кухар</IndustrialChef.label>
+  <IndustrialChef.description>Експертність у створенні великої кількості їжі, щоб швидко нагодувати багатьох людей.</IndustrialChef.description>
+
+  <MechanoidExpert.label>Мастер розбірки</MechanoidExpert.label>
+  <MechanoidExpert.description>Експерт у всьому, що пов’язано з механоїдами, включаючи їх подрібнення та розбирання.</MechanoidExpert.description>
+
+  <Tailor.label>Кравець</Tailor.label>
+  <Tailor.description>Експертність пошиття чудового одягу.</Tailor.description>
+
+  <Weaponsmith.label>Зброяр</Weaponsmith.label>
+  <Weaponsmith.description>Експертність у створенні чудової зброї.</Weaponsmith.description>
+
+  <IndustrialProcessExpert.label>Конвеєр</IndustrialProcessExpert.label>
+  <IndustrialProcessExpert.description>Експертність ефективного виготовлення компонентів.</IndustrialProcessExpert.description>
+
+  <Surgeon.label>Хірург</Surgeon.label>
+  <Surgeon.description>Експертність у проведенні безпечних та ефективних медичних процедур та операцій.</Surgeon.description>
+
+  <BattlefieldMedic.label>Польовий медик</BattlefieldMedic.label>
+  <BattlefieldMedic.description>Експертність швидкого лікування та швидкої медичної допомоги.</BattlefieldMedic.description>
+
+  <InfectiousDiseaseExpert.label>Інфекціоніст</InfectiousDiseaseExpert.label>
+  <InfectiousDiseaseExpert.description>Експертність догляду за хворими, які страждають різними захворюваннями.</InfectiousDiseaseExpert.description>
+
+  <Driller.label>Бурильник</Driller.label>
+  <Driller.description>Експертність використання глибокого бура для більш ефективного видобутку ресурсів.</Driller.description>
+
+  <OreExpert.label>Шахтар</OreExpert.label>
+  <OreExpert.description>Експертність у пошуку та видобуванні корисних копалин та руди.</OreExpert.description>
+
+  <Tunneller.label>Тунельник</Tunneller.label>
+  <Tunneller.description>Експертність риття величезних тунелів і печер.</Tunneller.description>
+
+  <Geologist.label>Геолог</Geologist.label>
+  <Geologist.description>Експертність в геології і отримання більшої кількості шматків каменю під час копання.</Geologist.description>
+
+  <Pharmacologist.label>Хайзенберг</Pharmacologist.label>
+  <Pharmacologist.description>Експертність у створенні медичних препаратів та ліків.</Pharmacologist.description>
+
+  <Hacker.label>Хакер</Hacker.label>
+  <Hacker.description>Експертність у зломі терміналів і старовинних систем.</Hacker.description>
+
+  <Researcher.label>Дослідник</Researcher.label>
+  <Researcher.description>Експертність дослідження нових технологій.</Researcher.description>
+
+  <Forager.label>Фуражир</Forager.label>
+  <Forager.description>Експертність життя за рахунок землі та видобутку плодів лісу.</Forager.description>
+
+  <Treespeaker.label>Друїд</Treespeaker.label>
+  <Treespeaker.description>Експертність в психічному спілкуванні та підстриганні дерев Гауранлен.</Treespeaker.description>
+
+  <HarvesterCareful.label>Жнець</HarvesterCareful.label>
+  <HarvesterCareful.description>Експертність гарантує, що жодна частина рослини не буде витрачена даремно під час збору врожаю.</HarvesterCareful.description>
+
+  <GreenThumb.label>Фермер</GreenThumb.label>
+  <GreenThumb.description>Експертність швидкого посіву та збирання великої кількості рослин.</GreenThumb.description>
+
+  <Warden.label>Комендант</Warden.label>
+  <Warden.description>Експертність поводження з полоненими та рабами, їх вербування та арешту, якщо це необхідно.</Warden.description>
+
+  <Negotiator.label>Перемовник</Negotiator.label>
+  <Negotiator.description>Експертність ведення переговорів і торгівлі.</Negotiator.description>
+
+  <Proselytizer.label>Проповідник</Proselytizer.label>
+  <Proselytizer.description>Експерт у наверненні інших до власного способу мислення.</Proselytizer.description>
+
+
+</LanguageData>

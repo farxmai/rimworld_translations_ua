@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fishing -->
+  <VME_Recreation_Fishing.label>риболовля</VME_Recreation_Fishing.label>
+  <!-- EN: Fishing is one of the most relaxing and fulfilling activities you could possibly spend your free time doing.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists gain recreation when fishing. -->
+  <VME_Recreation_Fishing.description>Рибалка — це одне з найбільш розслаблюючих та задовольняючих дозвілля. Навіщо займатися чимось?\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Колоністи отримують відпочинок під час риболовлі.</VME_Recreation_Fishing.description>
+</LanguageData>

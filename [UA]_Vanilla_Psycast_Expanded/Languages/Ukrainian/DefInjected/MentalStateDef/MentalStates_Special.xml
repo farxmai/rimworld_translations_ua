@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: territorial manhunter -->
+  <VPE_ManhunterTerritorial.label>територіальний мисливець</VPE_ManhunterTerritorial.label>
+  <!-- EN: {0} has become a territorial manhunter! -->
+  <VPE_ManhunterTerritorial.beginLetter>{0} починає агресивно захищати свою територію!</VPE_ManhunterTerritorial.beginLetter>
+  <!-- EN: {0}'s territorial defense instincts have come to an end. -->
+  <VPE_ManhunterTerritorial.recoveryMessage>{0} заспокоюється та більше не проявляє агресію.</VPE_ManhunterTerritorial.recoveryMessage>
+  <!-- EN: Maddened: Territorial Manhunter -->
+  <VPE_ManhunterTerritorial.baseInspectLine>Психічний стан: територіальний мисливець</VPE_ManhunterTerritorial.baseInspectLine>
+
+  <!-- EN: rage -->
+  <VPE_Manhunter.label>лють</VPE_Manhunter.label>
+  <!-- EN: {0} is raging! -->
+  <VPE_Manhunter.beginLetter>{0} лютує!</VPE_Manhunter.beginLetter>
+  <!-- EN: rage -->
+  <VPE_Manhunter.beginLetterLabel>лють</VPE_Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s rage has come to an end. -->
+  <VPE_Manhunter.recoveryMessage>{0} схаменувся.</VPE_Manhunter.recoveryMessage>
+  <!-- EN: Raging -->
+  <VPE_Manhunter.baseInspectLine>Психічний стан: лють</VPE_Manhunter.baseInspectLine>
+
+  <!-- EN: fleeing -->
+  <VPE_Flee.label>панічна втеча</VPE_Flee.label>
+  <!-- EN: {0} is fleeing. -->
+  <VPE_Flee.beginLetter>{0} панічно тікає.</VPE_Flee.beginLetter>
+  <!-- EN: flee -->
+  <VPE_Flee.beginLetterLabel>панічна втеча</VPE_Flee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing. -->
+  <VPE_Flee.recoveryMessage>{0} більше не тікає.</VPE_Flee.recoveryMessage>
+  <!-- EN: Mental state: Fleeing -->
+  <VPE_Flee.baseInspectLine>Психічний стан: панічна втеча</VPE_Flee.baseInspectLine>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BedPan.label>підкладне судно (качка)</BedPan.label>
+  <BedPan.description>Ємність, яку використовує лежачий хворий для сечі та фекалій.</BedPan.description>
+
+  <Biosolids.label>добрива</Biosolids.label>
+  <Biosolids.description>При належній обробці та обробці каналізаційні відходи перетворюються на біотверді речовини, які підвищують родючість місцевості. Корисно для суворих умов з обмеженим простором для вирощування. Біотверді речовини також значно підвищують родючість піску, що може зробити його родючим у поєднанні зі зрошенням.</Biosolids.description>
+
+  <FecalSludge.label>каналізаційні відходи</FecalSludge.label>
+  <FecalSludge.description>Бочка, наповнена фекальним мулом. Може бути викинуто, спалено або компостовано в тверді біологічні речовини.</FecalSludge.description>
+
+
+  <!-- Example of a drink for the thirst need, modExtension makes anything ingestible work as a drink, this is patched out when thirst is disabled -->
+
+  <DBH_WaterBottle.label>вода</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>Бутилка з водою.</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>Пити {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>П'є {0}.</DBH_WaterBottle.ingestible.ingestReportString>
+
+
+</LanguageData>

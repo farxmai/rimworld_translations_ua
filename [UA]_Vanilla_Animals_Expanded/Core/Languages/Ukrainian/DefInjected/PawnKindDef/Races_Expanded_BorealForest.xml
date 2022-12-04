@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Otter -->
+
+  <AEXP_Otter.label>видра</AEXP_Otter.label>
+  <AEXP_Otter.labelPlural>видри</AEXP_Otter.labelPlural>
+  <AEXP_Otter.lifeStages.0.label>дитинча видри</AEXP_Otter.lifeStages.0.label>
+  <AEXP_Otter.lifeStages.0.labelPlural>дитинчата видри</AEXP_Otter.lifeStages.0.labelPlural>
+  <AEXP_Otter.lifeStages.0.labelMale>дитинча видри</AEXP_Otter.lifeStages.0.labelMale>
+  <AEXP_Otter.lifeStages.0.labelMalePlural>дитинчата видри</AEXP_Otter.lifeStages.0.labelMalePlural>
+  <AEXP_Otter.lifeStages.0.labelFemale>дитинча видри</AEXP_Otter.lifeStages.0.labelFemale>
+  <AEXP_Otter.lifeStages.0.labelFemalePlural>дитинчата видри</AEXP_Otter.lifeStages.0.labelFemalePlural>
+  <AEXP_Otter.lifeStages.1.label>молода видра</AEXP_Otter.lifeStages.1.label>
+  <AEXP_Otter.lifeStages.1.labelPlural>молоді видри</AEXP_Otter.lifeStages.1.labelPlural>
+  <AEXP_Otter.lifeStages.1.labelMale>молода видра</AEXP_Otter.lifeStages.1.labelMale>
+  <AEXP_Otter.lifeStages.1.labelMalePlural>молоді видри</AEXP_Otter.lifeStages.1.labelMalePlural>
+  <AEXP_Otter.lifeStages.1.labelFemale>молода видра</AEXP_Otter.lifeStages.1.labelFemale>
+  <AEXP_Otter.lifeStages.1.labelFemalePlural>молоді видри</AEXP_Otter.lifeStages.1.labelFemalePlural>
+  <AEXP_Otter.lifeStages.2.label>видра</AEXP_Otter.lifeStages.2.label>
+  <AEXP_Otter.lifeStages.2.labelPlural>видри</AEXP_Otter.lifeStages.2.labelPlural>
+  <AEXP_Otter.lifeStages.2.labelMale>видра</AEXP_Otter.lifeStages.2.labelMale>
+  <AEXP_Otter.lifeStages.2.labelMalePlural>видри</AEXP_Otter.lifeStages.2.labelMalePlural>
+  <AEXP_Otter.lifeStages.2.labelFemale>видра</AEXP_Otter.lifeStages.2.labelFemale>
+  <AEXP_Otter.lifeStages.2.labelFemalePlural>видри</AEXP_Otter.lifeStages.2.labelFemalePlural>
+  <AEXP_Otter.labelMale>видра</AEXP_Otter.labelMale>
+  <AEXP_Otter.labelMalePlural>видри</AEXP_Otter.labelMalePlural>
+  <AEXP_Otter.labelFemale>видра</AEXP_Otter.labelFemale>
+  <AEXP_Otter.labelFemalePlural>видри</AEXP_Otter.labelFemalePlural>
+
+
+  <!-- Arctic Coyote -->
+
+  <AEXP_ArcticCoyote.label>полярний койот</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.labelPlural>полярні койоти</AEXP_ArcticCoyote.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.0.label>цуценя полярного койота</AEXP_ArcticCoyote.lifeStages.0.label>
+  <AEXP_ArcticCoyote.lifeStages.0.labelPlural>цуценята полярного койота</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.0.labelMale>цуценя полярного койота</AEXP_ArcticCoyote.lifeStages.0.labelMale>
+  <AEXP_ArcticCoyote.lifeStages.0.labelMalePlural>цуценята полярного койота</AEXP_ArcticCoyote.lifeStages.0.labelMalePlural>
+  <AEXP_ArcticCoyote.lifeStages.0.labelFemale>цуценя полярного койота</AEXP_ArcticCoyote.lifeStages.0.labelFemale>
+  <AEXP_ArcticCoyote.lifeStages.0.labelFemalePlural>цуценята полярного койота</AEXP_ArcticCoyote.lifeStages.0.labelFemalePlural>
+  <AEXP_ArcticCoyote.lifeStages.1.label>молодий полярний койот</AEXP_ArcticCoyote.lifeStages.1.label>
+  <AEXP_ArcticCoyote.lifeStages.1.labelPlural>молоді полярні койоти</AEXP_ArcticCoyote.lifeStages.1.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.1.labelMale>молодий полярний койот</AEXP_ArcticCoyote.lifeStages.1.labelMale>
+  <AEXP_ArcticCoyote.lifeStages.1.labelMalePlural>молоді полярні койоти</AEXP_ArcticCoyote.lifeStages.1.labelMalePlural>
+  <AEXP_ArcticCoyote.lifeStages.1.labelFemale>молодий полярний койот</AEXP_ArcticCoyote.lifeStages.1.labelFemale>
+  <AEXP_ArcticCoyote.lifeStages.1.labelFemalePlural>молоді полярні койоти</AEXP_ArcticCoyote.lifeStages.1.labelFemalePlural>
+  <AEXP_ArcticCoyote.lifeStages.2.label>полярний койот</AEXP_ArcticCoyote.lifeStages.2.label>
+  <AEXP_ArcticCoyote.lifeStages.2.labelPlural>полярні койоти</AEXP_ArcticCoyote.lifeStages.2.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.2.labelMale>полярний койот</AEXP_ArcticCoyote.lifeStages.2.labelMale>
+  <AEXP_ArcticCoyote.lifeStages.2.labelMalePlural>полярні койоти</AEXP_ArcticCoyote.lifeStages.2.labelMalePlural>
+  <AEXP_ArcticCoyote.lifeStages.2.labelFemale>полярний койот</AEXP_ArcticCoyote.lifeStages.2.labelFemale>
+  <AEXP_ArcticCoyote.lifeStages.2.labelFemalePlural>полярні койоти</AEXP_ArcticCoyote.lifeStages.2.labelFemalePlural>
+  <AEXP_ArcticCoyote.labelMale>полярний койот</AEXP_ArcticCoyote.labelMale>
+  <AEXP_ArcticCoyote.labelMalePlural>полярні койоти</AEXP_ArcticCoyote.labelMalePlural>
+  <AEXP_ArcticCoyote.labelFemale>полярний койот</AEXP_ArcticCoyote.labelFemale>
+  <AEXP_ArcticCoyote.labelFemalePlural>полярні койоти</AEXP_ArcticCoyote.labelFemalePlural>
+
+
+  <!-- Black Bear -->
+
+  <AEXP_BlackBear.label>чорний ведмідь</AEXP_BlackBear.label>
+  <AEXP_BlackBear.labelPlural>чорні ведмеді</AEXP_BlackBear.labelPlural>
+  <AEXP_BlackBear.lifeStages.0.label>дитинча чорного ведмедя</AEXP_BlackBear.lifeStages.0.label>
+  <AEXP_BlackBear.lifeStages.0.labelPlural>дитинчата чорного ведмедя</AEXP_BlackBear.lifeStages.0.labelPlural>
+  <AEXP_BlackBear.lifeStages.0.labelMale>дитинча чорного ведмедя</AEXP_BlackBear.lifeStages.0.labelMale>
+  <AEXP_BlackBear.lifeStages.0.labelMalePlural>дитинчата чорного ведмедя</AEXP_BlackBear.lifeStages.0.labelMalePlural>
+  <AEXP_BlackBear.lifeStages.0.labelFemale>дитинча чорного ведмедя</AEXP_BlackBear.lifeStages.0.labelFemale>
+  <AEXP_BlackBear.lifeStages.0.labelFemalePlural>дитинчата чорного ведмедя</AEXP_BlackBear.lifeStages.0.labelFemalePlural>
+  <AEXP_BlackBear.lifeStages.1.label>молодий чорной ведмідь</AEXP_BlackBear.lifeStages.1.label>
+  <AEXP_BlackBear.lifeStages.1.labelPlural>молоді чорні ведмеді</AEXP_BlackBear.lifeStages.1.labelPlural>
+  <AEXP_BlackBear.lifeStages.1.labelMale>молодий чорний ведмідь</AEXP_BlackBear.lifeStages.1.labelMale>
+  <AEXP_BlackBear.lifeStages.1.labelMalePlural>молоді чорні ведмеді</AEXP_BlackBear.lifeStages.1.labelMalePlural>
+  <AEXP_BlackBear.lifeStages.1.labelFemale>молодий чорний ведмідь</AEXP_BlackBear.lifeStages.1.labelFemale>
+  <AEXP_BlackBear.lifeStages.1.labelFemalePlural>молоді чорні ведмеді</AEXP_BlackBear.lifeStages.1.labelFemalePlural>
+  <AEXP_BlackBear.lifeStages.2.label>чорний ведмідь</AEXP_BlackBear.lifeStages.2.label>
+  <AEXP_BlackBear.lifeStages.2.labelPlural>чорні ведмеді</AEXP_BlackBear.lifeStages.2.labelPlural>
+  <AEXP_BlackBear.lifeStages.2.labelMale>чорний ведмідь</AEXP_BlackBear.lifeStages.2.labelMale>
+  <AEXP_BlackBear.lifeStages.2.labelMalePlural>чорні ведмеді</AEXP_BlackBear.lifeStages.2.labelMalePlural>
+  <AEXP_BlackBear.lifeStages.2.labelFemale>чорний ведмідь</AEXP_BlackBear.lifeStages.2.labelFemale>
+  <AEXP_BlackBear.lifeStages.2.labelFemalePlural>чорні ведмеді</AEXP_BlackBear.lifeStages.2.labelFemalePlural>
+  <AEXP_BlackBear.labelMale>чорний ведмідь</AEXP_BlackBear.labelMale>
+  <AEXP_BlackBear.labelMalePlural>чорні ведмеді</AEXP_BlackBear.labelMalePlural>
+  <AEXP_BlackBear.labelFemale>чорний ведмідь</AEXP_BlackBear.labelFemale>
+  <AEXP_BlackBear.labelFemalePlural>чорні ведмеді</AEXP_BlackBear.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_CiderHigh.label>під сидром</VBE_CiderHigh.label>
+  <VBE_CiderHigh.labelNoun>під сидром</VBE_CiderHigh.labelNoun>
+  <VBE_CiderHigh.description>Алкоголь із сидру в кровотоку. Робить тих, хто випив більш щасливими, але погіршує їх здібності. Не може спричинити алкогольну залежність.</VBE_CiderHigh.description>
+
+  <VBE_CiderAsIngredient.label>Випив(а) коктейль із сидром</VBE_CiderAsIngredient.label>
+  <VBE_CiderAsIngredient.description>Випив(а) коктейль, до складу якого входив сидр. Трохи зменшує ефект від токсинів.</VBE_CiderAsIngredient.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_OPOrbBombGrenade.label>маяк орбітального бомбардування</VWE_OPOrbBombGrenade.label>
+  <VWE_OPOrbBombGrenade.description>Одноразова пускова установка, що відзначає маркувальним газом ціль для бомбардування.</VWE_OPOrbBombGrenade.description>
+
+  <VWE_Grenade_OPOrbBomb.label>маяк орбітального бомбардування</VWE_Grenade_OPOrbBomb.label>
+  <VWE_Gas_OPBombMark.label>маркувальний газ</VWE_Gas_OPBombMark.label>
+  <OPBombardment.label>бомбардування</OPBombardment.label>
+</LanguageData>

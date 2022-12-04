@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: One or more Anima Nexus trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
+  <AlertGauranlenTreeWithoutDryadTypeDesc>В одному або декількох вузлових деревах душі не обрана каста дріад.\n\nВиберіть дерево і натисніть «{0)», щоб вибрати касту вирощуваних дріад.</AlertGauranlenTreeWithoutDryadTypeDesc>
+
+  <!-- EN: You have Anima Nexus trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Вузлові дерева душі очікують остригання, але їх пов'язані з ними колоністи не призначені садівниками.\n\nВам слід призначити садівниками наступних колоністів</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+</LanguageData>

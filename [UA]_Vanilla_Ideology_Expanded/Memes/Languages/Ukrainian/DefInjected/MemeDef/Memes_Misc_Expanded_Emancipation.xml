@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 29 -->
+
+  <!-- EN: emancipation -->
+  <VME_Emancipation.label>розкріпачення</VME_Emancipation.label>
+  <!-- EN: Це не може бути сприйнятно не брати участь у slavery, ми повинні активно працювати в боротьбі з тим, хто ведеться до інших, а також вільний спосіб, який має подібний до себе влюдях. -->
+  <VME_Emancipation.description>Недостатньо просто бути непричетним до рабовласництва, ми повинні активно боротися з тими, хто насмілюється поневолювати інших, і звільняти тих, хто постраждав від цих нелюдських вчинків.</VME_Emancipation.description>
+
+  <VME_Emancipation.generalRules.rulesStrings>
+    <li>memeAdjective->звільняючий</li>
+    <li>memeAdjective->визвольний</li>
+    <li>memeAdjective->вільний</li>
+    <li>memeAdjective->незалежний</li>
+    <li>memeLeaderNoun->визволитель</li>
+    <li>memeCreed->аболіціонізм</li>
+    <li>memeHyphenPrefix->свободо</li>
+    <li>memeConcept->свободи</li>
+  </VME_Emancipation.generalRules.rulesStrings>
+
+
+  <VME_Emancipation.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Emancipation) ->[deity0_name] [deity0_showed] нам, що рабство є збоченням і має бути зупинено будь-якою ціною.</li>
+    <li>episode(uses=1,tag=meme_Emancipation) ->[deity0_name] [deity0_said], щоб [memberNamePlural] запам'ятали: «Ті, хто відмовляє у волі іншим, не заслуговують на неї».</li>
+    <li>intro(tag=meme_Emancipation) ->[place_summary] [place_name], де досі існує [altarRoomLabel] на честь нашого божества на ім'я [deity0_name] - там вперше раби були звільнені і отримали новий шанс у житті.</li>
+    <li>conflict(tag=meme_Emancipation) ->Ханжа [foeLeader] [foe_looked] на це з презирством, бо [foe_slaver], що [foeLeader_possessive] прибули під загрозою.</li>
+    <li>founderJoin(tag=meme_Emancipation) ->[deity0_name] [deity0_called] [founder_follower] на ім'я [founderName]. Неподалік знаходилося священне місце — [place_powerCenter], вставши біля якого [founderName] [founder_said] довгу натхненну про звільнення і зло рабства.</li>
+    <li>victory(tag=meme_Emancipation) ->Зрозуміло, [foeLeader] не [foe_convinced] промовою, яку [founder_said] [founderName], але й інші присутні аплодували стоячи [founder_possessive] слів, і з тих пір вважалося, що через н [founder_possessive] каже [deity0_name].</li>
+    <li>setup(tag=meme_Emancipation) ->[founderName] [founder_born] у несправедливому міському світі, де рабство було звичайним явищем. [founder_pronoun] [founder_grew], бачачи, як інших людей використовують як власність, і це викликало глибоку огиду.</li>
+    <li>story(uses=1,tag=meme_Emancipation) ->[founderName] мав намір скасувати рабство на своїй рідній планеті, і після успіху цього починання [founder_possessive] філософія поширилася серед зірок.</li>
+    <li>lessonIntro(tag=meme_Emancipation) ->Рабство - це крадіжка. Крадіжка життя, крадіжка роботи, крадіжка будь-якого майна чи продуктів, крадіжка навіть дітей, яких міг народити раб. Дуже важливо, щоб ви зрозуміли, що </li>
+    <li>lesson(tag=meme_Emancipation) ->природа не зробила людину рабом</li>
+    <li>lessonReinforcement(tag=meme_Emancipation) ->Поробляти іншого - означає поневолювати себе.</li>
+    <li>archistBasis(tag=meme_Emancipation) ->Архотеки - це вершина етичного розвитку. Істоти настільки мудрі та розвинені, що досягли досконалості у своїх помислах.</li>
+    <li>archistFact(tag=meme_Emancipation) ->Для архотека рабство - огидний гріх. Ставлення до іншої людини як до речі.</li>
+    <li>archistProphecy(tag=meme_Emancipation) ->Тільки скасувавши рабство і борючись з ним всюди, де ми його бачимо, ми можемо стати гідними трансцендентого.</li>
+    <li>animistBasis(tag=meme_Emancipation) ->Сама концепція рабства, володіння іншою людиною як річчю, незбагненна для духів.</li>
+    <li>animistFact(tag=meme_Emancipation) ->Для парфумів рабство є не тільки гріховним і неправильним, а й тим, з чим слід активно боротися всіма можливими способами.</li>
+    <li>animistProphecy(tag=meme_Emancipation) ->[itIsSaid] тільки скасувавши рабство і борючись з ним всюди, де ми його бачимо, ми можемо змусити духів по-справжньому слухати нас.</li>
+    <li>serketistProphecy(tag=meme_Emancipation)->[itIsSaid] ми сформуємо суспільство, в якому жодна людина не буде володіти іншою, як річчю. Чутливе і терпиме, як усі комахи.</li>
+    <li>chthonianProphecy(tag=meme_Emancipation)->Ці жахливі сутності не хотіли б нічого більше, ніж поневолити людство, щоб воно виконувало їхню волю.</li>
+    <li>esotericismProphecy(tag=meme_Emancipation)->Таке окультне знання вимагатиме вільного розуму. Поки розум поневолений, тіло теж ніколи не може бути вільним.</li>
+    <li>eschatologismFact(tag=meme_Emancipation)->Тільки спільними зусиллями можна наблизити кінець світу. Ми звільнимо кожного закованого раба і залучимо до нашої справи.</li>
+    <li>introMemo(tag=meme_Emancipation)->Всі ми знаємо, що деякі корпорації окраїнних світів займаються «псевдозаконною експлуатацією людського капіталу», тому політика компанії полягає в тому, щоб якнайшвидше звільнити цих «вимушених співробітників» і запропонувати їм стажування у нас.</li>
+    <li>alienistProphecy(tag=meme_Emancipation)->Ці несхожі істоти втілюють ідею свободи, яку ми підтримуємо, і нам варто повчитися у них.</li>
+
+    <li>deity0_showed(deity0_gender==None)->розкрило</li>
+    <li>deity0_showed(deity0_gender==Male)->розкрив</li>
+    <li>deity0_showed(deity0_gender==Female)->розкрила</li>
+    <li>deity0_said(deity0_gender==None)->сказало</li>
+    <li>deity0_said(deity0_gender==Male)->сказав</li>
+    <li>deity0_said(deity0_gender==Female)->сказала</li>
+
+    <li>foe_looked(foeLeader_gender==Male)->дивився</li>
+    <li>foe_looked(foeLeader_gender==Female)->дивилася</li>
+    <li>foe_slaver(foeLeader_gender==Male)->був работоргівцем і побачив</li>
+    <li>foe_slaver(foeLeader_gender==Female)->була работоргівкою і побачила</li>
+
+    <li>deity0_called(deity0_gender==None)->закликало</li>
+    <li>deity0_called(deity0_gender==Male)->закликав</li>
+    <li>deity0_called(deity0_gender==Female)->закликала</li>
+    <li>founder_follower(founder_gender==Male)->свого найвірнішого послідовника</li>
+    <li>founder_follower(founder_gender==Female)->свою найвірнішу послідовницю</li>
+    <li>founder_said(founder_gender==Male)->вимовив</li>
+    <li>founder_said(founder_gender==Female)->вимовила</li>
+    <li>foe_convinced(foeLeader_gender==Male)->був переконаний</li>
+    <li>foe_convinced(foeLeader_gender==Female)->була переконана</li>
+
+    <li>founder_born(founder_gender==Male)->народжений</li>
+    <li>founder_born(founder_gender==Female)->була народжена</li>
+    <li>founder_grew(founder_gender==Male)->рос</li>
+    <li>founder_grew(founder_gender==Female)->росла</li>
+  </VME_Emancipation.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Emancipation -->
+  <VME_Emancipation.symbolPacks.0.ideoName>Звільнення</VME_Emancipation.symbolPacks.0.ideoName>
+  <!-- EN: emancipation -->
+  <VME_Emancipation.symbolPacks.0.theme>звільнення</VME_Emancipation.symbolPacks.0.theme>
+  <!-- EN: emancipator -->
+  <VME_Emancipation.symbolPacks.0.adjective>звільняючий</VME_Emancipation.symbolPacks.0.adjective>
+  <!-- EN: rescuer -->
+  <VME_Emancipation.symbolPacks.0.member>рятувальник</VME_Emancipation.symbolPacks.0.member>
+
+</LanguageData>

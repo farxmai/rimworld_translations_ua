@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_BarbedWire.label>колючий дріт</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Тип сталевого дроту для огорож, що складається з гострих країв та точок, що розташовані через певні проміжки. Не лише уповільнює пересування ворогів, а й завдає їм порізів.</VFES_BarbedWire.description>
+
+  <VFES_Trench.label>траншея</VFES_Trench.label>
+  <VFES_Trench.description>Довгий вузький рів. Перехід по ньому вимагає лазіння вгору та вниз, тому траншея значно знижує швидкість пересування. Ті, хто знаходяться всередині, отримують штраф до дальності стрілянини, але отримують значне укриття.</VFES_Trench.description>
+
+  <VFES_Platform.label>насип</VFES_Platform.label>
+  <VFES_Platform.description>Довгий вузький насип. Перехід по ній вимагає лазіння вгору та вниз, тому насип значно знижує швидкість пересування. Ті, хто знаходяться нагорі, отримують значне збільшення дальності стрілянини, але також отримують штраф на укриття через те, що вони вразливі.</VFES_Platform.description>
+
+  <VFES_AmmoCrate.label>ящик для боєприпасів</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Ящик для боєприпасів, що вибухає при пошкодженні.</VFES_AmmoCrate.description>
+
+</LanguageData>

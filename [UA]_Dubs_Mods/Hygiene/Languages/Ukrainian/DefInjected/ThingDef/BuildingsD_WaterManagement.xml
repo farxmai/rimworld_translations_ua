@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WATER PUMPING -->
+
+  <WaterWellInlet.label>свердловина</WaterWellInlet.label>
+  <WaterWellInlet.description>Отримує доступ до ґрунтових вод, які можна перекачувати водяними насосами. Наявність стічних вод або іншого забруднення погіршить якість води та може спричинити забруднення.</WaterWellInlet.description>
+
+  <DeepWaterWellInlet.label>глибока свердловина</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>Отримує доступ до великої площі ґрунтових вод, які можна перекачувати водяними насосами. Глибока свердловина не схильна до забруднення.</DeepWaterWellInlet.description>
+
+  <WaterButt.label>бочка для води</WaterButt.label>
+  <WaterButt.description>Зберігає воду для використання сантехнічними приладами. Якщо вода, що міститься, забруднилася, резервуар необхідно злити.</WaterButt.description>
+
+  <WaterTowerS.label>водонапірна вежа</WaterTowerS.label>
+  <WaterTowerS.description>Зберігає воду для використання сантехнічними приладами. Якщо вода, що міститься, забруднилася, резервуар необхідно злити.</WaterTowerS.description>
+
+  <WaterTowerL.label>велика водонапірна вежа</WaterTowerL.label>
+  <WaterTowerL.description>Зберігає воду для використання сантехнічними приладами. Якщо вода, що міститься, забруднилася, резервуар необхідно злити.</WaterTowerL.description>
+
+  <WindPump.label>вітряний насос</WindPump.label>
+  <WindPump.description>Перекачує воду з свердловин у водонапірні вежі. Потужність насосів: до 3000 л/добу.</WindPump.description>
+
+  <ElectricPump.label>електричний насос</ElectricPump.label>
+  <ElectricPump.description>Перекачує воду з свердловин у водонапірні вежі. Потужність насосів: 1500 л/добу.</ElectricPump.description>
+
+  <PumpingStation.label>насосна станція</PumpingStation.label>
+  <PumpingStation.description>Перекачує воду з свердловин у водонапірні вежі. Потужність насосів: 10000 л/добу.</PumpingStation.description>
+
+  <SewageOutlet.label>каналізаційний злив</SewageOutlet.label>
+  <SewageOutlet.description>Можна розмістити де завгодно. Стічні води збираються і розтікаються по суші або розсіюються у воді. Стічні води з часом очищаються; наявність дерев, води чи дощу прискорюють цей процес.</SewageOutlet.description>
+
+  <SewageSepticTank.label>септик</SewageSepticTank.label>
+  <SewageSepticTank.description>З часом повільно очищає стічні води. Стічні води спочатку направляються в септики. Якщо він повністью заповниться, надлишки стічних вод направляються в каналізаційний злив.</SewageSepticTank.description>
+
+  <SewageTreatment.label>фільтр стічних вод</SewageTreatment.label>
+  <SewageTreatment.description>З часом повільно очищає стічні води. Якщо він повністью заповниться, надлишок стічних вод направляється безпосередньо в каналізацію без очищення.</SewageTreatment.description>
+
+  <WaterTreatment.label>водяний фільтр</WaterTreatment.label>
+  <WaterTreatment.description>Очищає 99,99% мікробів! Фільтрує наявну воду у водонапірних вежах і будь-яку воду, що використовується обладнанням, усуваючи ризик захворювання.</WaterTreatment.description>
+
+
+</LanguageData>

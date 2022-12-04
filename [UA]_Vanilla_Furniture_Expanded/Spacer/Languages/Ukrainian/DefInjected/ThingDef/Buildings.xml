@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UltrascreenTV.label>гіпертелевізор</UltrascreenTV.label>
+  <UltrascreenTV.description>Ультратехнологічний телевізор із неймовірно величезним екраном. Глядачі відчувають, що вони самі беруть участь у подіях на екрані. Вкрай цікаво. Здатний приймати сигнал прямий з основних світів.</UltrascreenTV.description>
+
+  <Seat_AdvChair.label>просунутий стілець</Seat_AdvChair.label>
+  <Seat_AdvChair.description>Високотехнологічний стілець, який автоматично підлаштовується, щоб ідеально відповідати контурам тіла людини, що сидить, постійно забезпечуючи оптимальну підтримку спини і значно покращуючи комфорт. Абсолютна насолода. Можна ставити поряд зі столами, робочими верстатами та в будь-яких інших місцях.</Seat_AdvChair.description>
+
+  <Bed_AdvBed.label>просунуте ліжко</Bed_AdvBed.label>
+  <Bed_AdvBed.description>Високотехнологічне ліжко з електроприводом, яке автоматично підлаштовується, щоб ідеально відповідати контурам сплячого тіла. Його власники повідомляють про те, що почуваються відпочилими і бадьорішими після сну на ній.</Bed_AdvBed.description>
+
+  <Bed_AdvDoubleBed.label>просунуте двоспальне ліжко</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>Високотехнологічне двоспальне ліжко з електроприводом, яке автоматично підлаштовується, щоб ідеально відповідати контурам сплячого тіла. Його власники повідомляють про те, що почуваються відпочилими і бадьорішими після сну на ній.</Bed_AdvDoubleBed.description>
+
+  <Table_IlluminatedEndTable.label>просунута тумбочка</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>Невеликий столик, оздоблений підсвічуванням. Висвітлює кімнату та додає зручності ліжкам, якщо розташований безпосередньо поруч із узголів'ям. Другий просунутий столик не принесе позитивного ефекту.</Table_IlluminatedEndTable.description>
+
+  <Table_IlluminatedDresser.label>просунутий комод</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>Комод оздоблений підсвічуванням. Висвітлює кімнату та додає зручності ліжкам, що стоять поряд. Розміщення більше одного просунутого комоду поряд з одним ліжком не дасть позитивного ефекту.</Table_IlluminatedDresser.description>
+
+  <Spacer_SunLamp.label>просунута сонячна лампа</Spacer_SunLamp.label>
+  <Spacer_SunLamp.description>Потужний виробничий світильник. Висвітлює місцевість досить яскраво для вирощування рослин, а також забезпечує тепло для цієї галузі, споживаючи при цьому лише помірну кількість енергії. Ніколи не вимикається вночі та не замикає при попаданні на неї вологи.</Spacer_SunLamp.description>
+
+  <Light_SpacerLamp.label>просунута лампа</Light_SpacerLamp.label>
+  <Light_SpacerLamp.description>Потужна просунута лампа для ефективного освітлення приміщень, а також використовує вбудований модуль регулювання температури підтримки температури в приміщенні до максимальної температури в 15C. Не замикає при попаданні на неї вологи.</Light_SpacerLamp.description>
+
+  <Shelf_RepairRack.label>ремонтний стелаж</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>Потужний високотехнологічний стелаж, в якому використовуються механіти, які повільно відновлюють будь-які пошкодження будь-якого одягу, обладунків або зброї, розміщеної на ньому.</Shelf_RepairRack.description>
+
+  <Spacer_OutdoorLamp.label>вуличний сонячний світильник</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>Самопідтримувана лампа для вуличного використання. Більш слабка, ніж звичайна лампа, але вона не вимагає джерела живлення, акумулює енергію протягом дня, щоб забезпечувати себе енергією 24/7.</Spacer_OutdoorLamp.description>
+
+  <Reinforced_WallAT.label>посилена стіна</Reinforced_WallAT.label>
+  <Reinforced_WallAT.description>Армована непрохідна стіна створена шляхом накладання матеріалів один на інший. Достатньо міцна, щоб підтримувати дах.</Reinforced_WallAT.description>
+
+  <Table_interactive_1x1c.label>інтерактивний стіл (1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_1x1c.description>Стіл для трапез з інтерактивним дисплеєм для перегляду шоу, ігор або запису нотаток під час їжі. Розважає пішаків, коли вони їдять за цим столом.</Table_interactive_1x1c.description>
+
+  <Table_interactive_2x2c.label>інтерактивний стіл (2x2)</Table_interactive_2x2c.label>
+  <Table_interactive_2x2c.description>Стіл для трапез з інтерактивним дисплеєм для перегляду шоу, ігор або запису нотаток під час їжі. Розважає пішаків, коли вони їдять за цим столом.</Table_interactive_2x2c.description>
+
+</LanguageData>

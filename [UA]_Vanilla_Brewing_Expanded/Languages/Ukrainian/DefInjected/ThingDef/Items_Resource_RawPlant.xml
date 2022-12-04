@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_RawCoffee.label>кавові боби</VBE_RawCoffee.label>
+  <VBE_RawCoffee.description>Кісточки ягід кавового дерева коротко названі «кавовими бобами».</VBE_RawCoffee.description>
+
+  <VBE_RawTea.label>чайне листя</VBE_RawTea.label>
+  <VBE_RawTea.description>Листя чайного куща. З них можна приготувати безліч заспокійливих напоїв.</VBE_RawTea.description>
+
+  <VBE_RawTobacco.label>листя тютюну</VBE_RawTobacco.label>
+  <VBE_RawTobacco.description>Листя тютюну можна досить легко сушити, а потім скручувати і палити, надаючи м'яку стимулюючу дію на організм.</VBE_RawTobacco.description>
+
+  <VBE_MintLeaves.label>листя м'яти</VBE_MintLeaves.label>
+  <VBE_MintLeaves.description>Листя м'яти відоме своєю охолоджувальною дією на ротову порожнину, а також тим, що його легко додавати в чаї або делікатно ними прикрашати страви. Листя м'яти досить швидко гниє.</VBE_MintLeaves.description>
+
+</LanguageData>

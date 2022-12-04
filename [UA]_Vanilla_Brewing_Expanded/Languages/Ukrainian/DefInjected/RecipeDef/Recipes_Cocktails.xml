@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeCocktailSimple.label>приготувати простий коктейль</VBE_MakeCocktailSimple.label>
+  <VBE_MakeCocktailSimple.description>Приготувати простий коктейль.</VBE_MakeCocktailSimple.description>
+  <VBE_MakeCocktailSimple.jobString>готує простий коктейль</VBE_MakeCocktailSimple.jobString>
+
+  <VBE_MakeCocktailFine.label>приготувати чудовий коктейль</VBE_MakeCocktailFine.label>
+  <VBE_MakeCocktailFine.description>Приготувати чудовий коктейль.</VBE_MakeCocktailFine.description>
+  <VBE_MakeCocktailFine.jobString>готує чудовий коктейль</VBE_MakeCocktailFine.jobString>
+
+  <VBE_MakeCocktailLavish.label>приготувати вишуканий коктейль</VBE_MakeCocktailLavish.label>
+  <VBE_MakeCocktailLavish.description>Приготувати вишуканий коктейль.</VBE_MakeCocktailLavish.description>
+  <VBE_MakeCocktailLavish.jobString>готує вишуканий коктейль</VBE_MakeCocktailLavish.jobString>
+
+
+</LanguageData>

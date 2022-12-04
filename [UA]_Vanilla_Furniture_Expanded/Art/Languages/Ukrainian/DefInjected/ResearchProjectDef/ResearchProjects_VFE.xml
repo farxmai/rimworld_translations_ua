@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Res_Obelisk.label>обеліски</VFE_Res_Obelisk.label>
+  <VFE_Res_Obelisk.description>Дослідження створення високих обелісків вузької форми, щоб відзначати важливі події.</VFE_Res_Obelisk.description>
+
+  <VFE_Res_Pottery.label>керамічні вироби</VFE_Res_Pottery.label>
+  <VFE_Res_Pottery.description>Дослідження створення красивих ваз та інших декоративних судин із простих матеріалів.</VFE_Res_Pottery.description>
+
+  <VFE_Res_WallCarvings.label>різьблені вироби</VFE_Res_WallCarvings.label>
+  <VFE_Res_WallCarvings.description>Дослідження техніки різьблення по стіні, щоб створювати красиві колони та рельєфи.</VFE_Res_WallCarvings.description>
+
+  <VFE_Res_ArtfulDisplay.label>художня демонстрація</VFE_Res_ArtfulDisplay.label>
+  <VFE_Res_ArtfulDisplay.description>Дослідження створення гарних постаментів для показу артефактів та важливих товарів колонії.</VFE_Res_ArtfulDisplay.description>
+
+  <VFE_Res_Statues.label>статуї</VFE_Res_Statues.label>
+  <VFE_Res_Statues.description>Дослідження створення акуратних фігурних скульптур, прикрашених художніми ілюстраціями.</VFE_Res_Statues.description>
+
+  <VFE_Res_Monuments.label>монументи</VFE_Res_Monuments.label>
+  <VFE_Res_Monuments.description>Дослідження створення масивних пам'яток для прикраси вашої колонії, щоб вшанувати пам'ять тих, хто пішов, і надихнути тих, хто все ще бореться.</VFE_Res_Monuments.description>
+
+  <VFE_Res_Rugs.label>килими</VFE_Res_Rugs.label>
+  <VFE_Res_Rugs.description>Дослідження створення красивих килимів для прикраси вашої колонії.</VFE_Res_Rugs.description>
+
+  <VFE_Res_Wallpapers.label>шпалери</VFE_Res_Wallpapers.label>
+  <VFE_Res_Wallpapers.description>Дослідження створення красивих стін, вкритих шпалерами бажаного кольору.</VFE_Res_Wallpapers.description>
+
+  <VFE_Res_Holograms.label>голограми</VFE_Res_Holograms.label>
+  <VFE_Res_Holograms.description>Дослідження передових методів відображення демонструвати тривимірні голографічні моделі по вашій колонії.</VFE_Res_Holograms.description>
+
+</LanguageData>

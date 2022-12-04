@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend. -->
+  <VME_CeremonialSuicideRitualOutcome.description>Залежно від якості ритуалу настрій учасників зміниться на величину від {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день: дні: днів}. Всі учасники повинні бути здоровими, щоб бути присутніми.</VME_CeremonialSuicideRitualOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>соціальний вплив {PAWN_labelShort}</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>соціальний вплив промовця</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
+  <!-- EN: room impressivenesst -->
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>враження від приміщення</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+  <!-- EN: participant count -->
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>кількість учасників</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+
+  <!-- EN: Terrible -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>жахливо</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0} було жахливо! Лезо увійшло в бік, всюди була кров і нутрощі. Огидно!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>нудно</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0} було нудно! Мова здавалася змученою. Але хоч би честь поселення відновлено.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Honorable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>гідно</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0} відновило честь нашого поселення. Тінь поразки більше не затьмарює наші уми.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Unforgettable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>незабутньо</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0} було незабутньо! Всі пам'ятатимуть про мужність, самовладання та тверду рішучість. Честь нашого поселення тепер бездоганна.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+</LanguageData>

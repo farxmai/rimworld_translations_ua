@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 14 -->
+
+  <!-- EN: trader -->
+  <VME_Trader.label>торгівля</VME_Trader.label>
+  <!-- EN: З життєвим становищем потужності, ходьба довгий без надходжень за допомогою ходьби довгий без того, щоб захистити одну позицію Power. -->
+  <VME_Trader.description>З багатством приходить влада. Довго бути без прибутку — це довго не зміцнюватиме своє становище.</VME_Trader.description>
+
+  <VME_Trader.generalRules.rulesStrings>
+    <li>memeAdjective->торговельний</li>
+    <li>memeAdjective->заможний</li>
+    <li>memeAdjective->дохідний</li>
+    <li>memeAdjective->буржуазний</li>
+    <li>memeAdjective->меркантильний</li>
+    <li>memeHyphenPrefix->торго</li>
+    <li>memeConcept->торгівлі</li>
+    <li>memeLeaderNoun->торговець</li>
+    <li>memeLeaderNoun->купець</li>
+    <li>memeLeaderNoun->буржуа</li>
+  </VME_Trader.generalRules.rulesStrings>
+
+  <VME_Trader.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Trader) ->[deity0_name] сказав послідовникам [deity0_possessive]: "Бідність - найбільший гріх. Нагромадження багатства - справжня міра людяності."</li>
+    <li>episode(uses=1,tag=meme_Trader) ->Слідуючи вченням [deity0_name], ми боролися за те, щоб стати найбагатшою фракцією з усіх. Поети співатимуть про процвітання та розкіш ще довго після того, як нас не стане.</li>
+    <li>intro(tag=meme_Trader) ->На [place_summary] [place_name], [memberNamePlural] побудував гігантське сховище для зберігання всіх багатств, присвячених [deity0_name].</li>
+    <li>conflict(tag=meme_Trader) ->Заздрісник [foeLeader] хотів усі ці багатства для [foeLeader_objective] себе, і намагався вкрасти наше насилу зароблене багатство.</li>
+    <li>founderJoin(tag=meme_Trader) ->[founderName], відомий як Великий Торговець, купив у торговців союзної країни потужну нейтронну бомбу і використав її проти солдатів [foeLeader].</li>
+    <li>victory(tag=meme_Trader) ->Жахлива зброя знищила їхні ряди, їхнє тіло відокремлювалося від кісток, але не торкнулося сховища, оскільки воно було побудоване з особливими витратами і було готове витримати навіть лють атомного вогню.</li>
+    <li>setup(tag=meme_Trader) ->[founderName] був економістом в одному з Блискучих світів. [founder_pronoun] подивився на видиме процвітання, що оточує [foeLeader_objective], і побачив лише занепад. Стагнація хибної економіки пост-ущербності, яка забула про те, що робить життя гідним життя.</li>
+    <li>story(uses=1,tag=meme_Trader) ->У пошуках гострих відчуттів, щоб заробити власний стан, [founderName] зібрав команду торговців і взяв корабель, щоб вирушити на планету Rim. зібрав команду торговців і взяв корабель, щоб вирушити на планету Rim. На жаль, [founderName_pronoun] не пережив небезпечної подорожі.</li>
+    <li>lessonIntro(tag=meme_Trader) ->Найстаріший торговець у моєму каравані вчив мене історії багатства, тому, як людство завжди прагнуло до збільшення свого добробуту. Він підводив мене до розуміння того, що </li>
+    <li>lesson(tag=meme_Trader) ->справжня міра та сила людини полягає в прибутку</li>
+    <li>lessonReinforcement(tag=meme_Trader) ->Бідна людина - це слабка людина, а Rim - не місце для слабаків.</li>
+    <li>archistBasis(tag=meme_Trader) ->Уявіть собі світ, який вступає в трансцендентність. Ви дійсно думаєте, що масам бідних, брудних, немитих жебраків є місце у такому процесі?</li>
+    <li>archistFact(tag=meme_Trader) ->Архотеки не можуть піднести всіх, і цілком логічно, що вони оберуть найквітніших і найздатніших з усіх нас.</li>
+    <li>archistProphecy(tag=meme_Trader) ->[inTheEnd], тільки ті, хто може купити свій шлях до трансцендентності, буде обрано.</li>
+    <li>animistBasis(tag=meme_Trader) ->Як є духи природи та механізмів, так є і духи, які керують абстрактними поняттями, які визначають майбутнє людства.</li>
+    <li>animistFact(tag=meme_Trader) ->Серед духів дух багатства має неперевершену владу, бо він контролює сферу процвітання, влади.</li>
+    <li>animistProphecy(tag=meme_Trader) ->[itIsSaid] тільки ті, хто нагромадив неймовірне багатство, можуть по-справжньому заспокоїти духів.</li>
+    <li>serketistProphecy(tag=meme_Trader)->[itIsSaid] як мурахи запасають їжу на довгу зиму, ми накопичимо багатство, що перевершує всяку уяву, а разом з ним і неймовірне процвітання.</li>
+    <li>chthonianProphecy(tag=meme_Trader)->Тільки по-справжньому процвітаючі люди можуть сподіватися сховатися від погляду таких жахливих істот. Ми зберемо багатство, що перевершує будь-яку уяву, і з його допомогою, сподіваюся, купимо собі вихід з їхнього безумства.</li>
+    <li>esotericismProphecy(tag=meme_Trader)->Такі окультні знання коштуватимуть дорого. Ми накопичимо багатство, що перевершує будь-яку уяву, і з його допомогою, сподіваюся, купимо всі секрети, які залишаються прихованими.</li>
+    <li>eschatologismFact(tag=meme_Trader)->Ми накопичимо багатство, що перевищує всі мислимі межі, і на нього, сподіваюся, купимо пристрої судного дня, які наблизять кінець світу.</li>
+    <li>introMemo(tag=meme_Trader)->Що стосується заохочення співробітників, будь ласка, пам'ятайте, що це не благодійна організація. Як то кажуть: "багатство рухає світом, а прибуток керує ним".</li>
+    <li>alienistProphecy(tag=meme_Trader)->Ці недолугі твори, народжені людською творчістю, є безмежним потенційним багатством.</li>
+  </VME_Trader.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Trader -->
+  <VME_Trader.symbolPacks.0.ideoName>Торгівля</VME_Trader.symbolPacks.0.ideoName>
+  <!-- EN: trading -->
+  <VME_Trader.symbolPacks.0.theme>торгівлі</VME_Trader.symbolPacks.0.theme>
+  <!-- EN: trading -->
+  <VME_Trader.symbolPacks.0.adjective>торговельний</VME_Trader.symbolPacks.0.adjective>
+  <!-- EN: trader -->
+  <VME_Trader.symbolPacks.0.member>торговець</VME_Trader.symbolPacks.0.member>
+
+  <!-- EN: Economics -->
+  <VME_Trader.symbolPacks.1.ideoName>Економіка</VME_Trader.symbolPacks.1.ideoName>
+  <!-- EN: economy -->
+  <VME_Trader.symbolPacks.1.theme>економіки</VME_Trader.symbolPacks.1.theme>
+  <!-- EN: economic -->
+  <VME_Trader.symbolPacks.1.adjective>економічний</VME_Trader.symbolPacks.1.adjective>
+  <!-- EN: economist -->
+  <VME_Trader.symbolPacks.1.member>економіст</VME_Trader.symbolPacks.1.member>
+
+  <!-- EN: Wealth -->
+  <VME_Trader.symbolPacks.2.ideoName>Буржуазія</VME_Trader.symbolPacks.2.ideoName>
+  <!-- EN: wealth -->
+  <VME_Trader.symbolPacks.2.theme>багатства</VME_Trader.symbolPacks.2.theme>
+  <!-- EN: wealthy -->
+  <VME_Trader.symbolPacks.2.adjective>заможний</VME_Trader.symbolPacks.2.adjective>
+  <!-- EN: investor -->
+  <VME_Trader.symbolPacks.2.member>інвестор</VME_Trader.symbolPacks.2.member>
+
+</LanguageData>

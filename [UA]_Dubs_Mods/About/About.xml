@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>UA Dubs Mods</name>
+  <author>Farxmai2</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>Farxmai2.DubsMods.UA</packageId>
+  <description>Переклад українською мовою модів від Dubwise:
+    
+    Dubs Mint Menus
+    Dubs Bad Hygiene
+    Dubs Mint Minimap
+  </description>
+  <loadAfter>
+    <li>Dubwise.DubsBadHygiene</li>
+    <li>Dubwise.DubsMintMenus</li>
+    <li>dubwise.dubsmintminimap</li>
+  </loadAfter>
+</ModMetaData>

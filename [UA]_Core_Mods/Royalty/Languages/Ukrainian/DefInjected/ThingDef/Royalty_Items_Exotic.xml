@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: shield core -->
+  <BroadshieldCore.label>ядро щита</BroadshieldCore.label>
+  <!-- EN: A piece of ultratechnology that can generate a momentum-repulsor shield. This can't do anything on its own, but it is necessary to craft some other usable shield items.\n\nShield cores can be obtained by deconstructing mechanoid shield generators. -->
+  <BroadshieldCore.description>Ультратехнологічний пристрій, що дозволяє генерувати імпульсно-репульсорне поле. Марно само по собі, але є необхідним компонентом для виготовлення захисних пристроїв.\n\nЯдро щита можна отримати при розборі генератора щита механоїдів.</BroadshieldCore.description>
+
+</LanguageData>

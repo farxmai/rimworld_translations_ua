@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_InsectMilk.label>комашине молоко</VFEI_InsectMilk.label>
+  <VFEI_InsectMilk.description>Рідина яку виділяють деякі інсектоїди. Має безліч користних властивостей, та схожа за своїм смаком та консистенцією на звичайне коровяче молоко.</VFEI_InsectMilk.description>
+
+  <VCE_InsectCheese.label>комашиний сир</VCE_InsectCheese.label>
+  <VCE_InsectCheese.description>Сир із сильним запахом, що нагадує рокфор, Сир комах білий, гострий, пухкий і злегка сируватий.</VCE_InsectCheese.description>
+
+</LanguageData>

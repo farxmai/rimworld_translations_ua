@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_VodkaHigh.label>під горілкою</VBE_VodkaHigh.label>
+  <VBE_VodkaHigh.description>Випив(а) горілки. Підвищує точність у ближньому бою, що збільшується з рівнем сп'яніння.</VBE_VodkaHigh.description>
+  <VBE_VodkaHigh.stages.0.label>на підпитку</VBE_VodkaHigh.stages.0.label>
+  <VBE_VodkaHigh.stages.1.label>захмелілий</VBE_VodkaHigh.stages.1.label>
+  <VBE_VodkaHigh.stages.2.label>налиганий</VBE_VodkaHigh.stages.2.label>
+  <VBE_VodkaHigh.stages.3.label>лика не в'яже</VBE_VodkaHigh.stages.3.label>
+  <VBE_VodkaHigh.stages.4.label>у відключці</VBE_VodkaHigh.stages.4.label>
+  <VBE_VodkaHigh.labelNoun>під горілкою</VBE_VodkaHigh.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_HandheldGatlingGun.label>куля гатлінга</VWEFT_Bullet_HandheldGatlingGun.label>
+
+  <VWEFT_Gun_HandheldGatlingGun.label>ручний гатлінг</VWEFT_Gun_HandheldGatlingGun.label>
+  <VWEFT_Gun_HandheldGatlingGun.description>Ще недавно ця гармата була стаціонарною зброєю на лафеті, але зусиллями когось з великою силою, силовою бронею або екзоскелетом перетворена на переносну зброю. Тим не менш, для досягнення максимальної скорострільності, необхідно вручну розкручувати стовбури і поповнювати обмежений боєзапас. Подейкують, що, залишившись як остання лінія оборони, зброя здійснювала дуже вдалі постріли, перетворюючи натовп ворогів, що наступають, у кривавий туман.</VWEFT_Gun_HandheldGatlingGun.description>
+  <VWEFT_Gun_HandheldGatlingGun.tools.0.label>стволи</VWEFT_Gun_HandheldGatlingGun.tools.0.label>
+</LanguageData>

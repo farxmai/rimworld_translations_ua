@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+
+		<SGC_CommandTowerThought.stages.0.label>Командування</SGC_CommandTowerThought.stages.0.label>
+		<SGC_CommandTowerThought.stages.0.description>Подивись на мене. Тепер я командир.</SGC_CommandTowerThought.stages.0.description>
+
+		<PsychicHarmonization2.stages.0.label>Командування: {HARMONIZER_labelShort}</PsychicHarmonization2.stages.0.label>
+		<PsychicHarmonization2.stages.0.description>Лідерство мого командира змушує мене відчувати це.</PsychicHarmonization2.stages.0.description>
+
+	</LanguageData>

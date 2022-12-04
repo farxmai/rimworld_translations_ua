@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: One Shot One Kill -->
+  <OneShotOneKill.label>Один постріл – один труп</OneShotOneKill.label>
+  <!-- EN: Have a single pawn score 100 headshots. -->
+  <OneShotOneKill.description>Колоніст зробив 100 пострілів у голову</OneShotOneKill.description>
+
+  <!-- EN: Trigger-Happy -->
+  <TriggerHappy.label>Не відпускаючи спусковий гачок</TriggerHappy.label>
+  <!-- EN: Have a single pawn fire 2000 shots -->
+  <TriggerHappy.description>Колоніст випустив 2000 снарядів</TriggerHappy.description>
+
+  <!-- EN: One Solid Gardner -->
+  <OneSolidGardner.label>Садівник року</OneSolidGardner.label>
+  <!-- EN: Have a single pawn sow 10000 plants. -->
+  <OneSolidGardner.description>Колоніст посадив 10 000 рослин</OneSolidGardner.description>
+
+  <!-- EN: Life Sentence -->
+  <LifeSentence.label>Довічне ув'язнення</LifeSentence.label>
+  <!-- EN: Have a single prisoner for 2 years. -->
+  <LifeSentence.description>Ув'язнений провів два роки у в'язниці</LifeSentence.description>
+
+  <!-- EN: I Might Need A Shrink -->
+  <IMightNeedAShrink.label>Можливо, мені потрібен психолог</IMightNeedAShrink.label>
+  <!-- EN: Have a single pawn spend 24 hours total in Mental Breaks. -->
+  <IMightNeedAShrink.description>Колоніст провів у нервових зривах 24 години</IMightNeedAShrink.description>
+
+  <!-- EN: Dr. Dolittle -->
+  <DrDolittle.label>Справжній друїд</DrDolittle.label>
+  <!-- EN: Have a single pawn tame 50 animals. -->
+  <DrDolittle.description>Колоніст приручив 50 тварин</DrDolittle.description>
+
+  <!-- EN: Professional Stripper -->
+  <ProfessionalStripper.label>Професійний стриптизер</ProfessionalStripper.label>
+  <!-- EN: Have a single pawn strip 100 bodies. -->
+  <ProfessionalStripper.description>Колоніст роздяг 100 тіл</ProfessionalStripper.description>
+
+  <!-- EN: Blade Runner -->
+  <BladeRunner.label>Той, що біжить по лезу</BladeRunner.label>
+  <!-- EN: Have a single pawn kill 50 mechanoids -->
+  <BladeRunner.description>Колоніст убив 50 механоїдів</BladeRunner.description>
+
+  <!-- EN: 3 Star Michelin -->
+  <ThreeStarMichelin.label>3 зірки «Мішлен»</ThreeStarMichelin.label>
+  <!-- EN: Have a single pawn cook 10000 meals. -->
+  <ThreeStarMichelin.description>Колоніст приготував 10 000 страв</ThreeStarMichelin.description>
+
+  <!-- EN: Scrub Up -->
+  <ScrubUp.label>Хірург від бога</ScrubUp.label>
+  <!-- EN: Perform a total of 50 operations. -->
+  <ScrubUp.description>Провести 50 операцій</ScrubUp.description>
+
+  <!-- EN: The Rim's Brightest -->
+  <TheRimsBrightest.label>Світило науки</TheRimsBrightest.label>
+  <!-- EN: Spend a total of 2 years researching. -->
+  <TheRimsBrightest.description>Витратити 2 роки на дослідження</TheRimsBrightest.description>
+
+  <!-- EN: I Wish This Was IKEA -->
+  <IWishThisWasIkea.label>Це що, IKEA?</IWishThisWasIkea.label>
+  <!-- EN: Construct AND Disassemble a total of 100 structures. -->
+  <IWishThisWasIkea.description>Збудувати І розібрати 100 будівель</IWishThisWasIkea.description>
+
+  <!-- EN: I'm On Fire! -->
+  <ImOnFire.label>Дайнеріс</ImOnFire.label>
+  <!-- EN: Have a single pawn spend a total of 3 days on fire. -->
+  <ImOnFire.description>Колоніст провів 3 дні у вогні сумарно</ImOnFire.description>
+</LanguageData>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: cultured -->
+  <VME_Cultured.label>освіченість</VME_Cultured.label>
+  <!-- EN: Reading and passing one's knowledge on is a most scholarly mission, and should be most enthused over. -->
+  <VME_Cultured.description>Читання книг та обмін знаннями стане нашою просвітницькою місією. І ми приступимо до неї з усім ентузіазмом.</VME_Cultured.description>
+
+  <!-- EN:
+    <li>memeAdjective->cultured</li>
+		<li>memeAdjective->enlightened</li>
+		<li>memeAdjective->well educated</li>
+		<li>memeAdjective->erudite</li>
+		<li>memeAdjective->knowledgeable</li>
+		<li>memeConcept->book writing</li>
+		<li>memeConcept->reading</li>
+		<li>memeLeaderNoun->librarian</li>
+		<li>memeMoralist->scribe</li>
+  -->
+  <VME_Cultured.generalRules.rulesStrings>
+    <li>memeAdjective->культурний</li>
+    <li>memeAdjective->інтелігентний</li>
+    <li>memeAdjective->освічений</li>
+    <li>memeAdjective->ерудований</li>
+    <li>memeAdjective->знаючий</li>
+    <li>memeAdjective->друкарстький</li>
+    <li>memeConcept->письменства</li>
+    <li>memeConcept->читання</li>
+    <li>memeConcept->видавництва</li>
+    <li>memeConcept->друкарства</li>
+    <li>memeLeaderNoun->головний бібліотекар</li>
+    <li>memeLeaderNoun->видавець</li>
+    <li>memeMoralist->писар</li>
+    <li>memeMoralist->літописець</li>
+  </VME_Cultured.generalRules.rulesStrings>
+
+  <!-- EN:
+		<li>creation(tag=meme_Cultured)        ->[deity0_name] taught all of [deity0_possessive] followers the secrets of writing: "Write all the words which I have spoken to you in a book."</li>
+		<li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] said to all the [memberNamePlural], "Every scribe who has become a disciple of the kingdom of heaven is like a head of a household, who brings out of his treasure things new and old."</li>
+	
+		<li>intro(tag=meme_Cultured)           ->[memberNamePlural] built a great library on the [place_summary] [place_name], and filled it with wondrous books and scrolls containing the wisdom of their ancestors.</li>
+		<li>conflict(tag=meme_Cultured)        ->A simpleton [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to burn all the knowledge to ashes, for [foeLeader_pronoun] was a raging anti-intellectual.</li>
+		<li>founderJoin(tag=meme_Cultured)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] infinite knowledge, and [founder_pronoun] transcribed all the knowledge of the [memberNamePlural] into nearly indestructuble data cores.</li>
+		<li>victory(tag=meme_Cultured)         ->The [foeSoldiers] succeeded in burning and destroying all the ancient books of the [memberNamePlural] but it didn't matter: the data was already safe thanks to the efforts of [founderName].</li>
+	
+		<li>setup(tag=meme_Cultured)           ->Our founder [founderName] was a writer, one of the greatest the galaxy has ever seen. [founderName_possessive] prose allowed you to visit far away worlds and lose yourself in intricate fantasies.</li>
+		<li>story(uses=1,tag=meme_Cultured)    ->[founderName] taught us that a society that doesn't value the written tradition is lost.</li>
+	
+		<li>lessonIntro(tag=meme_Cultured)         ->I have writing books for most of my life, and I have learned one main thing:</li>
+		<li>lesson(tag=meme_Cultured)              ->there is no greater agony than bearing an untold story inside you</li>
+		<li>lessonReinforcement(tag=meme_Cultured) ->If there's a book that you want to read, but it hasn't been written yet, then you must write it.</li>
+	
+		<li>archistBasis(tag=meme_Cultured)    ->The archotechs value knowledge above all things, and respect the written traditions of humanity.</li>
+		<li>archistFact(tag=meme_Cultured)     ->Archotechs wouldn't want us to be uneducated simpletons, moving through life like mindless automatons.</li>
+		<li>archistProphecy(tag=meme_Cultured) ->[inTheEnd], the archotechs will only choose for transcendence those who are cultured and educated enough.</li>
+		
+		<li>animistFact(tag=meme_Cultured)     ->The spirits want us to develop our intelligence, to be cultured and educated, for a simple mind is offensive to them.</li>
+		<li>serketistProphecy(tag=meme_Cultured)->[itIsSaid] we will set the insect's knowledge in tablets of obdisian, so their divine words can't be erased by the passage of time.</li>
+		<li>chthonianProphecy(tag=meme_Cultured)->A Black Tome of forbidden magic is said to contain insights to the madness of these transhuman intelligences. Perhaps our scribes will one day decipher its eldritch message.</li>
+		<li>esotericismProphecy(tag=meme_Cultured)->Only with careful study of the most obscure arcane texts can we hope to unlock these secrets.</li>
+		<li>eschatologismFact(tag=meme_Cultured)->Three scrolls written with the blood of our enemies in human skin parchment will be the testament of our victory, and upon seeing them our enemies will only know fear.</li>
+		
+		<li>introMemo(tag=meme_Cultured)->I'm so tired, SO tired of having to remind you this... PLEASE, for all that is holy, DOCUMENT YOUR CODE! Undocumented code is useless down the line, and I don't want to have to train the next developer into deciphering the vague code ramblings of the last person who "conveniently forgot" to do it! Come on, people!</li>
+  -->
+  <VME_Cultured.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Cultured)        ->Одного разу [deity0_name] [deity_spoke] до всіх своїх послідовників та [deity_told] таємницю писемності: «Кожне сказане слово можна зберегти назавжди, записавши його. Створіть першу книгу зі моїми словами».</li>
+    <li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] [deity_spoke]: «[memberNamePlural] знайте, що кожен писар, який почав слідувати за словами Царства Божого, повинен стати главою дому, який обдаровує сімома скарбами записаних слів».</li>
+    <li>intro(tag=meme_Cultured)           ->[memberNamePlural] побудували велику бібліотеку в [place_summary] [place_name]. І була вона наповнена чудесними книгами та сувоями що містять мудрість предків.</li>
+    <li>conflict(tag=meme_Cultured)        ->[foe_envious] [foeLeader] [foe_deny] прагнення [deity0_name] та [foe_told] наказ, щоб [foeSoldiers] спалили всі книги вщент. Після чого [foeLeader] [foe_intro].</li>
+    <li>founderJoin(tag=meme_Cultured)     ->[deity0_name] [deity_bless] [founder_simple] [founderName], відому як [place_job], давши [founder_objective] свої знання про все у світі. [founderName] [founder_get] знання в неруйнівні ядра даних.</li>
+    <li>victory(tag=meme_Cultured)         ->[foeSoldiers] з захопленням спалювали книги, раділи перемозі, але вони програли: знання предків вціліли завдяки зусиллям [founderName].</li>
+    <li>setup(tag=meme_Cultured)           ->Наш засновник, [founderName] [founder_setup] найбільшим письменником у галактиці. [founderName_possessive] історії дали нам можливість відвідати далекі світи та загубитися у дивовижних фантазіях.</li>
+    <li>story(uses=1,tag=meme_Cultured)    ->[founderName] [founder_teach] зразок суспільства, де знання не губляться завдяки праці письменників.</li>
+    <li>lessonIntro(tag=meme_Cultured)         ->Я [founder_spend] книги більшу частину свого життя і [founder_repeat] одну важливу річ:</li>
+    <li>lesson(tag=meme_Cultured)              ->немає більшого тягаря, ніж нести в собі нерозказану історію</li>
+    <li>lessonReinforcement(tag=meme_Cultured) ->Якщо ви хочете прочитати книгу, яку ніхто ще не написав, напишіть її.</li>
+    <li>archistBasis(tag=meme_Cultured)    ->Архотеки зберігають знання про все. Вони також шанують традиції письменства у людей.</li>
+    <li>archistFact(tag=meme_Cultured)     ->Архотеки не хотіли б бачити неосвічених дурнів, здатних лише на просту роботу примітивних роботів.</li>
+    <li>archistProphecy(tag=meme_Cultured) ->[inTheEnd] архотеки дозволять досягти трансцендентності разом із ними лише достатньо культурним та освіченим.</li>
+    <li>animistFact(tag=meme_Cultured)     ->Духи хочуть, щоб ми розвивали наш інтелект, були культурними та освіченими, адже дрімучість образлива для них.</li>
+    <li>serketistProphecy(tag=meme_Cultured)   ->[itIsSaid], що знання комах будуть поміщені на таблички з обсидіана, що не дозволить часу стерти їх.</li>
+    <li>chthonianProphecy(tag=meme_Cultured)   ->Чорна книга містить заборонену магію, народжену колись безумством безлічі розумів. Можливо, наші писарі колись зможуть її розшифрувати.</li>
+    <li>esotericismProphecy(tag=meme_Cultured) ->Тільки старанне вивчення заплутаних стародавніх текстів дозволить нам розгадати їх секрети.</li>
+    <li>eschatologismFact(tag=meme_Cultured)   ->Слова, написані кров'ю наших ворогів на трьох сувоях з людської шкіри проголосять нашу перемогу і посіють страх у серця ворогів.</li>
+    <li>introMemo(tag=meme_Cultured)           ->Мені б не хотілося ЗНОВУ просити не забувати... ДОКУМЕНТУВАТИ СВІЙ (нехай простить мене Бог) КОД! Цей гівнокод неможливо читати від першого і до останнього рядка. А бюджету на найм спеціально навченої людини для читання чужого «до заливання в прод поправимо» коду немає. Давай, люди!</li>
+
+    <li>deity_spoke(deity0_gender==None)->звернулося</li>
+    <li>deity_spoke(deity0_gender==Male)->звернувся</li>
+    <li>deity_spoke(deity0_gender==Female)->звернулася</li>
+    <li>deity_told(deity0_gender==None)->відкрило</li>
+    <li>deity_told(deity0_gender==Male)->відкрив</li>
+    <li>deity_told(deity0_gender==Female)->відкрила</li>
+    <li>deity_bless(deity0_gender==None)->благословило</li>
+    <li>deity_bless(deity0_gender==Male)->благословив</li>
+    <li>deity_bless(deity0_gender==Female)->благословила</li>
+
+    <li>foe_envious(foeLeader_gender==Male)->дурний</li>
+    <li>foe_envious(foeLeader_gender==Female)->дурна</li>
+    <li>foe_deny(foeLeader_gender==Male)->відкинув</li>
+    <li>foe_deny(foeLeader_gender==Female)->відкинула</li>
+    <li>foe_told(foeLeader_gender==Male)->віддав</li>
+    <li>foe_told(foeLeader_gender==Female)->віддала</li>
+    <li>foe_intro(foeLeader_gender==Male)->проголосив себе войовничим анти-інтелектуалом</li>
+    <li>foe_intro(foeLeader_gender==Female)->проголосила себе войовничим анти-інтелектуалом</li>
+
+    <li>founder_simple(founder_gender==Male)->простого</li>
+    <li>founder_simple(founder_gender==Female)->простої</li>
+    <li>founder_get(founder_gender==Male)->скопіював</li>
+    <li>founder_get(founder_gender==Female)->скопіювала</li>
+    <li>founder_setup(founder_gender==Male)->став</li>
+    <li>founder_setup(founder_gender==Female)->стала</li>
+    <li>founder_teach(founder_gender==Male)->показав</li>
+    <li>founder_teach(founder_gender==Female)->показала</li>
+    <li>founder_spend(founder_gender==Male)->писав</li>
+    <li>founder_spend(founder_gender==Female)->писала</li>
+    <li>founder_repeat(founder_gender==Male)->зрозумів</li>
+    <li>founder_repeat(founder_gender==Female)->зрозуміла</li>
+  </VME_Cultured.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: cultured -->
+  <VME_Cultured.symbolPacks.0.adjective>інтелігентний</VME_Cultured.symbolPacks.0.adjective>
+  <!-- EN: Cultured -->
+  <VME_Cultured.symbolPacks.0.ideoName>Інтелігенція</VME_Cultured.symbolPacks.0.ideoName>
+  <!-- EN: reader -->
+  <VME_Cultured.symbolPacks.0.member>інтелігент</VME_Cultured.symbolPacks.0.member>
+  <!-- EN: books -->
+  <VME_Cultured.symbolPacks.0.theme>інтелігенції</VME_Cultured.symbolPacks.0.theme>
+
+  <!-- EN: writing -->
+  <VME_Cultured.symbolPacks.1.adjective>писемний</VME_Cultured.symbolPacks.1.adjective>
+  <!-- EN: Writing -->
+  <VME_Cultured.symbolPacks.1.ideoName>Письмо</VME_Cultured.symbolPacks.1.ideoName>
+  <!-- EN: writer -->
+  <VME_Cultured.symbolPacks.1.member>письменник</VME_Cultured.symbolPacks.1.member>
+  <!-- EN: writing -->
+  <VME_Cultured.symbolPacks.1.theme>письменства</VME_Cultured.symbolPacks.1.theme>
+</LanguageData>

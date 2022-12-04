@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Pemmican.label>пемікан</Pemmican.label>
+  <Pemmican.description>пемікан</Pemmican.description>
+
+  <Kibble.label>комбікорм</Kibble.label>
+  <Kibble.description>комбікорм</Kibble.description>
+
+  <MealSurvival.label>сухий пайок</MealSurvival.label>
+  <MealSurvival.description>сухий пайок</MealSurvival.description>
+
+  <!--=================================== Simple meal ==========================================-->
+
+  <MealNutrientPaste.label>поживна паста</MealNutrientPaste.label>
+  <MealNutrientPaste.description>поживна паста</MealNutrientPaste.description>
+
+  <MealSimple.label>проста страва</MealSimple.label>
+  <MealSimple.description>проста страва</MealSimple.description>
+
+  <!--=================================== Fine meal ==========================================-->
+
+  <MealFine.label>чудова страва</MealFine.label>
+  <MealFine.description>чудова страва</MealFine.description>
+
+  <MealFine_Veg.label>чудова вегетеріанська страва</MealFine_Veg.label>
+  <MealFine_Veg.description>чудова вегетеріанська страва</MealFine_Veg.description>
+
+  <MealFine_Meat.label>чудова м'ясна страва</MealFine_Meat.label>
+  <MealFine_Meat.description>чудова м'ясна страва</MealFine_Meat.description>
+
+  <!--=================================== Lavish meal ==========================================-->
+
+  <MealLavish.label>вишукана страва</MealLavish.label>
+  <MealLavish.description>вишукана страва</MealLavish.description>
+
+  <MealLavish_Veg.label>вишукана вегетеріанська страва</MealLavish_Veg.label>
+  <MealLavish_Veg.description>вишукана вегетеріанська страва</MealLavish_Veg.description>
+
+  <MealLavish_Meat.label>вишукана м'ясна страва</MealLavish_Meat.label>
+  <MealLavish_Meat.description>вишукана м'ясна страва</MealLavish_Meat.description>
+
+
+</LanguageData>

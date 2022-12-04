@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TriggerFireSprinkler.reportString>активує TargetA</TriggerFireSprinkler.reportString>
+  <emptySeptictank.reportString>спорожнює TargetA</emptySeptictank.reportString>
+  <emptyLatrine.reportString>спорожнення TargetA</emptyLatrine.reportString>
+
+
+  <!-- <JobDef>
+    <defName>LoadFridge</defName>
+    <driverClass>DubsBadHygiene.JobDriver_LoadFridge</driverClass>
+    <reportString>loading TargetA</reportString>
+    <suspendable>false</suspendable>
+  </JobDef> -->
+
+  <LoadWashing.reportString>завантажує TargetA</LoadWashing.reportString>
+  <UnloadWashing.reportString>розвантажує TargetA</UnloadWashing.reportString>
+  <LoadComposter.reportString>заповнує TargetA</LoadComposter.reportString>
+  <UnloadComposter.reportString>виймає компост з TargetA</UnloadComposter.reportString>
+  <RemoveSewage.reportString>видаляє відходи</RemoveSewage.reportString>
+  <WatchWashingMachine.reportString>спостерігає за циклом віджимання</WatchWashingMachine.reportString>
+  <TipOverSewage.reportString>вивертає TargetA</TipOverSewage.reportString>
+  <DrainWaterTankJob.reportString>спустошує TargetA</DrainWaterTankJob.reportString>
+  <PlaceFertilizer.reportString>удобрює грунт</PlaceFertilizer.reportString>
+  <DBHDrinkFromGround.reportString>п'є</DBHDrinkFromGround.reportString>
+  <DBHDrinkFromBasin.reportString>п'є з TargetA</DBHDrinkFromBasin.reportString>
+  <DBHPackWaterBottle.reportString>набирає воду з TargetA у пляшку</DBHPackWaterBottle.reportString>
+  <DBHStockpileWaterBottles.reportString>набирає вод з TargetA</DBHStockpileWaterBottles.reportString>
+  <DBHAdministerFluids.reportString>несе воду для TargetB</DBHAdministerFluids.reportString>
+  <UseToilet.reportString>використовує TargetA</UseToilet.reportString>
+  <haveWildPoo.reportString>справляє потребу на свіжому повітрі</haveWildPoo.reportString>
+  <useWashBucket.reportString>миється у TargetA</useWashBucket.reportString>
+  <washAtCell.reportString>миється</washAtCell.reportString>
+  <washHands.reportString>миє руки</washHands.reportString>
+  <washPatient.reportString>омиває TargetA</washPatient.reportString>
+  <RefillTub.reportString>наповнює баддю</RefillTub.reportString>
+  <RefillWater.reportString>наповнює водою</RefillWater.reportString>
+  <cleanBedpan.reportString>прибирає підкладне судно</cleanBedpan.reportString>
+  <clearBlockage.reportString>прочищає TargetA</clearBlockage.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: anonymity violated -->
+  <VME_NeedAnonymity.stages.0.label>анонімність відсутня</VME_NeedAnonymity.stages.0.label>
+  <!-- EN: They know everything, I’m an open book, entirely vulnerable and without a shred of nuance. -->
+  <VME_NeedAnonymity.stages.0.description>Вони знають. Читають мене як відкриту книгу, в якій навіть нічого не заховано між рядками.</VME_NeedAnonymity.stages.0.description>
+
+  <!-- EN: anonymity compromised -->
+  <VME_NeedAnonymity.stages.1.label>анонімність скомпрометовано</VME_NeedAnonymity.stages.1.label>
+  <!-- EN: My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself. -->
+  <VME_NeedAnonymity.stages.1.description>Моя особистість була скомпрометована. Як ганебно привертати стільки уваги.</VME_NeedAnonymity.stages.1.description>
+
+  <!-- EN: anonymity threatened -->
+  <VME_NeedAnonymity.stages.2.label>анонімність під загрозою</VME_NeedAnonymity.stages.2.label>
+  <!-- EN: This can’t be allowed to continue, if I keep this behavior up I’ll be exposed. -->
+  <VME_NeedAnonymity.stages.2.description>Якщо я нічого не зміню у своїй поведінці, мене викриють. Цього не можна допустити.</VME_NeedAnonymity.stages.2.description>
+
+  <!-- EN: completely anonymous -->
+  <VME_NeedAnonymity.stages.3.label>повна анонімність</VME_NeedAnonymity.stages.3.label>
+  <!-- EN: I feel so much more comfortable like this. I don’t even think they know my name or face. -->
+  <VME_NeedAnonymity.stages.3.description>Так набагато комфортніше. Я не думаю, що хоч комусь відомо моє ім'я чи обличчя.</VME_NeedAnonymity.stages.3.description>
+</LanguageData>

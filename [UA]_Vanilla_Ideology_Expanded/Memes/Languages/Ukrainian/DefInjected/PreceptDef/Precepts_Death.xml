@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: don't care -->
+  <VME_Death_DontCare.label>байдуже</VME_Death_DontCare.label>
+  <!-- EN: Death is inevitable, should we lose an ally or slay an enemy it is not to be thought about.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists won't get any mood effects for losing other colonists. -->
+  <VME_Death_DontCare.description>Смерть неминуча. Якщо ми втратимо союзника чи вб'ємо ворога, то не турбуватимемося.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n – Колоністи не отримають жодних змін настрою у разі смерті інших колоністів.</VME_Death_DontCare.description>
+
+  <!-- EN: normal -->
+  <VME_Death_Normal.label>нормально</VME_Death_Normal.label>
+  <!-- EN: Death is inevitable, an incredibly sad fact of life. -->
+  <VME_Death_Normal.description>Смерть неминуча, неймовірно сумна частина життя.</VME_Death_Normal.description>
+
+  <!-- EN: troubling -->
+  <VME_Death_Troubling.label>турбує</VME_Death_Troubling.label>
+  <!-- EN: Death is inevitable, but we prefer not to dwell on it and not be reminded of its reality as much as possible. -->
+  <VME_Death_Troubling.description>Смерть неминуча, але ми вважаємо за краще не розмірковувати про неї і, по можливості, не згадувати про її існування.</VME_Death_Troubling.description>
+</LanguageData>

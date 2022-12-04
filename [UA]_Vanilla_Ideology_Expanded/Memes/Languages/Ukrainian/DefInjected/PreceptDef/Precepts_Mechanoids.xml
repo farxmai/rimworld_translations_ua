@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: exalted -->
+  <VME_Mechanoids_Exalted.label>піднесено</VME_Mechanoids_Exalted.label>
+  <!-- EN: To destroy a child of machination is a short-sighted and foolish act. -->
+  <VME_Mechanoids_Exalted.description>Знищення механоїдів - вчинок недалекоглядний і дурний.</VME_Mechanoids_Exalted.description>
+
+  <!-- EN: despised -->
+  <VME_Mechanoids_Despised.label>огидно</VME_Mechanoids_Despised.label>
+  <!-- EN: Mechanoids are an abomination, a reminder of man's hubris. -->
+  <VME_Mechanoids_Despised.description>Механоїди — це огидне нагадування про людську пиху.</VME_Mechanoids_Despised.description>
+</LanguageData>

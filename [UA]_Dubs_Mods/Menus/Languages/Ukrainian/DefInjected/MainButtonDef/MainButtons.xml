@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus.label>меню</MintMenus.label>
+  <MintMenus.description>Шукати всі будівлі у всіх модифікаціях.</MintMenus.description>
+
+  <MintResearch.label>дослідження</MintResearch.label>
+  <MintResearch.description>Пошук дослідничьких проектів.</MintResearch.description>
+
+  <MintDesignators.label>колесо</MintDesignators.label>
+  <MintDesignators.description>Швидкий вибір позначень.</MintDesignators.description>
+
+  <MintBillMenu.label>виробництво</MintBillMenu.label>
+  <MintBillMenu.description>Швидкий керування виробничими спорудами.</MintBillMenu.description>
+
+  <MintGearMenu.label>спорядження</MintGearMenu.label>
+  <MintGearMenu.description>Швидкий керування спорядженням ваших колоністів.</MintGearMenu.description>
+
+</LanguageData>

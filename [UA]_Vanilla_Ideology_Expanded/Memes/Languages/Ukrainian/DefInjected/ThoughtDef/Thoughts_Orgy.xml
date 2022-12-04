@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: grotesque orgy -->
+  <VME_GrotesqueOrgy.stages.0.label>абсурдна оргія</VME_GrotesqueOrgy.stages.0.label>
+  <!-- EN: When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away. -->
+  <VME_GrotesqueOrgy.stages.0.description>Когда вы думаете об оргии, вы мечтаете увидеть привлекательных людей. В этот же раз... очень хотелось развидеть их. Потребуется время, чтобы забыть увиденное.</VME_GrotesqueOrgy.stages.0.description>
+
+  <!-- EN: awkward orgy -->
+  <VME_AwkwardOrgy.stages.0.label>ніякова оргія</VME_AwkwardOrgy.stages.0.label>
+  <!-- EN: Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing. -->
+  <VME_AwkwardOrgy.stages.0.description>Все тупили не зная, что делать, просто лежали голыми на полу. Ра-зо-ча-ро-ва-ние!</VME_AwkwardOrgy.stages.0.description>
+
+  <!-- EN: sexy orgy -->
+  <VME_SexyOrgy.stages.0.label>еротична оргія</VME_SexyOrgy.stages.0.label>
+  <!-- EN: We gave ourselves to each other in a communal expression of our deepest passions. -->
+  <VME_SexyOrgy.stages.0.description>Мы отдавались друг другу в выражении наших глубочайших страстей.</VME_SexyOrgy.stages.0.description>
+
+  <!-- EN: exhilarating orgy -->
+  <VME_ExhilaratingOrgy.stages.0.label>збуджуюча оргія</VME_ExhilaratingOrgy.stages.0.label>
+  <!-- EN: We all donned our high-society masquerade masks and got naked. A barrage of orgasmic sexual ecstasy unlike no other made our bodies tremble with barely concealed excitement. -->
+  <VME_ExhilaratingOrgy.stages.0.description>Скрывая лица элегантными масками, мы обнажили наши тела. Чувство непрекращающегося экстаза, не похожее ни на что другое, заставило наши тела дрожать от уже едва скрываемого возбуждения.</VME_ExhilaratingOrgy.stages.0.description>
+
+  <!-- EN: got some lovin' -->
+  <VME_GotSomeLovin.stages.0.label>інтимна близькість</VME_GotSomeLovin.stages.0.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <VME_GotSomeLovin.stages.0.description>Ніщо не підніме настрій, як ковзання між простирадлами.</VME_GotSomeLovin.stages.0.description>
+
+  <!-- FROM IDEOLOGY -->
+  <GotSomeLovin.stages.got_some_lovin.label>інтимна близькість</GotSomeLovin.stages.got_some_lovin.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.got_some_lovin.description>Ніщо не підніме настрій, як ковзання між простирадлами.</GotSomeLovin.stages.got_some_lovin.description>
+
+  <!-- EN: lustful act -->
+  <GotLovin_Abhorrent.stages.lustful_act.label>хтивий вчинок</GotLovin_Abhorrent.stages.lustful_act.label>
+  <!-- EN: I committed a lustful act that was absolutely abhorrent. -->
+  <GotLovin_Abhorrent.stages.lustful_act.description>Моя хтивість оволідала мною і це було жахливо.</GotLovin_Abhorrent.stages.lustful_act.description>
+
+  <!-- EN: act of desire -->
+  <GotLovin_Disapproved.stages.act_of_desire.label>хтиві думки</GotLovin_Disapproved.stages.act_of_desire.label>
+  <!-- EN: I committed an act of desire, but it was the wrong thing to do. -->
+  <GotLovin_Disapproved.stages.act_of_desire.description>Мною оволоділи хтиві подуми, але це було неправильно.</GotLovin_Disapproved.stages.act_of_desire.description>
+
+  <!-- EN: lustful act -->
+  <GotLovin_Horrible.stages.lustful_act.label>хтивий вчинок</GotLovin_Horrible.stages.lustful_act.label>
+  <!-- EN: I committed a lustful act that was deeply wrong. -->
+  <GotLovin_Horrible.stages.lustful_act.description>Моя хтивість оволідала мною, але це було неправильно.</GotLovin_Horrible.stages.lustful_act.description>
+
+  <!-- EN: lustful act -->
+  <Lovin_Know_Abhorrent.stages.lustful_act.label>хтивий вчинок</Lovin_Know_Abhorrent.stages.lustful_act.label>
+
+  <!-- EN: initiated lovin' -->
+  <Lovin_Know_Approved.stages.initiated_lovin.label>інтимна близькість</Lovin_Know_Approved.stages.initiated_lovin.label>
+
+  <!-- EN: act of desire -->
+  <Lovin_Know_Disapproved.stages.act_of_desire.label>хтиві думки</Lovin_Know_Disapproved.stages.act_of_desire.label>
+
+  <!-- EN: lustful act -->
+  <Lovin_Know_Horrible.stages.lustful_act.label>хтивий вчинок</Lovin_Know_Horrible.stages.lustful_act.label>
+
+</LanguageData>

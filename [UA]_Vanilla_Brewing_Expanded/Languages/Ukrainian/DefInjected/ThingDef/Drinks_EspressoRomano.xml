@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_LemonCoffee.label>еспресо романо</VBE_LemonCoffee.label>
+	<VBE_LemonCoffee.description>Особливо дивне поєднання. І без того кисла кава прикрашається часточкою ще кислішого лимона. Перед вживанням рекомендується вичавити сік із лимона в гарячу каву. Любителі неодмінно оцінять набутий смак. Використовується для боротьби із кишковими паразитами.</VBE_LemonCoffee.description>
+	<VBE_LemonCoffee.ingestible.ingestCommandString>Випити {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+	<VBE_LemonCoffee.ingestible.ingestReportString>п'є {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_Make_EltexRobe.label>зробити мантію з ельтекса</VPE_Make_EltexRobe.label>
+  <VPE_Make_EltexRobe.description>Зробити мантію з ельтекса.</VPE_Make_EltexRobe.description>
+  <VPE_Make_EltexRobe.jobString>Виготовляє мантію з ельтекса</VPE_Make_EltexRobe.jobString>
+
+  <VPE_Make_EltexMask.label>зробити маску з ельтекса</VPE_Make_EltexMask.label>
+  <VPE_Make_EltexMask.description>Зробити маску з ельтекса.</VPE_Make_EltexMask.description>
+  <VPE_Make_EltexMask.jobString>Виготовляє маску з ельтекса</VPE_Make_EltexMask.jobString>
+
+  <VPE_Make_EltexCape.label>зробити накидку з ельтекса</VPE_Make_EltexCape.label>
+  <VPE_Make_EltexCape.description>Зробити накидку з ельтекса.</VPE_Make_EltexCape.description>
+  <VPE_Make_EltexCape.jobString>Виготовляє накидку з ельтекса</VPE_Make_EltexCape.jobString>
+
+  <VPE_Make_EltexVest.label>зробити жилет з ельтекса</VPE_Make_EltexVest.label>
+  <VPE_Make_EltexVest.description>Зробити жилет з ельтекса.</VPE_Make_EltexVest.description>
+  <VPE_Make_EltexVest.jobString>Виготовляє жилет з ельтекса</VPE_Make_EltexVest.jobString>
+
+  <VPE_Make_EltexShirt.label>зробити сорочку з ельтекса</VPE_Make_EltexShirt.label>
+  <VPE_Make_EltexShirt.description>Зробити сорочку з ельтекса.</VPE_Make_EltexShirt.description>
+  <VPE_Make_EltexShirt.jobString>Виготовляє сорочку з ельтекса</VPE_Make_EltexShirt.jobString>
+
+  <VPE_Make_EltexStaff.label>зробити псі-посох</VPE_Make_EltexStaff.label>
+  <VPE_Make_EltexStaff.description>Зробити псі-посох.</VPE_Make_EltexStaff.description>
+  <VPE_Make_EltexStaff.jobString>Виготовляє псі-посох</VPE_Make_EltexStaff.jobString>
+
+  <VPE_Make_EltexHelmet.label>зробити шолом з ельтекса</VPE_Make_EltexHelmet.label>
+  <VPE_Make_EltexHelmet.description>Зробити шолом з ельтекса.</VPE_Make_EltexHelmet.description>
+  <VPE_Make_EltexHelmet.jobString>Виготовляє шолом з ельтекса</VPE_Make_EltexHelmet.jobString>
+
+  <VPE_Make_EltexSkullcap.label>зробити кіпу з ельтекса</VPE_Make_EltexSkullcap.label>
+  <VPE_Make_EltexSkullcap.description>Зробити кіпу з ельтекса.</VPE_Make_EltexSkullcap.description>
+  <VPE_Make_EltexSkullcap.jobString>Виготовляє кіпу з ельтекса</VPE_Make_EltexSkullcap.jobString>
+
+  <Make_VPE_MeleeWeapon_EltexDagger.label>зробити кинджал з ельтекса</Make_VPE_MeleeWeapon_EltexDagger.label>
+  <Make_VPE_MeleeWeapon_EltexDagger.description>Зробити кинджал з ельтекса.</Make_VPE_MeleeWeapon_EltexDagger.description>
+  <Make_VPE_MeleeWeapon_EltexDagger.jobString>Виготовляє кинджал з ельтекса</Make_VPE_MeleeWeapon_EltexDagger.jobString>
+
+  <Make_VPE_MeleeWeapon_EltexMace.label>зробити булаву з ельтекса</Make_VPE_MeleeWeapon_EltexMace.label>
+  <Make_VPE_MeleeWeapon_EltexMace.description>Зробити булаву з ельтекса.</Make_VPE_MeleeWeapon_EltexMace.description>
+  <Make_VPE_MeleeWeapon_EltexMace.jobString>Виготовляє булаву з ельтекса</Make_VPE_MeleeWeapon_EltexMace.jobString>
+
+  <Make_VPE_MeleeWeapon_EltexSword.label>зробити меч з ельтекса</Make_VPE_MeleeWeapon_EltexSword.label>
+  <Make_VPE_MeleeWeapon_EltexSword.description>Зробити меч з ельтекса.</Make_VPE_MeleeWeapon_EltexSword.description>
+  <Make_VPE_MeleeWeapon_EltexSword.jobString>Виготовляє меч з ельтекса</Make_VPE_MeleeWeapon_EltexSword.jobString>
+
+  <Make_MeleeWeapon_PsyfocusStaff.label>зробити посох з ельтекса</Make_MeleeWeapon_PsyfocusStaff.label>
+  <Make_MeleeWeapon_PsyfocusStaff.description>Зробити посох з ельтекса.</Make_MeleeWeapon_PsyfocusStaff.description>
+  <Make_MeleeWeapon_PsyfocusStaff.jobString>Виготовляє посох з ельтекса</Make_MeleeWeapon_PsyfocusStaff.jobString>
+</LanguageData>

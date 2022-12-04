@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Toggle gas flow -->
+  <VHGE_CommandToggleGas_Label>Перемикання газу</VHGE_CommandToggleGas_Label>
+  <!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+  <VHGE_CommandToggleGas_Desc>Відкриває або перекриває потік газу.</VHGE_CommandToggleGas_Desc>
+  <!-- EN: A small infinite helixien gas deposit has been found! -->
+  <VHGE_InfiniteDeposit>Ви виявили невелике, але невичерпне родовище геліксинового газу!</VHGE_InfiniteDeposit>
+  <!-- EN: Helixien gas deposit -->
+  <VHGE_InfiniteDepositLabel>Родовище геліксинового газу</VHGE_InfiniteDepositLabel>
+</LanguageData>

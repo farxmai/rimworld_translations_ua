@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryMeats.label>приготувати м'ясо у фритюрі x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>Приготувати м'ясо у фритюрі.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>готує м'ясо у фритюрі x20</VCE_DeepFryMeats.jobString>
+
+  <VCE_DeepFryVegetables.label>приготувати овочі у фритюрі x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>Приготувати овочі у фритюрі.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>готує овочі у фритюрі x20</VCE_DeepFryVegetables.jobString>
+
+</LanguageData>

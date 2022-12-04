@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_EggCraneFertilized.label>яйце журавля (запліднене)</VAERoy_EggCraneFertilized.label>
+  <VAERoy_EggCraneFertilized.description>Запліднене журавлине яйце. Якщо все піде добре, з нього має вилупитися дитинча журавля. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggCraneFertilized.description>
+
+  <VAERoy_EggPeacockFertilized.label>яйце павича (запліднене)</VAERoy_EggPeacockFertilized.label>
+  <VAERoy_EggPeacockFertilized.description>Запліднене яйце павлина. Якщо все піде добре, з нього має вилупитися дитинча павича. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggPeacockFertilized.description>
+
+  <VAERoy_EggPheasantFertilized.label>яйце фазана (запліднене)</VAERoy_EggPheasantFertilized.label>
+  <VAERoy_EggPheasantFertilized.description>Запліднене яйце фазана. Якщо все піде добре, з нього має вилупитися дитинча фазана. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggPheasantFertilized.description>
+
+  <VAERoy_EggQuailUnfertilized.label>яйце перепелине (незапліднене)</VAERoy_EggQuailUnfertilized.label>
+  <VAERoy_EggQuailUnfertilized.description>Незапліднене перепелине яйце. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggQuailUnfertilized.description>
+
+  <VAERoy_EggQuailFertilized.label>яйце перепелине (запліднене)</VAERoy_EggQuailFertilized.label>
+  <VAERoy_EggQuailFertilized.description>Запліднене перепелине яйце. Якщо все піде добре, з нього має вилупитися перепілка. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggQuailFertilized.description>
+
+  <VAERoy_EggSwanUnfertilized.label>яйце лебедя (незапліднене)</VAERoy_EggSwanUnfertilized.label>
+  <VAERoy_EggSwanUnfertilized.description>Незапліднене лебединое яйце. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggSwanUnfertilized.description>
+
+  <VAERoy_EggSwanFertilized.label>яйце лебедя (запліднене)</VAERoy_EggSwanFertilized.label>
+  <VAERoy_EggSwanFertilized.description>Запліднене лебединое яйце. Якщо все піде добре, з нього має вилупитися дитинча лебедя. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggSwanFertilized.description>
+
+  <VAERoy_EggMegaChickenFertilized.label>яйце мегакурки (запліднене)</VAERoy_EggMegaChickenFertilized.label>
+  <VAERoy_EggMegaChickenFertilized.description>Запліднене яйце мегакурки. Якщо все піде добре, з нього має вилупитися мегакурча. Його можна з'їсти сирим, але краще приготувати.</VAERoy_EggMegaChickenFertilized.description>
+
+</LanguageData>

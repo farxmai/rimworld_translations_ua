@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cooler_Over.label>настінний кондиціонер</Cooler_Over.label>
+  <Cooler_Over.description>Настінний кондиціонер.</Cooler_Over.description>
+
+  <Cooler_Over2W.label>настінний широкий кондиціонер</Cooler_Over2W.label>
+  <Cooler_Over2W.description>Настінний широкий кондиціонер.</Cooler_Over2W.description>
+
+  <Vent_Over.label>настінна вентиляція</Vent_Over.label>
+  <Vent_Over.description>Вентиляційна решітка на стіну.</Vent_Over.description>
+
+</LanguageData>

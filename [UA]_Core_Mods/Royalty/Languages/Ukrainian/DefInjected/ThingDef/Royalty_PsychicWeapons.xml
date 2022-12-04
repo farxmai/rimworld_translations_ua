@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: eltex staff -->
+  <MeleeWeapon_PsyfocusStaff.label>посох з ельтекса</MeleeWeapon_PsyfocusStaff.label>
+  <!-- EN: An ultratech staff threaded with psychic focusing materials. While it is a solid melee weapon, its main purpose is to enhance the wielder's psychic sensitivity and neural heat dissipation, allowing more use of psychic powers. -->
+  <MeleeWeapon_PsyfocusStaff.description>Ультратехнологічний посох з лініями з ельтексу. Не тільки збільшує психічну сутливість та розсіювання псі-напруги, а й служить непоганою зброєю ближнього бою.</MeleeWeapon_PsyfocusStaff.description>
+  <!-- EN: head -->
+  <MeleeWeapon_PsyfocusStaff.tools.head.label>ударна частина</MeleeWeapon_PsyfocusStaff.tools.head.label>
+
+</LanguageData>

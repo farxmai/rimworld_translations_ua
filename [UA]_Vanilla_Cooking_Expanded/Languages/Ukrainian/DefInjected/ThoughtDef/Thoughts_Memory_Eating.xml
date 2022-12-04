@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedSugar.stages.0.label>з'їв(ла) цукор</VCE_ConsumedSugar.stages.0.label>
+  <VCE_ConsumedSugar.stages.0.description>Я такий енергійний!</VCE_ConsumedSugar.stages.0.description>
+
+  <VCE_ConsumedChocolateSyrup.stages.0.label>з'їв(ла) шоколадний сироп</VCE_ConsumedChocolateSyrup.stages.0.label>
+  <VCE_ConsumedChocolateSyrup.stages.0.description>Шоколад - ван лав!</VCE_ConsumedChocolateSyrup.stages.0.description>
+
+  <VCE_ConsumedInsectJelly.stages.0.label>з'їв(ла) варення з комашиного желе</VCE_ConsumedInsectJelly.stages.0.label>
+  <VCE_ConsumedInsectJelly.stages.0.description>Який неймовірно солодкий та насичений смак!</VCE_ConsumedInsectJelly.stages.0.description>
+
+  <VCE_SmokeleafButterHigh.stages.0.label>кайфує від димолистного масла</VCE_SmokeleafButterHigh.stages.0.label>
+  <VCE_SmokeleafButterHigh.stages.0.description>"А может не все так однозначно?.."</VCE_SmokeleafButterHigh.stages.0.description>
+
+  <VCE_ConsumedSalt.stages.0.label>з'їв(ла) сіль</VCE_ConsumedSalt.stages.0.label>
+  <VCE_ConsumedSalt.stages.0.description>Доволі смачно</VCE_ConsumedSalt.stages.0.description>
+
+  <VCE_ConsumedMayo.stages.0.label>з'їв(ла) майонез</VCE_ConsumedMayo.stages.0.label>
+  <VCE_ConsumedMayo.stages.0.description>Так смачно, і так жирно!</VCE_ConsumedMayo.stages.0.description>
+
+  <VCE_ConsumedAgave.stages.0.label>з'їв(ла) нектар агави</VCE_ConsumedAgave.stages.0.label>
+  <VCE_ConsumedAgave.stages.0.description>Ммм, солоденький післясмак.</VCE_ConsumedAgave.stages.0.description>
+
+  <VCE_ConsumedSpices.stages.0.label>з'їв(ла) спеції</VCE_ConsumedSpices.stages.0.label>
+  <VCE_ConsumedSpices.stages.0.description>Ця їжа була гостренькою!</VCE_ConsumedSpices.stages.0.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>з'їв(ла) воскрешуючі механіти</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Щось гуде всередині...</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+
+  <VCE_AteGourmetMeal.stages.0.label>з'їв(ла) першокласну страву</VCE_AteGourmetMeal.stages.0.label>
+  <VCE_AteGourmetMeal.stages.0.description>Карколомний кулінарний досвід. Мої смакові рецептори були обдаровані відчуттями, які знаходяться за межами світу.</VCE_AteGourmetMeal.stages.0.description>
+
+  <VCE_AteSimpleDessert.stages.0.label>з'їв(ла) простий десерт</VCE_AteSimpleDessert.stages.0.label>
+  <VCE_AteSimpleDessert.stages.0.description>Цей десерт був доволі простим, та, безумовно, смачним.</VCE_AteSimpleDessert.stages.0.description>
+
+  <VCE_AteFineDessert.stages.0.label>з'їв(ла) чудовий десерт</VCE_AteFineDessert.stages.0.label>
+  <VCE_AteFineDessert.stages.0.description>Цей десерт був справді смачним! Я хочу більше!</VCE_AteFineDessert.stages.0.description>
+
+  <VCE_AteLavishDessert.stages.0.label>з'їв(ла) вишуканий десерт</VCE_AteLavishDessert.stages.0.label>
+  <VCE_AteLavishDessert.stages.0.description>Цей десерт був неймовірним, я хочу ще один!</VCE_AteLavishDessert.stages.0.description>
+
+  <VCE_AteGourmetDessert.stages.0.label>з'їв(ла) першокласний десерт</VCE_AteGourmetDessert.stages.0.label>
+  <VCE_AteGourmetDessert.stages.0.description>Мої смакові рецептори ніколи не зазнавали такого вибуху оргазмічних смаків!</VCE_AteGourmetDessert.stages.0.description>
+
+  <VCE_AteSimpleGrill.stages.0.label>з'їв(ла) простий гриль</VCE_AteSimpleGrill.stages.0.label>
+  <VCE_AteSimpleGrill.stages.0.description>Простий гриль. Ну таке...</VCE_AteSimpleGrill.stages.0.description>
+
+  <VCE_AteFineGrill.stages.0.label>з'їв(ла) чудовий гриль</VCE_AteFineGrill.stages.0.label>
+  <VCE_AteFineGrill.stages.0.description>Смачне м'ясо з овочами зігріває мене</VCE_AteFineGrill.stages.0.description>
+
+  <VCE_AteLavishGrill.stages.0.label>з'їв(ла) вишуканий гриль</VCE_AteLavishGrill.stages.0.label>
+  <VCE_AteLavishGrill.stages.0.description>Неймовірна страва з майстерно приготованим смаженим м'ясом та овочами. Смачно!</VCE_AteLavishGrill.stages.0.description>
+
+  <VCE_AteGourmetGrill.stages.0.label>з'їв(ла) першокласний гриль</VCE_AteGourmetGrill.stages.0.label>
+  <VCE_AteGourmetGrill.stages.0.description>Це м'ясо ніби тануло у мене в роті.</VCE_AteGourmetGrill.stages.0.description>
+
+  <VCE_AteFriedGoods.stages.0.label>з'їв(ла) прожаренную пищу</VCE_AteFriedGoods.stages.0.label>
+  <VCE_AteFriedGoods.stages.0.description>Їжа з скоринкою. Дуже смачно!</VCE_AteFriedGoods.stages.0.description>
+
+  <VCE_ConsumedCannedGoods.stages.0.label>з'їв(ла) консерви</VCE_ConsumedCannedGoods.stages.0.label>
+  <VCE_ConsumedCannedGoods.stages.0.description>Їжа прямо з банки – це як їжа без столу.</VCE_ConsumedCannedGoods.stages.0.description>
+
+</LanguageData>

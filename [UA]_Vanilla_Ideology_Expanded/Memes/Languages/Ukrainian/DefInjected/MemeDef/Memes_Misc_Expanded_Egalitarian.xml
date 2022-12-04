@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 17 -->
+
+  <!-- EN: egalitarian -->
+  <VME_Egalitarian.label>рівноправність</VME_Egalitarian.label>
+  <!-- EN: Bigotry is absolutely to never be tolerated, helping those in need and respecting their beliefs are rewards in and of themselves. -->
+  <VME_Egalitarian.description>Нетерпимість сама по собі є абсолютно нетерпимою. Допомога нужденним і повага до їх переконань — сама по собі нагорода.</VME_Egalitarian.description>
+
+  <VME_Egalitarian.generalRules.rulesStrings>
+    <li>memeAdjective->рівноправний</li>
+    <li>memeAdjective->зрівняльний</li>
+    <li>memeAdjective->вільний</li>
+    <li>memeAdjective->справедливий</li>
+    <li>memeLeaderNoun->зрівнювач</li>
+    <li>memeCreed->рівноправність</li>
+    <li>memeConcept->рівноправності</li>
+    <li>memeHyphenPrefix->вільно</li>
+  </VME_Egalitarian.generalRules.rulesStrings>
+
+  <VME_Egalitarian.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Egalitarian) ->[deity0_name] показав нам, що шлях до істинної мудрості лежить через терпимість і рівність.</li>
+    <li>episode(uses=1,tag=meme_Egalitarian) ->[deity0_name] сказав усім [memberNamePlural], "Ви всі створені за Моїм образом і подобою, і ви всі рівні в Моїх очах."</li>
+    <li>intro(tag=meme_Egalitarian) ->радиція зародилася в [altarRoomLabel], що належить [deity0_name], де люди могли приймати переконання сусідів і насолоджуватися прийняттям інших перспектив.</li>
+    <li>conflict(tag=meme_Egalitarian) ->Занурений у забобонах [foeLeader] дивився на це з ворожістю, не будучи здатним прийняти якусь віру, крім своєї власної.</li>
+    <li>founderJoin(tag=meme_Egalitarian) ->Справжній послідовник [deity0_name] [founderName] постав перед [place_powerCenter], і сказав довгу, пристрасну промову про необхідність поваги та терпимості.</li>
+    <li>victory(tag=meme_Egalitarian) ->Навіть якщо слова [founderName] не мали належного ефекту на [foeLeader], вони все одно були зустрінуті бурхливими оплесками і [foudnerName] був названий провідником волі [deity0_name].</li>
+    <li>setup(tag=meme_Egalitarian) ->Із самого початку життя [founderName_possessive] [founderName] зазнавав переслідувань та тюремного ув'язнення. Ідеї ​​[founderName_possessive] були настільки радикально різні, що [founderName_pronoun] ніколи не міг нікуди вписатися. Можливо, [founderName_pronoun] міг би відреагувати на цю зневагу ще більшою ненавистю до [founderName_possessive], але натомість [founderName_pronoun] вирішив прийняти протилежну думку.</li>
+    <li>story(uses=1,tag=meme_Egalitarian) ->Ідеї [founderName] про толерантність та рівність знайшли глибокий відгук у деяких людей, і народилася нова школа думки: Світло не знає фанатизму, вітер не знає дискримінації, дощ не знає снобізму, посіви не знають сегрегації.</li>
+    <li>lessonIntro(tag=meme_Egalitarian) ->Упередженість, ненависть, знущання, збочення та дискримінація ніколи не повинні вважатися правами людини. Потрібно було так багато часу, щоб зрозуміти, що</li>
+    <li>lesson(tag=meme_Egalitarian) ->людина без сильного почуття справедливості не є людиною - людина без сильного почуття прийняття не є людиною - людина без сильного почуття егалітаризму не є людиною</li>
+    <li>lessonReinforcement(tag=meme_Egalitarian) ->Бути людиною - значить чинити по-людськи, а чинити по-людськи - значить протистояти всім формам нелюдяності.</li>
+    <li>archistBasis(tag=meme_Egalitarian) ->Архотеки - це вершина етичного розвитку. Істоти настільки мудрі та просунуті, що досягли досконалості у своїх думках.</li>
+    <li>archistFact(tag=meme_Egalitarian) ->Для архотека не повинно бути відмінностей між двома людськими істотами. В їхніх очах ми однакові.</li>
+    <li>archistProphecy(tag=meme_Egalitarian) ->Тільки забувши про наші відмінності і зосередившись на тому, що робить усіх нас людьми, ми можемо стати гідними трансценденції.</li>
+    <li>animistBasis(tag=meme_Egalitarian) ->Як духи є для нас лише тінню, що проникає в потаємні куточки, приховані за реальністю, так і ми приховані для них.</li>
+    <li>animistFact(tag=meme_Egalitarian) ->Для парфумів ми є розмитими враженнями на безтілесному плані. Відмінності, які здаються нам такими разючими, для них не такі помітні.</li>
+    <li>animistProphecy(tag=meme_Egalitarian) ->[itIsSaid] тільки забувши про наші відмінності і зосередившись на тому, що робить усіх нас людьми, ми можемо змусити духів по-справжньому прислухатися до нас.</li>
+    <li>serketistProphecy(tag=meme_Egalitarian)->[itIsSaid] ми сформуємо суспільство, в якому наші відмінності не матимуть значення. Ті, хто приймає і терпимі, як усі комахи.</li>
+    <li>chthonianProphecy(tag=meme_Egalitarian)->Перед обличчям такої космічної розпусти наші сварки та розбіжності не мають сенсу. Смерть не дбає про віросповідання тих, кого вона збирає.</li>
+    <li>esotericismProphecy(tag=meme_Egalitarian)->Такі окультні знання вимагають відкритого розуму. Ми повинні будемо прийняти до своїх лав представників усіх віросповідань та переконань.</li>
+    <li>eschatologismFact(tag=meme_Egalitarian)->Вузький розум не зможе наблизити кінець днів. Нам потрібно розширити свій розум, якщо ми хочемо досягти бажаного.</li>
+    <li>introMemo(tag=meme_Egalitarian)->Наступного тижня ми вводимо в дію нову багатоконфесійну політику, щоб усі наші співробітники могли спокійно висловлювати свої переконання. Відділ кадрів займатиметься бронюванням квитків та розкладом запланованих багатоконфесійних мес.</li>
+    <li>alienistProphecy(tag=meme_Egalitarian)->Ці норовливі істоти викликають суперечки серед багатьох людей. Чи потрібно їх захищати чи знищувати? Нам варто вислухати всі погляди, перш ніж приймати рішення.</li>
+  </VME_Egalitarian.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Egalitarianism -->
+  <VME_Egalitarian.symbolPacks.0.ideoName>Рівноправність</VME_Egalitarian.symbolPacks.0.ideoName>
+  <!-- EN: equality -->
+  <VME_Egalitarian.symbolPacks.0.theme>рівноправності</VME_Egalitarian.symbolPacks.0.theme>
+  <!-- EN: egalitarian -->
+  <VME_Egalitarian.symbolPacks.0.adjective>рівноправний</VME_Egalitarian.symbolPacks.0.adjective>
+  <!-- EN: egalitarian -->
+  <VME_Egalitarian.symbolPacks.0.member>егалітарист</VME_Egalitarian.symbolPacks.0.member>
+
+</LanguageData>

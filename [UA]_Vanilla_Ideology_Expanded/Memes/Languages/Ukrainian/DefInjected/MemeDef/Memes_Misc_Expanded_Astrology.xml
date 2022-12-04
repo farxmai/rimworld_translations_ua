@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 2 -->
+
+  <!-- EN: astrology -->
+  <VME_Astrology.label>астрологія</VME_Astrology.label>
+  <!-- EN: A careful examination of the stars буде unlock mystical powers far beyond our wildest imagination. -->
+  <VME_Astrology.description>Ретельне вивчення зірок відкриє містичні сили, які далеко перевершують наші найсміливіші фантазії.</VME_Astrology.description>
+
+  <VME_Astrology.generalRules.rulesStrings>
+    <li>memeAdjective->астрологічний</li>
+    <li>memeAdjective->зодіакальний</li>
+    <li>memeHyphenPrefix->астро</li>
+    <li>memeConcept->зірок</li>
+    <li>memeLeaderNoun->великий астролог</li>
+    <li>memeMoralist->віщун</li>
+    <li>memeMoralist->зірковий провидець</li>
+  </VME_Astrology.generalRules.rulesStrings>
+
+  <VME_Astrology.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Astrology)->[deity0_name] він показав нам, що шлях до істинної мудрості лежить через розуміння зірок.</li>
+    <li>episode(uses=1,tag=meme_Astrology)->[deity0_name] сказав нам [memberNamePlural], "Ви маєте, що ви хочете, щоб помітити мою любов."</li>
+    <li>intro(tag=meme_Astrology)->[memberNamePlural] побудували чудовий [altarName] у [place_summary] [place_name], щоб кожен міг поглянути на зоряне небо.</li>
+    <li>conflict(tag=meme_Astrology)->Боярус [foeLeader] прагнув заперечувати нашу віру [deity0_name], він намагався заслонити небозвід, щоб ми не змогли спостерігати за зірками.</li>
+    <li>founderJoin(tag=meme_Astrology)->[deity0_name] благословенний [place_job] під назвою [founderName] з [foeLeader_possessive] непохитною рішучістю, і тоді ж був створений зодіакальний знак.</li>
+    <li>victory(tag=meme_Astrology) ->[founderName] прочитав астрологічні передбачення[foeSoldiers] і використав їх, щоб переконати їх у силі [deity0_name].</li>
+    <li>setup(tag=meme_Astrology)->Наш засновник [founderName] був хорошим астрологом, він міг передбачити долю послідовників [founder_possessive], мандруючи між містами.</li>
+    <li>story(uses=1,tag=meme_Astrology)->Віруючі поширювали знання про мудрість, які змогли розпізнати в русі зірок.</li>
+    <li>lessonIntro(tag=meme_Astrology)->За всі роки спостережень за зірками я засвоїв один урок, найдорожчий урок:</li>
+    <li>lesson(tag=meme_Astrology)->наші зодіакальні знаки супроводжують нас протягом усього життя.</li>
+    <li>lessonReinforcement(tag=meme_Astrology) ->Це факт, який ми повинні поширювати, бо наша доля відбивається на небесах.</li>
+    <li>archistBasis(tag=meme_Astrology)->Архотеки говорять нам про свою присутність з неба, а подумки вони показали нам, що в русі небесних тіл ховаються великі знання.</li>
+    <li>archistFact(tag=meme_Astrology)->Архотеки мудрі понад будь-яку міру, і вони приховали величезні знання про зірок.</li>
+    <li>archistProphecy(tag=meme_Astrology)->[inTheEnd], Архотеки розкажуть свою останню мудрість власнику [relic0_name]. Тільки той, хто навчений мистецтва Зодіаку, може засвоїти їхнє вчення.</li>
+    <li>animistFact(tag=meme_Astrology) ->Духи хочуть, щоб про них знали, і вони проявляють себе не тільки через земних істот, але й через небеса.</li>
+    <li>serketistProphecy(tag=meme_Astrology)->[itIsSaid] ми будемо досить мудрі, щоб створити новий Зодіак. Серкет. Священний скарабей.</li>
+    <li>chthonianProphecy(tag=meme_Astrology)->Жахливі знання лежать у Непохитній голодній порожнечі між зірками, і, вивчаючи їх, ми здобудемо вічність, можливо, ціною свого розуму.</li>
+    <li>esotericismProphecy(tag=meme_Astrology)->З такими знаннями ми придумаємо спосіб керувати зодіаком, а значить, і долею кожної людини.</li>
+    <li>eschatologismFact(tag=meme_Astrology)->Зірки покажуть лише одну долю: руйнування.</li>
+    <li>introMemo(tag=meme_Astrology)->До моєї інформації дійшло, що деякі з вас використовують перерви на роботі для того, щоб поділитися своїми астрологічними картами. Хоча цю тему дозволено компанією, я хотів би нагадати вам, що перерви ніколи не повинні перевищувати відведений час.</li>
+    <li>alienistProphecy(tag=meme_Astrology)->Зірки відкриють нам реальність цих чудових створінь.</li>
+  </VME_Astrology.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Astrology -->
+  <VME_Astrology.symbolPacks.0.ideoName>Астрологія</VME_Astrology.symbolPacks.0.ideoName>
+  <!-- EN: astrology -->
+  <VME_Astrology.symbolPacks.0.theme>астрології</VME_Astrology.symbolPacks.0.theme>
+  <!-- EN: astrological -->
+  <VME_Astrology.symbolPacks.0.adjective>астрологічний</VME_Astrology.symbolPacks.0.adjective>
+  <!-- EN: astrologer -->
+  <VME_Astrology.symbolPacks.0.member>астролог</VME_Astrology.symbolPacks.0.member>
+
+  <!-- EN: Tarot -->
+  <VME_Astrology.symbolPacks.1.ideoName>Таро</VME_Astrology.symbolPacks.1.ideoName>
+  <!-- EN: tarot -->
+  <VME_Astrology.symbolPacks.1.theme>таро</VME_Astrology.symbolPacks.1.theme>
+  <!-- EN: tarot reading -->
+  <VME_Astrology.symbolPacks.1.adjective>тарочитницький</VME_Astrology.symbolPacks.1.adjective>
+  <!-- EN: tarot reader -->
+  <VME_Astrology.symbolPacks.1.member>тарочитач</VME_Astrology.symbolPacks.1.member>
+
+  <!-- EN: Divination -->
+  <VME_Astrology.symbolPacks.2.ideoName>Ворожіння</VME_Astrology.symbolPacks.2.ideoName>
+  <!-- EN: divination -->
+  <VME_Astrology.symbolPacks.2.theme>ворожіння</VME_Astrology.symbolPacks.2.theme>
+  <!-- EN: divinatorial -->
+  <VME_Astrology.symbolPacks.2.adjective>ворожливий</VME_Astrology.symbolPacks.2.adjective>
+  <!-- EN: diviner -->
+  <VME_Astrology.symbolPacks.2.member>ворожей</VME_Astrology.symbolPacks.2.member>
+
+</LanguageData>

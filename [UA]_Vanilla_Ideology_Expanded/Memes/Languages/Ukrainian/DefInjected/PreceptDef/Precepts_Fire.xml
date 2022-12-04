@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: desired -->
+  <VME_Fire_Desired.label>подобається</VME_Fire_Desired.label>
+  <!-- EN: The warmth of ash, the light of embers, scintillating flame is an awesome sight to behold.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists get moods bonuses depending on the number of active fires on the map. Campfires, torches, Stone Campfires from Vanilla Furniture Expanded - Core and Hearths from Vanilla Factions Expanded - Vikings also count. -->
+  <VME_Fire_Desired.description>Тепло попелу, свічення вугілля, мерехтіння полум'я - все це приголомшливе видовище.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Колоністи отримують бонуси настрою залежно від кількості активних джерел полум'я на карті. Також враховуються багаття та смолоскипи з основної гри, кам'яні багаття з Vanilla Furniture Expanded — Core і вогнища з Vanilla Factions Expanded — Vikings.</VME_Fire_Desired.description>
+  <!-- EN: No fires nearby -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>немає вогню поблизу</VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Very few fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>трошки вогню</VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Small fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>невелике полум'я</VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Saw fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>помітне полум'я</VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Amazing fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>чудові вогні</VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: Beautiful fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>заворожливі вогні</VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>
+
+  <!-- EN: despised -->
+  <VME_Fire_Despised.label>не подобається</VME_Fire_Despised.label>
+  <!-- EN: There is nothing as disgusting as an out of control fire. The flames shall be avoided by any means necessary, for their destructive power is unmatched.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists get negative moods depending on the number of active fires on the map. Campfires, torches, Stone Campfires from Vanilla Furniture Expanded - Core and Hearths from Vanilla Factions Expanded - Vikings also count. -->
+  <VME_Fire_Despised.description>Немає нічого гіршого, ніж вогонь, що вийшов з-під контролю. Слід усіма силами припиняти можливість виникнення пожежі, адже її руйнівна сила не має собі рівних.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Колоністи отримують штрафи настрою залежно від кількості активних джерел полум'я на карті. Також враховуються багаття та смолоскипи з основної гри, кам'яні багаття з Vanilla Furniture Expanded — Core і вогнища з Vanilla Factions Expanded — Vikings.</VME_Fire_Despised.description>
+  <!-- EN: No fires nearby -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>немає вогню поблизу</VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Very few fires -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>трошки вогню</VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Small fire -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>невелике полум'я</VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Saw fire -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>помітне полум'я</VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Blazing fires -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>палаючі вогні</VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: Conflagration -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>пожежа</VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>
+</LanguageData>

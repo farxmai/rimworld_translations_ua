@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<CharmGuest.reportString>Налагоджує відносини між TargetA та вашою колонією.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>Налагоджує відносини з фракцією TargetA.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>Купляє TargetA.</BuyItem.reportString>
+	<BrowseItems.reportString>Переглядає товари.</BrowseItems.reportString>
+	<ClaimGuestBed.reportString>Займає ліжко.</ClaimGuestBed.reportString>
+
+	<VendingMachine_EmptyVendingMachine.reportString>Спорожнює торговий автомат.</VendingMachine_EmptyVendingMachine.reportString>
+	<ScroungeFood.reportString>Вибирає їжу у TargetA.</ScroungeFood.reportString>
+	<SwipeFood.reportString>Витягує їжу з TargetA.</SwipeFood.reportString>
+
+</LanguageData>

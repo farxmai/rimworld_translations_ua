@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sold slave -->
+  <VME_SoldSlave_Know_Forbidden.stages.0.label>продаж раба</VME_SoldSlave_Know_Forbidden.stages.0.label>
+
+  <!-- EN: we sold a slave! -->
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>ми продали раба!</VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>
+  <!-- EN: We took part in the horrible act of slave trading. What a disgrace. -->
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>Ми стали частиною жахливого бізнесу. Яка ганьба.</VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>
+
+  <!-- EN: bought a slave! -->
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>викупили раба!</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>
+  <!-- EN: We have bought a slave from evil slave traders! -->
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>Ми викупили раба у злих работоргівців!</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>
+</LanguageData>

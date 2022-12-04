@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_PsychicSensitivity.description>Королівський павич ткнувся в мене носом. Я відчуваю, як психічна енергія тече крізь моє тіло.</VAERoy_PsychicSensitivity.description>
+  <VAERoy_PsychicSensitivity.label>поряд з павичем</VAERoy_PsychicSensitivity.label>
+  <VAERoy_AngoraRabbitBonded.description>Цей ангорський кролик потоваришував із колоністом. Це забезпечить психічний зв'язок із цим колоністом, збільшуючи швидкість відновлення психічної ентропії, але кролик помре, якщо помре зв'язаний колоніст.</VAERoy_AngoraRabbitBonded.description>
+  <VAERoy_AngoraRabbitBonded.label>прив'язаний ангорський кролик</VAERoy_AngoraRabbitBonded.label>
+  <VAERoy_AngoraRabbitBondedPawn.description>Психічний зв'язок з ангорським кроликом, що допомагає розсіювати тепло нейронів.</VAERoy_AngoraRabbitBondedPawn.description>
+  <VAERoy_AngoraRabbitBondedPawn.label>прив'язаний ангорський кролик</VAERoy_AngoraRabbitBondedPawn.label>
+  <VAERoy_PsychicInvisibility.label>психічна невидимість</VAERoy_PsychicInvisibility.label>
+  <VAERoy_PsychicInvisibility.description>Психоіндукована невидимість. Насправді це впливає на оточуючих, роблячи їхній мозок нездатним сприймати вигляд цієї людини, навіть якщо це не торкається очей напряму.</VAERoy_PsychicInvisibility.description>
+
+</LanguageData>

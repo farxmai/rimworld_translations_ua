@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+<RulePackDef>
+	<defName>NamerFactionSettler</defName>
+	<include>
+		<li>OutlanderPlaceNameUtility</li>
+	</include>
+	<rulePack>
+		<rulesStrings>
+			<li>r_name->Поселенцы [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Поселенцы [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Поселенцы [Color_0] [TerrainFeature_0]</li>
+		</rulesStrings>
+		<rulesFiles>
+			<li>TerrainFeature_f->Words/Nouns/TerrainFeatures_f</li>
+			<li>TerrainFeature_m->Words/Nouns/TerrainFeatures_m</li>
+			<li>TerrainFeature_0->Words/Nouns/TerrainFeatures_0</li>
+			<li>Color_f->Words/Nouns/Colors_Badass_f</li>
+			<li>Color_m->Words/Nouns/Colors_Badass_m</li>
+			<li>Color_0->Words/Nouns/Colors_Badass_0</li>
+		</rulesFiles>
+	</rulePack>
+</RulePackDef>
+
+<RulePackDef>
+	<defName>NamerFactionBandits</defName>
+	<rulePack>
+		<rulesStrings>
+			<li>r_name->Банда [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Банда [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Банда [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Рэкетиры [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Рэкетиры [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Рэкетиры [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Мародёры [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Мародёры [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Мародёры [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Вымогатели [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Вымогатели [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Вымогатели [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Разбойники [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Разбойники [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Разбойники [Color_0] [TerrainFeature_0]</li>
+		</rulesStrings>
+		<rulesFiles>
+			<li>TerrainFeature_f->Words/Nouns/TerrainFeatures_f</li>
+			<li>TerrainFeature_m->Words/Nouns/TerrainFeatures_m</li>
+			<li>TerrainFeature_0->Words/Nouns/TerrainFeatures_0</li>
+			<li>Color_f->Words/Nouns/Colors_Badass_f</li>
+			<li>Color_m->Words/Nouns/Colors_Badass_m</li>
+			<li>Color_0->Words/Nouns/Colors_Badass_0</li>
+		</rulesFiles>
+	</rulePack>
+</RulePackDef>
+
+</Defs>

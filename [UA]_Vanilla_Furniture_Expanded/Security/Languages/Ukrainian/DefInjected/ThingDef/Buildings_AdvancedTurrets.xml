@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Turret_AutocannonDouble.label>двоствольна важка турель</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Важка автоматична турель із двома стволами. Її крупнокаліберні снаряди наносять важкі пошкодження на значних дистанціях, але її стволи треба оновлювати після використання. Влучна на середній дистанції, але не може вести вогонь на близькій. Може вибухнути після пошкодження.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібна заміна стволів</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_TurretDoubleAutocannon_Top.label>двоствольна важка турель</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Важка турель із двома стволами.</VFES_TurretDoubleAutocannon_Top.description>
+
+  <VFES_Turret_TriRocket.label>ракетна турель</VFES_Turret_TriRocket.label>
+  <VFES_Turret_TriRocket.description>Важка турель, здатна вести вогонь некерованими снарядами.</VFES_Turret_TriRocket.description>
+  <VFES_Turret_TriRocket.comps.CompRefuelable.fuelLabel>Пострілів до перезарядки</VFES_Turret_TriRocket.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_TriRocket.comps.CompRefuelable.fuelGizmoLabel>Снаряди</VFES_Turret_TriRocket.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_TriRocket.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібні снаряди</VFES_Turret_TriRocket.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_TurretTriRocket_Top.label>ракетна турель</VFES_TurretTriRocket_Top.label>
+  <VFES_TurretTriRocket_Top.description>Важка турель, здатна вести вогонь некерованими снарядами.</VFES_TurretTriRocket_Top.description>
+
+  <VFES_Bullet_HighExplosiveMissile.label>снаряд ракетної турелі</VFES_Bullet_HighExplosiveMissile.label>
+
+</LanguageData>

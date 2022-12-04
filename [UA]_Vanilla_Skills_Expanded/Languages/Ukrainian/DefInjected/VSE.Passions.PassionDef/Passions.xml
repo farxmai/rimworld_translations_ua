@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <None.label>немає</None.label>
+  <None.description>немає зацікавленності</None.description>
+
+  <Minor.label>зацікавлений</Minor.label>
+  <Minor.description>середня зацікавленності</Minor.description>
+
+  <Major.label>горить</Major.label>
+  <Major.description>велика зацікавленності</Major.description>
+
+  <VSE_Apathy.label>байдужість</VSE_Apathy.label>
+  <VSE_Apathy.description>немає інтересу до цієї навички</VSE_Apathy.description>
+
+  <VSE_Natural.label>природня</VSE_Natural.label>
+  <VSE_Natural.description>Від природи добре володіє цією навичкою. Однак це означає, що вони не продовжуватимуть свою практику.</VSE_Natural.description>
+
+  <VSE_Critical.label>важлива</VSE_Critical.label>
+  <VSE_Critical.description>Ця навичка певним чином надзвичайно важлива, швидше за все, через події в їх минулому.</VSE_Critical.description>
+
+
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: carrier awakening pod -->
+  <VDE_CarrierAwakeningCocoon.label>кокон пробудження носія</VDE_CarrierAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_CarrierAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_CarrierAwakeningCocoon.description>
+
+  <!-- EN: clawer awakening pod -->
+  <VDE_ClawerAwakeningCocoon.label>кокон пробудження кігтервача</VDE_ClawerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_ClawerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_ClawerAwakeningCocoon.description>
+
+  <!-- EN: barkskin awakening pod -->
+  <VDE_BarkskinAwakeningCocoon.label>кокон пробудження дубошкіра</VDE_BarkskinAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_BarkskinAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_BarkskinAwakeningCocoon.description>
+
+  <!-- EN: woodmaker awakening pod -->
+  <VDE_WoodmakerAwakeningCocoon.label>кокон пробудження древороба</VDE_WoodmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_WoodmakerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_WoodmakerAwakeningCocoon.description>
+
+  <!-- EN: medicinemaker awakening pod -->
+  <VDE_MedicinemakerAwakeningCocoon.label>кокон пробудження лікороба</VDE_MedicinemakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_MedicinemakerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_MedicinemakerAwakeningCocoon.description>
+
+  <!-- EN: berrymaker awakening pod -->
+  <VDE_BerrymakerAwakeningCocoon.label>кокон пробудження ягідника</VDE_BerrymakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_BerrymakerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_BerrymakerAwakeningCocoon.description>
+
+  <!-- EN: stonedigger awakening pod -->
+  <VDE_StonediggerAwakeningCocoon.label>кокон пробудження каменяра</VDE_StonediggerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_StonediggerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_StonediggerAwakeningCocoon.description>
+
+  <!-- EN: nectarmaker awakening pod -->
+  <VDE_NectarmakerAwakeningCocoon.label>кокон пробудження нектарника</VDE_NectarmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_NectarmakerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_NectarmakerAwakeningCocoon.description>
+
+  <!-- EN: spitter awakening pod -->
+  <VDE_SpitterAwakeningCocoon.label>кокон пробудження плювальника</VDE_SpitterAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_SpitterAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_SpitterAwakeningCocoon.description>
+
+  <!-- EN: gaubricmaker awakening pod -->
+  <VDE_GaubricmakerAwakeningCocoon.label>кокон пробудження вовнянника</VDE_GaubricmakerAwakeningCocoon.label>
+  <!-- EN: An awakened dryad will emerge from this pod in one day. -->
+  <VDE_GaubricmakerAwakeningCocoon.description>Пробуджена дріада з'явиться з цього кокона за день.</VDE_GaubricmakerAwakeningCocoon.description>
+
+  <!-- EN: dryad nest -->
+  <VDE_DryadNest.label>гніздо дріади</VDE_DryadNest.label>
+  <!-- EN: A small nest of logs and twigs created by the awakened woodmaker dryad. Animals can sleep in it, but it can also be deconstructed for precious building materials. -->
+  <VDE_DryadNest.description>Маленьке гніздо з колод та гілок, створене пробудженою дріадою-деревником. Гніздо може використовуватися тваринами для сну або бути розібрано для отримання будівельних матеріалів.</VDE_DryadNest.description>
+</LanguageData>

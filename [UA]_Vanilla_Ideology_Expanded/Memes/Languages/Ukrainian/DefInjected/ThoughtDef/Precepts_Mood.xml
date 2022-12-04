@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stars are aligned -->
+  <VME_Mood_DictatedByStars.stages.0.label>зірки вишикувались</VME_Mood_DictatedByStars.stages.0.label>
+  <!-- EN: The astral architects smile upon me, their benevolence is unmatched. -->
+  <VME_Mood_DictatedByStars.stages.0.description>Небесні архітектори посміхаються мені, їхня доброзичливість не має межі.</VME_Mood_DictatedByStars.stages.0.description>
+  <!-- EN: Stars are perfect -->
+  <VME_Mood_DictatedByStars.stages.1.label>зірки ідеальні</VME_Mood_DictatedByStars.stages.1.label>
+  <!-- EN: The stellar bodies above tell a story of imminent fortunes and success. -->
+  <VME_Mood_DictatedByStars.stages.1.description>Небесні тіла нагорі розповідають історію про близькі успіхи.</VME_Mood_DictatedByStars.stages.1.description>
+  <!-- EN: Stars are excellent -->
+  <VME_Mood_DictatedByStars.stages.2.label>зірки неперевершені</VME_Mood_DictatedByStars.stages.2.label>
+  <!-- EN: The stars whisper to me, and they tell me to breathe easy. My fate is comfortably in their hands. -->
+  <VME_Mood_DictatedByStars.stages.2.description>Зірки шепочуть мені, радять дихати на повні груди. Моя доля в їхніх надійних руках.</VME_Mood_DictatedByStars.stages.2.description>
+  <!-- EN: Stars are good -->
+  <VME_Mood_DictatedByStars.stages.3.label>зірки добрі</VME_Mood_DictatedByStars.stages.3.label>
+  <!-- EN: Though small, the constellations tell me all is well for the time being -->
+  <VME_Mood_DictatedByStars.stages.3.description>Маленькі сузір'я кажуть мені, що поки що все йде добре.</VME_Mood_DictatedByStars.stages.3.description>
+  <!-- EN: Stars are indifferent -->
+  <VME_Mood_DictatedByStars.stages.4.label>зірки байдужі</VME_Mood_DictatedByStars.stages.4.label>
+  <!-- EN: The stars whisper nonsense and contradictions, our destiny is increasingly unclear. -->
+  <VME_Mood_DictatedByStars.stages.4.description>Зірки шепочуть суперечливу нісенітницю, наша доля стає дедалі незрозумілою.</VME_Mood_DictatedByStars.stages.4.description>
+  <!-- EN: stars are bad -->
+  <VME_Mood_DictatedByStars.stages.5.label>зірки погані</VME_Mood_DictatedByStars.stages.5.label>
+  <!-- EN: The skies do not bode well, an ill omen is on the horizon. -->
+  <VME_Mood_DictatedByStars.stages.5.description>Небеса не віщують нічого доброго, на горизонті видніється поганий знак.</VME_Mood_DictatedByStars.stages.5.description>
+  <!-- EN: stars are not on my side -->
+  <VME_Mood_DictatedByStars.stages.6.label>зірки не на моєму боці</VME_Mood_DictatedByStars.stages.6.label>
+  <!-- EN: The sea of stars is ever cloudy, they shroud themselves from me and refuse to tell me of my fate. -->
+  <VME_Mood_DictatedByStars.stages.6.description>Зоряне небо весь час затягнене хмарами. Зірки ховаються та відмовляються розповідати про мою долю.</VME_Mood_DictatedByStars.stages.6.description>
+  <!-- EN: stars are a bad omen -->
+  <VME_Mood_DictatedByStars.stages.7.label>зірки віщують біду</VME_Mood_DictatedByStars.stages.7.label>
+  <!-- EN: The stellar bodies far above have made themselves clear, I am no longer in their favor. -->
+  <VME_Mood_DictatedByStars.stages.7.description>Зоряні тіла нагорі ясно дали зрозуміти, що я втратив їх прихильність.</VME_Mood_DictatedByStars.stages.7.description>
+  <!-- EN: stars are aligned… against me -->
+  <VME_Mood_DictatedByStars.stages.8.label>зірки вишикувались... проти мене</VME_Mood_DictatedByStars.stages.8.label>
+  <!-- EN: The planets have aligned, a syzygy has made clear my approaching demise is inescapable. I will shortly be reduced to mere dust. -->
+  <VME_Mood_DictatedByStars.stages.8.description>Планети вирівнялися, сизигія дала зрозуміти, що моя доля - померти. Невдовзі я перетворюся на попел.</VME_Mood_DictatedByStars.stages.8.description>
+
+  <!-- EN: rejoice -->
+  <VME_Mood_Shared.stages.0.label>ми радіємо</VME_Mood_Shared.stages.0.label>
+  <!-- EN: Everyone is in good mood, as am I. -->
+  <VME_Mood_Shared.stages.0.description>Усі мають гарний настрій, як і в мене.</VME_Mood_Shared.stages.0.description>
+  <!-- EN: grieve -->
+  <VME_Mood_Shared.stages.1.label>ми сумуємо</VME_Mood_Shared.stages.1.label>
+  <!-- EN: Everyone is in bad mood, as am I. -->
+  <VME_Mood_Shared.stages.1.description>В усіх поганий настрій, як і в мене.</VME_Mood_Shared.stages.1.description>
+
+  <!-- EN: bad mood -->
+  <VME_Mood_LowExpectations.stages.0.label>все погано</VME_Mood_LowExpectations.stages.0.label>
+  <!-- EN: I'm just generally having a bad mood. The Rim is a hostile place. -->
+  <VME_Mood_LowExpectations.stages.0.description>Ну, просто в мене завжди поганий настрій, бо крайні світи — погане місце.</VME_Mood_LowExpectations.stages.0.description>
+
+  <!-- EN: good mood -->
+  <VME_Mood_HighExpectations.stages.0.label>все чудово</VME_Mood_HighExpectations.stages.0.label>
+  <!-- EN: I'm just generally having a good mood. The Rim is an amazing place. -->
+  <VME_Mood_HighExpectations.stages.0.description>Ну, просто в мене завжди чудовий настрій, тому що крайні світи — чудове місце.</VME_Mood_HighExpectations.stages.0.description>
+</LanguageData>

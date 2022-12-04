@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: conversion ritual (leader) -->
+  <VME_LeaderConversion.label>ритуал звернення (лідер)</VME_LeaderConversion.label>
+  <!-- EN: The leader tries to persuade someone into joining your ideoligion. -->
+  <VME_LeaderConversion.description>Лідер намагається переконати когось приєднатися до вашої ідеолігії.</VME_LeaderConversion.description>
+</LanguageData>

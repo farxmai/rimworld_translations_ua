@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: forceful -->
+  <VME_Proselytizing_Forceful.label>примусово</VME_Proselytizing_Forceful.label>
+  <!-- EN: If somebody can’t see the error in their ways, then we are not beyond resorting to aggression to show them, it’s an obligation to our creed. -->
+  <VME_Proselytizing_Forceful.description>Якщо хтось не здатний розпізнати помилковість свого шляху, то ми не можемо відкидати силу як засіб доказу нашої правоти. Наші переконання зобов'язують до цього.</VME_Proselytizing_Forceful.description>
+
+  <!-- EN: never -->
+  <VME_Proselytizing_Never.label>ніколи</VME_Proselytizing_Never.label>
+  <!-- EN: Everyone has their own truth, and everyone should respect the rights of others to follow their own.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Disables conversion rituals and the convert ability of the moralist role. -->
+  <VME_Proselytizing_Never.description>У кожного своя правда, і кожен має поважати право інших їй слідувати.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Вимикає ритуали звернення та здібності до звернення.</VME_Proselytizing_Never.description>
+</LanguageData>

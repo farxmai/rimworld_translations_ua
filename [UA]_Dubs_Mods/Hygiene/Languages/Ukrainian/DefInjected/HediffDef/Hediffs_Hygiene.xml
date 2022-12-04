@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Washing.label>миється</Washing.label>
+  <Washing.description>Миється.</Washing.description>
+  <Washing.labelNoun>миється</Washing.labelNoun>
+
+  <BadHygiene.label>погана гігієна</BadHygiene.label>
+  <BadHygiene.description>Погана гігієна підвищує ризик захворювання та впливає на соціальну взаємодію.</BadHygiene.description>
+  <BadHygiene.stages.0.label>помірний</BadHygiene.stages.0.label>
+  <BadHygiene.stages.1.label>сильний</BadHygiene.stages.1.label>
+  <BadHygiene.stages.2.label>екстремальний</BadHygiene.stages.2.label>
+
+  <Diarrhea.label>діарея</Diarrhea.label>
+  <Diarrhea.description>Діарея рідка, стілець рідкий. Також відомий як випорожнення.</Diarrhea.description>
+  <Diarrhea.stages.0.label>одужання</Diarrhea.stages.0.label>
+  <Diarrhea.stages.1.label>середня</Diarrhea.stages.1.label>
+  <Diarrhea.stages.2.label>початкова</Diarrhea.stages.2.label>
+
+  <Dysentery.label>дизентирія</Dysentery.label>
+  <Dysentery.description>Дизентерія – це різновид гастроентериту, що супроводжується діареєю з кров’ю.</Dysentery.description>
+  <Dysentery.stages.0.label>незначна</Dysentery.stages.0.label>
+  <Dysentery.stages.1.label>середня</Dysentery.stages.1.label>
+  <Dysentery.stages.2.label>екстремальна</Dysentery.stages.2.label>
+
+  <Cholera.label>холера</Cholera.label>
+  <Cholera.description>Холера — це інфекційне захворювання, яке викликає сильну водянисту діарею, яка може призвести до зневоднення і навіть смерті, якщо її не лікувати.</Cholera.description>
+  <Cholera.stages.0.label>незначна</Cholera.stages.0.label>
+  <Cholera.stages.1.label>середня</Cholera.stages.1.label>
+  <Cholera.stages.2.label>екстремальна</Cholera.stages.2.label>
+  <Cholera.stages.3.label>смертельна</Cholera.stages.3.label>
+
+  <DBHDehydration.label>зневоднення</DBHDehydration.label>
+  <DBHDehydration.description>Зневоднення – це стан, який може виникнути, коли втрата організмом рідини, переважно води, перевищує кількість, яку вона приймає.</DBHDehydration.description>
+  <DBHDehydration.stages.0.label>початкове</DBHDehydration.stages.0.label>
+  <DBHDehydration.stages.1.label>незначане</DBHDehydration.stages.1.label>
+  <DBHDehydration.stages.2.label>помірне</DBHDehydration.stages.2.label>
+  <DBHDehydration.stages.3.label>сильне</DBHDehydration.stages.3.label>
+  <DBHDehydration.stages.4.label>екстремальне</DBHDehydration.stages.4.label>
+
+
+</LanguageData>

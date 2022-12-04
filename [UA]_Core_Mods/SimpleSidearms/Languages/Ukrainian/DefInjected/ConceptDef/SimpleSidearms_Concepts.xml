@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concept_SimpleSidearmsBasic.label>Додаткова зброя</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>Щоб використовувати зброю як додаткову зброю, клацніть правою кнопкою миші по ній і виберіть опцію "спорядити за пояс".\n\nЗброя перерахована у діалоговому вікні Sidearms, яке відображається при виборі колоніста, який має хоча б одну зброю. За замовчуванням колоністи автоматично обирають стрілецьку зброю, і перемикатимуться на зброю ближнього бою, коли противник в зоні досяжності. Ця поведінка може бути змінена в налаштуваннях мода.</Concept_SimpleSidearmsBasic.helpText>
+
+  <Concept_SidearmsInInventory.label>Наявна зброя</Concept_SidearmsInInventory.label>
+  <Concept_SidearmsInInventory.helpText>Зброя на сірому тлі у споряджені колоніста може бути використана. Клацніть лівою кнопкою миші, щоб перейти до нього. Клацніть правою кнопкою миші, щоб викинути її.</Concept_SidearmsInInventory.helpText>
+
+  <Concept_SidearmsPrimary.label>Неактивна основна зброя</Concept_SidearmsPrimary.label>
+  <Concept_SidearmsPrimary.helpText>Зброя на жовтому тлі позначена як основна зброя колоніста, але в даний час не використовується як така. Воно буде використовуватись знову, коли колоніст вийде з бою.</Concept_SidearmsPrimary.helpText>
+
+  <Concept_SidearmsMissing.label>Відсутня зброя</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>Зброя на темному тлі наразі відсутня у споряджені колоніста. При першій можливості він спробує повернути цю зброю, якщо вона все ще наявна. Клацніть правою кнопкою миші, щоб видалити цю зброю.</Concept_SidearmsMissing.helpText>
+
+  <Concept_SimpleSidearmsAdvanced.label>Керування озброєнням</Concept_SimpleSidearmsAdvanced.label>
+  <Concept_SimpleSidearmsAdvanced.helpText>Колоністи можуть використовувати зброю в індивідуальному порядку. Перемикання блокування за допомогою замка вгорі на червоний колір змушує пішака продовжувати використовувати свою основну зброю, навіть якщо інша зброя далекого бою буде більш ефективною. Ручне перемикання на зброю автоматично вимикає автоперемикання - цю поведінку можна вимкнути за допомогою замка знизу.</Concept_SimpleSidearmsAdvanced.helpText>
+
+  <Concept_SimpleSidearmsDropping.label>Скидання налаштувань</Concept_SimpleSidearmsDropping.label>
+  <Concept_SimpleSidearmsDropping.helpText>Залежно від налаштувань, Simple Sidearms може змусити колоністів кинути зброю у різних ситуаціях (наприклад за атаки у ближньому бою). Не хвилюйтеся – ваші колоністи заберуть свою зброю після бою. \n\nЦю функцію можна налаштувати в діалоговому вікні налаштувань мода.</Concept_SimpleSidearmsDropping.helpText>
+
+  <Concept_CEOverride.label>Combat Extended</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Combat Extended завантажено. Функції керування спорядженням SimpleSidearms відключені.</Concept_CEOverride.helpText>
+
+
+</LanguageData>

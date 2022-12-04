@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: uninstalling ancient junk building. -->
+  <VME_DeconstructBuilding.reportString>демонтує стародавній мотлох</VME_DeconstructBuilding.reportString>
+
+  <!-- EN: maintaining insect nest. -->
+  <VME_MaintainInsectNest.reportString>обслуговує гніздо комах</VME_MaintainInsectNest.reportString>
+
+  <!-- EN: participating in orgy. -->
+  <VME_DanceWithLove.reportString>бере участь в оргії</VME_DanceWithLove.reportString>
+</LanguageData>

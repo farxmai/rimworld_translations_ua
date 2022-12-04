@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_SecondaryAcidBurn.label>хімічний опік</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} роз'їло на смерть.</VEF_SecondaryAcidBurn.deathMessage>
+
+  <!-- EN: permanent burn -->
+  <VEF_PermanentBurn.label>опік</VEF_PermanentBurn.label>
+  <!-- EN: {0} has been killed by burning. -->
+  <VEF_PermanentBurn.deathMessage>{0} спалено.</VEF_PermanentBurn.deathMessage>
+
+</LanguageData>

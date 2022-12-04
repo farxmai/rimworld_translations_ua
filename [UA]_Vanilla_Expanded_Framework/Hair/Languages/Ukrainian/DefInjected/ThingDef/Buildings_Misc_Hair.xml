@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: barber's table -->
+  <VHE_TableBarber.label>стіл барбера</VHE_TableBarber.label>
+  <!-- EN: A table equipped with various tools suited for restyling hair and beards. -->
+  <VHE_TableBarber.description>Стіл з різними інструментами для зміни зачісок та борід.</VHE_TableBarber.description>
+</LanguageData>

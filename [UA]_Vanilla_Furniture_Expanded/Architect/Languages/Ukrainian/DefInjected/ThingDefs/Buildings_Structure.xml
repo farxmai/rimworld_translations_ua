@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_LogWall.label>стіна з колод</VFEArch_LogWall.label>
+  <VFEArch_LogWall.description>Стіна з горизонтально розташованих колод, що створює приємне домашнє відчуття. Достатньо міцна, щоб підтримувати дах.</VFEArch_LogWall.description>
+
+  <VFEArch_ChainlinkFence.label>паркан-сітка</VFEArch_ChainlinkFence.label>
+  <VFEArch_ChainlinkFence.description>Металевий сітковий паркан. Деякі види тварин можуть долати огорожі. Хижаки не полюватимуть на істот по той бік огорожі.</VFEArch_ChainlinkFence.description>
+
+  <VFEArch_PicketFence.label>паркан</VFEArch_PicketFence.label>
+  <VFEArch_PicketFence.description>Паркан із дерев'яних стовпів, з'єднаних вертикальними дерев'яними дошками. Деякі види тварин можуть долати огорожі. Хижаки не полюватимуть на істот по той бік огорожі. Набагато красивіше за альтернативні варіанти і викликає відчуття домашнього затишку.</VFEArch_PicketFence.description>
+
+  <VFEArch_BrickFence.label>цегляний паркан</VFEArch_BrickFence.label>
+  <VFEArch_BrickFence.description>Паркан із цегляних стовпів та короткою цегляною стінкою між ними. Деякі види тварин можуть долати огорожі. Хижаки не полюватимуть на істот по той бік огорожі.</VFEArch_BrickFence.description>
+
+  <VFEArch_InvisibleFence.label>невидимий паркан</VFEArch_InvisibleFence.label>
+  <VFEArch_InvisibleFence.description>Невидимий паркан для гравців, які бажають створити свої власні загони без огорож або зробити так, щоб річки або дерева виступали як загородження. Не має вартості – не уповільнює істот, які бажають пройти через нього.</VFEArch_InvisibleFence.description>
+
+  <VFEArch_LowFence.label>низький паркан</VFEArch_LowFence.label>
+  <VFEArch_LowFence.description>Невисока огорожа зі стовпів, з'єднаних перекладинами. Деякі види тварин можуть долати огорожі. Хижаки не полюватимуть на істот по той бік огорожі.</VFEArch_LowFence.description>
+
+  <VFEArch_HedgeWall.label>жива огорожа</VFEArch_HedgeWall.label>
+  <VFEArch_HedgeWall.description>Непрохідна стіна зі штучної живоплоту. Дуже легко спалахує.</VFEArch_HedgeWall.description>
+
+  <VFEArch_CellWall.label>стіна ґрат</VFEArch_CellWall.label>
+  <VFEArch_CellWall.description>Непрохідна стіна із тюремних ґрат. Не може бути атакована ув'язненими.</VFEArch_CellWall.description>
+
+  <VFEArch_CellDoor.label>двері ґрат</VFEArch_CellDoor.label>
+  <VFEArch_CellDoor.description>Двері, що повільно рухаються, розділяють дві кімнати. Не може бути атакована ув'язненими.</VFEArch_CellDoor.description>
+
+  <VFEArch_ArmoredWall.label>броньована стіна</VFEArch_ArmoredWall.label>
+  <VFEArch_ArmoredWall.description>Непрохідна важка стіна з багатошаровою бронею. Майже повністю стійка до вибухових речовин та будь-яких інструментів для злому.</VFEArch_ArmoredWall.description>
+
+  <VFEArch_ArmoredDoor.label>броньовані двері</VFEArch_ArmoredDoor.label>
+  <VFEArch_ArmoredDoor.description>Броньовані двері, які потрібно відкривати та закривати вручну. Броньовані двері майже повністю стійкі до вибухів і практично не зазнають пошкоджень від злому інструментами.</VFEArch_ArmoredDoor.description>
+
+  <VFEArch_SingleDoor.label>ліві одинарні двері</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor.description>Прості двері, які потрібно відкривати та закривати вручну. Час відкривання та закривання залежить від матеріалу виготовлення.</VFEArch_SingleDoor.description>
+
+  <VFEArch_SingleDoor_Flipped.label>праві одинарні двері </VFEArch_SingleDoor_Flipped.label>
+  <VFEArch_SingleDoor_Flipped.description>Прості двері, які потрібно відкривати та закривати вручну. Час відкривання та закривання залежить від матеріалу виготовлення.</VFEArch_SingleDoor_Flipped.description>
+
+  <VFEArch_AnimalGate.label>хвіртка для тварин</VFEArch_AnimalGate.label>
+  <VFEArch_AnimalGate.description>Дверний проріз з хвірткою, яку здатні відкривати тварини. Дозволяє тваринам проходити, але не ізолює кімнату.</VFEArch_AnimalGate.description>
+
+</LanguageData>

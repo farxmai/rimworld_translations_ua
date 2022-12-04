@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Wearable Forklift -->
+  <SGC_RoboticForkliftHediff.label>роботизований маніпулятор</SGC_RoboticForkliftHediff.label>
+  <!-- EN: The forklift's robotic arms are assisting the wearer as they work. -->
+  <SGC_RoboticForkliftHediff.description>Роботизовані руки навантажувача допомагають власнику під час роботи.</SGC_RoboticForkliftHediff.description>
+  <!-- EN: a robotic assistance -->
+  <SGC_RoboticForkliftHediff.labelNoun>роботизована допомога</SGC_RoboticForkliftHediff.labelNoun>
+  
+  <!-- EN: Robotic Rig Assistance -->
+  <SGC_RoboticRigHediff.label>роботизований помічник</SGC_RoboticRigHediff.label>
+  <!-- EN: The rig's robotic arm is assisting the wearer as they work. -->
+  <SGC_RoboticRigHediff.description>Роботизована рука допомагає власнику під час роботи.</SGC_RoboticRigHediff.description>
+  <!-- EN: a robotic assistance -->
+  <SGC_RoboticRigHediff.labelNoun>роботизована допомога</SGC_RoboticRigHediff.labelNoun>
+  
+  <!-- EN: Trauma Kit Stimulants -->
+  <SGC_TraumaKitHediff.label>травм-набір стимуляторів</SGC_TraumaKitHediff.label>
+  <!-- EN: The onboard medical device is injecting simulants to keep wearer awake longer. -->
+  <SGC_TraumaKitHediff.description>Бортовий медичний пристрій вводить симулятори, щоб власнику міг довше зберігати працездатність.</SGC_TraumaKitHediff.description>
+  <!-- EN: a robotic assistance -->
+  <SGC_TraumaKitHediff.labelNoun>роботизована допомога</SGC_TraumaKitHediff.labelNoun>
+  
+</LanguageData>

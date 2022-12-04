@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Bow_Compound.label>блоковий лук</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>Сучасний лук, що використовує систему важелів для пострілів на великі відстані.\n\nЗавдяки своїй конструкції, цей лук не видає звуків при стрільбі, що робить його корисним на полюванні.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.0.label>плече</VWE_Bow_Compound.tools.0.label>
+
+  <VWE_Arrow_Compound.label>стріла блочного лука</VWE_Arrow_Compound.label>
+
+
+  <VWE_Bullet_HandCannon.label>куля ручної гармати</VWE_Bullet_HandCannon.label>
+
+  <VWE_Gun_HandCannon.label>ручна гармата</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Крупнокаліберний револьвер, що стріляє рідко, але компенсує це можливістю вести вогонь на великій відстані.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.0.label>рукоять</VWE_Gun_HandCannon.tools.0.label>
+  <VWE_Gun_HandCannon.tools.1.label>ствол</VWE_Gun_HandCannon.tools.1.label>
+
+
+  <VWE_Bullet_CombatHandgun.label>куля бойового пістолета</VWE_Bullet_CombatHandgun.label>
+
+  <VWE_CombatHandgun.label>бойовий пістолет</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Напівавтоматичний пістолет, призначений для самооборони. Просунута система зниження віддачі дозволяє стріляти з нього значно швидше, ніж зі стандартного самозарядного пістолета.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.0.label>рукоять</VWE_CombatHandgun.tools.0.label>
+  <VWE_CombatHandgun.tools.1.label>ствол</VWE_CombatHandgun.tools.1.label>
+
+
+  <VWE_Bullet_SawedOffShotgun.label>дріб</VWE_Bullet_SawedOffShotgun.label>
+
+  <VWE_SawedOffShotgun.label>обріз</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Обріз — це вогнепальна зброя, виготовлена шляхом вкорочення стволу рушниці (зазвичай в кустарних умовах), може вистрілити відразу з двох стволів.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.0.label>рукоять</VWE_SawedOffShotgun.tools.0.label>
+  <VWE_SawedOffShotgun.tools.1.label>ствол</VWE_SawedOffShotgun.tools.1.label>
+
+  <VWE_Bullet_GrenadeLauncher.label>осколкова граната</VWE_Bullet_GrenadeLauncher.label>
+
+  <VWE_Gun_GrenadeLauncher.label>гранатомет</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>Гранатомет військового зразка для знищення піхоти супротивника.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.0.label>приклад</VWE_Gun_GrenadeLauncher.tools.0.label>
+  <VWE_Gun_GrenadeLauncher.tools.1.label>ствол</VWE_Gun_GrenadeLauncher.tools.1.label>
+
+
+  <VWE_Gun_Flamethrower.label>вогнемет</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Механічний запальний пристрій, призначений для випуску керованого потоку підпаленого хімічного палива.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.0.label>приклад</VWE_Gun_Flamethrower.tools.0.label>
+  <VWE_Gun_Flamethrower.tools.1.label>ствол</VWE_Gun_Flamethrower.tools.1.label>
+
+  <VWE_Bullet_Flamethrower.label>паливо вогнемета</VWE_Bullet_Flamethrower.label>
+
+
+  <VWE_Gun_FireExtinguisher.label>вогнегасник</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Заповнений багатоцільовою вогнегасною речовиною, вогнегасник може загасити пожежу будь-якого виду.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.0.label>балон</VWE_Gun_FireExtinguisher.tools.0.label>
+
+  <VWE_Bullet_FireExtinguisher.label>вогнегасна речовина</VWE_Bullet_FireExtinguisher.label>
+
+
+  <VWE_Bullet_SemiAutomaticRifle.label>куля напівавтоматичної гвинтівки</VWE_Bullet_SemiAutomaticRifle.label>
+
+  <VWE_Gun_SemiAutomaticRifle.label>напівавтоматична гвинтівка</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Напівавтоматична версія гвинтівки із ковзним затвором. Знижену потужність і дальність гвинтівка компенсує збільшеною скорострільністю.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.0.label>приклад</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.1.label>ствол</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+
+
+  <VWE_Bullet_LeverActionRifle.label>пуля рычажной винтовки</VWE_Bullet_LeverActionRifle.label>
+
+  <VWE_Gun_LeverActionRifle.label>важільна гвинтівка</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>Гвинтівка, яка використовує важіль, розташований поряд зі спусковим гачком, для завантаження в ствол патронів. Хоча ця зброя не така потужна, як інші гвинтівки, її можна швидко перезаряджати.\n\nНабула широкого поширення у вестернах, завдяки можливості стріляти сидячи верхи на коні, використовуючи лише одну руку.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.0.label>приклад</VWE_Gun_LeverActionRifle.tools.0.label>
+  <VWE_Gun_LeverActionRifle.tools.1.label>ствол</VWE_Gun_LeverActionRifle.tools.1.label>
+
+
+  <VWE_Bullet_LightSMG.label>куля легкого ПП</VWE_Bullet_LightSMG.label>
+
+  <VWE_Gun_LightSMG.label>легкий ПК</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Полегшений ПК з відкритим затвором та покращеним охолодженням, може вести вогонь довшими чергами без перегріву.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.0.label>рукоять</VWE_Gun_LightSMG.tools.0.label>
+  <VWE_Gun_LightSMG.tools.1.label>ствол</VWE_Gun_LightSMG.tools.1.label>
+
+  <VWE_Bullet_SMG.label>куля компактного ПП</VWE_Bullet_SMG.label>
+
+  <VWE_Gun_SMG.label>компактний ПК</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>Компактний ПК. Незважаючи на те, що точність не дозволяє стріляти на великі відстані, він може завдати значної шкоди на близькій дистанції.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.0.label>рукоять</VWE_Gun_SMG.tools.0.label>
+  <VWE_Gun_SMG.tools.1.label>ствол</VWE_Gun_SMG.tools.1.label>
+
+  <VWE_Bullet_HMG.label>кулеметна куля</VWE_Bullet_HMG.label>
+
+  <VWE_Gun_HMG.label>важкий кулемет</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>Кулемет із водяним охолодженням. Він важкий і громіздкий, але завдає величезної шкоди завдяки бронебійним боєприпасам. Стрічкове живлення боєприпасами забезпечує безперервний потік куль доти, доки стрілець утримує зброю в руках.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.0.label>приклад</VWE_Gun_HMG.tools.0.label>
+  <VWE_Gun_HMG.tools.1.label>ствол</VWE_Gun_HMG.tools.1.label>
+
+  <VWE_Bullet_ServiceRifle.label>куля гвинтівки</VWE_Bullet_ServiceRifle.label>
+
+  <VWE_Gun_ServiceRifle.label>штатна гвинтівка</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>Універсальна та надійна штурмова гвинтівка, що широко використовується по всій галактиці силами ополчення та найманцями.\n\nНе така потужна як штурмова гвинтівка, але стріляє чергами по 4 кулі.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.0.label>приклад</VWE_Gun_ServiceRifle.tools.0.label>
+  <VWE_Gun_ServiceRifle.tools.1.label>ствол</VWE_Gun_ServiceRifle.tools.1.label>
+
+  <VWE_Bullet_BattleRifle.label>куля бойової гвинтівки</VWE_Bullet_BattleRifle.label>
+
+  <VWE_Gun_BattleRifle.label>бойова гвинтівка</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>Напівавтоматична гвинтівка, що зазвичай використовується силами спеціального призначення через її далекобійність і точність. Трохи потужніша, ніж штурмова гвинтівка, але стріляє чергами лише по дві кулі.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.0.label>приклад</VWE_Gun_BattleRifle.tools.0.label>
+  <VWE_Gun_BattleRifle.tools.1.label>ствол</VWE_Gun_BattleRifle.tools.1.label>
+
+  <VWE_Bullet_Carbine.label>куля карабіна</VWE_Bullet_Carbine.label>
+
+  <VWE_Gun_Carbine.label>карабін</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Невеликий карабін булл-пап, що часто використовується в спекотних міських боях. Через короткий ствол, зручний на ближніх дистанціях, але не здатний точно вести вогонь на великій відстані.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.0.label>приклад</VWE_Gun_Carbine.tools.0.label>
+  <VWE_Gun_Carbine.tools.1.label>ствол</VWE_Gun_Carbine.tools.1.label>
+
+  <Bullet_MarksmanRifle.label>куля стрілецької гвинтівки</Bullet_MarksmanRifle.label>
+
+  <VWE_Gun_MarksmanRifle.label>стрілецька гвинтівка</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>Незважаючи на схожість з гвинтівкою зі ковзним затвором, вона обмінює свою проникну здатність на два постріли поспіль.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.0.label>приклад</VWE_Gun_MarksmanRifle.tools.0.label>
+  <VWE_Gun_MarksmanRifle.tools.1.label>ствол</VWE_Gun_MarksmanRifle.tools.1.label>
+
+  <Bullet_AntiMaterialRifle.label>крупнокаліберна куля снайперської гвинтівки</Bullet_AntiMaterialRifle.label>
+
+  <VWE_Gun_AntiMaterialRifle.label>крупнокаліберна снайперська гвинтівка</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Будучи зброєю з калібром .50, вона призначена для боротьби з найміцнішими «ресурсами» ворога. Широко використовується на околицях галактики в битвах з механоїдами. Цю зброю також можна використовувати проти звичайної піхоти, дозволяючи «вбити одним пострілом».</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.0.label>приклад</VWE_Gun_AntiMaterialRifle.tools.0.label>
+  <VWE_Gun_AntiMaterialRifle.tools.1.label>ствол</VWE_Gun_AntiMaterialRifle.tools.1.label>
+
+  <!-- CORE -->
+
+  <Bullet_AssaultRifle.label>куля штурмової гвинтівки</Bullet_AssaultRifle.label>
+
+  <Bullet_Autopistol.label>куля пістолета</Bullet_Autopistol.label>
+
+  <Bullet_BoltActionRifle.label>куля гвинтівки з ковзним затвором</Bullet_BoltActionRifle.label>
+
+  <Bullet_EMPLauncher.label>ЕМІ-снаряд</Bullet_EMPLauncher.label>
+
+  <Bullet_HeavySMG.label>куля важкого ПК</Bullet_HeavySMG.label>
+
+  <Bullet_IncendiaryLauncher.label>заряд для вогнемету</Bullet_IncendiaryLauncher.label>
+
+  <Bullet_LMG.label>куля кулемета</Bullet_LMG.label>
+
+  <Bullet_MachinePistol.label>куля ПК</Bullet_MachinePistol.label>
+
+  <Bullet_Minigun.label>куля мініґану</Bullet_Minigun.label>
+
+  <Bullet_Revolver.label>револьверний набій</Bullet_Revolver.label>
+
+  <Bullet_Shotgun.label>дріб дробовика</Bullet_Shotgun.label>
+
+  <Bullet_SmokeLauncher.label>димовий снаряд</Bullet_SmokeLauncher.label>
+
+  <Bullet_SniperRifle.label>куля снайперської гвинтівки</Bullet_SniperRifle.label>
+
+  <Gun_AssaultRifle.label>штурмова гвинтівка</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.description>Універсальна, вогнепальна штурмова гвинтівка для бою в полі або містах. Має гарну далекобійність, достатню потужність та гарну точність.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.tools.stock.label>приклад</Gun_AssaultRifle.tools.stock.label>
+  <Gun_AssaultRifle.tools.barrel.label>ствол</Gun_AssaultRifle.tools.barrel.label>
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>штурмова гвинтівка</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+
+  <Gun_Autopistol.label>пістолет</Gun_Autopistol.label>
+  <Gun_Autopistol.description>Давній тип самозаряджувального пістолета з вільним затвором. Йому не вистачає вражаючих властивостей й дальності, але стріляє швидко.</Gun_Autopistol.description>
+  <Gun_Autopistol.tools.grip.label>рукоятка</Gun_Autopistol.tools.grip.label>
+  <Gun_Autopistol.tools.barrel.label>ствол</Gun_Autopistol.tools.barrel.label>
+  <Gun_Autopistol.verbs.Verb_Shoot.label>пістолет</Gun_Autopistol.verbs.Verb_Shoot.label>
+
+  <Gun_BoltActionRifle.label>гвинтівка з ковзним затвором</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>Давній тип гвинтівки з ковзним затвором. Має велику дальність і низьку скорострільність і таким чином не спонукає тварин до помсти, що робить гвинтівку чудовою для полювання.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.stock.label>приклад</Gun_BoltActionRifle.tools.stock.label>
+  <Gun_BoltActionRifle.tools.barrel.label>ствол</Gun_BoltActionRifle.tools.barrel.label>
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>гвинтівка з ковзним затвором</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+
+  <Gun_ChainShotgun.label>автоматичний дробовик</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>Автоматичний дробовик з магазинною подачею набоїв. Має ще меншу дальність, ніж типовий дробовик, але є надзвичайно небезпечним при стрільбі чергами.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.tools.stock.label>приклад</Gun_ChainShotgun.tools.stock.label>
+  <Gun_ChainShotgun.tools.barrel.label>ствол</Gun_ChainShotgun.tools.barrel.label>
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>автоматичний дробовик</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+
+  <Gun_HeavySMG.label>важкий ПК</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>Компактний кулемет з більш-менш високим калібром. Дуже мала дальність стрільби, але б'є добре.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.tools.grip.label>рукоятка</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.tools.barrel.label>ствол</Gun_HeavySMG.tools.barrel.label>
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>важкий ПК</Gun_HeavySMG.verbs.Verb_Shoot.label>
+
+  <Gun_EmpLauncher.label>ЕМІ пускова установка</Gun_EmpLauncher.label>
+  <Gun_EmpLauncher.description>Широкоствольна пускова установка ЕМІ-снаряду. При ударі снаряд випускає сплеск електромагнітної енергії, приголомшуючи механічні цілі (механоїдів, турелі, міномети) та руйнуючи щити в зоні ураження.</Gun_EmpLauncher.description>
+  <Gun_EmpLauncher.tools.stock.label>приклад</Gun_EmpLauncher.tools.stock.label>
+  <Gun_EmpLauncher.tools.barrel.label>ствол</Gun_EmpLauncher.tools.barrel.label>
+  <Gun_EmpLauncher.verbs.Verb_Shoot.label>ЕМІ пускова установка</Gun_EmpLauncher.verbs.Verb_Shoot.label>
+
+  <Gun_IncendiaryLauncher.label>запальна пускова установка</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.description>Широкоствольна пускова установка для запалювальних болтів. При ударі болти утворюють невеликі запалювальні вибухи, викликаючи пожежі.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.tools.stock.label>приклад</Gun_IncendiaryLauncher.tools.stock.label>
+  <Gun_IncendiaryLauncher.tools.barrel.label>ствол</Gun_IncendiaryLauncher.tools.barrel.label>
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>запальна пускова установка</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+
+  <Gun_SmokeLauncher.label>димова пускова установка</Gun_SmokeLauncher.label>
+  <Gun_SmokeLauncher.description>Широко-ствольна пускова установка для димових снарядів. При влучанні снаряд випускає хмару диму, затуляючи собою постріли, і перешкоджаючи наведенню турелів.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.tools.stock.label>приклад</Gun_SmokeLauncher.tools.stock.label>
+  <Gun_SmokeLauncher.tools.barrel.label>ствол</Gun_SmokeLauncher.tools.barrel.label>
+  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>димова установка</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
+
+  <Gun_LMG.label>легкий кулемет</Gun_LMG.label>
+  <Gun_LMG.description>Ручний кулемет на газі. Хоч дещо незграбний і неточний, його довгі черги ефективні проти груп ворогів.</Gun_LMG.description>
+  <Gun_LMG.tools.stock.label>приклад</Gun_LMG.tools.stock.label>
+  <Gun_LMG.tools.barrel.label>ствол</Gun_LMG.tools.barrel.label>
+  <Gun_LMG.verbs.Verb_Shoot.label>легкий кулемет</Gun_LMG.verbs.Verb_Shoot.label>
+
+  <Gun_MachinePistol.label>ручний ПК</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>Пістолет-кулемет. Його дальність мала, але напрочуд легкий у руках. Мінуси компенсуються скорострільністю.</Gun_MachinePistol.description>
+  <Gun_MachinePistol.tools.grip.label>рукоятка</Gun_MachinePistol.tools.grip.label>
+  <Gun_MachinePistol.tools.barrel.label>ствол</Gun_MachinePistol.tools.barrel.label>
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>ручний ПК</Gun_MachinePistol.verbs.Verb_Shoot.label>
+
+  <Gun_Minigun.label>мініґан</Gun_Minigun.label>
+  <Gun_Minigun.description>Багатоствольний кулемет. Він громіздкий, але швидкострільний. Якщо більшості самозарядних пістолетів енергія пороху приводиться в дію, то в мінігані для швидкого пропускання патронів через зброю використовується електродвигун.</Gun_Minigun.description>
+  <Gun_Minigun.tools.barrels.label>стволи</Gun_Minigun.tools.barrels.label>
+  <Gun_Minigun.verbs.Verb_Shoot.label>мініґан</Gun_Minigun.verbs.Verb_Shoot.label>
+
+  <Gun_PumpShotgun.label>помповий дробовик</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.description>Старомодна конструкція дробовика, що випускає щільно упакований струмінь дробу. Смертоносна, але має невелику дальність ураження.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.tools.stock.label>приклад</Gun_PumpShotgun.tools.stock.label>
+  <Gun_PumpShotgun.tools.barrel.label>ствол</Gun_PumpShotgun.tools.barrel.label>
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>помповий дробовик</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+
+  <Gun_Revolver.label>револьвер</Gun_Revolver.label>
+  <Gun_Revolver.description>Револьвер старовинного зразка. Він не дуже потужний, але має пристойну для пістолета дальність ураження і швидкість стрільби.</Gun_Revolver.description>
+  <Gun_Revolver.tools.grip.label>рукоятка</Gun_Revolver.tools.grip.label>
+  <Gun_Revolver.tools.barrel.label>ствол</Gun_Revolver.tools.barrel.label>
+  <Gun_Revolver.verbs.Verb_Shoot.label>револьвер</Gun_Revolver.verbs.Verb_Shoot.label>
+
+  <Gun_SniperRifle.label>снайперська гвинтівка</Gun_SniperRifle.label>
+  <Gun_SniperRifle.description>Старовинна конструкція високоточної снайперської гвинтівки. Болтова гвинтівка. Має винятково велику дальність ураження, високу точність та хорошу потужність. Через громіздкість інші види зброї перевершують її на близькій відстані.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.tools.stock.label>приклад</Gun_SniperRifle.tools.stock.label>
+  <Gun_SniperRifle.tools.barrel.label>ствол</Gun_SniperRifle.tools.barrel.label>
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>снайперська гвинтівка</Gun_SniperRifle.verbs.Verb_Shoot.label>
+</LanguageData>

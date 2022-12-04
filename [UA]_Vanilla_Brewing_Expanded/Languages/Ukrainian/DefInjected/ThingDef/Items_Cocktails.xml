@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SimpleCocktail.label>простий коктейль</VBE_SimpleCocktail.label>
+  <VBE_SimpleCocktail.description>Простий коктейль швидко замішаний з декількох інгредієнтів.</VBE_SimpleCocktail.description>
+
+  <VBE_FineCocktail.label>чудовий коктейль</VBE_FineCocktail.label>
+  <VBE_FineCocktail.description>Комплексний коктейль, дбайливо зібраний із широкого асортименту інгредієнтів.</VBE_FineCocktail.description>
+
+  <VBE_LavishCocktail.label>вишуканий коктейль</VBE_LavishCocktail.label>
+  <VBE_LavishCocktail.description>Цей шедевр алкогольного мистецтва живить тіло, розум та душу.</VBE_LavishCocktail.description>
+
+  <VBE_GourmetCocktail.label>першокласний коктейль</VBE_GourmetCocktail.label>
+  <VBE_GourmetCocktail.description>Вершина алкогольного мистецтва.</VBE_GourmetCocktail.description>
+
+
+</LanguageData>

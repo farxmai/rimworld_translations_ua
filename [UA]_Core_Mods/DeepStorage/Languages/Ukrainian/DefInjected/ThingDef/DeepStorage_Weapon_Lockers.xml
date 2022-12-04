@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- also available for lazy colonists -->
+
+  <LWM_WeaponsCabinet.label>шафа для зброї</LWM_WeaponsCabinet.label>
+  <LWM_WeaponsCabinet.description>Шафа для зберігання кількох видів зброї.\n\nЗброя, що міститься в шафі, не псуватиметься, навіть якщо шафа розташувати поза приміщенням.</LWM_WeaponsCabinet.description>
+
+  <!-- or for anyone who builds some good careful metal-working tools -->
+
+  <LWM_WeaponsLocker.label>міцна шафа для зброї</LWM_WeaponsLocker.label>
+  <LWM_WeaponsLocker.description>Потужна металева шафка для надійного зберігання зброї.\n\nЗброя, що міститься в шафі, не псуватиметься, навіть якщо шафа розташувати поза приміщенням.</LWM_WeaponsLocker.description>
+
+
+</LanguageData>

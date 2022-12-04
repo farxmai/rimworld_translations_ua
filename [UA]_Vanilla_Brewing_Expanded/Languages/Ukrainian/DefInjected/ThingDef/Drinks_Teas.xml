@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Tea.label>чай</VBE_Tea.label>
+  <VBE_Tea.description>Приємний ароматний напій, приготований шляхом замочування чайного листя в окропі. Чай може мати будь-який смак – від цитрусового до гіркого та пряного. Чай був одним із улюблених напоїв людства з давніх часів.</VBE_Tea.description>
+  <VBE_Tea.ingestible.ingestCommandString>Випити {0}</VBE_Tea.ingestible.ingestCommandString>
+  <VBE_Tea.ingestible.ingestReportString>п'є {0}</VBE_Tea.ingestible.ingestReportString>
+
+
+</LanguageData>

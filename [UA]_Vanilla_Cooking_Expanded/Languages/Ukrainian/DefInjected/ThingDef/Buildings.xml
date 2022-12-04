@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ElectricPot.label>електрична стійка з каструлею</VCE_ElectricPot.label>
+  <VCE_ElectricPot.description>Невеликий прилад, що використовується для кип'ятіння води та підтримки її температури. Зазвичай, він використовується для забезпечення безпосереднього джерела гарячої води для приготування супу. Суп на електричній стійці з каструлею без електроенергії зіпсується дуже швидко. Стережіться спалахів на місцевій зірці!</VCE_ElectricPot.description>
+
+  <VCE_Grill.label>гриль</VCE_Grill.label>
+  <VCE_Grill.description>Гриль - це пристрій, який готує їжу, випромінюючи тепло знизу продукту, що готується. Для його роботи потрібні дрова.</VCE_Grill.description>
+
+  <VCE_DeepFrier.label>фритюрниця</VCE_DeepFrier.label>
+  <VCE_DeepFrier.description>Фритюрниця - це кухонний прилад, який використовується для смаження у фритюрі. Глибока прожарка - це метод приготування їжі шляхом занурення їжі в масло при сильному нагріванні, зазвичай між температурами від 350 до 375°F (від 175°С до 190°С).</VCE_DeepFrier.description>
+
+  <VCE_CanningMachine.label>консервна машина</VCE_CanningMachine.label>
+  <VCE_CanningMachine.description>Консервна машина – це пристрій для консервування продуктів у металеві банки. Для кожної операції консервування потрібна певна кількість сталі.</VCE_CanningMachine.description>
+
+  <VCE_CondimentPrepTable.label>стіл для приготування добавок</VCE_CondimentPrepTable.label>
+  <VCE_CondimentPrepTable.description>Робочий стіл для нарізки та приготування приправ, що використовуються в рецептах для по-справжньому вишуканих страв.</VCE_CondimentPrepTable.description>
+
+  <VCE_CheesePress.label>прес для сиру</VCE_CheesePress.label>
+  <VCE_CheesePress.description>Прес для сиру - це пристрій для віджиму сироватки з сиру під час виготовлення сиру. Натискання впливає на твердість та текстуру сиру, а також визначає форму. Цей прес також працює як камера для дозрівання, тому чим довше сир залишається на дозрівання, тим вищою буде його якість.</VCE_CheesePress.description>
+
+</LanguageData>

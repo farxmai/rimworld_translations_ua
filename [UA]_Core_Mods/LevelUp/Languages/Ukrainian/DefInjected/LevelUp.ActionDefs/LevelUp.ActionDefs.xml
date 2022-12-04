@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- This file is ignored if the language is English. Then the values on the defs are used directly. -->
+  <!-- This is here for translation reference only. -->
+
+  <LevelUpActionDef_Sound.label>Звук</LevelUpActionDef_Sound.label>
+  <LevelUpActionDef_Sound.description>Використовувати звук.</LevelUpActionDef_Sound.description>
+
+  <LevelUpActionDef_Animation.label>Анімація</LevelUpActionDef_Animation.label>
+  <LevelUpActionDef_Animation.description>Показувати просту анімацію на колоністі.</LevelUpActionDef_Animation.description>
+
+  <LevelUpActionDef_Message.label>Повідомлення</LevelUpActionDef_Message.label>
+  <LevelUpActionDef_Message.description>Показувати текстове повідомленя в верхньоиу лівому кутку.</LevelUpActionDef_Message.description>
+
+  <LevelUpActionDef_OverheadMessage.label>Повідомлення над головою</LevelUpActionDef_OverheadMessage.label>
+  <LevelUpActionDef_OverheadMessage.description>Показувати повідомлення на колоністі.</LevelUpActionDef_OverheadMessage.description>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <VAE_HulkBloodlust>тарганхалк, той, що полює в цих місцях, прагне крові. Будьте обережні!</VAE_HulkBloodlust>
+  <VAE_HulkRips>Божевільний тарганхалк розривае{1} у {0}!</VAE_HulkRips>
+  <VAE_LetterLabelInsectoidHulk>Хозяин монстров</VAE_LetterLabelInsectoidHulk>
+  <VAE_LetterInsectoidHulk>Шалений тарган халк поруч!\n\nСупроводжується вороже настроєними інсектоїдами, ця істота здатна пробивати стіни та двері, якщо зможе наблизитися до них. тарганхалк спробує атакувати вашу колонію і залучити ваших колоністів до смертельного ближнього бою.</VAE_LetterInsectoidHulk>
+  <VAE_OpenCocoon>Відкрити кокон</VAE_OpenCocoon>
+  <VAE_OpenCocoonDesc>Відкрити кокон, щоб звільнити колоніста або тварину, що міститься там</VAE_OpenCocoonDesc>
+  <VAE_Scheduled>Відкриття цього кокона вже заплановано одним з колоністів.</VAE_Scheduled>
+  <VAE_CocoonHurt>Мешканцю цього кокона погано, відкрийте кокон швидше, ніж запобігти погіршенню ситуації!</VAE_CocoonHurt>
+  <VAE_CocoonCritical>Мешканець цього кокона в критичному стані, відкрийте кокон швидше, щоб не допустити погіршення ситуації!</VAE_CocoonCritical>
+  <VAE_CocoonDeath>Мешканець цього кокона мертвий</VAE_CocoonDeath>
+  <VAE_EggsHatchIn>павучьи яйця вилупляться через: {0}</VAE_EggsHatchIn>
+  <VAE_AnimalSpawnMultiplier>VAE - модифікатор появи печерних тварин</VAE_AnimalSpawnMultiplier>
+  <VAE_AnimalSpawnMultiplierTooltip>Цей модифікатор вплине на можливість появи ВСІХ тварин з цього мода. Наприклад, якщо встановити його на 0.5, тварина з'являтиметься у половині випадків від режиму за промовчанням (що відповідає цифрі 1). А якщо встановити два, ви отримаєте вдвічі більший шанс появи. І так далі. Впливає лише на появу диких тварин.</VAE_AnimalSpawnMultiplierTooltip>
+  <VAE_Reset>Скинути модификатор</VAE_Reset>
+  <VAE_ArachnophobiaMode>Режим мода Arachnophobia: прибирає ноги у графічних моделей павуків</VAE_ArachnophobiaMode>
+  <VAE_InsectoidHulkDisabled>Вимкнути подію "Володар чудовиськ" (напад тарганхалка)</VAE_InsectoidHulkDisabled>
+
+
+</LanguageData>

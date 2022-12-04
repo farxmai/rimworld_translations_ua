@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: make a dessert -->
+  <VME_MakeADessert.label>зробити десерт</VME_MakeADessert.label>
+  <!-- EN: Targets a meal to turn it into a dessert. -->
+  <VME_MakeADessert.description>Перетворює страву на десерт.</VME_MakeADessert.description>
+</LanguageData>

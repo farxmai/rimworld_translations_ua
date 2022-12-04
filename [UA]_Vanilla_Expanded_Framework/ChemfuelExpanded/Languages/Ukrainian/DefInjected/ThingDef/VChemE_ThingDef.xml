@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- infinite deepchem reactor -->
+  <CA_InfiniteDeepchemPumpjack.label>екстрактор глибопалива</CA_InfiniteDeepchemPumpjack.label>
+  <!-- Slowly extracts deepchem using  atoms extracted from the air and deep crust. A sustainable way to extract Deepchem indefinitely. -->
+  <CA_InfiniteDeepchemPumpjack.description>Повільно витягує глибокопаливо, використовуючи атоми, витягнуті з повітря та глибиною кори. Надійний спосіб вилучення глибопалива.</CA_InfiniteDeepchemPumpjack.description>
+
+</LanguageData>

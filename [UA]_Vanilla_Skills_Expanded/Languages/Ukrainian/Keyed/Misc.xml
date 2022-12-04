@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSE.Expertise0>Зацікавлений</VSE.Expertise0>
+  <VSE.Expertise1>Любитель</VSE.Expertise1>
+  <VSE.Expertise2>Учень початківець</VSE.Expertise2>
+  <VSE.Expertise3>Учень</VSE.Expertise3>
+  <VSE.Expertise4>Відмінний учень</VSE.Expertise4>
+  <VSE.Expertise5>Слабкий професіонал</VSE.Expertise5>
+  <VSE.Expertise6>Професіонал</VSE.Expertise6>
+  <VSE.Expertise7>Працездатний професіонал</VSE.Expertise7>
+  <VSE.Expertise8>Впевнений професіонал</VSE.Expertise8>
+  <VSE.Expertise9>Просунутий професіонал</VSE.Expertise9>
+  <VSE.Expertise10>Дуже просунутий професіонал</VSE.Expertise10>
+  <VSE.Expertise11>Майже експерт</VSE.Expertise11>
+  <VSE.Expertise12>Самопроголошений експерт</VSE.Expertise12>
+  <VSE.Expertise13>Експерт</VSE.Expertise13>
+  <VSE.Expertise14>Сильний експерт</VSE.Expertise14>
+  <VSE.Expertise15>Дуже сильний експерт</VSE.Expertise15>
+  <VSE.Expertise16>Колоніально-відомий експерт</VSE.Expertise16>
+  <VSE.Expertise17>Регіонально відомий експерт</VSE.Expertise17>
+  <VSE.Expertise18>Провідний експерт регіону</VSE.Expertise18>
+  <VSE.Expertise19>Планетно відомий експерт</VSE.Expertise19>
+  <VSE.Expertise20>Легендарний експерт</VSE.Expertise20>
+  <VSE.Expertise>Експертність</VSE.Expertise>
+  <VSE.ForgetSpeed>Жвидкість забування</VSE.ForgetSpeed>
+  <VSE.Effects>Ефекти:</VSE.Effects>
+  <VSE.Effects.PerLevel>Ефекти (за рівень):</VSE.Effects.PerLevel>
+  <VSE.ExpertiseAvailable>Колоніст може отримати експертність</VSE.ExpertiseAvailable>
+  <VSE.ExpertiseAvailableMultiple>Колоніст може отримати експертність</VSE.ExpertiseAvailableMultiple>
+  <VSE.SelectExpertise>Обрати експертність</VSE.SelectExpertise>
+  <VSE.ExpertiseDesc>Вибір експертності розблокує нову навичку для колоніста, яка може надати певний специфічний бонус.\nМаксимальна кількість експертних навичок - {1}, а для їх відкриття необхідно щоб колоніст вже мав певний досвід.</VSE.ExpertiseDesc>
+  <VSE.ExpertiseAvailableDesc>Ваш колоніст досяг достатньо високого рівня в навичках, якими він захоплюється, щоб отримати експертність.\n\nПодумайте про вибір для нього навичок, щоб отримати нові бонуси до типу роботи, у якій він добре розуміється.\n\nКолоністи, які можуть отримати досвід:\n\n</VSE.ExpertiseAvailableDesc>
+  <VSE.LearnsForgets>\n   - Вчиться {0}\n   - Забуває {1}</VSE.LearnsForgets>
+  <VSE.LearnOther>\n   - Вивчить інших {0}</VSE.LearnOther>
+  <VSE.NoPassion>Нема хисту</VSE.NoPassion>
+  <VSE.SkillTooLow>Заслабка навичка</VSE.SkillTooLow>
+  <VSE.AtMaxExpertise>Експертність</VSE.AtMaxExpertise>
+  <VSE.ExpertiseOverlap>Заблоковано іншою</VSE.ExpertiseOverlap>
+  <VSE>Vanilla Skills Expanded</VSE>
+  <VSE.MaxExpertise>Максимум експертностей на колоніста:</VSE.MaxExpertise>
+  <VVE.AllowMultiCritical>Дозволяти декілька експертностей</VVE.AllowMultiCritical>
+  <VVE.AllowMultiCritical.Desc>Якщо вимкнено, кожному колоністу буде доступна лише одна експертність.</VVE.AllowMultiCritical.Desc>
+  <VVE.CriticalEffectPassions>Наслідки важливих зацікавленностей</VVE.CriticalEffectPassions>
+  <VVE.CriticalEffectPassions.Desc>Якщо вимкнено, дебафф коефіцієнта швидкості навчання на інші навички з важливих не вплинуть на інші навички, якими захоплений пішак.</VVE.CriticalEffectPassions.Desc>
+  <VVE.Commonalities>Редагувати спільні зацікавленності, групи розділені</VVE.Commonalities>
+  <VVE.Reset>Скинути до замовчування</VVE.Reset>
+  <VVE.Bad>Погано:</VVE.Bad>
+  <VVE.Good>Добре:</VVE.Good>
+  <VSE.AllowExpertiseOverlap>Дозволяти накладання експертностей</VSE.AllowExpertiseOverlap>
+  <VSE.AllowExpertiseOverlap.Desc>Якщо вимкнено, то для кожної навички можна вибрати лише 1 експертність, незалежно від налаштування максимальної експертизи.</VSE.AllowExpertiseOverlap.Desc>
+  <VSE.EnableSkillLoss>Повторно ввімкнути втрату навичок</VSE.EnableSkillLoss>
+  <VSE.EnableAlert>Увімкніть сповіщення "Доступна Експертність".</VSE.EnableAlert>
+  <VSE.EnableSkillsLoss.Desc>За замовчуванням Ducks' Insane Skills вимикає всі втрати навичок. Вибравши цю опцію, цей мод замінить Ducks і знову ввімкне його. Використовуйте це, якщо ви все ще хочете мати можливість скористатися перевагами забутих змін швидкості в нових пристрастях.</VSE.EnableSkillsLoss.Desc>
+</LanguageData>

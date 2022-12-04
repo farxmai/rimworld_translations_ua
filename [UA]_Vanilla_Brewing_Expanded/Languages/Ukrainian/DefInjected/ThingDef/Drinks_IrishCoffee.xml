@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_IrishCoffee.label>кава по-ірландськи</VBE_IrishCoffee.label>
+  <VBE_IrishCoffee.description>Віскі та кофе ретельно перемішали, додатково додавши ложку збитих вершків. Ідеально підходить для тих, хто щойно встав із ліжка і вже хоче повернутися до неї.</VBE_IrishCoffee.description>
+  <VBE_IrishCoffee.ingestible.ingestCommandString>Випити {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+  <VBE_IrishCoffee.ingestible.ingestReportString>п'є {0}</VBE_IrishCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

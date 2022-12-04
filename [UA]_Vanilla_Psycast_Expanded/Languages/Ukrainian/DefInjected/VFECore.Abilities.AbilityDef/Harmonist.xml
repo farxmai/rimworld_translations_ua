@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mind control -->
+  <VPE_Mindcontrol.label>контроль розуму</VPE_Mindcontrol.label>
+  <!-- EN:Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once. -->
+  <VPE_Mindcontrol.description>Психічно придушити волю цілі на короткий проміжок часу, який залежить від психічної чутливості цілі, що дає псіоніку друге тіло. Слід враховувати, що досить важко бути двома людьми одразу.</VPE_Mindcontrol.description>
+
+  <!-- EN:psychic guidance -->
+  <VPE_PsychicGuidance.label>психічне керівництво</VPE_PsychicGuidance.label>
+  <!-- EN:Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities. -->
+  <VPE_PsychicGuidance.description>Пригнічує органи сприйняття та здібність до взаємодії цілі в обмін на посилення її фізичних здібностей.</VPE_PsychicGuidance.description>
+
+  <!-- EN:transmute stone -->
+  <VPE_TransmuteStone.label>трансмутація каменю</VPE_TransmuteStone.label>
+  <!-- EN:>Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata. -->
+  <VPE_TransmuteStone.description>Камінь у зазначеній зоні буде замінений випадковим типом цінних мінералів із підземних родовищ.</VPE_TransmuteStone.description>
+
+  <!-- EN:heat focus -->
+  <VPE_HeatFocus.label>фокусування напруги</VPE_HeatFocus.label>
+  <!-- EN:Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. -->
+  <VPE_HeatFocus.description>Гармонізуюча медитація, яка перетворює всю накопичений психічну напругу на псіконцентрацію після 10 секунд медитації.</VPE_HeatFocus.description>
+
+  <!-- EN:luck transfer -->
+  <VPE_LuckTransfer.label>передача вдачі</VPE_LuckTransfer.label>
+  <!-- EN:Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity. -->
+  <VPE_LuckTransfer.description>Відкриває розрив у кармічному балансі, зміщуючи негативну карму від першої цілі у бік другої одночасно переводячи її позитивну карму. Впливає лише на бій та тривалість залежить від психічної чутливості цілі.</VPE_LuckTransfer.description>
+
+  <!-- EN:bend probability -->
+  <VPE_BendProbability.label>спотворити ймовірність</VPE_BendProbability.label>
+  <!-- EN:Creates a ripple of cosmic scale that will force something to happen. -->
+  <VPE_BendProbability.description>Створює хвилі космічного масштабу, які змусять щось статися.</VPE_BendProbability.description>
+
+  <!-- EN:location swap -->
+  <VPE_LocationSwap.label>рокірування</VPE_LocationSwap.label>
+  <!-- EN:Spawns two precise, single-use skipgates between the caster and the visible target, allowing them to trade places. -->
+  <VPE_LocationSwap.description>Відкриває пару надточних одноразових порталів, що дозволяють псіоніку та цілі помінятися місцями.</VPE_LocationSwap.description>
+
+  <!-- EN:health swap -->
+  <VPE_HealthSwap.label>обмін здоров'ям</VPE_HealthSwap.label>
+  <!-- EN: Creates an imbalance between the life forces of two people, causing all negative health conditions to flow from one to the other. Conditions that can’t be transferred are healed.-->
+  <VPE_HealthSwap.description>Дисбалансує життєві сили двох людей, переносячи всі негативні ефекти від однієї людини до іншої. Ефекти, які не можна перенести, зцілюються.</VPE_HealthSwap.description>
+
+  <!-- EN:transmutation -->
+  <VPE_Transmutation.label>трансмутація</VPE_Transmutation.label>
+  <!-- EN:Utilizing the alchemical foundation of equivalent exchange, converts a targeted item or stack of items into an object of equal or lesser value. Otherwise extremely unpredictable and uncontrollable. -->
+  <VPE_Transmutation.description>Використовуючи алхімічний принцип рівноцінного обміну, ця здібність дозволяє перетворити один або кілька предметів на інший, рівний або менший за вартістю. Вкрай непередбачувана та неконтрольована здібність.</VPE_Transmutation.description>
+
+  <!-- EN:skillroll -->
+  <VPE_SkillRoll.label>реорганізація навичок</VPE_SkillRoll.label>
+  <!-- EN:Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma for a day, but can be reduced with psychic sensitivity. -->
+  <VPE_SkillRoll.description>Ініціює хаотичні зрушення у свідомості цілі та її набутих навичках, найчастіше – з добрими намірами. Застосування цієї здібності вимагає від псіоніка значної концентрації сил, тому після її використання він занурюється в кому на один день. Цей час може бути меншим, залежно від психічної чутливості псіоніка.</VPE_SkillRoll.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Musk Ox -->
+
+  <AEXP_MuskOxWool.label>шерсть овцебика</AEXP_MuskOxWool.label>
+  <AEXP_MuskOxWool.description>Чудова шерсть вівцебика, відома також як ківіук. Міцніше і тепліше за зовні, а також м'якше, ніж кашемірова шерсть.</AEXP_MuskOxWool.description>
+  <AEXP_MuskOxWool.stuffProps.stuffAdjective>шерсті овцебика</AEXP_MuskOxWool.stuffProps.stuffAdjective>
+
+</LanguageData>

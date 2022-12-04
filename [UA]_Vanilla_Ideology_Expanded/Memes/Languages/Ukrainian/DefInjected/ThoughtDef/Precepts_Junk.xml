@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no junk -->
+  <VME_Junk_Beautiful.stages.0.label>немає мотлоху</VME_Junk_Beautiful.stages.0.label>
+  <!-- EN: It has been too long since I’ve seen junk. -->
+  <VME_Junk_Beautiful.stages.0.description>Ми давно не бачили мотлоху.</VME_Junk_Beautiful.stages.0.description>
+  <!-- EN: few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Beautiful.stages.1.label>мало шматків мотлоху (1 поблизу)</VME_Junk_Beautiful.stages.1.label>
+  <!-- EN: This area is way too sparse, I miss seeing the junk. -->
+  <VME_Junk_Beautiful.stages.1.description>Тут пусто і не вистачає мотлоху.</VME_Junk_Beautiful.stages.1.description>
+  <!-- EN: few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Beautiful.stages.2.label>кілька шматків мотлоху (2 поблизу)</VME_Junk_Beautiful.stages.2.label>
+  <!-- EN: This area has very few relics of ancient technology. -->
+  <VME_Junk_Beautiful.stages.2.description>Тут збкріглось декілька реліктив старих цивілацій.</VME_Junk_Beautiful.stages.2.description>
+  <!-- EN: few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Beautiful.stages.3.label>кілька шматків мотлоху (3 поблизу)</VME_Junk_Beautiful.stages.3.label>
+  <!-- EN: We need to gather more pieces of ancient junk. -->
+  <VME_Junk_Beautiful.stages.3.description>На треба більше реліквій старих цивілацій.</VME_Junk_Beautiful.stages.3.description>
+  <!-- EN: few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Beautiful.stages.4.label>кілька шматків мотлоху (4 поблизу)</VME_Junk_Beautiful.stages.4.label>
+  <!-- EN: We have too few pieces of ancient junk lying around. -->
+  <VME_Junk_Beautiful.stages.4.description>В нас є трохи мотлоху але цього недостатньо.</VME_Junk_Beautiful.stages.4.description>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Beautiful.stages.5.label>дуже дрібна купка мотлоху (5 поблизу)</VME_Junk_Beautiful.stages.5.label>
+  <!-- EN: We should gather at least a few more pieces. Our junkyard is lacking. -->
+  <VME_Junk_Beautiful.stages.5.description>Ми повинні зібрати ще хоча б кілька штук для нашого звалища.</VME_Junk_Beautiful.stages.5.description>
+  <!-- EN: small junk -->
+  <VME_Junk_Beautiful.stages.6.label>маленька купка мотлоху</VME_Junk_Beautiful.stages.6.label>
+  <!-- EN: I recently saw a small pile of junk. -->
+  <VME_Junk_Beautiful.stages.6.description>Мені попалася маленька купка мотлоху.</VME_Junk_Beautiful.stages.6.description>
+  <!-- EN: saw junk -->
+  <VME_Junk_Beautiful.stages.7.label>помітна купа мотлоху</VME_Junk_Beautiful.stages.7.label>
+  <!-- EN: I recently saw junk. -->
+  <VME_Junk_Beautiful.stages.7.description>Мені попалася помітна купка мотлоху.</VME_Junk_Beautiful.stages.7.description>
+  <!-- EN: amazing junk -->
+  <VME_Junk_Beautiful.stages.8.label>велика купа мотлоху</VME_Junk_Beautiful.stages.8.label>
+  <!-- EN: I am surrounded by junk. -->
+  <VME_Junk_Beautiful.stages.8.description>Мене оточує мотлох.</VME_Junk_Beautiful.stages.8.description>
+  <!-- EN: beautiful junk -->
+  <VME_Junk_Beautiful.stages.9.label>гора мотлоху</VME_Junk_Beautiful.stages.9.label>
+  <!-- EN: I am surrounded by a junkyard and I love it. -->
+  <VME_Junk_Beautiful.stages.9.description>Нарешті в нас є власне звалище!</VME_Junk_Beautiful.stages.9.description>
+
+  <!-- EN: no junk -->
+  <VME_Junk_Preferred.stages.0.label>немає мотлоху</VME_Junk_Preferred.stages.0.label>
+  <!-- EN: I'd prefer if the colony had some examples of ancient junk. -->
+  <VME_Junk_Preferred.stages.0.description>Я хотів би, щоб у поселенні були зразки стародавнього мотлоху.</VME_Junk_Preferred.stages.0.description>
+  <!-- EN: few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Preferred.stages.1.label>мало шматків мотлоху (1 поблизу)</VME_Junk_Preferred.stages.1.label>
+  <!-- EN: This area is way too sparse, we could learn a lot from ancient technology. -->
+  <VME_Junk_Preferred.stages.1.description>Ця місцевість занадто порожня, адже ми могли б багато чого навчитися у стародавніх.</VME_Junk_Preferred.stages.1.description>
+  <!-- EN: few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Preferred.stages.2.label>кілька шматків мотлоху (2 поблизу)</VME_Junk_Preferred.stages.2.label>
+  <!-- EN: This area has very few relics of ancient technology. -->
+  <VME_Junk_Preferred.stages.2.description>У цьому вся районі збереглося обмаль реліквій древніх технологій.</VME_Junk_Preferred.stages.2.description>
+  <!-- EN: few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Preferred.stages.3.label>кілька шматків мотлоху (3 поблизу)</VME_Junk_Preferred.stages.3.label>
+  <!-- EN: We need to gather more pieces of ancient junk. -->
+  <VME_Junk_Preferred.stages.3.description>Нам потрібно зібрати побільше уламків древнього мотлоху.</VME_Junk_Preferred.stages.3.description>
+  <!-- EN: few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Preferred.stages.4.label>кілька шматків мотлоху (4 поблизу)</VME_Junk_Preferred.stages.4.label>
+  <!-- EN: We have too few pieces of ancient junk lying around. -->
+  <VME_Junk_Preferred.stages.4.description>Навколо нас валяється недостатньо предметів стародавнього мотлоху.</VME_Junk_Preferred.stages.4.description>
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Preferred.stages.5.label>дуже дрібна купка мотлоху (5 поблизу)</VME_Junk_Preferred.stages.5.label>
+  <!-- EN: We should gather at least a few more pieces. We can learn a lot from ancient technology. -->
+  <VME_Junk_Preferred.stages.5.description>Ми маємо зібрати ще хоча б кілька шматочків. Ми могли б багато дізнатися зі стародавніх технологій.</VME_Junk_Preferred.stages.5.description>
+  <!-- EN: small junk -->
+  <VME_Junk_Preferred.stages.6.label>маленька купка мотлоху</VME_Junk_Preferred.stages.6.label>
+  <!-- EN: I recently saw a small pile of junk. -->
+  <VME_Junk_Preferred.stages.6.description>Мені попалася маленька купка мотлоху.</VME_Junk_Preferred.stages.6.description>
+  <!-- EN: saw junk -->
+  <VME_Junk_Preferred.stages.7.label>помітна купа мотлоху</VME_Junk_Preferred.stages.7.label>
+  <!-- EN: I recently saw junk. -->
+  <VME_Junk_Preferred.stages.7.description>Мені попалася помітна купка мотлоху.</VME_Junk_Preferred.stages.7.description>
+  <!-- EN: plenty of junk -->
+  <VME_Junk_Preferred.stages.8.label>велика купа мотлоху</VME_Junk_Preferred.stages.8.label>
+  <!-- EN: I am surrounded by junk. -->
+  <VME_Junk_Preferred.stages.8.description>Мене оточує мотлох.</VME_Junk_Preferred.stages.8.description>
+  <!-- EN: lots of junk -->
+  <VME_Junk_Preferred.stages.9.label>гора мотлоху</VME_Junk_Preferred.stages.9.label>
+  <!-- EN: I am surrounded by a junkyard. I find these examples of ancient technology to be fascinating. -->
+  <VME_Junk_Preferred.stages.9.description>Мене оточує звалище. Зразки стародавніх технологій довкола мене захоплюють дух.</VME_Junk_Preferred.stages.9.description>
+</LanguageData>

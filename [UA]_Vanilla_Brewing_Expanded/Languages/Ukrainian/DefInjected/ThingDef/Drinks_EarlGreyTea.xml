@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_EarlGreyTea.label>Ерл Грей</VBE_EarlGreyTea.label>
+	<VBE_EarlGreyTea.description>Дуже міцний напівсолодкий фруктовий чай. Квіткові ноти танцюють навколо підборіддя навіть при тьмяному ароматі. Люди, які допивають цей напій, відчувають дивний потяг до колонізації.</VBE_EarlGreyTea.description>
+	<VBE_EarlGreyTea.ingestible.ingestCommandString>Випити {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+	<VBE_EarlGreyTea.ingestible.ingestReportString>п'є {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+
+</LanguageData>

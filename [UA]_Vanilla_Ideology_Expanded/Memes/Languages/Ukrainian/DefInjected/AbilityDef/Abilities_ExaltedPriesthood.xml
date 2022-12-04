@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: conversion ritual (leader) -->
+  <VME_LeaderConversionRitual.label>ритуал звернення (лідер)</VME_LeaderConversionRitual.label>
+  <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
+  <VME_LeaderConversionRitual.description>Спробуйте переконати когось прийняти ваші переконання. Якщо все пройде добре, той втратить упевненість у своїй ідеолігії і може навіть зректися неї. Провал призведе лише до підвищення впевненості у поглядах.\n\nПровести ритуал можна біля місця проведення ритуалу або відповідного вівтаря/ідеограми.</VME_LeaderConversionRitual.description>
+
+  <!-- EN: convert (leader) -->
+  <VME_LeaderConvert.label>звернення (лідер)</VME_LeaderConvert.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <VME_LeaderConvert.description>Спроба навернути когось до ідеолігії промовця. Це зменшить впевненість об’єкта у власних переконаннях. Зниження впевненості залежить від здатності мовця вести переговори.</VME_LeaderConvert.description>
+  <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
+  <VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не {INITIATOR_gender ? зміг : змогла} навернути {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? невдоволений : невдоволена} тим, що {RECIPIENT_possessive} намагалися звернути до іншої ідеолігію, проте, {RECIPIENT_possessive} впевненість у власних переконаннях знизилася з {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
+  <VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? навернув : навернула} {RECIPIENT_labelShort} у {IDEO}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>
+
+  <!-- EN: preach health (leader) -->
+  <VME_LeaderPreachHealth.label>проповідь за здоров'я (лідер)</VME_LeaderPreachHealth.label>
+  <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
+  <VME_LeaderPreachHealth.description>Провести проповідь, щоб зміцнити волю хворого чи пораненого. Це прискорить загоєння його ран та формування імунітету.</VME_LeaderPreachHealth.description>
+
+  <!-- EN: reassure (leader) -->
+  <VME_LeaderReassure.label>розвіювання сумнівів (лідер)</VME_LeaderReassure.label>
+  <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability.< -->
+  <VME_LeaderReassure.description>Збільшити чиюсь впевненість у власних переконаннях. Відновлена впевненість ґрунтується на здатності мовця вести переговори.</VME_LeaderReassure.description>
+  <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
+  <VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? розвіяв : розвіяла} сумніви {RECIPIENT_labelShort}, {RECIPIENT_possessive} впевненість у {IDEO} підвищено з {BEFORECERTAINTY} до {AFTERCERTAINTY}.</VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>
+
+  <!-- EN: Counsel (leader) -->
+  <VME_LeaderCounsel.label>підтримка (лідер)</VME_LeaderCounsel.label>
+  <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
+  <VME_LeaderCounsel.description>Запропонувати комусь втіху та підтримку, щоб скасувати негативний ефект від одного сумного спогаду. Шанс успіху залежить від соціальних навичок та стосунків зі слухачем.</VME_LeaderCounsel.description>
+  <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} не {INITIATOR_gender ? зміг : змогла} втішити {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? засмучений : засмучена}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} успішно {INITIATOR_gender ? втішив : втішила} {RECIPIENT_labelShort}. Це перекрило негативний ефект від {2}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
+  <VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успішно {INITIATOR_gender ? втішив : втішила} {RECIPIENT_labelShort}. Це покращило {RECIPIENT_possessive} настрій на {MOODBONUS}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+</LanguageData>

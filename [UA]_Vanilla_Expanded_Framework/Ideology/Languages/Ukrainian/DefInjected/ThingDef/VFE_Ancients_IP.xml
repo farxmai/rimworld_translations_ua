@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wall lamp -->
+  <VFEA_WallDarkLamp.label>тьмяна лампа</VFEA_WallDarkLamp.label>
+  <!-- EN: An electrical wall lamp, producing darklight. Ideal to light up corridors in a vault. -->
+  <VFEA_WallDarkLamp.description>Електрична тьмяна настінна лампа. Ідеальна для освітлення коридорів у сховищі.</VFEA_WallDarkLamp.description>
+</LanguageData>

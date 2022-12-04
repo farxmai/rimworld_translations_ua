@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <napoleonBonaparty.label>Наполеонівська вечірка</napoleonBonaparty.label>
+  <napoleonBonaparty.description>Зробити 10 мушкетів</napoleonBonaparty.description>
+
+  <poshRockLobber.label>Шикарний кидок</poshRockLobber.label>
+  <poshRockLobber.description>Зробити нефритові метальні камені</poshRockLobber.description>
+
+  <burnThemAll.label>Спалити їх усіх!</burnThemAll.label>
+  <burnThemAll.description>Зробити вогнемет</burnThemAll.description>
+
+  <gunsGallore.label>Лендліз</gunsGallore.label>
+  <gunsGallore.description>Дослідити спеціалізовану зброю</gunsGallore.description>
+
+  <superCharged.label>Супер-Енергія</superCharged.label>
+  <superCharged.description>Зробити легендарний енергетичний мініган</superCharged.description>
+</LanguageData>

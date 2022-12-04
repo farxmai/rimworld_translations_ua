@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Shield -->
+	<VanillaFactionsExpanded.EquipShield>Спорядити {0} як щит</VanillaFactionsExpanded.EquipShield>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusable>(несумісний з {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} несумісний)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+	<VanillaFactionsExpanded.Protects>Захищає</VanillaFactionsExpanded.Protects>
+	<VanillaFactionsExpanded.Protects_Desc>Які частини тіла захищає щит.</VanillaFactionsExpanded.Protects_Desc>
+
+	<!-- Scenario parts -->
+	<VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Модифікатори відносин фракцій</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+	<VanillaFactionsExpanded.NumberRange>від {0} до {1}</VanillaFactionsExpanded.NumberRange>
+	<VanillaFactionsExpanded.AllFactions>Усі фракції</VanillaFactionsExpanded.AllFactions>
+	<VanillaFactionsExpanded.AllFactionsIncludingHidden>Усі фракції, включно з прихованими</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+	<VanillaFactionsExpanded.AlwaysHostile>Завжди ворожі</VanillaFactionsExpanded.AlwaysHostile>
+	<VanillaFactionsExpanded.AffectHiddenFactions>Впливати на приховані</VanillaFactionsExpanded.AffectHiddenFactions>
+	<VanillaFactionsExpanded.StartingGoodwill>Зі старту</VanillaFactionsExpanded.StartingGoodwill>
+	<VanillaFactionsExpanded.NaturalGoodwill>Звичайні</VanillaFactionsExpanded.NaturalGoodwill>
+
+	<!-- Stat Draw Entries -->
+	<VanillaFactionsExpanded.UsableWithShield>Використання зі щитами</VanillaFactionsExpanded.UsableWithShield>
+	<VanillaFactionsExpanded.UsableWithShield_Desc>Чи можна використовувати цю зброю, якщо пішак також має щит.</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+	<!-- New Faction Spawning -->
+	<VanillaFactionsExpanded.FactionTitle>Нова фракція: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<VanillaFactionsExpanded.ModInfo>Ця фракція була додана модом під назвою "{ModName}", і в даний час не присутня у вашій грі.</VanillaFactionsExpanded.ModInfo>
+	<VanillaFactionsExpanded.AnUnknownMod>невідомий мод</VanillaFactionsExpanded.AnUnknownMod>
+	<VanillaFactionsExpanded.HiddenFactionInfo>Це прихована фракція, і вона не відображатиметься у вашому списку фракцій.</VanillaFactionsExpanded.HiddenFactionInfo>
+	<VanillaFactionsExpanded.RequiredFactionInfo>Відзначено, як необхідне для моду "{ModName}".</VanillaFactionsExpanded.RequiredFactionInfo>
+	<VanillaFactionsExpanded.NonSpawningFactionInfo>Ця фракція відзначена як така, що не спавниться, і вам, ймовірно, слід просто ігнорувати її.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<VanillaFactionsExpanded.FactionSelectOption>Будь ласка, виберіть, як діяти:</VanillaFactionsExpanded.FactionSelectOption>
+	<VanillaFactionsExpanded.FactionButtonAdd>Додати фракцію</VanillaFactionsExpanded.FactionButtonAdd>
+	<VanillaFactionsExpanded.FactionButtonAddFull>Додати фракцію з поселеннями</VanillaFactionsExpanded.FactionButtonAddFull>
+	<VanillaFactionsExpanded.FactionButtonSkip>Нічого не робити</VanillaFactionsExpanded.FactionButtonSkip>
+	<VanillaFactionsExpanded.FactionButtonIgnore>Більше не вимагати цю фракцію знову</VanillaFactionsExpanded.FactionButtonIgnore>
+	<VanillaFactionsExpanded.FactionMessageFailed>Не вдалося додати фракцію.</VanillaFactionsExpanded.FactionMessageFailed>
+	<VanillaFactionsExpanded.FactionMessageFailedFull>Не вдалося створити фракцію з поселеннями.</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<VanillaFactionsExpanded.FactionMessageSuccessFull>Додано {FactionName} з {Amount} поселеннями.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<VanillaFactionsExpanded.FactionMessageSuccess>Додано {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+
+	<VanillaFactionsExpanded.FactionSettlementsToSpawn>Поселення для спавна (рекомендовано {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<VanillaFactionsExpanded.FactionMinDistance>Мінімальна відстань від поселень (рекомендовано {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+	<VanillaFactionsExpanded.FactionButtonSpawn>Заспавнити</VanillaFactionsExpanded.FactionButtonSpawn>
+	<VanillaFactionsExpanded.FactionButtonCancel>Скасувати</VanillaFactionsExpanded.FactionButtonCancel>
+
+	<VSE.Reinforcements>Підкріплення</VSE.Reinforcements>
+	<VSE.ReinforcementsDesc>Бачачи, що ваші війська зазнали втрат, {FACTION_name} вирішили посилити свої рейди.</VSE.ReinforcementsDesc>
+
+	<VSE.CostGoodwill>вартість: {0} очок репутації</VSE.CostGoodwill>
+
+	<VWEL_ToggleHotshotLabel>Перегрів зброї</VWEL_ToggleHotshotLabel>
+	<VWEL_ToggleHotshotDesc>Постріли, зроблені безперервно, розігрівають зброю, в обмін на збільшений темп стрілянини. Перегрівання може призвести до детонації зброї.</VWEL_ToggleHotshotDesc>
+
+	<VFE_DeepDrillNo>Бурильну установку неможливо використовувати з {0}.</VFE_DeepDrillNo>
+
+</LanguageData>

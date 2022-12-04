@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: General Settings -->
+  <NL_FA_Core_GeneralSettings>Базові налаштування</NL_FA_Core_GeneralSettings>
+
+  <!-- EN: Force No-Cache -->
+  <NL_FA_Force_No-Cache>Режим «без кешу»</NL_FA_Force_No-Cache>
+  <!-- EN: When Conflicting other forced update mods, please disable this feature. -->
+  <NL_FA_Force_No-Cache_Hint>У разі конфліктів з іншими модами, що включають примусове оновлення, режим слід вимкнути.</NL_FA_Force_No-Cache_Hint>
+
+  <!-- EN: Enable Facial Animation in Portraits -->
+  <NL_FA_Enable_Facial_Animation_in_Portraits>Увімкнути лицьові анімації на портретах</NL_FA_Enable_Facial_Animation_in_Portraits>
+  <!-- EN: If your game is slow, please increase the update interval or disable this feature. -->
+  <NL_FA_Enable_Facial_Animation_in_Portraits_Hint>Якщо гра почала працювати повільно, збільште інтервал оновлення або вимкніть цей параметр.</NL_FA_Enable_Facial_Animation_in_Portraits_Hint>
+  
+  <!-- EN: Update Interval:{0} Ticks -->
+  <NL_FA_Update_Interval>Інтервал оновлення: {0} тиків</NL_FA_Update_Interval>
+
+  <!-- EN: Draw Settings -->
+  <NL_FA_Draw_Settings>Налаштування промальовки</NL_FA_Draw_Settings>
+
+  <!-- EN: Switch Left And Right Eyes -->
+  <NL_FA_Switch_Left_And_Right_Eyes>Переключити праве та ліве око</NL_FA_Switch_Left_And_Right_Eyes>
+  <!-- EN: Fix an issue where the left and right eye scars are swapped. -->
+  <NL_FA_Switch_Left_And_Right_Eyes_Hint>Дозволяє виправити проблему, коли шрами на правому та лівому оці помінялися місцями.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
+
+  <!-- EN: Draw the eyebrows above the hat. -->
+  <NL_FA_Draw_the_eyebrows_above_the_hat>Малювати брови поверх головних уборів</NL_FA_Draw_the_eyebrows_above_the_hat>
+  <!-- EN: Draw the eyebrows above the hat. -->
+  <NL_FA_Draw_the_eyebrows_above_the_hat_Hint>Малювати брови поверх головних уборів.</NL_FA_Draw_the_eyebrows_above_the_hat_Hint>
+
+  <!-- EN: Animation Settings -->
+  <NL_FA_Animation_Settings>Налаштування анімацій</NL_FA_Animation_Settings>
+
+  <!-- EN: Apply Facial Animation's Heads to Males -->
+  <NL_FA_Enable_Male_Drawing>Застосовувати лицьові анімації до чоловіків</NL_FA_Enable_Male_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Males -->
+  <NL_FA_Enable_Male_Drawing_Hint>Застосовувати лицьові анімації до чоловіків.</NL_FA_Enable_Male_Drawing_Hint>
+
+  <!-- EN: Apply Facial Animation's Heads to Females -->
+  <NL_FA_Enable_Female_Drawing>Застосовувати лицьові анімації до жінок</NL_FA_Enable_Female_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Females -->
+  <NL_FA_Enable_Female_Drawing_Hint>Застосовувати лицьові анімації до жінок.</NL_FA_Enable_Female_Drawing_Hint>
+
+  <!-- EN: Apply Facial Animation's Heads to Non-binary Races -->
+  <NL_FA_Enable_Neither_Drawing>Застосовувати лицьові анімації до небінарних рас</NL_FA_Enable_Neither_Drawing>
+  <!-- EN: Apply Facial Animation's Heads to Non-binary Races -->
+  <NL_FA_Enable_Neither_Drawing_Hint>Застосовувати лицьові анімації до небінарних рас.</NL_FA_Enable_Neither_Drawing_Hint>
+
+  <!-- EN: Enable Facial Animation for Non-Colonists. -->
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists>Включити лицьові анімації для не-колоністів</NL_FA_Enable_Facial_Animation_For_Non_Colonists>
+  <!-- EN: If disabled, it stop to apply non-colonists's animations. It will reduce the load on the facial animation's load. -->
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>Коли вимкнено, анімації більше не працюють у всіх, хто не є вашим колоністом. Це дозволить підвищити продуктивність гри.</NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>
+
+  <!-- EN: Remove all images above eyes. -->
+  <NL_FA_Remove_Eye_Hediff_Graphic>Видалити все, що перекриває очі</NL_FA_Remove_Eye_Hediff_Graphic>
+  <!-- EN: When enabled, nothing will be displayed when blindness, eye sensors or Alcotech eyes are worn. -->
+  <NL_FA_Remove_Eye_Hediff_Graphic_Hint>При включенні, у персонажів не відображатимуться ефекти сліпоти, зорових сенсорів та архоочей.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
+</LanguageData>

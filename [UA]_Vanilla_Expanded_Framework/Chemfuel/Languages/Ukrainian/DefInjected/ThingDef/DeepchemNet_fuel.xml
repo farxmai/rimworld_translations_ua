@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: deepchem pipe -->
+  <VCHE_DeepchemPipe.label>глибопаливна труба</VCHE_DeepchemPipe.label>
+  <!-- EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_DeepchemPipe.description>Міцна сталева труба призначена для транспортування глибинного палива від насосів до переробника або цистерни.</VCHE_DeepchemPipe.description>
+
+  <!-- EN: subterranean deepchem pipe -->
+  <VCHE_UndergroundDeepchemPipe.label>підземна глибопаливна труба</VCHE_UndergroundDeepchemPipe.label>
+  <!-- EN: Subterranean heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_UndergroundDeepchemPipe.description>Міцна підземна сталева труба призначена для транспортування глибинного палива від насосів до переробника або цистерни.</VCHE_UndergroundDeepchemPipe.description>
+
+  <!-- EN: deepchem tank -->
+  <PS_DeepchemTank.label>цистерна глибопалива</PS_DeepchemTank.label>
+  <!-- EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
+  <PS_DeepchemTank.description>Велика ємність промислового рівня для зберігання глибинного палива. Паливо з цистерн надходитиме за необхідності. Будьте обережні: навіть найлегше пошкодження може спричинити вибух, розмір якого залежатиме від кількості палива, що зберігається.</PS_DeepchemTank.description>
+
+  <!-- EN: deepchem refinery -->
+  <PS_DeepchemRefinery.label>глибопаливний переробник</PS_DeepchemRefinery.label>
+  <!-- EN: A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing. -->
+  <PS_DeepchemRefinery.description>Складна машина, що переробляє глибопаливо в нестабільне рідке хімпаливо. Якщо вона не приєднана до труб чи цистерн, готове хімпаливо розливатиметься каністрами. Якщо вона виявить труби чи цистерни, готове хімпаливо транспортуватиметься до цистерн.</PS_DeepchemRefinery.description>
+
+  <!-- EN: deepchem pumpjack -->
+  <VCHE_DeepchemPumpjack.label>глибопаливний насос</VCHE_DeepchemPumpjack.label>
+  <!-- EN: A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely. -->
+  <VCHE_DeepchemPumpjack.description>Бурове установка для видобутку глибинного палива з-під поверхні. Використовуйте глибинні сканери для виявлення родовищ. глибоко паливо можна переробляти в хімпаливо та транспортувати трубопроводом.</VCHE_DeepchemPumpjack.description>
+
+  <!-- EN: deepchem tap -->
+  <VCHE_DeepchemTap.label>клапан глибопалива</VCHE_DeepchemTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later. -->
+  <VCHE_DeepchemTap.description>Резервуар, схожий на вирву. Призначений для періодичного відведення глибопалива із цистерн для подальшого використання.</VCHE_DeepchemTap.description>
+
+  <!-- EN: deepchem drain -->
+  <VCHE_DeepchemDrain.label>злив глибопалива</VCHE_DeepchemDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks. -->
+  <VCHE_DeepchemDrain.description>Резервуар, схожий на вирву. Призначений для заливу глибопалива у трубопровід та наповнення під'єднаних цистерн.</VCHE_DeepchemDrain.description>
+
+  <!-- EN: deepchem valve -->
+  <VCHE_DeepchemValve.label>вентиль глибопалива</VCHE_DeepchemValve.label>
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepchemValve.description>Відкриває чи перекриває потік палива.</VCHE_DeepchemValve.description>
+</LanguageData>

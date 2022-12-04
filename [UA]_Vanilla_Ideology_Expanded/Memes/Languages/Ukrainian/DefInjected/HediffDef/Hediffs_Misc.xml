@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: medical emergency -->
+  <VME_MedicalEmergencyHediff.label>надзвичайна ситуація</VME_MedicalEmergencyHediff.label>
+  <!-- EN: Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly. -->
+  <VME_MedicalEmergencyHediff.description>Зупиняє на 12 годин зростання потреби у відпочинку, задоволеності та ситості. Протягом цього часу колоніст займатиметься виключно лікуванням.</VME_MedicalEmergencyHediff.description>
+</LanguageData>

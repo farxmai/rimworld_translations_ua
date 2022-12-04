@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Українська мова для Vanilla Skills Expanded</name>
+  <author>Farxmai2</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>Farxmai2.VanillaSkillsExpanded.UA</packageId>
+  <description>Переклад українською мовою Vanilla Skills Expanded.\n\n(створено на основі перекладу від MrPetroveg)</description>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2896076916</url>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.Skills</packageId>
+      <displayName>Vanilla Skills Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2854967442</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VanillaExpanded.Skills</li>
+  </loadAfter>
+</ModMetaData>

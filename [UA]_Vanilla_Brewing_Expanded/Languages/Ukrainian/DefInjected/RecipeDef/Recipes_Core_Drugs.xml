@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_PsychiteTea.label>приготувати психіновий чай</Make_PsychiteTea.label>
+  <Make_PsychiteTea.description>Приготувати психіновий чай.</Make_PsychiteTea.description>
+  <Make_PsychiteTea.jobString>готує психіновий чай</Make_PsychiteTea.jobString>
+
+  <Make_SmokeleafJoint.label>зробити самокрутку з димолисту</Make_SmokeleafJoint.label>
+  <Make_PsychiteTea.description>Зробити самокрутку з димолисту.</Make_PsychiteTea.description>
+  <Make_SmokeleafJoint.jobString>виготовляє самокрутку з димолисту</Make_SmokeleafJoint.jobString>
+
+  <Make_GoJuice.label>синтезувати го-сік</Make_GoJuice.label>
+  <Make_GoJuice.description>Синтезувати Го-Сік.</Make_GoJuice.description>
+  <Make_GoJuice.jobString>Синтезує го-сік.</Make_GoJuice.jobString>
+
+  <Make_WakeUp.label>синтезувати бадьорин</Make_WakeUp.label>
+  <Make_WakeUp.description>Синтезувати бадьорин.</Make_WakeUp.description>
+  <Make_WakeUp.jobString>Синтезує бадьорин.</Make_WakeUp.jobString>
+
+  <Make_Penoxycyline.label>синтезувати пеноксіциклін</Make_Penoxycyline.label>
+  <Make_Penoxycyline.description>Синтезувати пеноксіциклін.</Make_Penoxycyline.description>
+  <Make_Penoxycyline.jobString>Синтезує пеноксіциклін</Make_Penoxycyline.jobString>
+
+  <Make_Flake.label>синтезувати психінові пластівці</Make_Flake.label>
+  <Make_Flake.description>Синтезувати психінові пластівці.</Make_Flake.description>
+  <Make_Flake.jobString>Синтезує психінові пластівці</Make_Flake.jobString>
+
+  <Make_Yayo.label>синтезувати психіновий порошок</Make_Yayo.label>
+  <Make_Yayo.description>Синтезувати психіновий порошок.</Make_Yayo.description>
+  <Make_Yayo.jobString>Синтезує психіновий порошок</Make_Yayo.jobString>
+
+  <!-- Bulk -->
+
+  <Make_PsychiteTeaBulk.label>приготувати психіновий чай х4</Make_PsychiteTeaBulk.label>
+  <Make_PsychiteTeaBulk.description>Приготувати психіновий чай.</Make_PsychiteTeaBulk.description>
+  <Make_PsychiteTeaBulk.jobString>готує психіновий чай</Make_PsychiteTeaBulk.jobString>
+
+  <Make_SmokeleafJointBulk.label>зробити самокрутку з димолисту х4</Make_SmokeleafJointBulk.label>
+  <Make_SmokeleafJointBulk.description>Зробити самокрутку з димолисту.</Make_SmokeleafJointBulk.description>
+  <Make_SmokeleafJointBulk.jobString>виготовляє самокрутку з димолисту</Make_SmokeleafJointBulk.jobString>
+
+  <Make_GoJuiceBulk.label>синтезувати го-сік х4</Make_GoJuiceBulk.label>
+  <Make_GoJuiceBulk.description>Синтезувати Го-Сік.</Make_GoJuiceBulk.description>
+  <Make_GoJuiceBulk.jobString>Синтезує го-сік.</Make_GoJuiceBulk.jobString>
+
+  <Make_WakeUpBulk.label>синтезувати бадьорин х4</Make_WakeUpBulk.label>
+  <Make_WakeUpBulk.description>Синтезувати бадьорин.</Make_WakeUpBulk.description>
+  <Make_WakeUpBulk.jobString>Синтезує бадьорин.</Make_WakeUpBulk.jobString>
+
+  <Make_PenoxycylineBulk.label>синтезувати пеноксіциклін х4</Make_PenoxycylineBulk.label>
+  <Make_PenoxycylineBulk.description>Синтезувати пеноксіциклін.</Make_PenoxycylineBulk.description>
+  <Make_PenoxycylineBulk.jobString>Синтезує пеноксіциклін</Make_PenoxycylineBulk.jobString>
+
+  <Make_FlakeBulk.label>синтезувати психінові пластівці х4</Make_FlakeBulk.label>
+  <Make_FlakeBulk.description>Синтезувати психінові пластівці.</Make_FlakeBulk.description>
+  <Make_FlakeBulk.jobString>Синтезує психінові пластівці</Make_FlakeBulk.jobString>
+
+  <Make_YayoBulk.label>синтезувати психіновий порошок х4</Make_YayoBulk.label>
+  <Make_YayoBulk.description>Синтезувати психіновий порошок.</Make_YayoBulk.description>
+  <Make_YayoBulk.jobString>Синтезує психіновий порошок</Make_YayoBulk.jobString>
+
+</LanguageData>

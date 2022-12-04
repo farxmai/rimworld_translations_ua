@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- DesertTortoise -->
+
+  <AEXP_EggDesertTortoiseUnfertilized.label>яйце пустельної черепахи (незапліднене)</AEXP_EggDesertTortoiseUnfertilized.label>
+  <AEXP_EggDesertTortoiseUnfertilized.description>Незапліднене яйце пустельної черепахи. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggDesertTortoiseUnfertilized.description>
+
+  <AEXP_EggDesertTortoiseFertilized.label>яйце пустельної черепахи (запліднене)</AEXP_EggDesertTortoiseFertilized.label>
+  <AEXP_EggDesertTortoiseFertilized.description>Запліднене яйце пустельної черепахи.Якщо все піде добре, з нього вилупиться пустельна черепашка. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggDesertTortoiseFertilized.description>
+
+
+  <!-- Gila Monster -->
+
+  <AEXP_EggGilaMonsterUnfertilized.label>яйце отрутозуба (незапліднене)</AEXP_EggGilaMonsterUnfertilized.label>
+  <AEXP_EggGilaMonsterUnfertilized.description>Незапліднене яйце отрутозуба. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggGilaMonsterUnfertilized.description>
+
+  <AEXP_EggGilaMonsterFertilized.label>яйце отрутозуба (запліднене)</AEXP_EggGilaMonsterFertilized.label>
+  <AEXP_EggGilaMonsterFertilized.description>Запліднене яйце отрутозуба.Якщо все піде добре, з нього вилупиться дитинча отрутозуба. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggGilaMonsterFertilized.description>
+
+</LanguageData>

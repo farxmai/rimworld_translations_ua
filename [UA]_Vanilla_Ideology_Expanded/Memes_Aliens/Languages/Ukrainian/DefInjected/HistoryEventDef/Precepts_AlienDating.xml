@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- begin romance with alien -->
+  <HAR_AlienDating_BeginRomance.label>зустрічається з інопланетянином</HAR_AlienDating_BeginRomance.label>
+  <!-- share bed with alien -->
+  <HAR_AlienDating_SharedBed.label>спить з інопланетянином</HAR_AlienDating_SharedBed.label>
+  <!-- in a relationship with alien -->
+  <HAR_AlienDating_Dating.label>у відносинах з інопланетянином</HAR_AlienDating_Dating.label>
+
+</LanguageData>

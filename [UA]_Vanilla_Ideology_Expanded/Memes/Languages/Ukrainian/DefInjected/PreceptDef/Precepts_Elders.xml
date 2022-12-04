@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: despised -->
+  <VME_Elders_Despised.label>зневага</VME_Elders_Despised.label>
+  <!-- EN: What is this, a retirement home? Get out of my way, fossil! -->
+  <VME_Elders_Despised.description>Тут що, будинок для людей похилого віку? Геть з дороги, старий!</VME_Elders_Despised.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>Старість (більше 65 років)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Youth (less than 25 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Молодість (менше 25 років)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: respected -->
+  <VME_Elders_Respected.label>повага</VME_Elders_Respected.label>
+  <!-- EN: True wisdom comes only with age, and those who have seen many seasons are to be venerated. -->
+  <VME_Elders_Respected.description>Справжня мудрість приходить тільки з віком, і ті, хто прожив стільки років, заслуговують на повагу.</VME_Elders_Respected.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>Старість (більше 65 років)</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: holy -->
+  <VME_Elders_Holy.label>святість</VME_Elders_Holy.label>
+  <!-- EN: Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists older than 65 will not do dumb labor. -->
+  <VME_Elders_Holy.description>Наших старших слід поважати, шанувати та оберігати від важкої праці.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Колоністи старші 65 років не займатимуться простою роботою.</VME_Elders_Holy.description>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>Старість (більше 65 років)</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
+</LanguageData>

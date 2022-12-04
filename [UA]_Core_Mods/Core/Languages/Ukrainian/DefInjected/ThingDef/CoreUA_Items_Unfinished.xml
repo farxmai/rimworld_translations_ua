@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>предмет</MinifiedThing.label>
+
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>викопане дерево</MinifiedTree.label>
+
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>незакінчений одяг</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>Предмет одягу у процесі виготовлення.</UnfinishedApparel.description>
+
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>незакінчена проста броня</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>Елемент простої броні у процесі виготовлення.</UnfinishedArmor.description>
+
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>незакінчений пояс</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>Пояс у процесі виготовлення.</UnfinishedBelt.description>
+
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>незакінчений компонент</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>Компонент у процесі виготовлення.</UnfinishedComponent.description>
+
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>незакінчена вогнепальна зброя</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>Вогнепальна зброя в процесі виготовлення.</UnfinishedGun.description>
+
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>незакінчений біонічний протез</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>незакінчена біонічна частина.</UnfinishedHealthItemBionic.description>
+
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>незакінчений протез</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>незакінчений протез.</UnfinishedHealthItemProsthetic.description>
+
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>незакінчена металева броня</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>Елемент простої броні у процесі виготовлення.</UnfinishedMetallicTechArmor.description>
+
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>незакінчене спорядження</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>Незакінчений предмет спорядження.</UnfinishedPack.description>
+
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>незакінчена скульптура</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>Скульптура у процесі створення.</UnfinishedSculpture.description>
+
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>незакінчена просунута броня</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>Елемент високотехнологічної броні у процесі виготовлення.</UnfinishedTechArmor.description>
+
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>незакінчена зброя</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>Зброя у процесі виготовлення.</UnfinishedWeapon.description>
+
+</LanguageData>

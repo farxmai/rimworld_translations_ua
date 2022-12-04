@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bladder.label>туалет</Bladder.label>
+  <Bladder.description>Щоб уникнути хвороб, необхідно підтримувати відповідний рівень природних потреб, вчасно позбавляючись біологічних відходів і запобігаючи їх потраплянню у водні запаси.</Bladder.description>
+
+
+  <!-- DONT CHANGE NAMES WILL BREAK RIMHUD -->
+
+  <Hygiene.label>гігієна</Hygiene.label>
+  <Hygiene.description>Особистої гігієни важливо дотримуватись для зменшення ризику виникнення хвороб та підтримки здорового та щасливого стану колоністів.</Hygiene.description>
+
+
+  <!-- COMMON SENSE WILL FORCE THEM TO DRINK WHEN THIRST FALLS TO ONLY 80% -->
+
+  <DBHThirst.label>спрага</DBHThirst.label>
+  <DBHThirst.description>Вода потрібна для підтримки багатьох фізіологічних процесів. При досягненні нульової позначки шкали організм повільно вмирає від зневоднення.</DBHThirst.description>
+
+
+</LanguageData>

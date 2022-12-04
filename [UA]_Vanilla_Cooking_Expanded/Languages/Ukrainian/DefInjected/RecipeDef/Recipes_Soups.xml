@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookSoupSimple.label>приготувати простий суп</VCE_CookSoupSimple.label>
+  <VCE_CookSoupSimple.description>Приготувати простий суп.</VCE_CookSoupSimple.description>
+  <VCE_CookSoupSimple.jobString>готує простий суп</VCE_CookSoupSimple.jobString>
+
+  <VCE_CookSoupFine.label>приготувати чудовий суп</VCE_CookSoupFine.label>
+  <VCE_CookSoupFine.description>Приготувати чудовий суп.</VCE_CookSoupFine.description>
+  <VCE_CookSoupFine.jobString>готує чудовий суп</VCE_CookSoupFine.jobString>
+
+  <VCE_CookSoupLavish.label>приготувати вишуканий суп</VCE_CookSoupLavish.label>
+  <VCE_CookSoupLavish.description>Приготувати вишуканий суп.</VCE_CookSoupLavish.description>
+  <VCE_CookSoupLavish.jobString>готує вишуканий суп</VCE_CookSoupLavish.jobString>
+
+  <VCE_CookSoupGourmet.label>приготувати першокласний суп</VCE_CookSoupGourmet.label>
+  <VCE_CookSoupGourmet.description>Приготувати першокласний суп - вершину кулінарного мистецтва.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.jobString>готує першокласний суп</VCE_CookSoupGourmet.jobString>
+
+</LanguageData>

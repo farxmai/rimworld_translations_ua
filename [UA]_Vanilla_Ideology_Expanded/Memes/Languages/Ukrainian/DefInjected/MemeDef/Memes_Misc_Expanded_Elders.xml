@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 15 -->
+
+  <!-- EN: elders -->
+  <VME_Elders.label>влада старійшин</VME_Elders.label>
+  <!-- EN: Age and wisdom often come in tandem, our wise and elderly should be respected on the premise alone and should not be expected to toil. -->
+  <VME_Elders.description>Вік і мудрість часто йдуть пліч-о-пліч, мудрих і літніх людей слід поважати тільки за це, і не слід очікувати від них важкої праці.</VME_Elders.description>
+
+  <VME_Elders.generalRules.rulesStrings>
+    <li>memeAdjective->літній</li>
+    <li>memeAdjective->стародавній</li>
+    <li>memeAdjective->старий</li>
+    <li>memeAdjective->мудрий</li>
+    <li>memeAdjective->геріатричний</li>
+    <li>memeConcept->літність</li>
+    <li>memeHyphenPrefix->старо</li>
+    <li>memeLeaderNoun->наставник</li>
+    <li>memeLeaderNoun->старійшина</li>
+    <li>memeLeaderNoun->прабатько</li>
+  </VME_Elders.generalRules.rulesStrings>
+
+  <VME_Elders.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Elders) ->[deity0_name] сказав послідовникам [deity0_possessive]: "Поважайте і слухайтеся старших, бо мудрість і досвід приходить тільки з віком."</li>
+    <li>episode(uses=1,tag=meme_Elders) ->Послідовники [deity0_name] навчилися, почитати старших, ставлячи їх потреби вище за потреби інших людей.</li>
+    <li>intro(tag=meme_Elders) ->На [place_summary] [place_name], [memberNamePlural] Відбудував величезний будинок для людей похилого віку, в якому літні можуть провести захід сонця свого життя.</li>
+    <li>conflict(tag=meme_Elders) ->Молодий [foeLeader], заздрив мудрості послідовників [deity0_name], намагався поширити смертельну чуму, яка вражала лише людей похилого віку.</li>
+    <li>founderJoin(tag=meme_Elders) ->[founderName], великий учений, розробив ліки в рекордно короткі терміни, рятуючи при цьому безліч життів.</li>
+    <li>victory(tag=meme_Elders) ->[foeLeader] був ув'язнений, а розповідь [foeLeader_possessive] буде вічно використовуватися як повчальна розповідь проти тих, хто намагається заперечувати мудрість наших старших.</li>
+    <li>setup(tag=meme_Elders) ->[founderName] був соціологом в одному з Блискучих світів. [founder_pronoun] стверджував, що мудрість і досвід накопичується через вік, і тільки людина, яка багато пережила, може вважатися по-справжньому мудрою.</li>
+    <li>story(uses=1,tag=meme_Elders) ->[founderName] таким чином створили велику школу думки, де завжди поважають і враховують мудрість старших.</li>
+    <li>lessonIntro(tag=meme_Elders) ->Старша людина в нашій громаді розповідала мені про історію цивілізації, про те, як молодь завжди безрозсудно кидалася в конфлікти, не обміркувавши всі альтернативи. Він підводив мене до розуміння того, що </li>
+    <li>lesson(tag=meme_Elders) ->вік приносить досвід, а досвід приносить мудрість</li>
+    <li>lessonReinforcement(tag=meme_Elders) ->Без мудрості будь-яке рішення є грубим і необдуманим і це загрожує небажаними наслідками.</li>
+    <li>archistBasis(tag=meme_Elders) ->Архотеки - вищі істоти, що існують поза такими поняттями, як вік і час.</li>
+    <li>archistFact(tag=meme_Elders) ->Проходячи через вихор нескінченного часу, їх мудрість стає набагато більшою, ніж це можливо для звичайної людини.</li>
+    <li>archistProphecy(tag=meme_Elders) ->[inTheEnd], Архотехи дозволять лише наймудрішим з нас перейти на наступний щабель еволюції і піднятися до свого рівня, так що ми повинні з повагою ставитися до старших, адже вони будуть першопрохідниками нашого вознесіння. </li>
+    <li>animistBasis(tag=meme_Elders) ->Духи цінують мудрість понад усе, тому що тільки ті, хто дійсно мудрий, можуть правильно спілкуватися з ними.</li>
+    <li>animistFact(tag=meme_Elders) ->Наші старійшини, у своїй нескінченній мудрості, діятимуть як провідник у світ духів.</li>
+    <li>animistProphecy(tag=meme_Elders) ->[itIsSaid] Якось наймудріші з наших старців зможуть стати єдиними з духами.</li>
+    <li>serketistProphecy(tag=meme_Elders)->[itIsSaid] ми станемо вічними, як найбільший мурашник. Старий і мудрий надмірно.</li>
+    <li>chthonianProphecy(tag=meme_Elders)->Можливо, нам слід накопичувати мудрість, адже моторошні сутності старі і мудрі понад будь-яку міру.</li>
+    <li>esotericismProphecy(tag=meme_Elders)->Такі окультні знання можна набути тільки з часом і навчанням. Тільки найстарші серед нас будуть досить мудрі, щоб пробити бар'єр між реальністю та потойбічними світами.</li>
+    <li>eschatologismFact(tag=meme_Elders)->Ми будемо почитати наших старійшин, бо вони найдовше працювали, щоб наблизити кінець часів.</li>
+    <li>introMemo(tag=meme_Elders)->Послухайте, що я вам скажу: нам настав час відправити на пенсію саме поняття "пенсії". Коли людина вирушає на спокій – суспільство втрачає талановитих працівників, людей, які ділилися своєю мудрістю та навичками з іншими співробітниками протягом десятиліть. Чому ми взагалі маємо їх відпускати? Це нісенітниця!</li>
+    <li>alienistProphecy(tag=meme_Elders)->Ці дивні твори, народжені людською творчістю, є джерелом стародавньої мудрості, вікном у забуті техніки наших предків.</li>
+  </VME_Elders.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Elders -->
+  <VME_Elders.symbolPacks.0.ideoName>Старшість</VME_Elders.symbolPacks.0.ideoName>
+  <!-- EN: elders -->
+  <VME_Elders.symbolPacks.0.theme>старших</VME_Elders.symbolPacks.0.theme>
+  <!-- EN: elderly -->
+  <VME_Elders.symbolPacks.0.adjective>старший</VME_Elders.symbolPacks.0.adjective>
+  <!-- EN: elder -->
+  <VME_Elders.symbolPacks.0.member>старійшина</VME_Elders.symbolPacks.0.member>
+
+</LanguageData>

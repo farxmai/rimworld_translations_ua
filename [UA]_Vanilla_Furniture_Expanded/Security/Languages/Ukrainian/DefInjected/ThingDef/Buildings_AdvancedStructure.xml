@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_DeployableBarrier.label>засувна барикада</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Бар'єр, що розгортається, який у відключеному стані діє як звичайна підлога. Забезпечує відмінне укриття від далеких атак. Будучи неактивним отримує вдвічі менше шкоди.</VFES_DeployableBarrier.description>
+
+  <VFES_Turret_FloorTurret.label>засувна турель</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Двоствольна автоматична турель, що розгортається, яка у відключеному стані діє як звичайна підлога. Будучи під поверхнею отримує вдвічі менше шкоди. Потрібна сталь для ремонту стволів після інтенсивного використання. При пошкодженні може вибухнути.</VFES_Turret_FloorTurret.description>
+
+  <VFES_Gun_FloorTurret.label>засувна двоствольна турель</VFES_Gun_FloorTurret.label>
+
+  <VFES_Turret_HMGComplex.label>стаціонарний кулемет</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Стаціонарний великокаліберний кулемет та мішки з піском для укриття.</VFES_Turret_HMGComplex.description>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>Пострілів до витрати патронів</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>Патрони</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: скінчилися патрони</VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_HMGComplex.label>стаціонарний кулемет</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Стаціонарний великокаліберний кулемет та мішки з піском для укриття.</VFES_Gun_HMGComplex.description>
+
+  <VFES_Bullet_HMGComplex.label>кулеметна куля</VFES_Bullet_HMGComplex.label>
+
+  <VFES_ShortWall.label>половинчата стіна</VFES_ShortWall.label>
+  <VFES_ShortWall.description>Прохідна стіна заввишки до грудей. Не може підтримувати дах.</VFES_ShortWall.description>
+
+</LanguageData>

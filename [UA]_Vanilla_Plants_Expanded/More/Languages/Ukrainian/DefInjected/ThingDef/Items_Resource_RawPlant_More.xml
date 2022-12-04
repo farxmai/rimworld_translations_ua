@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_RawCelery.label>селера</VCE_RawCelery.label>
+  <VCE_RawCelery.description>Овоч, що являє собою довге волокнисте стебло, що переходить у листя. Листя має сильний аромат і використовується або як приправа до супів і тушкованих страв, або у висушеному вигляді. В основному селера використовується для приготування різних супів.</VCE_RawCelery.description>
+
+  <VCE_RawLettuce.label>латук</VCE_RawLettuce.label>
+  <VCE_RawLettuce.description>Їстівне лисття, найчастіше вживаються у сирому вигляді і є основою для багатьох салатів. Багатий на вітаміни «A» і «К».</VCE_RawLettuce.description>
+
+  <VCE_RawRadish.label>редиска</VCE_RawRadish.label>
+  <VCE_RawRadish.description>Їстівний коренеплід, який легко вирощувати та досить легко збирати. Редиска часто є вибором садівників-початківців.</VCE_RawRadish.description>
+
+  <VCE_RawBuckwheat.label>гречана крупа</VCE_RawBuckwheat.label>
+  <VCE_RawBuckwheat.description>Псевдозернова культура, що вирощується для отримання гречаної крупи. Її білі квітки утворюють верхівкові суцвіття на пагонах і після запилення перетворюються на насіння трикутної форми, оточені міцною темно-коричневою або сірою шкіркою.</VCE_RawBuckwheat.description>
+
+  <VCE_RawPeanut.label>арахіс</VCE_RawPeanut.label>
+  <VCE_RawPeanut.description>Рослина з характерним насінням довгастої форми, укладеним в оболонку, на дотик нагадує папір. За смаком та поживними властивостями вони близькі до лісового горіха, волоських горіхів та мигдалю, але технічно відносяться до бобових.</VCE_RawPeanut.description>
+
+  <VCE_RawSunflower.label>насіння соняшнику</VCE_RawSunflower.label>
+  <VCE_RawSunflower.description>Велика рослина, цінна своїм насінням, які їстівні самі по собі і можуть бути використані для виготовлення олії. Назва походить від форми квітки, яка завдяки великому жовтому листю нагадує сонце.</VCE_RawSunflower.description>
+
+  <VCE_RawOkra.label>бамія</VCE_RawOkra.label>
+  <VCE_RawOkra.description>Квітне рослина сімейства мальвових, що цінується за свої характерні, липкі при розрізанні стручки. Бамія — це криниця цінних поживних речовин.</VCE_RawOkra.description>
+
+  <VCE_RawGarlic.label>головки часнику</VCE_RawGarlic.label>
+  <VCE_RawGarlic.description>Рослина з довгим плоским листям, що складається в пагону, росте прямо з квіткової цибулини, яка і використовується в медицині та кулінарії. Цибулина, або голівка часнику, складається з кількох часточок, ув'язнених у тонку оболонку.</VCE_RawGarlic.description>
+
+  <VCE_RawCarrot.label>морква</VCE_RawCarrot.label>
+  <VCE_RawCarrot.description>Коренеплід, зазвичай, помаранчевого кольору, хоча відомі чорні, пурпурові, червоні, білі та жовті різновиди. Універсальний продукт харчування, який можна нашаткувати, відварити, посмажити, згасити, додати в суп або рагу, а також використовувати в дитячому харчуванні та комбікормах.</VCE_RawCarrot.description>
+
+  <VCE_RawBrusselsSprouts.label>брюссельская капуста</VCE_RawBrusselsSprouts.label>
+  <VCE_RawBrusselsSprouts.description>Вид капусти, що вирощується через його їстівні бруньки. Паростки брюссельської капусти зазвичай використовуються у готовому вигляді. При цьому молоді паростки мають тонший смак, ніж зрілі.</VCE_RawBrusselsSprouts.description>
+
+  <VCE_RawOlives.label>оливки</VCE_RawOlives.label>
+  <VCE_RawOlives.description>Невеликий чорний або зелений плід яйцеподібної форми, який вживається в їжу або використовується для оливкової олії. Свіжозібрані оливки містять олеуропеїн, який робить плоди неприємними для негайного вживання. Перед вживанням їх слід засолити чи ферментувати.</VCE_RawOlives.description>
+
+  <VCE_RawSweetPotatoes.label>батат</VCE_RawSweetPotatoes.label>
+  <VCE_RawSweetPotatoes.description>Рослина з великим крохмалистим і солодким на смак (який схожий на гарбуз) бульбоподібним корінням. Як і багато інших коренеплодів, вони вживаються в їжу. Батат є далеким родичем картоплі.</VCE_RawSweetPotatoes.description>
+
+  <VCE_RawCassava.label>маніока</VCE_RawCassava.label>
+  <VCE_RawCassava.description>Довга їстівна рослина, яка також відома під іменами «касава» та «юка». Має ледь помітний смак, чимось схожим на смак горіха, вживаються як зазвичай або як гарнір. Достатньо універсальна рослина, яка може використовуватися для виготовлення борошна, пральних порошків та алкоголю.</VCE_RawCassava.description>
+
+  <VCE_RawBeans.label>зелена квасоля</VCE_RawBeans.label>
+  <VCE_RawBeans.description>Незрілі плоди квасолі. Їх можна відварити, приготувати на пару, посмажити чи запекти. Квасоля часто використовується в супах, рагу чи випічці. Також квасолю можна замаринувати, як, наприклад, огірки.</VCE_RawBeans.description>
+
+  <VCE_RawBellPeppers.label>червоний солодкий перець</VCE_RawBellPeppers.label>
+  <VCE_RawBellPeppers.description>Солодкий перець технічно належить до пасльонових і належить до сімейства стручкових перців. Також він є єдиним перцем чилі, який несе в собі рецесивний ген, який відповідає за вироблення капсацину, а точніше за її відсутність. Через це даний сорт перцю позбавлений гостроти.</VCE_RawBellPeppers.description>
+
+  <VCE_RawYellowBellPeppers.label>жовтий солодкий перець</VCE_RawYellowBellPeppers.label>
+  <VCE_RawYellowBellPeppers.description>Солодкий перець технічно належить до пасльонових і належить до сімейства стручкових перців. Також він є єдиним перцем чилі, який несе в собі рецесивний ген, який відповідає за вироблення капсацину, а точніше за її відсутність. Через це даний сорт перцю позбавлений гостроти.</VCE_RawYellowBellPeppers.description>
+
+  <VCE_RawChickpeas.label>нут</VCE_RawChickpeas.label>
+  <VCE_RawChickpeas.description>Одна з ранніх бобових культур, широко поширена через поживні властивості насіння, що володіють високим вмістом клітковини, білків, заліза, фосфору та фолієвої кислоти.</VCE_RawChickpeas.description>
+
+  <VCE_RawTaro.label>коріння таро</VCE_RawTaro.label>
+  <VCE_RawTaro.description>Коренеплід, багатий на крохмаль. Виглядає як світло-коричнева бульба з білою м'якоттю з фіолетовими вкрапленнями. При приготуванні він має трохи солодкий смак і текстуру, що нагадує картоплю.</VCE_RawTaro.description>
+
+  <VCE_RawWatercress.label>крес-салат</VCE_RawWatercress.label>
+  <VCE_RawWatercress.description>Багатий на вітаміни та мінерали овоч. Являє собою округле листя на білому тонкому стеблі. Походить з того ж сімейства, що капуста та броколі.</VCE_RawWatercress.description>
+
+  <VCE_RawLotus.label>насіння лотоса</VCE_RawLotus.label>
+  <VCE_RawLotus.description>Насіння лотосової рослини. Багаті на поживні елементи, вітаміни, білки та вуглеводи, що робить їх відмінним вибором для здорового харчування.</VCE_RawLotus.description>
+
+  <VCE_RawWaterChestnut.label>водяні каштани</VCE_RawWaterChestnut.label>
+  <VCE_RawWaterChestnut.description>Маленькі округлі бульбоцибулини з хрумкою білою м'якоттю, які можна їсти сирими, злегка вареними або приготованими на грилі.</VCE_RawWaterChestnut.description>
+
+  <VCE_RawCucumber.label>огірки</VCE_RawCucumber.label>
+  <VCE_RawCucumber.description>Довгастий овоч із щільною зеленою шкіркою та водянистою прозорою м'якоттю. Може бути з'їдений сирим.</VCE_RawCucumber.description>
+
+  <VCE_RawButternutSquash.label>мускатні гарбузи</VCE_RawButternutSquash.label>
+  <VCE_RawButternutSquash.description>Овочі з солодким горіховим смаком, схожим на смак гарбуза. У нього коричнево-жовта шкірка та помаранчева м'ясиста м'якоть із відділенням для насіння на кінці квітки.</VCE_RawButternutSquash.description>
+</LanguageData>

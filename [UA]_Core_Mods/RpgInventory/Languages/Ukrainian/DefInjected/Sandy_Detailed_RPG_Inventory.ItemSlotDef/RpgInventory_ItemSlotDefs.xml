@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<!-- EN: Arms Artifact -->
+	<ItemSlotArmsTMArtifact_PH.label>Артефакт</ItemSlotArmsTMArtifact_PH.label>
+	<!-- EN: Face -->
+	<ItemSlotCEStrappedHead_PH.label>Обиччя</ItemSlotCEStrappedHead_PH.label>
+	<!-- EN: Ear Accessories -->
+	<ItemSlotEarsAccessories.label>Вуха (Аксесуар)</ItemSlotEarsAccessories.label>
+	<!-- EN: Eyes -->
+	<ItemSlotEyeCover.label>Очі</ItemSlotEyeCover.label>
+	<!-- EN: Feet Middle -->
+	<ItemSlotFeetMiddle.label>Стопи</ItemSlotFeetMiddle.label>
+	<!-- EN: Feet Skin -->
+	<ItemSlotFeetOnSkin.label>Стопи (на тіло)</ItemSlotFeetOnSkin.label>
+	<!-- EN: Feet Outer -->
+	<ItemSlotFeetShell.label>Стопи (зовні)</ItemSlotFeetShell.label>
+	<!-- EN: Hands Middle -->
+	<ItemSlotHandsMiddle.label>Кисті</ItemSlotHandsMiddle.label>
+	<!-- EN: Hands Skin -->
+	<ItemSlotHandsOnSkin.label>Кисті (на тіло)</ItemSlotHandsOnSkin.label>
+	<!-- EN: Hands Outer -->
+	<ItemSlotHandsShell.label>Кисті (зовні)</ItemSlotHandsShell.label>
+	<!-- EN: Headgear -->
+	<ItemSlotHead.label>Головний убір</ItemSlotHead.label>
+	<!-- EN: Headgear Eyes -->
+	<ItemSlotHeadEyes.label>Головний убір (очі)</ItemSlotHeadEyes.label>
+	<!-- EN: Teeth -->
+	<ItemSlotHeadTeeth.label>Зуби</ItemSlotHeadTeeth.label>
+	<!-- EN: Left Hand Accessory -->
+	<ItemSlotLeftHandAccessories.label>Ліва рука (Аксесуар)</ItemSlotLeftHandAccessories.label>
+	<!-- EN: Left Hand Outer -->
+	<ItemSlotLeftHandShell.label>Ліва рука (зовні)</ItemSlotLeftHandShell.label>
+	<!-- EN: Left Hand Artifact -->
+	<ItemSlotLeftHandTMArtifact_PH.label>Ліва рука (Артефакт)</ItemSlotLeftHandTMArtifact_PH.label>
+	<!-- EN: Left Hand Outer Special -->
+	<ItemSlotLeftHandVFECOuterShell.label>Ліва рука (зовні-спецільне)</ItemSlotLeftHandVFECOuterShell.label>
+	<!-- EN: Legs Middle -->
+	<ItemSlotLegsMiddle.label>Ноги</ItemSlotLegsMiddle.label>
+	<!-- EN: Legs Outer -->
+	<ItemSlotLegsShell.label>Ноги (зовні)</ItemSlotLegsShell.label>
+	<!-- EN: Legs Skin -->
+	<ItemSlotLegsSkin.label>Ноги (на тіло)</ItemSlotLegsSkin.label>
+	<!-- EN: Leg Underwear -->
+	<ItemSlotLegsUnderwear.label>Ноги (спіднє)</ItemSlotLegsUnderwear.label>
+	<!-- EN: Neck Accessory -->
+	<ItemSlotNeckAccessories.label>Шия (Аксесуар)</ItemSlotNeckAccessories.label>
+	<!-- EN: Neck Upper -->
+	<ItemSlotNeckOverhead.label>Шия</ItemSlotNeckOverhead.label>
+	<!-- EN: Neck Outer -->
+	<ItemSlotNeckShell.label>Шия (зовні)</ItemSlotNeckShell.label>
+	<!-- EN: Neck Artifact -->
+	<ItemSlotNeckTMArtifact_PH.label>Шия (Артефакт)</ItemSlotNeckTMArtifact_PH.label>
+	<!-- EN: Cloak -->
+	<ItemSlotNeckTMCloak_PH.label>Плащ</ItemSlotNeckTMCloak_PH.label>
+	<!-- EN: Right Hand Accessory -->
+	<ItemSlotRightHandAccessories.label>Права рука (Аксесуар)</ItemSlotRightHandAccessories.label>
+	<!-- EN: Right Hand Outer -->
+	<ItemSlotRightHandShell.label>Права рука (зовні)</ItemSlotRightHandShell.label>
+	<!-- EN: Right Hand Artifact -->
+	<ItemSlotRightHandTMArtifact_PH.label>Права рука (Артефакт)</ItemSlotRightHandTMArtifact_PH.label>
+	<!-- EN: Shield -->
+	<ItemSlotShield.label>Щит</ItemSlotShield.label>
+	<!-- EN: Backpack -->
+	<ItemSlotShouldersCEBackpack_PH.label>Рюкзак</ItemSlotShouldersCEBackpack_PH.label>
+	<!-- EN: Webbing -->
+	<ItemSlotShouldersCEWebbing_PH.label>Стрічка</ItemSlotShouldersCEWebbing_PH.label>
+	<!-- EN: Shoulders -->
+	<ItemSlotShouldersShell.label>Плечі</ItemSlotShouldersShell.label>
+	<!-- EN: Torso Belt -->
+	<ItemSlotTorsoBelt.label>Натільний пояс</ItemSlotTorsoBelt.label>
+	<!-- EN: Torso Middle -->
+	<ItemSlotTorsoMiddle.label>Тулуб</ItemSlotTorsoMiddle.label>
+	<!-- EN: Torso Skin -->
+	<ItemSlotTorsoOnSkin.label>Тулуб (на тіло)</ItemSlotTorsoOnSkin.label>
+	<!-- EN: Torso Outer -->
+	<ItemSlotTorsoShell.label>Тулуб (зовні)</ItemSlotTorsoShell.label>
+	<!-- EN: Torso Upper Underwear -->
+	<ItemSlotTorsoUnderwearTop.label>Тулуб (спіднє)</ItemSlotTorsoUnderwearTop.label>
+	<!-- EN: Belt -->
+	<ItemSlotWaistBelt.label>Пояс</ItemSlotWaistBelt.label>
+	<!-- EN: Waist Outer -->
+	<ItemSlotWaistShell.label>Талія (зовні)</ItemSlotWaistShell.label>
+	<!-- EN: Waist Underwear -->
+	<ItemSlotWaistUnderwear.label>Талія (спіднє)</ItemSlotWaistUnderwear.label>
+</LanguageData>

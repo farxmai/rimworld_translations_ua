@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_TableSmithyLargeGas.label>велика газова кузня</VFE_TableSmithyLargeGas.label>
+  <VFE_TableSmithyLargeGas.description>Велика газова кузня для кування немеханічної зброї та інструментів. Споживає багато газу.</VFE_TableSmithyLargeGas.description>
+
+  <VFE_TableStoveLargeGas.label>велика газова плита</VFE_TableStoveLargeGas.label>
+  <VFE_TableStoveLargeGas.description>Велика газова плита для приготування їжі. Споживає багато газу.</VFE_TableStoveLargeGas.description>
+
+
+</LanguageData>

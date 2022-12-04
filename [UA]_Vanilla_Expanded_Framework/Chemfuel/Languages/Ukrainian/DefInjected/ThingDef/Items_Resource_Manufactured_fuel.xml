@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: deepchem -->
+  <VCHE_Deepchem.label>глибинне паливо</VCHE_Deepchem.label>
+  <!-- EN: A volatile liquid chemical sludge, extracted from deep underground pockets. It’s too thick to be used to fuel engines and rockets, or to transmute into propellant for projectiles, but it can be refined down into standard chemfuel. -->
+  <VCHE_Deepchem.description>Густа рідка горюча хімічна речовина, що витягується з підземних пустот. Воно занадто густе для використання як паливо або сировина для виготовлення вибухових речовин. Однак його можна переробити на звичайне хімічне паливо.</VCHE_Deepchem.description>
+</LanguageData>

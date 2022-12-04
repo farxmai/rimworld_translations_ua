@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HAR_EatingAliens_Abhorrent.label>огидно</HAR_EatingAliens_Abhorrent.label>
+	<HAR_EatingAliens_Abhorrent.description>Їсти труп іншого розумного виду, навіть під час голоду, неймовірно гротескно.</HAR_EatingAliens_Abhorrent.description>
+
+	<HAR_EatingAliens_Disapproved.label>не схвалюється</HAR_EatingAliens_Disapproved.label>
+	<HAR_EatingAliens_Disapproved.description>Їсти труп іншого розумного виду можна лише за важких обставин.</HAR_EatingAliens_Disapproved.description>
+
+	<HAR_EatingAliens_Acceptable.label>прийнятно</HAR_EatingAliens_Acceptable.label>
+	<HAR_EatingAliens_Acceptable.description>М'ясо інопланетного виду нічим не відрізняється від м'яса муффало.</HAR_EatingAliens_Acceptable.description>
+
+	<HAR_EatingAliens_Preferred.label>бажано</HAR_EatingAliens_Preferred.label>
+	<HAR_EatingAliens_Preferred.description>М’ясо прибульців містить багато важливих поживних речовин і доволі калорійне, тому немає причин відмовлятись від нього.</HAR_EatingAliens_Preferred.description>
+
+	<HAR_EatingAliens_Preferred.comps.1.description>Не їв інопланетного м'яса декілька днів</HAR_EatingAliens_Preferred.comps.1.description>
+
+	<HAR_EatingAliens_RequiredStrong.label>необхідно</HAR_EatingAliens_RequiredStrong.label>
+	<HAR_EatingAliens_RequiredStrong.description>М’ясо прибульців краще, ніж м'ясо будь-якої безглуздої істоти, насправді його регулярне споживання слід заохочувати.</HAR_EatingAliens_RequiredStrong.description>
+
+	<HAR_EatingAliens_RequiredStrong.comps.3.description>Не їв інопланетного м'яса декілька днів</HAR_EatingAliens_RequiredStrong.comps.3.description>
+</LanguageData>

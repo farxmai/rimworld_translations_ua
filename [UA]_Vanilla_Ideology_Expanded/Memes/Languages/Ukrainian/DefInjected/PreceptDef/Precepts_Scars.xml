@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: honorable -->
+  <VME_Scars_Honorable.label>почесно</VME_Scars_Honorable.label>
+  <!-- EN: Scars are marks of honor and strength, to be scarred and continue on is nothing short of an incredible act. -->
+  <VME_Scars_Honorable.description>Шрами — це ознаки честі та сили. Бути вкритим шрамами та продовжувати жити є шляхом гідним поваги.</VME_Scars_Honorable.description>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>шрами</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>багато шрамів</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>дуже багато шрамів</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>вкритий шрамами</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>незліченні шрами</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: disgusting -->
+  <VME_Scars_Disgusting.label>огидно</VME_Scars_Disgusting.label>
+  <!-- EN: A body marked with scars is disgusting. -->
+  <VME_Scars_Disgusting.description>Тіло, понівечене шрамами, огидне.</VME_Scars_Disgusting.description>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>шрами</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>багато шрамів</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>дуже багато шрамів</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>вкритий шрамами</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>незліченні шрами</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
+
+</LanguageData>

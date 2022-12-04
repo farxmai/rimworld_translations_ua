@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Diamond.label>діамант</Diamond.label>
+  <Diamond.description>Цей напівпрозорий дорогоцінний камінь в основному використовується як предмет розкоші. З нього можна виготовляти дорогі прикраси. Де б їх не видобували, страждають люди.</Diamond.description>
+  <Diamond.stuffProps.stuffAdjective>діамантовий</Diamond.stuffProps.stuffAdjective>
+
+  <Ruby.label>рубін</Ruby.label>
+  <Ruby.description>Цей червоний дорогоцінний камінь в основному використовується як предмет розкоші. З нього можна виготовляти дорогі прикраси.</Ruby.description>
+  <Ruby.stuffProps.stuffAdjective>рубіновий</Ruby.stuffProps.stuffAdjective>
+
+  <Sapphire.label>сапфір</Sapphire.label>
+  <Sapphire.description>Цей синій дорогоцінний камінь в основному використовується як предмет розкоші. З нього можна виготовляти дорогі прикраси.</Sapphire.description>
+  <Sapphire.stuffProps.stuffAdjective>сапфіровий</Sapphire.stuffProps.stuffAdjective>
+
+
+</LanguageData>

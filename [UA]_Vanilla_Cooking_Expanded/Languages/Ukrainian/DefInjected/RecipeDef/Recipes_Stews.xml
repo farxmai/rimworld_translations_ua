@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookStewSimple.label>приготувати просте рагу</VCE_CookStewSimple.label>
+  <VCE_CookStewSimple.description>Приготувати просте рагу.</VCE_CookStewSimple.description>
+  <VCE_CookStewSimple.jobString>готує просте рагу</VCE_CookStewSimple.jobString>
+
+  <VCE_CookStewFine.label>приготувати чудове рагу</VCE_CookStewFine.label>
+  <VCE_CookStewFine.description>Приготувати чудове рагу.</VCE_CookStewFine.description>
+  <VCE_CookStewFine.jobString>готує чудове рагу</VCE_CookStewFine.jobString>
+
+  <VCE_CookStewLavish.label>приготувати вишукане рагу</VCE_CookStewLavish.label>
+  <VCE_CookStewLavish.description>Приготувати вишукане рагу.</VCE_CookStewLavish.description>
+  <VCE_CookStewLavish.jobString>готує вишукане рагу</VCE_CookStewLavish.jobString>
+
+</LanguageData>

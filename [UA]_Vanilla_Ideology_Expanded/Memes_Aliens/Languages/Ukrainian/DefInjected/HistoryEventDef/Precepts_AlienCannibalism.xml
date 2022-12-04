@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_AteAlienMeat.label>з'їдено інопланетне м'ясо</HAR_AteAlienMeat.label>
+  <!-- butchered alien -->
+  <HAR_ButcheredAlien.label>розібраний інопланетянин</HAR_ButcheredAlien.label>
+  <!-- ate non-alien food -->
+  <HAR_AteNonAlienFood.label>з'їдено страву без інопланетян</HAR_AteNonAlienFood.label>
+
+</LanguageData>

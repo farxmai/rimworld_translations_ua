@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KCSG_PowerConduit.label>підземний кабель</KCSG_PowerConduit.label>
+  <KCSG_PowerConduit.description>Підземний кабель передачі енергії. Може бути розташований під стінами та іншими спорудами.</KCSG_PowerConduit.description>
+
+  <!-- EN: flying-->
+  <VFEA_AbilityFlyer.label>летить</VFEA_AbilityFlyer.label>
+
+  <!-- EN: flying-->
+  <VFEA_AbilityFlyer_Charge.label>летить</VFEA_AbilityFlyer_Charge.label>
+</LanguageData>

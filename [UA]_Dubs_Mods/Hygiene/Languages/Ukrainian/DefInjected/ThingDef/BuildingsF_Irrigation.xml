@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <IrrigationSprinkler.label>поливний розбризкувач</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>Поливає прилеглу територію один раз щоранку, щоб підвищити родючість ґрунту протягом дня. Використовує 1000 л щоранку на максимальному радіусі.</IrrigationSprinkler.description>
+
+  <FireSprinkler.label>пожежний розбризкувач</FireSprinkler.label>
+  <FireSprinkler.description>Спрацьовує на вогонь або високу температуру. Гасить полум'я за допомогою бризок води.</FireSprinkler.description>
+
+  <BiosolidsComposter.label>компостер</BiosolidsComposter.label>
+  <BiosolidsComposter.description>Компостер для перетворення каналізаційних відходів на добриво для підвищення родючості перекопаної місцевості.</BiosolidsComposter.description>
+
+</LanguageData>

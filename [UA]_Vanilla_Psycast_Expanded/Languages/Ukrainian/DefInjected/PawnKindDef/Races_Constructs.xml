@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: steel construct -->
+  <VPE_SteelConstruct.label>сталевий конструкт</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.labelPlural>сталеві конструкти</VPE_SteelConstruct.labelPlural>
+
+  <!-- EN: rock construct -->
+  <VPE_RockConstruct.label>кам'яний конструкт</VPE_RockConstruct.label>
+  <VPE_RockConstruct.labelPlural>кам'яні конструкти</VPE_RockConstruct.labelPlural>
+</LanguageData>

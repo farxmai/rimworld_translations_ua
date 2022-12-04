@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goose Eggs -->
+
+  <AEXP_EggWildGooseUnfertilized.label>яйце дикого гусака (незапліднене)</AEXP_EggWildGooseUnfertilized.label>
+  <AEXP_EggWildGooseUnfertilized.description>Незапліднене яйце дикого гуся. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggWildGooseUnfertilized.description>
+
+  <AEXP_EggWildGooseFertilized.label>яйце дикого гусака (запліднене)</AEXP_EggWildGooseFertilized.label>
+  <AEXP_EggWildGooseFertilized.description>Запліднене яйце дикого гусака. Якщо все піде добре, з нього вилупиться гусеня. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggWildGooseFertilized.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <K_SetOfGolfJewelry.label>Вкрий мене золотом</K_SetOfGolfJewelry.label>
+  <K_SetOfGolfJewelry.description>Зібрати на одному колоністі повний комплект золотих прикрас</K_SetOfGolfJewelry.description>
+
+  <K_SetOfSilverJewelry.label>Вкрий мене сріблом</K_SetOfSilverJewelry.label>
+  <K_SetOfSilverJewelry.description>Зібрати на одному колоністі повний комплект золотих прикрас</K_SetOfSilverJewelry.description>
+
+  <K_JewelryStore.label>Золотий вік</K_JewelryStore.label>
+  <K_JewelryStore.description>Виготовити 50 ювелірних виробів</K_JewelryStore.description>
+
+  <K_JewelryDiamond.label>Це тобі не Майнкрафт</K_JewelryDiamond.label>
+  <K_JewelryDiamond.description>Зібрати 200 діамантів</K_JewelryDiamond.description>
+
+  <K_JewelryRuby.label>Королівська витонченість</K_JewelryRuby.label>
+  <K_JewelryRuby.description>Зібрати 200 рубінів</K_JewelryRuby.description>
+
+  <K_JewelrySapphire.label>Королівське благородство</K_JewelrySapphire.label>
+  <K_JewelrySapphire.description>Зібрати 200 сапфірів</K_JewelrySapphire.description>
+</LanguageData>

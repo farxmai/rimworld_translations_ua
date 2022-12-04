@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_DoBillsGasCrematorium.label>Працювати на газовому крематорії</VPE_DoBillsGasCrematorium.label>
+  <VPE_DoBillsGasCrematorium.verb>Працювати</VPE_DoBillsGasCrematorium.verb>
+  <VPE_DoBillsGasCrematorium.gerund>Працювати</VPE_DoBillsGasCrematorium.gerund>
+
+  <VPE_DoBillsGasSmelter.label>Працювати на газовій плавильніе</VPE_DoBillsGasSmelter.label>
+  <VPE_DoBillsGasSmelter.verb>Працювати</VPE_DoBillsGasSmelter.verb>
+  <VPE_DoBillsGasSmelter.gerund>Працювати</VPE_DoBillsGasSmelter.gerund>
+
+  <VPE_DoBillsGasStove.label>Готувати на газовій плиті</VPE_DoBillsGasStove.label>
+  <VPE_DoBillsGasStove.verb>Готувати</VPE_DoBillsGasStove.verb>
+  <VPE_DoBillsGasStove.gerund>Готувати</VPE_DoBillsGasStove.gerund>
+
+  <VPE_WorkAtGasExcavator.label>Бурити на газовій буровій установці</VPE_WorkAtGasExcavator.label>
+  <VPE_WorkAtGasExcavator.verb>Бурити</VPE_WorkAtGasExcavator.verb>
+  <VPE_WorkAtGasExcavator.gerund>Бурити</VPE_WorkAtGasExcavator.gerund>
+
+  <VPE_WorkGiverPluggingHole.label>Знищити свердловину</VPE_WorkGiverPluggingHole.label>
+  <VPE_WorkGiverPluggingHole.verb>Знищити</VPE_WorkGiverPluggingHole.verb>
+  <VPE_WorkGiverPluggingHole.gerund>Знищити</VPE_WorkGiverPluggingHole.gerund>
+
+  <VPE_WorkGiverPluggingPond.label>Знищити свердловину</VPE_WorkGiverPluggingPond.label>
+  <VPE_WorkGiverPluggingPond.verb>Знищити</VPE_WorkGiverPluggingPond.verb>
+  <VPE_WorkGiverPluggingPond.gerund>Знищити</VPE_WorkGiverPluggingPond.gerund>
+
+</LanguageData>

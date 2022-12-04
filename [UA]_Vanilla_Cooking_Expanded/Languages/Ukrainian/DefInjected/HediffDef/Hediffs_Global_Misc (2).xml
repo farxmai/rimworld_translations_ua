@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedSoySauce.label>спожито соєвий соус (зі страви)</VCE_ConsumedSoySauce.label>
+  <VCE_ConsumedSoySauce.description>Ферментована паста із соєвих бобів. Соєвий соус можна використовувати як харчову добавку для надання їжі насиченого смаку. Соєвий соус містить у 10 разів більше антиоксидантів червоного вина, і може допомогти запобігти серцево-судинним захворюванням.</VCE_ConsumedSoySauce.description>
+
+  <VCE_ConsumedWasabi.label>спожито васабі (зі страви)</VCE_ConsumedWasabi.label>
+  <VCE_ConsumedWasabi.description>Паста, приготована з подрібнених корінців васабі і використовується як гостра приправа для суші та інших харчових продуктів. Васабі очищає подих і на деякий час змушує почуватися тепліше.</VCE_ConsumedWasabi.description>
+
+  <VCE_AteSimpleSushi.label>спожито прості суші</VCE_AteSimpleSushi.label>
+  <VCE_AteSimpleSushi.description>Я з'їв дуже смачні і ситні суші.</VCE_AteSimpleSushi.description>
+
+  <VCE_AteFineSushi.label>спожито чудові суші</VCE_AteFineSushi.label>
+  <VCE_AteFineSushi.description>Я з'їв дуже смачні і ситні суші.</VCE_AteFineSushi.description>
+
+  <VCE_AteLavishSushi.label>спожито вишукані суші</VCE_AteLavishSushi.label>
+  <VCE_AteLavishSushi.description>Я з'їв дуже смачні і ситні суші.</VCE_AteLavishSushi.description>
+
+  <VCE_AteGourmetSushi.label>спожито першокласні суші</VCE_AteGourmetSushi.label>
+  <VCE_AteGourmetSushi.description>Я з'їв дуже смачні і ситні суші.</VCE_AteGourmetSushi.description>
+
+</LanguageData>

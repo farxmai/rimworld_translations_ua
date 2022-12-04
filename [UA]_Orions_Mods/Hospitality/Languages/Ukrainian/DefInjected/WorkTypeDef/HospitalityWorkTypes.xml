@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<Diplomat.labelShort>дипломат</Diplomat.labelShort>
+	<Diplomat.pawnLabel>Дипломат</Diplomat.pawnLabel>
+	<Diplomat.gerundLabel>дипломатія</Diplomat.gerundLabel>
+	<Diplomat.description>Дипломати розважають гостей та будують дружні стосунки з ними та їх фракціями.</Diplomat.description>
+	<Diplomat.verb>Налагоджувати відносини</Diplomat.verb>
+
+</LanguageData>

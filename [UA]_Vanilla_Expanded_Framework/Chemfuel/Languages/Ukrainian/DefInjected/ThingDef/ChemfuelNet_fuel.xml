@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: chemfuel pipe -->
+  <VCHE_ChemfuelPipe.label>хімпаливна труба</VCHE_ChemfuelPipe.label>
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe.description>Сталева труба, призначена для транспортування хімічного палива від глибопаливного переробника до цистерн або автоматичного заправлення будівель-споживачів.</VCHE_ChemfuelPipe.description>
+
+  <!-- EN: subterranean chemfuel pipe -->
+  <VCHE_UndergroundChemfuelPipe.label>підземна хімпаливна труба</VCHE_UndergroundChemfuelPipe.label>
+  <!-- EN: Subterranean steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe.description>Сталева підземна труба, призначена для транспортування хімічного палива від глибопаливного переробника до цистерн або автоматичного заправлення будівель-споживачів.</VCHE_UndergroundChemfuelPipe.description>
+
+  <!-- EN: chemfuel tank -->
+  <PS_ChemfuelTank.label>цистерна хімпалива</PS_ChemfuelTank.label>
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.< -->
+  <PS_ChemfuelTank.description>Тяжка ємність промислового рівня для зберігання хімічного палива. Паливо з цистерн надходитиме за необхідності.\n\nБудьте обережні: навіть найлегше пошкодження може спричинити сильний вибух, розмір якого залежатиме від кількості палива, що зберігається.</PS_ChemfuelTank.description>
+
+  <!-- EN: chemfuel tap -->
+  <VCHE_ChemfuelTap.label>клапан хімпалива</VCHE_ChemfuelTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
+  <VCHE_ChemfuelTap.description>Резервуар, схожий на вирву. Призначений для періодичного відведення хімпалива із цистерн для подальшого використання.</VCHE_ChemfuelTap.description>
+  <!-- EN: chemfuel drain -->
+  <VCHE_ChemfuelDrain.label>злив хімпалива</VCHE_ChemfuelDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
+  <VCHE_ChemfuelDrain.description>Резервуар, схожий на вирву. Призначений для заливу хімпалива у трубопровід та наповнення під'єднаних цистерн.</VCHE_ChemfuelDrain.description>
+
+  <!-- EN: chemfuel valve -->
+  <VCHE_ChemfuelValve.label>вентиль хімпалива</VCHE_ChemfuelValve.label>
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemfuelValve.description>Відкриває чи перекриває потік палива.</VCHE_ChemfuelValve.description>
+</LanguageData>

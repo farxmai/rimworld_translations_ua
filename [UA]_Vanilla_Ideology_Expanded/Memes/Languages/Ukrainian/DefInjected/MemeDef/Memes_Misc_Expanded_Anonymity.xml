@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 28 -->
+
+  <!-- EN: anonymity -->
+  <VME_Anonymity.label>анонімність</VME_Anonymity.label>
+  <!-- EN: Знайти names, faces, і фони ваших незмінних колоністів може бути як blessing і curse. -->
+  <VME_Anonymity.description>Знання імен, облич та походження ваших товаришів може бути як благословенням, так і прокляттям.</VME_Anonymity.description>
+
+  <VME_Anonymity.generalRules.rulesStrings>
+    <li>memeCreed->анонімат</li>
+    <li>memeAdjective->анонімний</li>
+    <li>memeAdjective->таємничий</li>
+    <li>memeAdjective->безіменний</li>
+    <li>memeAdjective->непомітний</li>
+    <li>memeConcept->приватності</li>
+    <li>memeConcept->анонімності</li>
+    <li>memeLeaderNoun->анон</li>
+  </VME_Anonymity.generalRules.rulesStrings>
+
+  <VME_Anonymity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anonymity) ->[deity0_name] не [deity0_speak] зі своїми послідовниками, лише дивився на них суворо. Так вони зрозуміли потребу повної тиші.</li>
+    <li>episode(uses=1,tag=meme_Anonymity) ->Глибока тиша, якої [deity0_silence] [deity0_name], була витлумачена як знамення, і з того часу ми самі зберігаємо мовчання.</li>
+    <li>intro(tag=meme_Anonymity) ->У таємному куточку простору, де, як усі непосвячені думають, знаходиться [place_summary] [place_name], [memberNamePlural] побудували гігантський храм, споруджений у повній тиші, що безмовне свідчення завіту, ] [deity0_name].</li>
+    <li>conflict(tag=meme_Anonymity) ->[foe_evil] [foeLeader] зневажав цю тишу і [foe_wanted1] занурити світ у багатоголосу какофонію. [foeLeader_pronoun] [foe_wanted2] знести храм і подивитися, як той горить.</li>
+    <li>founderJoin(tag=meme_Anonymity) ->[founderName], Мовчазний Хтось, не бажав мати нічого спільного з цією єрессю, і [foeLeader] глибокої ночі впав від [founder_possessive] руки, вражений отруєним мечем у серці.</li>
+    <li>victory(tag=meme_Anonymity) ->[founderName] не [founder_want] ніяких почестей за своє діяння, тому що [founder_pronoun] просто [founder_wanted], щоб всі залишили [founder_possessive] у спокої.</li>
+    <li>setup(tag=meme_Anonymity) ->Ми не зовсім впевнені, що знаємо, ким насправді [founder_was] [founderName]. Можливо, [founder_pronoun] навіть не [founder_exist], і нам дісталася бліда тінь якоїсь міфології. У будь-якому випадку [founder_objective] приписують твердження, що самотнє життя в спогляданні та ізоляції є самоціллю.</li>
+    <li>story(uses=1,tag=meme_Anonymity) ->Анонімність — щит від тиранії більшості.</li>
+    <li>lessonIntro(tag=meme_Anonymity) ->Дозвольте мені записати ці слова на папері, оскільки передача їх голосом огидна:</li>
+    <li>lesson(tag=meme_Anonymity) ->ви не цінуєте свою анонімність до того моменту, коли її у вас більше немає</li>
+    <li>lesson(tag=meme_Anonymity) ->тиша настане коли прозвучить питання</li>
+    <li>lessonReinforcement(tag=meme_Anonymity) ->Бажання бути невідомим, що не залежить від того, що про вас знають інші. Це і є свобода.</li>
+    <li>archistBasis(tag=meme_Anonymity) ->Архотеки невідомі та непізнавані, вони відгородилися остаточною маскою: трансцендентністю.</li>
+    <li>archistFact(tag=meme_Anonymity) ->Архотеки запитують: «У чому мета цивілізації, а то й отримання найбільшого дару - анонімності?»</li>
+    <li>archistProphecy(tag=meme_Anonymity) ->[inTheEnd], тільки тим, хто проводить своє життя анонімно, буде дозволено вийти за межі.</li>
+    <li>animistBasis(tag=meme_Anonymity) ->Духів не турбують наші безглузді особи, вони воліли б, щоб ми залишалися невідомими.</li>
+    <li>animistFact(tag=meme_Anonymity) ->Вони показують нам, що самотнє життя в спогляданні та ізоляції є самоціллю.</li>
+    <li>animistProphecy(tag=meme_Anonymity) ->[itIsSaid] тільки ті, хто проводить своє життя на самоті і тиші, можуть по-справжньому спілкуватися з духами.</li>
+    <li>serketistProphecy(tag=meme_Anonymity)->[itIsSaid] ми сховаємося в анонімності, як міріади мурах, частина цілого, але поодинці непомітні.</li>
+    <li>chthonianProphecy(tag=meme_Anonymity)->Божевіллям буде підвищувати свій голос всупереч цим сутностям, і тому ми мовчатимемо на самоті, щоб не привертати їх небажаної уваги.</li>
+    <li>esotericismProphecy(tag=meme_Anonymity)->Таке окультне знання можна відкрити тільки шляхом ретельної медитації. І, можливо, ми виявимо, що самотнє життя в спогляданні та ізоляції є самоціллю.</li>
+    <li>eschatologismFact(tag=meme_Anonymity)->Світ буде горіти, і ми будемо безликими та анонімними винуватцями його краху.</li>
+    <li>introMemo(tag=meme_Anonymity)->Останнім часом було кілька випадків, коли співробітники використовували "Відповісти всім" в електронному листуванні. Дозвольте мені нагадати вам, що в цьому немає потреби, і що це призводить до плутанини.</li>
+    <li>alienistProphecy(tag=meme_Anonymity)->Тварини не мають відношення до людини. Ми можемо бути самими собою, оскільки вони не такі схильні мати думку, як люди.</li>
+    <li>deity0_speak(deity0_gender==None)->розмовляло</li>
+    <li>deity0_speak(deity0_gender==Male)->розмовляв</li>
+    <li>deity0_speak(deity0_gender==Female)->розмовляла</li>
+    <li>deity0_silence(deity0_gender==None)->дотримувалося</li>
+    <li>deity0_silence(deity0_gender==Male)->дотримувався</li>
+    <li>deity0_silence(deity0_gender==Female)->дотримувалася</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дав</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+    <li>foe_evil(foeLeader_gender==Male)->злісний</li>
+    <li>foe_evil(foeLeader_gender==Female)->злісна</li>
+    <li>foe_wanted1(foeLeader_gender==Male)->хотів</li>
+    <li>foe_wanted1(foeLeader_gender==Female)->хотіла</li>
+    <li>foe_wanted2(foeLeader_gender==Male)->побажав</li>
+    <li>foe_wanted2(foeLeader_gender==Female)->побажала</li>
+    <li>founder_want(founder_gender==Male)->бажав</li>
+    <li>founder_want(founder_gender==Female)->побажала</li>
+    <li>founder_wanted(founder_gender==Male)->хотів</li>
+    <li>founder_wanted(founder_gender==Female)->хотіла</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_exist(founder_gender==Male)->існував</li>
+    <li>founder_exist(founder_gender==Female)->існувала</li>
+  </VME_Anonymity.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Anonymity -->
+  <VME_Anonymity.symbolPacks.0.ideoName>Анонімність</VME_Anonymity.symbolPacks.0.ideoName>
+  <!-- EN: anonymity -->
+  <VME_Anonymity.symbolPacks.0.theme>анонімності</VME_Anonymity.symbolPacks.0.theme>
+  <!-- EN: anonymous -->
+  <VME_Anonymity.symbolPacks.0.adjective>анонімний</VME_Anonymity.symbolPacks.0.adjective>
+  <!-- EN: anon -->
+  <VME_Anonymity.symbolPacks.0.member>анон</VME_Anonymity.symbolPacks.0.member>
+
+
+</LanguageData>

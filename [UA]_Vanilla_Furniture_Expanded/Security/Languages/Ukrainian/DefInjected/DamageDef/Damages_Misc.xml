@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_SplinterArrow.label>уламок</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} був(а) розчленований(на) гігантською стрілою.</VFES_SplinterArrow.deathMessage>
+
+  <VFES_Rock.label>камінь</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} був(а) розчавлений(на) гігантським каменем.</VFES_Rock.deathMessage>
+
+  <VFES_HauntingFlame.label>полум'я</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} згорів(ла) живцем.</VFES_HauntingFlame.deathMessage>
+
+</LanguageData>

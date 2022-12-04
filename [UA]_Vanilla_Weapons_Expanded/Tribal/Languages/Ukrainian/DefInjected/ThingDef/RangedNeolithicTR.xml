@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Sling.label>праща</VWE_Sling.label>
+  <VWE_Sling.description>Маленька кишеня між двох мотузок. Дозволяє метати гостре каміння на середню дистанцію.</VWE_Sling.description>
+  <VWE_Sling.tools.0.label>рукоять</VWE_Sling.tools.0.label>
+
+  <VWE_SlingRock.label>камінець</VWE_SlingRock.label>
+
+  <VWE_Throwing_Shards.label>метальні уламки</VWE_Throwing_Shards.label>
+  <VWE_Throwing_Shards.description>Набір грубих кам'яних або металевих уламків, які можна кидати на невелику відстань.</VWE_Throwing_Shards.description>
+  <VWE_Throwing_Shards.tools.0.label>рукоять</VWE_Throwing_Shards.tools.0.label>
+  <VWE_Throwing_Shards.tools.1.label>лезо</VWE_Throwing_Shards.tools.1.label>
+  <VWE_Throwing_Shards.tools.2.label>вістря</VWE_Throwing_Shards.tools.2.label>
+
+  <VWE_FlyingShard.label>уламок</VWE_FlyingShard.label>
+
+  <VWE_Weapon_FireBomb.label>вогняні бомби</VWE_Weapon_FireBomb.label>
+  <VWE_Weapon_FireBomb.description>Невеликий глиняний горщик з різними горючими речовинами всередині. Там цілком може бути: хімпаливо, тканина, порох чи жир тварини.</VWE_Weapon_FireBomb.description>
+
+  <VWE_Proj_FireBomb.label>вогненна бомба</VWE_Proj_FireBomb.label>
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gastronomy_Serviced.stages.0.label>жахливий сервіс</Gastronomy_Serviced.stages.0.label>
+  <Gastronomy_Serviced.stages.1.label>поганий сервіс</Gastronomy_Serviced.stages.1.label>
+  <Gastronomy_Serviced.stages.2.label>непоганий сервіс</Gastronomy_Serviced.stages.2.label>
+  <Gastronomy_Serviced.stages.3.label>чудовий сервіс</Gastronomy_Serviced.stages.3.label>
+  <Gastronomy_Serviced.stages.4.label>шиковний сервіс</Gastronomy_Serviced.stages.4.label>
+
+  <Gastronomy_HadToWait.stages.0.label>довго очікував страву</Gastronomy_HadToWait.stages.0.label>
+  <Gastronomy_HadToWait.stages.0.description>Мою страву дуже довго несли.</Gastronomy_HadToWait.stages.0.description>
+
+  <Gastronomy_ServicedMood.stages.0.label>жахливий сервіс</Gastronomy_ServicedMood.stages.0.label>
+  <Gastronomy_ServicedMood.stages.0.description>Свиней у хліву і те краще обслуговують!</Gastronomy_ServicedMood.stages.0.description>
+  <Gastronomy_ServicedMood.stages.1.label>поганий сервіс</Gastronomy_ServicedMood.stages.1.label>
+  <Gastronomy_ServicedMood.stages.1.description>Що за сервіс тут, чому так погано.</Gastronomy_ServicedMood.stages.1.description>
+  <Gastronomy_ServicedMood.stages.2.label>непоганий сервіс</Gastronomy_ServicedMood.stages.2.label>
+  <Gastronomy_ServicedMood.stages.2.description>Мені сподобався сервіс в ресторані.</Gastronomy_ServicedMood.stages.2.description>
+  <Gastronomy_ServicedMood.stages.3.label>чудовий сервіс</Gastronomy_ServicedMood.stages.3.label>
+  <Gastronomy_ServicedMood.stages.3.description>Мені сподобався сервіс в ресторані.</Gastronomy_ServicedMood.stages.3.description>
+  <Gastronomy_ServicedMood.stages.4.label>шиковний сервіс</Gastronomy_ServicedMood.stages.4.label>
+  <Gastronomy_ServicedMood.stages.4.description>Мені дуже сподобався сервіс в ресторані.</Gastronomy_ServicedMood.stages.4.description>
+
+  <Gastronomy_BoughtFood.stages.0.label>безкоштовний обід</Gastronomy_BoughtFood.stages.0.label>
+  <Gastronomy_BoughtFood.stages.0.description>Халявний хавчик!</Gastronomy_BoughtFood.stages.0.description>
+  <Gastronomy_BoughtFood.stages.1.label>дуже дешевий обід </Gastronomy_BoughtFood.stages.1.label>
+  <Gastronomy_BoughtFood.stages.1.description>Ціни як у їдальні!</Gastronomy_BoughtFood.stages.1.description>
+  <Gastronomy_BoughtFood.stages.2.label>дешевий обід</Gastronomy_BoughtFood.stages.2.label>
+  <Gastronomy_BoughtFood.stages.2.description>Непогано за ці гроші.</Gastronomy_BoughtFood.stages.2.description>
+  <Gastronomy_BoughtFood.stages.3.label>звичайний обід</Gastronomy_BoughtFood.stages.3.label>
+  <Gastronomy_BoughtFood.stages.3.description>Отримав те, за що платив.</Gastronomy_BoughtFood.stages.3.description>
+  <Gastronomy_BoughtFood.stages.4.label>столичні ціни</Gastronomy_BoughtFood.stages.4.label>
+  <Gastronomy_BoughtFood.stages.4.description>Обід б'є по кишені.</Gastronomy_BoughtFood.stages.4.description>
+  <Gastronomy_BoughtFood.stages.5.label>грандіозні ціни</Gastronomy_BoughtFood.stages.5.label>
+  <Gastronomy_BoughtFood.stages.5.description>Я що, схожий на мільйонера?</Gastronomy_BoughtFood.stages.5.description>
+
+
+</LanguageData>

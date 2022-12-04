@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VanillaBooksExpandedExpanded_ReadBook>Читиати {TITLE}, {BOOK}</VanillaBooksExpandedExpanded_ReadBook>
+  <VanillaBooksExpandedExpanded_BookIsCopy>Ця книжка - копія.</VanillaBooksExpandedExpanded_BookIsCopy>
+  <VanillaBooksExpandedExpanded_StatsReport_BookIsCopied>Ця книжка - копія</VanillaBooksExpandedExpanded_StatsReport_BookIsCopied>
+  <VanillaBooksExpandedExpanded_StatsReport_BookIsOriginal>Ця книжка - оригінал</VanillaBooksExpandedExpanded_StatsReport_BookIsOriginal>
+  <VanillaBooksExpandedExpanded_CantReadBookNoIdeo>Не може читати книгу: потрібна ідеологія</VanillaBooksExpandedExpanded_CantReadBookNoIdeo>
+  <VanillaBooksExpandedExpanded_BookRelatedToIdeo>Книга відноситься до ідеології {IDEO}.</VanillaBooksExpandedExpanded_BookRelatedToIdeo>
+  <VanillaBooksExpandedExpanded_BookIdeoTitle>{IDEO}: {TITLE}</VanillaBooksExpandedExpanded_BookIdeoTitle>
+
+</LanguageData>

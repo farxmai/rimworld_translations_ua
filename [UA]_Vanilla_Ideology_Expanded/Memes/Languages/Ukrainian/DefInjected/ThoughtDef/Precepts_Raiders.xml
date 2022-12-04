@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Honorable.stages.0.label>участь в рейді</VME_ParticipatedInRaid_Honorable.stages.0.label>
+  <!-- EN: I participated in a raid. Through conquest, we bring honor to our colony. -->
+  <VME_ParticipatedInRaid_Honorable.stages.0.description>Я брав участь в рейді. Через завоювання ми здобуваємо славу нашій колонії.</VME_ParticipatedInRaid_Honorable.stages.0.description>
+
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Honorable.stages.0.label>недавній рейд</VME_RecentConquest_Honorable.stages.0.label>
+  <!-- EN: We recently raided another faction. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.0.description>Нещодавно ми здійснили наліт на іншу фракцію і здобули славу нашій колонії.</VME_RecentConquest_Honorable.stages.0.description>
+
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Honorable.stages.1.label>без недавніх рейдів</VME_RecentConquest_Honorable.stages.1.label>
+  <!-- EN: It's been far too long since we raided anyone. Through conquest, we bring honor to our colony. -->
+  <VME_RecentConquest_Honorable.stages.1.description>Минуло надто багато часу з тих пір, як ми на когось нападали. Через завоювання ми здобуваємо славу нашій колонії.</VME_RecentConquest_Honorable.stages.1.description>
+
+  <!-- EN: participated in raid -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.label>участь в рейді</VME_ParticipatedInRaid_Abhorrent.stages.0.label>
+  <!-- EN: I participated in a raid. How could we do that? It's horribly shameful! -->
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.description>Я брав участь в рейді. Як ми могли це зробити? Це ганебно!</VME_ParticipatedInRaid_Abhorrent.stages.0.description>
+
+  <!-- EN: recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.0.label>недавній рейд</VME_RecentConquest_Abhorrent.stages.0.label>
+  <!-- EN: We recently raided another faction. This is horrible and brings shame to our colony. -->
+  <VME_RecentConquest_Abhorrent.stages.0.description>Нещодавно ми напали на іншу фракцію. Цей жахливий вчинок ганьбить наше поселення.</VME_RecentConquest_Abhorrent.stages.0.description>
+
+  <!-- EN: no recent conquest -->
+  <VME_RecentConquest_Abhorrent.stages.1.label>без недавніх рейдів</VME_RecentConquest_Abhorrent.stages.1.label>
+  <!-- EN: It's been a long since we raided anyone. This is as it should be, we are not bullies. -->
+  <VME_RecentConquest_Abhorrent.stages.1.description>Давно ми ні на кого не робили облави. Так і має бути, ми ж не бандити.</VME_RecentConquest_Abhorrent.stages.1.description>
+</LanguageData>

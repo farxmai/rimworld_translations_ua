@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dark candle -->
+  <VFEM_DarkCandle.label>тьмяна свічка</VFEM_DarkCandle.label>
+  <!-- EN: A primitive darklight candle made from meat and fat. It can burn for a long time, but it does not light up the area well. -->
+  <VFEM_DarkCandle.description>Примітивна свічка із тваринного жиру. Може горіти дуже довго, але світить слабо і тьмяно.</VFEM_DarkCandle.description>
+
+  <!-- EN: darktorch -->
+  <Darktorch.label>тьмяний факел</Darktorch.label>
+  <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <Darktorch.description>Спеціально оброблений дерев’яний смолоскип, який створює тьмяне світло на великій площі. Люди, які віддають перевагу темному світлу, найкраще працюють із цим джерелом світла. Може автоматично заправлятися дровами. Виділяє невелику кількість тепла.</Darktorch.description>
+
+  <!-- EN: fungus darktorch -->
+  <DarktorchFungus.label>тьмяний грибний факел</DarktorchFungus.label>
+  <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
+  <DarktorchFungus.description>Спеціально оброблений грибний смолоскип, який створює тьмяне світло на великій площі. Люди, які віддають перевагу темному світлу, найкраще працюють із цим джерелом світла. Можна автоматично заправляти сирими грибами. Виділяє невелику кількість тепла.</DarktorchFungus.description>
+
+  <!-- EN: wall-mounted torch lamp -->
+  <VFEM_WallTorchLamp.label>настінний факел</VFEM_WallTorchLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. People need darklight to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <VFEM_WallTorchLamp.description>Настінний дерев'яний смолоскип для освітлення найближчої області. Для того, щоб підтримувати вогонь, знадобиться дерево. Виробляє невелику кількість тепла.</VFEM_WallTorchLamp.description>
+
+  <!-- EN: wall-mounted torch lamp -->
+  <VFEM_WallTorchDarkLamp.label>настінний тьмяний факел</VFEM_WallTorchDarkLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. People need darklight to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <VFEM_WallTorchDarkLamp.description>Настінний дерев'яний смолоскип для освітлення найближчої області. Тьмяне світло потрібне людям для роботи та зручності пересування. Для того, щоб підтримувати вогонь, знадобиться дерево. Виробляє невелику кількість тепла.</VFEM_WallTorchDarkLamp.description>
+
+</LanguageData>

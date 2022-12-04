@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Drinks.label>напої</VBE_Drinks.label>
+
+  <VBE_DrinksSimpleSpirits.label>прості алкогольні напої</VBE_DrinksSimpleSpirits.label>
+
+  <VBE_DrinksLuxurySpirits.label>елітні алкогольні напої</VBE_DrinksLuxurySpirits.label>
+
+  <VBE_DrinksNonAlcoholic.label>безалкогольні напої</VBE_DrinksNonAlcoholic.label>
+
+  <VBE_Musts.label>сусла та сиропи</VBE_Musts.label>
+
+</LanguageData>

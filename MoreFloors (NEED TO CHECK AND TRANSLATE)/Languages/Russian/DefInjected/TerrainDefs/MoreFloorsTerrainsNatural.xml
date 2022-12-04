@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FloorStraw.label>Соломенный пол</FloorStraw.label>
+  <FloorJade.label>Нефритовый пол</FloorJade.label>
+
+  <FloorStraw.description>Простой пол из высушенной травы.</FloorStraw.description>
+  <FloorJade.description>Впечатляющий пол из полированных плит твердого нефрита. Выгляит потрясающе, но укладывать нужно долго.</FloorJade.description>
+
+</LanguageData>

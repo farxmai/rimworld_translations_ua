@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Salamander -->
+
+  <VAECaves_EggSalamanderFertilized.label>яйце сліпої саламандри (запліднене.)</VAECaves_EggSalamanderFertilized.label>
+  <VAECaves_EggSalamanderFertilized.description>Запліднене яйце сліпої саламандри. Якщо все піде добре, з нього вилупиться дитинча сліпої саламандри. Його можна з'їсти сирим, але набагато краще приготувати. Спеціальна механіка: яйця сліпих саламандр дуже крихкі та зіпсуються, якщо зберігати їх поза вузьким температурним діапазоном (5 to 25 ºC).</VAECaves_EggSalamanderFertilized.description>
+
+
+  <!-- Cave Crawler Egg -->
+
+  <VAECaves_CaveCrawlerEggFertilized.label>яйце печерного падальника (запліднене)</VAECaves_CaveCrawlerEggFertilized.label>
+  <VAECaves_CaveCrawlerEggFertilized.description>Заплідне яйце печерного падальника. Його можна з'їсти сирим, але краще приготувати. Взагалі-то це яйце комахи і воно досить огидне ... Якщо все піде добре, з нього вилупиться личинка печерного падальника</VAECaves_CaveCrawlerEggFertilized.description>
+
+
+</LanguageData>

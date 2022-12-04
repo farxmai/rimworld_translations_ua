@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_Power.label>енергія</VFE_Mechanoids_Power.label>
+  <VFE_Mechanoids_Power.description>Енергія - це кількість електроенергії внутрішніх батарей машини, що залишилася, якщо заряд батарей опуститься занадто сильно, машина перестане виконувати завдання і повернеться на станцію для підзарядки.</VFE_Mechanoids_Power.description>
+
+</LanguageData>

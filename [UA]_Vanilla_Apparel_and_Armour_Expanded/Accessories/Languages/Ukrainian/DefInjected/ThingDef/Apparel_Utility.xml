@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: battle banner -->
+  <VAEA_Apparel_BattleBanner.label>бойовий стяг</VAEA_Apparel_BattleBanner.label>
+  <!-- EN: A battle banner. Gives the wearer a fighting spirit and confidence. -->
+  <VAEA_Apparel_BattleBanner.description>Бойовий прапор зміцнює віру в себе і свою перемогу в битві.</VAEA_Apparel_BattleBanner.description>
+
+  <!-- EN: medic bag -->
+  <VAEA_Apparel_MedicBag.label>польова аптечка</VAEA_Apparel_MedicBag.label>
+  <!-- EN: A bag with everything needed to provide medical treatment. -->
+  <VAEA_Apparel_MedicBag.description>Сумка із усім необхідним для надання першої допомоги.</VAEA_Apparel_MedicBag.description>
+
+  <!-- EN: quiver -->
+  <VAEA_Apparel_Quiver.label>колчан</VAEA_Apparel_Quiver.label>
+  <!-- EN: Small quiver for arrows. -->
+  <VAEA_Apparel_Quiver.description>Маленький сагайдак для стріл.</VAEA_Apparel_Quiver.description>
+
+  <!-- EN: tool belt -->
+  <VAEA_Apparel_ToolBelt.label>пояс з інструментами</VAEA_Apparel_ToolBelt.label>
+  <!-- EN: A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances. -->
+  <VAEA_Apparel_ToolBelt.description>Простий пояс з усіма необхідними інструментами для будь-якої роботи: від забивання цвяхів до ремонту електроніки.</VAEA_Apparel_ToolBelt.description>
+
+  <!-- EN: ammo pack -->
+  <VAEA_Apparel_AmmoPack.label>пояс з патронташем</VAEA_Apparel_AmmoPack.label>
+  <!-- EN: Bandolier with ammunition. -->
+  <VAEA_Apparel_AmmoPack.description>Сумки з боєприпасами.</VAEA_Apparel_AmmoPack.description>
+
+  <!-- EN: explosive belt -->
+  <VAEA_Apparel_ExplosiveBelt.label>пояс самодетонації</VAEA_Apparel_ExplosiveBelt.label>
+  <!-- EN: A belt with explosives. -->
+  <VAEA_Apparel_ExplosiveBelt.description>Заряди вибухівки закріплені на поясі.</VAEA_Apparel_ExplosiveBelt.description>
+
+  <!-- EN: ranged shield belt -->
+  <VAEA_Apparel_RangedShieldBelt.label>пояс-щит стрілецький</VAEA_Apparel_RangedShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <VAEA_Apparel_RangedShieldBelt.description>Поясні генератори захисного поля. Зупиняє балістичні снаряди та уламки, але марний проти рукопашних атак та високотемпературних впливів. Не заважає стрілянині, але миттєво відключається від ЕМІ.</VAEA_Apparel_RangedShieldBelt.description>
+
+  <!-- EN: ressurector belt -->
+  <VAEA_Apparel_RessurectorBelt.label>пояс воскресіння</VAEA_Apparel_RessurectorBelt.label>
+  <!-- EN: A belt containing a dose of resurrector serum. Injects the serum immediately after death. -->
+  <VAEA_Apparel_RessurectorBelt.description>Пояс із дозою сироватки воскресіння. Після смерті власника негайно вводить сироватку.</VAEA_Apparel_RessurectorBelt.description>
+
+  <!-- EN: mini-turret pack -->
+  <VAEA_Apparel_MiniTurretPack.label>комплект міні-турелі</VAEA_Apparel_MiniTurretPack.label>
+  <!-- EN: A small pack of ammunition and components that control a shoulder mounted mini-turret. -->
+  <VAEA_Apparel_MiniTurretPack.description>Невелика сумка з боєприпасами та автоматикою, що керує міні-туреллю закріпленою на плечі.</VAEA_Apparel_MiniTurretPack.description>
+  <!-- EN: A simple automatic gun made to be mounted on a shoulder. -->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>Проста автоматична зброя, закріплена на спині.</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>
+</LanguageData>

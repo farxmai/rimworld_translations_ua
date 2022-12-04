@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: psychic agility -->
+  <VPE_SpeedBoost.label>псі-спритність</VPE_SpeedBoost.label>
+  <!-- EN: Psychically induced agility boost, greatly increasing movement speed. -->
+  <VPE_SpeedBoost.description>Психічно викликане підвищення спритності, що значно збільшує швидкість пересування.</VPE_SpeedBoost.description>
+
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.label>фокусування удару</VPE_BladeFocus.label>
+  <!-- EN: Psychically induced combat focus, greatly enhancing melee combat capabilities. -->
+  <VPE_BladeFocus.description>Психічно викликана бойова концентрація, що значно покращує можливості ближнього бою.</VPE_BladeFocus.description>
+
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.label>фокусування пострілу</VPE_FiringFocus.label>
+  <!-- EN: Psychically induced combat focus, greatly enhancing ranged combat capabilities. -->
+  <VPE_FiringFocus.description>Психічно викликана бойова концентрація, що значно покращує можливості стрільби.</VPE_FiringFocus.description>
+
+  <!-- EN: psychic rush -->
+  <VPE_AdrenalineRush.label>псі-натиск</VPE_AdrenalineRush.label>
+  <!-- EN: Psychically induced adrenaline rush, increasing sight, hearing and movement capabilities. -->
+  <VPE_AdrenalineRush.description>Психічно викликаний приплив адреналіну, що покращує зір, слух та пересування.</VPE_AdrenalineRush.description>
+
+  <!-- EN: psychic frenzy -->
+  <VPE_ControlledFrenzy.label>псі-божевілля</VPE_ControlledFrenzy.label>
+  <!-- EN: Temporary, psychically induced frenzy. The energy restores itself with each consecutive kill. -->
+  <VPE_ControlledFrenzy.description>Психічно викликане тимчасове буйство. Енергія відновлюється після кожного вбивства.</VPE_ControlledFrenzy.description>
+
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.label>спрямований постріл</VPE_GuidedShot.label>
+  <!-- EN: Psychically induced insane accuracy. -->
+  <VPE_GuidedShot.description>Психічно викликана шалена точність пострілу.</VPE_GuidedShot.description>
+</LanguageData>

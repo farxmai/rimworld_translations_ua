@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_TilledSoil.label>орати ґрунт</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>Обробка ґрунту — прийоми механічного впливу на ґрунт, що сприяють підвищенню його родючості та створенню кращих умов для зростання та розвитку рослин. Обробляти ґрунт можна тільки на звичайній землі (не на родючому ґрунті). Коли рослину збирають на зораному ґрунті, вона знову стає нормальним ґрунтом і її потрібно знову зорати вручну.</VCE_TilledSoil.description>
+  <VCE_TilledSoil.tools.dirt.label>бруд</VCE_TilledSoil.tools.dirt.label>
+</LanguageData>

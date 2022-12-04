@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookDessertSimple.label>приготувати простий десерт</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>Приготувати простий десерт.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>готує простий десерт</VCE_CookDessertSimple.jobString>
+
+  <VCE_CookDessertSimpleBulk.label>приготувати простий десерт x4</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>Приготувати 4 простих десерти.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>готує простий десерт x4</VCE_CookDessertSimpleBulk.jobString>
+
+  <VCE_CookDessertFine.label>приготувати чудовий десерт</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>Приготувати чудовий десерт.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>готує чудовий десерт</VCE_CookDessertFine.jobString>
+
+  <VCE_CookDessertFineBulk.label>приготувати чудовий десерт x4</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>Приготувати 4 чудових десерти.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>готує чудовий десерт x4</VCE_CookDessertFineBulk.jobString>
+
+  <VCE_CookDessertLavish.label>приготувати вишуканий десерт</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>Приготувати вишуканий десерт.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>готує вишуканий десерт</VCE_CookDessertLavish.jobString>
+
+  <VCE_CookDessertLavishBulk.label>приготувати вишуканий десерт x4</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>Приготувати 4 вишуканих десерти.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>готує вишуканий десерт x4</VCE_CookDessertLavishBulk.jobString>
+
+  <VCE_CookDessertGourmet.label>приготувати першокласний десерт</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>Приготувати першокласний десерт - вершина кулінарного мистецтва.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>готує першокласний десерт</VCE_CookDessertGourmet.jobString>
+
+</LanguageData>

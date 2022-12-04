@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedMayo.label>спожито майонез (зі страви)</VCE_ConsumedMayo.label>
+  <VCE_ConsumedMayo.description>Майонез, хоч і жахливий для здоров'я, має приємний запах і дуже калорійний. Знижує рівень голоду на 15% упродовж 24 годин.</VCE_ConsumedMayo.description>
+
+  <VCE_ConsumedAgave.label>спожито нектар агави (зі страви)</VCE_ConsumedAgave.label>
+  <VCE_ConsumedAgave.description>Напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями. Підвищує швидкість імунізації на 15% протягом 24 годин.</VCE_ConsumedAgave.description>
+
+  <VCE_ConsumedSpices.label>спожито спеції (зі страви)</VCE_ConsumedSpices.label>
+  <VCE_ConsumedSpices.description>Спожито безліч ароматних та гострих спецій. Збільшує характеристики маніпуляції за 24 години.</VCE_ConsumedSpices.description>
+
+  <VCE_WellFed.label>спожито страву на грилі</VCE_WellFed.label>
+  <VCE_WellFed.description>З'їдено смачну страву з гриля. Знижує рівень голоду на 25% упродовж 12 годин.</VCE_WellFed.description>
+
+  <VCE_WellFedSimple.label>спожито просту страву на грилі</VCE_WellFedSimple.label>
+  <VCE_WellFedSimple.description>З'їдено просту страву з гриля. Знижує рівень голоду на 25% упродовж 12 годин.</VCE_WellFedSimple.description>
+
+  <VCE_WellFedFine.label>спожито чудову страву на грилі</VCE_WellFedFine.label>
+  <VCE_WellFedFine.description>З'їдено чудову страву з гриля. Знижує рівень голоду на 25% упродовж 12 годин.</VCE_WellFedFine.description>
+
+  <VCE_WellFedLavish.label>спожито вишукану страву на грилі</VCE_WellFedLavish.label>
+  <VCE_WellFedLavish.description>З'їдено вишукану страву з гриля. Знижує рівень голоду на 25% упродовж 12 годин.</VCE_WellFedLavish.description>
+
+  <VCE_WellFedGourmet.label>спожито першокласну страву на грилі</VCE_WellFedGourmet.label>
+  <VCE_WellFedGourmet.description>З'їдено першокласну страву з гриля. Знижує рівень голоду на 25% упродовж 12 годин.</VCE_WellFedGourmet.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.label>спожито воскрешаючі механіти (зі страви)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.description>Воскрешаючі механиты воскресят эту пешку, пока они активны в её теле. Эффект длится 12 часов.</VCE_ConsumedDigestibleResurrectorNanites.description>
+
+  <VCE_SugarRush.label>спожито цукор (зі страви)</VCE_SugarRush.label>
+  <VCE_SugarRush.description>Цукор легко перетворюється організмом на енергію. Збільшує рухливість на 15% за 24 години.</VCE_SugarRush.description>
+
+  <VCE_AteGourmetMeal.label>спожито першокласну страву</VCE_AteGourmetMeal.label>
+  <VCE_AteGourmetMeal.description>Цей колоніст спожив неймовірно смачну їжу.</VCE_AteGourmetMeal.description>
+
+</LanguageData>

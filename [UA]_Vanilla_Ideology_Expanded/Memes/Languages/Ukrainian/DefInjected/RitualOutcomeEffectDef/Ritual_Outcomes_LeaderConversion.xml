@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
+  <VME_LeaderConversionOutcome.description>Якщо все пройде добре, впевненість мети у своїх переконаннях знизиться, а то й взагалі дозволити звернутися до нашої ідеолігії. Якщо все піде погано, упевненість цілі у своїх старих переконаннях зміцниться.</VME_LeaderConversionOutcome.description>
+  <!-- EN: room impressiveness -->
+  <VME_LeaderConversionOutcome.comps.0.label>враження від приміщення</VME_LeaderConversionOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_LeaderConversionOutcome.comps.1.label>кількість учасників</VME_LeaderConversionOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_LeaderConversionOutcome.comps.2.label>соціальний вплив {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <VME_LeaderConversionOutcome.comps.2.labelAbstract>соціальний вплив промовця</VME_LeaderConversionOutcome.comps.2.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <VME_LeaderConversionOutcome.comps.3.label>очікування {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.3.label>
+  <!-- EN: convertee's expectations -->
+  <VME_LeaderConversionOutcome.comps.3.labelAbstract>очікування схиляємого</VME_LeaderConversionOutcome.comps.3.labelAbstract>
+
+  <!-- EN: Terrible -->
+  <VME_LeaderConversionOutcome.outcomeChances.0.label>жахливо</VME_LeaderConversionOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
+  <VME_LeaderConversionOutcome.outcomeChances.0.description>{0} було жахливо! З першого ж слова почалося переливання з порожнього до порожнього. Цей... діалог продовжився до незручності довго.</VME_LeaderConversionOutcome.outcomeChances.0.description>
+
+  <!-- EN: Ineffective -->
+  <VME_LeaderConversionOutcome.outcomeChances.1.label>непереконливо</VME_LeaderConversionOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense. -->
+  <VME_LeaderConversionOutcome.outcomeChances.1.description>{0} було непереконливо. Більшість аргументів була невиразними, навернений заперечив ті, що мали сенс.</VME_LeaderConversionOutcome.outcomeChances.1.description>
+
+  <!-- EN: Effective -->
+  <VME_LeaderConversionOutcome.outcomeChances.2.label>переконливо</VME_LeaderConversionOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well. -->
+  <VME_LeaderConversionOutcome.outcomeChances.2.description>{0} було переконливо. Мова не тільки містила переконливі аргументи, які помітно вплинули на думку, але й розважила всіх присутніх.</VME_LeaderConversionOutcome.outcomeChances.2.description>
+
+  <!-- EN: Masterful -->
+  <VME_LeaderConversionOutcome.outcomeChances.3.label>майстерно</VME_LeaderConversionOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
+  <VME_LeaderConversionOutcome.outcomeChances.3.description>{0} було майстерно! Старі переконання начебто просто випарувалися, і було прийнято нашу ідеологію.</VME_LeaderConversionOutcome.outcomeChances.3.description>
+</LanguageData>

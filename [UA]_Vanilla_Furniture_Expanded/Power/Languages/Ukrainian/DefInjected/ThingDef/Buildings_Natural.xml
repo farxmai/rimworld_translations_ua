@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_HelixienGeyser.label>родовище хеліксінового газу</VPE_HelixienGeyser.label>
+  <VPE_HelixienGeyser.description>природне джерело газу високого тиску. Хеліксіновий насос може бути побудований на ньому для видобутку цього газу.</VPE_HelixienGeyser.description>
+
+  <VPE_ChemfuelPond.label>родовище хімпалива</VPE_ChemfuelPond.label>
+  <VPE_ChemfuelPond.description>Природне джерело хімічного палива найчастіше зустрічається в посушливих біомах. На ньому можна встановити насос хімічного палива для видобутку цього палива. Згодом воно повністю спустошиться.</VPE_ChemfuelPond.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_CiderHigh.label>під сидром</VBE_CiderHigh.label>
+  <VBE_CiderHigh.description>Алкоголь із сидру в кровотоку. Він робить людей щасливими, але знижує потенціал. Не може спричинити алкогольну залежність. Пішак не може пройти далі першої стадії сп'яніння, хоч би скільки його пив.</VBE_CiderHigh.description>
+  <VBE_CiderHigh.stages.0.label>на підпитку</VBE_CiderHigh.stages.0.label>
+  <VBE_CiderHigh.labelNoun>під сидром</VBE_CiderHigh.labelNoun>
+
+
+</LanguageData>

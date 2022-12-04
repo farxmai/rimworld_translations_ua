@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>VGP Vegetable Garden</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<!-- VCE Sugarcane to Uba sugarcane -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Sugarcane"]/label</xpath>
+					<value>
+						<label>цукрова тростина Уба</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Sugarcane"]/description</xpath>
+					<value>
+						<description>Густа, висока, тропічна рослина із зчленованими стеблами. Його кінцевий продукт – цукор, який використовується для створення різних кулінарних витворів – зокрема, для десертів.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_RawSugar"]/label</xpath>
+					<value>
+						<label>коричневий цукор</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_RawSugar"]/description</xpath>
+					<value>
+						<description>Коричневий цукор – це цукор з характерним коричневим кольором через присутність патоки цукрової тростини. Цукор легко перетворюється організмом на енергію, але може деструктивно впливати на нирки та викликати діабет при вживанні в надмірних кількостях.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/HediffDef[defName="VCE_SugarRush"]/label</xpath>
+					<value>
+						<label>з'їв(ла) коричневий цукор (зі страви)</label>
+					</value>
+				</li>
+				<!-- VCE Wheat to spelt -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Wheat"]/label</xpath>
+					<value>
+						<label>пшениця спельта</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Wheat"]/description</xpath>
+					<value>
+						<description>Спельта - це вид пшениці, який культивують приблизно з 5000 до н.е. Гарне джерело харчових волокон, білка (якого в спельті більше, ніж у звичайній пшениці), а також вітамінів та мінералів.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Flour"]/label</xpath>
+					<value>
+						<label>борошно спельта</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Flour"]/description</xpath>
+					<value>
+						<description>Пшеничне борошно спельти, що використовується у випічці. Пшеничне борошно дуже довго псується, якщо зберігається у сухому місці.</description>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

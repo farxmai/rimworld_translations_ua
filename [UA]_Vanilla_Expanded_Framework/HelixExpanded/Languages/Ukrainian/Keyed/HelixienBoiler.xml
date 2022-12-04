@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HeatingModeHelixien>Од. опалення/потужність: {0} U / {1} м3</HeatingModeHelixien>
+	<LowerHelixien>Зменшити живлення</LowerHelixien>
+	<RaiseHelixien>Збільшити живлення</RaiseHelixien>
+</LanguageData>

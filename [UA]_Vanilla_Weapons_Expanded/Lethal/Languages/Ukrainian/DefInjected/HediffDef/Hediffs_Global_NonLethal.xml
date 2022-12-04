@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_TearGas.label>сльозогінний газ</VWE_TearGas.label>
+  <VWE_TearGas.description>Сльозогінний газ викликає печіння в очах та носі та повністю блокує зір.</VWE_TearGas.description>
+  <VWE_TearGas.stages.0.label>вивітрювання</VWE_TearGas.stages.0.label>
+  <VWE_TearGas.stages.1.label>сльози</VWE_TearGas.stages.1.label>
+  <VWE_TearGas.stages.2.label>сліпота</VWE_TearGas.stages.2.label>
+
+  <VWE_Anesthetic.label>присипання</VWE_Anesthetic.label>
+  <VWE_Anesthetic.description>Анестетик у крові занурює у сон і викликає втрату свідомості.</VWE_Anesthetic.description>
+  <VWE_Anesthetic.stages.0.label>сонливість</VWE_Anesthetic.stages.0.label>
+  <VWE_Anesthetic.stages.1.label>запаморочення</VWE_Anesthetic.stages.1.label>
+  <VWE_Anesthetic.stages.2.label>присипання</VWE_Anesthetic.stages.2.label>
+  <VWE_Anesthetic.stages.3.label>присипання подіяло</VWE_Anesthetic.stages.3.label>
+</LanguageData>

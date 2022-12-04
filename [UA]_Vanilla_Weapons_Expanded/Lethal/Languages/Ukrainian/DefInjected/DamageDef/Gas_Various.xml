@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWENL_TearGas.label>сльозогінний газ</VWENL_TearGas.label>
+  <VWENL_TearGas.deathMessage>{0} {0_gender ? задихнувся : задихнулася}.</VWENL_TearGas.deathMessage>
+</LanguageData>

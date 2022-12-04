@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Moa Eggs -->
+
+  <AEXP_EggMoaFertilized.label>яйце моа (запліднене)</AEXP_EggMoaFertilized.label>
+  <AEXP_EggMoaFertilized.description>Запліднене яйце моа. Якщо все піде добре, з нього вилупиться пташеня моа. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggMoaFertilized.description>
+
+
+  <!-- Rockhopper Penguin Eggs -->
+
+  <AEXP_EggRockhopperPenguinFertilized.label>яйце чубатого пінгвіна (запліднене)</AEXP_EggRockhopperPenguinFertilized.label>
+  <AEXP_EggRockhopperPenguinFertilized.description>Запліднене яйце чубатого пінгвіна. Якщо все піде добре, з нього вилупиться пташеня чубатого пінгвіна. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggRockhopperPenguinFertilized.description>
+
+
+</LanguageData>

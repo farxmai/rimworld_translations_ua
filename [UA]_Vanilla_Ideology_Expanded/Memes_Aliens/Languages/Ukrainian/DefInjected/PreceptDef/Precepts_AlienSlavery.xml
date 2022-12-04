@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.3/Mods/Ideology/Defs/PreceptDefs/Precepts_AlienSlavery.xml-->
+  <!-- abhorrent -->
+  <HAR_AlienSlavery_Abhorrent.label>огидно</HAR_AlienSlavery_Abhorrent.label>
+  <!-- Owning or trading alien beings is deeply evil. -->
+  <HAR_AlienSlavery_Abhorrent.description>Володіння інопланетними істотами чи торгівля ними - це абсолютне зло.</HAR_AlienSlavery_Abhorrent.description>
+  <!-- Each alien slave in colony -->
+  <HAR_AlienSlavery_Abhorrent.comps.0.description>Інопланетний раб у колонії</HAR_AlienSlavery_Abhorrent.comps.0.description>
+  <!-- Someone sold an alien slave -->
+  <HAR_AlienSlavery_Abhorrent.comps.5.description>Продано інопланетного раба</HAR_AlienSlavery_Abhorrent.comps.5.description>
+  <!-- horrible -->
+  <HAR_AlienSlavery_Horrible.label>жахливо</HAR_AlienSlavery_Horrible.label>
+  <!-- Owning or trading alien beings is a horrible thing. -->
+  <HAR_AlienSlavery_Horrible.description>Володіння інопланетними істотами чи торгівля ними - це дуже не гуманно.</HAR_AlienSlavery_Horrible.description>
+  <!-- Each alien slave in colony -->
+  <HAR_AlienSlavery_Horrible.comps.0.description>Інопланетний раб у колонії</HAR_AlienSlavery_Horrible.comps.0.description>
+  <!-- Someone sold an alien slave -->
+  <HAR_AlienSlavery_Horrible.comps.5.description>Продано інопланетного раба</HAR_AlienSlavery_Horrible.comps.5.description>
+  <!-- Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Horrible.comps.6.description>Поневолено інопланетного в'язня</HAR_AlienSlavery_Horrible.comps.6.description>
+  <!-- disapproved -->
+  <HAR_AlienSlavery_Disapproved.label>не схвалюється</HAR_AlienSlavery_Disapproved.label>
+  <!-- Alien slavery is part of life, though it is extremely distasteful. -->
+  <HAR_AlienSlavery_Disapproved.description>Поневолення інопланетян - це частина життя, хоча це і вкрай неприємно.</HAR_AlienSlavery_Disapproved.description>
+  <!-- Each alien slave in colony -->
+  <HAR_AlienSlavery_Disapproved.comps.0.description>Інопланетний раб у колонії</HAR_AlienSlavery_Disapproved.comps.0.description>
+  <!-- Someone sold an alien slave -->
+  <HAR_AlienSlavery_Disapproved.comps.5.description>Продано інопланетного раба</HAR_AlienSlavery_Disapproved.comps.5.description>
+  <!-- Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Disapproved.comps.6.description>Поневолено інопланетного в'язня</HAR_AlienSlavery_Disapproved.comps.6.description>
+  <!-- acceptable -->
+  <HAR_AlienSlavery_Acceptable.label>прийнятно</HAR_AlienSlavery_Acceptable.label>
+  <!-- Slavery of alien races is a normal, unremarkable part of life. -->
+  <HAR_AlienSlavery_Acceptable.description>Поневолення інопланетних рас - нормальна, нічим не примітна частина життя.</HAR_AlienSlavery_Acceptable.description>
+  <!-- honorable -->
+  <HAR_AlienSlavery_Honorable.label>почесно</HAR_AlienSlavery_Honorable.label>
+  <!-- One who owns and trades alien slaves should be honored and respected. -->
+  <HAR_AlienSlavery_Honorable.description>Той, хто володіє інопланетними рабами та торгує ними, має користуватися пошаною та повагою.</HAR_AlienSlavery_Honorable.description>
+  <!-- Each alien slave in colony -->
+  <HAR_AlienSlavery_Honorable.comps.0.description>Інопланетний раб у колонії</HAR_AlienSlavery_Honorable.comps.0.description>
+  <!-- Someone sold an alien slave -->
+  <HAR_AlienSlavery_Honorable.comps.6.description>Продано інопланетного раба</HAR_AlienSlavery_Honorable.comps.6.description>
+  <!-- Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Honorable.comps.7.description>Поневолено інопланетного в'язня</HAR_AlienSlavery_Honorable.comps.7.description>
+
+</LanguageData>

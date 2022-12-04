@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Bullet_ChargePistol.label>заряд енергопістолета</VWE_Bullet_ChargePistol.label>
+
+  <VWE_Gun_ChargePistol.label>енергопістолет</VWE_Gun_ChargePistol.label>
+  <VWE_Gun_ChargePistol.description>Пістолет для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.</VWE_Gun_ChargePistol.description>
+  <VWE_Gun_ChargePistol.tools.0.label>ствол</VWE_Gun_ChargePistol.tools.0.label>
+
+  <VWE_Bullet_ChargeShotgun.label>заряд енергодробовика</VWE_Bullet_ChargeShotgun.label>
+
+  <VWE_Gun_ChargeShotgun.label>енергодробовик</VWE_Gun_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.description>Дробовики для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.</VWE_Gun_ChargeShotgun.description>
+  <VWE_Gun_ChargeShotgun.tools.0.label>ствол</VWE_Gun_ChargeShotgun.tools.0.label>
+
+  <VWE_Bullet_ChargeSMG.label>заряд енергетичного ПП</VWE_Bullet_ChargeSMG.label>
+
+  <VWE_Gun_ChargeSMG.label>енергетичний ПП</VWE_Gun_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.description>ПК для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.\n\nСтріляє швидко, але вимагає короткої дистанції до цілі.</VWE_Gun_ChargeSMG.description>
+  <VWE_Gun_ChargeSMG.tools.0.label>ствол</VWE_Gun_ChargeSMG.tools.0.label>
+
+  <VWE_Bullet_ChargeLMG.label>заряд енергокулемета</VWE_Bullet_ChargeLMG.label>
+
+  <VWE_Gun_ChargeLMG.label>енергокулемет</VWE_Gun_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.description>Кулемет для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.\n\nЕнергетичний легкий кулемет випускає залп снарядів із екстремально високою швидкістю, що робить його ідеальним для вогню на придушення.</VWE_Gun_ChargeLMG.description>
+  <VWE_Gun_ChargeLMG.tools.0.label>ствол</VWE_Gun_ChargeLMG.tools.0.label>
+
+  <VWE_Bullet_ChargeSniperRifle.label>заряд енергогвинтівки</VWE_Bullet_ChargeSniperRifle.label>
+
+  <VWE_Gun_ChargeSniperRifle.label>снайперська енергогвинтівка</VWE_Gun_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.description>Триствольна снайперська гвинтівка для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.\n\nЧерез одночасний постріл з трьох стволів, потужність зброї та скорострільність знижені.</VWE_Gun_ChargeSniperRifle.description>
+  <VWE_Gun_ChargeSniperRifle.tools.0.label>приклад</VWE_Gun_ChargeSniperRifle.tools.0.label>
+  <VWE_Gun_ChargeSniperRifle.tools.1.label>ствол</VWE_Gun_ChargeSniperRifle.tools.1.label>
+
+  <VWE_Bullet_ChargeMinigun.label>заряд мініган</VWE_Bullet_ChargeMinigun.label>
+
+  <VWE_Gun_ChargeMinigun.label>енергетичний мініган</VWE_Gun_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.description>Мініган для ведення вогню енергетичними набоями. Завдяки технології імпульсно-заряджених снарядів, кожен постріл заряджається нестабільною енергією, коли залишає ствол. Вивільнена при ударі енергія значно збільшує завданої шкоди.\n\nЗавдяки здатності накрити цілу область залпом бронебійних снарядів, мініган часто використовується найманцями з утопічних світів під час їх нальотів, що мають погану репутацію.</VWE_Gun_ChargeMinigun.description>
+  <VWE_Gun_ChargeMinigun.tools.0.label>приклад</VWE_Gun_ChargeMinigun.tools.0.label>
+  <VWE_Gun_ChargeMinigun.tools.1.label>ствол</VWE_Gun_ChargeMinigun.tools.1.label>
+
+  <Gun_ChargeRifle.label>енергогвинтівка</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>Гвинтівка для ведення вогню енергетичними набоями. Технологія імпульсного заряду заряджає кожен постріл нестабільною енергією. Випущена при ударі заряджена енергія значно потужніша ніж звичайна.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.stock.label>приклад</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.barrel.label>ствол</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>енергетична гвинтівка</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+
+</LanguageData>

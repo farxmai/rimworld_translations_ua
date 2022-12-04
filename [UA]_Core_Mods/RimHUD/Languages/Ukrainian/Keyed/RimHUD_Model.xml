@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>з {0}</RimHUD.Model.OfFaction>
+
+  <RimHUD.Model.Faction.Own>Свій</RimHUD.Model.Faction.Own>
+  <RimHUD.Model.Faction.Wild>Дикий</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>Союзник</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>Ворог</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>Ворожий</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>Нейтральний</RimHUD.Model.Faction.Independent>
+
+  <RimHUD.Model.Creature.Wild>істота</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>приручена істота</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>безпритульне</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>тварина</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>екзотична тварина</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>хижак</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>мисливська тварина</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>стайна тварина</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>домашня тварина</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>стадна тварина</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>інсектоїд</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Mechanoid>механоїд</RimHUD.Model.Creature.Mechanoid>
+  <RimHUD.Model.Creature.Unit>одиниця</RimHUD.Model.Creature.Unit>
+  <RimHUD.Model.Creature.Entity>сутність</RimHUD.Model.Creature.Entity>
+
+  <RimHUD.Model.GenderRaceAndAge>{0} вік {1}</RimHUD.Model.GenderRaceAndAge>
+  <RimHUD.Model.Age.Birthday>(Сьогодні День народження)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>і один день</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>років і {0} днів</RimHUD.Model.Age.Days>
+
+  <RimHUD.Model.Health.Dead>Мертвий</RimHUD.Model.Health.Dead>
+  <RimHUD.Model.Health.Incapacitated>Недієздатний</RimHUD.Model.Health.Incapacitated>
+  <RimHUD.Model.Health.Bleed>Спливе кров'ю за {0}</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0} стану потрібно догляд</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0} станам потрібно догляд</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Має загрозу для життя {0}</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>Має {0} станів загрозливих для життя</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>Страждає від {0}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedPlural>Страждає від {0} і {1} інших станів</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Stable>Здоров'я в нормі</RimHUD.Model.Health.Stable>
+
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Депресія</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Невдоволення</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Стрес</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Happy>Щастя</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Content>Задоволення</RimHUD.Model.Mood.Content>
+  <RimHUD.Model.Mood.Indifferent>Байдужість</RimHUD.Model.Mood.Indifferent>
+
+  <RimHUD.Model.Info.Activity>Діяльність: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+  <RimHUD.Model.Info.Activity.WorkType>Тип роботи: {0}</RimHUD.Model.Info.Activity.WorkType>
+  <RimHUD.Model.Info.Activity.RelevantSkills>Необхідна навичка: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
+  <RimHUD.Model.Info.Attacking>атакує {0}</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Info.Queued>В черзі: {0}</RimHUD.Model.Info.Queued>
+  <RimHUD.Model.Info.Equipped>Споряджено: {0}</RimHUD.Model.Info.Equipped>
+  <RimHUD.Model.Info.Carrying>Переносить: {0}</RimHUD.Model.Info.Carrying>
+
+  <RimHUD.Model.Bio.Title>Професія: {0}</RimHUD.Model.Bio.Title>
+  <RimHUD.Model.Bio.Faction>Фракція: {0}</RimHUD.Model.Bio.Faction>
+  <RimHUD.Model.Bio.Ideoligion>Ідеологія: {0}</RimHUD.Model.Bio.Ideoligion>
+  <RimHUD.Model.Bio.Lifestage>Етап життя: {0}</RimHUD.Model.Bio.Lifestage>
+  <RimHUD.Model.Bio.Master>Господар: {0}</RimHUD.Model.Bio.Master>
+  <RimHUD.Model.Bio.Diet>Дієта: {0}</RimHUD.Model.Bio.Diet>
+  <RimHUD.Model.Bio.Trainability>Навчаність: {0}</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Wildness>Дикість: {0}</RimHUD.Model.Bio.Wildness>
+  <RimHUD.Model.Bio.Petness>Домашність: {0}</RimHUD.Model.Bio.Petness>
+
+  <RimHUD.Model.Selector.OutfitFormat>Гардероб: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.FoodFormat>Дієта: {0}</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.TimetableFormat>Графік: {0}</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>Встановити {0} час на {1}</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.AreaFormat>Зона: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>Налаштувати</RimHUD.Model.Selector.Manage>
+
+  <RimHUD.Model.Component.Root>Основа</RimHUD.Model.Component.Root>
+  <RimHUD.Model.Component.VStack>Вертикальний блок</RimHUD.Model.Component.VStack>
+  <RimHUD.Model.Component.VStackFilled>Вертикальний блок (заповнює)</RimHUD.Model.Component.VStackFilled>
+  <RimHUD.Model.Component.HStack>Горизонтальний блок</RimHUD.Model.Component.HStack>
+  <RimHUD.Model.Component.HStackFilled>Горизонтальний блок (заповнює)</RimHUD.Model.Component.HStackFilled>
+  <RimHUD.Model.Component.Panel>Панель</RimHUD.Model.Component.Panel>
+  <RimHUD.Model.Component.PanelFilled>Панель (заповнює)</RimHUD.Model.Component.PanelFilled>
+  <RimHUD.Model.Component.Row>Рядок</RimHUD.Model.Component.Row>
+
+  <RimHUD.Model.Component.Blank>Порожній</RimHUD.Model.Component.Blank>
+  <RimHUD.Model.Component.Separator>Лінія роздільник</RimHUD.Model.Component.Separator>
+  <RimHUD.Model.Component.NameHeader>Ім'я як заголовок</RimHUD.Model.Component.NameHeader>
+  <RimHUD.Model.Component.Outfit>Вибір гардеробу</RimHUD.Model.Component.Outfit>
+  <RimHUD.Model.Component.Food>Вибір дієти</RimHUD.Model.Component.Food>
+  <RimHUD.Model.Component.Rules>Вибір правил (Потрібне Pawn Rules)</RimHUD.Model.Component.Rules>
+  <RimHUD.Model.Component.Timetable>Вибір графика</RimHUD.Model.Component.Timetable>
+  <RimHUD.Model.Component.Area>Вибір зоны</RimHUD.Model.Component.Area>
+  <RimHUD.Model.Component.RelationKindAndFaction>Професія та фракція</RimHUD.Model.Component.RelationKindAndFaction>
+  <RimHUD.Model.Component.GenderRaceAndAge>Стать, раса та вік</RimHUD.Model.Component.GenderRaceAndAge>
+  <RimHUD.Model.Component.SimpleGenderRaceAndAge>Проста стать, раса та вік</RimHUD.Model.Component.SimpleGenderRaceAndAge>
+  <RimHUD.Model.Component.Health>Смужка здоров'я</RimHUD.Model.Component.Health>
+  <RimHUD.Model.Component.HealthCondition>Стан здоров'я</RimHUD.Model.Component.HealthCondition>
+  <RimHUD.Model.Component.MindCondition>Стан розуму</RimHUD.Model.Component.MindCondition>
+
+  <RimHUD.Model.Component.Stat>Статус {0}</RimHUD.Model.Component.Stat>
+  <RimHUD.Model.Component.Record>Статистика {0}</RimHUD.Model.Component.Record>
+
+  <RimHUD.Model.Component.NeedMood>Смужка настрою</RimHUD.Model.Component.NeedMood>
+  <RimHUD.Model.Component.NeedFood>Смужка голоду</RimHUD.Model.Component.NeedFood>
+  <RimHUD.Model.Component.NeedRest>Смужка відпочинку</RimHUD.Model.Component.NeedRest>
+  <RimHUD.Model.Component.NeedEnergy>Смужка енергії</RimHUD.Model.Component.NeedEnergy>
+  <RimHUD.Model.Component.NeedRecreation>Смужка дозвілля</RimHUD.Model.Component.NeedRecreation>
+  <RimHUD.Model.Component.NeedSuppression>Смужка пригнічення</RimHUD.Model.Component.NeedSuppression>
+  <RimHUD.Model.Component.Need>Смужка {0}</RimHUD.Model.Component.Need>
+
+  <RimHUD.Model.Component.SkillShooting>Стрільба</RimHUD.Model.Component.SkillShooting>
+  <RimHUD.Model.Component.SkillMelee>Ближній бій</RimHUD.Model.Component.SkillMelee>
+  <RimHUD.Model.Component.SkillConstruction>Будівництво</RimHUD.Model.Component.SkillConstruction>
+  <RimHUD.Model.Component.SkillMining>Шахтарство</RimHUD.Model.Component.SkillMining>
+  <RimHUD.Model.Component.SkillCooking>Кулінарія</RimHUD.Model.Component.SkillCooking>
+  <RimHUD.Model.Component.SkillPlants>Рослинництво</RimHUD.Model.Component.SkillPlants>
+  <RimHUD.Model.Component.SkillAnimals>Тваринництво</RimHUD.Model.Component.SkillAnimals>
+  <RimHUD.Model.Component.SkillCrafting>Ремесло</RimHUD.Model.Component.SkillCrafting>
+  <RimHUD.Model.Component.SkillArtistic>Мистецтво</RimHUD.Model.Component.SkillArtistic>
+  <RimHUD.Model.Component.SkillMedicine>Медицина</RimHUD.Model.Component.SkillMedicine>
+  <RimHUD.Model.Component.SkillSocial>Соціальність</RimHUD.Model.Component.SkillSocial>
+  <RimHUD.Model.Component.SkillIntellectual>Дослідження</RimHUD.Model.Component.SkillIntellectual>
+  <RimHUD.Model.Component.Skill>{0}</RimHUD.Model.Component.Skill>
+  <RimHUD.Model.Component.Skill.PassionIndicator>★</RimHUD.Model.Component.Skill.PassionIndicator>
+
+  <RimHUD.Model.Component.TrainingTameness>Прирученість</RimHUD.Model.Component.TrainingTameness>
+  <RimHUD.Model.Component.TrainingObedience>Відданість</RimHUD.Model.Component.TrainingObedience>
+  <RimHUD.Model.Component.TrainingRelease>Нацьковування</RimHUD.Model.Component.TrainingRelease>
+  <RimHUD.Model.Component.TrainingRescue>Порятунок</RimHUD.Model.Component.TrainingRescue>
+  <RimHUD.Model.Component.TrainingHaul>Перенесення</RimHUD.Model.Component.TrainingHaul>
+  <RimHUD.Model.Component.Training>{0}</RimHUD.Model.Component.Training>
+
+  <RimHUD.Model.Component.Master>Господар</RimHUD.Model.Component.Master>
+  <RimHUD.Model.Component.Activity>Діяльність</RimHUD.Model.Component.Activity>
+  <RimHUD.Model.Component.Queued>На черзі</RimHUD.Model.Component.Queued>
+  <RimHUD.Model.Component.Equipped>Споряджено</RimHUD.Model.Component.Equipped>
+  <RimHUD.Model.Component.Carrying>Переносить</RimHUD.Model.Component.Carrying>
+  <RimHUD.Model.Component.CompInfo>Додатково</RimHUD.Model.Component.CompInfo>
+  <RimHUD.Model.Component.PrisonerInfo>В'язень</RimHUD.Model.Component.PrisonerInfo>
+
+  <RimHUD.Model.Component.Container.Filled>заповнює</RimHUD.Model.Component.Container.Filled>
+
+  <RimHUD.Model.Target.PlayerHumanlike>Людиноподібні (гравець)</RimHUD.Model.Target.PlayerHumanlike>
+  <RimHUD.Model.Target.OtherHumanlike>Людиноподібні (чужі)</RimHUD.Model.Target.OtherHumanlike>
+  <RimHUD.Model.Target.PlayerCreature>Істоти (гравець)</RimHUD.Model.Target.PlayerCreature>
+  <RimHUD.Model.Target.OtherCreature>Істоти (чужі)</RimHUD.Model.Target.OtherCreature>
+</LanguageData>

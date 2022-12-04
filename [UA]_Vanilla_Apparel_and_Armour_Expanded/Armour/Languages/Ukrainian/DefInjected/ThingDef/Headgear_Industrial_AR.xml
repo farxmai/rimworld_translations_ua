@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: balaclava -->
+  <VAE_Headgear_Balaclava.label>балаклава</VAE_Headgear_Balaclava.label>
+  <!-- EN: A full face textile mask. Hides the identity of the wearer while providing warmth. -->
+  <VAE_Headgear_Balaclava.description>Повнолицева текстильна маска. Приховує особистість та зігріває обличчя.</VAE_Headgear_Balaclava.description>
+
+  <!-- EN: omni-spectrum goggles -->
+  <VAE_Headgear_NightVisionGoggles.label>прилад нічного бачення</VAE_Headgear_NightVisionGoggles.label>
+  <!-- EN: A set of omni-vision goggles which enhance the wearer's ability to detect targets, improving target aquisition. -->
+  <VAE_Headgear_NightVisionGoggles.description>Окуляри, що дають огляд у всіх спектрах. Поліпшують здатність виявляти та захоплювати цілі.</VAE_Headgear_NightVisionGoggles.description>
+
+  <!-- EN: flak goggles -->
+  <VAE_Headgear_BallisticGoggles.label>тактичні окуляри</VAE_Headgear_BallisticGoggles.label>
+  <!-- EN: A pair of reinforced goggles capable of stopping shrapnel, and possibly a bullet. -->
+  <VAE_Headgear_BallisticGoggles.description>Укріплені окуляри, здатні зупинити уламки і, можливо, кулю.</VAE_Headgear_BallisticGoggles.description>
+
+  <!-- EN: ghillie hood -->
+  <VAE_Headgear_GhillieHood.label>маскувальний капюшон</VAE_Headgear_GhillieHood.label>
+  <!-- EN: A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence. -->
+  <VAE_Headgear_GhillieHood.description>Маскувальний каптур, призначений для того, щоб зливатися з оточенням. Дозволяє витратити більше часу на прицілювання для більш точного пострілу, але практично не захищає.</VAE_Headgear_GhillieHood.description>
+
+  <!-- EN: HAZMAT hood -->
+  <VAE_Headgear_HAZMATMask.label>захисний капюшон</VAE_Headgear_HAZMATMask.label>
+  <!-- EN: A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects. -->
+  <VAE_Headgear_HAZMATMask.description>Частина непроникного захисного спорядження, що забезпечує повний хімічний та псі-захист голови.</VAE_Headgear_HAZMATMask.description>
+</LanguageData>

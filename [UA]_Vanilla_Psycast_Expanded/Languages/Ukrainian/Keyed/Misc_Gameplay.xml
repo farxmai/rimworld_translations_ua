@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguagData>
+
+  <!-- Generated neurotrainers -->
+  <!-- EN: psytrainer ({0}) -->
+  <PsycastNeurotrainerLabel>псітренер ({0})</PsycastNeurotrainerLabel>
+  <!-- EN: Use psytrainer to learn {0} psycast -->
+  <PsycastNeurotrainerUseLabel>Використайте псітренер для вивчення псі-здібності {0}</PsycastNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
+  <PsycastNeurotrainerDescription>Одноразова велика доза механітів, які тренують певну псі-здібність.\n\nДоза вводиться через очну ямку. Після проникнення у мозок механіти формують знання про використання певної псі-здібності, перетворюючи себе на нейронні зв'язки за потреби.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
+  <AbilityNeurotrainerUsed>{USER_labelShort} {0_gender ? використав : використала} псітренер для вивчення здібності {1}.</AbilityNeurotrainerUsed>
+  <!-- EN: Requires psylink -->
+  <PsycastNeurotrainerNoPsylink>Необхідний псі-зв'язок</PsycastNeurotrainerNoPsylink>
+  <!-- EN: {USER_labelShort} already knows {1}. -->
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} вже знає {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <!-- Meditation -->
+  <!-- EN: Psyfocus -->
+  <Psyfocus>Псіконцентрація</Psyfocus>
+  <!-- EN: Psyfocus -->
+  <PsyfocusLabelGizmo>Концентр.</PsyfocusLabelGizmo>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>Псіконцентрація - це спеціально тренований тип психіки, який необхідний для використання псі-здібностей. Псіконцентрація з часом розсіюється, тому колоніст має регулярно підтримувати її медитацією. Повна втрата псіконцентрації зробить людину нездатною до використання псі-здібностей, та це єдині наслідки.\n\nЧим вищій рівень псіконцентрації достипний колоністу, тим могутніші псі-здібності він зможе використовувати.</PsyfocusDesc>
+  <!-- EN: {0}-{1}% -->
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <!-- EN: Up to level {0} powers. -->
+  <PsyfocusLevelInfoPsycasts>Здібності до рівня {0}.</PsyfocusLevelInfoPsycasts>
+  <!-- EN: Psyfocus falls at {0} per day. -->
+  <PsyfocusLevelInfoFallRate>Псіконцентрація щодня спадає на {0}.</PsyfocusLevelInfoFallRate>
+  <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
+  <UserMeditationFocusStrength>Сила концентрації медитації для {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <!-- EN: Focus effect impacted by -->
+  <MeditationFocusImpacted>На ефект концентрації впливає</MeditationFocusImpacted>
+
+
+  <!-- EN: Psyfocus gain rate: {0}/d -->
+  <PsyfocusPerDayOfMeditation>Швидкість накопичення псіконцентрації: {0}/день</PsyfocusPerDayOfMeditation>
+  <!-- EN: Desired psyfocus -->
+  <DesiredPsyfocus>Бажана псіконцентрація</DesiredPsyfocus>
+  <!-- EN: Click to set desired psyfocus. -->
+  <DesiredPsyfocusDesc>Натисніть для встановлення бажаного рівня псіконцентрації.</DesiredPsyfocusDesc>
+
+  <!-- EN: Need {0} psylink focus type -->
+  <BeginLinkingRitualNeedFocus>Потрібен {0} тип псіконцентрації</BeginLinkingRitualNeedFocus>
+  <!-- EN: Max psylink level -->
+  <BeginLinkingRitualMaxPsylinkLevel>Максимальний рівень псі-зв'язку</BeginLinkingRitualMaxPsylinkLevel>
+
+
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>Псі-напруга</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>Напруга</PsychicEntropyShort>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>низька псіконцентрація</LowPsyfocus>
+  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>Псі-напруга: {0} / {1}\nШвидкість  зниження: {2} / с ({3}с)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>Псі-напруга збільшується після використання псі-здібностей. Перевищення норми може спричинити психічний зрив на кілька днів.\n\nПсі-напруга з часом розсіюється. Цей процес можна прискорити, якщо носити одяг з елтекса або відчувати біль.</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>Посилення болю\n\nБіль фокусує розум і прискорює зменшення псі-напруги.\n\nРівень болю: {0}\nБонус до зменшення напруги: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>Змініть ліміт псі-напруги. Перевищення норми може призвести до психічного зриву найближчими днями. Це не призведе до непоправних наслідків.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>Псіконцентрація: {0}</PawnTooltipPsyfocus>
+
+
+  <!-- Abilities -->
+  <!-- EN: Neural heat would overflow. Disable the neural heat limiter to cast. -->
+  <CommandPsycastWouldExceedEntropy>Псі-напругу буде переповнено. Вимкніть обмежувач напруги, щоб застосувати здібність.</CommandPsycastWouldExceedEntropy>
+  <!-- EN: {PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}. -->
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} поглинає {0} псіконцентрації, але {CASTERNAME} має лише {1}.</CommandPsycastNotEnoughPsyfocus>
+  <!-- EN: {PSYCASTNAME} needs {0} psyfocus to stop {1}'s mental break but {CASTERNAME} only has {2} psyfocus. -->
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} потребує {0} псіконцентрації, щоб зупинити психічний зрив {1}, але {CASTERNAME} має лише {2} псіконцентрації.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <!-- EN: level {0} psylink is required. -->
+  <CommandPsycastHigherLevelPsylinkRequired>необхідний {0} рівень псіконцентрації.</CommandPsycastHigherLevelPsylinkRequired>
+  <!-- EN: Zero psychic sensitivity. -->
+  <CommandPsycastZeroPsychicSensitivity>Нульова психічна чутливість.</CommandPsycastZeroPsychicSensitivity>
+  <!-- EN: Ability user is unconscious. -->
+  <CommandPsycastPawnIsUnconscious>Здібності користувача безмежні.</CommandPsycastPawnIsUnconscious>
+  <!-- EN: Need at least {0} psyfocus to cast this. -->
+  <CommandPsycastLowPsyfocus>Потрібно принаймні {0} псіконцентрації, щоб виконати це.</CommandPsycastLowPsyfocus>
+  <!-- EN: H -->
+  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <!-- EN: P -->
+  <PsyfocusLetter>К</PsyfocusLetter>
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>требу бути у режимі бою.</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>здібність перезаряджається. Відновиться за {0}.</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>здібність вже в черзі.</AbilityAlreadyQueued>
+  <!-- EN: no heat to dump. -->
+  <AbilityNoEntropyToDump>немає псі-напруги для скидання.</AbilityNoEntropyToDump>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>Здібність готова до використання: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef} може використати {1}.</AbilityReadyText>
+
+</LanguagData>

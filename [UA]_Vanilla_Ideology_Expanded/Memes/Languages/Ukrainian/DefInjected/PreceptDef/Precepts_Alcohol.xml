@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: demanded -->
+  <VME_Alcohol_Demanded.label>потреба</VME_Alcohol_Demanded.label>
+  <!-- EN: Spirits, booze, sauce, whatever you call it, we desire it. At least an occasional drink should be encouraged and we shouldn’t even think of sobriety. -->
+  <VME_Alcohol_Demanded.description>Алкогольні напої варто пити хоча б для зняття напруги, як би не обурювалися непитущі.</VME_Alcohol_Demanded.description>
+
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>Бракує спиртного (3 дні)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: No alcohol (5 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Без спиртного (5 днів)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Needs alcohol (10 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>Потребує спиртного (10 днів)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Craves alcohol (15 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Жадає спиртного (15 днів)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Demands alcohol (30 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>Требование спиртного (30 днів)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
+
+
+  <!-- EN: desired -->
+  <VME_Alcohol_Desired.label>бажано</VME_Alcohol_Desired.label>
+  <!-- EN: Drinking is just plain fun, though not in excess. -->
+  <VME_Alcohol_Desired.description>Алкогольні напої — це просто розвага, але не варто ним зловживати.</VME_Alcohol_Desired.description>
+
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>Бракує спиртного (3 дні)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Desiring a drink (5 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Без спиртного (5 днів)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Wanting a drink (10 days or more) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Потребує спиртного (10 днів)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
+
+
+  <!-- EN: mild abstinence -->
+  <VME_Alcohol_MildAbstinence.label>обмежено</VME_Alcohol_MildAbstinence.label>
+  <!-- EN: Alcohol is okay when consumed in small dosages, but it is better to stay away from it as long as possible. -->
+  <VME_Alcohol_MildAbstinence.description>Алкоголь можна вживати в малих дозах, але краще триматися від нього якнайдалі.</VME_Alcohol_MildAbstinence.description>
+
+  <!-- EN: Consumed alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Вживання алкоголю</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Abstained from alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>Утримання від алкоголю</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
+</LanguageData>

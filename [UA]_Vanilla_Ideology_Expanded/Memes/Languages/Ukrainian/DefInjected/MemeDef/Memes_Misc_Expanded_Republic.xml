@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 11 -->
+
+  <!-- EN: republic -->
+  <VME_Republic.label>республіка</VME_Republic.label>
+  <!-- EN: Power must be balanced between select few, lest any settlement or empire fall to inevitable corruption. -->
+  <VME_Republic.description>Влада повинна бути розділена між кількома обраними, щоб жодне поселення чи імперія не впали від неминучого розкладання.</VME_Republic.description>
+
+  <VME_Republic.generalRules.rulesStrings>
+    <li>memeAdjective->республіканський</li>
+    <li>memeAdjective->об'єднаний</li>
+    <li>memeConcept->республіки</li>
+    <li>memeConcept->тріумвірату</li>
+    <li>memeLeaderNoun->законодавець</li>
+    <li>memeLeaderNoun->сенатор</li>
+    <li>memeLeaderNoun->обранець</li>
+  </VME_Republic.generalRules.rulesStrings>
+
+  <VME_Republic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Republic) ->[deity0_name] побачив, що деякі з [memberNamePlural] були більш придатні для правління, ніж інші, і сказав їм: "Ваше правління буде розділене між трьома лідерами, і вони приведуть вас до неймовірної" славі".</li>
+    <li>episode(uses=1,tag=meme_Republic) ->[deity0_name] сказав усім [memberNamePlural]: "Зрозуміти, що переваги республіки мають першорядні значення і краще для життя".</li>
+    <li>intro(tag=meme_Republic) ->[memberNamePlural] побудували величезний будинок сенату на [place_summary] [place_name], як доказ шанування [deity0_name].</li>
+    <li>conflict(tag=meme_Republic) ->Могутній [foeLeader] скористався слабкістю старої імперії [memberNamePlural], а [foeLeader_pronoun] використав корупцію, що вкоренилася, щоб зруйнувати її зсередини.</li>
+    <li>founderJoin(tag=meme_Republic) ->[deity0_name] доручив [founderName] знайти двох інших тріумвірів, і таким чином була створена Перша Республіка [memberNamePlural].</li>
+    <li>victory(tag=meme_Republic) ->Об'єднавшись, [foeLeader]був повалений, і [memberNamePlural] насолоджувалися процвітанням республіканської системи.</li>
+    <li>setup(tag=meme_Republic) ->Наш засновник [founderName] був хорошим політиком, який бачив корупцію в урядових органах [founder_possessive] і знайшов їх огидними. Він заснував Першу Республіку [memberNamePlural], інститут, який проіснував сотні років.</li>
+    <li>story(uses=1,tag=meme_Republic) ->Послідовники [founderName] навчалися [founder_possessive] писати та створювати соціальні структури, які завжди приносили нам стабільність.</li>
+    <li>lessonIntro(tag=meme_Republic) ->За всі роки нашого правління масами ми троє засвоїли один урок, який найважливішим:</li>
+    <li>lesson(tag=meme_Republic) ->Не можна чекати від того, хто править поодинці, що він буде стійкий до пороків, адже ми - всього лише люди, зі своїми спокусами та недоліками.</li>
+    <li>lessonReinforcement(tag=meme_Republic) ->Як тріумвіри, ми зобов'язані піклуватися і доглядати один за одним, не дозволяючи нікому з нас впасти в спокусу і розпусту.</li>
+    <li>archistBasis(tag=meme_Republic) ->Вважається, що три верховні архотеки приводять світ до трансцендентності.</li>
+    <li>archistFact(tag=meme_Republic) ->Лише несповідна воля цих трьох дозволить їх послідовникам піднестися. Ми маємо відтворити цей принцип у нашому суспільстві, адже скромність тих трьох має велике значення.</li>
+    <li>archistProphecy(tag=meme_Republic) ->[inTheEnd], наші три тріумвіри самі стануть архотеками, і нескінченний цикл піднесення продовжиться.</li>
+    <li>animistFact(tag=meme_Republic) ->Число три священне для духів. Ми будуємо наше суспільство на зразок республіканського тріумвірату, щоб утихомирити і вшанувати їх.</li>
+    <li>serketistProphecy(tag=meme_Republic)->Три великі лідери керуватимуть нашим суспільством: Жук, Павук і Мураха. Цей тріумвірат допомагатиме нам у найважчі часи.</li>
+    <li>chthonianProphecy(tag=meme_Republic)->Невідомі історії розповідають про Тріумвірат Безодні, особливо злісній групі жахливих сутностей, які прагнуть підкорити собі наші смертні уми. Ми створимо власний тріумвірат, щоб захистити нас від них.</li>
+    <li>esotericismProphecy(tag=meme_Republic)->Кажуть, що древні греки Землі вважали число три досконалим числом, числом гармонії, мудрості та розуміння. Число божественного.</li>
+    <li>eschatologismFact(tag=meme_Republic)->Відомі трьома глашатаями кінця часів, ми вступимо в нову еру темряви.</li>
+    <li>introMemo(tag=meme_Republic)->Ми знаємо, що деяких нових співробітників бентежить наша дещо неортодоксальна трикрила корпоративна структура... Насправді все просто: ми вважаємо нашу компанію постсучасною формою правління, заснованою на ефективності та економічній міцності.</li>
+    <li>alienistProphecy(tag=meme_Republic)->Три наші тріумвіри вирішать долю всіх цих заблудлих людських творінь, бо ми довіряємо їх мудрості в таких питаннях.</li>
+  </VME_Republic.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Republic -->
+  <VME_Republic.symbolPacks.0.ideoName>Республіка</VME_Republic.symbolPacks.0.ideoName>
+  <!-- EN: republic -->
+  <VME_Republic.symbolPacks.0.theme>республіки</VME_Republic.symbolPacks.0.theme>
+  <!-- EN: republican -->
+  <VME_Republic.symbolPacks.0.adjective>республіканський</VME_Republic.symbolPacks.0.adjective>
+  <!-- EN: citizen -->
+  <VME_Republic.symbolPacks.0.member>громадянин</VME_Republic.symbolPacks.0.member>
+
+  <!-- EN: Triumvirate -->
+  <VME_Republic.symbolPacks.1.ideoName>Тріумвірат</VME_Republic.symbolPacks.1.ideoName>
+  <!-- EN: triumvirate -->
+  <VME_Republic.symbolPacks.1.theme>тріумвірату</VME_Republic.symbolPacks.1.theme>
+  <!-- EN: triumviral -->
+  <VME_Republic.symbolPacks.1.adjective>законодавчий</VME_Republic.symbolPacks.1.adjective>
+  <!-- EN: citizen -->
+  <VME_Republic.symbolPacks.1.member>громадянин</VME_Republic.symbolPacks.1.member>
+
+</LanguageData>

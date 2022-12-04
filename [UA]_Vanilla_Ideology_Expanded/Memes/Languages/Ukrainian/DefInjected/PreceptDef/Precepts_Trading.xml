@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: required -->
+  <VME_Trading_Required.label>необхідно</VME_Trading_Required.label>
+  <!-- EN: Our colony, like it or not, is a business. Going too long without a sale is stressful, but making a hefty profit is veritably euphoric. -->
+  <VME_Trading_Required.description>Наша колонія, подобається нам це чи ні, це перш за все бізнес. Занадто довго залишатися без продажу — це стрес, але отримати величезний прибуток — справжня ейфорія.</VME_Trading_Required.description>
+
+  <!-- EN: Recently traded -->
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.0>нещодавно торгували</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: No recent trades -->
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.1>давно не торгували</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
+</LanguageData>

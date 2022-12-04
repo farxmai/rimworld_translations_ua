@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sick -->
+  <VME_Illness_Exalted.stages.0.label>хворію</VME_Illness_Exalted.stages.0.label>
+  <!-- EN: A holy virus and the godlike bacteria shall breed in my veins. -->
+  <VME_Illness_Exalted.stages.0.description>Святий вірус та благословенні бактерії розмножуються у мені.</VME_Illness_Exalted.stages.0.description>
+
+  <!-- EN: wants to be sick -->
+  <VME_Illness_Exalted_TooHealthy.stages.0.label>хочу захворіти</VME_Illness_Exalted_TooHealthy.stages.0.label>
+  <!-- EN: What I would give for the illness to bind me in pain once more. -->
+  <VME_Illness_Exalted_TooHealthy.stages.0.description>Що мені зробити, щоб хвороба знову скувала мене до болю?</VME_Illness_Exalted_TooHealthy.stages.0.description>
+
+  <!-- EN: sick -->
+  <VME_Illness_Preferred.stages.0.label>хворію</VME_Illness_Preferred.stages.0.label>
+  <!-- EN: I am sick. A perfect excuse to lie down. -->
+  <VME_Illness_Preferred.stages.0.description>Прекрасна нагода прилягти відпочити.</VME_Illness_Preferred.stages.0.description>
+</LanguageData>

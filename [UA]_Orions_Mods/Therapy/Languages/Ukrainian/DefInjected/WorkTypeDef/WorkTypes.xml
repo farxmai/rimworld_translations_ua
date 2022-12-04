@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Therapist.label>Терапевт</Therapist.label>
+  <Therapist.description>Терапевти допомагають колоністам подолати їхні душевні травми, провести профілактику нестабільних психічнів станів та позбутися залежностей.</Therapist.description>
+  <Therapist.labelShort>терапевт</Therapist.labelShort>
+  <Therapist.pawnLabel>Терапевт</Therapist.pawnLabel>
+  <Therapist.gerundLabel>консультація</Therapist.gerundLabel>
+  <Therapist.verb>консультувати</Therapist.verb>
+
+
+</LanguageData>

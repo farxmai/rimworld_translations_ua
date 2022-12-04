@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 13 -->
+
+  <!-- EN: scrapper -->
+  <VME_Scrapper.label>сміттярство</VME_Scrapper.label>
+  <!-- EN: Nothing should ever be wasted, не even bloodied or torn clothes. Відкинуті залишки old civilizations повинні be kept as treasures and reminders. -->
+  <VME_Scrapper.description>Ніщо ніколи не повинно даремно пропадати, навіть закривавлений або порваний одяг. Покинуті останки стародавніх цивілізацій повинні зберігатися як скарби та пам'ятники.</VME_Scrapper.description>
+
+  <VME_Scrapper.generalRules.rulesStrings>
+    <li>memeAdjective->сировинний</li>
+    <li>memeAdjective->сміттєвий</li>
+    <li>memeAdjective->помийний</li>
+    <li>memeHyphenPrefix->утиль</li>
+    <li>memeHyphenPrefix->мотлох</li>
+    <li>memeConcept->відходів</li>
+    <li>memeLeaderNoun->сміттяр</li>
+    <li>memeLeaderNoun->старовик</li>
+    <li>memeLeaderNoun->переробник</li>
+    <li>memeMoralist->пам'ятаючий</li>
+    <li>memeMoralist->знаючий ціну</li>
+  </VME_Scrapper.generalRules.rulesStrings>
+
+  <VME_Scrapper.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Scrapper) ->[deity0_name] вчив нас ніколи нічого не залишати даремно: "Розтрата - великий гріх, бо Я створив світ за образом і подобою Своєю, і, залишаючи речі без вживання, ви також ображаєте Мене".</li>
+    <li>episode(uses=1,tag=meme_Scrapper) ->Слідуючи вченням [deity0_name], ми навчилися повторно використовувати та переробляти речі.</li>
+    <li>intro(tag=meme_Scrapper) ->На [place_summary] [place_name], [memberNamePlural] знайшли слова про [deity0_name], технічні інструкції з розбирання та повторного використання могутніх машин наших предків.</li>
+    <li>conflict(tag=meme_Scrapper) ->Заздрісник [foeLeader] побачив прогрес [memberNamePlural], і намагався знищити наші переобладнані машини..</li>
+    <li>founderJoin(tag=meme_Scrapper) ->[founderName], відомий як Великий Падальник, зібрав саморобну зброю, [relic0_name], і зумів зупинити [foeLeader], поки не стало занадто пізно.</li>
+    <li>victory(tag=meme_Scrapper) ->Бачачи винахідливість [founderName], послідовники [founderName_possessive] назвали [founderName_objective] вчителем і навчилися у [founderName_objective] секретів пошуку давніх технологій.</li>
+    <li>setup(tag=meme_Scrapper) ->[founderName] був інженером в одному з Сяючих Світів. [founder_pronoun] зауважив, що дослідницькі кораблі далекого радіусу дії, що відправляються на планету Rim, завжди розповідали про стародавні технології, розкидані по міріад світів. Можливо, ці давні технології можна вивчити, переробити та застосувати наново?</li>
+    <li>story(uses=1,tag=meme_Scrapper) ->[founderName] зібрав команду міжзоряних дослідників і вирішив подивитися [founderName_objective] сам, що можна зробити з цією таємничою забутою технологією. На жаль, [founderName_pronoun] не пережив небезпечної подорожі.</li>
+    <li>lessonIntro(tag=meme_Scrapper) ->Старший сміття в моєму відділі вчив мене історії стародавніх технологій, розповідав про те, як усі міріади світів у Rime заповнені викинутими стародавніми технологіями. Він підвів мене до розуміння того, що</li>
+    <li>lesson(tag=meme_Scrapper) ->людство існує вже дуже давно, і абсурдно не перепрофілювати викинуті технології наших предків</li>
+    <li>lessonReinforcement(tag=meme_Scrapper) ->Можливо, стародавні технології - це мотлох, а можливо, це ключ до нашого виживання.</li>
+    <li>archistBasis(tag=meme_Scrapper) ->Факт, що архотеки спочатку були створені людиною, ми створили наступний крок у розвитку свідомості.</li>
+    <li>archistFact(tag=meme_Scrapper) ->Викинуті стародавні технології наших предків можуть виявитися просто забутим мотлохом. Але що якщо це не так? Що, якщо це сміття насправді є чимось, що виявиться необхідним для нашого трансцендентального розвитку?</li>
+    <li>archistProphecy(tag=meme_Scrapper) ->[inTheEnd], Ми не дозволимо жодної унції стародавньої технології зникнути дарма. Ми розберемо кожен шматочок технології, що лежить поблизу, і, сподіваюся, відкриємо його секрети.</li>
+    <li>animistBasis(tag=meme_Scrapper) ->Шматки стародавніх уламків, знайдені по всьому світу, є реліквіями Стародавніх.</li>
+    <li>animistFact(tag=meme_Scrapper) ->Духи спрямують нас на відновлення всіх стародавніх технологій, які наші предки залишили викинутими.</li>
+    <li>animistFact(tag=meme_Scrapper) ->Коли ми відновимо та повторно використовуємо технології наших предків, ми дійсно заспокоїмо їх дух.</li>
+    <li>animistProphecy(tag=meme_Scrapper) ->[itIsSaid] одного разу ми станемо такими ж розумними, як стародавні, і їх викинуті машини не зберігатимуть нам жодних секретів.</li>
+    <li>serketistProphecy(tag=meme_Scrapper)->[itIsSaid] ми дізнаємося, що збирання сміття з стародавніх технологій, що засмічують ландшафт, так само священне, як і використання термітами ґрунту для будівництва своїх гнізд.</li>
+    <li>chthonianProphecy(tag=meme_Scrapper)->Світ Rim усіяний технологічними трупами тих, хто не зміг утихомирити ці нелюдські сутності: тільки перепрофілювавши цю давню технологію, ми можемо сподіватися протистояти їх натиску там, де багато інших зазнало невдачі.</li>
+    <li>esotericismProphecy(tag=meme_Scrapper)->Край усіяний технологічними останками тих, хто прийшов задовго до нас. Ми вивчатимемо і перероблятимемо ці фрагменти минулого і дізнаємося про всі їхні секрети.</li>
+    <li>eschatologismFact(tag=meme_Scrapper)->Світ Rim усіяний технологічними трупами тих хто впав раніше, і ми будемо використовувати їх власні забуті технології, щоб наблизити кінець часів.</li>
+    <li>introMemo(tag=meme_Scrapper)->Цього тижня в списку літератури, що рекомендується, я хотів би звернути вашу увагу на: "Переоцінка, скорочення, повторне використання, переробка - як стати стійким сучасним бізнесом". Будь ласка, прочитайте її на дозвіллі, а тонкощі ми обговоримо на зустрічі.</li>
+    <li>alienistProphecy(tag=meme_Scrapper)->Можливо, всі ці заблукалі людські твори можна якось перепрофілювати, адже вони не що інше, як живі частини стародавніх технологій.</li>
+  </VME_Scrapper.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Scavenging -->
+  <VME_Scrapper.symbolPacks.0.ideoName>Сміттярство</VME_Scrapper.symbolPacks.0.ideoName>
+  <!-- EN: scavenging -->
+  <VME_Scrapper.symbolPacks.0.theme>сміттярства</VME_Scrapper.symbolPacks.0.theme>
+  <!-- EN: scavenging -->
+  <VME_Scrapper.symbolPacks.0.adjective>сміттєвий</VME_Scrapper.symbolPacks.0.adjective>
+  <!-- EN: scavenger -->
+  <VME_Scrapper.symbolPacks.0.member>сміттяр</VME_Scrapper.symbolPacks.0.member>
+
+  <!-- EN: Scrapping -->
+  <VME_Scrapper.symbolPacks.1.ideoName>Цінність</VME_Scrapper.symbolPacks.1.ideoName>
+  <!-- EN: scrapping -->
+  <VME_Scrapper.symbolPacks.1.theme>цінності</VME_Scrapper.symbolPacks.1.theme>
+  <!-- EN: scrapper -->
+  <VME_Scrapper.symbolPacks.1.adjective>цінний</VME_Scrapper.symbolPacks.1.adjective>
+  <!-- EN: scrapper -->
+  <VME_Scrapper.symbolPacks.1.member>цінувальник</VME_Scrapper.symbolPacks.1.member>
+
+  <!-- EN: Scrounging -->
+  <VME_Scrapper.symbolPacks.2.ideoName>Добування</VME_Scrapper.symbolPacks.2.ideoName>
+  <!-- EN: scrounging -->
+  <VME_Scrapper.symbolPacks.2.theme>добування</VME_Scrapper.symbolPacks.2.theme>
+  <!-- EN: scrounging -->
+  <VME_Scrapper.symbolPacks.2.adjective>добувний</VME_Scrapper.symbolPacks.2.adjective>
+  <!-- EN: scrounger -->
+  <VME_Scrapper.symbolPacks.2.member>добувач</VME_Scrapper.symbolPacks.2.member>
+
+</LanguageData>

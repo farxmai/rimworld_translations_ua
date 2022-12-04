@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA.AbilityDisableReasonCooldown>{0} на перезарядці ({1})</VFEA.AbilityDisableReasonCooldown>
+  <VFEA.AbilityDisableReasonGeneral>{0} не відповідає вимогам</VFEA.AbilityDisableReasonGeneral>
+
+  <VFEA.AbilityStatsPower>Сила</VFEA.AbilityStatsPower>
+  <VFEA.AbilityStatsDuration>Тривалість</VFEA.AbilityStatsDuration>
+
+  <VFEA.TargetMustBeHostile>Ціль має бути ворожою</VFEA.TargetMustBeHostile>
+
+  <VFEA.MinRadius>Мінімальний радіус</VFEA.MinRadius>
+
+	<VFEA.RClickToAuto>Правий клік для вімкнення автокастінгу.</VFEA.RClickToAuto>
+	<VFEA.RClickToNoAuto>Правий клік для вимикання автокастінгу.</VFEA.RClickToNoAuto>
+
+</LanguageData>

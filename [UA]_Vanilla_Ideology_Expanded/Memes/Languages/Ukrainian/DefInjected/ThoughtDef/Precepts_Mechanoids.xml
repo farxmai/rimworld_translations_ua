@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mechanoid destroyed -->
+  <VME_Mechanoids_Exalted.stages.0.label>знищено механоїда</VME_Mechanoids_Exalted.stages.0.label>
+  <!-- EN: I have destroyed a mechanoid being, this will anger the gods. -->
+  <VME_Mechanoids_Exalted.stages.0.description>Я знищив механоїда, це розгніває богів.</VME_Mechanoids_Exalted.stages.0.description>
+
+  <!-- EN: mechanoid destroyed -->
+  <VME_Mechanoids_Despised.stages.0.label>знищено механоїда</VME_Mechanoids_Despised.stages.0.label>
+  <!-- EN: I have destroyed a mechanoid being, this is a victory! -->
+  <VME_Mechanoids_Despised.stages.0.description>Я знищив механоїда, це перемога!</VME_Mechanoids_Despised.stages.0.description>
+</LanguageData>

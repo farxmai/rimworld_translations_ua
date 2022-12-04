@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <FF_OverclockHigh.label>Розігнано</FF_OverclockHigh.label>
+    <FF_OverclockHigh.description>"Оверклок" у кровотоку. Він прискорює обмін речовин в організмі, спалюючи енергію для збільшення швидкості руху та продуктивності.</FF_OverclockHigh.description>
+
+	<FF_OverclockHigh.stages.0.label>Наслідки</FF_OverclockHigh.stages.0.label>
+	<FF_OverclockHigh.stages.1.label>Діє</FF_OverclockHigh.stages.1.label>
+
+</LanguageData>

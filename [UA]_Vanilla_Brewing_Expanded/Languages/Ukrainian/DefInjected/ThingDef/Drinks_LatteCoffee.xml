@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_LatteCoffee.label>латте</VBE_LatteCoffee.label>
+  <VBE_LatteCoffee.description>Міцний еспресо, змішаний зі свіжим молоком, для зменшення гіркоти перед розливом та подачею. Латте мають репутацію призначених для особливо «досвідчених» особистостей.</VBE_LatteCoffee.description>
+  <VBE_LatteCoffee.ingestible.ingestCommandString>Випити {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+  <VBE_LatteCoffee.ingestible.ingestReportString>п'є {0}</VBE_LatteCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

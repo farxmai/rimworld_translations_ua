@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_Asphalt.label>асфальт</VFEArch_Asphalt.label>
+  <VFEArch_Asphalt.description>Індустріальний асфальт, що використовується для створення доріг та вулиць. По ньому дуже легко пересуватися як людям, так і транспортним засобам.</VFEArch_Asphalt.description>
+
+  <VFEArch_WoodenParquet.label>дерев'яний паркет</VFEArch_WoodenParquet.label>
+  <VFEArch_WoodenParquet.description>Красиво укладене дерев'яне покриття, що створює відчуття шику. Він гарний, але довго укладається і дуже легко спалахує.</VFEArch_WoodenParquet.description>
+
+  <VFEArch_WoodenParquetWalnut.label>паркет з горіхового дерева</VFEArch_WoodenParquetWalnut.label>
+  <VFEArch_WoodenParquetWalnut.description>Красиво укладене дерев'яне покриття, що створює відчуття шику. Він гарний, але довго укладається і дуже легко спалахує.</VFEArch_WoodenParquetWalnut.description>
+
+  <VFEArch_WoodenParquetBirch.label>паркет з берези</VFEArch_WoodenParquetBirch.label>
+  <VFEArch_WoodenParquetBirch.description>Красиво укладене дерев'яне покриття, що створює відчуття шику. Він гарний, але довго укладається і дуже легко спалахує.</VFEArch_WoodenParquetBirch.description>
+
+  <VFEArch_WoodenParquetMahogany.label>паркет із червоного дерева</VFEArch_WoodenParquetMahogany.label>
+  <VFEArch_WoodenParquetMahogany.description>Красиво укладене дерев'яне покриття, що створює відчуття шику. Він гарний, але довго укладається і дуже легко спалахує.</VFEArch_WoodenParquetMahogany.description>
+
+  <VFEArch_WoodPlankFloorWalnut.label>підлога з горіхового дерева</VFEArch_WoodPlankFloorWalnut.label>
+  <VFEArch_WoodPlankFloorWalnut.description>Підлога з дерев'яних дощок створює теплу та по-домашньому затишну атмосферу. Швидко укладається, але дуже гарно горить.</VFEArch_WoodPlankFloorWalnut.description>
+
+  <VFEArch_WoodPlankFloorBirch.label>підлога з берези</VFEArch_WoodPlankFloorBirch.label>
+  <VFEArch_WoodPlankFloorBirch.description>Підлога з дерев'яних дощок створює теплу та по-домашньому затишну атмосферу. Швидко укладається, але дуже гарно горить.</VFEArch_WoodPlankFloorBirch.description>
+
+  <VFEArch_WoodPlankFloorMahogany.label>підлога із червоного дерева</VFEArch_WoodPlankFloorMahogany.label>
+  <VFEArch_WoodPlankFloorMahogany.description>Підлога з дерев'яних дощок створює теплу та по-домашньому затишну атмосферу. Швидко укладається, але дуже гарно горить.</VFEArch_WoodPlankFloorMahogany.description>
+
+  <VFEArch_CobblestoneFloorSandstone.label>бруківка з пісковика</VFEArch_CobblestoneFloorSandstone.label>
+  <VFEArch_CobblestoneFloorSandstone.description>Кам'яна плитка випадкового розміру створює відчуття простого замку. На будівництво йде менше часу, ніж на звичайну кам'яну плитку і це не вимагає навички різання каменю, але і не має вишуканості.</VFEArch_CobblestoneFloorSandstone.description>
+
+  <VFEArch_CobblestoneFloorGranite.label>бруківка з граніту</VFEArch_CobblestoneFloorGranite.label>
+  <VFEArch_CobblestoneFloorGranite.description>Кам'яна плитка випадкового розміру створює відчуття простого замку. На будівництво йде менше часу, ніж на звичайну кам'яну плитку і це не вимагає навички різання каменю, але і не має вишуканості.</VFEArch_CobblestoneFloorGranite.description>
+
+  <VFEArch_CobblestoneFloorLimestone.label>бруківка з вапняку</VFEArch_CobblestoneFloorLimestone.label>
+  <VFEArch_CobblestoneFloorLimestone.description>Кам'яна плитка випадкового розміру створює відчуття простого замку. На будівництво йде менше часу, ніж на звичайну кам'яну плитку і це не вимагає навички різання каменю, але і не має вишуканості.</VFEArch_CobblestoneFloorLimestone.description>
+
+  <VFEArch_CobblestoneFloorSlate.label>бруківка з сланцю</VFEArch_CobblestoneFloorSlate.label>
+  <VFEArch_CobblestoneFloorSlate.description>Кам'яна плитка випадкового розміру створює відчуття простого замку. На будівництво йде менше часу, ніж на звичайну кам'яну плитку і це не вимагає навички різання каменю, але і не має вишуканості.</VFEArch_CobblestoneFloorSlate.description>
+
+  <VFEArch_CobblestoneFloorMarble.label>бруківка з мармуру</VFEArch_CobblestoneFloorMarble.label>
+  <VFEArch_CobblestoneFloorMarble.description>Кам'яна плитка випадкового розміру створює відчуття простого замку. На будівництво йде менше часу, ніж на звичайну кам'яну плитку і це не вимагає навички різання каменю, але і не має вишуканості.</VFEArch_CobblestoneFloorMarble.description>
+
+  <VFEArch_PolishedStoneFloorSandstone.label>вишукана підлога з пісковика</VFEArch_PolishedStoneFloorSandstone.label>
+  <VFEArch_PolishedStoneFloorSandstone.description>Вишукана полірована кам'яна плитка, що створює відчуття елегантного палацу. Укладання не займає стільки ж часу, як укладання підлоги з полірованого каменю, але потрібно багато ресурсів. Неймовірно гарний на вигляд.</VFEArch_PolishedStoneFloorSandstone.description>
+
+  <VFEArch_PolishedStoneFloorGranite.label>вишукана підлога з граніту</VFEArch_PolishedStoneFloorGranite.label>
+  <VFEArch_PolishedStoneFloorGranite.description>Вишукана полірована кам'яна плитка, що створює відчуття елегантного палацу. Укладання не займає стільки ж часу, як укладання підлоги з полірованого каменю, але потрібно багато ресурсів. Неймовірно гарний на вигляд.</VFEArch_PolishedStoneFloorGranite.description>
+
+  <VFEArch_PolishedStoneFloorLimestone.label>вишукана підлога з вапняку</VFEArch_PolishedStoneFloorLimestone.label>
+  <VFEArch_PolishedStoneFloorLimestone.description>Вишукана полірована кам'яна плитка, що створює відчуття елегантного палацу. Укладання не займає стільки ж часу, як укладання підлоги з полірованого каменю, але потрібно багато ресурсів. Неймовірно гарний на вигляд.</VFEArch_PolishedStoneFloorLimestone.description>
+
+  <VFEArch_PolishedStoneFloorSlate.label>вишукана підлога з сланцю</VFEArch_PolishedStoneFloorSlate.label>
+  <VFEArch_PolishedStoneFloorSlate.description>Вишукана полірована кам'яна плитка, що створює відчуття елегантного палацу. Укладання не займає стільки ж часу, як укладання підлоги з полірованого каменю, але потрібно багато ресурсів. Неймовірно гарний на вигляд.</VFEArch_PolishedStoneFloorSlate.description>
+
+  <VFEArch_PolishedStoneFloorMarble.label>вишукана підлога з мармуру</VFEArch_PolishedStoneFloorMarble.label>
+  <VFEArch_PolishedStoneFloorMarble.description>Вишукана полірована кам'яна плитка, що створює відчуття елегантного палацу. Укладання не займає стільки ж часу, як укладання підлоги з полірованого каменю, але потрібно багато ресурсів. Неймовірно гарний на вигляд.</VFEArch_PolishedStoneFloorMarble.description>
+
+  <VFEArch_SlabsSandstone.label>плити з пісковика</VFEArch_SlabsSandstone.label>
+  <VFEArch_SlabsSandstone.description>Великі кам'яні плити, укладені довільно. Вони красиві на вигляд, вимагають багато роботи для створення та витрачають велику кількість ресурсів.</VFEArch_SlabsSandstone.description>
+
+  <VFEArch_SlabsGranite.label>плити з граніту</VFEArch_SlabsGranite.label>
+  <VFEArch_SlabsGranite.description>Великі кам'яні плити, укладені довільно. Вони красиві на вигляд, вимагають багато роботи для створення та витрачають велику кількість ресурсів.</VFEArch_SlabsGranite.description>
+
+  <VFEArch_SlabsLimestone.label>плити з вапняку</VFEArch_SlabsLimestone.label>
+  <VFEArch_SlabsLimestone.description>Великі кам'яні плити, укладені довільно. Вони красиві на вигляд, вимагають багато роботи для створення та витрачають велику кількість ресурсів.</VFEArch_SlabsLimestone.description>
+
+  <VFEArch_SlabsSlate.label>плити з сланцю</VFEArch_SlabsSlate.label>
+  <VFEArch_SlabsSlate.description>Великі кам'яні плити, укладені довільно. Вони красиві на вигляд, вимагають багато роботи для створення та витрачають велику кількість ресурсів.</VFEArch_SlabsSlate.description>
+
+  <VFEArch_SlabsMarble.label>плити з мармуру</VFEArch_SlabsMarble.label>
+  <VFEArch_SlabsMarble.description>Великі кам'яні плити, укладені довільно. Вони красиві на вигляд, вимагають багато роботи для створення та витрачають велику кількість ресурсів.</VFEArch_SlabsMarble.description>
+
+</LanguageData>

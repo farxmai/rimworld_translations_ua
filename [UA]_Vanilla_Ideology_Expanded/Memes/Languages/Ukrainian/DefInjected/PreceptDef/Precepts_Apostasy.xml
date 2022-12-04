@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: accepted -->
+  <VME_Apostasy_Accepted.label>прийнятно</VME_Apostasy_Accepted.label>
+  <!-- EN: We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways. -->
+  <VME_Apostasy_Accepted.description>Ми відчуваємо, що дотримуватися нинішньої ідеології нас зобов'язує лише її авторитет. Ми не думатимемо двічі, якщо з'явиться можливість згорнути на іншу стежку.</VME_Apostasy_Accepted.description>
+
+  <!-- EN: despicable -->
+  <Apostasy_Despicable.label>огидно</Apostasy_Despicable.label>
+  <!-- EN: Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally. -->
+  <Apostasy_Despicable.description>Примушувати чи іншим чином схиляти до зміни переконань - вчинок підлий. Якщо хтось шукатиме знання про іншу віру, то нехай сам попросить про це.</Apostasy_Despicable.description>
+  <!-- EN: Changed ideoligion -->
+  <Apostasy_Despicable.comps.0.description>Смена идеолигии</Apostasy_Despicable.comps.0.description>
+</LanguageData>

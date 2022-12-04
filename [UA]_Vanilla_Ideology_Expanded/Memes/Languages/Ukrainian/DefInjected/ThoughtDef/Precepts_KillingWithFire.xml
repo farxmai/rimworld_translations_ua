@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: enemies burnt -->
+  <VME_KillingWithFire_Preferred.stages.0.label>вороги спалені</VME_KillingWithFire_Preferred.stages.0.label>
+  <!-- EN: Our enemies burnt in the holy flames. -->
+  <VME_KillingWithFire_Preferred.stages.0.description>Наші вороги згоріли у священному полум'ї.</VME_KillingWithFire_Preferred.stages.0.description>
+
+  <!-- EN: enemies burnt -->
+  <VME_KillingWithFire_Abhorrent.stages.0.label>вороги згоріли</VME_KillingWithFire_Abhorrent.stages.0.label>
+  <!-- EN: Our enemies burnt to death and we were unable to avoid their gruesome deaths. -->
+  <VME_KillingWithFire_Abhorrent.stages.0.description>Наші вороги згоріли живцем, а ми не змогли запобігти їх жахливій смерті.</VME_KillingWithFire_Abhorrent.stages.0.description>
+</LanguageData>

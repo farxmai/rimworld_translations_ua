@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: don't care -->
+  <VME_TaintedApparel_DontCare.label>байдуже</VME_TaintedApparel_DontCare.label>
+  <!-- EN: Clothing soaked in blood or bits shouldn’t dissuade one from covering themselves and making use of what would otherwise be worn away by time. -->
+  <VME_TaintedApparel_DontCare.description>Одяг, просочений чужою кров'ю, все ще може принести користь людині в лахмітті.</VME_TaintedApparel_DontCare.description>
+
+  <!-- EN: disapproved -->
+  <VME_TaintedApparel_Disapproved.label>не схвалюється</VME_TaintedApparel_Disapproved.label>
+  <!-- EN: Wearing a dead person's apparel is quite disgusting. -->
+  <VME_TaintedApparel_Disapproved.description>Носити одяг, знятий з мерця, досить гидко.</VME_TaintedApparel_Disapproved.description>
+
+  <!-- EN: abhorrent -->
+  <VME_TaintedApparel_Abhorrent.label>огидно</VME_TaintedApparel_Abhorrent.label>
+  <!-- EN: There can be nothing more disgusting in this world than wearing the clothing used by a dead person. -->
+  <VME_TaintedApparel_Abhorrent.description>У цьому світі не може бути нічого огиднішого, ніж носити одяг, знятий з мерця.</VME_TaintedApparel_Abhorrent.description>
+</LanguageData>

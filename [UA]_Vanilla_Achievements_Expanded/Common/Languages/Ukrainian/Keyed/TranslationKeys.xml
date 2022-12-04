@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Achievements Expanded -->
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <!-- EN: Enable DebugWriter -->
+  <DebugWriter>Включити відладку</DebugWriter>
+  <!-- EN: Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging. -->
+  <DebugWriterConfirmation>Ви впевнені, що хочете включити режим відладки? Він значно знизить продуктивність, але дозволить отримувати технічну інформацію про досягнення. Це виправдано тільки для відладки модифікацій.</DebugWriterConfirmation>
+
+  <!-- EN: Write to File -->
+  <GenerateLogInfo>Записати в файл</GenerateLogInfo>
+  <!-- EN: Push achievement related logs to file. For debugging purposes only. -->
+  <GenerateLogInfoTooltip>Записати у файл інформацію про досягнення. Виключно для отладки.</GenerateLogInfoTooltip>
+  <!-- EN: Successfully pushed achievement logs to AchievementLog.txt -->
+  <SuccessfulWriteToFile>Інформація про досягнення успішно записана в «AchievementLog.txt»</SuccessfulWriteToFile>
+
+  <!-- EN: Unlock achievements and earn Storyteller points which you can redeem for various events. -->
+  <SideBarInfo>Відкривайте досягнення, отримуйте очки оповідача і витрачайте їх на різноманітні події.</SideBarInfo>
+
+  <!-- EN: Storyteller Points -->
+  <StorytellerPoints>Очки оповідача</StorytellerPoints>
+
+  <!-- EN: Redeem Points -->
+  <PointsRedeem>Витратити очки на:</PointsRedeem>
+  <!-- EN: Available: {0} -->
+  <PointsAvailable>Доступно: {0}</PointsAvailable>
+  <!-- EN: Total earnt: {0} -->
+  <PointsEarned>Отримано: {0}</PointsEarned>
+
+  <!-- EN: Unlocked with DevMode -->
+  <UnlockedDevMode>Отримано в реж. розроб.</UnlockedDevMode>
+  <!-- EN: Locked -->
+  <AchievementLocked>Не отримано</AchievementLocked>
+
+  <!-- EN: Achievements Unlocked: {0} -->
+  <AchievementsUnlocked>Досягнень відкрито: {0}</AchievementsUnlocked>
+  <!-- EN: Total Achievements Unlocked: {0} -->
+  <AchievementsTotalUnlocked>Усього досягнень відкрито: {0}</AchievementsTotalUnlocked>
+  <!-- EN: Achievement Unlocked! -->
+  <AchievementUnlocked>Відкрито досягнення!</AchievementUnlocked>
+
+  <!-- EN: Failed to redeem reward {0} -->
+  <FailedRewardEvent>Не вдалось отримати нагороду {0}</FailedRewardEvent>
+  <!-- EN: Must have map loaded or IncidentTarget object selected on World Map -->
+  <FailedTargetFinder>Має бути завантажена карта або обрана IncidentTarget на карті світу.</FailedTargetFinder>
+  <!-- EN: Must be purchased with PlayerHome map in view. -->
+  <NoValidMap>Можна отримати лише під час знакходження на мапі вашої колонії.</NoValidMap>
+  <!-- EN: Incident not available right now. -->
+  <IncidentNotAvailable>Подія зараз недоступна.</IncidentNotAvailable>
+  <!-- EN: Not Enough Points -->
+  <NotEnoughPoints>Недостатньо очок</NotEnoughPoints>
+
+  <!-- EN: Quest Item -->
+  <RandomQuestRewardItemLetter>Нагорода за квест</RandomQuestRewardItemLetter>
+  <!-- EN: Random quest item dropped! -->
+  <RandomQuestRewardItem>Прибув контейнер із випадковою нагородою за завдання!</RandomQuestRewardItem>
+</LanguageData>

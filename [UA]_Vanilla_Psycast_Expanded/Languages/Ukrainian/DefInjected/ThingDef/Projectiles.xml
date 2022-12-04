@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: flameball -->
+  <VPE_Flameball.label>вогняна куля</VPE_Flameball.label>
+  <!-- EN: A ball of flame launched by a conflagrator -->
+  <VPE_Flameball.description>Куля вогню, випущена піромантом</VPE_Flameball.description>
+
+  <!-- EN: eye blast -->
+  <VPE_EyeBlast.label>вибух очей</VPE_EyeBlast.label>
+
+  <!-- EN: bolt -->
+  <VPE_Bolt.label>заряд</VPE_Bolt.label>
+  <!-- EN: A bolt launched by a staticlord -->
+  <VPE_Bolt.description>Електричний заряд, випущений штормлордом</VPE_Bolt.description>
+
+  <!-- EN: chain bolt -->
+  <VPE_ChainBolt.label>ланцюгова блискавка</VPE_ChainBolt.label>
+  <!-- EN: ball lightning -->
+  <VPE_BallLightning.label>кульова блискавка</VPE_BallLightning.label>
+
+  <!-- EN: ice spike -->
+  <VPE_IceSpike.label>крижаний шип</VPE_IceSpike.label>
+  <!-- EN: A spike of ice launched by the frostshaper. -->
+  <VPE_IceSpike.description>Шип, випущений холодомантом.</VPE_IceSpike.description>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>крижаний промінь</VPE_FrostRay.label>
+</LanguageData>

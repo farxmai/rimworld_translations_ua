@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 26 -->
+  <!-- EN: insectoid supremacy-->
+  <VME_InsectoidSupremacy.label>панування інсектоїдів</VME_InsectoidSupremacy.label>
+  <!-- EN: Labyrinthine tunnels underdark ungulate with seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them.-->
+  <VME_InsectoidSupremacy.description>Лабіринти підземних тунелів у безмежних вуликах, повних безжальних і жорстоких комах. Ми не повинні їх боятися, ми повинні їх шанувати.</VME_InsectoidSupremacy.description>
+
+  <VME_InsectoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->інсектоїдний</li>
+    <li>memeAdjective->хітиновий</li>
+    <li>memeAdjective->комаха</li>
+    <li>memeCreed->абсолют</li>
+    <li>memeCreed->інсектизм</li>
+    <li>memeHyphenPrefix->жуко</li>
+    <li>memeHyphenPrefix->мухо</li>
+    <li>memeConcept->інсектоїдів</li>
+  </VME_InsectoidSupremacy.generalRules.rulesStrings>
+
+  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_InsectoidSupremacy) ->[deity0_name] має загадковий вигляд: маса, що рухається, покритої хітіном плоті, тисячі дрібних комах, що постійно шнигають усередині і зовні її броньованих пластин.</li>
+    <li>episode(uses=1,tag=meme_InsectoidSupremacy) ->[deity0_name] [deity0_commanded] своїм послідовникам: «Поважайте і почитайте інсектоїдів, бо вони мої діти, створені за моїм образом і подобою».</li>
+    <!-- theist founder -->
+    <li>intro(tag=meme_InsectoidSupremacy) ->У місці, що зветься [place_summary] [place_name], [memberNamePlural] побудували великий людський вулик, свідчення слави божества на ім'я [deity0_name].</li>
+    <li>conflict(tag=meme_InsectoidSupremacy) ->[foe_evil] [foeLeader] [foe_despised] своїх сусідів і [foe_wanted] повернутися в давні часи, коли люди жили окремо один від одного, розрізнені.</li>
+    <li>founderJoin(tag=meme_InsectoidSupremacy) ->[founderName], незабаром після того, як [deity0_name] [deity0_Chosen] [founder_Chosen] про відступництво, яке [foe_committed] [foeLeader], і [founder_sought] переконати [foeLeader_possessive] у помилковості ізоляціонізму.</li>
+    <li>victory(tag=meme_InsectoidSupremacy) ->[founderName] [founder_extorted] гідності міст рою, яким [deity0_patronized] [deity0_name], і [foeLeader] [foe_convinced] у правдивості [founder_possessive] слів.</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_InsectoidSupremacy) ->[founderName] [founder_was] біологом в одному з утопічних світів. [founder_pronoun] [founder_spent] всю юність, вивчаючи інсектоїдів, та [founder_came] до висновку, що вони є ідеальною формою життя. Адаптивні, сильні та витривалі.</li>
+    <li>story(uses=1,tag=meme_InsectoidSupremacy) ->У прагненні продовжити свої дослідження [founderName] [founder_assembled] команду вчених і [founder_chartered] корабель для подорожі в окраїнні світи, де [founder_possessive] .</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_InsectoidSupremacy) ->Мої експерименти з інсектоїдами були великі і ретельні. Після багатьох років праці я дійшов висновку, що</li>
+    <li>lesson(tag=meme_InsectoidSupremacy) ->інсектоїди - ідеальна форма життя, наступний етап еволюції</li>
+    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Інсектоїди адаптивні, сильні та витривалі. Вони просто перевершують нас, людей, у всіх відношеннях.</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_InsectoidSupremacy) ->У своїй нескінченній мудрості архотеки надихнули людей на біоінженерію ідеальної форми життя: інсектоїдів.</li>
+    <li>archistFact(tag=meme_InsectoidSupremacy) ->Комахи показують нам, що біологічна еволюція - це лише один крок на шляху до трансцендентності.</li>
+    <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], тільки ті, хто належним чином шанує досконалі форми інсектоїдів, будуть обрані архотеками.</li>
+    <!-- animist -->
+    <li>animistBasis(tag=meme_InsectoidSupremacy) ->Серед духів тварин наймогутнішими є ті, хто охороняє інсектоїдів.</li>
+    <li>animistFact(tag=meme_InsectoidSupremacy) ->Інсектоїди - досконалі істоти. Адаптивні, сильні та витривалі. Вони перевершують нас, людей, у всіх відносинах, і духи, які правлять ними, панують нероздільно.</li>
+    <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] тільки ті, хто належним чином шанує досконалі форми інсектоїдів, можуть по-справжньому умилостивити духів.</li>
+    <!-- serketist -->
+    <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] ми станемо подібними до досконалих, святих інсектоїдів. Я, за одне, привітаю наших нових інсектоїдів-володарів.</li>
+    <!-- eldritch / chthonian -->
+    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Ми — ніщо перед цими моторошними сутностями, і лише об'єднавши наші тіла з тілами наймогутніших інсектоїдів, ми можемо сподіватися протистояти їм.</li>
+    <!-- esoteric -->
+    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Таке окультне знання можна знайти в таємничих фрактальних візерунках панцирів інсектоїдів. Вони є досконалою формою життя, наступною стадією еволюції.</li>
+    <!-- eschatologism -->
+    <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожираючому рою ненажерливих інсектоїдів, ми обрушимося на наших ворогів і залишимо від них тільки кістки, позбавлені плоті.</li>
+    <!-- corporate -->
+    <li>introMemo(tag=meme_InsectoidSupremacy)->Що стосується постійних повідомлень про тарганів у кафетерії, чи потрібно мені нагадувати вам, що таргани — це живі істоти, так само гідні поваги, як ви і я? Я не допущу більше жодного таємного дзвінка до компанії боротьби зі шкідниками!</li>
+    <!-- alienist -->
+    <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Серед цих генетично модифікованих тварин знаходиться лінія генів інсектоїдів, яка була розроблена в Сорні і принесла нам ідеальну форму життя.</li>
+
+    <li>deity0_commanded(deity0_gender==None)->наказало</li>
+    <li>deity0_commanded(deity0_gender==Male)->наказав</li>
+    <li>deity0_commanded(deity0_gender==Female)->наказала</li>
+
+    <li>foe_evil(foeLeader_gender==Male)->злісний</li>
+    <li>foe_evil(foeLeader_gender==Female)->злісна</li>
+    <li>foe_despised(foeLeader_gender==Male)->зневажав</li>
+    <li>foe_despised(foeLeader_gender==Female)->нехтувала</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотів</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотіла</li>
+
+    <li>deity0_Chosen(deity0_gender==None)->призначило</li>
+    <li>deity0_Chosen(deity0_gender==Male)->призначив</li>
+    <li>deity0_Chosen(deity0_gender==Female)->призначила</li>
+    <li>founder_Chosen(founder_gender==Male)->його Обранцем, почув</li>
+    <li>founder_Chosen(founder_gender==Female)->їє Обранкою, почула</li>
+    <li>foe_committed(foeLeader_gender==Male)->здійснив</li>
+    <li>foe_committed(foeLeader_gender==Female)->здійснила</li>
+    <li>founder_sought(founder_gender==Male)->спробував</li>
+    <li>founder_sought(founder_gender==Female)->спробувала</li>
+
+    <li>founder_extorted(founder_gender==Male)->звеличував</li>
+    <li>founder_extorted(founder_gender==Female)->підносила</li>
+    <li>deity0_patronized(deity0_gender==None)->заступалось</li>
+    <li>deity0_patronized(deity0_gender==Male)->заступався</li>
+    <li>deity0_patronized(deity0_gender==Female)->заступала</li>
+    <li>foe_convinced(foeLeader_gender==Male)->був переконаний</li>
+    <li>foe_convinced(foeLeader_gender==Female)->була переконана</li>
+
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_spent(founder_gender==Male)->провів</li>
+    <li>founder_spent(founder_gender==Female)->провела</li>
+    <li>founder_came(founder_gender==Male)->прийшов</li>
+    <li>founder_came(founder_gender==Female)->прийшла</li>
+    <li>founder_assembled(founder_gender==Male)->зібрав</li>
+    <li>founder_assembled(founder_gender==Female)->зібрала</li>
+    <li>founder_chartered(founder_gender==Male)->зафрахтував</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтувала</li>
+  </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Insectoid -->
+  <VME_InsectoidSupremacy.symbolPacks.0.ideoName>Комашизм</VME_InsectoidSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: insectoids -->
+  <VME_InsectoidSupremacy.symbolPacks.0.theme>інсектоїдів</VME_InsectoidSupremacy.symbolPacks.0.theme>
+  <!-- EN: insectoid -->
+  <VME_InsectoidSupremacy.symbolPacks.0.adjective>інсектоїдний</VME_InsectoidSupremacy.symbolPacks.0.adjective>
+  <!-- EN: insect worshipper -->
+  <VME_InsectoidSupremacy.symbolPacks.0.member>комахопоклонник</VME_InsectoidSupremacy.symbolPacks.0.member>
+
+
+</LanguageData>

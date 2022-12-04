@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_GreenTea.label>зелений чай</VBE_GreenTea.label>
+	<VBE_GreenTea.description>Легкий цитрусовий зелений чай, приправлений цукром для створення маслянистого, майже горіхового смаку.</VBE_GreenTea.description>
+
+
+	<VBE_GreenTea.ingestible.ingestCommandString>Випити {0}</VBE_GreenTea.ingestible.ingestCommandString>
+	<VBE_GreenTea.ingestible.ingestReportString>п'є {0}.</VBE_GreenTea.ingestible.ingestReportString>
+
+
+</LanguageData>

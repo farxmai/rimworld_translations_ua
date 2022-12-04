@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TG.GroupInfoTooltip>{0} 
+ЛКМ: Розгорнути іконки
+2х ЛКМ: Виділити учасників.
+ПКМ: Меню групи</TG.GroupInfoTooltip>
+  <TG.Rally>ДО БОЮ</TG.Rally>
+  <TG.Work>Робота</TG.Work>
+  <TG.Orders>Накази</TG.Orders>
+  <TG.Manage>Керувати</TG.Manage>
+  <TG.Group>Група</TG.Group>
+  <TG.Colony>Колонія</TG.Colony>
+  <TG.TaskForce>Спец-загін</TG.TaskForce>
+  <TG.Caravan>Караван</TG.Caravan>
+  <TG.Diplomacy>Дипломатія</TG.Diplomacy>
+
+  <TG.GetToWork>До роботи</TG.GetToWork>
+  <TG.TakeABreak>Перерва</TG.TakeABreak>
+  <TG.ChowHall>Чау-Холл</TG.ChowHall>
+  <TG.SocialRelax>Соціальний відпочинок</TG.SocialRelax>
+  <TG.HaveSomeFun>Дозвілля</TG.HaveSomeFun>
+  <TG.Clean>Прибирати</TG.Clean>
+  <TG.Haul>Переносити</TG.Haul>
+  <TG.VisitMedical>До лікарні</TG.VisitMedical>
+
+  <TG.Rename>Перейменувати</TG.Rename>
+  <TG.Icon>Іконки</TG.Icon>
+  <TG.SortGroup>Сортувати по</TG.SortGroup>
+
+  <TG.Disband>Розпустити</TG.Disband>
+  <TG.DisbandPawn>Пішак</TG.DisbandPawn>
+  <TG.DisbandGroup>Група</TG.DisbandGroup>
+
+  <TG.LookBusy>Виглядати зайнятим</TG.LookBusy>
+
+  <TG.ShowAllColonists>Показати колоністів</TG.ShowAllColonists>
+  <TG.DisplayFood>Показувати голод</TG.DisplayFood>
+  <TG.DisplayRest>Показувати відпочинок</TG.DisplayRest>
+  <TG.DisplayHealth>Показувати здоров'я</TG.DisplayHealth>
+  <TG.DisplayWeapons>Показувати зброю</TG.DisplayWeapons>
+  <TG.DisplayColorBars>Показувати настрій</TG.DisplayColorBars>
+  <TG.DisplayBreakRiskOverlay>Індикатор зриву</TG.DisplayBreakRiskOverlay>
+  <TG.HidePawnsWhenOffMap>Приховати пішаків</TG.HidePawnsWhenOffMap>
+  <TG.HideGroups>Приховати групи</TG.HideGroups>
+  <TG.HideCreateGroup>Кнопка Створити</TG.HideCreateGroup>
+  <TG.HideCreateGroupDesc>Створити &amp; Кнопку керування модом можно знайти у меню "Призначення"</TG.HideCreateGroupDesc>
+  <TG.ColonistBarPositionY>Відступ рамки (Y)</TG.ColonistBarPositionY>
+  <TG.ColonistBarPositionX>Відступ рамки (X)</TG.ColonistBarPositionX>
+  <TG.ColonistBarSpacingX>Інтервал між рамками (X)</TG.ColonistBarSpacingX>
+  <TG.ColonistBarSpacingY>Інтервал між рамками (Y)</TG.ColonistBarSpacingY>
+  <TG.GroupRowCount>Кілкість строк</TG.GroupRowCount>
+  <TG.OverallPawnDisplayScale>Загальний маштаб пішаків: </TG.OverallPawnDisplayScale>
+  <TG.ColonyGroupScale>Маштаб групи колонії</TG.ColonyGroupScale>
+  <TG.GroupScale>Маштаб групи</TG.GroupScale>
+  <TG.PawnNeedsSize>Розмір шкали потреб</TG.PawnNeedsSize>
+  <TG.WeaponOverlayPlacement>Розташування зброї</TG.WeaponOverlayPlacement>
+  <TG.ColorBarModeLabel>Колір палітри натрою:</TG.ColorBarModeLabel>
+  <TG.ColorBarModeDefault>Базовий</TG.ColorBarModeDefault>
+  <TG.ColorBarModeExtended>Розширений</TG.ColorBarModeExtended>
+  <TG.DisableLabelBackground>Вимкнути фон підпису (для продуктивності)</TG.DisableLabelBackground>
+
+  <TG.Attack>Атакувати</TG.Attack>
+  <TG.Regroup>Перегрупуватися</TG.Regroup>
+  <TG.BattleStations>Бойові позиції</TG.BattleStations>
+  <TG.Set>Зайняти</TG.Set>
+  <TG.Clear>Звільнити</TG.Clear>
+  <TG.Send>Встановити</TG.Send>
+  <TG.Unload>Відмінити</TG.Unload>
+
+  <TG.Formation>Формування</TG.Formation>
+  <TG.Medical>Медичний</TG.Medical>
+  <TG.FireAtWill>Вогонь за бажанням</TG.FireAtWill>
+  <TG.Strongest>Найсильніша ціль</TG.Strongest>
+  <TG.Weakest>Найслабкіша ціль</TG.Weakest>
+  <TG.PursueFleeing>Переслідувати</TG.PursueFleeing>
+
+  <TG.Management>Керувати</TG.Management>
+  <TG.Okay>Норм</TG.Okay>
+  <TG.Sad>Сумно</TG.Sad>
+  <TG.Happy>Радий</TG.Happy>
+
+  <TG.ReportToMedical>До лікарні</TG.ReportToMedical>
+  <TG.RescueFallen>Рятувати поранених</TG.RescueFallen>
+  <TG.TendWounded>Наглядати поранених</TG.TendWounded>
+  <TG.TakeFive>Перерва</TG.TakeFive>
+
+  <TG.CreateGroupTooltip>Сформувати групу з вибраних колоністів</TG.CreateGroupTooltip>
+  <TG.OptionsGearTooltip>Відкрити меню налаштувань</TG.OptionsGearTooltip>
+  <TG.LookBusyTooltip>Наказати групі виконати будь-яке завдання</TG.LookBusyTooltip>
+
+	<TG.WorkTaskTooltipResearch>Дослідження</TG.WorkTaskTooltipResearch>
+	<TG.WorkTaskTooltipResearchMenu>Відкрити меню дослідень</TG.WorkTaskTooltipResearchMenu>
+
+  <TG.ForcedLaborTooltip>ПКМ - позначити як пріорітетну задача\nПКМ x2  - позначити як примусову задача</TG.ForcedLaborTooltip>
+
+  <TG.TakeFiveTooltip>Зробити перерву\n\nНакажіть групі трохи відпочити щоб поповнити шкалу дозвілля</TG.TakeFiveTooltip>
+  <TG.ChowHallToolTip>Обідня перерва\n\nНакажіть групі поїсти щоб поповнити шкалу голоду</TG.ChowHallToolTip>
+  <TG.SleepTooltip>Відбій\n\nНакажіть групі лягати спати</TG.SleepTooltip>
+
+
+  <TG.RallyToolTip>Підняти до бою усіх членів групи</TG.RallyToolTip>
+  <TG.ShootersToolTip>Кількість стрільців у групі</TG.ShootersToolTip>
+  <TG.MeleeToolTip>Кількість рукопашників у групі</TG.MeleeToolTip>
+  <TG.ShowHideTooltip>Показати/приховати групи</TG.ShowHideTooltip>
+  <TG.AddColonistTooltip>Додати обраних колоністів до групи</TG.AddColonistTooltip>
+  <TG.RegroupTooltip>Перегрупуватись за позицією лідера\n(Лідер - перший колоніст у групі)</TG.RegroupTooltip>
+  <TG.BattleStationsTooltip>Зайняти бойові позиції</TG.BattleStationsTooltip>
+  <TG.BattleStationsSetTooltip>Встановити бойові позиції</TG.BattleStationsSetTooltip>
+  <TG.BattleStationsClearTooltip>Видалити бойові позиції</TG.BattleStationsClearTooltip>
+  <TG.FireAtWillTooltip>Бойовий режим за замовчуванням</TG.FireAtWillTooltip>
+  <TG.StrongestTooltip>Ціль - найсильніший ворог</TG.StrongestTooltip>
+  <TG.WeakestTooltip>Ціль - найслабший ворог</TG.WeakestTooltip>
+  <TG.PursueFleeingTooltip>Переслідувати утікаючих ворогів</TG.PursueFleeingTooltip>
+  <TG.ReportToMedicalTooltip>Відправети поранених до метичних ліжок</TG.ReportToMedicalTooltip>
+  <TG.RescueDownedTooltip>Рятувати поранених колоністів</TG.RescueDownedTooltip>
+  <TG.TendWoundedTooltip>Доглядати поранених колоністів</TG.TendWoundedTooltip>
+  <TG.ArmorTooltip>Середній показник броні у групі</TG.ArmorTooltip>
+  <TG.DPSTooltip>Середній показник пошкоджень на секунду у групі</TG.DPSTooltip>
+
+
+  <TG.MiddlePawnCountToolTip>Кількість боєздатних пішок</TG.MiddlePawnCountToolTip>
+  <TG.RankTooltip>Середній бойовий ранг у групі</TG.RankTooltip>
+  <TG.UpgradeWeaponTooltip>Накажіть членам групи обрати сильнішу зброю якщо вона наявна.\nНова зброя буде того ж типу що і поточна.</TG.UpgradeWeaponTooltip>
+  <TG.UpgradeArmorTooltip>Накажіть членам групи обрати міцнішу броню якщо вона наявна.</TG.UpgradeArmorTooltip>
+  <TG.TakeBuffTooltip>Накажіть членам групи підібрати бойові препарати якщо вони наявні.</TG.TakeBuffTooltip>
+
+  <TG.MoodIconTooltip>Загальний настрій</TG.MoodIconTooltip>
+  <TG.HealthIconTooltip>Загальне самопочуття</TG.HealthIconTooltip>
+  <TG.RestIconTooltip>Загальне рівень відпочинку</TG.RestIconTooltip>
+  <TG.HungerIconTooltip>Загальне рівень голоду</TG.HungerIconTooltip>
+
+  <TG.GroupHideOptionsTooltip>Показувати групу лише при наведені курсору</TG.GroupHideOptionsTooltip>
+  <TG.HideGroupPawnDotsOptionsTooltip>Приховати іконки пішаків у групі</TG.HideGroupPawnDotsOptionsTooltip>
+  <TG.HideGroupHealthAlertOverlayOptionsTooltip>Приховати попередження про стан здоров'я</TG.HideGroupHealthAlertOverlayOptionsTooltip>
+  <TG.HideWeaponOverlayOptionsTooltip>Приховати зброю членів групи</TG.HideWeaponOverlayOptionsTooltip>
+  <TG.BanishPawnTooltip>Виключити вибраного колоінста з групи</TG.BanishPawnTooltip>
+  <TG.HidePawnGroupOptionsTooltip>Перемістити групу до підгрупи</TG.HidePawnGroupOptionsTooltip>
+  <TG.WeaponModeShowDrafted>У бою</TG.WeaponModeShowDrafted>
+  <TG.WeaponModeShowAlways>Завжди</TG.WeaponModeShowAlways>
+
+  <TG.GroupAreaTooltip>Це налаштування також буде використано для нових колоністів у групі.\n\nНеобхідно обрати нове налаштування ПІСЛЯ застосування цієї опції</TG.GroupAreaTooltip>
+  <TG.GroupOutfitTooltip>Це налаштування також буде використано для нових колоністів у групі.\n\nНеобхідно обрати нове налаштування ПІСЛЯ застосування цієї опції</TG.GroupOutfitTooltip>
+  <TG.GroupDrugsTooltip>Це налаштування також буде використано для нових колоністів у групі.\n\nНеобхідно обрати нове налаштування ПІСЛЯ застосування цієї опції</TG.GroupDrugsTooltip>
+  <TG.GroupFoodTooltip>Це налаштування також буде використано для нових колоністів у групі.\n\nНеобхідно обрати нове налаштування ПІСЛЯ застосування цієї опції</TG.GroupFoodTooltip>
+  <TG.PresetMenuOverlayOptionsTooltip>Відкрити меню пресетів</TG.PresetMenuOverlayOptionsTooltip>
+  <TG.PresetLabel>Пресет</TG.PresetLabel>
+  <TG.GroupsLabel>Пресет</TG.GroupsLabel>
+  <TG.CreateNew>Створити</TG.CreateNew>
+  <TG.CreateNewTooltip>Створити новий пресет.\n\n(буду збережено тільки після збереженя поточної сесії)</TG.CreateNewTooltip>
+  <TG.TrashCanTooltip>Видалити</TG.TrashCanTooltip>
+  <TG.SavePresetTooltip>Оновити</TG.SavePresetTooltip>
+  <TG.ActivatePresetTooltip>Активувати пресет.\n\nВи можете активувати декілька пресетів одночасно</TG.ActivatePresetTooltip>
+  <TG.DisactivatePresetTooltip>Деактивувати пресет</TG.DisactivatePresetTooltip>
+  <TG.CreateNewPreset>Створити</TG.CreateNewPreset>
+  <TG.RemovePreset>Видалити</TG.RemovePreset>
+  <TG.SavePreset>Зберегти</TG.SavePreset>
+
+  <TG.PresetWorkPrioritiesTooltip>Пріорітети: </TG.PresetWorkPrioritiesTooltip>
+  <TG.PresetActiveWorkStatesTooltip>Примусова праця: </TG.PresetActiveWorkStatesTooltip>
+  <TG.Inactive>Вимкнено</TG.Inactive>
+  <TG.Active>Увімнено</TG.Active>
+  <TG.ForcedLabor>Примусова праця</TG.ForcedLabor>
+  <TG.Temporary>Тимчасово</TG.Temporary>
+
+  <TG.Apply>Прийняти</TG.Apply>
+  <TG.ResetGroupTitle>Скинути</TG.ResetGroupTitle>
+  <TG.ResetGroupTooltip>Скинути групу</TG.ResetGroupTooltip>
+
+  <TG.TravelSupplies>Припаси</TG.TravelSupplies>
+  <TG.Bedrolls>Спальники</TG.Bedrolls>
+
+  <TG.CaptureTooltip>Захопити усіх впавших ворогів</TG.CaptureTooltip>
+  <TG.ExecuteTooltip>Стратити усіх впавших ворогів</TG.ExecuteTooltip>
+  <TG.Name>Ім'я</TG.Name>
+
+  <TG.PrisonerMenuTooltip>В'язні</TG.PrisonerMenuTooltip>
+  <TG.AnimalMenuTooltip>Тварини</TG.AnimalMenuTooltip>
+  <TG.GuestMenuTooltip>Гості</TG.GuestMenuTooltip>
+  <TG.SlaveMenuTooltip>Раби</TG.SlaveMenuTooltip>
+  <TG.Prisoners>В'язні</TG.Prisoners>
+  <TG.Animals>Тварини</TG.Animals>
+  <TG.Guests>Гості</TG.Guests>
+  <TG.Slaves>Раби</TG.Slaves>
+
+  <TG.ColorBarModeDefaultTooltip>3-інтервальна шкала настрою</TG.ColorBarModeDefaultTooltip>
+  <TG.ColorBarModeExtendedTooltip>5-інтервальна шкала настрою</TG.ColorBarModeExtendedTooltip>
+
+  <TG.Pawn>Колоніст</TG.Pawn>
+  <TG.Box>Рамка</TG.Box>
+  
+  <TG.ResetToDefault>Скинути до значень за замовчуванням</TG.ResetToDefault>
+	<TG.ResetPawnView>Скинути відображення</TG.ResetPawnView>
+
+	<TG.WorkTypeLeftClickToApply>ЛКМ щоб прийняти</TG.WorkTypeLeftClickToApply>
+	<TG.WorkTypeForcedLabor>Примусова праця</TG.WorkTypeForcedLabor>
+	<TG.WorkTypeSlaveLabor>Рабська праця</TG.WorkTypeSlaveLabor>
+	<TG.GroupWorkPrioritiesReset>Скинути пріорітети праці\n\nЗелена рамка означає групове призначення, натисніть СКМ щоб скинути</TG.GroupWorkPrioritiesReset>
+	
+	<TG.GroupColorTooltip>Призначити колір одягу для цієї групи. Колоністи перефарбуть його за потреби як тільки виявиться нагода.</TG.GroupColorTooltip>
+	<TG.SetIdeologyColor>Колір ідології</TG.SetIdeologyColor>
+	<TG.SetPawnFavoritesColor>Улюблений колір</TG.SetPawnFavoritesColor>
+	<TG.ClearGroupColor>Прибрати колір групи</TG.ClearGroupColor>
+	
+	<TG.All>Все</TG.All>
+	<TG.Torso>Тіло</TG.Torso>
+	<TG.Legs>Ноги</TG.Legs>
+	<TG.Hands>Руки</TG.Hands>
+	<TG.Head>Голова</TG.Head>
+	<TG.Feet>Ступні</TG.Feet>
+	<TG.Hair>Волосся</TG.Hair>
+	<TG.HealthBarWidth>Розмір шкали здоров'я</TG.HealthBarWidth>
+	<TG.AutoDisbandTooltip>Авто-видалення\n\nГрупу буде розформавано якщо в ній не залишилось колоністів.</TG.AutoDisbandTooltip>
+	<TG.WeaponSizeScale>Розмір зброї</TG.WeaponSizeScale>
+	<TG.ModSettingsText>Параметры для групп колоний можно найти в игре, используя значок шестеренки, расположенный под кнопкой «Создать группу».</TG.ModSettingsText>
+	<TG.PawnRowCount>Колоністів в рядку: </TG.PawnRowCount>
+
+  <TG.GroupSlavesSection>{0} (раби)</TG.GroupSlavesSection>
+	<TG.UngroupedColonistsSection>Незгруповані колоністи</TG.UngroupedColonistsSection>
+	<TG.UngroupedSlavesSection>Незгруповані раби</TG.UngroupedSlavesSection>
+	
+	<TG.AnyPawnOfGroup>Будь-хто з {0}</TG.AnyPawnOfGroup>
+	<TG.DisbandSelectedPawns>Натисніть, щоб розпустити вибраних пішаків із цієї групи</TG.DisbandSelectedPawns>
+</LanguageData>

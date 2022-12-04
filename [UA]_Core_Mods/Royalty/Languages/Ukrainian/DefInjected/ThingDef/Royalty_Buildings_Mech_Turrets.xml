@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>автоміномет</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>автоміномет</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+
+  <!-- EN: mini-slug -->
+  <Bullet_MiniSlug.label>снайперська міні-куля</Bullet_MiniSlug.label>
+
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>легкий бластер</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>Скорострельний енергетичний бластер для ведення вогню на придушення.</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>ствол</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>легкий бластер</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>гармата-інферно</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>Мініатюрна артилерійська зброя. Стріляє одиночними запалювальними снарядами.</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>ствол</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>гармата-інферно</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.label>снайперська міні-турель</Gun_MiniTurretMech.label>
+  <!-- EN: An automatic turret-mounted slug-thrower. -->
+  <Gun_MiniTurretMech.description>Невелика снайперська автоматична турель.</Gun_MiniTurretMech.description>
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>снайперська міні-турель</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>автоматична турель із бластером</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>Турель з енергетичним бластером та автономним джерелом живлення. Не може виявляти цілі на дуже близькій дистанції.</Turret_AutoChargeBlaster.description>
+
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>автоматична інферно-турель</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>Турель з інферно-гарматою та автономним джерелом живлення. Не може виявляти цілі на дуже близькій дистанції.</Turret_AutoInferno.description>
+
+  <!-- EN: mini-slugger turret -->
+  <Turret_AutoMiniTurret.label>снайперська міні-турель</Turret_AutoMiniTurret.label>
+  <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
+  <Turret_AutoMiniTurret.description>Турель із слабкою, але далекобійною снайперською зброєю. Забезпечена автономним джерелом живлення. Може вибухнути під час пошкодження.</Turret_AutoMiniTurret.description>
+
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>автоматична турель-міномет</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>Самозарядна автоматична турель-міномет з автономним джерелом живлення. Може вражати цілі на будь-якій дистанції, навіть через стіни, але має низьку точність.</Turret_AutoMortar.description>
+
+</LanguageData>

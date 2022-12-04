@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Boot camp -->
+  <VAppE_AchievementMultipleItems.label>Вже не босоніж</VAppE_AchievementMultipleItems.label>
+  <!-- EN: Get two boots and two shoes -->
+  <VAppE_AchievementMultipleItems.description>Отримати по дві пари туфель і черевиків</VAppE_AchievementMultipleItems.description>
+
+  <!-- EN: Boot camp, two -->
+  <VAppE_AchievementMultipleItemsCrafted.label>Чоботар</VAppE_AchievementMultipleItemsCrafted.label>
+  <!-- EN: Craft two boots and two shoes -->
+  <VAppE_AchievementMultipleItemsCrafted.description>Зшити по дві пари туфель і черевиків</VAppE_AchievementMultipleItemsCrafted.description>
+</LanguageData>

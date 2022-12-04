@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penguin -->
+
+  <AEXP_Penguin.label>пінгвін</AEXP_Penguin.label>
+  <AEXP_Penguin.labelPlural>пінгвіни</AEXP_Penguin.labelPlural>
+  <AEXP_Penguin.lifeStages.0.label>пташеня пінгвіна</AEXP_Penguin.lifeStages.0.label>
+  <AEXP_Penguin.lifeStages.0.labelPlural>пташенята пінгвіна</AEXP_Penguin.lifeStages.0.labelPlural>
+  <AEXP_Penguin.lifeStages.0.labelMale>пташеня пінгвіна</AEXP_Penguin.lifeStages.0.labelMale>
+  <AEXP_Penguin.lifeStages.0.labelMalePlural>пташенята пінгвіна</AEXP_Penguin.lifeStages.0.labelMalePlural>
+  <AEXP_Penguin.lifeStages.0.labelFemale>пташеня пінгвіна</AEXP_Penguin.lifeStages.0.labelFemale>
+  <AEXP_Penguin.lifeStages.0.labelFemalePlural>пташенята пінгвіна</AEXP_Penguin.lifeStages.0.labelFemalePlural>
+  <AEXP_Penguin.lifeStages.1.label>молодий пінгвін</AEXP_Penguin.lifeStages.1.label>
+  <AEXP_Penguin.lifeStages.1.labelPlural>молоді пінгвіни</AEXP_Penguin.lifeStages.1.labelPlural>
+  <AEXP_Penguin.lifeStages.1.labelMale>молодий пінгвін</AEXP_Penguin.lifeStages.1.labelMale>
+  <AEXP_Penguin.lifeStages.1.labelMalePlural>молоді пінгвіни</AEXP_Penguin.lifeStages.1.labelMalePlural>
+  <AEXP_Penguin.lifeStages.1.labelFemale>молодий пінгвін</AEXP_Penguin.lifeStages.1.labelFemale>
+  <AEXP_Penguin.lifeStages.1.labelFemalePlural>молоді пінгвіни</AEXP_Penguin.lifeStages.1.labelFemalePlural>
+  <AEXP_Penguin.lifeStages.2.label>пінгвін</AEXP_Penguin.lifeStages.2.label>
+  <AEXP_Penguin.lifeStages.2.labelPlural>пінгвіни</AEXP_Penguin.lifeStages.2.labelPlural>
+  <AEXP_Penguin.lifeStages.2.labelMale>пінгвін</AEXP_Penguin.lifeStages.2.labelMale>
+  <AEXP_Penguin.lifeStages.2.labelMalePlural>пінгвіни</AEXP_Penguin.lifeStages.2.labelMalePlural>
+  <AEXP_Penguin.lifeStages.2.labelFemale>пінгвін</AEXP_Penguin.lifeStages.2.labelFemale>
+  <AEXP_Penguin.lifeStages.2.labelFemalePlural>пінгвіни</AEXP_Penguin.lifeStages.2.labelFemalePlural>
+  <AEXP_Penguin.labelMale>пінгвін</AEXP_Penguin.labelMale>
+  <AEXP_Penguin.labelMalePlural>пінгвіни</AEXP_Penguin.labelMalePlural>
+  <AEXP_Penguin.labelFemale>пінгвін</AEXP_Penguin.labelFemale>
+  <AEXP_Penguin.labelFemalePlural>пінгвіни</AEXP_Penguin.labelFemalePlural>
+
+
+  <!-- Seal -->
+
+  <AEXP_Seal.label>тюлень</AEXP_Seal.label>
+  <AEXP_Seal.labelPlural>тюлені</AEXP_Seal.labelPlural>
+  <AEXP_Seal.lifeStages.0.label>дитинча тюленя</AEXP_Seal.lifeStages.0.label>
+  <AEXP_Seal.lifeStages.0.labelPlural>дитинчата тюленя</AEXP_Seal.lifeStages.0.labelPlural>
+  <AEXP_Seal.lifeStages.0.labelMale>дитинча тюленя</AEXP_Seal.lifeStages.0.labelMale>
+  <AEXP_Seal.lifeStages.0.labelMalePlural>дитинчата тюленя</AEXP_Seal.lifeStages.0.labelMalePlural>
+  <AEXP_Seal.lifeStages.0.labelFemale>дитинча тюленя</AEXP_Seal.lifeStages.0.labelFemale>
+  <AEXP_Seal.lifeStages.0.labelFemalePlural>дитинчата тюленя</AEXP_Seal.lifeStages.0.labelFemalePlural>
+  <AEXP_Seal.lifeStages.1.label>молодий тюлень</AEXP_Seal.lifeStages.1.label>
+  <AEXP_Seal.lifeStages.1.labelPlural>молоді тюлені</AEXP_Seal.lifeStages.1.labelPlural>
+  <AEXP_Seal.lifeStages.1.labelMale>молодий тюлень</AEXP_Seal.lifeStages.1.labelMale>
+  <AEXP_Seal.lifeStages.1.labelMalePlural>молоді тюлені</AEXP_Seal.lifeStages.1.labelMalePlural>
+  <AEXP_Seal.lifeStages.1.labelFemale>молодий тюлень</AEXP_Seal.lifeStages.1.labelFemale>
+  <AEXP_Seal.lifeStages.1.labelFemalePlural>молоді тюлені</AEXP_Seal.lifeStages.1.labelFemalePlural>
+  <AEXP_Seal.lifeStages.2.label>тюлень</AEXP_Seal.lifeStages.2.label>
+  <AEXP_Seal.lifeStages.2.labelPlural>тюлені</AEXP_Seal.lifeStages.2.labelPlural>
+  <AEXP_Seal.lifeStages.2.labelMale>тюлень</AEXP_Seal.lifeStages.2.labelMale>
+  <AEXP_Seal.lifeStages.2.labelMalePlural>тюлені</AEXP_Seal.lifeStages.2.labelMalePlural>
+  <AEXP_Seal.lifeStages.2.labelFemale>тюлень</AEXP_Seal.lifeStages.2.labelFemale>
+  <AEXP_Seal.lifeStages.2.labelFemalePlural>тюлені</AEXP_Seal.lifeStages.2.labelFemalePlural>
+  <AEXP_Seal.labelMale>тюлень</AEXP_Seal.labelMale>
+  <AEXP_Seal.labelMalePlural>тюлені</AEXP_Seal.labelMalePlural>
+  <AEXP_Seal.labelFemale>тюлень</AEXP_Seal.labelFemale>
+  <AEXP_Seal.labelFemalePlural>тюлені</AEXP_Seal.labelFemalePlural>
+
+
+  <!-- Walrus -->
+
+  <AEXP_Walrus.label>морж</AEXP_Walrus.label>
+  <AEXP_Walrus.labelPlural>моржі</AEXP_Walrus.labelPlural>
+  <AEXP_Walrus.lifeStages.0.label>дитинча моржа</AEXP_Walrus.lifeStages.0.label>
+  <AEXP_Walrus.lifeStages.0.labelPlural>дитинчата моржа</AEXP_Walrus.lifeStages.0.labelPlural>
+  <AEXP_Walrus.lifeStages.0.labelMale>дитинча моржа</AEXP_Walrus.lifeStages.0.labelMale>
+  <AEXP_Walrus.lifeStages.0.labelMalePlural>дитинчата моржа</AEXP_Walrus.lifeStages.0.labelMalePlural>
+  <AEXP_Walrus.lifeStages.0.labelFemale>дитинча моржа</AEXP_Walrus.lifeStages.0.labelFemale>
+  <AEXP_Walrus.lifeStages.0.labelFemalePlural>дитинчата моржа</AEXP_Walrus.lifeStages.0.labelFemalePlural>
+  <AEXP_Walrus.lifeStages.1.label>молодий морж</AEXP_Walrus.lifeStages.1.label>
+  <AEXP_Walrus.lifeStages.1.labelPlural>молоді моржі</AEXP_Walrus.lifeStages.1.labelPlural>
+  <AEXP_Walrus.lifeStages.1.labelMale>молодий морж</AEXP_Walrus.lifeStages.1.labelMale>
+  <AEXP_Walrus.lifeStages.1.labelMalePlural>молоді моржі</AEXP_Walrus.lifeStages.1.labelMalePlural>
+  <AEXP_Walrus.lifeStages.1.labelFemale>молодий морж</AEXP_Walrus.lifeStages.1.labelFemale>
+  <AEXP_Walrus.lifeStages.1.labelFemalePlural>молоді моржі</AEXP_Walrus.lifeStages.1.labelFemalePlural>
+  <AEXP_Walrus.lifeStages.2.label>морж</AEXP_Walrus.lifeStages.2.label>
+  <AEXP_Walrus.lifeStages.2.labelPlural>моржі</AEXP_Walrus.lifeStages.2.labelPlural>
+  <AEXP_Walrus.lifeStages.2.labelMale>морж</AEXP_Walrus.lifeStages.2.labelMale>
+  <AEXP_Walrus.lifeStages.2.labelMalePlural>моржі</AEXP_Walrus.lifeStages.2.labelMalePlural>
+  <AEXP_Walrus.lifeStages.2.labelFemale>морж</AEXP_Walrus.lifeStages.2.labelFemale>
+  <AEXP_Walrus.lifeStages.2.labelFemalePlural>моржі</AEXP_Walrus.lifeStages.2.labelFemalePlural>
+  <AEXP_Walrus.labelMale>морж</AEXP_Walrus.labelMale>
+  <AEXP_Walrus.labelMalePlural>моржі</AEXP_Walrus.labelMalePlural>
+  <AEXP_Walrus.labelFemale>морж</AEXP_Walrus.labelFemale>
+  <AEXP_Walrus.labelFemalePlural>моржі</AEXP_Walrus.labelFemalePlural>
+
+
+</LanguageData>

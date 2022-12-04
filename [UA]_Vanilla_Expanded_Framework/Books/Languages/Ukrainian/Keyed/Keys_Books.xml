@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Book -->
+  <VBE.Book>Книжка</VBE.Book>
+  <!-- EN: Read book -->
+  <VBE.ReadBook>Читати книжку</VBE.ReadBook>
+
+  <!-- EN: Can't read: This skillbook is not sufficient. -->
+  <VBE.CantReadSkillBookTooSimple>Неможливо використати: ця книжка більше не матиме ефекту.</VBE.CantReadSkillBookTooSimple>
+
+  <!-- EN: Read newspaper -->
+  <VBE.ReadNewsPaper>Читати газету</VBE.ReadNewsPaper>
+  <!-- EN: Relevant until: -->
+  <VBE.NewspaperRelevantUntil>Актуальна до: </VBE.NewspaperRelevantUntil>
+  <!-- EN: Can't read: This newspaper is out of date. -->
+  <VBE.CantReadNewsPaperExpired>Неможливо використати: більше не актуальна.</VBE.CantReadNewsPaperExpired>
+
+  <!-- EN: Read blueprint -->
+  <VBE.ReadBlueprint>Вивчити креслення</VBE.ReadBlueprint>
+  <!-- EN: Can't read: This technology is already known. -->
+  <VBE.CantReadBlueprintAlreadyResearched>Неможливо вивчити: технологія вже відкрита.</VBE.CantReadBlueprintAlreadyResearched>
+  <!-- EN: Can't read: This technology is too advanced. -->
+  <VBE.CantReadBlueprintTooAdvanced>Неможливо вивчити: технологія занадто складна.</VBE.CantReadBlueprintTooAdvanced>
+  <!-- EN: Can't read: This blueprint is already used. -->
+  <VBE.CantReadBlueprintUsed>Неможливо вивчити: креслення вже вивчено.</VBE.CantReadBlueprintUsed>
+
+  <!-- EN: Read map -->
+  <VBE.ReadMap>Вивчити мапу</VBE.ReadMap>
+  <!-- EN: Can't read: This map is already used -->
+  <VBE.CantReadMapUsed>Неможливо вивчити: мапу вже вивчено.</VBE.CantReadMapUsed>
+  <!-- EN: New location found -->
+  <VBE.LocationsOpened>Знайдено нове місце</VBE.LocationsOpened>
+  <!-- EN: Reading the map has unlocked a new location. -->
+  <VBE.LocationsOpenedDesc>Вивчення мапи розкрило місцерозташування нової локації.</VBE.LocationsOpenedDesc>
+</LanguageData>

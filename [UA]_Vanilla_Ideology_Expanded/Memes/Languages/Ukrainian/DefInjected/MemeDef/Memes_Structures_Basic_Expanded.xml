@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: serketism -->
+  <VME_Structure_Serketist.label>Комашизм</VME_Structure_Serketist.label>
+  <!-- EN: The true face of gods is found in the bite of a spider, the sting of the scorpion. Let those of many legs crawl all over us. -->
+  <VME_Structure_Serketist.description>Справжнє обличчя богів можна побачити в укусі павука, жалі скорпіона. Нехай багатоногі повзають по нас.</VME_Structure_Serketist.description>
+  <!-- EN: hive -->
+  <VME_Structure_Serketist.worshipRoomLabel>вулик</VME_Structure_Serketist.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->serketic</li>
+    <li>memeAdjective->insectoid</li>
+    <li>memeAdjective->verminous</li>
+    <li>memeLeaderNoun->scarab lord</li>
+    <li>memeLeaderNoun->high speaker</li>
+    <li>memeLeaderAdjective->buzzing</li>
+    <li>memeLeaderAdjective->gregarious</li>
+    <li>memeLeaderAdjective->crawling</li>
+    <li>memeMoralist->shaman</li>
+    <li>memeMoralist->moth priest</li>
+    <li>memeMoralist->plague advocate</li>
+  -->
+  <VME_Structure_Serketist.generalRules.rulesStrings>
+    <li>memeAdjective->комашиний</li>
+    <li>memeAdjective->інсектоїдний</li>
+    <li>memeAdjective->паразитичний</li>
+    <li>memeLeaderNoun->жуколорд</li>
+    <li>memeLeaderNoun->гучномовець</li>
+    <li>memeLeaderAdjective->гудючий</li>
+    <li>memeLeaderAdjective->рійний</li>
+    <li>memeLeaderAdjective->повзаючий</li>
+    <li>memeMoralist->шаман</li>
+    <li>memeMoralist->мотиль</li>
+    <li>memeMoralist->чумовод</li>
+  </VME_Structure_Serketist.generalRules.rulesStrings>
+
+  <!-- EN: serketism -->
+  <VME_Structure_Serketist.symbolPacks.0.theme>комашизму</VME_Structure_Serketist.symbolPacks.0.theme>
+  <!-- EN: serketist -->
+  <VME_Structure_Serketist.symbolPacks.0.adjective>комашиний</VME_Structure_Serketist.symbolPacks.0.adjective>
+  <!-- EN: serketist -->
+  <VME_Structure_Serketist.symbolPacks.0.member>селкетист</VME_Structure_Serketist.symbolPacks.0.member>
+
+
+  <!-- EN: esotericism -->
+  <VME_Structure_Esotericism.label>містицизм</VME_Structure_Esotericism.label>
+  <!-- EN: The forces that guide this world are not for the faint of heart nor weak of will. Only through forbidden texts, dark pacts and proper initiation can one truly see beyond the veil. -->
+  <VME_Structure_Esotericism.description>Сили, що правлять світом, не для м'яких серцем та волею. Тільки читання заборонених текстів, укладання темних договорів та належні обряди дозволять зазирнути за завісу.</VME_Structure_Esotericism.description>
+  <!-- EN: sanctum -->
+  <VME_Structure_Esotericism.worshipRoomLabel>святиня</VME_Structure_Esotericism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->obscure</li>
+    <li>memeAdjective->secret</li>
+    <li>memeAdjective->occult</li>
+    <li>memeAdjective->mystical</li>
+    <li>memeCreed->mystery</li>
+    <li>memeCreed->secrets</li>
+    <li>memeCreed->arcana</li>
+    <li>memeCreed->divinations</li>
+    <li>memeLeaderNoun->grand magus</li>
+    <li>memeLeaderNoun->enlightened one</li>
+    <li>memeLeaderAdjective->esoteric</li>
+    <li>memeLeaderAdjective->mystical</li>
+    <li>memeLeaderAdjective->secretive</li>
+    <li>memeMoralist->practitioner</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->wizard</li>
+  -->
+  <VME_Structure_Esotericism.generalRules.rulesStrings>
+    <li>memeAdjective->прихований</li>
+    <li>memeAdjective->таємничий</li>
+    <li>memeAdjective->окультний</li>
+    <li>memeAdjective->містичний</li>
+    <li>memeCreed->ритуал</li>
+    <li>memeCreed->секрет</li>
+    <li>memeCreed->аркан</li>
+    <li>memeCreed->ворожіння</li>
+    <li>memeLeaderNoun->грандмайстер</li>
+    <li>memeLeaderNoun->мудрець</li>
+    <li>memeLeaderAdjective->езотеричний</li>
+    <li>memeLeaderAdjective->містичний</li>
+    <li>memeLeaderAdjective->таємничий</li>
+    <li>memeMoralist->практик</li>
+    <li>memeMoralist->філософ</li>
+    <li>memeMoralist->містик</li>
+  </VME_Structure_Esotericism.generalRules.rulesStrings>
+
+  <!-- EN: esotericism -->
+  <VME_Structure_Esotericism.symbolPacks.0.theme>містицизму</VME_Structure_Esotericism.symbolPacks.0.theme>
+  <!-- EN: esoteric -->
+  <VME_Structure_Esotericism.symbolPacks.0.adjective>містичний</VME_Structure_Esotericism.symbolPacks.0.adjective>
+  <!-- EN: practitioner -->
+  <VME_Structure_Esotericism.symbolPacks.0.member>практик</VME_Structure_Esotericism.symbolPacks.0.member>
+
+
+  <!-- EN: hedonism -->
+  <VME_Structure_Bacchanalianism.label>гедонізм</VME_Structure_Bacchanalianism.label>
+  <!-- EN: Man's time on this earth is brief and fleeting, to deny oneself of any of life's pleasures such as lust or gluttony is the one true sin. Throw wide the gates to tireless festivity, live and breathe endless splendor. -->
+  <VME_Structure_Bacchanalianism.description>Життя людини на цій землі коротке і скороминуще, тому відмовляти собі в будь-яких життєвих задоволеннях, таких як хіть чи обжерливість то великий гріх. Будьте відкритими до веселощів, живіть і спостерігайте нескінченну красу Всесвіту.</VME_Structure_Bacchanalianism.description>
+  <!-- EN: pleasure lounge -->
+  <VME_Structure_Bacchanalianism.worshipRoomLabel>зал насолод</VME_Structure_Bacchanalianism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->hedonistic</li>
+    <li>memeAdjective->pleasurable</li>
+    <li>memeAdjective->orgasmic</li>
+    <li>memeAdjective->pleasant</li>
+    <li>memeAdjective->enjoyable</li>
+    <li>memeAdjective->delightful</li>
+    <li>memeLeaderNoun->lord of pleasure</li>
+    <li>memeLeaderNoun->libertine</li>
+    <li>memeLeaderAdjective->delightful</li>
+    <li>memeLeaderAdjective->gratifying</li>
+    <li>memeLeaderAdjective->pleasing</li>
+    <li>memeMoralist->reveler</li>
+    <li>memeMoralist->love priest</li>
+  -->
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+    <li>memeAdjective->гедоністичний</li>
+    <li>memeAdjective->радісний</li>
+    <li>memeAdjective->оргазмічний</li>
+    <li>memeAdjective->приємний</li>
+    <li>memeAdjective->солодкий</li>
+    <li>memeAdjective->чудовий</li>
+    <li>memeLeaderNoun->володар наслоди</li>
+    <li>memeLeaderNoun->розпусник</li>
+    <li>memeLeaderAdjective->прекрасний</li>
+    <li>memeLeaderAdjective->життєрадісний</li>
+    <li>memeLeaderAdjective->догодливий</li>
+    <li>memeMoralist->гуляка</li>
+    <li>memeMoralist->жерець кохання</li>
+  </VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+
+  <!-- EN: hedonism -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.theme>гедонізму</VME_Structure_Bacchanalianism.symbolPacks.0.theme>
+  <!-- EN: hedonist -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.adjective>гедоністичний</VME_Structure_Bacchanalianism.symbolPacks.0.adjective>
+  <!-- EN: hedonist -->
+  <VME_Structure_Bacchanalianism.symbolPacks.0.member>гедоніст</VME_Structure_Bacchanalianism.symbolPacks.0.member>
+
+
+  <!-- EN: eldritch cult -->
+  <VME_Structure_ChthonianCult.label>ктулхіанство</VME_Structure_ChthonianCult.label>
+  <!-- EN: There are ancient entities in this Universe that are more powerful than mere gods. Immensely powerful and utterly indifferent to us humans who can barely begin to comprehend them. Only by worshipping them can we hope to placate their ire. -->
+  <VME_Structure_ChthonianCult.description>У всесвіті є давні сутності, куди могутніші, ніж якісь там боги. Надзвичайно могутні та абсолютно байдужі до нас, людей, що ледве здатні усвідомити їх. Лише у поклонінні ми можемо знайти надію уникнути їхнього гніву.</VME_Structure_ChthonianCult.description>
+  <!-- EN: chamber of whispers -->
+  <VME_Structure_ChthonianCult.worshipRoomLabel>кімната шепоту</VME_Structure_ChthonianCult.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->chthonian</li>
+    <li>memeAdjective->eldritch</li>
+    <li>memeAdjective->unnameable</li>
+    <li>memeAdjective->insane</li>
+    <li>memeAdjective->non-euclidean</li>
+    <li>memeAdjective->otherwordly</li>
+    <li>memeAdjective->loathsome</li>
+    <li>memeCreed->scribbles</li>
+    <li>memeCreed->knowledge</li>
+    <li>memeCreed->madness</li>
+    <li>memeLeaderNoun->antiquarian</li>
+    <li>memeLeaderNoun->nameless</li>
+    <li>memeLeaderAdjective->indescribable</li>
+    <li>memeLeaderAdjective->unmentionable</li>
+    <li>memeLeaderAdjective->whispering</li>
+    <li>memeMoralist->deranged cultist</li>
+    <li>memeMoralist->cultist leader</li>
+    <li>memeMoralist->stygian advocate</li>
+  -->
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings>
+    <li>memeAdjective->хтонічний</li>
+    <li>memeAdjective->жахливий</li>
+    <li>memeAdjective->безіменний</li>
+    <li>memeAdjective->божевільний</li>
+    <li>memeAdjective->неосяжний</li>
+    <li>memeAdjective->потойбічний</li>
+    <li>memeAdjective->поганий</li>
+    <li>memeCreed->манускрипт</li>
+    <li>memeCreed->знаяння</li>
+    <li>memeCreed->божевілля</li>
+    <li>memeLeaderNoun->антиквар</li>
+    <li>memeLeaderNoun->хтоніст</li>
+    <li>memeLeaderAdjective->божевільний</li>
+    <li>memeLeaderAdjective->потойбічний</li>
+    <li>memeLeaderAdjective->шепчучий</li>
+    <li>memeMoralist->божевільний культіст</li>
+    <li>memeMoralist->головний культист</li>
+    <li>memeMoralist->стигійський поборник</li>
+  </VME_Structure_ChthonianCult.generalRules.rulesStrings>
+
+  <!-- EN: eldritch -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.theme>жаху</VME_Structure_ChthonianCult.symbolPacks.0.theme>
+  <!-- EN: eldritch -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.adjective>хтонічний</VME_Structure_ChthonianCult.symbolPacks.0.adjective>
+  <!-- EN: cultist -->
+  <VME_Structure_ChthonianCult.symbolPacks.0.member>культист</VME_Structure_ChthonianCult.symbolPacks.0.member>
+
+
+  <!-- EN: eschatologism -->
+  <VME_Structure_Eschatologism.label>есхатологізм</VME_Structure_Eschatologism.label>
+  <!-- EN: To be cursed to walk this earth is true torture, and whether by means of cataclysm, famine, or pestilence the departure of ones soul from their mortal coil should be celebrated. -->
+  <VME_Structure_Eschatologism.description>Прихід Чуми, Війни, Голоду і Смерті— свято, що перерве наші нескінченні й болючі поневіряння по землі, звільнить наші душі.</VME_Structure_Eschatologism.description>
+  <!-- EN: antechamber -->
+  <VME_Structure_Eschatologism.worshipRoomLabel>передпокій</VME_Structure_Eschatologism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->doomsday</li>
+    <li>memeAdjective->eschatological</li>
+    <li>memeAdjective->apocalyptic</li>
+    <li>memeAdjective->cataclysmic</li>
+    <li>memeAdjective->catastrophic</li>
+    <li>memeCreed->predictions</li>
+    <li>memeCreed->prophecies</li>
+    <li>memeCreed->auguries</li>
+    <li>memeLeaderNoun->cult leader</li>
+    <li>memeLeaderNoun->doombringer</li>
+    <li>memeLeaderAdjective->portentous</li>
+    <li>memeLeaderAdjective->oracular</li>
+    <li>memeLeaderAdjective->prescient</li>
+    <li>memeMoralist->doomsayer</li>
+    <li>memeMoralist->scaremonger</li>
+    <li>memeMoralist->harbinger of doom</li>
+  -->
+  <VME_Structure_Eschatologism.generalRules.rulesStrings>
+    <li>memeAdjective->судний</li>
+    <li>memeAdjective->есхатологічний</li>
+    <li>memeAdjective->апокаліптичний</li>
+    <li>memeAdjective->катастрофічний</li>
+    <li>memeAdjective->передсмертний</li>
+    <li>memeCreed->передбачення</li>
+    <li>memeCreed->пророцтво</li>
+    <li>memeCreed->передчуття</li>
+    <li>memeLeaderNoun->провидець</li>
+    <li>memeLeaderNoun->суддя</li>
+    <li>memeLeaderAdjective->знаменний</li>
+    <li>memeLeaderAdjective->пророкуючий</li>
+    <li>memeLeaderAdjective->апокаліптичний</li>
+    <li>memeMoralist->вісник кінця</li>
+    <li>memeMoralist->глашатай</li>
+    <li>memeMoralist->вісник загибелі</li>
+  </VME_Structure_Eschatologism.generalRules.rulesStrings>
+
+  <!-- EN: eschatologism -->
+  <VME_Structure_Eschatologism.symbolPacks.0.theme>апокаліпсису</VME_Structure_Eschatologism.symbolPacks.0.theme>
+  <!-- EN: eschatological -->
+  <VME_Structure_Eschatologism.symbolPacks.0.adjective>апокаліптичний</VME_Structure_Eschatologism.symbolPacks.0.adjective>
+  <!-- EN: doomsday cultist -->
+  <VME_Structure_Eschatologism.symbolPacks.0.member>культист судного дня</VME_Structure_Eschatologism.symbolPacks.0.member>
+
+
+  <!-- EN: authoritarian -->
+  <VME_Structure_Authoritarianism.label>авторитаризм</VME_Structure_Authoritarianism.label>
+  <!-- EN: Plurality only brings a false illusion of choice, and breeds discontent, rebellion and chaos. With an iron fist we will govern our people and bring prosperity to all. -->
+  <VME_Structure_Authoritarianism.description>Плюралізм лише створює ілюзію вибору та породжує невдоволення, бунти та хаос. Тільки взявши народ міцною рукою, ми приведемо його до процвітання.</VME_Structure_Authoritarianism.description>
+  <!-- EN: headquarters -->
+  <VME_Structure_Authoritarianism.worshipRoomLabel>штаб-квартира</VME_Structure_Authoritarianism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->firm</li>
+    <li>memeAdjective->oligarchic</li>
+    <li>memeAdjective->absolute</li>
+    <li>memeAdjective->uncompromising</li>
+    <li>memeAdjective->repressive</li>
+    <li>memeAdjective->iron-fisted</li>
+    <li>memeAdjective->populist</li>
+    <li>memeLeaderNoun->supreme leader</li>
+    <li>memeLeaderNoun->caudillo</li>
+    <li>memeLeaderNoun->chairman</li>
+    <li>memeLeaderNoun->duce</li>
+    <li>memeLeaderNoun->president for life</li>
+    <li>memeLeaderAdjective->stern</li>
+    <li>memeLeaderAdjective->patriot</li>
+    <li>memeLeaderAdjective->callous</li>
+    <li>memeLeaderAdjective->harsh</li>
+    <li>memeLeaderAdjective->implacable</li>
+    <li>memeLeaderAdjective->inexorable</li>
+    <li>memeMoralist->propagandist</li>
+    <li>memeMoralist->regime advocate</li>
+    <li>memeMoralist->campaigner</li>
+  -->
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings>
+    <li>memeAdjective->жорсткий</li>
+    <li>memeAdjective->олігархічний</li>
+    <li>memeAdjective->абсолютний</li>
+    <li>memeAdjective->безкомпромісний</li>
+    <li>memeAdjective->репресивний</li>
+    <li>memeAdjective->патріотичний</li>
+    <li>memeAdjective->популістський</li>
+    <li>memeLeaderNoun->верховний вождь</li>
+    <li>memeLeaderNoun->радник</li>
+    <li>memeLeaderNoun->голова</li>
+    <li>memeLeaderNoun->незмінний лідер</li>
+    <li>memeLeaderNoun->президент</li>
+    <li>memeLeaderAdjective->суворий</li>
+    <li>memeLeaderAdjective->абсолютний</li>
+    <li>memeLeaderAdjective->непохитний</li>
+    <li>memeLeaderAdjective->залізний</li>
+    <li>memeLeaderAdjective->невблаганний</li>
+    <li>memeLeaderAdjective->безкомпромісний</li>
+    <li>memeMoralist->пропагандон</li>
+    <li>memeMoralist->прихильник режиму</li>
+    <li>memeMoralist->агітатор</li>
+  </VME_Structure_Authoritarianism.generalRules.rulesStrings>
+
+  <!-- EN: authoritarianism -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.theme>авторитаризму</VME_Structure_Authoritarianism.symbolPacks.0.theme>
+  <!-- EN: authoritarian -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.adjective>авторитаристський</VME_Structure_Authoritarianism.symbolPacks.0.adjective>
+  <!-- EN: citizen -->
+  <VME_Structure_Authoritarianism.symbolPacks.0.member>громадянин</VME_Structure_Authoritarianism.symbolPacks.0.member>
+
+
+  <!-- EN: cult of personality -->
+  <VME_Structure_CultOfPersonality.label>культ особистості</VME_Structure_CultOfPersonality.label>
+  <!-- EN: It is forbidden to question the crown of a king or queen, even the soil itself is undeserving to feel the touch of our leaders' divine feet. Our leader should want for nothing and through their grand design we will prosper. -->
+  <VME_Structure_CultOfPersonality.description>Заборонено сумніватися у справедливості корони на голові короля або королеви, адже навіть ноги їх не торкаються брудної землі. Наш ватажок не повинен нічого потребувати: не можна відволікати того, хто будує плани загального процвітання.</VME_Structure_CultOfPersonality.description>
+  <!-- EN: chamber of the high one -->
+  <VME_Structure_CultOfPersonality.worshipRoomLabel>зала його величності</VME_Structure_CultOfPersonality.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->unified</li>
+    <li>memeAdjective->imperial</li>
+    <li>memeAdjective->kingly</li>
+    <li>memeAdjective->royal</li>
+    <li>memeAdjective->monarchal</li>
+    <li>memeAdjective->princely</li>
+    <li>memeAdjective->sovereign</li>
+    <li>memeCreed->laws</li>
+    <li>memeCreed->orders</li>
+    <li>memeCreed->divine will</li>
+    <li>memeLeaderNoun->god-emperor</li>
+    <li>memeLeaderNoun->emperor</li>
+    <li>memeLeaderNoun->king</li>
+    <li>memeLeaderNoun->dictator</li>
+    <li>memeLeaderAdjective->majestic</li>
+    <li>memeLeaderAdjective->loved</li>
+    <li>memeLeaderAdjective->adored</li>
+    <li>memeLeaderAdjective->annointed</li>
+    <li>memeMoralist->sycophant</li>
+    <li>memeMoralist->servant</li>
+    <li>memeMoralist->magistrate</li>
+  -->
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings>
+    <li>memeAdjective->єдиний</li>
+    <li>memeAdjective->імперський</li>
+    <li>memeAdjective->царський</li>
+    <li>memeAdjective->королівський</li>
+    <li>memeAdjective->монарший</li>
+    <li>memeAdjective->княжий</li>
+    <li>memeAdjective->суверенний</li>
+    <li>memeCreed->закон</li>
+    <li>memeCreed->порядок</li>
+    <li>memeLeaderNoun->імператор</li>
+    <li>memeLeaderNoun->король</li>
+    <li>memeLeaderNoun->диктатор</li>
+    <li>memeLeaderAdjective->величний</li>
+    <li>memeLeaderAdjective->улюблений</li>
+    <li>memeLeaderAdjective->обожнюваний</li>
+    <li>memeLeaderAdjective->помазаний</li>
+    <li>memeMoralist->підлабузник</li>
+    <li>memeMoralist->жополиз</li>
+    <li>memeMoralist->чиновник</li>
+  </VME_Structure_CultOfPersonality.generalRules.rulesStrings>
+
+  <!-- EN: cult of personality -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.theme>культу особистості</VME_Structure_CultOfPersonality.symbolPacks.0.theme>
+  <!-- EN: totalitarian -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.adjective>тоталітаристський</VME_Structure_CultOfPersonality.symbolPacks.0.adjective>
+  <!-- EN: subject -->
+  <VME_Structure_CultOfPersonality.symbolPacks.0.member>підданий</VME_Structure_CultOfPersonality.symbolPacks.0.member>
+
+
+  <!-- EN: pantheism -->
+  <VME_Structure_Pantheism.label>пантеїзм</VME_Structure_Pantheism.label>
+  <!-- EN: The Universe is God. There is no God but the combined substance, forces, and laws that are manifested in the existing universe. -->
+  <VME_Structure_Pantheism.description>Всесвіт — це Бог. Бог є комплексною сутністю, що складається з сил і законів цього Всесвіту.</VME_Structure_Pantheism.description>
+  <!-- EN: great hall -->
+  <VME_Structure_Pantheism.worshipRoomLabel>велика зала</VME_Structure_Pantheism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->immanent</li>
+    <li>memeAdjective->divine</li>
+    <li>memeAdjective->all-encompassing</li>
+    <li>memeAdjective->transcendent</li>
+    <li>memeAdjective->infinite</li>
+    <li>memeAdjective->enlightened</li>
+    <li>memeLeaderNoun->guru</li>
+    <li>memeLeaderNoun->leader</li>
+    <li>memeLeaderNoun->prince</li>
+    <li>memeLeaderAdjective->calm</li>
+    <li>memeLeaderAdjective->meditating </li>
+    <li>memeLeaderAdjective->enlightened</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->thinker</li>
+    <li>memeMoralist->spiritualist</li>
+  -->
+  <VME_Structure_Pantheism.generalRules.rulesStrings>
+    <li>memeAdjective->постійний</li>
+    <li>memeAdjective->божественний</li>
+    <li>memeAdjective->всеосяжний</li>
+    <li>memeAdjective->трансцендентний</li>
+    <li>memeAdjective->нескінченний</li>
+    <li>memeAdjective->освічений</li>
+    <li>memeLeaderNoun->гуру</li>
+    <li>memeLeaderNoun->вождь</li>
+    <li>memeLeaderNoun->князь</li>
+    <li>memeLeaderAdjective->мирний</li>
+    <li>memeLeaderAdjective->споглядаючий</li>
+    <li>memeLeaderAdjective->освічений</li>
+    <li>memeMoralist->філософ</li>
+    <li>memeMoralist->мислитель</li>
+    <li>memeMoralist->спіритуаліст</li>
+  </VME_Structure_Pantheism.generalRules.rulesStrings>
+
+  <!-- EN: pantheism -->
+  <VME_Structure_Pantheism.symbolPacks.0.theme>пантеїзму</VME_Structure_Pantheism.symbolPacks.0.theme>
+  <!-- EN: pantheistic -->
+  <VME_Structure_Pantheism.symbolPacks.0.adjective>пантеїстський</VME_Structure_Pantheism.symbolPacks.0.adjective>
+  <!-- EN: pantheist -->
+  <VME_Structure_Pantheism.symbolPacks.0.member>пантеіст</VME_Structure_Pantheism.symbolPacks.0.member>
+
+
+  <!-- EN: omnism -->
+  <VME_Structure_Omnism.label>омнізм</VME_Structure_Omnism.label>
+  <!-- EN: All creeds and beliefs have both truths and fabrications, a healthy mind will listen carefully and with scrutiny to what tenets say as well as what they choose not to say. -->
+  <VME_Structure_Omnism.description>Кожна віра чи вчення містить як істину, так і брехню. Здоровий розум повинен уважно та обережно прислухатися до всього, що кажуть догмати, і вдвічі пильніше до того, про що вони замовчують.</VME_Structure_Omnism.description>
+  <!-- EN: temple -->
+  <VME_Structure_Omnism.worshipRoomLabel>храм</VME_Structure_Omnism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->universal</li>
+    <li>memeAdjective->reformed</li>
+    <li>memeAdjective->comprehensive</li>
+    <li>memeAdjective->ubiquitous</li>
+    <li>memeAdjective->all-inclusive</li>
+    <li>memeLeaderNoun->all-theist</li>
+    <li>memeLeaderNoun->trascendent one</li>
+    <li>memeLeaderAdjective->wise</li>
+    <li>memeLeaderAdjective->inclusive</li>
+    <li>memeMoralist->priest</li>
+    <li>memeMoralist->preacher</li>
+  -->
+  <VME_Structure_Omnism.generalRules.rulesStrings>
+    <li>memeAdjective->універсальний</li>
+    <li>memeAdjective->реформований</li>
+    <li>memeAdjective->загальний</li>
+    <li>memeAdjective->всюдисущий</li>
+    <li>memeAdjective->всемісний</li>
+    <li>memeLeaderNoun->всевірець</li>
+    <li>memeLeaderNoun->омніст</li>
+    <li>memeLeaderAdjective->мудрий</li>
+    <li>memeLeaderAdjective->всюдисущий</li>
+    <li>memeMoralist->священик</li>
+    <li>memeMoralist->проповідник</li>
+  </VME_Structure_Omnism.generalRules.rulesStrings>
+
+  <!-- EN: omnism -->
+  <VME_Structure_Omnism.symbolPacks.0.theme>омнізму</VME_Structure_Omnism.symbolPacks.0.theme>
+  <!-- EN: omnist -->
+  <VME_Structure_Omnism.symbolPacks.0.adjective>омністський</VME_Structure_Omnism.symbolPacks.0.adjective>
+  <!-- EN: believer -->
+  <VME_Structure_Omnism.symbolPacks.0.member>віруючий</VME_Structure_Omnism.symbolPacks.0.member>
+
+
+  <!-- EN: agnosticism -->
+  <VME_Structure_Agnosticism.label>агностицизм</VME_Structure_Agnosticism.label>
+  <!-- EN: The theory that any gods or all-powerful force watches or guides us down to trivialities is either asinine or incomprehensible by mere man, and equally so is the idea that all came from nothing. It is better to ignore such dogma and respect the freedom of those who find respite in such beliefs. -->
+  <VME_Structure_Agnosticism.description>Теорія про те, що є боги або будь-яка всемогутня сила, які спостерігають за нами і ведуть нас, або безглузда, або непізнавана для людини. Те саме стосується ідеї, що все з'явилося з нічого. Краще ігнорувати ці догмати та поважати свободу тих, хто знаходить полегшення у вірі.</VME_Structure_Agnosticism.description>
+  <!-- EN: symposium hall -->
+  <VME_Structure_Agnosticism.worshipRoomLabel>зал симпозіумів</VME_Structure_Agnosticism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->disbelieving</li>
+    <li>memeAdjective->godless</li>
+    <li>memeAdjective->irreligious</li>
+    <li>memeAdjective->nonreligious</li>
+    <li>memeAdjective->unbelieving</li>
+    <li>memeAdjective->secular</li>
+    <li>memeLeaderNoun->leader</li>
+    <li>memeLeaderNoun->freethinker</li>
+    <li>memeLeaderAdjective->secular</li>
+    <li>memeLeaderAdjective->worldly</li>
+    <li>memeLeaderAdjective->profane</li>
+    <li>memeMoralist->counselor</li>
+    <li>memeMoralist->ethicist</li>
+    <li>memeMoralist->moralist</li>
+    <li>memeMoralist->philosopher</li>
+    <li>memeMoralist->thinker</li>
+    <li>memeMoralist->academic</li>
+    <li>memeMoralist->sophist</li>
+  -->
+  <VME_Structure_Agnosticism.generalRules.rulesStrings>
+    <li>memeAdjective->безвірний</li>
+    <li>memeAdjective->безбожний</li>
+    <li>memeAdjective->безрелігійний</li>
+    <li>memeAdjective->невіруючий</li>
+    <li>memeAdjective->світський</li>
+    <li>memeLeaderNoun->керівник</li>
+    <li>memeLeaderNoun->вільнодумець</li>
+    <li>memeLeaderAdjective->світський</li>
+    <li>memeLeaderAdjective->мирський</li>
+    <li>memeLeaderAdjective->непосвячений</li>
+    <li>memeMoralist->радник</li>
+    <li>memeMoralist->етик</li>
+    <li>memeMoralist->мораліст</li>
+    <li>memeMoralist->філософ</li>
+    <li>memeMoralist->мислитель</li>
+    <li>memeMoralist->академік</li>
+    <li>memeMoralist->софіст</li>
+  </VME_Structure_Agnosticism.generalRules.rulesStrings>
+
+  <!-- EN: agnosticism -->
+  <VME_Structure_Agnosticism.symbolPacks.0.theme>агностицизму</VME_Structure_Agnosticism.symbolPacks.0.theme>
+  <!-- EN: agnostic -->
+  <VME_Structure_Agnosticism.symbolPacks.0.adjective>агностицистський</VME_Structure_Agnosticism.symbolPacks.0.adjective>
+  <!-- EN: agnostic -->
+  <VME_Structure_Agnosticism.symbolPacks.0.member>агностик</VME_Structure_Agnosticism.symbolPacks.0.member>
+
+
+  <!-- EN: secular spirituality -->
+  <VME_Structure_SecularSpirituality.label>світська етика</VME_Structure_SecularSpirituality.label>
+  <!-- EN: Putting one’s faith in rituals, prayer or powers beyond only delays one’s personal growth. Enlightenment, happiness, and purpose can all be found from within and through any matter one feels is right. -->
+  <VME_Structure_SecularSpirituality.description>Віра в ритуали, молитви чи потойбічні сили лише затримує особистісне зростання. Просвітлення, щастя і мета— все це можна знайти всередині себе і через будь-яку справу, яку людина вважає правильною.</VME_Structure_SecularSpirituality.description>
+  <!-- EN: meditation room -->
+  <VME_Structure_SecularSpirituality.worshipRoomLabel>кімната медитації</VME_Structure_SecularSpirituality.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->psychic</li>
+    <li>memeAdjective->intangible</li>
+    <li>memeAdjective->ethereal</li>
+    <li>memeAdjective->transcendent</li>
+    <li>memeLeaderNoun->mystic</li>
+    <li>memeLeaderNoun->visionary</li>
+    <li>memeLeaderAdjective->supernatural</li>
+    <li>memeLeaderAdjective->spiritual</li>
+    <li>memeLeaderAdjective->otherworldly</li>
+    <li>memeMoralist->yogi</li>
+    <li>memeMoralist->therapist</li>
+    <li>memeMoralist->meditation teacher</li>
+  -->
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings>
+    <li>memeAdjective->психічний</li>
+    <li>memeAdjective->невловимий</li>
+    <li>memeAdjective->ефірний</li>
+    <li>memeLeaderNoun->містик</li>
+    <li>memeLeaderNoun->візіонер</li>
+    <li>memeLeaderAdjective->надприродний</li>
+    <li>memeLeaderAdjective->духовний</li>
+    <li>memeLeaderAdjective->потойбічний</li>
+    <li>memeMoralist->йог</li>
+    <li>memeMoralist->терапевт</li>
+    <li>memeMoralist->вчитель</li>
+  </VME_Structure_SecularSpirituality.generalRules.rulesStrings>
+
+  <!-- EN: secular spirituality -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.theme>світської етики</VME_Structure_SecularSpirituality.symbolPacks.0.theme>
+  <!-- EN: secular -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.adjective>світський</VME_Structure_SecularSpirituality.symbolPacks.0.adjective>
+  <!-- EN: spiritual person -->
+  <VME_Structure_SecularSpirituality.symbolPacks.0.member>етик</VME_Structure_SecularSpirituality.symbolPacks.0.member>
+
+
+  <!-- EN: shintaoist origin -->
+  <VME_Structure_Shintaoism.label>даосизм</VME_Structure_Shintaoism.label>
+  <!-- EN: This ideoligion is a descendant of ancient Shinto and Taoism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <VME_Structure_Shintaoism.description>Ця ідеолігія є нащадком древнього синтоїзму та даосизму. Можливо, у неї вже зовсім не ті заповіді, що були тисячі років тому, але символи схожі.</VME_Structure_Shintaoism.description>
+  <!-- EN: dàoguàn -->
+  <VME_Structure_Shintaoism.worshipRoomLabel>храм дао</VME_Structure_Shintaoism.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->balanced</li>
+    <li>memeAdjective->natural</li>
+    <li>memeAdjective->compassionate</li>
+    <li>memeAdjective->frugal</li>
+    <li>memeAdjective->humble</li>
+    <li>memeLeaderNoun->taoshih</li>
+    <li>memeLeaderNoun->master of the Tao</li>
+    <li>memeLeaderAdjective->spiritual</li>
+    <li>memeLeaderAdjective->serene</li>
+    <li>memeMoralist->shintaoist priest</li>
+  -->
+  <VME_Structure_Shintaoism.generalRules.rulesStrings>
+    <li>memeAdjective->збалансований</li>
+    <li>memeAdjective->природний</li>
+    <li>memeAdjective->милосердний</li>
+    <li>memeAdjective->бережливий</li>
+    <li>memeAdjective->скромний</li>
+    <li>memeLeaderNoun->Даосист</li>
+    <li>memeLeaderNoun->майстер Дао</li>
+    <li>memeLeaderAdjective->духовний</li>
+    <li>memeLeaderAdjective->безтурботний</li>
+    <li>memeMoralist->жрець Синдао</li>
+  </VME_Structure_Shintaoism.generalRules.rulesStrings>
+
+  <!-- EN: shintao -->
+  <VME_Structure_Shintaoism.symbolPacks.0.theme>даосизму</VME_Structure_Shintaoism.symbolPacks.0.theme>
+  <!-- EN: shintaoist -->
+  <VME_Structure_Shintaoism.symbolPacks.0.adjective>даосистський</VME_Structure_Shintaoism.symbolPacks.0.adjective>
+  <!-- EN: initiate -->
+  <VME_Structure_Shintaoism.symbolPacks.0.member>посвячений</VME_Structure_Shintaoism.symbolPacks.0.member>
+
+
+  <!-- EN: corporate origin -->
+  <VME_Structure_Corporate.label>корпорація</VME_Structure_Corporate.label>
+  <!-- EN: No Gods or Kings should be worshipped, only man and his unslakable desire for wealth. Colonies should be managed like companies. -->
+  <VME_Structure_Corporate.description>Ми не шануємо богів та королів. Тільки просте людське бажання збагатити себе та свою компанію, про яке ніхто не напише в робочий чат. Наше поселення нічим не відрізняється від корпорації.</VME_Structure_Corporate.description>
+  <!-- EN: office -->
+  <VME_Structure_Corporate.worshipRoomLabel>офіс</VME_Structure_Corporate.worshipRoomLabel>
+
+  <!-- EN:
+    <li>memeAdjective->private</li>
+    <li>memeAdjective->profitable</li>
+    <li>memeAdjective->exploitative</li>
+    <li>memeAdjective->professional</li>
+    <li>memeAdjective->commercial</li>
+    <li>memeAdjective->lucrative</li>
+    <li>memeLeaderNoun->CEO</li>
+    <li>memeLeaderNoun->boss</li>
+    <li>memeLeaderNoun->superintendent</li>
+    <li>memeLeaderAdjective->ruthless</li>
+    <li>memeLeaderAdjective->talented</li>
+    <li>memeLeaderAdjective->entrepreneurial</li>
+    <li>memeMoralist->administrator</li>
+    <li>memeMoralist->executive</li>
+    <li>memeMoralist->manager</li>
+  -->
+  <VME_Structure_Corporate.generalRules.rulesStrings>
+    <li>memeAdjective->приватний</li>
+    <li>memeAdjective->прибутковий</li>
+    <li>memeAdjective->експлуататорський</li>
+    <li>memeAdjective->професійний</li>
+    <li>memeAdjective->комерційний</li>
+    <li>memeAdjective->вигідний</li>
+    <li>memeLeaderNoun->генеральний директор</li>
+    <li>memeLeaderNoun->босс</li>
+    <li>memeLeaderNoun->президент</li>
+    <li>memeLeaderNoun->акціонер</li>
+    <li>memeLeaderAdjective->жорстокий</li>
+    <li>memeLeaderAdjective->талановитий</li>
+    <li>memeLeaderAdjective->корпоративний</li>
+    <li>memeMoralist->адміністратор</li>
+    <li>memeMoralist->керівник</li>
+    <li>memeMoralist->менеджер</li>
+  </VME_Structure_Corporate.generalRules.rulesStrings>
+
+  <!-- EN: corporation -->
+  <VME_Structure_Corporate.symbolPacks.0.theme>корпорації</VME_Structure_Corporate.symbolPacks.0.theme>
+  <!-- EN: corporate -->
+  <VME_Structure_Corporate.symbolPacks.0.adjective>корпоративний</VME_Structure_Corporate.symbolPacks.0.adjective>
+  <!-- EN: employee -->
+  <VME_Structure_Corporate.symbolPacks.0.member>співробітник</VME_Structure_Corporate.symbolPacks.0.member>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fire beam -->
+  <VPE_FireBeam.label>вогняний промінь</VPE_FireBeam.label>
+  <!-- EN: fire tornado -->
+  <VPE_FireTornado.label>вогняний смерч</VPE_FireTornado.label>
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>вихор</VPE_Vortex.label>
+  <!-- EN: hurricane maker -->
+  <VPE_HurricaneMaker.label>маркер урагану</VPE_HurricaneMaker.label>
+  <!-- EN: time sphere -->
+  <VPE_TimeSphere.label>сфера полум'я</VPE_TimeSphere.label>
+  <!-- EN: sky changer -->
+  <VPE_SkyChanger.label>зміна неба</VPE_SkyChanger.label>
+  <!-- EN: emerging -->
+  <VPE_BrambleSpawner.label>місце появи</VPE_BrambleSpawner.label>
+  <!-- EN: emerging -->
+  <VPE_WildPlantSpawner.label>місце появи</VPE_WildPlantSpawner.label>
+  <!-- EN: emerging -->
+  <VPE_TreeSpawner.label>місце появи</VPE_TreeSpawner.label>
+  <!-- EN: small shrineshield -->
+  <VPE_Shrineshield_Small.label>малий духовний щит</VPE_Shrineshield_Small.label>
+  <!-- EN: large shrineshield -->
+  <VPE_Shrineshield_Large.label>великий духовний щит</VPE_Shrineshield_Large.label>
+  <!-- EN: darkness -->
+  <VPE_Darkness.label>темрява</VPE_Darkness.label>
+  <!-- EN: decoy -->
+  <VPE_Decoy.label>приманка</VPE_Decoy.label>
+</LanguageData>

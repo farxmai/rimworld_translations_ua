@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: honorable -->
+  <VME_Raiding_Honorable.label>почесно</VME_Raiding_Honorable.label>
+  <!-- EN: We display our strength and perseverance through conquest, and in doing so we bring honor to our colony. -->
+  <VME_Raiding_Honorable.description>Ми демонструємо свою силу та наполегливість через завоювання, і цим ми приносимо честь нашій колонії.</VME_Raiding_Honorable.description>
+
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>Здійснювали рейд менше ніж {DAYSSINCELASTRAIDTHRESHOLD} днів тому</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>Здійснювали рейд більше ніж {DAYSSINCELASTRAIDTHRESHOLD} днів тому</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
+
+  <!-- EN: abhorrent -->
+  <VME_Raiding_Abhorrent.label>огидно</VME_Raiding_Abhorrent.label>
+  <!-- EN: We worked hard for what we have, we cannot take from the weak as we too were once weak. Doing so is a tremendous shame. -->
+  <VME_Raiding_Abhorrent.description>Ми досягли всього, що маємо, наполегливою працею. Ми не бажаємо грабувати слабких, адже ми самі колись були такими. Це було б ганьбою.</VME_Raiding_Abhorrent.description>
+
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>Здійснювали рейд менше ніж {DAYSSINCELASTRAIDTHRESHOLD} днів тому</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>Здійснювали рейд більше ніж {DAYSSINCELASTRAIDTHRESHOLD} днів тому</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
+</LanguageData>

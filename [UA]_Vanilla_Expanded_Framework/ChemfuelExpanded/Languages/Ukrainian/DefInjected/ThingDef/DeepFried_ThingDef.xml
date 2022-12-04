@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- healthy fried meat -->
+  <CE_DeepFriedBigMeatNoBadHediff.label>корисне смажене м'ясо</CE_DeepFriedBigMeatNoBadHediff.label>
+  <!-- Meat tenderized then filleted, then rolled in a thick batter before being air fried. The end result is a tasty soul food - Not quite as filling as a meal, but very pleasing to eat. -->
+  <CE_DeepFriedBigMeatNoBadHediff.description>М'ясо розм'якшують, потім обробляють на філе, потім обвалюють у густому тісті перед обсмажуванням на аерогрилі. В результаті виходить смачна їжа - не така ситна, як звичайна, але дуже приємна у вжитку.</CE_DeepFriedBigMeatNoBadHediff.description>
+  <!-- healthy fried vegetables -->
+  <CE_DeepFriedVegetablesNoBadHediff.label>корисні смажені овочі</CE_DeepFriedVegetablesNoBadHediff.label>
+  <!-- Vegetables julienned then patted dry before being air fried until golden brown. As crispy and pleasing as they are, these deep fried treats are not as filling as a normal meal. -->
+  <CE_DeepFriedVegetablesNoBadHediff.description>Овочі нарізають соломкою, потім обсушують перед обсмажуванням на аерогрилі до золотаво-коричневого кольору. Якими б хрусткими та приємними вони не були, ці ласощі, обсмажені у фритюрі, не такі ситні, як звичайні страви.</CE_DeepFriedVegetablesNoBadHediff.description>
+
+</LanguageData>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gorilla -->
+
+  <AEXP_Gorilla.label>горила</AEXP_Gorilla.label>
+  <AEXP_Gorilla.labelPlural>горили</AEXP_Gorilla.labelPlural>
+  <AEXP_Gorilla.lifeStages.0.label>дитинча горили</AEXP_Gorilla.lifeStages.0.label>
+  <AEXP_Gorilla.lifeStages.0.labelPlural>дитинчата горили</AEXP_Gorilla.lifeStages.0.labelPlural>
+  <AEXP_Gorilla.lifeStages.0.labelMale>дитинча горили</AEXP_Gorilla.lifeStages.0.labelMale>
+  <AEXP_Gorilla.lifeStages.0.labelMalePlural>дитинчата горили</AEXP_Gorilla.lifeStages.0.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.0.labelFemale>дитинча горили</AEXP_Gorilla.lifeStages.0.labelFemale>
+  <AEXP_Gorilla.lifeStages.0.labelFemalePlural>дитинчата горили</AEXP_Gorilla.lifeStages.0.labelFemalePlural>
+  <AEXP_Gorilla.lifeStages.1.label>молода горила</AEXP_Gorilla.lifeStages.1.label>
+  <AEXP_Gorilla.lifeStages.1.labelPlural>молоді горили</AEXP_Gorilla.lifeStages.1.labelPlural>
+  <AEXP_Gorilla.lifeStages.1.labelMale>молода горила</AEXP_Gorilla.lifeStages.1.labelMale>
+  <AEXP_Gorilla.lifeStages.1.labelMalePlural>молоді горили</AEXP_Gorilla.lifeStages.1.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.1.labelFemale>молода горила</AEXP_Gorilla.lifeStages.1.labelFemale>
+  <AEXP_Gorilla.lifeStages.1.labelFemalePlural>молоді горили</AEXP_Gorilla.lifeStages.1.labelFemalePlural>
+  <AEXP_Gorilla.lifeStages.2.label>горила</AEXP_Gorilla.lifeStages.2.label>
+  <AEXP_Gorilla.lifeStages.2.labelPlural>горили</AEXP_Gorilla.lifeStages.2.labelPlural>
+  <AEXP_Gorilla.lifeStages.2.labelMale>горила</AEXP_Gorilla.lifeStages.2.labelMale>
+  <AEXP_Gorilla.lifeStages.2.labelMalePlural>горили</AEXP_Gorilla.lifeStages.2.labelMalePlural>
+  <AEXP_Gorilla.lifeStages.2.labelFemale>горила</AEXP_Gorilla.lifeStages.2.labelFemale>
+  <AEXP_Gorilla.lifeStages.2.labelFemalePlural>горили</AEXP_Gorilla.lifeStages.2.labelFemalePlural>
+  <AEXP_Gorilla.labelMale>горила</AEXP_Gorilla.labelMale>
+  <AEXP_Gorilla.labelMalePlural>горили</AEXP_Gorilla.labelMalePlural>
+  <AEXP_Gorilla.labelFemale>горила</AEXP_Gorilla.labelFemale>
+  <AEXP_Gorilla.labelFemalePlural>горили</AEXP_Gorilla.labelFemalePlural>
+
+
+  <!-- Jaguar -->
+
+  <AEXP_Jaguar.label>ягуар</AEXP_Jaguar.label>
+  <AEXP_Jaguar.labelPlural>ягуари</AEXP_Jaguar.labelPlural>
+  <AEXP_Jaguar.lifeStages.0.label>кошеня ягуара</AEXP_Jaguar.lifeStages.0.label>
+  <AEXP_Jaguar.lifeStages.0.labelPlural>кошененята ягуара</AEXP_Jaguar.lifeStages.0.labelPlural>
+  <AEXP_Jaguar.lifeStages.0.labelMale>кошеня ягуара</AEXP_Jaguar.lifeStages.0.labelMale>
+  <AEXP_Jaguar.lifeStages.0.labelMalePlural>кошененята ягуара</AEXP_Jaguar.lifeStages.0.labelMalePlural>
+  <AEXP_Jaguar.lifeStages.0.labelFemale>кошеня ягуара</AEXP_Jaguar.lifeStages.0.labelFemale>
+  <AEXP_Jaguar.lifeStages.0.labelFemalePlural>кошеня ягуара</AEXP_Jaguar.lifeStages.0.labelFemalePlural>
+  <AEXP_Jaguar.lifeStages.1.label>молодий ягуар</AEXP_Jaguar.lifeStages.1.label>
+  <AEXP_Jaguar.lifeStages.1.labelPlural>молоді ягуари</AEXP_Jaguar.lifeStages.1.labelPlural>
+  <AEXP_Jaguar.lifeStages.1.labelMale>молодий ягуар</AEXP_Jaguar.lifeStages.1.labelMale>
+  <AEXP_Jaguar.lifeStages.1.labelMalePlural>молоді ягуари</AEXP_Jaguar.lifeStages.1.labelMalePlural>
+  <AEXP_Jaguar.lifeStages.1.labelFemale>молодий ягуар</AEXP_Jaguar.lifeStages.1.labelFemale>
+  <AEXP_Jaguar.lifeStages.1.labelFemalePlural>молоді ягуари</AEXP_Jaguar.lifeStages.1.labelFemalePlural>
+  <AEXP_Jaguar.lifeStages.2.label>ягуар</AEXP_Jaguar.lifeStages.2.label>
+  <AEXP_Jaguar.lifeStages.2.labelPlural>ягуари</AEXP_Jaguar.lifeStages.2.labelPlural>
+  <AEXP_Jaguar.lifeStages.2.labelMale>ягуар</AEXP_Jaguar.lifeStages.2.labelMale>
+  <AEXP_Jaguar.lifeStages.2.labelMalePlural>ягуари</AEXP_Jaguar.lifeStages.2.labelMalePlural>
+  <AEXP_Jaguar.lifeStages.2.labelFemale>ягуар</AEXP_Jaguar.lifeStages.2.labelFemale>
+  <AEXP_Jaguar.lifeStages.2.labelFemalePlural>ягуари</AEXP_Jaguar.lifeStages.2.labelFemalePlural>
+  <AEXP_Jaguar.labelMale>ягуар</AEXP_Jaguar.labelMale>
+  <AEXP_Jaguar.labelMalePlural>ягуари</AEXP_Jaguar.labelMalePlural>
+  <AEXP_Jaguar.labelFemale>ягуар</AEXP_Jaguar.labelFemale>
+  <AEXP_Jaguar.labelFemalePlural>ягуари</AEXP_Jaguar.labelFemalePlural>
+
+
+  <!-- Lemur -->
+
+  <AEXP_Lemur.label>лемур</AEXP_Lemur.label>
+  <AEXP_Lemur.labelPlural>лемури</AEXP_Lemur.labelPlural>
+  <AEXP_Lemur.lifeStages.0.label>дитинча лемура</AEXP_Lemur.lifeStages.0.label>
+  <AEXP_Lemur.lifeStages.0.labelPlural>дитинчата лемура</AEXP_Lemur.lifeStages.0.labelPlural>
+  <AEXP_Lemur.lifeStages.0.labelMale>дитинча лемура</AEXP_Lemur.lifeStages.0.labelMale>
+  <AEXP_Lemur.lifeStages.0.labelMalePlural>дитинчата лемура</AEXP_Lemur.lifeStages.0.labelMalePlural>
+  <AEXP_Lemur.lifeStages.0.labelFemale>дитинча лемура</AEXP_Lemur.lifeStages.0.labelFemale>
+  <AEXP_Lemur.lifeStages.0.labelFemalePlural>дитинчата лемура</AEXP_Lemur.lifeStages.0.labelFemalePlural>
+  <AEXP_Lemur.lifeStages.1.label>молодий лемур</AEXP_Lemur.lifeStages.1.label>
+  <AEXP_Lemur.lifeStages.1.labelPlural>молоді лемури</AEXP_Lemur.lifeStages.1.labelPlural>
+  <AEXP_Lemur.lifeStages.1.labelMale>молодий лемур</AEXP_Lemur.lifeStages.1.labelMale>
+  <AEXP_Lemur.lifeStages.1.labelMalePlural>молоді лемури</AEXP_Lemur.lifeStages.1.labelMalePlural>
+  <AEXP_Lemur.lifeStages.1.labelFemale>молодий лемур</AEXP_Lemur.lifeStages.1.labelFemale>
+  <AEXP_Lemur.lifeStages.1.labelFemalePlural>молоді лемури</AEXP_Lemur.lifeStages.1.labelFemalePlural>
+  <AEXP_Lemur.lifeStages.2.label>лемур</AEXP_Lemur.lifeStages.2.label>
+  <AEXP_Lemur.lifeStages.2.labelPlural>лемури</AEXP_Lemur.lifeStages.2.labelPlural>
+  <AEXP_Lemur.lifeStages.2.labelMale>лемур</AEXP_Lemur.lifeStages.2.labelMale>
+  <AEXP_Lemur.lifeStages.2.labelMalePlural>лемури</AEXP_Lemur.lifeStages.2.labelMalePlural>
+  <AEXP_Lemur.lifeStages.2.labelFemale>лемур</AEXP_Lemur.lifeStages.2.labelFemale>
+  <AEXP_Lemur.lifeStages.2.labelFemalePlural>лемури</AEXP_Lemur.lifeStages.2.labelFemalePlural>
+  <AEXP_Lemur.labelMale>лемур</AEXP_Lemur.labelMale>
+  <AEXP_Lemur.labelMalePlural>лемури</AEXP_Lemur.labelMalePlural>
+  <AEXP_Lemur.labelFemale>лемур</AEXP_Lemur.labelFemale>
+  <AEXP_Lemur.labelFemalePlural>лемури</AEXP_Lemur.labelFemalePlural>
+
+
+  <!-- Mandrill -->
+
+  <AEXP_Mandrill.label>мандрил</AEXP_Mandrill.label>
+  <AEXP_Mandrill.labelPlural>мандрили</AEXP_Mandrill.labelPlural>
+  <AEXP_Mandrill.lifeStages.0.label>дитинча мандрила</AEXP_Mandrill.lifeStages.0.label>
+  <AEXP_Mandrill.lifeStages.0.labelPlural>дитинчата мандрила</AEXP_Mandrill.lifeStages.0.labelPlural>
+  <AEXP_Mandrill.lifeStages.0.labelMale>дитинча мандрила</AEXP_Mandrill.lifeStages.0.labelMale>
+  <AEXP_Mandrill.lifeStages.0.labelMalePlural>дитинча мандрила</AEXP_Mandrill.lifeStages.0.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.0.labelFemale>дитинча мандрила</AEXP_Mandrill.lifeStages.0.labelFemale>
+  <AEXP_Mandrill.lifeStages.0.labelFemalePlural>дитинчата мандрила</AEXP_Mandrill.lifeStages.0.labelFemalePlural>
+  <AEXP_Mandrill.lifeStages.1.label>молодий мандрил</AEXP_Mandrill.lifeStages.1.label>
+  <AEXP_Mandrill.lifeStages.1.labelPlural>молоді мандрили</AEXP_Mandrill.lifeStages.1.labelPlural>
+  <AEXP_Mandrill.lifeStages.1.labelMale>молодий мандрил</AEXP_Mandrill.lifeStages.1.labelMale>
+  <AEXP_Mandrill.lifeStages.1.labelMalePlural>молоді мандрили</AEXP_Mandrill.lifeStages.1.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.1.labelFemale>молодий мандрил</AEXP_Mandrill.lifeStages.1.labelFemale>
+  <AEXP_Mandrill.lifeStages.1.labelFemalePlural>молоді мандрили</AEXP_Mandrill.lifeStages.1.labelFemalePlural>
+  <AEXP_Mandrill.lifeStages.2.label>мандрил</AEXP_Mandrill.lifeStages.2.label>
+  <AEXP_Mandrill.lifeStages.2.labelPlural>мандрили</AEXP_Mandrill.lifeStages.2.labelPlural>
+  <AEXP_Mandrill.lifeStages.2.labelMale>мандрил</AEXP_Mandrill.lifeStages.2.labelMale>
+  <AEXP_Mandrill.lifeStages.2.labelMalePlural>мандрили</AEXP_Mandrill.lifeStages.2.labelMalePlural>
+  <AEXP_Mandrill.lifeStages.2.labelFemale>мандрил</AEXP_Mandrill.lifeStages.2.labelFemale>
+  <AEXP_Mandrill.lifeStages.2.labelFemalePlural>мандрили</AEXP_Mandrill.lifeStages.2.labelFemalePlural>
+  <AEXP_Mandrill.labelMale>мандрил</AEXP_Mandrill.labelMale>
+  <AEXP_Mandrill.labelMalePlural>мандрили</AEXP_Mandrill.labelMalePlural>
+  <AEXP_Mandrill.labelFemale>мандрил</AEXP_Mandrill.labelFemale>
+  <AEXP_Mandrill.labelFemalePlural>мандрили</AEXP_Mandrill.labelFemalePlural>
+
+
+  <!-- Tapir -->
+
+  <AEXP_Tapir.label>тапір</AEXP_Tapir.label>
+  <AEXP_Tapir.labelPlural>тапіри</AEXP_Tapir.labelPlural>
+  <AEXP_Tapir.lifeStages.0.label>дитинча тапіра</AEXP_Tapir.lifeStages.0.label>
+  <AEXP_Tapir.lifeStages.0.labelPlural>дитинчата тапіра</AEXP_Tapir.lifeStages.0.labelPlural>
+  <AEXP_Tapir.lifeStages.0.labelMale>дитинча тапіра</AEXP_Tapir.lifeStages.0.labelMale>
+  <AEXP_Tapir.lifeStages.0.labelMalePlural>дитинчата тапіра</AEXP_Tapir.lifeStages.0.labelMalePlural>
+  <AEXP_Tapir.lifeStages.0.labelFemale>дитинча тапіра</AEXP_Tapir.lifeStages.0.labelFemale>
+  <AEXP_Tapir.lifeStages.0.labelFemalePlural>дитинчата тапіра</AEXP_Tapir.lifeStages.0.labelFemalePlural>
+  <AEXP_Tapir.lifeStages.1.label>молодий тапір</AEXP_Tapir.lifeStages.1.label>
+  <AEXP_Tapir.lifeStages.1.labelPlural>молоді тапіри</AEXP_Tapir.lifeStages.1.labelPlural>
+  <AEXP_Tapir.lifeStages.1.labelMale>молодий тапір</AEXP_Tapir.lifeStages.1.labelMale>
+  <AEXP_Tapir.lifeStages.1.labelMalePlural>молоді тапіри</AEXP_Tapir.lifeStages.1.labelMalePlural>
+  <AEXP_Tapir.lifeStages.1.labelFemale>молодий тапір</AEXP_Tapir.lifeStages.1.labelFemale>
+  <AEXP_Tapir.lifeStages.1.labelFemalePlural>молоді тапіри</AEXP_Tapir.lifeStages.1.labelFemalePlural>
+  <AEXP_Tapir.lifeStages.2.label>тапір</AEXP_Tapir.lifeStages.2.label>
+  <AEXP_Tapir.lifeStages.2.labelPlural>тапіри</AEXP_Tapir.lifeStages.2.labelPlural>
+  <AEXP_Tapir.lifeStages.2.labelMale>тапір</AEXP_Tapir.lifeStages.2.labelMale>
+  <AEXP_Tapir.lifeStages.2.labelMalePlural>тапіри</AEXP_Tapir.lifeStages.2.labelMalePlural>
+  <AEXP_Tapir.lifeStages.2.labelFemale>тапір</AEXP_Tapir.lifeStages.2.labelFemale>
+  <AEXP_Tapir.lifeStages.2.labelFemalePlural>тапіри</AEXP_Tapir.lifeStages.2.labelFemalePlural>
+  <AEXP_Tapir.labelMale>тапір</AEXP_Tapir.labelMale>
+  <AEXP_Tapir.labelMalePlural>тапіри</AEXP_Tapir.labelMalePlural>
+  <AEXP_Tapir.labelFemale>тапір</AEXP_Tapir.labelFemale>
+  <AEXP_Tapir.labelFemalePlural>тапіри</AEXP_Tapir.labelFemalePlural>
+
+
+  <!-- Tiger -->
+
+  <AEXP_Tiger.label>тигр</AEXP_Tiger.label>
+  <AEXP_Tiger.labelPlural>тигри</AEXP_Tiger.labelPlural>
+  <AEXP_Tiger.lifeStages.0.label>тигреня</AEXP_Tiger.lifeStages.0.label>
+  <AEXP_Tiger.lifeStages.0.labelPlural>тигренята</AEXP_Tiger.lifeStages.0.labelPlural>
+  <AEXP_Tiger.lifeStages.0.labelMale>тигреня</AEXP_Tiger.lifeStages.0.labelMale>
+  <AEXP_Tiger.lifeStages.0.labelMalePlural>тигренята</AEXP_Tiger.lifeStages.0.labelMalePlural>
+  <AEXP_Tiger.lifeStages.0.labelFemale>тигреня</AEXP_Tiger.lifeStages.0.labelFemale>
+  <AEXP_Tiger.lifeStages.0.labelFemalePlural>тигренята</AEXP_Tiger.lifeStages.0.labelFemalePlural>
+  <AEXP_Tiger.lifeStages.1.label>молодий тигр</AEXP_Tiger.lifeStages.1.label>
+  <AEXP_Tiger.lifeStages.1.labelPlural>молоді тигри</AEXP_Tiger.lifeStages.1.labelPlural>
+  <AEXP_Tiger.lifeStages.1.labelMale>молодий тигр</AEXP_Tiger.lifeStages.1.labelMale>
+  <AEXP_Tiger.lifeStages.1.labelMalePlural>молоді тигри</AEXP_Tiger.lifeStages.1.labelMalePlural>
+  <AEXP_Tiger.lifeStages.1.labelFemale>молода тигриця</AEXP_Tiger.lifeStages.1.labelFemale>
+  <AEXP_Tiger.lifeStages.1.labelFemalePlural>молоді тигриці</AEXP_Tiger.lifeStages.1.labelFemalePlural>
+  <AEXP_Tiger.lifeStages.2.label>тигр</AEXP_Tiger.lifeStages.2.label>
+  <AEXP_Tiger.lifeStages.2.labelPlural>тигри</AEXP_Tiger.lifeStages.2.labelPlural>
+  <AEXP_Tiger.lifeStages.2.labelMale>тигр</AEXP_Tiger.lifeStages.2.labelMale>
+  <AEXP_Tiger.lifeStages.2.labelMalePlural>тигри</AEXP_Tiger.lifeStages.2.labelMalePlural>
+  <AEXP_Tiger.lifeStages.2.labelFemale>тигриця</AEXP_Tiger.lifeStages.2.labelFemale>
+  <AEXP_Tiger.lifeStages.2.labelFemalePlural>тигриці</AEXP_Tiger.lifeStages.2.labelFemalePlural>
+  <AEXP_Tiger.labelMale>тигр</AEXP_Tiger.labelMale>
+  <AEXP_Tiger.labelMalePlural>тигри</AEXP_Tiger.labelMalePlural>
+  <AEXP_Tiger.labelFemale>тигриця</AEXP_Tiger.labelFemale>
+  <AEXP_Tiger.labelFemalePlural>тигриці</AEXP_Tiger.labelFemalePlural>
+
+
+</LanguageData>

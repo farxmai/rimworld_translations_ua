@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heating -->
+
+  <Thermostat.label>термостат</Thermostat.label>
+  <Thermostat.description>Використовується для управління електричними і газовими котлами. Можна розмістити більше одного. Підключається через стандартний водопровід.</Thermostat.description>
+
+  <LogBoiler.label>дровяний бойлер</LogBoiler.label>
+  <LogBoiler.description>Виробляє 2000 тепла для радіаторів і баків  гарячої води. Обігріває приміщення і прилеглі лазні. Для палива потрібні дрова.</LogBoiler.description>
+
+  <GasBoiler.label>хімпаливний бойлер</GasBoiler.label>
+  <GasBoiler.description>Виробляє 2000 тепла для радіаторів і баків гарячої води. Для палива потрібне хімічне паливо. Можна контролювати за допомогою термостатів.</GasBoiler.description>
+
+  <ElectricBoiler.label>електричний бойлер</ElectricBoiler.label>
+  <ElectricBoiler.description>Виробляє змінну кількість тепла для радіаторів і баків  гарячої води. Регулювання потужності вручну. Можна контролювати за допомогою термостатів.</ElectricBoiler.description>
+
+  <SolarHeater.label>сонячний нагрівач</SolarHeater.label>
+  <SolarHeater.description>Використовує сонячне світло для нагріву баків гарячої води та радіаторів. 0-2000 одиниць тепла в залежності від освітленості та температури навколишнього середовища.</SolarHeater.description>
+
+  <GeothermHeater.label>геотермальний нагрівач</GeothermHeater.label>
+  <GeothermHeater.description>Використовує геотермальне тепло для нагріву резервуарів гарячої води та радіаторів. 3700 тепла.</GeothermHeater.description>
+
+  <HotWaterTank.label>бак для гарячої води</HotWaterTank.label>
+  <HotWaterTank.description>Зберігає гарячу воду для душів і ванн. Підключити до будь-якого котла для опалення.</HotWaterTank.description>
+
+  <RadiatorStuffed.label>радіатор</RadiatorStuffed.label>
+  <RadiatorStuffed.description>Обігріває приміщення гарячою водою від котлів. Потрібно 100 тепла.</RadiatorStuffed.description>
+
+  <RadiatorLarge.label>великий радіатор</RadiatorLarge.label>
+  <RadiatorLarge.description>В три рази перевищує потужність стандартного радіатора. Корисно для великих приміщень. Потрібно 300 тепла.</RadiatorLarge.description>
+
+  <RadiatorTowelRail.label>сушилка для рушників</RadiatorTowelRail.label>
+  <RadiatorTowelRail.description>Вражаюча сушилка для рушників для ванної кімнати.</RadiatorTowelRail.description>
+
+  <!-- COOLING -->
+
+  <CeilingFan.label>вентилятор на стелі 2x2</CeilingFan.label>
+  <CeilingFan.description>Охолоджує кімнату за рахунок циркуляції повітря. Має вбудовану лампу.</CeilingFan.description>
+
+  <CeilingFanS.label>вентилятор на стелі 1x1</CeilingFanS.label>
+  <CeilingFanS.description>Охолоджує кімнату за рахунок циркуляції повітря. Має вбудовану лампу.</CeilingFanS.description>
+
+  <CeilingFanDarklight.label>вентилятор на стелі 2x2 (темний)</CeilingFanDarklight.label>
+  <CeilingFanDarklight.description>Охолоджує кімнату за рахунок циркуляції повітря. Має вбудовану лампу.</CeilingFanDarklight.description>
+
+  <CeilingFanSDarklight.label>вентилятор на стелі 1x1 (темний)</CeilingFanSDarklight.label>
+  <CeilingFanSDarklight.description>Охолоджує кімнату за рахунок циркуляції повітря. Має вбудовану лампу.</CeilingFanSDarklight.description>
+
+  <AirConOutdoorUnit.label>зовнішній блок кондиціонера</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>Зовнішній елемент спліт-системи кондиціювання. Розміщується зовні приміщень і приєднується за допомогою труб до внутрішніх блоків кондиціонера та охолоджувачів морозильних камер. Має режими потужності від 100 до 1000 одиниць охолодження.</AirConOutdoorUnit.description>
+
+  <AirconIndoorUnit.label>внутрішній блок кондиціонера</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>Внутрішній елемент спліт-системи кондиціювання. Розміщується всередині приміщень та приєднується за допомогою труб до зовнішніх блоків кондиціонера. Потребує 100 одиниць охолодження для роботи.</AirconIndoorUnit.description>
+
+  <FreezerUnit.label>охолоджувач морозильної камери</FreezerUnit.label>
+  <FreezerUnit.description>Охолоджувач для створення морозильної камери. З'єднується із зовнішніми блоками кондиціонера та потребує 300 одиниць охолодження для роботи.</FreezerUnit.description>
+
+</LanguageData>

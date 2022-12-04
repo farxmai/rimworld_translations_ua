@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox_Tilable.label>малий ящик для рослин</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Ящик з ґрунтом для вирощування рослин. Не вимагає електроенергії для роботи.\n\nМоже бути побудований у будь-якій бажаній формі.</VFE_PlanterBox_Tilable.description>
+
+  <VFE_Hydroponics_Tilable.label>мала гідропонна ферма</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Дозволяє швидко вирощувати рослини у штучному поживному середовищі. Потребує електроенергію; рослини загинуть, якщо її не буде.\n\nМоже бути побудована в будь-якій бажаній формі.</VFE_Hydroponics_Tilable.description>
+
+  <VFE_Ecosystem_Tilable.label>мала штучна екосистема</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Дозволяє швидко вирощувати рослини у штучному поживному середовищі. Потребує багато електроенергії; рослини загинуть, якщо її не буде.\n\nМістить вбудовану сонячну лампу. Може бути побудована в будь-якій бажаній формі.</VFE_Ecosystem_Tilable.description>
+
+</LanguageData>

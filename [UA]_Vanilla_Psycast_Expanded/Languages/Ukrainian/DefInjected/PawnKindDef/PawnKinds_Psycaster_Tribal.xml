@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wildspeaker -->
+  <Tribal_Caster_Wildspeaker.label>шепочучий</Tribal_Caster_Wildspeaker.label>
+  <!-- EN: conflagator -->
+  <Tribal_Caster_Conflagrator.label>піромант</Tribal_Caster_Conflagrator.label>
+  <!-- EN: frostshaper -->
+  <Tribal_Caster_Frostshaper.label>холодомант</Tribal_Caster_Frostshaper.label>
+  <!-- EN: staticlord -->
+  <Tribal_Caster_Staticlord.label>штормлорд</Tribal_Caster_Staticlord.label>
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: beads -->
+  <VIEHAR_Apparel_Beads.label>намисто</VIEHAR_Apparel_Beads.label>
+  <!-- EN: Large beads made of any variety of material used to signify devotion to one's beliefs. -->
+  <VIEHAR_Apparel_Beads.description>Великі намистини з різних матеріалів. Дозволяють позначити відданість своїм переконанням.</VIEHAR_Apparel_Beads.description>
+
+  <!-- EN: bishop hat -->
+  <VIEHAR_Apparel_BishopHat.label>капелюх єпископа</VIEHAR_Apparel_BishopHat.label>
+  <!-- EN: A tall, regal ceremonial headdress meant to adorn the head of leaders of Christian faith. -->
+  <VIEHAR_Apparel_BishopHat.description>Високий величний головний убір духових лідерів християнства.</VIEHAR_Apparel_BishopHat.description>
+
+  <!-- EN: brimless hat -->
+  <VIEHAR_Apparel_BrimlessHat.label>капелюх без полів</VIEHAR_Apparel_BrimlessHat.label>
+  <!-- EN: A small, plain hat meant to rest gently on one’s head. Those who wear it often claim it radiates a certain angelic overtone. -->
+  <VIEHAR_Apparel_BrimlessHat.description>Маленький капелюх, що акуратно розташовується на голові. Власники часто сходяться на думці, що в ній є щось янгольське.</VIEHAR_Apparel_BrimlessHat.description>
+
+  <!-- EN: commissar hat -->
+  <VIEHAR_Apparel_CommisarHat.label>капелюх комісара</VIEHAR_Apparel_CommisarHat.label>
+  <!-- EN: A distinguished, brimmed hat adorned with a badge of bravery, meant to inspire cooperation in one's subordinates at any cost. -->
+  <VIEHAR_Apparel_CommisarHat.description>Викликаючий пошану, прикрашений символом хоробрості капелюх. Дає можливість надихати людей на бій. Будь-якою ціною.</VIEHAR_Apparel_CommisarHat.description>
+
+  <!-- EN: deer skull -->
+  <VIEHAR_Apparel_DeerSkull.label>череп оленя</VIEHAR_Apparel_DeerSkull.label>
+  <!-- EN: A simple hood with a forward facing mounted animal skull on the front. This piece is commonly seen worn by those of tribal persuasion and those close to nature. -->
+  <VIEHAR_Apparel_DeerSkull.description>Простий капюшон з рогатим оленячим черепом. Зазвичай його носять шамани племені та близькі до природи друїди.</VIEHAR_Apparel_DeerSkull.description>
+
+  <!-- EN: fez -->
+  <VIEHAR_Apparel_Fez.label>феска</VIEHAR_Apparel_Fez.label>
+  <!-- EN: A flat-topped conical hat decorated with a black tassel, often worn by desert nobility. -->
+  <VIEHAR_Apparel_Fez.description>Плоский конічний капелюх з чорним пензликом на кінці. Їх воліє носити аристократія, що живе у пустелях.</VIEHAR_Apparel_Fez.description>
+
+  <!-- EN: headbag -->
+  <VIEHAR_Apparel_Headbag.label>капелюх-мішок</VIEHAR_Apparel_Headbag.label>
+  <!-- EN: A cult-like hood meant to be worn for anonymity and collectivism during rituals or worn as a sign of great humility. -->
+  <VIEHAR_Apparel_Headbag.description>Культовий головний убір, який носять для збереження анонімності та почуття спільності під час зборів, ритуалів або на знак смирення.</VIEHAR_Apparel_Headbag.description>
+
+  <!-- EN: headscarf -->
+  <VIEHAR_Apparel_Headscarf.label>капелюх-хустка</VIEHAR_Apparel_Headscarf.label>
+  <!-- EN: A warm, floppy hat which covers one's ears, often worn by those belonging to alpinian tribes. -->
+  <VIEHAR_Apparel_Headscarf.description>Теплий гнучкий головний убір, що закриває ще й вуха. Його воліють носити представники альпійських племен.</VIEHAR_Apparel_Headscarf.description>
+
+  <!-- EN: horse mask -->
+  <VIEHAR_Apparel_HorseMask.label>маска коня</VIEHAR_Apparel_HorseMask.label>
+  <!-- EN: A jovial hat that mimics the appearance of an equestrian, party animals far and wide know it to be an epitome of comical relief. -->
+  <VIEHAR_Apparel_HorseMask.description>Жартівливий головний убір, що дозволяє прикинутися вершником. Затяті тусовщики знають, що вона прямо таки штовхає на різні витівки.</VIEHAR_Apparel_HorseMask.description>
+
+  <!-- EN: military cap -->
+  <VIEHAR_Apparel_MilitaryCap.label>пілотка</VIEHAR_Apparel_MilitaryCap.label>
+  <!-- EN: A standard rank-and-file military cap meant to be worn during non-combat procedures, though brave officers are known to wear them during combat as well. -->
+  <VIEHAR_Apparel_MilitaryCap.description>Елемент військової форми звичайних солдатів. Зазвичай його носять поза бою, але завжди є відважні офіцери, які не знімають пілотку під час бою.</VIEHAR_Apparel_MilitaryCap.description>
+
+  <!-- EN: skullcap -->
+  <VIEHAR_Apparel_Skullcap.label>ярмулка</VIEHAR_Apparel_Skullcap.label>
+  <!-- EN: A small, extremely plain hat meant to cover only the crown of one's head. Often worn continuously by the pious and devout alike. -->
+  <VIEHAR_Apparel_Skullcap.description>Крихітна плоска шапочка, що покриває лише маківку. Зазвичай його носять благочестиві або релігійні люди.</VIEHAR_Apparel_Skullcap.description>
+
+  <!-- EN: spiked skullcap -->
+  <VIEHAR_Apparel_SpikedSkullcap.label>шипаста кіпа</VIEHAR_Apparel_SpikedSkullcap.label>
+  <!-- EN: A halo-shaped headpiece meant to accentuate the wearer as being that of profane standing. Often worn by those who find salvation in suffering. -->
+  <VIEHAR_Apparel_SpikedSkullcap.description>Нимкоподібний головний убір, що підкреслює, що власник нечестивий. Популярна серед любителів болю та страждань.</VIEHAR_Apparel_SpikedSkullcap.description>
+
+  <!-- EN: wide hat -->
+  <VIEHAR_Apparel_WideHat.label>широкополий капелюх</VIEHAR_Apparel_WideHat.label>
+  <!-- EN: A very wide-brimmed and rustic hat meant to be worn by sheriffs and lawbringers of far off steamworlds. -->
+  <VIEHAR_Apparel_WideHat.description>Широкополий капелюх, що вибирається шерифами та законниками у далеких індустріальних світах.</VIEHAR_Apparel_WideHat.description>
+</LanguageData>

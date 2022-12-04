@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerMultiple>{0} засмучує {1} {2} раз(и) поспіль.</RecruitAngerMultiple>
+  <RecruitFactionAnger>{0} з фракції {1} зляться на вас через те, що ви завербували {2} ({3}).</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>Члени фракції {0} втратили зв'язок зі своєю делегацією ({2}).</RecruitFactionAngerLeaderless>
+  <LostGroupFactionAnger>{0} із фракції {1} не можуть вийти на зв'язок зі своєю делегацією ({2}).</LostGroupFactionAnger>
+  <LostGroupFactionAngerLeaderless>Члени фракції {0} зляться на вас через те, що ви завербували ({1}).</LostGroupFactionAngerLeaderless>
+  <RecruitFactionPlease>{0} з фракції {1} дуже вдячні, що ви позбавили {0_possesive} від {2} ({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>Члени фракції {0} раді, що ви позбавили їх від {1} ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0} з радістю приєднується до вашого колонії!</MessageGuestRecruitSuccess>
+  <MessageGuestForcedRecruit>Ви змусили {0} залишитися з вами!</MessageGuestForcedRecruit>
+  <LetterLabelRecruitFactionChiefAnger>Глава фракції незадоволений</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>Фракція незадоволена</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>Глава фракції задоволений</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>Фракція задоволена</LetterLabelRecruitFactionPlease>
+
+  <GuestCanBeRecruitedNow>{PAWN_labelShort} тепер має достатню кількість друзів у поселенні для рекрктування.</GuestCanBeRecruitedNow>
+
+  <TextMote_CharmFail>Провал</TextMote_CharmFail>
+  <TextMote_CharmSuccess>Успіх</TextMote_CharmSuccess>
+
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>Вони вражені вашою гостінністю! (Рахунок: {1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>Їм дуже сподобалося у вас! (Рахунок: {1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>Їм сподобалося у вас. (Рахунок: {1})</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>Вони чекали від вас більшого. (Рахунок: {1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>Вони були дуже незадоволені вашою гостінністю. (Рахунок: {1})</VisitorsLeavingAwful>
+  <MessageVisitorsLeavingCold>Гості з фракції {0} знову залишають вас через сильний холод.</MessageVisitorsLeavingCold>
+  <VisitorsSentAway>Ви відіслали гостей.</VisitorsSentAway>
+
+  <VisitorsReturnSoon>Вони скоро повернуться.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>Вони ще повернуться.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>Вони не скоро повернуться до вас.</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>Вони ніколи повернуться!</VisitorsReturnNot>
+
+  <VisitorsArrivedTitle>Гості з {FACTION_name} прибувають у{WORLDOBJECT_label}</VisitorsArrivedTitle>
+  <VisitorsArrivedDesc>Бояться входити на територію вашого поселення з наступних причин:\n{1}\n\nЯкщо ви відішлете їх, вони зайдуть пізніше.</VisitorsArrivedDesc>
+  <VisitorsArrivedAccept>Гарантувати безпеку</VisitorsArrivedAccept>
+  <VisitorsArrivedRefuse>Відіслати</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuseUntilBeds>Не приймати гостей, поки немає гостьових ліжок</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedReasonNoBeds>Немає гостьових ліжок</VisitorsArrivedReasonNoBeds>
+  <VisitorsArrivedDontAskAgain>Завжди погоджуватись (не питати більше)</VisitorsArrivedDontAskAgain>
+
+  <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} стає гостем</LetterLabelDownedPawnBecameGuest>
+  <LetterLabelDownedPawnJoinedGroup>{PAWN_labelShort} приєднається до гостей</LetterLabelDownedPawnJoinedGroup>
+  <RescuedPawnBecameGuest>{PAWN_nameDef}, що було врятовано вами, тепер гість і лишиться з вами на кілька годин. Ви можете почекати, відіслати {PAWN_possessive} або завербувати.\n\nЯкщо {PAWN_labelShort} залишить поселення неушкодженим та здоровим, {PAWN_possessive} фракція буде вам вдячна.</RescuedPawnBecameGuest>
+  <RescuedPawnJoinedGroup>{PAWN_nameDef}, що було врятовано вами, приєднується до гостей із своєї фракції.\n\nЯкщо {PAWN_labelShort} залишить поселення неушкодженим та здоровим, {PAWN_possessive} фракція буде вам вдячна.</RescuedPawnJoinedGroup>
+  <DownedPawnBecameGuest>{PAWN_nameDef} тепер гість і лишиться з вами на кілька годин. Ви можете почекати, відіслати {PAWN_possessive} або завербувати.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>{PAWN_nameDef} приєднується до гостей із своєї фракції.</DownedPawnJoinedGroup>
+
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort} хоче залишитись</LetterLabelHappyGuestJoins>
+  <HappyGuestJoins>{PAWN_labelShort} з фракції {0} {PAWN_gender? домовився: домовилася} зі своєю фракцією, щоб залишитися у вашій колонії в якості посла. Це не погіршить ваші відносини з фракцією {PAWN_possessive}.\n\nВам необхідно вирішити, поки вони не пішли.</HappyGuestJoins>
+
+  <GuestBoughtItem>Член фракції {FACTION_name} купує {ITEM_label} за {1}.</GuestBoughtItem>
+  <GuestTookFreeItem>Член фракції {FACTION_name} забирає {ITEM_label} безкоштовно.</GuestTookFreeItem>
+
+  <!-- Communication -->
+  <InviteGuests>Запросити в гості</InviteGuests>
+  <GuestsCantBeHostile>не можуть бути ворожі</GuestsCantBeHostile>
+  <GuestsDontWantToCome>не зацікавлені у відвідуванні</GuestsDontWantToCome>
+  <GuestsAlreadyComing>вже прямують до вас і прибудуть за {0}</GuestsAlreadyComing>
+  <GuestsOnTheirWay>Вони відправляють свою делегацію. Чекайте їх за {0}.</GuestsOnTheirWay>
+
+  <!-- Pawn Tab -->
+  <AreaToStay>Дозволена зона</AreaToStay>
+  <AreaToBuy>Торгівельна зона</AreaToBuy>
+  <AreaNoShopping>Без покупок</AreaNoShopping>
+  <AreaToStayTooltip>Тут гості зможуть спати та проводити час.</AreaToStayTooltip>
+  <AreaToBuyTooltip>Тут гості зможуть купувати речі. Має знаходитись всередині дозволеної зони.</AreaToBuyTooltip>
+  <FriendsRequirement>Друзів для рекрутування: {0}/{1}</FriendsRequirement>
+  <SeniorityRequirement>Друзів серед вельмож для рекрутування: {0}/{1}</SeniorityRequirement>
+  <RecruitmentPenalty>Втрата відносин при рукрутуванні: {0} ({1} якщо примусове)</RecruitmentPenalty>
+  <ImproveRelationship>Намагатися розважати</ImproveRelationship>
+  <MakeFriends>Намагатися заводити дружбу</MakeFriends>
+  <LeaveAlone>Залишити у спокої</LeaveAlone>
+  <FactionGoodwill>Відносини з фракцією</FactionGoodwill>
+  <Hospitality>Задоволення гостинністю</Hospitality>
+  <MakeDefault>За замовчуванням</MakeDefault>
+  <SendAway>Відіслати...</SendAway>
+  <SendAwayQuestion>Ви впевнені, що хочете відіслати гостей із фракції {FACTION_name} своєю дорогою?\nЯкщо ви проженете їх відразу після того, як вони прийшли, це ніяк не вплине на ваші стосунки.</SendAwayQuestion>
+  <Recruit>Рекрутувати...</Recruit>
+  <CantRecruit>Цього гостя наразі не можна рекрутувати.</CantRecruit>
+  <CantForceRecruit>Цього гостя не можна змусити приєднатися до поселення.</CantForceRecruit>
+  <RecruitQuestion>Ви можете рекрутувати {PAWN_nameDef}.\n\nТак як серед ваших колоністів багато {PAWN_possessive} друзів, рекрутування буде коштувати всього {0} очок відносин із {PAWN_possessive} фракцією.{1}\n\n\Ви впевнені, що хочете рекрутувати {PAWN_nameDef}?</RecruitQuestion>
+  <ForceRecruit>Рекрутувати примусово...</ForceRecruit>
+  <ForceRecruitQuestion>Ви можете рекрутувати {PAWN_nameDef}.\n\nТак як серед ваших колоністів не багато {PAWN_possessive} друзів, рекрутування буде коштувати {0} очок відносин із {PAWN_possessive} фракцією. Кількість очок зменшиться, якщо {PAWN_possessive} знайде більше друзів. {1}\n\n\nВи впевнені, що не хочете зачекати?</ForceRecruitQuestion>
+  <ForceRecruitWarning>\n\nЦе призведе до негайної ворожості з їх боку.</ForceRecruitWarning>
+  <ForceAcidifierWarning>\n\nЦе активує {PAWN_possessive} посмертний розчинник.</ForceAcidifierWarning>
+  <NotEnoughFriends>[PAWN_nameDef] подобається недостатньо ваших поселенців (думка > {0}).</NotEnoughFriends>
+  <CanNowBeRecruited>[PAWN_nameDef] тепер можна рекрутувати.</CanNowBeRecruited>
+  <OnlyJoinsByForce>[PAWN_nameDef] можна лише примусово рекрутувати.</OnlyJoinsByForce>
+  <CanNeverRecruit>[PAWN_nameDef] неможливо рекрутувати.</CanNeverRecruit>
+  <IsATrader>[PAWN_nameDef] торговець, а не гість.</IsATrader>
+  <ImproveTooltip>Ваші перемовники намагатимуться тимчасово покращити настрій гостя. Хороші перемовники працюють ефективніше. Погані перемовники можуть роздратувати гостя.</ImproveTooltip>
+  <TryRecruitTooltip>Ваші перемовники намагатимуться стати друзями з гостем. Хороші перемовники працюють ефективніше. Погані перемовники можуть роздратувати гостя. Маючи достатню кількість друзів у колонії, гість може вирішити стати її частиною.</TryRecruitTooltip>
+  <RecruitTooltip>У вашого гостя достатньо друзів у колонії, щоб його рекрутувати. Втім, це призведе до погіршення відносин із фракцією гостя.</RecruitTooltip>
+  <MakeDefaultTooltip>Застосовує зони та налаштування взаємовідносин до всіх наступних гостей.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>Замість того, щоб чекати, доки ваші перемовники переконають гостя приєднатися до вас, ви можете примусити його залишитися. Втім, це призведе до значного погіршення відносин із фракцією гостя.</ForceRecruitTooltip>
+  <SendAwayTooltip>Попросити товаришів цього гостя піти.</SendAwayTooltip>
+
+  <!-- Main Tab -->
+  <BedsFilled>Ліжок використовується: {0}/{1}</BedsFilled>
+  <MapSettings>Налаштування карти...</MapSettings>
+  <GuestsWelcome>Впускати гостей</GuestsWelcome>
+  <GuestsWelcomeTooltip>Якщо вимкнути, нові гості більше не відвідуватимуть ваше поселення.</GuestsWelcomeTooltip>
+  <RefuseGuestsUntilBeds>Не впускати гостей, якщо нема гостьових ліжок</RefuseGuestsUntilBeds>
+  <RefuseGuestsUntilBedsTooltip>Якщо увімкнути, гості не будуть відвідувати ваше поселення, поки в ньому не будуть збудовані гостьові ліжка.</RefuseGuestsUntilBedsTooltip>
+  <GuestsCanTakeFoodForFree>Безкоштовна їжа для гостей</GuestsCanTakeFoodForFree>
+  <GuestsCanTakeFoodForFreeTooltip>Якщо ви увімкнете це, гості зможуть безкоштовно брати та їсти їжу з ваших запасів.</GuestsCanTakeFoodForFreeTooltip>
+  <GuestsAskForSafety>Не впускати гостей без попереднього запиту</GuestsAskForSafety>
+  <GuestsAskForSafetyTooltip>Якщо ви вимкнете це, гості не запитуватимуть, чи можна їм прийти, якщо існує небезпека.</GuestsAskForSafetyTooltip>
+
+  <!-- Infos -->
+  <StatsReport_MissingFriends>Бракує друзів</StatsReport_MissingFriends>
+
+  <!-- Vending Machine -->
+  <Hospitality_VendingMachine>Торговий автомат</Hospitality_VendingMachine>
+  <Hospitality_VendingMachinePrice>Ціна:</Hospitality_VendingMachinePrice>
+  <Hospitality_VendingMachineContains>Сплачено:</Hospitality_VendingMachineContains>
+  <Hospitality_VendingMachineToggleDesc>Дозвольте гостям купувати поживну пасту.</Hospitality_VendingMachineToggleDesc>
+
+  <!-- Bed -->
+  <GuestBedFormat>гостьове {0}</GuestBedFormat>
+  <CommandBedSetAsGuestLabel>Для гостей</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestDesc>Чи має це ліжко виділятися для гостей.</CommandBedSetAsGuestDesc>
+  <BedGizmoAttractiveness>Привабливість:</BedGizmoAttractiveness>
+  <BedSatisfiedTitles>Наступні вельможі можить скористатися цим:</BedSatisfiedTitles>
+  <BedroomMustBeSingle>Лише одне ліжко</BedroomMustBeSingle>
+  <NextTitleRequirements>Для наступного титулу треба:\n- {0}</NextTitleRequirements>
+
+  <!-- Bed (old) -->
+  <FeeNone>Ціна: безкоштовно</FeeNone>
+  <FeeAmount>Ціна: {0} за візит</FeeAmount>
+  <CommandBedIncreaseFeeLabel>+{0}</CommandBedIncreaseFeeLabel>
+  <CommandBedIncreaseFeeDesc>Збільшити ціну на {0}. Це впливатиме на настрій гостей.</CommandBedIncreaseFeeDesc>
+  <CommandBedDecreaseFeeLabel>-{0}</CommandBedDecreaseFeeLabel>
+  <CommandBedDecreaseFeeDesc>Уменьшить цену {0}. Це впливатиме на настрій гостей.</CommandBedDecreaseFeeDesc>
+  <BedAttractiveness>Привабливість: {0}</BedAttractiveness>
+
+  <!-- Alerts -->
+  <AlertCantClaimBed>Гість не може зайняти ліжко</AlertCantClaimBed>
+  <AlertCantClaimBedDesc>Ці гості не можуть дозволити собі ліжко:\n\n{0}\nНадайте дешевші або безкоштовні ліжка, або подаруйте гостям трохи срібла.\nГості з фракцій з якими ви у хороших взаєминами будуть приносити більше срібла.</AlertCantClaimBedDesc>
+  <AlertNotEnoughBeds>Недостатньо гостьових ліжок</AlertNotEnoughBeds>
+  <AlertNotEnoughBedsDesc>Бракує ліжок для наступних гостей:\n\n{0}\nВи повинні надати більше ліжок для гостей.</AlertNotEnoughBedsDesc>
+  <AlertHasNoFood>Гостю нема чого їсти</AlertHasNoFood>
+  <AlertHasNoFoodDesc>Ці гості голодні:\n\n{0}\nВиставте їжу на продаж або подаруйте гостям страви чи срібло.\nГості з фракцій з якими ви у хороших взаєминами будуть приносити більше срібла.</AlertHasNoFoodDesc>
+
+  <!-- Settings -->
+  <DisableLimits>Вимкнути зміну обмежень</DisableLimits>
+  <DisableLimitsDesc>Коли увімкнено, можна змінити налаштування гри, встановлені для чесної гри.</DisableLimitsDesc>
+  <DisableVisitors>Вимкнути гостей</DisableVisitors>
+  <DisableVisitorsDesc>Ви ненавидите гостей та взагалі не розумієте, навіщо встановили цей мод.</DisableVisitorsDesc>
+  <DisableGuestsHelping>Вимкнути допомогу від гостей</DisableGuestsHelping>
+  <DisableGuestsHelpingDesc>Коли увімкнено, гості не допомагають вашим колоністам.</DisableGuestsHelpingDesc>
+  <DisableArtAndCraft>Вимкнути допомогу з мистецтвом і виробництвом</DisableArtAndCraft>
+  <DisableArtAndCraftDesc>Когда увімкнено, гості не допомагають вашим колоністам з мистецтвом та виробництвом.</DisableArtAndCraftDesc>
+  <DisableOperations>Вимкнути допомогу з операціями</DisableOperations>
+  <DisableOperationsDesc>Когда увімкнено, гості не будуть проводити операції.</DisableOperationsDesc>
+  <DisableMedical>Вимкнути допомогу з лікуванням</DisableMedical>
+  <DisableMedicalDesc>Когда увімкнено, гості не будуть лікувати та та доглядати за пацієнтами.</DisableMedicalDesc>
+  <DisableGifts>Вимкнути подарунки від гостей</DisableGifts>
+  <DisableGiftsDesc>Когда увімкнено, гості никогда не залишатимуть подарунки після себе.</DisableGiftsDesc>
+  <MinGuestWorkSkill>Мінімальна навичка для роботи</MinGuestWorkSkill>
+  <MinGuestWorkSkillDesc>Мінімальна навичка гостя, необхідна для допомоги вашим поселенцям. (Рекомендовано: 7)</MinGuestWorkSkillDesc>
+  <MinGuestGroupSize>Мінімальний розмір делегації</MinGuestGroupSize>
+  <MinGuestGroupSizeDesc>Мінімально допустимий розмір групи гостей. (Рекомендовано: 1)</MinGuestGroupSizeDesc>
+  <MaxGuestGroupSize>Максимальний розмір делегації</MaxGuestGroupSize>
+  <MaxGuestGroupSizeDesc>Максимальний допустимий розмір групи гостей. (Рекомендовано: 16)</MaxGuestGroupSizeDesc>
+  <GuestGroupSize>Розмір делегації</GuestGroupSize>
+  <GuestGroupSizeDesc>Допустимий розмір групи гостей. (Рекомендовано: 1-16)</GuestGroupSizeDesc>
+  <MaxIncidentsPer3Days>Максимум делегацій за 3 дні</MaxIncidentsPer3Days>
+  <MaxIncidentsPer3DaysDesc>Максимум груп гостей, які можуть відвідати вас за 3 дні. (Рекомендовано: 5)</MaxIncidentsPer3DaysDesc>
+  <SilverMultiplier>Множник срібла</SilverMultiplier>
+  <SilverMultiplierDesc>Збільшує кількість срібла, яке приносять гості. Гості з фракцій з якими ви у хороших взаєминами в будь-якому випадку приноситимуть більше срібла.(Рекомендовано: 1)</SilverMultiplierDesc>
+  <DisableGuestsTab>Вимкнути вкладку «гості»</DisableGuestsTab>
+  <DisableGuestsTabDesc>Ховає вкладку з ігрового меню.</DisableGuestsTabDesc>
+  <EnableBuyNotification>Увімкнути сповіщення про покупки</EnableBuyNotification>
+  <EnableBuyNotificationDesc>Увімкнути отримання повідомлень про кожну покупку гостей. Повідомлення можуть бути переглянуті пізніше в історії повідомлень.</EnableBuyNotificationDesc>
+  <EnableRecruitNotification>Увімкнути повідомлення про достатню кількість друзів</EnableRecruitNotification>
+  <EnableRecruitNotificationDesc>Отримувати повідомлення щоразу, коли у гостя з'являється достатня кількість друзів для рекрутування.</EnableRecruitNotificationDesc>
+  <DisableFriendlyGearDrops>Вимкнути випадання інвентарю</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDropsDesc>При знерухомленні з союзників не падатиме їх інвентар.</DisableFriendlyGearDropsDesc>
+  <UseIcon>Показати іконку вкладки «гості»</UseIcon>
+  <UseIconDesc>Показувати іконку на вкладці замість тексту.</UseIconDesc>
+  <Hospitality_RecommendedOn>Рекомендовано увімкнути це налаштування.</Hospitality_RecommendedOn>
+  <Hospitality_RecommendedOff>Рекомендовано вимкнути це налаштування.</Hospitality_RecommendedOff>
+  <Hospitality_RecommendedRange>Рекомендовано залишити це налаштування між {0} та {1}.</Hospitality_RecommendedRange>
+
+</LanguageData>

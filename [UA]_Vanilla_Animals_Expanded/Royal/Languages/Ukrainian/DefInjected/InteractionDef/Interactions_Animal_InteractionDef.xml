@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_PeacockInteraction.label>взаємодія з павичем</VAERoy_PeacockInteraction.label>
+  <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] потерся [INITIATOR_possessive] дзьобом об [rubbedpart] [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->психоактивно обнюхав</li>
+    <li>nuzzled->психоактивно прижався до</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->обережно</li>
+    <li>nuzzleadverb->обнадійливо</li>
+    <li>nuzzleadverb->заспокійливо</li>
+    <li>nuzzleadverb->м'яко</li>
+    <li>nuzzleadverb->злегка</li>
+    <li>nuzzleadverb->жалісно</li>
+    <li>nuzzleadverb->ласкаво</li>
+    <li>rubbedpart->ногу</li>
+    <li>rubbedpart->коліно</li>
+    <li>rubbedpart->стегна</li>
+    <li>rubbedpart->плече</li>
+    <li>rubbedpart->руку</li>
+    <li>rubbedpart->бік</li>
+  </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+
+  <VAERoy_OrangutanInteraction.label>настанови мудрої мавпи</VAERoy_OrangutanInteraction.label>
+  <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+
+    <li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [RECIPIENT_nameDef] про [animalthings].</li>
+
+    <li>talkedabout(p=4)->розмовляли про</li>
+    <li>talkedabout->ділилися думками про</li>
+    <li>talkedabout->обговорювали що</li>
+    <li>talkedabout->сперечались на тему того, що</li>
+    <li>talkedabout->жартували про те, що</li>
+    <li>commentedabout->розповідав</li>
+    <li>commentedabout->зробив ремарку</li>
+    <li>commentedabout->висловдював думку</li>
+    <li>commentedabout->пояснював свою думку</li>
+
+    <li>animalthings->порівняння патерналістських товариств з іншими соціальними аспектами та питаннями</li>
+    <li>animalthings->походження або лінгвістичний аналіз терміну параглайдинг</li>
+    <li>animalthings->те, як інші культури або народи ставляться до тяжкої роботи</li>
+    <li>animalthings->особистий та професійний аналіз та вплив математики</li>
+    <li>animalthings->те, як поезія пов'язана з розфасованими закусками</li>
+    <li>animalthings->застарілу думка про етнічне насильство</li>
+    <li>animalthings->публіцистичний аналіз імміграційної політики самодепортації</li>
+    <li>animalthings->країни з найбільшим споживанням цвітної капусти</li>
+    <li>animalthings->думки експертів щодо сексуальної орієнтації</li>
+    <li>animalthings->те, що унікального у хлібі</li>
+    <li>animalthings->етику лазерної хірургії ока</li>
+    <li>animalthings->релігійний, теологічний, духовний та моральний аналіз прийняття рішень</li>
+    <li>animalthings->чому так важливо прослуховування телефонів</li>
+    <li>animalthings->незручність, яка пов'язана з позитивним настроєм</li>
+    <li>animalthings->порівняння різних видів коктейлів</li>
+    <li>animalthings->порівняння носіння серця у кишені з іншими звичками</li>
+    <li>animalthings->найкращі думки експертів про міську бідність у світі</li>
+    <li>animalthings->уривки з книг або статей, присвячених гравіювання на склі</li>
+    <li>animalthings->негативні наслідки привілейованого звернення</li>
+  </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+
+</LanguageData>

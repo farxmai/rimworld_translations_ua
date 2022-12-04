@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eltex -->
+  <VPE_Eltex.label>ельтекс</VPE_Eltex.label>
+  <!-- EN: An extremely mysterious mineral that is both malleable and serves as a physical conduit for psycasts. As psycasting originates from archotech engines, some speculate that either these minerals were manufactured by the archotechs or that they developed their engines using this strange mineral. -->
+  <VPE_Eltex.description>Загадковий мінерал, який є провідником для псіонічних сил. Оскільки псі-здібності є спадщиною архотека, існує думка, що ельтекс або був створений ним, або самі пси-здібності були придумані для використання можливостей цього мінералу.</VPE_Eltex.description>
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DrankSoda.stages.0.label>Випив(а) содову</VBE_DrankSoda.stages.0.label>
+  <VBE_DrankSoda.stages.0.description>Содова бадьорить та освіжає.</VBE_DrankSoda.stages.0.description>
+
+  <VBE_DrankTea.stages.0.label>Випив(а) чай</VBE_DrankTea.stages.0.label>
+  <VBE_DrankTea.stages.0.description>Проста чашка чаю дійсно прикрашає день.</VBE_DrankTea.stages.0.description>
+
+  <VBE_TequilaAsIngredient.stages.0.label>Випив(а) коктейль с текілою</VBE_TequilaAsIngredient.stages.0.label>
+  <VBE_TequilaAsIngredient.stages.0.description>Смакота!</VBE_TequilaAsIngredient.stages.0.description>
+
+  <VBE_WhiskeyAsIngredient.stages.0.label>Випив(а) коктейль з віскі</VBE_WhiskeyAsIngredient.stages.0.label>
+  <VBE_WhiskeyAsIngredient.stages.0.description>Смакота!</VBE_WhiskeyAsIngredient.stages.0.description>
+
+  <VBE_VodkaAsIngredient.stages.0.label>Випив(а) коктейль з горілкою</VBE_VodkaAsIngredient.stages.0.label>
+  <VBE_VodkaAsIngredient.stages.0.description>Смакота!</VBE_VodkaAsIngredient.stages.0.description>
+
+  <VBE_GinAsIngredient.stages.0.label>Випив(а) коктейль із джином</VBE_GinAsIngredient.stages.0.label>
+  <VBE_GinAsIngredient.stages.0.description>Смакота!</VBE_GinAsIngredient.stages.0.description>
+
+  <VBE_AmbrandyAsIngredient.stages.0.label>Випив(а) коктейль з амбренді</VBE_AmbrandyAsIngredient.stages.0.label>
+  <VBE_AmbrandyAsIngredient.stages.0.description>Смакота!</VBE_AmbrandyAsIngredient.stages.0.description>
+
+  <VBE_RBMeadAsIngredient.stages.0.label>Випив(а) коктейль із медовухою</VBE_RBMeadAsIngredient.stages.0.label>
+  <VBE_RBMeadAsIngredient.stages.0.description>Смакота!</VBE_RBMeadAsIngredient.stages.0.description>
+
+  <VBE_WineAsIngredient.stages.0.label>Випив(а) коктейль з вином</VBE_WineAsIngredient.stages.0.label>
+  <VBE_WineAsIngredient.stages.0.description>Смакота!</VBE_WineAsIngredient.stages.0.description>
+
+  <VBE_ConsumedLuciferiumPowder.stages.0.label>спожито пудру люциферия</VBE_ConsumedLuciferiumPowder.stages.0.label>
+  <VBE_ConsumedLuciferiumPowder.stages.0.description>Смакота!</VBE_ConsumedLuciferiumPowder.stages.0.description>
+
+  <VBE_ConsumedGoStock.stages.0.label>Смакота кубик го-соку</VBE_ConsumedGoStock.stages.0.label>
+  <VBE_ConsumedGoStock.stages.0.description>Смакота!</VBE_ConsumedGoStock.stages.0.description>
+
+  <VBE_ConsumedWakeupPowder.stages.0.label>спожито пудру бодьорину</VBE_ConsumedWakeupPowder.stages.0.label>
+  <VBE_ConsumedWakeupPowder.stages.0.description>Смакота!</VBE_ConsumedWakeupPowder.stages.0.description>
+
+</LanguageData>

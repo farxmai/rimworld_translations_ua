@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Healthy fried meats x20 -->
+  <CE_DeepFryMeatsNoBadHediff.label>приготувати корисне смажене м'ясо x20</CE_DeepFryMeatsNoBadHediff.label>
+  <!-- Deep fry large meat chunks. Air fried food is very tasty. -->
+  <CE_DeepFryMeatsNoBadHediff.description>Смажені на аерогрилі великі шматки м'яса. Смажена їжа дуже смачна.</CE_DeepFryMeatsNoBadHediff.description>
+  <!-- Deep frying meats. -->
+  <CE_DeepFryMeatsNoBadHediff.jobString>смажить м'ясо на аерогрилі.</CE_DeepFryMeatsNoBadHediff.jobString>
+
+  <!-- healthy fried vegetables x20 -->
+  <CE_DeepFryVegetables.label>приготувати корисні смажені овочі x20</CE_DeepFryVegetables.label>
+  <!-- Healthy fried vegetables. Air fried food is very tasty. -->
+  <CE_DeepFryVegetables.description>Смажені на аерогрилі овочі. Смажена їжа дуже смачна.</CE_DeepFryVegetables.description>
+  <!-- Deep frying vegetables. -->
+  <CE_DeepFryVegetables.jobString>смажить овочі на аерогрилі.</CE_DeepFryVegetables.jobString>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SnapOut_CalmDownJob.reportString>заспокоює.</SnapOut_CalmDownJob.reportString>
+  <SnapOut_SnappingOutJob.reportString>усамітнюється.</SnapOut_SnappingOutJob.reportString>
+  <SnapOut_GoToSafetyJob.reportString>намагається охолонути.</SnapOut_GoToSafetyJob.reportString>
+  <SnapOut_ActuallyRecoverJob.reportString>намагається охолонути.</SnapOut_ActuallyRecoverJob.reportString>
+
+</LanguageData>

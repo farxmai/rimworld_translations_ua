@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AquaticGrowingZone>Посадки у воді</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>Створити область, де ваші поселенці вирощуватимуть рослини на воді. Рослини в цій галузі ігнорують вимоги до родючості ґрунту, але на їхній посів та збирання йде більше часу.\n\nЦі області не можуть бути розміщені на морській (солоній) воді.</VCE_AquaticGrowingZoneDesc>
+
+  <VCE_SandyGrowingZone>Посадки на піску</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>Створити область, де ваші поселенці вирощуватимуть рослини на піску. Рослини в цій галузі ігнорують вимоги до родючості ґрунту, але на їхній посів та збирання йде більше часу.</VCE_SandyGrowingZoneDesc>
+
+  <VCE_NotInEquator>Рослина не в екваторіальній зоні (на цій планеті нижче широти {0}). Швидкість зростання - звичайна.</VCE_NotInEquator>
+  <VCE_InEquator>Рослина в екваторіальній зоні. Швидкість зростання: +30%.</VCE_InEquator>
+
+  <VCE_NeedsShade>Рослина повинна розташовуватись у тіні. Зовні, але під дахом.</VCE_NeedsShade>
+
+  <VCE_Pollinated>Вулик виявлено</VCE_Pollinated>
+  <VCE_NotPollinated>У радіусі 6 клітин відсутні вулики (розраховується при сівбі)</VCE_NotPollinated>
+
+  <VCE_CarrotsNearby>Моркви поблизу: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>Зеленої квасолі поблизу: {0}/100</VCE_BeansNearby>
+
+  <VCE_StuntedGrowthFertility>Швидкість зростання зменшена через некам'янистий грунт</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Зростання неможливе через надмірно родючий грунт</VCE_StoppedGrowthFertility>
+
+  <VCE_WaterNearby>Поблизу виявлено водоймище, що заважає зростанню рослини.</VCE_WaterNearby>
+  <VCE_NoWaterNearby>Відсутність водойми заважає зростанню рослини.</VCE_NoWaterNearby>
+
+  <VCE_NoSeaTilesNearby>Рослина не отримує бонусу до швидкості зростання, тому що знаходиться надто далеко від моря.</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>Поблизу знаходиться {0} клітин моря, що дає {0}% бонус до швидкості зростання.</VCE_SeaTilesNearby>
+</LanguageData>

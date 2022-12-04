@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_Gun_GaussRifle.label>зробити гаус-гвинтівка</Make_VWE_Gun_GaussRifle.label>
+  <Make_VWE_Gun_GaussRifle.description>зробити гаус-гвинтівка.</Make_VWE_Gun_GaussRifle.description>
+  <Make_VWE_Gun_GaussRifle.jobString>Виготовляє гаус-гвинтівка</Make_VWE_Gun_GaussRifle.jobString>
+
+  <Make_VWE_Gun_GaussMagnum.label>зробити гаус-магнум</Make_VWE_Gun_GaussMagnum.label>
+  <Make_VWE_Gun_GaussMagnum.description>зробити гаус-магнум.</Make_VWE_Gun_GaussMagnum.description>
+  <Make_VWE_Gun_GaussMagnum.jobString>Виготовляє гаус-магнум</Make_VWE_Gun_GaussMagnum.jobString>
+  
+  <Make_VWE_Gun_GaussLance.label>зробити гаус-спис</Make_VWE_Gun_GaussLance.label>
+  <Make_VWE_Gun_GaussLance.description>зробити гаус-спис.</Make_VWE_Gun_GaussLance.description>
+  <Make_VWE_Gun_GaussLance.jobString>Виготовляє гаус-спис</Make_VWE_Gun_GaussLance.jobString>
+</LanguageData>

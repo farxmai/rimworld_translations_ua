@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Bullet_Taser.label>постріл електрошокера</VWE_Bullet_Taser.label>
+  <VWE_Bullet_Taser.description>Високовольтний постріл.</VWE_Bullet_Taser.description>
+
+  <VWE_Gun_Taser.label>електрошокер</VWE_Gun_Taser.label>
+  <VWE_Gun_Taser.description>Індустріальний пістолет-електрошокер. Посилає електричний струм на коротку дистанцію, щоб паралізувати м'язи та викликати біль у цілі. Зазвичай не викликає помітних ушкоджень.</VWE_Gun_Taser.description>
+  <VWE_Gun_Taser.tools.0.label>рукоять</VWE_Gun_Taser.tools.0.label>
+  <VWE_Gun_Taser.tools.1.label>ствол</VWE_Gun_Taser.tools.1.label>
+
+  <VWE_Gun_RubberBulletPistol.label>нелетальний пістолет</VWE_Gun_RubberBulletPistol.label>
+  <VWE_Gun_RubberBulletPistol.description>Сучасне виконання автоматичного пістолета, що стріляє гумовими кулями. Імовірність серйозно поранити ціль мала, але не дорівнює нулю. При належному везінні гумова куля здатна вбити.</VWE_Gun_RubberBulletPistol.description>
+  <VWE_Gun_RubberBulletPistol.tools.0.label>рукоять</VWE_Gun_RubberBulletPistol.tools.0.label>
+  <VWE_Gun_RubberBulletPistol.tools.1.label>ствол</VWE_Gun_RubberBulletPistol.tools.1.label>
+
+  <VWE_Bullet_RubberPistol.label>резиновая пуля</VWE_Bullet_RubberPistol.label>
+
+  <VWE_Gun_DartGun.label>дротикомет</VWE_Gun_DartGun.label>
+  <VWE_Gun_DartGun.description>Нелетальна повітряна рушниця, що знижує дратівливість чи тривожність у звірів та людей за допомогою анестетиків із групи транквілізаторів.</VWE_Gun_DartGun.description>
+  <VWE_Gun_DartGun.tools.0.label>ложа</VWE_Gun_DartGun.tools.0.label>
+  <VWE_Gun_DartGun.tools.1.label>ствол</VWE_Gun_DartGun.tools.1.label>
+
+  <VWE_Bullet_DartGun.label>засипаючий дротик</VWE_Bullet_DartGun.label>
+
+  <VWE_Gun_TearGasLauncher.label>газовий гранатомет</VWE_Gun_TearGasLauncher.label>
+  <VWE_Gun_TearGasLauncher.description>Сучасний однозарядний гранатомет, що стріляє гранатами зі сльозогінним газом. Часто застосовується силами правопорядку міських світах.</VWE_Gun_TearGasLauncher.description>
+  <VWE_Gun_TearGasLauncher.tools.0.label>ложа</VWE_Gun_TearGasLauncher.tools.0.label>
+  <VWE_Gun_TearGasLauncher.tools.1.label>ствол</VWE_Gun_TearGasLauncher.tools.1.label>
+
+  <VWE_MeleeWeapon_StunBaton.label>електрошокова палиця</VWE_MeleeWeapon_StunBaton.label>
+  <VWE_MeleeWeapon_StunBaton.description>Коротка заспокійлива палиця з електрошокером на кінці. Б'є струмом та паралізує м'язи.</VWE_MeleeWeapon_StunBaton.description>
+  <VWE_MeleeWeapon_StunBaton.tools.0.label>рукоятка</VWE_MeleeWeapon_StunBaton.tools.0.label>
+  <VWE_MeleeWeapon_StunBaton.tools.1.label>ударна частина</VWE_MeleeWeapon_StunBaton.tools.1.label>
+</LanguageData>

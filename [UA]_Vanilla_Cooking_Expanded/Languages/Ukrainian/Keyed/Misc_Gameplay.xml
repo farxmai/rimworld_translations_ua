@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Soups -->
+
+	<VCE_InsertSoup>поставити суп</VCE_InsertSoup>
+	<VCE_InsertSoupDesc>Поставити суп для приготування.</VCE_InsertSoupDesc>
+	<VCE_NoSoupsFound>На цій карті не знайдено таких супів</VCE_NoSoupsFound>
+	<VCE_UncookedSoupSimple>простий суп</VCE_UncookedSoupSimple>
+	<VCE_UncookedSoupFine>чудовий суп</VCE_UncookedSoupFine>
+	<VCE_UncookedSoupLavish>вишуканий суп</VCE_UncookedSoupLavish>
+	<VCE_UncookedSoupGourmet>першокласний суп</VCE_UncookedSoupGourmet>
+	<VCE_UncookedSoupSimple_InsertSoup>поставити простий суп</VCE_UncookedSoupSimple_InsertSoup>
+	<VCE_UncookedSoupFine_InsertSoup>поставити чудовий суп</VCE_UncookedSoupFine_InsertSoup>
+	<VCE_UncookedSoupLavish_InsertSoup>поставити вишуканий суп</VCE_UncookedSoupLavish_InsertSoup>
+	<VCE_UncookedSoupGourmet_InsertSoup>поставити першокласний суп</VCE_UncookedSoupGourmet_InsertSoup>
+	<VCE_SelectSoup>Виберіть тип супу</VCE_SelectSoup>
+	<VCE_StartInsertion>Принести суп</VCE_StartInsertion>
+	<VCE_StartInsertionDesc>Принести суп, щоб почати його готувати.</VCE_StartInsertionDesc>
+	<VCE_RemoveSoup>Витягти суп</VCE_RemoveSoup>
+	<VCE_RemoveSoupDesc>Витягти суп з каструлі. Це можна зробити лише до того, як ви почнете його готувати.</VCE_RemoveSoupDesc>
+	<VCE_CancelBringingSoup>Скасувати доставку супу</VCE_CancelBringingSoup>
+	<VCE_CancelBringingSoupDesc>Скасування доставки супу до електричної каструлі.</VCE_CancelBringingSoupDesc>
+	<VCE_WaitTillJobsEnd>Зачекайте, доки суп не буде подано до каструлі, або скасуйте роботу</VCE_WaitTillJobsEnd>
+	<VCE_NotPowered>Електрична стійка з каструлею не працює</VCE_NotPowered>
+	<VCE_Engage>Готувати суп</VCE_Engage>
+	<VCE_EngageDesc>Почати готувати суп. Цей процес займає 3 дні і не може бути перерваний, інакше суп буде знищено.</VCE_EngageDesc>
+	<VCE_SoupFailurePower>Суп зіпсувався через збій енергопостачання у процесі приготування</VCE_SoupFailurePower>
+	<VCE_SoupFailurePowerWarning>Суп швидко псується через збій енергопостачання в електричній стійці з каструлею.</VCE_SoupFailurePowerWarning>
+	<VCE_SoupFinished>Суп готовий</VCE_SoupFinished>
+	<VCE_SoupInProgress>{0} готується. Він буде готовий через {1}</VCE_SoupInProgress>
+	<VCE_SoupReady>Суп готовий і чекає на вилучення</VCE_SoupReady>
+
+	<!-- Cheese making -->
+
+	<VCE_InsertMilkDesc>Виберіть молоко. Різні види молока можуть надавати різні види сиру.</VCE_InsertMilkDesc>
+	<VCE_InsertMilk>Вибрати молоко</VCE_InsertMilk>
+	<VCE_InsertMilkVariable>Вставити {0}</VCE_InsertMilkVariable>
+	<VCE_NoMilksFound>На цій карті не знайдено такого молока</VCE_NoMilksFound>
+	<VCE_SelectMilk>Виберіть тип молока для пресування</VCE_SelectMilk>
+	<VCE_StartInsertionMilk>Принести молоко</VCE_StartInsertionMilk>
+	<VCE_StartInsertionMilkDesc>Принести молоко в прес для сиру, щоб почати віджимати сир.</VCE_StartInsertionMilkDesc>
+	<VCE_RemoveMilk>Витягти молоко</VCE_RemoveMilk>
+	<VCE_RemoveMilkDesc>Витягти молоко з пресу. Це можна зробити лише до того, як ви почнете пресувати його.</VCE_RemoveMilkDesc>
+	<VCE_CancelBringingMilk>Скасувати доставку молока</VCE_CancelBringingMilk>
+	<VCE_CancelBringingMilkDesc>Скасувати подачу молока в прес для сиру.</VCE_CancelBringingMilkDesc>
+	<VCE_WaitTillJobsEndMilk>Зачекайте, доки молоко не буде доставлене в прес для сиру, або скасуйте завдання</VCE_WaitTillJobsEndMilk>
+	<VCE_EngageMilk>Пресувати у сир</VCE_EngageMilk>
+	<VCE_EngageMilkDesc>Почніть пресувати молоко у сир. Цей процес займає змінний час і якість сиру покращується з дозріванням. Ви можете витягти його в будь-який час після отримання першого дозрілого продукту.</VCE_EngageMilkDesc>
+	<VCE_CheeseFinished>Сир закінчив дозрівання у пресі для сиру</VCE_CheeseFinished>
+	<VCE_CheeseInProgress>Прес для сиру обробляє {0}. Виріб буде готовий з якістю {1}, через {2}</VCE_CheeseInProgress>
+	<VCE_CheeseReady>Цей сир досяг бажаного ступеня дозрівання і чекає на вилучення</VCE_CheeseReady>
+	<VCE_MilkImproperlyDefined>Це молоко було неправильно визначено для роботи з пресом для сиру, зв'яжіться з автором</VCE_MilkImproperlyDefined>
+	<VCE_RemoveCheese>Витягти сир ({0})</VCE_RemoveCheese>
+	<VCE_RemoveCheeseDesc>Витягти сир з пресу для сиру. Сир буде готовий на якісному рівні: ({0})</VCE_RemoveCheeseDesc>
+
+	<VCE_CheesePressEmpty>Прес для сиру зараз порожній</VCE_CheesePressEmpty>
+	<VCE_CheesePressFilled>Прес для сиру наповнений {0}</VCE_CheesePressFilled>
+	<VCE_CheesePressWorking>Прес для сиру працює:</VCE_CheesePressWorking>
+	<VCE_ResourcePercentage> (заповнений на {0} з {1})</VCE_ResourcePercentage>
+
+	<!-- Condiment stats (using code from AnimalBehaviours) -->
+
+	<VCE_CondimentEffectsMint>Вживання страв, що містять цю приправу, підвищує соціальний вплив на 10%.</VCE_CondimentEffectsMint>
+
+</LanguageData>

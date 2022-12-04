@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- abhorrent -->
+  <HAR_AlienRaces_Abhorrent.label>огидно</HAR_AlienRaces_Abhorrent.label>
+  <!-- Xenos shouldn’t even think of trying to make friends with our kind. They wish for nothing but our demise and we won’t tolerate being around them. -->
+  <HAR_AlienRaces_Abhorrent.description>Інопланетянам не слід навіть думати про те, щоб намагатися потоваришувати з нашим видом. Вони не бажають нічого, окрім нашої загибелі, і ми не потерпимо, щоб вони були поряд.</HAR_AlienRaces_Abhorrent.description>
+  <!-- disliked -->
+  <HAR_AlienRaces_Horrible.label>не подобається</HAR_AlienRaces_Horrible.label>
+  <!-- Xenos are different from us - too different. We need to be watchful and keep them at arm's length. -->
+  <HAR_AlienRaces_Horrible.description>Інопланетяни відрізняються від нас – занадто відрізняються. Нам потрібно бути пильними та тримати їх на відстані витягнутої руки.</HAR_AlienRaces_Horrible.description>
+  <!-- neutral -->
+  <HAR_AlienRaces_Standard.label>байдуже</HAR_AlienRaces_Standard.label>
+  <!-- Xenos from beyond should be seen as no lesser or greater than us. -->
+  <HAR_AlienRaces_Standard.description>Ксеносів з потойбіччя слід розглядати як не менших і не більших за нас.</HAR_AlienRaces_Standard.description>
+  <!-- respected -->
+  <HAR_AlienRaces_Respected.label>подобається</HAR_AlienRaces_Respected.label>
+  <!-- Xenos from beyond our home world deserve our admiration. -->
+  <HAR_AlienRaces_Respected.description>Інопланетяни заслуговують на наше захоплення.</HAR_AlienRaces_Respected.description>
+  <!-- exalted -->
+  <HAR_AlienRaces_Exalted.label>піднесено</HAR_AlienRaces_Exalted.label>
+  <!-- Xenos from beyond our solar system are incredible, and we’re blessed to serve the role as their cordial hosts. -->
+  <HAR_AlienRaces_Exalted.description>Інопланетяни неймовірні, і нам пощастило приймати їх в цьому світі в якості гостинних господарів.</HAR_AlienRaces_Exalted.description>
+
+</LanguageData>

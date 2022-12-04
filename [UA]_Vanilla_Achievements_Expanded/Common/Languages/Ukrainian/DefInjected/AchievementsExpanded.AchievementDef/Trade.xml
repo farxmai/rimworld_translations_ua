@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Pablo Emilio Escobar Gaviria -->
+  <pabloEmilioEscobarGaviria.label>Пабло Еміліо Ескобар Гавірія</pabloEmilioEscobarGaviria.label>
+  <!-- EN: Sell 400 Yayo to a single trader in a single transation -->
+  <pabloEmilioEscobarGaviria.description>Продати загалом 400 психіна</pabloEmilioEscobarGaviria.description>
+
+  <!-- EN: Wolf Of Wall Street -->
+  <wolfOfWallStreet.label>Вовк з Уолл Стріт</wolfOfWallStreet.label>
+  <!-- EN: Earn 3000 silver from a single transaction -->
+  <wolfOfWallStreet.description>Заробити 3000 срібла на одній угоді</wolfOfWallStreet.description>
+
+  <!-- EN: Slaver Scum -->
+  <slaverScum.label>Рабовласницька шваль</slaverScum.label>
+  <!-- EN: Sell 5 prisoners in a single transaction -->
+  <slaverScum.description>Продати загалом 5 в'язнів</slaverScum.description>
+</LanguageData>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_BinBag.label>пакет для сміття</VFEPD_BinBag.label>
+    <VFEPD_BinBag.description>Чорний пакет для сміття або мертвого окупанта.</VFEPD_BinBag.description>
+
+    <VFEPD_BoxLarge.label>великий дерев'яний ящик</VFEPD_BoxLarge.label>
+    <VFEPD_BoxLarge.description>Великий дерев'яний ящик з різноманітним вмістом.</VFEPD_BoxLarge.description>
+
+    <VFEPD_BoxSmall.label>дерев'яний ящик</VFEPD_BoxSmall.label>
+    <VFEPD_BoxSmall.description>Дерев'яний ящик з різноманітним вмістом.</VFEPD_BoxSmall.description>
+
+    <VFEPD_CardboardBoxLarge.label>велика картонна коробка</VFEPD_CardboardBoxLarge.label>
+    <VFEPD_CardboardBoxLarge.description>Велика картонна коробка з різноманітним вмістом.</VFEPD_CardboardBoxLarge.description>
+
+    <VFEPD_CardboardBoxSmall.label>картонна коробка</VFEPD_CardboardBoxSmall.label>
+    <VFEPD_CardboardBoxSmall.description>Картонна коробка з різноманітним вмістом.</VFEPD_CardboardBoxSmall.description>
+
+    <VFEPD_BrickPile.label>кам'яні блоки</VFEPD_BrickPile.label>
+    <VFEPD_BrickPile.description>Купа кам'яних блоків.</VFEPD_BrickPile.description>
+
+    <VFEPD_BarrelGreen.label>зелена бочка</VFEPD_BarrelGreen.label>
+    <VFEPD_BarrelGreen.description>Металева бочка.</VFEPD_BarrelGreen.description>
+
+    <VFEPD_BarrelGrey.label>сіра бочка</VFEPD_BarrelGrey.label>
+    <VFEPD_BarrelGrey.description>Металева бочка.</VFEPD_BarrelGrey.description>
+
+    <VFEPD_BarrelRed.label>червона бочка</VFEPD_BarrelRed.label>
+    <VFEPD_BarrelRed.description>Металева бочка.</VFEPD_BarrelRed.description>
+
+    <VFEPD_BarrelYellow.label>жовта бочка</VFEPD_BarrelYellow.label>
+    <VFEPD_BarrelYellow.description>Металева бочка.</VFEPD_BarrelYellow.description>
+
+    <VFEPD_BarrelBlue.label>синя бочка</VFEPD_BarrelBlue.label>
+    <VFEPD_BarrelBlue.description>Металева бочка.</VFEPD_BarrelBlue.description>
+
+    <VFEPD_PalletCardboard.label>палета з коробками</VFEPD_PalletCardboard.label>
+    <VFEPD_PalletCardboard.description>Палета з коробками.</VFEPD_PalletCardboard.description>
+
+    <VFEPD_PalletBoxes.label>палета з ящиками</VFEPD_PalletBoxes.label>
+    <VFEPD_PalletBoxes.description>Палета з ящиками.</VFEPD_PalletBoxes.description>
+
+    <VFEPD_Pallet.label>палета</VFEPD_Pallet.label>
+    <VFEPD_Pallet.description>Велика палета.</VFEPD_Pallet.description>
+
+    <VFEPD_PalletBarrelGreen.label>палета с зеленими бочками</VFEPD_PalletBarrelGreen.label>
+    <VFEPD_PalletBarrelGreen.description>Палета с металевими бочками.</VFEPD_PalletBarrelGreen.description>
+
+    <VFEPD_PalletBarrelGrey.label>палета с сірими бочками</VFEPD_PalletBarrelGrey.label>
+    <VFEPD_PalletBarrelGrey.description>Палета с металевими бочками.</VFEPD_PalletBarrelGrey.description>
+
+    <VFEPD_PalletBarrelRed.label>палета с червоними бочками</VFEPD_PalletBarrelRed.label>
+    <VFEPD_PalletBarrelRed.description>Палета с металевими бочками.</VFEPD_PalletBarrelRed.description>
+
+    <VFEPD_PalletBarrelYellow.label>палета с жовтими бочками</VFEPD_PalletBarrelYellow.label>
+    <VFEPD_PalletBarrelYellow.description>Палета с металевими бочками.</VFEPD_PalletBarrelYellow.description>
+
+    <VFEPD_PalletBarrelBlue.label>палета с синіми бочками</VFEPD_PalletBarrelBlue.label>
+    <VFEPD_PalletBarrelBlue.description>Палета с металевими бочками.</VFEPD_PalletBarrelBlue.description>
+
+    <VFEPD_ContainerGreen.label>зелений транспортний контейнер</VFEPD_ContainerGreen.label>
+    <VFEPD_ContainerGreen.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerGreen.description>
+
+    <VFEPD_ContainerGrey.label>сірий транспортний контейнер</VFEPD_ContainerGrey.label>
+    <VFEPD_ContainerGrey.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerGrey.description>
+
+    <VFEPD_ContainerRed.label>червоний транспортний контейнер</VFEPD_ContainerRed.label>
+    <VFEPD_ContainerRed.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerRed.description>
+
+    <VFEPD_ContainerYellow.label>жовтий транспортний контейнер</VFEPD_ContainerYellow.label>
+    <VFEPD_ContainerYellow.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerYellow.description>
+
+    <VFEPD_ContainerBlue.label>синій транспортний контейнер</VFEPD_ContainerBlue.label>
+    <VFEPD_ContainerBlue.description>Металевий транспортний контейнер. Непрохідна перешкода яка не може підтримувати дах.</VFEPD_ContainerBlue.description>
+
+    <VFEPD_Pipes.label>стопка труб</VFEPD_Pipes.label>
+    <VFEPD_Pipes.description>Промислові металеві труби.</VFEPD_Pipes.description>
+
+    <VFEPD_Planks.label>штабель дошок</VFEPD_Planks.label>
+    <VFEPD_Planks.description>Промислові будівельні дошки.</VFEPD_Planks.description>
+
+    <VFEPD_Cone.label>вуличний конус</VFEPD_Cone.label>
+    <VFEPD_Cone.description>Промисловий вуличний конус.</VFEPD_Cone.description>
+
+    <VFEPD_ConcreteBags.label>мішки з цементом</VFEPD_ConcreteBags.label>
+    <VFEPD_ConcreteBags.description>Мішки з цементом.</VFEPD_ConcreteBags.description>
+
+    <VFEPD_WaterTank.label>резервуар для води</VFEPD_WaterTank.label>
+    <VFEPD_WaterTank.description>Промисловий резервуар для води.</VFEPD_WaterTank.description>
+
+    <VFEPD_VentilationShaft.label>вентиляційна шахта</VFEPD_VentilationShaft.label>
+    <VFEPD_VentilationShaft.description>Витяжка у вентиляційну систему.</VFEPD_VentilationShaft.description>
+
+    <VFEPD_ElectricalCabinet.label>електро-щитова</VFEPD_ElectricalCabinet.label>
+    <VFEPD_ElectricalCabinet.description>Невелика металева шафа з електричними ланцюгами та запобіжниками.</VFEPD_ElectricalCabinet.description>
+
+    <VFEPD_Lockers.label>шафки</VFEPD_Lockers.label>
+    <VFEPD_Lockers.description>Пара робітничих металевих шафок.</VFEPD_Lockers.description>
+
+    <VFEPD_GasTank.label>паливний резервуар</VFEPD_GasTank.label>
+    <VFEPD_GasTank.description>Промисловий резервуар для палива.</VFEPD_GasTank.description>
+
+</LanguageData>
+
+ 

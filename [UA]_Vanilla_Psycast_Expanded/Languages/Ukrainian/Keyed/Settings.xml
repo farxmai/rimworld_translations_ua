@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Psycasts Expanded -->
+  <VanillaPsycastsExpanded>Vanilla Psycasts Expanded</VanillaPsycastsExpanded>
+  <!-- EN: Psycaster XP per Psyfocus % gained -->
+  <VPE.XPPerPercent>Кількість досвіду псіоніка за відсоток від псіконцентрації</VPE.XPPerPercent>
+  <!-- EN: Basilicus Bestower Psycaster spawn chance -->
+  <VPE.PsycasterSpawnBaseChance>Імовірність появи псіоніків при грі з Базилікусом</VPE.PsycasterSpawnBaseChance>
+  <!-- EN: Basilicus Bestower Psycaster strength factor -->
+  <VPE.PsycasterSpawnAdditional>Сила псіоніків при грі з Базилікусом</VPE.PsycasterSpawnAdditional>
+  <!-- EN: Allow shrinking? -->
+  <VPE.AllowShrink>Дозволити зменшення?</VPE.AllowShrink>
+  <!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
+  <VPE.AllowShrink.Desc>Дозволити зменшувати візуальні ефекти від здібностей удвічі, коли їх багато.</VPE.AllowShrink.Desc>
+  <!-- EN: UI small mode -->
+  <VPE.SmallMode>Малий інтерфейс</VPE.SmallMode>
+  <!-- EN: In samll mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080). -->
+  <VPE.SmallMode.Desc>Режим малого інтерфейсу переносить статистику у підказку, а набори умінь в окремий діалог. Галочка зробить його активним завжди. Хрестик заборонить його. Тільда зробить його активним тільки тоді, коли вертикальна роздільна здатність екрана буде меншою за 1080.</VPE.SmallMode.Desc>
+  <!-- EN: Mute Skipdoor Sound -->
+  <VPE.MuteSkipdoor>Вимкнути звук порталу</VPE.MuteSkipdoor>
+</LanguageData>

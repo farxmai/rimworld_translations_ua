@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Otter -->
+
+  <AEXP_Otter.label>видра</AEXP_Otter.label>
+  <AEXP_Otter.description>Довгий і стрункий напівводний ссавець, що харчується переважно рибою і невеликими рослинами. Видри вельми файно плавають і можуть затримувати дихання під водою на тривалий час.</AEXP_Otter.description>
+  <AEXP_Otter.tools.0.label>ліва лапка</AEXP_Otter.tools.0.label>
+  <AEXP_Otter.tools.1.label>права лапка</AEXP_Otter.tools.1.label>
+  <AEXP_Otter.tools.2.label>зуби</AEXP_Otter.tools.2.label>
+  <AEXP_Otter.tools.3.label>голова</AEXP_Otter.tools.3.label>
+  <AEXP_Otter.race.meatLabel>м'ясо видри</AEXP_Otter.race.meatLabel>
+
+  <!-- Arctic Coyote -->
+
+  <AEXP_ArcticCoyote.label>полярний койот</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.description>Невеликий собака, що мешкає в тундрі та північних лісах. Койоти здатні полювати на набагато більшу здобич, ніж вони самі і часто збираються в зграї, подібно до вовків.</AEXP_ArcticCoyote.description>
+  <AEXP_ArcticCoyote.tools.0.label>ліва лапа</AEXP_ArcticCoyote.tools.0.label>
+  <AEXP_ArcticCoyote.tools.1.label>права лапа</AEXP_ArcticCoyote.tools.1.label>
+  <AEXP_ArcticCoyote.tools.2.label>зуби</AEXP_ArcticCoyote.tools.2.label>
+  <AEXP_ArcticCoyote.tools.3.label>голова</AEXP_ArcticCoyote.tools.3.label>
+  <AEXP_ArcticCoyote.race.meatLabel>м'ясо полярного койота</AEXP_ArcticCoyote.race.meatLabel>
+
+  <!-- Black Bear -->
+
+  <AEXP_BlackBear.label>чорний ведмідь</AEXP_BlackBear.label>
+  <AEXP_BlackBear.description>Всеїдний ссавець середнього розміру, пристосований до холодного клімату. Густий жир і хутро ведмедів зігрівають їх узимку.</AEXP_BlackBear.description>
+
+
+</LanguageData>

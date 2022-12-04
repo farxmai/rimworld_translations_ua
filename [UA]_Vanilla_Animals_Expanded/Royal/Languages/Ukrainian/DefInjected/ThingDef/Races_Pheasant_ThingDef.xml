@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_Pheasant.label>фазан</VAERoy_Pheasant.label>
+  <VAERoy_Pheasant.description>Маленький шляхетний домашній птах, створений за допомогою генної інженерії, щоб стати чудовою твариною для дрібної дичини. Коли фазани тікають від небезпеки, вони випромінюють психічний заряд невидимості, що приховує союзників від очей.\n\n&lt;color=#E5E54C&gt;Вплив на ігровий процес:&lt;/color&gt; Щоразу, коли фазан перебуває у небезпеці (починає тікати), він випромінює психічну ударну хвилю в радіусі 6 клітин навколо себе. Він робить це лише один раз на 24 години. Ця ударна хвиля дає всім пішакам під контролем гравця в цьому радіусі психічну невидимість на короткий період часу, що робить їх недоступними для ворогів.</VAERoy_Pheasant.description>
+  <VAERoy_Pheasant.tools.0.label>кігті</VAERoy_Pheasant.tools.0.label>
+  <VAERoy_Pheasant.tools.1.label>дзьоб</VAERoy_Pheasant.tools.1.label>
+  <VAERoy_Pheasant.tools.2.label>голова</VAERoy_Pheasant.tools.2.label>
+
+</LanguageData>

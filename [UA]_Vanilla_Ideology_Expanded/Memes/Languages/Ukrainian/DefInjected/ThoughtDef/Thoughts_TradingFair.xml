@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: poorly organized trading fair -->
+  <VME_PoorlyOrganizedTradingFair.stages.0.label>погано організований ярмарок</VME_PoorlyOrganizedTradingFair.stages.0.label>
+  <!-- EN: With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+  <VME_PoorlyOrganizedTradingFair.stages.0.description>Така слабка організація ніяких караванів до нашого поселення не приверне...</VME_PoorlyOrganizedTradingFair.stages.0.description>
+
+  <!-- EN: unexciting trading fair -->
+  <VME_UnexcitingTradingFair.stages.0.label>нецікавий ярмарок</VME_UnexcitingTradingFair.stages.0.label>
+  <!-- EN: Some exciting transactions took place, but the majority of it was boring business talk. -->
+  <VME_UnexcitingTradingFair.stages.0.description>Відбулося кілька цікавих угод, але переважно були нудні ділові переговори.</VME_UnexcitingTradingFair.stages.0.description>
+
+  <!-- EN: well organized trading fair -->
+  <VME_WellOrganizedTradingFair.stages.0.label>добре організований ярмарок</VME_WellOrganizedTradingFair.stages.0.label>
+  <!-- EN: There was a lot of back and forth and networking. -->
+  <VME_WellOrganizedTradingFair.stages.0.description>Було багато переговорів та відмінних угод.</VME_WellOrganizedTradingFair.stages.0.description>
+
+  <!-- EN: wondrous trading fair -->
+  <VME_WondrousTradingFair.stages.0.label>чудесний ярмарок</VME_WondrousTradingFair.stages.0.label>
+  <!-- EN: We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. -->
+  <VME_WondrousTradingFair.stages.0.description>Ми обговорили інноваційні економічні схеми, що надихають та дозволять нашій колонії стати центром економічних наук.</VME_WondrousTradingFair.stages.0.description>
+
+  <!-- EN: we tried to be cheap -->
+  <VME_CheapTradingFair.stages.0.label>скупий платить двічі</VME_CheapTradingFair.stages.0.label>
+  <!-- EN: We tried to organize a trading fair without spending any money on it. It is shameful to be so cheap. -->
+  <VME_CheapTradingFair.stages.0.description>Ми вирішили організувати торговий ярмарок та заощадити. Якнайбільше заощадити. Який сором.</VME_CheapTradingFair.stages.0.description>
+</LanguageData>

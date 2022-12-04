@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_MintTea.label>м'ятний чай</VBE_MintTea.label>
+	<VBE_MintTea.description>Листя чорного чаю змішують з м'ятою і міцно заварюють, потім прикрашають додатковим листям м'яти. Робить ваше дихання напрочуд свіжим.</VBE_MintTea.description>
+
+
+	<VBE_MintTea.ingestible.ingestCommandString>Випити {0}</VBE_MintTea.ingestible.ingestCommandString>
+	<VBE_MintTea.ingestible.ingestReportString>п'є {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+
+</LanguageData>

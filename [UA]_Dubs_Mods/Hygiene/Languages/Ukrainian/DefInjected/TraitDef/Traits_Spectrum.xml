@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hygienic.degreeDatas.0.label>гермофоб</Hygienic.degreeDatas.0.label>
+  <Hygienic.degreeDatas.0.description>[PAWN_nameDef] одержимий мікробами і буде митися набагато частіше, ніж зазвичай.</Hygienic.degreeDatas.0.description>
+  <Hygienic.degreeDatas.1.label>чистюля</Hygienic.degreeDatas.1.label>
+  <Hygienic.degreeDatas.1.description>[PAWN_nameDef] дуже гігієнічний(-на) і митиметься частіше.</Hygienic.degreeDatas.1.description>
+  <Hygienic.degreeDatas.2.label>нечупара</Hygienic.degreeDatas.2.label>
+  <Hygienic.degreeDatas.2.description>[PAWN_nameDef] дуже негігієнічний(-на), і митиметься рідше.</Hygienic.degreeDatas.2.description>
+  <Hygienic.degreeDatas.3.label>свинтус</Hygienic.degreeDatas.3.label>
+  <Hygienic.degreeDatas.3.description>[PAWN_nameDef] має дуже низькі стандарти чистоти і митиметься лише тоді, коли це абсолютно необхідно.</Hygienic.degreeDatas.3.description>
+
+</LanguageData>

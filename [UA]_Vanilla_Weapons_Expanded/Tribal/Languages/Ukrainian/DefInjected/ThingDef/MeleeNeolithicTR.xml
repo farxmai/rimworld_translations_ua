@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_MeleeWeapon_HeavyClub.label>важка палиця</VWE_MeleeWeapon_HeavyClub.label>
+  <VWE_MeleeWeapon_HeavyClub.description>Велика дворучна палиця для побиття ворогів. Тяжкий кінець цієї палиці дозволяє трощити тіло і кістки, залишаючи ворогів покаліченими, паралізованими і, ймовірно, мертвими.</VWE_MeleeWeapon_HeavyClub.description>
+  <VWE_MeleeWeapon_HeavyClub.tools.0.label>рукоять</VWE_MeleeWeapon_HeavyClub.tools.0.label>
+  <VWE_MeleeWeapon_HeavyClub.tools.1.label>ударна частина</VWE_MeleeWeapon_HeavyClub.tools.1.label>
+
+  <VWE_MeleeWeapon_LightClub.label>легка палиця</VWE_MeleeWeapon_LightClub.label>
+  <VWE_MeleeWeapon_LightClub.description>Маленька одноручна палиця. Її легко розмахувати, але вона занадто коротка і легка, щоб завдати значної шкоди.</VWE_MeleeWeapon_LightClub.description>
+  <VWE_MeleeWeapon_LightClub.tools.0.label>рукоять</VWE_MeleeWeapon_LightClub.tools.0.label>
+  <VWE_MeleeWeapon_LightClub.tools.1.label>ударна частина</VWE_MeleeWeapon_LightClub.tools.1.label>
+
+  <VWE_MeleeWeapon_TribalAxe.label>племінна сокира</VWE_MeleeWeapon_TribalAxe.label>
+  <VWE_MeleeWeapon_TribalAxe.description>Гострий шматок каменю, закріплений на гострому шматку дерева. Зазвичай використовується, як інструмент, але траплялися випадки, коли така сокира ставала чудовою зброєю за рахунок малого розміру і здатності наносити глибокі рани.</VWE_MeleeWeapon_TribalAxe.description>
+  <VWE_MeleeWeapon_TribalAxe.tools.0.label>рукоять</VWE_MeleeWeapon_TribalAxe.tools.0.label>
+  <VWE_MeleeWeapon_TribalAxe.tools.1.label>ударна частина</VWE_MeleeWeapon_TribalAxe.tools.1.label>
+
+  <VWE_MeleeWeapon_Shiv.label>заточка</VWE_MeleeWeapon_Shiv.label>
+  <VWE_MeleeWeapon_Shiv.description>Одна з перших зроблених людиною речей. Заточка складається з невеликого, але гострого шматка каменю чи металу, примотаного до короткої рукоятки.</VWE_MeleeWeapon_Shiv.description>
+  <VWE_MeleeWeapon_Shiv.tools.0.label>лезо</VWE_MeleeWeapon_Shiv.tools.0.label>
+  <VWE_MeleeWeapon_Shiv.tools.1.label>вістря</VWE_MeleeWeapon_Shiv.tools.1.label>
+</LanguageData>

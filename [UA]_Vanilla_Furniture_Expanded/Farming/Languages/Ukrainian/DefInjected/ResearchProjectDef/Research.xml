@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Res_AdvancedHydroponics.label>штучні екосистеми</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>Дослідження створення високотехнологічних штучних екосистем.</VFE_Res_AdvancedHydroponics.description>
+
+  <VFE_Res_Sprinkler.label>розбризкувачі</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>Дослідження створення пристрою, яке може автоматично поливати зону навколо себе, збільшуючи швидкість, з якою зростають рослини.</VFE_Res_Sprinkler.description>
+
+  <VFE_Res_FarmingTechniques.label>методи сільського господарства</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>Дослідження теоретичної основи для великомасштабних сільськогосподарських робіт, включаючи централізоване годування та спеціальні опудала, щоб ваші культури залишалися недоторканими.</VFE_Res_FarmingTechniques.description>
+
+</LanguageData>

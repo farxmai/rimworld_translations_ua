@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_Pheasant.label>фазан</VAERoy_Pheasant.label>
+  <VAERoy_Pheasant.lifeStages.0.label>пташеня фазана</VAERoy_Pheasant.lifeStages.0.label>
+  <VAERoy_Pheasant.labelPlural>фазани</VAERoy_Pheasant.labelPlural>
+  <VAERoy_Pheasant.labelMale>фазан</VAERoy_Pheasant.labelMale>
+  <VAERoy_Pheasant.labelMalePlural>фазани</VAERoy_Pheasant.labelMalePlural>
+  <VAERoy_Pheasant.labelFemale>фазан</VAERoy_Pheasant.labelFemale>
+  <VAERoy_Pheasant.labelFemalePlural>фазани</VAERoy_Pheasant.labelFemalePlural>
+
+</LanguageData>

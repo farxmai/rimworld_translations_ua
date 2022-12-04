@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- Rattlesnake -->
+
+  <AEXP_EggRattlesnakeUnfertilized.label>яйце гримучої змеи (незапліднене)</AEXP_EggRattlesnakeUnfertilized.label>
+  <AEXP_EggRattlesnakeUnfertilized.description>Незапліднене яйце гримучої змії. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggRattlesnakeUnfertilized.description>
+
+  <AEXP_EggRattlesnakeFertilized.label>яйце гримучої змеи (запліднене)</AEXP_EggRattlesnakeFertilized.label>
+  <AEXP_EggRattlesnakeFertilized.description>Запліднене яйце гримучої змії. Якщо все піде добре, з нього вилупиться гремуче змієня. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggRattlesnakeFertilized.description>
+
+  <WoolCamel.label>верблюжа шерсть</WoolCamel.label>
+  <WoolCamel.description>Верблюжа шерсть, забезпечує дуже хорошу теплоізоляцію.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>верблюжої шерсті</WoolCamel.stuffProps.stuffAdjective>
+
+
+</LanguageData>

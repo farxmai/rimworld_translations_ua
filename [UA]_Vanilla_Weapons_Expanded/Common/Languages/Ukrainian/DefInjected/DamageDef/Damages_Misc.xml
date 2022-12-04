@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Extinguish.label>гасіння</VWE_Extinguish.label>
+  <VWE_Extinguish.deathMessage>{0} {0_gender ? помер : померла} від опіків.</VWE_Extinguish.deathMessage>
+</LanguageData>

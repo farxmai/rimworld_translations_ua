@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_LargeBattery.label>великий акумулятор</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Зберігає велику кількість енергії при її надлишку і віддає за нестачі. \n\nУвага: заряджені акумулятори мають тенденцію вибухати під час нагрівання або потрапляння вологи!</VFE_LargeBattery.description>
+
+  <VFE_SmallBattery.label>малий акумулятор</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>берігає малу кількість енергії при її надлишку і віддає за нестачі. \n\nУвага: заряджені акумулятори мають тенденцію вибухати під час нагрівання або потрапляння вологи!</VFE_SmallBattery.description>
+
+  <VFE_AdvancedBattery.label>просунутий акумулятор</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Зберігає енергію за її надлишку і віддає за нестачі. Цей акумулятор має значно більший ККД, ніж у звичайного, а також водонепроникний, і не вибухає при попаданні вологи.</VFE_AdvancedBattery.description>
+
+  <VFE_LargeAdvancedBattery.label>великий просунутий акумулятор</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Зберігає енергію за її надлишку і віддає за нестачі. Цей акумулятор має значно більший ККД, ніж у звичайного, а також водонепроникний, і не вибухає при попаданні вологи.</VFE_LargeAdvancedBattery.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Anima tree itself. Under human influence, it can act as a damage-absorbing fighter. -->
+  <Barkskin.description>Каста дріад, основне призначення яких - приймати на себе удар під час бою. Дубошкіри вкриті товстою, схожою на кору шкірою, частково сформованою самим древом душі. Під керівництвом людей вони можуть битися, поглинаючи більшість пошкоджень.</Barkskin.description>
+
+  <!-- EN: A dryad caste specialized in food production. Together with its Anima Nexus tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Berrymaker.description>Каста дріад, які займаються виробленням їжі. Ці дріади можуть безперервно виробляти поживні ягоди. Повільні і неефективні в роботі та в бою.</Berrymaker.description>
+
+  <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go. -->
+  <Carrier.description>Каста дріад займаються перенесенням речей. Під керівництвом людей можуть переміщати предмети туди, куди треба.</Carrier.description>
+
+  <!-- EN: A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself. -->
+  <Clawer.description>Дріади, основне призначення яких – потужні атаки у бою. Своєю назвою вони завдячують своїм масивним кігтям на лапах. Хоча ці дріади і можуть завдавати величезної шкоди, самі вони вразливі до атак.</Clawer.description>
+
+  <!-- EN: Seedmaker -->
+  <Gaumaker.label>дріада-насінник</Gaumaker.label>
+  <!-- EN: A dryad caste with the unique ability to produce new Anima Nexus pods and reproduce the Anima Nexus tree along with its symbiote, the dryad queen. To do this, three seedmaker dryads must slowly merge. -->
+  <Gaumaker.description>Каста дріад, що займаються виробництвом нових насіннєвих капсул вузлових древ душі, а також створінь-симбіотів, королев дріад. Для цього потрібно дочекатися завершення тривалого процесу злиття трьох вузлів.</Gaumaker.description>
+
+  <!-- EN: A dryad caste specialized in medicine production. Together with its Anima Nexus tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Medicinemaker.description>Каста дріад займається виробництвом медикаментів. Ці дріади можуть безперервно вирощувати лікарські трави. Повільні і неефективні в роботі та в бою.</Medicinemaker.description>
+
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Anima Nexus tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Woodmaker.description>Каста повільних та незграбних дріад, що займаються виробництвом деревини. Ці дріади безперервно виробляють схожий на деревину матеріал. Повільні і неефективні в роботі та в бою.</Woodmaker.description>
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_AcidBuildup.label>хімічний опік</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>Кислота, яка продовжує викликати опікові рани протягом деякого часу після першого контакту з тілом.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.0.label>легкий</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.1.label>середній</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.2.label>важкий</VEF_AcidBuildup.stages.2.label>
+
+  <VEF_AcidBurn.label>хімічний опік</VEF_AcidBurn.label>
+  <VEF_AcidBurn.labelNoun>хімічний опік</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.description>Хімічний опік.</VEF_AcidBurn.description>
+  <!-- EN: bandaged -->
+  <VEF_AcidBurn.comps.0.labelTendedWell>перев'язано</VEF_AcidBurn.comps.0.labelTendedWell>
+  <!-- EN: tended -->
+  <VEF_AcidBurn.comps.0.labelTendedWellInner>оброблено</VEF_AcidBurn.comps.0.labelTendedWellInner>
+  <!-- EN: tended -->
+  <VEF_AcidBurn.comps.0.labelSolidTendedWell>оброблено</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+  <!-- EN: Corroded -->
+  <VEF_AcidBurn.injuryProps.destroyedLabel>роз'їдено</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <!-- EN: Corroded -->
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>роз'їдено</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an acid burn -->
+
+  <!-- EN: level of sunlight -->
+  <VEF_LightSustenance.label>рівень сонячного світла</VEF_LightSustenance.label>
+  <!-- EN: This creature feeds on sunlight. Inadequate levels of light will kill it. -->
+  <VEF_LightSustenance.description>Ця істота живиться сонячним світлом. Недостатній рівень освітлення вб'є його.</VEF_LightSustenance.description>
+  <!-- EN: adequate light -->
+  <VEF_LightSustenance.stages.0.label>досить світла</VEF_LightSustenance.stages.0.label>
+  <!-- EN: poor light levels -->
+  <VEF_LightSustenance.stages.1.label>обмаль світла</VEF_LightSustenance.stages.1.label>
+  <!-- EN: very low light levels -->
+  <VEF_LightSustenance.stages.2.label>недостатньо світла</VEF_LightSustenance.stages.2.label>
+  <!-- EN: lack of sunlight -->
+  <VEF_LightSustenance.stages.3.label>серйозна нестача світла</VEF_LightSustenance.stages.3.label>
+  <!-- EN: extreme lack of sustenance -->
+  <VEF_LightSustenance.stages.4.label>критична нестача світла</VEF_LightSustenance.stages.4.label>
+
+  <!-- EN: toxic buildup -->
+  <VEF_ToxicBuildup.label>отруєння токсинами</VEF_ToxicBuildup.label>
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.  \nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.  \nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+  <VEF_ToxicBuildup.description>Токсин у крові. Може потрапити до організму через довкілля, укуси отруйних істот чи рану від отруєної зброї.\n\nНавіть у невеликих дозах речовина має канцерогенну дію, а при великих — смертельно.\n\nНа відміну від основної гри, істоти, що загинули від отруєння токсинами, можуть бути з'їдені.</VEF_ToxicBuildup.description>
+  <!-- EN: initial -->
+  <VEF_ToxicBuildup.stages.0.label>непомітне</VEF_ToxicBuildup.stages.0.label>
+  <!-- EN: initial -->
+  <VEF_ToxicBuildup.stages.1.label>початкове</VEF_ToxicBuildup.stages.1.label>
+  <!-- EN: minor -->
+  <VEF_ToxicBuildup.stages.2.label>легке</VEF_ToxicBuildup.stages.2.label>
+  <!-- EN: moderate -->
+  <VEF_ToxicBuildup.stages.3.label>середнє</VEF_ToxicBuildup.stages.3.label>
+  <!-- EN: serious -->
+  <VEF_ToxicBuildup.stages.4.label>серйозне</VEF_ToxicBuildup.stages.4.label>
+  <!-- EN: extreme -->
+  <VEF_ToxicBuildup.stages.5.label>екстремальне</VEF_ToxicBuildup.stages.5.label>
+
+  <!-- EN: permanent burn -->
+  <VEF_PermanentBurn.label>опік</VEF_PermanentBurn.label>
+  <!-- EN: A permanent burn scar that cannot be treated. -->
+  <VEF_PermanentBurn.description>Невиліковний шрам від опіку.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>сгоріло</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>сгоріло</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.labelNoun>опік</VEF_PermanentBurn.labelNoun>
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам від опіку</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.labelNounPretty>{0} {1}</VEF_PermanentBurn.labelNounPretty>
+
+</LanguageData>

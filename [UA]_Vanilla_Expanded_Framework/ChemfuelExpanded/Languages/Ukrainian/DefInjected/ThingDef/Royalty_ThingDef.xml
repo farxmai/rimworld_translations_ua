@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Darklight chemfuel brazier -->
+  <CA_ChemfuelBrazier.label>хімпаливна жаровня</CA_ChemfuelBrazier.label>
+  <!-- A Darklight Chemfuel Brazier. Will light the surroundings and create heat. -->
+  <CA_ChemfuelBrazier.description>Жаровня, що працює на хімпаливі. Буде освітлювати навколишнє середовище та генерувати тепло. Підходить для знаті.</CA_ChemfuelBrazier.description>
+
+</LanguageData>

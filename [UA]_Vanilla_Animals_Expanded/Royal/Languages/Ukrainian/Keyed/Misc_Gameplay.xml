@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Animal Stats -->
+
+	<VAERoy_PrimaryRole>Основна роль</VAERoy_PrimaryRole>
+	<VAERoy_SecondaryRole>Додаткова роль</VAERoy_SecondaryRole>
+
+	<!-- Roles -->
+
+	<VAERoy_Combat>Бій</VAERoy_Combat>
+	<VAERoy_EggLayer>Прошарок яйця</VAERoy_EggLayer>
+
+	<VAERoy_Utility>Корисність</VAERoy_Utility>
+	<VAERoy_UtilityMood>Корисність - настрій</VAERoy_UtilityMood>
+	<VAERoy_UtilitySocial>Корисність - спілкування</VAERoy_UtilitySocial>
+	<VAERoy_UtilityHeat>Корисність - температура</VAERoy_UtilityHeat>
+	<VAERoy_UtilityPsychic>Корисність - психіка</VAERoy_UtilityPsychic>
+	<VAERoy_UtilityCrowd>Корисність - патрулювання</VAERoy_UtilityCrowd>
+	<VAERoy_UtilityFood>Корисність - їжа</VAERoy_UtilityFood>
+	<VAERoy_UtilityBuilding>Корисність - будівництво</VAERoy_UtilityBuilding>
+
+	<!-- Roles Descriptions -->
+
+	<VAERoy_CombatDescInc>Бойові тварини спеціалізуються на ближньому бою. Ці тварини можуть завдавати великої шкоди своїми атаками, мають товсту та міцну шкіру та інші якості, які дозволяють їм виживати на передовій.\n\nЗ віком ця тварина отримує значно більше атак у ближньому бою.</VAERoy_CombatDescInc>
+	<VAERoy_CombatDesc>Бойові тварини спеціалізуються на ближньому бою. Ці тварини можуть завдавати великої шкоди своїми атаками, мають товсту та міцну шкіру та інші якості, які дозволяють їм виживати на передовій.</VAERoy_CombatDesc>
+	<VAERoy_EggLayerDesc>Ця тварина відкладає яйця</VAERoy_EggLayerDesc>
+	<VAERoy_UtilityMoodDesc>Ця тварина не підходить для бою, тому що вона досить слабка фізично. Однак її наявність підвищить настрій ваших колоністів.</VAERoy_UtilityMoodDesc>
+	<VAERoy_UtilityHeatDisipationDesc>Ця тварина не підходить для бою, тому що вона досить слабка фізично. Однак це збільшить розсіювання нейронами тепла пов'язаного з нею колоніста.</VAERoy_UtilityHeatDisipationDesc>
+	<VAERoy_UtilitySocialDesc>Ця тварина не підходить для бою. Натомість він залучить ваших колоністів у розмову, покращить їхній соціальний відпочинок, а також дасть їм невелику кількість досвіду у випадкових навичках.</VAERoy_UtilitySocialDesc>
+	<VAERoy_UtilityPsychicDesc>Ця тварина не підходить для бою, тому що вона досить слабка фізично. Однак вона періодично торкатиметься ваших колоністів, щоб підвищити їхню психічну чутливість.</VAERoy_UtilityPsychicDesc>
+	<VAERoy_UtilityCrowdDesc>Ця тварина слабка, але має екстрасенсорні здібності, які можуть допомогти у боротьбі з натовпом та виживанням.</VAERoy_UtilityCrowdDesc>
+	<VAERoy_UtilityFoodDesc>Це сільськогосподарська тварина, яка має спеціалізоване м'ясо.</VAERoy_UtilityFoodDesc>
+	<VAERoy_UtilityBuildingDesc>Ця тварина не підходить для бою, тому що вона досить слабка фізично. Однак він будуватиме гнізда, які служать дуже гарним місцем для сну тварин.</VAERoy_UtilityBuildingDesc>
+
+
+</LanguageData>

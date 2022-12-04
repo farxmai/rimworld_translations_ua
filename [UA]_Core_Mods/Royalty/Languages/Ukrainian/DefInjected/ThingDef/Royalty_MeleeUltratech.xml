@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: monosword -->
+  <MeleeWeapon_MonoSword.label>мономеч</MeleeWeapon_MonoSword.label>
+  <!-- EN: A crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, and its light weight permits fast attacks. -->
+  <MeleeWeapon_MonoSword.description>Меч з кристально-металевою структурою та напилюванням з механітів, що підтримують мономолекулярну товщину ріжучої кромки. Здатний з легкістю проходити навіть крізь товсту броню, і, завдяки своїй легкості, дозволяє власнику завдавати смертоносно швидких ударів.</MeleeWeapon_MonoSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_MonoSword.tools.handle.label>рукоять</MeleeWeapon_MonoSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_MonoSword.tools.point.label>вістря</MeleeWeapon_MonoSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_MonoSword.tools.edge.label>лезо</MeleeWeapon_MonoSword.tools.edge.label>
+
+  <!-- EN: plasmasword -->
+  <MeleeWeapon_PlasmaSword.label>плазмовий меч</MeleeWeapon_PlasmaSword.label>
+  <!-- EN: A metal-cored sword with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath. -->
+  <MeleeWeapon_PlasmaSword.description>Меч, що складається з металевого сердечника та плазми, що утримується навколо нього енергетичним полем. Цілі розрізаються сердечником, а також обпалюються або займаються за допомогою плазмової оболонки.</MeleeWeapon_PlasmaSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_PlasmaSword.tools.handle.label>рукоять</MeleeWeapon_PlasmaSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_PlasmaSword.tools.point.label>вістря</MeleeWeapon_PlasmaSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_PlasmaSword.tools.edge.label>лезо</MeleeWeapon_PlasmaSword.tools.edge.label>
+
+  <!-- EN: zeushammer -->
+  <MeleeWeapon_Zeushammer.label>електромолот</MeleeWeapon_Zeushammer.label>
+  <!-- EN: A warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst in addition to the physical damage. -->
+  <MeleeWeapon_Zeushammer.description>Бойовий молот із вбудованим електромагнітним конденсатором. При ударі ціль, крім механічної шкоди, отримує пошкодження від електромагнітного розряду.</MeleeWeapon_Zeushammer.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Zeushammer.tools.handle.label>рукоять</MeleeWeapon_Zeushammer.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Zeushammer.tools.head.label>ударна частина</MeleeWeapon_Zeushammer.tools.head.label>
+
+</LanguageData>

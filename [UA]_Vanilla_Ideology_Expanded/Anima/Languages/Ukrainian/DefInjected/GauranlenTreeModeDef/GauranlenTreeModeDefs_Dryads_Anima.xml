@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: animabricmaker -->
+  <VDE_Gaubricmaker.label>дріада-вовнянник</VDE_Gaubricmaker.label>
+  <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Anima Nexus tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <VDE_Gaubricmaker.description>Каста дріад, що виробляє вовняний, схожий на шкіру тварини, матеріал. Їх можна остригати так само, як і вузлове дерево душі, і отримувати м'який, красивий і теплий матеріал. Повільні і неефективні в роботі та в бою.</VDE_Gaubricmaker.description>
+
+  <!-- EN: A curious dryad caste specialized in ambrosia production. Together with its Anima Nexus tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats. -->
+  <VDE_Nectarmaker.description>Каста дріад,що виробляє амброзію разом зі своїм вузловим древом душі. Повільні і неефективні в роботі та в бою.</VDE_Nectarmaker.description>
+</LanguageData>

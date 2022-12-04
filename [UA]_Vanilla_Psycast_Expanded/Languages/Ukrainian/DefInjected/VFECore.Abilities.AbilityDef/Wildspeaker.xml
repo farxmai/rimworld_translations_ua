@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:bramble maze -->
+  <VPE_BrambleMaze.label>лабіринт ожини</VPE_BrambleMaze.label>
+  <!-- EN:Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours. -->
+  <VPE_BrambleMaze.description>Хаотично вливає життєву енергію у вказаний простір, змушуючи проростати кущі ожини, які зникнуть через 12 годин.</VPE_BrambleMaze.description>
+
+  <!-- EN:crop burst -->
+  <VPE_CropBurst.label>бурхливе зростання</VPE_CropBurst.label>
+  <!-- EN:Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity. -->
+  <VPE_CropBurst.description>Накачує родюче місце життєвою енергією, змушуючи корисні рослини виростати зі швидкістю, яка залежить від психічної чутливості псіоніка.</VPE_CropBurst.description>
+
+  <!-- EN:word of animals -->
+  <VPE_WordofAnimals.label>слово приручення</VPE_WordofAnimals.label>
+  <!-- EN:Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. -->
+  <VPE_WordofAnimals.description>Заспокоїти тварину за допомогою психічного придушення, роблячи її неагресивною, або приручаючи її.</VPE_WordofAnimals.description>
+
+  <!-- EN:manhunter pulse -->
+  <VPE_ManhunterPulse.label>хвиля агресії</VPE_ManhunterPulse.label>
+  <!-- EN:Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan. -->
+  <VPE_ManhunterPulse.description>Використовуючи псіонічний імпульс, привести тварин, що знаходяться в межах великої зони, у стан люті, що триває близько хвилини. Може бути способом оголошення війни, якщо використано на тваринах, що належать до каравану.</VPE_ManhunterPulse.description>
+
+  <!-- EN:tree sprout -->
+  <VPE_TreeSprout.label>дубові паростки</VPE_TreeSprout.label>
+  <!-- EN:Infuses a large, fertile area with potent life energy, causing it to sprout fully grown oak trees. -->
+  <VPE_TreeSprout.description>Накачує велику ділянку родючої землі життєвою енергією, викликаючи бурхливе зростання дорослих дубів.</VPE_TreeSprout.description>
+
+  <!-- EN:shield animals -->
+  <VPE_ShieldAnimals.label>захист тварин</VPE_ShieldAnimals.label>
+  <!-- EN:Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity. -->
+  <VPE_ShieldAnimals.description>Створює сферичні бар'єри усім тварин поселення, що у радіусі впливу здібності. Вони захищають тварин від спрямованих ззовні снарядів, переносячи ці снаряди у віддалене місце. Люди та предмети не піддаються впливу здібності. Тривалість захисту залежить від психічної чутливості псіоніка.</VPE_ShieldAnimals.description>
+
+  <!-- EN:animal allies -->
+  <VPE_AnimalAllies.label>природні союзники</VPE_AnimalAllies.label>
+  <!-- EN:Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity. -->
+  <VPE_AnimalAllies.description>Вливає життєву силу у велику ділянку землі, що впливає на поведінку тварин, змушуючи їх атакувати тих, кого псіонік вважає ворогами. Тривалість ефекту залежить від психічної чутливості псіоніка.</VPE_AnimalAllies.description>
+
+  <!-- EN:shrineshield-->
+  <VPE_Shrineshield.label>духовний щит</VPE_Shrineshield.label>
+  <!-- EN:Generate a spherical skipgate on a nature shrine that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine. -->
+  <VPE_Shrineshield.description>Створює сферичний бар'єр довкола природного святилища. Він захищає тварин від спрямованих ззовні снарядів, переносячи ці снаряди у віддалене місце. Люди та предмети не піддаються впливу здібності. Тривалість захисту залежить від розміру святилища.</VPE_Shrineshield.description>
+
+  <!-- EN:essence transfer -->
+  <VPE_EssenceTransfer.label>анімалістичний поділ</VPE_EssenceTransfer.label>
+  <!-- EN:Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a 6 hour coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying when finished. Should the linked animal die first, the effect is lost and there can only be one link at a time. -->
+  <VPE_EssenceTransfer.description>Забирає частину життєвої сили поселенця, що знаходиться поблизу, і пов'язує його з однією з тварин поселення, внаслідок чого псіонік занурюється в кому на шість годин. Якщо пов'язаний поселенець гине, то зв'язана тварина прийде до нього і передасть свою життєву силу, що призведе до загибелі самої тварини. Якщо ж першим загине тварина, то зв'язок між поселенцем та твариною пропаде. Одночасно може існувати зв'язок тільки з однією твариною.</VPE_EssenceTransfer.description>
+
+  <!-- EN:summon pack -->
+  <VPE_SummonPack.label>заклик зграї</VPE_SummonPack.label>
+  <!-- EN:Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The distance the pulse travels, and with that the relative strength of the creatures are influenced by the caster’s psychic sensitivity. -->
+  <VPE_SummonPack.description>Псіонік вивільняє хвилю життєвої сили у регіоні, викликаючи сплеск територіальної агресії у різних тварин, які прямують, щоб захистити поселення. Як тільки всі нападники переможені, тварини повернуться у свої місця проживання. Радіус дії здатності та відносна сила тварин залежать від психічної чутливості псіоніка.</VPE_SummonPack.description>
+</LanguageData>

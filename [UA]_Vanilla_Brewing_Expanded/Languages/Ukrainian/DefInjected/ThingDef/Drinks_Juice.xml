@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Juice.label>фруктовий сік</VBE_Juice.label>
+  <VBE_Juice.description>Фруктовий сік, терпкий і гострий, може бути виготовлений з одного або декількох фруктів. Хоча соки менш поживні, ніж їх первісні – фрукти, їх набагато простіше зберігати та транспортувати.</VBE_Juice.description>
+  <VBE_Juice.ingestible.ingestCommandString>Випити {0}</VBE_Juice.ingestible.ingestCommandString>
+  <VBE_Juice.ingestible.ingestReportString>п'є {0}</VBE_Juice.ingestible.ingestReportString>
+
+</LanguageData>

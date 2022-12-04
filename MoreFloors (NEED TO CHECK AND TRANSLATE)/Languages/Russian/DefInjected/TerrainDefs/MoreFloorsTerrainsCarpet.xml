@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- Normal cloth carpet - new colours -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+	<CarpetOrange.label>Оранжевый ковер</CarpetOrange.label>
+	<CarpetOrange.description>Мягкий ковер яркого цвета календулы.</CarpetOrange.description>
+
+	<CarpetYellow.label>Желтый ковер</CarpetYellow.label>
+	<CarpetYellow.description>Летний желтый ковер.</CarpetYellow.description>
+
+	<CarpetTurquoise.label>Бирюзовый ковер</CarpetTurquoise.label>
+	<CarpetTurquoise.description>Умиротворяющий сине-зеленый ковер.</CarpetTurquoise.description>
+
+	<CarpetPurple.label>Пурпурный ковер</CarpetPurple.label>
+	<CarpetPurple.description>Величественный пурпурный ковер.</CarpetPurple.description>
+
+	<CarpetWhite.label>Белый ковер</CarpetWhite.label>
+	<CarpetWhite.description>Неокрашенный белый ковер.Удобно для ног, но быстро пачкается.</CarpetWhite.description>
+
+	<CarpetBlack.label>Черный ковер</CarpetBlack.label>
+	<CarpetBlack.description>Темно-черный ковер.</CarpetBlack.description>
+
+<!-- Checkered cloth carpet - all colours -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+	<CheckCarpetRed.label>Красный клетчатый ковер</CheckCarpetRed.label>
+	<CheckCarpetRed.description>Ковер в клетку прекрасного оттенка красного.</CheckCarpetRed.description>
+
+	<CheckCarpetOrange.label>Оранжевый клетчатый ковер</CheckCarpetOrange.label>
+	<CheckCarpetOrange.description>Ковер в клетку оттенка календулы.</CheckCarpetOrange.description>
+
+	<CheckCarpetYellow.label>Желтый клетчатый ковер</CheckCarpetYellow.label>
+	<CheckCarpetYellow.description>Летний желтый ковер в клетку.</CheckCarpetYellow.description>
+
+	<CheckCarpetCream.label>Кремовый клетчатый ковер</CheckCarpetCream.label>
+	<CheckCarpetCream.description>Ковер в клетку кремового белого тона.</CheckCarpetCream.description>
+
+	<CheckCarpetGreen.label>Зеленый клетчатый ковер</CheckCarpetGreen.label>
+	<CheckCarpetGreen.description>Ковер в клетку натурального зеленого цвета.</CheckCarpetGreen.description>
+
+	<CheckCarpetTurquoise.label>Бирюзовый клетчатый ковер</CheckCarpetTurquoise.label>
+	<CheckCarpetTurquoise.description>Умиротворяющий сине-зеленый ковер в клетку.</CheckCarpetTurquoise.description>
+
+	<CheckCarpetBlue.label>Синий клетчатый ковер</CheckCarpetBlue.label>
+	<CheckCarpetBlue.description>Мягкий клетчатый ковер холодного синего цвета.</CheckCarpetBlue.description>
+
+	<CheckCarpetPurple.label>Пурпурный клетчатый ковер</CheckCarpetPurple.label>
+	<CheckCarpetPurple.description>Ковер в клетку величественного фиолетового цвета.</CheckCarpetPurple.description>
+
+	<CheckCarpetIndigo.label>Индиго клетчатый ковер</CheckCarpetIndigo.label>
+	<CheckCarpetIndigo.description>Ковер в клетку величественного цвета индиго.</CheckCarpetIndigo.description>
+
+    <CheckCarpetWhite.label>Белый клетчатый ковер</CheckCarpetWhite.label>
+    <CheckCarpetWhite.description>Неокрашенный белый ковер в клетку.Удобно для ног, но быстро пачкается.</CheckCarpetWhite.description>
+
+	<CheckCarpetDark.label>Серый клетчатый ковер</CheckCarpetDark.label>
+	<CheckCarpetDark.description>Ковер в клетку светло-черного или темно-белого цвета?</CheckCarpetDark.description>
+
+	<CheckCarpetBlack.label>Черный клетчатый ковер</CheckCarpetBlack.label>
+	<CheckCarpetBlack.description>Темно-черный клетчатый коврик.</CheckCarpetBlack.description>
+	
+<!-- Wool carpet - all colours -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	
+	<WoolCarpetRed.label>Красный шерстяной ковер</WoolCarpetRed.label>
+	<WoolCarpetRed.description>Шерстяной ковер приятного оттенка красного.</WoolCarpetRed.description>
+	
+	<WoolCarpetOrange.label>Оранжевый шерстяной ковер</WoolCarpetOrange.label>
+	<WoolCarpetOrange.description>Шерстяной ковер оттенка календулы.</WoolCarpetOrange.description>
+	
+	<WoolCarpetYellow.label>Желтый шерстяной ковер</WoolCarpetYellow.label>
+	<WoolCarpetYellow.description>Летний шерстяной ковер желтого цвета.</WoolCarpetYellow.description>
+
+	<WoolCarpetCream.label>Кремовый шерстяной ковер</WoolCarpetCream.label>
+	<WoolCarpetCream.description>Шерстяной ковер кремово-белого тона.</WoolCarpetCream.description>
+
+	<WoolCarpetGreen.label>Зеленый шерстяной ковер</WoolCarpetGreen.label>
+	<WoolCarpetGreen.description>Шерстяной коврик натурального зеленого цвета.</WoolCarpetGreen.description>
+
+	<WoolCarpetTurquoise.label>Бирюзовый шерстяной ковер</WoolCarpetTurquoise.label>
+	<WoolCarpetTurquoise.description>Успокаивающий сине-зеленый шерстяной ковер.</WoolCarpetTurquoise.description>
+
+	<WoolCarpetBlue.label>Синий шерстяной ковер</WoolCarpetBlue.label>
+	<WoolCarpetBlue.description>Мягкий шерстяной коврик холодного синего цвета.</WoolCarpetBlue.description>
+
+	<WoolCarpetPurple.label>Пурпурный шерстяной ковер</WoolCarpetPurple.label>
+	<WoolCarpetPurple.description>Шерстяной ковер величественного фиолетового цвета.</WoolCarpetPurple.description>
+
+	<WoolCarpetIndigo.label>Индиго шерстяной ковер</WoolCarpetIndigo.label>
+	<WoolCarpetIndigo.description>Шерстяной ковер величественного цвета индиго.</WoolCarpetIndigo.description>
+
+	<WoolCarpetWhite.label>Белый шерстяной ковер</WoolCarpetWhite.label>
+	<WoolCarpetWhite.description>Белый шерстяной ковер.Как снег, только теплее!</WoolCarpetWhite.description>
+
+	<WoolCarpetDark.label>Серый шерстяной ковер</WoolCarpetDark.label>
+	<WoolCarpetDark.description>Шерстяной ковер светло-черного или темно-белого цвета?</WoolCarpetDark.description>
+
+	<WoolCarpetBlack.label>Черный шерстяной ковер</WoolCarpetBlack.label>
+	<WoolCarpetBlack.description>Шерстяной ковер темно-черного цвета.</WoolCarpetBlack.description>
+
+</LanguageData>

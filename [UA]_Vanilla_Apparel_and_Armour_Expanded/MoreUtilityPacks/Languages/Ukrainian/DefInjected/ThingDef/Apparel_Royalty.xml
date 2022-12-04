@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Vanometric Grav-Pack -->
+  <SGC_Apparel_Jetpack.label>архотехнічний стрибковий ранець</SGC_Apparel_Jetpack.label>
+  <!-- EN: An inscrutable archotech device that somehow enables the wearer to move at extreme speeds and fly for short distances by manipulating gravity. Uses a small amount of uranium to refuel. On-board evasion heuristics make the wearer especially lethal in close-range combat. -->
+  <SGC_Apparel_Jetpack.description>Незбагненний архотехнічний пристрій, який якимось чином дозволяє власнику рухатися на екстремальних швидкостях і літати на короткі відстані, маніпулюючи силою тяжіння. Для заправки використовує невелику кількість урану. Вбудована евристика ухилення робить власника особливо смертоносним у бою на близькій відстані.</SGC_Apparel_Jetpack.description>
+  
+  <!-- EN: Command Tower -->
+  <SGC_Apparel_CommandTower.label>переносний радіокомплект</SGC_Apparel_CommandTower.label>
+  <!-- EN: A wearable radio kit designed to assist the wearer in commanding small groups of people in the field. While it does not provide any protection, its broadcasts can either inspire or demoralize nearby allies depending on the mood of the wearer.Its design projects an air of authority, also improving the wearer's social skills and shooting accuracy. -->
+  <SGC_Apparel_CommandTower.description>Переносний радіокомплект, розроблений для того, щоб допомогти власнику керувати невеликими групами людей у полі. Хоча він не забезпечує жодного захисту, його трансляції можуть або надихнути, або деморалізувати сусідніх союзників залежно від настрою власника. Його дизайн створює атмосферу авторитету, а також покращує соціальні навички власника та точність стрільби.</SGC_Apparel_CommandTower.description>
+  
+</LanguageData>

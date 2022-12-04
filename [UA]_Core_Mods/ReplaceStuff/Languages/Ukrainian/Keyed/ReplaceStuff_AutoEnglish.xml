@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TD.ReplaceStuff>Replace Stuff</TD.ReplaceStuff>
+	<TD.Replace>Замінити</TD.Replace>
+	<TD.ReplaceDesc>Замінити матеріал, наприклад, замінити дерев'яну стіну на кам'яну.</TD.ReplaceDesc>
+	<TD.ReplacingTag> (заміна)</TD.ReplacingTag>
+	<TD.ToggleBlueprintOverRock>Розмістіть креслення над гірською породою</TD.ToggleBlueprintOverRock>
+	<TD.SettingsNoOverwallCoolers>Прибрати настінні охолоджувачі з меню архітектури</TD.SettingsNoOverwallCoolers>
+	<TD.SettingsNoNormalCoolers>Прибрати звичайниі охолоджувачі з меню архітектури</TD.SettingsNoNormalCoolers>
+	<TD.SettingsCornerBuildable>Кутові плитки можна будувати та видобувати зсередини</TD.SettingsCornerBuildable>
+	<TD.SettingsCornerBuildableDesc>Іноді це може спричинити дивні проблеми з проходженням шляху – вимкніть це, щоб, можливо, це виправити.</TD.SettingsCornerBuildableDesc>
+	<TD.IncapableOfSmoothing>нездатний до згладжування</TD.IncapableOfSmoothing>
+	<TD.FailedStuffBeingReplaced>матеріали замінюються</TD.FailedStuffBeingReplaced>
+
+</LanguageData>

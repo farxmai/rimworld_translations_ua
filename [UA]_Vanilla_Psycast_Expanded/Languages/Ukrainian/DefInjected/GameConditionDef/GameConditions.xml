@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: paused raid -->
+  <VPE_RaidPause.label>заморозка рейду</VPE_RaidPause.label>
+  <!-- EN: A Chronopath is pausing a raid. -->
+  <VPE_RaidPause.description>Хрономант зупиняє рейд.</VPE_RaidPause.description>
+
+  <!-- EN: time quake -->
+  <VPE_TimeQuake.label>хроношторм</VPE_TimeQuake.label>
+  <!-- EN: A massive temporal disturbance. -->
+  <VPE_TimeQuake.description>Масивне темпоральне зрушення.</VPE_TimeQuake.description>
+
+  <!-- EN: forced hurricane -->
+  <VPE_Hurricane.label>форсований ураган</VPE_Hurricane.label>
+  <!-- EN: A Staticlord is creating a hurricane. -->
+  <VPE_Hurricane.description>штормлорд створює ураган.</VPE_Hurricane.description>
+
+  <!-- EN: flashstorm -->
+  <VPE_PsychicFlashstorm.label>грозовий шторм</VPE_PsychicFlashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <VPE_PsychicFlashstorm.description>Надзвичайна кількість блискавок б'ють невеликою територією.</VPE_PsychicFlashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <VPE_PsychicFlashstorm.endMessage>Грозовий шторм минув.</VPE_PsychicFlashstorm.endMessage>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <VPE_PsychicFlashstorm.letterText>Надзвичайна кількість блискавок б'ють невеликою територією. Це може спричинити величезну пожежу.</VPE_PsychicFlashstorm.letterText>
+
+  <!-- EN: intensified shadows -->
+  <VPE_IntenseShadows.label>тіні поглиблюються</VPE_IntenseShadows.label>
+  <!-- EN:  <VPE_IntenseShadows.description>text.todo</VPE_IntenseShadows.description> -->
+  <!-- EN: The shadows return to normal. -->
+  <VPE_IntenseShadows.endMessage>Тіні повертаються у нормальний стан.</VPE_IntenseShadows.endMessage>
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wanderlust (initial) -->
+  <VME_PermanentBases_Despised.stages.0.label>жага подорожей (початкова)</VME_PermanentBases_Despised.stages.0.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave -->
+  <VME_PermanentBases_Despised.stages.0.description>Ми тут уже давно. Можливо, настав час йти.</VME_PermanentBases_Despised.stages.0.description>
+  <!-- EN: wanderlust (initial) -->
+  <VME_PermanentBases_Despised.stages.1.label>жага подорожей (початкова)</VME_PermanentBases_Despised.stages.1.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave -->
+  <VME_PermanentBases_Despised.stages.1.description>Ми тут уже давно. Найімовірніше, час йти.</VME_PermanentBases_Despised.stages.1.description>
+  <!-- EN: wanderlust (initial) -->
+  <VME_PermanentBases_Despised.stages.2.label>жага подорожей (початкова)</VME_PermanentBases_Despised.stages.2.label>
+  <!-- EN: We have been here for too long. Perhaps it is time to leave -->
+  <VME_PermanentBases_Despised.stages.2.description>Ми тут уже давно. Безперечно час йти.</VME_PermanentBases_Despised.stages.2.description>
+
+  <!-- EN: wanderlust (normal) -->
+  <VME_PermanentBases_Despised.stages.3.label>жага подорожей (звичайна)</VME_PermanentBases_Despised.stages.3.label>
+  <!-- EN: This colony is trite. We should we wandering, not staying on the same place -->
+  <VME_PermanentBases_Despised.stages.3.description>Це поселення набридло. Нам потрібні мандри, а не сидіння на одному місці.</VME_PermanentBases_Despised.stages.3.description>
+  <!-- EN: wanderlust (normal) -->
+  <VME_PermanentBases_Despised.stages.4.label>жага подорожей (звичайна)</VME_PermanentBases_Despised.stages.4.label>
+  <!-- EN: This colony is trite. We should we wandering, not staying on the same place -->
+  <VME_PermanentBases_Despised.stages.4.description>Це поселення остогидло. Нам потрібні мандри, а не сидіння на одному місці.</VME_PermanentBases_Despised.stages.4.description>
+
+  <!-- EN: wanderlust (serious) -->
+  <VME_PermanentBases_Despised.stages.5.label>жага подорожей (сильна)</VME_PermanentBases_Despised.stages.5.label>
+  <!-- EN: Enough already! It is time to pack our things and hit the road -->
+  <VME_PermanentBases_Despised.stages.5.description>Достатньо вже сидіти! Час збирати речі і вирушати в дорогу.</VME_PermanentBases_Despised.stages.5.description>
+  <!-- EN: wanderlust (serious) -->
+  <VME_PermanentBases_Despised.stages.6.label>жага подорожей (сильна)</VME_PermanentBases_Despised.stages.6.label>
+  <!-- EN: Enough already! It is time to pack our things and hit the road -->
+  <VME_PermanentBases_Despised.stages.6.description>Скільки можна! Час збирати речі і вирушати в дорогу.</VME_PermanentBases_Despised.stages.6.description>
+
+  <!-- EN: wanderlust (extreme) -->
+  <VME_PermanentBases_Despised.stages.7.label>жага подорожей (надзвичайна)</VME_PermanentBases_Despised.stages.7.label>
+  <!-- EN: Agh! I can't stand being here anymore! -->
+  <VME_PermanentBases_Despised.stages.7.description>В сраку це місце!</VME_PermanentBases_Despised.stages.7.description>
+
+  <!-- EN: magnificent city -->
+  <VME_PermanentBases_Desired.stages.0.label>справжнє місто</VME_PermanentBases_Desired.stages.0.label>
+  <!-- EN: Our city is magnificent, a fine example of what humanity can achieve. -->
+  <VME_PermanentBases_Desired.stages.0.description>Чудовий приклад того, чого може досягти цивілізація.</VME_PermanentBases_Desired.stages.0.description>
+  <!-- EN: lots of beautiful buildings -->
+  <VME_PermanentBases_Desired.stages.1.label>непогане містечко</VME_PermanentBases_Desired.stages.1.label>
+  <!-- EN: We have so many beautiful buildings! -->
+  <VME_PermanentBases_Desired.stages.1.description>В нас просто купа гарних будівель!</VME_PermanentBases_Desired.stages.1.description>
+  <!-- EN: many beautiful buildings -->
+  <VME_PermanentBases_Desired.stages.2.label>чудове село</VME_PermanentBases_Desired.stages.2.label>
+  <!-- EN: We have so many beautiful buildings! -->
+  <VME_PermanentBases_Desired.stages.2.description>У нас є декілька гарних будівель. Не погано!</VME_PermanentBases_Desired.stages.2.description>
+  <!-- EN: burgeoning city -->
+  <VME_PermanentBases_Desired.stages.3.label>гарний хутір</VME_PermanentBases_Desired.stages.3.label>
+  <!-- EN: Our city is growing! -->
+  <VME_PermanentBases_Desired.stages.3.description>Будівництво триває!</VME_PermanentBases_Desired.stages.3.description>
+  <!-- EN: not enough buildings -->
+  <VME_PermanentBases_Desired.stages.4.label>дрібний тібір</VME_PermanentBases_Desired.stages.4.label>
+  <!-- EN: There are not enough buildings nearby. I feel unprotected. -->
+  <VME_PermanentBases_Desired.stages.4.description>Навколо майже нічого немає. У чистому полі я почуваюся {PAWN_gender ? беззахисним : беззахисною}.</VME_PermanentBases_Desired.stages.4.description>
+</LanguageData>

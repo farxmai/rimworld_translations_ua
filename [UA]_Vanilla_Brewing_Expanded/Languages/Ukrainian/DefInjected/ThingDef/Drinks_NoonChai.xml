@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_NoonChai.label>рожевий чай</VBE_NoonChai.label>
+	<VBE_NoonChai.description>Стародавній рожевий чай, в якому змішується чайне листя, щіпка солі та харчової соди, в результаті чого виходить дивовижний рожевий напій, який славиться тим, що не тільки смачний, а й корисний для організму. Дуже ефективний для лікування людей із високим кров'яним тиском.</VBE_NoonChai.description>
+
+	<VBE_NoonChai.ingestible.ingestCommandString>Випити {0}</VBE_NoonChai.ingestible.ingestCommandString>
+	<VBE_NoonChai.ingestible.ingestReportString>п'є {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+
+</LanguageData>

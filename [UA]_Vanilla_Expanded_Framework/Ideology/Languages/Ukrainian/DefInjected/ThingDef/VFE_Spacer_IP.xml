@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: spacer darklamp -->
+  <Light_SpacerDarkLamp.label>просунута тьмяна лампа</Light_SpacerDarkLamp.label>
+  <!-- EN: A powerful advanced darklamp for lighting up rooms effectively whilst utilising an integrated temperature regulation module to keep rooms warmer to a maximum temperature of 15C. Will not short circuit in rain. -->
+  <Light_SpacerDarkLamp.description>Потужна просунута лампа для ефективного освітлення приміщень тьмяним світлом, яка також використовує вбудований модуль регулювання температури для підтримки в приміщенні максимальної температури в 15C. Не замикає при попаданні вологи.</Light_SpacerDarkLamp.description>
+
+  <!-- EN: dark illuminated end table -->
+  <Table_DarkIlluminatedEndTable.label>просунута тьмяна тумбочка</Table_DarkIlluminatedEndTable.label>
+  <!-- EN: A small illuminated bedside table adorned with darklight strips which makes nearby beds a little bit more comfortable, whilst lighting the room. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <Table_DarkIlluminatedEndTable.description>Невеликий ліжковий столик, прикрашений тьмяним підсвічуванням. Висвітлює тьмяним світлом кімнату і додає зручності ліжкам, якщо розташований безпосередньо поруч із узголів'ям. Другий столик не принесе позитивного ефекту.</Table_DarkIlluminatedEndTable.description>
+
+  <!-- EN: outdoor solar darklamp -->
+  <Spacer_OutdoorDarkLamp.label>вуличний сонячний тьмяний світильник</Spacer_OutdoorDarkLamp.label>
+  <!-- EN: A self sustained darklamp for outdoor use, weaker than a normal industrial darklamp but does not require any power, storing energy during the day to power itself 24/7. Will not short circuit in rain. -->
+  <Spacer_OutdoorDarkLamp.description>Самопідтримуюча тьмяна лампа для вуличного використання. Більш слабка, ніж звичайна лампа, але не вимагає джерела живлення, акумулює енергію протягом дня, щоб забезпечувати себе енергією 24/7. Не замикає при попаданні вологи.</Spacer_OutdoorDarkLamp.description>
+
+  <!-- EN: dark illuminated dresser -->
+  <Table_DarkIlluminatedDresser.label>просунутий тьмяний комод</Table_DarkIlluminatedDresser.label>
+  <!-- EN: An illuminated dresser, adorned with darklight strips. Gives a small comfort bonus to all nearby beds, whilst lighting up the room. Placing more than one dresser near the same bed has no effect. -->
+  <Table_DarkIlluminatedDresser.description>Комод, прикрашений тьмяним підсвічуванням. Висвітлює кімнату та додає зручності ліжкам, що стоять поряд. Розміщення більше одного комоду поруч із одним ліжком не принесе позитивного ефекту.</Table_DarkIlluminatedDresser.description>
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: eltex mask -->
+  <VPE_Apparel_EltexMask.label>маска з ельтекса</VPE_Apparel_EltexMask.label>
+  <!-- EN: An artistically impressive mask emanating psychic energy. Hides the face of the wearer but provides little physical protection. Its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <VPE_Apparel_EltexMask.description>Художньо вражаюча маска, що випромінює психічну енергію. Приховує обличчя користувача, але забезпечує слабкий фізичний захист. Його спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</VPE_Apparel_EltexMask.description>
+
+  <!-- EN: eltex cape -->
+  <VPE_Apparel_EltexCape.label>накидка з ельтекса</VPE_Apparel_EltexCape.label>
+  <!-- EN: A long cape of mystical design. It hangs over one side of the torso. Its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <VPE_Apparel_EltexCape.description>Довга накидка містичного дизайну, яка звисає з плеча. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</VPE_Apparel_EltexCape.description>
+
+  <!-- EN: eltex skullcap -->
+  <Apparel_EltexSkullcap.label>кіпа з ельтекса</Apparel_EltexSkullcap.label>
+  <!-- EN: A tight skullcap designed for psychic focusing. It provides no physical protection, but its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <Apparel_EltexSkullcap.description>Маленька кіпа, що випромінює психічну енергію. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</Apparel_EltexSkullcap.description>
+
+  <!-- EN: eltex helmet -->
+  <Apparel_PsyfocusHelmet.label>шолом з ельтекса</Apparel_PsyfocusHelmet.label>
+  <!-- EN: A lightweight helmet designed for psychic focusing. While it provides little physical protection, its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <Apparel_PsyfocusHelmet.description>Легкий шолом, що випромінює психічну енергію. Трохи підвищує рівень психічного захисту. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</Apparel_PsyfocusHelmet.description>
+
+  <!-- EN: eltex robe -->
+  <Apparel_PsyfocusRobe.label>мантія з ельтекса</Apparel_PsyfocusRobe.label>
+  <!-- EN: A long robe embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusRobe.description>Вишукана мантія, що випромінює психічну енергію. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</Apparel_PsyfocusRobe.description>
+
+  <!-- EN: eltex shirt -->
+  <Apparel_PsyfocusShirt.label>сорочка з ельтекса</Apparel_PsyfocusShirt.label>
+  <!-- EN: A shirt embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusShirt.description>Легка та приємна на дотик сорочка, що випромінює психічну енергію. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</Apparel_PsyfocusShirt.description>
+
+  <!-- EN: eltex vest -->
+  <Apparel_PsyfocusVest.label>жилет з ельтекса</Apparel_PsyfocusVest.label>
+  <!-- EN: A thin vest embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusVest.description>Вишуканий товстий жилет, що випромінює психічну енергію. Спеціальні матеріали підвищують психічну чутливість користувача та розсіюють псі-напругу.</Apparel_PsyfocusVest.description>
+
+
+</LanguageData>

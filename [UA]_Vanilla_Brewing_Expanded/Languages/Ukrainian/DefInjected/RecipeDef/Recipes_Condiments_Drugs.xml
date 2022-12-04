@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeLuciferiumPowder.label>приготувати пудру люциферію</VBE_MakeLuciferiumPowder.label>
+  <VBE_MakeLuciferiumPowder.description>Приготувати пудру люциферію.</VBE_MakeLuciferiumPowder.description>
+  <VBE_MakeLuciferiumPowder.jobString>готує пудру люциферію</VBE_MakeLuciferiumPowder.jobString>
+
+  <VBE_MakeGoJuiceStock.label>приготувати кубики го-соку</VBE_MakeGoJuiceStock.label>
+  <VBE_MakeGoJuiceStock.description>Приготувати кубики го-соку.</VBE_MakeGoJuiceStock.description>
+  <VBE_MakeGoJuiceStock.jobString>готує кубики го-соку</VBE_MakeGoJuiceStock.jobString>
+
+  <VBE_MakeWakeUpPowder.label>приготувати пудру бодьорина</VBE_MakeWakeUpPowder.label>
+  <VBE_MakeWakeUpPowder.description>Приготувати пудру бодьорина.</VBE_MakeWakeUpPowder.description>
+  <VBE_MakeWakeUpPowder.jobString>готує пудру бодьорина</VBE_MakeWakeUpPowder.jobString>
+
+
+</LanguageData>

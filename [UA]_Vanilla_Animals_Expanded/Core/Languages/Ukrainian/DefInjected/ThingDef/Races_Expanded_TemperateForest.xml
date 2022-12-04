@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Panda -->
+
+  <AEXP_RedPanda.label>червона панда</AEXP_RedPanda.label>
+  <AEXP_RedPanda.description>Червона панда - невеликий ссавець, трохи більше домашнього кота, з тілом, схожим на медведя, і густим рудуватим хутром. Живіт і кінцівки чорного кольору, а з боків голови та над маленькими очками є білі мітки. Червона панда вміла та спритна тварина, яка переважно тримається на деревах. Це усамітнена тварина яка, переважно активна від заходу сонця до світанку. Червона панда може бути ласкавою, якщо її правильно приручити.</AEXP_RedPanda.description>
+  <AEXP_RedPanda.tools.0.label>ліва лапка</AEXP_RedPanda.tools.0.label>
+  <AEXP_RedPanda.tools.1.label>права лапка</AEXP_RedPanda.tools.1.label>
+  <AEXP_RedPanda.tools.2.label>зуби</AEXP_RedPanda.tools.2.label>
+  <AEXP_RedPanda.tools.3.label>голова</AEXP_RedPanda.tools.3.label>
+  <AEXP_RedPanda.race.meatLabel>м'ясо червоної панди</AEXP_RedPanda.race.meatLabel>
+
+
+  <!-- Badger -->
+
+  <AEXP_Badger.label>барсук</AEXP_Badger.label>
+  <AEXP_Badger.description>Барсуки це невеликі нічні ссавці з плоским клиноподібним тілом, широкими лапами з довгими кігтями та жорсткою шерстю. У барсуків сильні лапи та гострі кігті, які допомагають їм рити нори та знаходити їжу під землею. Вони всеїдні та їх дієта складається в основному з дощових черв'яків, комах, личинок та дрібних тварин, таких як їжаки та кролики.</AEXP_Badger.description>
+  <AEXP_Badger.tools.0.label>ліва лапа</AEXP_Badger.tools.0.label>
+  <AEXP_Badger.tools.1.label>права лапа</AEXP_Badger.tools.1.label>
+  <AEXP_Badger.tools.2.label>зуби</AEXP_Badger.tools.2.label>
+  <AEXP_Badger.tools.3.label>голова</AEXP_Badger.tools.3.label>
+  <AEXP_Badger.race.meatLabel>м'ясо барсука</AEXP_Badger.race.meatLabel>
+
+
+  <!-- Wild Goose -->
+
+  <AEXP_WildGoose.label>дикий гусак</AEXP_WildGoose.label>
+  <AEXP_WildGoose.description>Порівняно зі своїми одомашненими побратимами, яких відбирали протягом тисяч років до більшого розміру. Дикі гуси не відкладають так багато яєць і вони відомі своєю агресивною поведінкою. Здаватися – не їхня стратегія.</AEXP_WildGoose.description>
+  <AEXP_WildGoose.tools.0.label>кігті</AEXP_WildGoose.tools.0.label>
+  <AEXP_WildGoose.tools.1.label>клюв</AEXP_WildGoose.tools.1.label>
+  <AEXP_WildGoose.tools.2.label>голова</AEXP_WildGoose.tools.2.label>
+
+
+  <!-- Beaver -->
+
+  <AEXP_Beaver.label>бобер</AEXP_Beaver.label>
+  <AEXP_Beaver.description>Великий напівводний гризун із плоским лопаткоподібним хвостом та перетинчастими задніми лапами. Бобри відомі своїми вродженими будівельними навичками, будуючи свої будинки або "хатки" із прутів, гілок, каміння та бруду в озерах, струмках та дельтах річок. Бобри добре відомі тим, що будують греблі через струмки і, в освічених з їх допомогою штучних ставках, будиночки.</AEXP_Beaver.description>
+  <AEXP_Beaver.tools.0.label>ліва лапка</AEXP_Beaver.tools.0.label>
+  <AEXP_Beaver.tools.1.label>права лапка</AEXP_Beaver.tools.1.label>
+  <AEXP_Beaver.tools.2.label>зуби</AEXP_Beaver.tools.2.label>
+  <AEXP_Beaver.tools.3.label>голова</AEXP_Beaver.tools.3.label>
+
+
+  <!-- Hedgehog -->
+
+  <AEXP_Hedgehog.label>їжак</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.description>Їжаки - мініатюрні ссавці з конусоподібними обличчями, короткими ногами та тілами, покритими голками. Схожі на дикобраза. У разі небезпеки їжак згортається в клубок, тому голки покривають всю площу його ніжного тіла і захищають тварину від хижаків.</AEXP_Hedgehog.description>
+  <AEXP_Hedgehog.tools.0.label>ліва лапка</AEXP_Hedgehog.tools.0.label>
+  <AEXP_Hedgehog.tools.1.label>права лапка</AEXP_Hedgehog.tools.1.label>
+  <AEXP_Hedgehog.tools.2.label>зуби</AEXP_Hedgehog.tools.2.label>
+  <AEXP_Hedgehog.tools.3.label>голова</AEXP_Hedgehog.tools.3.label>
+  <AEXP_Hedgehog.race.meatLabel>м'ясо їжака</AEXP_Hedgehog.race.meatLabel>
+
+
+</LanguageData>

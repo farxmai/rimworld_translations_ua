@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 9 -->
+
+  <!-- EN: progressive -->
+  <VME_Progressive.label>Прогресивність</VME_Progressive.label>
+  <!-- EN: Machines, factories, drones, a goal to any successful community should be optimizing thes devices and shunning the idea of ​​sentient beings performing tasks normally meant for them. -->
+  <VME_Progressive.description>Машини, фабрики, дрони; мета будь-якого успішного суспільства — оптимізувати ці пристрої, щоб і в думках не допускалося виконання їхньої роботи розумними істотами.</VME_Progressive.description>
+
+  <VME_Progressive.generalRules.rulesStrings>
+    <li>memeAdjective->автоматичний</li>
+    <li>memeAdjective->прогресивний</li>
+    <li>memeHyphenPrefix->авто</li>
+    <li>memeConcept->автоматики</li>
+    <li>memeLeaderNoun->великий інженер</li>
+    <li>memeLeaderNoun->великий проектувальник</li>
+    <li>memeLeaderNoun->автоматизатор</li>
+  </VME_Progressive.generalRules.rulesStrings>
+
+  <VME_Progressive.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Progressive) ->[deity0_name] побачив, як [memberNamePlural] намагаються впоратися зі своїми машинами і засміявся без тіні злості: «Хіба я не дав вам знарядь, щоб приборкати ці машини і змусити їх служити вам? Ваші старання марні.»</li>
+    <li>episode(uses=1,tag=meme_Progressive) ->[deity0_name] сказав усім [memberNamePlural]: «Ручна праця не є для мене священною. Ви надаєте мені честь, звільняючи свій час за рахунок автоматизації своїх завдань.»</li>
+    <li>intro(tag=meme_Progressive) ->[memberNamePlural] використовували автоматичні заводи, щоб створити чудовий [altarName] на [place_summary] [place_name], монумент, що показує славу [deity0_name].</li>
+    <li>conflict(tag=meme_Progressive) ->Вулик механоїдів, що розбушевався, прагнув знищити автоматизовані машини [deity0_name], намагався знищити твори [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Progressive) ->[deity0_name] доручив [founderName] змінили виробництво так, щоб створити священну реліквію - [relic0_name], яка дозволила [founderName_objective] відбити напад механоїдів, перш ніж було запізно.</li>
+    <li>victory(tag=meme_Progressive) ->[founderName] розгромив механоїдів, і розібрав їхню армію на запчастини, щоб побудувати нові вдосконалені фабрики.</li>
+    <li>setup(tag=meme_Progressive) ->Наш засновник [founderName] був великим інженером, визнаним експертом у мистецтві автоматизації заводських ліній. Не існувало процесу, який не можна було б автоматизувати за допомогою [founder_possessive] hands.</li>
+    <li>story(uses=1,tag=meme_Progressive) ->Послідовники [founder_possessive] десятиліттями вивчали методи автоматизації [founder_possessive], ретельно аналізуючи ідеї [founder_possessive] та застосовуючи їх на власних заводах.</li>
+    <li>lessonIntro(tag=meme_Progressive) ->За всі роки роботи з оптимізації пропускної спроможності заводських ліній я засвоїв один урок, найцінніший з усіх:</li>
+    <li>lesson(tag=meme_Progressive) ->перше правило для будь-якої технології, яка використовується в бізнесі - автоматизація завжди буде в рази збільшувати ефективність.</li>
+    <li>lessonReinforcement(tag=meme_Progressive) ->Автоматизація - це справді чудова ідея. Якщо ми продовжуватимемо розвивати цей напрямок, то можливості для її застосування - воістину безмежні.</li>
+    <li>archistBasis(tag=meme_Progressive) ->Архотеки бездоганні. Вони досягли таких меж досконалості у тому, що стосується зміни Всесвіту, що вийшли далеко за межі доступні нашому розумінню. І ви справді думаєте, що архотеки</li>
+    <li>archistFact(tag=meme_Progressive) ->буде створювати що-небудь простою ручною працею?</li>
+    <li>archistProphecy(tag=meme_Progressive) ->[inTheEnd], це єдиний можливий шлях наблизитися до їх можливостей, створюючи такий рівень автоматизації праці, який дозволив би нам вийти на новий щабель еволюції.</li>
+    <li>animistFact(tag=meme_Progressive) ->Духи - це чистий розум. Вищий розум, який знаходиться далеко за межами повсякденного та фізичного. Тому вони не схвалюють ручну працю. Навіщо створювати речі вручну, якщо бездушна машина може це зробити за вас?</li>
+    <li>serketistProphecy(tag=meme_Progressive)->[itIsSaid], що виробнича лінія заводу схожа на велику комаху, її численні частини рухаються в єдиній узгодженій мелодії, не схожій на командну роботу, присутню в мурашиному вулику.</li>
+    <li>chthonianProphecy(tag=meme_Progressive)->Ми не можемо дозволити собі витрачати наші життя в муках бездумної ручної праці. Ми створимо чудові, повністю автономні механізми, які позбавлять нас необхідності працювати і дозволять нам зосередитися на тому, що виходить за межі мирського життя.</li>
+    <li>esotericismProphecy(tag=meme_Progressive)->Вивчаючи механізми та процеси наших автоматизованих фабрик, ми можемо розкрити деякі з цих стародавніх секретів і, можливо, зазирнути в невідоме.</li>
+    <li>eschatologismFact(tag=meme_Progressive)->Ми не зупинимося на жодному світі. Наші автоматизовані орбітальні заводи заповнять Космос міріадами руйнівних машин. Ми принесемо все.</li>
+    <li>introMemo(tag=meme_Progressive)->Ми отримали скарги від Стіва з техпідтримки з приводу небажання деяких із вас прийняти нові правила автоматизації процесів. Деякі люди казали: "Я витратив 30 годин на автоматизацію процесу, який міг би зробити за півгодини вручну!". Це так недалеко!</li>
+    <li>alienistProphecy(tag=meme_Progressive)->Всі ці заблукалі твори людства показують нам, чого може досягти людство за допомогою автоматизованих технологій, чудових генетичних лабораторій, що беруть проби геному з шаленою швидкістю.</li>
+  </VME_Progressive.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Automation -->
+  <VME_Progressive.symbolPacks.0.ideoName>Автоматизм</VME_Progressive.symbolPacks.0.ideoName>
+  <!-- EN: automation -->
+  <VME_Progressive.symbolPacks.0.theme>автоматики</VME_Progressive.symbolPacks.0.theme>
+  <!-- EN: automatic -->
+  <VME_Progressive.symbolPacks.0.adjective>автоматичний</VME_Progressive.symbolPacks.0.adjective>
+  <!-- EN: automation engineer -->
+  <VME_Progressive.symbolPacks.0.member>інженер</VME_Progressive.symbolPacks.0.member>
+
+</LanguageData>

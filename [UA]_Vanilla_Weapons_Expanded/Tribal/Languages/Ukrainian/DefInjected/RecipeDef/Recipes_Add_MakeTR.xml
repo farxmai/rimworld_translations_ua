@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_MeleeWeapon_HeavyClub.label>зробити важку палицю</Make_VWE_MeleeWeapon_HeavyClub.label>
+  <Make_VWE_MeleeWeapon_HeavyClub.description>зробити важку палицю.</Make_VWE_MeleeWeapon_HeavyClub.description>
+  <Make_VWE_MeleeWeapon_HeavyClub.jobString>Виготовляє важку палицю.</Make_VWE_MeleeWeapon_HeavyClub.jobString>
+
+  <Make_VWE_MeleeWeapon_LightClub.label>зробити легку палицю</Make_VWE_MeleeWeapon_LightClub.label>
+  <Make_VWE_MeleeWeapon_LightClub.description>зробити легку палицю.</Make_VWE_MeleeWeapon_LightClub.description>
+  <Make_VWE_MeleeWeapon_LightClub.jobString>Виготовляє легку палицю.</Make_VWE_MeleeWeapon_LightClub.jobString>
+
+  <Make_VWE_MeleeWeapon_TribalAxe.label>зробити племінну сокиру</Make_VWE_MeleeWeapon_TribalAxe.label>
+  <Make_VWE_MeleeWeapon_TribalAxe.description>зробити племінну сокиру.</Make_VWE_MeleeWeapon_TribalAxe.description>
+  <Make_VWE_MeleeWeapon_TribalAxe.jobString>Виготовляє племінну сокиру</Make_VWE_MeleeWeapon_TribalAxe.jobString>
+
+  <Make_VWE_MeleeWeapon_Shiv.label>зробити заточку</Make_VWE_MeleeWeapon_Shiv.label>
+  <Make_VWE_MeleeWeapon_Shiv.description>зробити заточку.</Make_VWE_MeleeWeapon_Shiv.description>
+  <Make_VWE_MeleeWeapon_Shiv.jobString>Виготовляє заточку</Make_VWE_MeleeWeapon_Shiv.jobString>
+
+  <Make_VWE_Sling.label>зробити пращу</Make_VWE_Sling.label>
+  <Make_VWE_Sling.description>зробити пращу.</Make_VWE_Sling.description>
+  <Make_VWE_Sling.jobString>Виготовляє пращу</Make_VWE_Sling.jobString>
+
+  <Make_VWE_Throwing_Shards.label>зробити метальні уламки</Make_VWE_Throwing_Shards.label>
+  <Make_VWE_Throwing_Shards.description>зробити метальні уламки.</Make_VWE_Throwing_Shards.description>
+  <Make_VWE_Throwing_Shards.jobString>Виготовляє метальні уламки</Make_VWE_Throwing_Shards.jobString>
+
+  <Make_VWE_Weapon_FireBomb.label>зробити вогняні бомби</Make_VWE_Weapon_FireBomb.label>
+  <Make_VWE_Weapon_FireBomb.description>зробити вогняні бомби.</Make_VWE_Weapon_FireBomb.description>
+  <Make_VWE_Weapon_FireBomb.jobString>Виготовляє вогняні бомби.</Make_VWE_Weapon_FireBomb.jobString>
+</LanguageData>

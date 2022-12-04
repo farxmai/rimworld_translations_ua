@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: required -->
+  <VME_Hospital_Required.label>необхідна</VME_Hospital_Required.label>
+  <!-- EN: A place of refuge and healing is essential for the long-term health of our community. It’s important to make sure we have open beds and plenty of medicine should the worst come to worst.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists gets mood penalties / bonuses depending on size of hospital rooms found in the map. Only hospital rooms with an impressiveness of "decent" or higher will count for this calculation. -->
+  <VME_Hospital_Required.description>Місце для порятунку постраждалих та лікування необхідне для здоров'я нашої спільноти у довгостроковій перспективі. Важливо переконатися, що у нас є вільні медичні ліжка та багато ліків на випадок найгіршого розвитку подій.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Колоністи одержують штрафи чи бонуси до настрою залежно від розміру лікарняних приміщень. Враховуватимуться лише лікарні, які справляють враження рівня «непогано» або вище.</VME_Hospital_Required.description>
+  <!-- EN: Need hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Потрібна лікарня</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Dirty hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Брудна лікарня</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Small hospital (less than 25 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Невелика лікарня (менше 25 клітин)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Spacious hospital (less than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Простора лікарня (менше 50 клітин)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Huge hospital (more than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>Величезна лікарня (більше 50 клітин)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
+</LanguageData>

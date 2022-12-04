@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: exalted -->
+  <VME_Power_Exalted.label>втілена</VME_Power_Exalted.label>
+  <!-- EN: I am righteousness! I am no simple king, I have ascended to that of a god! Bow before me or atone with your life. -->
+  <VME_Power_Exalted.description>Я — втілення справедливості! Я не просто вищий за всіх, я нарівні з богами! Схиліться переді мною або поплатіться життям.</VME_Power_Exalted.description>
+
+  <!-- EN: desired -->
+  <VME_Power_Desired.label>елітарна</VME_Power_Desired.label>
+  <!-- EN: Craving to be one of the powerful elite is a very understandable desire and should not be looked down upon. -->
+  <VME_Power_Desired.description>Прагнення увійти до могутньої еліти — дуже зрозуміле бажання, їм не варто нехтувати.</VME_Power_Desired.description>
+
+  <!-- EN: preferred -->
+  <VME_Power_Preferred.label>привілейована</VME_Power_Preferred.label>
+  <!-- EN: It’s unthinkable to be considered a commoner. I want people to take my word seriously and put forth great effort not to disappoint me. -->
+  <VME_Power_Preferred.description>Немислимо рівняти важливу особу до простого люду. Людям слід серйозно ставитися до моїх слів і докладати всіх зусиль, щоб не розчарувати мене.</VME_Power_Preferred.description>
+
+  <!-- EN: Leader -->
+  <VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Лідер</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Leader and moralist -->
+  <VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Лідер і Моральний лідер</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Any ideo role -->
+  <VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>Будь-яка роль</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+</LanguageData>

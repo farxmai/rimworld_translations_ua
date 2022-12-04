@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <FF_PainkillerHigh.label>Під знеболюючим</FF_PainkillerHigh.label>
+    <FF_PainkillerHigh.description>Прийнято знеболювальне. Він притуплює відчуття та знімає біль.</FF_PainkillerHigh.description>
+	
+	<FF_PainkillerHigh.stages.0.label>Незначний ефект</FF_PainkillerHigh.stages.0.label>
+	<FF_PainkillerHigh.stages.1.label>Помірний ефект</FF_PainkillerHigh.stages.1.label>
+	<FF_PainkillerHigh.stages.2.label>Сильний ефект</FF_PainkillerHigh.stages.2.label>
+	
+
+    <FF_PainkillerTolerance.label>толерантність до болезаспокійливих</FF_PainkillerTolerance.label>
+    <FF_PainkillerTolerance.description>Підвищена толерантність до болезаспокійливих. Чим жорсткіша ця толерантність, тим більше потрібно болезаспокійливого, щоб отримати той самий ефект.</FF_PainkillerTolerance.description>
+
+    <FF_PainkillerAddiction.label>залежність від знеболювальних</FF_PainkillerAddiction.label>
+    <FF_PainkillerAddiction.description>Пристрасть до болезаспокійливих.</FF_PainkillerAddiction.description>
+
+    <FF_PainkillerAddiction.stages.0.label>синдром відміни</FF_PainkillerAddiction.stages.0.label>
+
+</LanguageData>

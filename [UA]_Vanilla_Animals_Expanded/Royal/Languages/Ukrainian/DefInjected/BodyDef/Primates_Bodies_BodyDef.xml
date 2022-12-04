@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAERoy_GreatApe.label>велика мавпа</VAERoy_GreatApe.label>
+  <VAERoy_GreatApe.corePart.parts.left_clavicle.customLabel>ліва ключиця</VAERoy_GreatApe.corePart.parts.left_clavicle.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_clavicle.customLabel>права ключиця</VAERoy_GreatApe.corePart.parts.right_clavicle.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_lung.customLabel>ліва легеня</VAERoy_GreatApe.corePart.parts.left_lung.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_lung.customLabel>права легеня</VAERoy_GreatApe.corePart.parts.right_lung.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_kidney.customLabel>ліва нирка</VAERoy_GreatApe.corePart.parts.left_kidney.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_kidney.customLabel>права нирка</VAERoy_GreatApe.corePart.parts.right_kidney.customLabel>
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ліве око</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>праве око</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ліве вухо</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>праве вухо</VAERoy_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.customLabel>ліве плече</VAERoy_GreatApe.corePart.parts.left_shoulder.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>ліва рука</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ліва плечова кістка</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>лівий радіус</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва рука</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>лівий мізинець</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>безіменний палець лівої руки</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>лівий средній палець</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>вказівний палець лівої руки</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>великий палець лівої руки</VAERoy_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.customLabel>праве плече</VAERoy_GreatApe.corePart.parts.right_shoulder.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>права рука</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>права плечова кістка</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правий радіус</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права рука</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>правий мізинець</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>безіменний палець правої руки</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>средній палець правої руки</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>вказівний палець правої руки</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>великий палець правої руки</VAERoy_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.customLabel>ліва нога</VAERoy_GreatApe.corePart.parts.left_leg.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>ліве стегно</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>ліва великогомілкова кістка</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>ліва нога</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мізинець лівої ноги</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>четвертий палець лівої ноги</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>средній палець лівої ноги</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>другий палець лівої ноги</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>великий палець лівої ноги</VAERoy_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.customLabel>права нога</VAERoy_GreatApe.corePart.parts.right_leg.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>праве стегно</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>права великогомілкова кістка</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>права нога</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мізинець правої ноги</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>четвертий палець правої ноги</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>средній палець правої ноги</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>другий палець правої ноги</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>великий палець правої ноги</VAERoy_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+</LanguageData>

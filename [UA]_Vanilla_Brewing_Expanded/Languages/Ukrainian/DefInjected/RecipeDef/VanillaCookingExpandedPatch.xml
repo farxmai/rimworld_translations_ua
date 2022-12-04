@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeLuciferiumPowder.label>приготувати пудру люциферія</VBE_MakeLuciferiumPowder.label>
+  <VBE_MakeLuciferiumPowder.description>Приготувати пудру люциферія.</VBE_MakeLuciferiumPowder.description>
+  <VBE_MakeLuciferiumPowder.jobString>готує пудру люциферія</VBE_MakeLuciferiumPowder.jobString>
+
+  <VBE_MakeWakeUpPowder.label>приготувати пудру бадьорину</VBE_MakeWakeUpPowder.label>
+  <VBE_MakeWakeUpPowder.description>Приготувати пудру бадьорину.</VBE_MakeWakeUpPowder.description>
+  <VBE_MakeWakeUpPowder.jobString>готує пудру бадьорину</VBE_MakeWakeUpPowder.jobString>
+
+  <VBE_MakeGoJuiceStock.label>приготувати кубики го-соку</VBE_MakeGoJuiceStock.label>
+  <VBE_MakeGoJuiceStock.description>Приготувати кубики го-соку.</VBE_MakeGoJuiceStock.description>
+  <VBE_MakeGoJuiceStock.jobString>готує кубики го-соку</VBE_MakeGoJuiceStock.jobString>
+
+  <VBE_MakeSodaSyrupBulk.label>приготувати содовий сироп</VBE_MakeSodaSyrupBulk.label>
+  <VBE_MakeSodaSyrupBulk.description>Приготувати содовий сироп.</VBE_MakeSodaSyrupBulk.description>
+  <VBE_MakeSodaSyrupBulk.jobString>готує содовий сироп</VBE_MakeSodaSyrupBulk.jobString>
+
+  <VBE_MakeWhiskeyMash.label>приготувати сусло віскі з кукурудзи</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.description>Приготувати сусло віскі з кукурудзи.</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.jobString>готує сусло віскі з кукурудзи</VBE_MakeWhiskeyMash.jobString>
+
+  <VBE_MakeCocktailGourmet.label>приготувати першокласний коктейль</VBE_MakeCocktailGourmet.label>
+  <VBE_MakeCocktailGourmet.description>Приготувати першокласний коктейль.</VBE_MakeCocktailGourmet.description>
+  <VBE_MakeCocktailGourmet.jobString>готує першокласний коктейль</VBE_MakeCocktailGourmet.jobString>
+
+  <VBE_MixLemonade.label>приготувати лемонад</VBE_MixLemonade.label>
+  <VBE_MixLemonade.description>Приготувати лемонад.</VBE_MixLemonade.description>
+  <VBE_MixLemonade.jobString>готує лемонад</VBE_MixLemonade.jobString>
+
+</LanguageData>

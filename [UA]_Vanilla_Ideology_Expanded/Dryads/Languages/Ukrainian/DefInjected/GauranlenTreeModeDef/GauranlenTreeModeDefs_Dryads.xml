@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stonedigger -->
+  <VDE_Stonedigger.label>дріада-каменяр</VDE_Stonedigger.label>
+  <!-- EN: An extremely easy-going caste of dryad which specializes in finding stone chunks. Absorbs minerals from the ground that help harden its carapace while leaving excessively large pieces aside. -->
+  <VDE_Stonedigger.description>Каста дріад, що відрізняється особливо спокійним та радісним ставленням до життя. Її представники займаються пошуком кам'яних уламків. Вони поглинають знайдені маленькі шматочки мінералів і зміцнюють свій панцир, а надто великі залишають на землі.</VDE_Stonedigger.description>
+
+  <!-- EN: spitter -->
+  <VDE_Spitter.label>дріада-плювальник</VDE_Spitter.label>
+  <!-- EN: A dryad caste specialized in territorialism and can launch ranged acid projectiles. Though it can dish out tremendous damage, it is vulnerable in melee due to its oversized mouth. -->
+  <VDE_Spitter.description>Каста дріад, що займається охороною своєї території та може запускати кислотні снаряди дальньої дії. Кислота надзвичайно небезпечна, але самі дріади вразливі у ближньому бою через свій великий ріт.</VDE_Spitter.description>
+
+  <!-- EN: gaubricmaker -->
+  <VDE_Gaubricmaker.label>дріада-вовнянник</VDE_Gaubricmaker.label>
+  <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Gauranlen tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <VDE_Gaubricmaker.description>Каста дріад, що виробляє вовняний, схожий на шкіру тварини, матеріал. Їх можна остригати так само, як і вузлове дерево душі, і отримувати м'який, красивий і теплий матеріал. Повільні і неефективні в роботі та в бою.</VDE_Gaubricmaker.description>
+
+  <!-- EN: nectarmaker -->
+  <VDE_Nectarmaker.label>дріада-нектарник</VDE_Nectarmaker.label>
+  <!-- EN: A curious dryad caste specialized in ambrosia production. Together with its Gauranlen tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats. -->
+  <VDE_Nectarmaker.description>Каста дріад, що виробляє амброзію поряд зі своїм вузловим древом душі. Повільні і неефективні в роботі та в бою.</VDE_Nectarmaker.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VWE_Gun_AutomaticPistol.label>зробити полегшеий пістолет</Make_VWE_Gun_AutomaticPistol.label>
+  <Make_VWE_Gun_AutomaticPistol.description>зробити полегшеий пістолет.</Make_VWE_Gun_AutomaticPistol.description>
+  <Make_VWE_Gun_AutomaticPistol.jobString>Виготовляє полегшеий пістолет</Make_VWE_Gun_AutomaticPistol.jobString>
+
+  <Make_VWE_Gun_BullpupRifle.label>зробити полегшену гвинтівку</Make_VWE_Gun_BullpupRifle.label>
+  <Make_VWE_Gun_BullpupRifle.description>зробити полегшену гвинтівку.</Make_VWE_Gun_BullpupRifle.description>
+  <Make_VWE_Gun_BullpupRifle.jobString>Виготовляє полегшену гвинтівку</Make_VWE_Gun_BullpupRifle.jobString>
+
+  <Make_VWE_Gun_BullpupDMR.label>зробити полегшену стрілецьку гвинтівку</Make_VWE_Gun_BullpupDMR.label>
+  <Make_VWE_Gun_BullpupDMR.description>зробити полегшену стрілецьку гвинтівку.</Make_VWE_Gun_BullpupDMR.description>
+  <Make_VWE_Gun_BullpupDMR.jobString>Виготовляє полегшену стрілецьку гвинтівку</Make_VWE_Gun_BullpupDMR.jobString>
+
+  <Make_VWE_Gun_PDW.label>зробити полегшеий ПК</Make_VWE_Gun_PDW.label>
+  <Make_VWE_Gun_PDW.description>зробити полегшеий ПК.</Make_VWE_Gun_PDW.description>
+  <Make_VWE_Gun_PDW.jobString>Виготовляє полегшеий ПК</Make_VWE_Gun_PDW.jobString>
+</LanguageData>

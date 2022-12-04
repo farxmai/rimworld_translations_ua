@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_RearLeftClaws.label>задні ліві кігті</AEXP_RearLeftClaws.label>
+  <AEXP_RearLeftClaws.labelShort>кігті</AEXP_RearLeftClaws.labelShort>
+
+  <AEXP_RearRightClaws.label>задні праві кігті</AEXP_RearRightClaws.label>
+  <AEXP_RearRightClaws.labelShort>кігті</AEXP_RearRightClaws.labelShort>
+
+  <AEXP_RearLeftSpur.label>задня ліва шпора</AEXP_RearLeftSpur.label>
+  <AEXP_RearLeftSpur.labelShort>шпора</AEXP_RearLeftSpur.labelShort>
+
+  <AEXP_RearRightSpur.label>задня права шпора</AEXP_RearRightSpur.label>
+  <AEXP_RearRightSpur.labelShort>шпора</AEXP_RearRightSpur.labelShort>
+
+
+</LanguageData>

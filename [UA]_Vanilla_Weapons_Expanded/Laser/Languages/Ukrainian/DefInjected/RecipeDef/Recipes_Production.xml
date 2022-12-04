@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Salvage_LaserWeapon.label>зробити випадкову лазерну зброю</Salvage_LaserWeapon.label>
+  <Salvage_LaserWeapon.description>зробити випадкову лазерну зброю з просунутих компонентів</Salvage_LaserWeapon.description>
+  <Salvage_LaserWeapon.jobString>Виготовляє лазерну зброю</Salvage_LaserWeapon.jobString>
+
+  <Make_VWEL_LaserSword.label>зробити лазерний меч</Make_VWEL_LaserSword.label>
+  <Make_VWEL_LaserSword.description>зробити лазерний меч.</Make_VWEL_LaserSword.description>
+  <Make_VWEL_LaserSword.jobString>Виготовляє лазерний меч</Make_VWEL_LaserSword.jobString>
+
+  <Make_VWEL_Gun_LaserPistol.label>зробити лазерний пістолет</Make_VWEL_Gun_LaserPistol.label>
+  <Make_VWEL_Gun_LaserPistol.description>зробити лазерний пістолет.</Make_VWEL_Gun_LaserPistol.description>
+  <Make_VWEL_Gun_LaserPistol.jobString>Виготовляє лазерний пістолет</Make_VWEL_Gun_LaserPistol.jobString>
+
+  <Make_VWEL_Gun_LaserSMG.label>зробити лазерний ПК</Make_VWEL_Gun_LaserSMG.label>
+  <Make_VWEL_Gun_LaserSMG.description>зробити лазерний ПК.</Make_VWEL_Gun_LaserSMG.description>
+  <Make_VWEL_Gun_LaserSMG.jobString>Виготовляє лазерний ПК</Make_VWEL_Gun_LaserSMG.jobString>
+
+  <Make_VWEL_Gun_LaserRifle.label>зробити лазерную гвинтівку</Make_VWEL_Gun_LaserRifle.label>
+  <Make_VWEL_Gun_LaserRifle.description>зробити лазерную гвинтівку.</Make_VWEL_Gun_LaserRifle.description>
+  <Make_VWEL_Gun_LaserRifle.jobString>Виготовляє лазерную гвинтівку</Make_VWEL_Gun_LaserRifle.jobString>
+
+  <Make_VWEL_Gun_LaserShotgun.label>зробити лазерний дробовик</Make_VWEL_Gun_LaserShotgun.label>
+  <Make_VWEL_Gun_LaserShotgun.description>зробити лазерний дробовик.</Make_VWEL_Gun_LaserShotgun.description>
+  <Make_VWEL_Gun_LaserShotgun.jobString>Виготовляє лазерний дробовик</Make_VWEL_Gun_LaserShotgun.jobString>
+
+  <Make_VWEL_Gun_LaserSniperRifle.label>зробити лазерную снайперську гвинтівку</Make_VWEL_Gun_LaserSniperRifle.label>
+  <Make_VWEL_Gun_LaserSniperRifle.description>зробити лазерную снайперську гвинтівку.</Make_VWEL_Gun_LaserSniperRifle.description>
+  <Make_VWEL_Gun_LaserSniperRifle.jobString>Виготовляє лазерную снайперську гвинтівку</Make_VWEL_Gun_LaserSniperRifle.jobString>
+
+  <Make_VWEL_Gun_LaserMinigun.label>зробити лазерний мініган</Make_VWEL_Gun_LaserMinigun.label>
+  <Make_VWEL_Gun_LaserMinigun.description>зробити лазерний мініган.</Make_VWEL_Gun_LaserMinigun.description>
+  <Make_VWEL_Gun_LaserMinigun.jobString>Виготовляє лазерний мініган</Make_VWEL_Gun_LaserMinigun.jobString>
+
+  <Make_VWEL_Gun_TeslaGun.label>зробити гармату Тесли</Make_VWEL_Gun_TeslaGun.label>
+  <Make_VWEL_Gun_TeslaGun.description>зробити гармату Тесли.</Make_VWEL_Gun_TeslaGun.description>
+  <Make_VWEL_Gun_TeslaGun.jobString>Виготовляє гармату Тесли</Make_VWEL_Gun_TeslaGun.jobString>
+</LanguageData>

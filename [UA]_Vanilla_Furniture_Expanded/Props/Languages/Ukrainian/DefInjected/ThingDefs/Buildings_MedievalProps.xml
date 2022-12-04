@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_Anvil.label>ковадло</VFEPD_Anvil.label>
+    <VFEPD_Anvil.description>Важке ковадло для кузні.</VFEPD_Anvil.description>
+
+    <VFEPD_ArmorStandEmpty.label>стенд для броні (поржній)</VFEPD_ArmorStandEmpty.label>
+    <VFEPD_ArmorStandEmpty.description>Підставка для броні.</VFEPD_ArmorStandEmpty.description>
+
+    <VFEPD_ArmorStandFull.label>стенд для броні </VFEPD_ArmorStandFull.label>
+    <VFEPD_ArmorStandFull.description>Підставка для броні.</VFEPD_ArmorStandFull.description>
+
+    <VFEPD_ArrowCage.label>металевий кошик (стріли)</VFEPD_ArrowCage.label>
+    <VFEPD_ArrowCage.description>Металевий кошик для стріл.</VFEPD_ArrowCage.description>
+
+    <VFEPD_Banner.label>стяг</VFEPD_Banner.label>
+    <VFEPD_Banner.description>Декоративний стяг на дерев'яній рамі.</VFEPD_Banner.description>
+
+    <VFEPD_BrazierEmpty.label>жаровня (поржня)</VFEPD_BrazierEmpty.label>
+    <VFEPD_BrazierEmpty.description>Мебель в форме чаши, используемая для тушения огня.</VFEPD_BrazierEmpty.description>
+
+    <VFEPD_BucketEmpty.label>відро (поржнє)</VFEPD_BucketEmpty.label>
+    <VFEPD_BucketEmpty.description>Дерев'яне відро.</VFEPD_BucketEmpty.description>
+
+    <VFEPD_BucketwithWater.label>відро з водою</VFEPD_BucketwithWater.label>
+    <VFEPD_BucketwithWater.description>Дерев'яне відро, наповнене водою.</VFEPD_BucketwithWater.description>
+
+    <VFEPD_CageBrazier.label>металевий кошик (поржній)</VFEPD_CageBrazier.label>
+    <VFEPD_CageBrazier.description>Металевий кошик для стріл.</VFEPD_CageBrazier.description>
+
+    <VFEPD_WoodenChest.label>дерев'яна скриня</VFEPD_WoodenChest.label>
+    <VFEPD_WoodenChest.description>Дерев'яна скриня.</VFEPD_WoodenChest.description>
+
+    <VFEPD_WoodenChestLarge.label>дерев'яна скриня (велика)</VFEPD_WoodenChestLarge.label>
+    <VFEPD_WoodenChestLarge.description>Велика дерев'яна скриня.</VFEPD_WoodenChestLarge.description>
+
+    <VFEPD_WeaponRackEmpty.label>стенд для зброї (поржній)</VFEPD_WeaponRackEmpty.label>
+    <VFEPD_WeaponRackEmpty.description>Підставка для зброї.</VFEPD_WeaponRackEmpty.description>
+
+    <VFEPD_WeaponRackSwords.label>стенд для зброї (мечі)</VFEPD_WeaponRackSwords.label>
+    <VFEPD_WeaponRackSwords.description>Підставка для зброї.</VFEPD_WeaponRackSwords.description>
+
+    <VFEPD_WeaponRackSpears.label>стенд для зброї (списи)</VFEPD_WeaponRackSpears.label>
+    <VFEPD_WeaponRackSpears.description>Підставка для зброї.</VFEPD_WeaponRackSpears.description>
+
+    <VFEPD_WoodenSign.label>дерев'яний вказівник</VFEPD_WoodenSign.label>
+    <VFEPD_WoodenSign.description>Високий стовп зі знаками, що вказують у різні боки.</VFEPD_WoodenSign.description>
+
+    <VFEPD_TanningRack.label>стійка для дублення</VFEPD_TanningRack.label>
+    <VFEPD_TanningRack.description>Стійка для дублення з закріпленою на ній шкірою.</VFEPD_TanningRack.description>
+
+    <VFEPD_WoodenPlatform.label>дерев'яна платформа</VFEPD_WoodenPlatform.label>
+    <VFEPD_WoodenPlatform.description>Дерев'яна платформа, якою можна ходити.</VFEPD_WoodenPlatform.description>
+
+    <VFEPD_CagePlatform.label>сталева решітка</VFEPD_CagePlatform.label>
+    <VFEPD_CagePlatform.description>Платформа-решітка, якою можна ходити.</VFEPD_CagePlatform.description>
+
+
+</LanguageData>

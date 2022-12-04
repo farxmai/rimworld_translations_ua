@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrink.label>енергетик</VBE_EnergyDrink.label>
+  <VBE_EnergyDrink.description>Кислий та газований напій з відтінком гіркоти. Комбінація цукру і кофеїну означає разючий приплив енергії спочатку, але з наступною разючою втомою пізніше.</VBE_EnergyDrink.description>
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Випити {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <VBE_EnergyDrink.ingestible.ingestReportString>п'є {0}</VBE_EnergyDrink.ingestible.ingestReportString>
+
+
+</LanguageData>

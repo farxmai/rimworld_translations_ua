@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DBHMosaicTile.label>мозаїчна плитка</DBHMosaicTile.label>
+  <DBHMosaicTile.description>Сталева плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicTile.description>
+
+  <DBHMosaicSandstone.label>мозаїчна плитка з пісковику</DBHMosaicSandstone.label>
+  <DBHMosaicSandstone.description>Ретельно вирізана та підігнана кам'яна плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicSandstone.description>
+
+  <DBHMosaicGranite.label>мозаїчна плитка з граніту</DBHMosaicGranite.label>
+  <DBHMosaicGranite.description>Ретельно вирізана та підігнана кам'яна плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicGranite.description>
+
+  <DBHMosaicLimestone.label>мозаїчна плитка з вапняку</DBHMosaicLimestone.label>
+  <DBHMosaicLimestone.description>Ретельно вирізана та підігнана кам'яна плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicLimestone.description>
+
+  <DBHMosaicSlate.label>мозаїчна плитка зі сланцю</DBHMosaicSlate.label>
+  <DBHMosaicSlate.description>Ретельно вирізана та підігнана кам'яна плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicSlate.description>
+
+  <DBHMosaicMarble.label>мозаїчна плитка з мармуру</DBHMosaicMarble.label>
+  <DBHMosaicMarble.description>Ретельно вирізана та підігнана кам'яна плитка в мозаїчному візерунку, стильована для ванних кімнат або кухонь.</DBHMosaicMarble.description>
+
+
+</LanguageData>

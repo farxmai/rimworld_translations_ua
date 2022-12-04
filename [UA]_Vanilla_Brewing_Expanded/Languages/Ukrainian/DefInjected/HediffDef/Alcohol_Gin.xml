@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_GinHigh.label>під джином</VBE_GinHigh.label>
+  <VBE_GinHigh.description>Випив(ла) джин. Підвищує соціальний вплив.</VBE_GinHigh.description>
+  <VBE_GinHigh.stages.0.label>на підпитку</VBE_GinHigh.stages.0.label>
+  <VBE_GinHigh.stages.1.label>захмелілий</VBE_GinHigh.stages.1.label>
+  <VBE_GinHigh.stages.2.label>налиганий</VBE_GinHigh.stages.2.label>
+  <VBE_GinHigh.stages.3.label>лика не в'яже</VBE_GinHigh.stages.3.label>
+  <VBE_GinHigh.stages.4.label>у відключці</VBE_GinHigh.stages.4.label>
+  <VBE_GinHigh.labelNoun>під джином</VBE_GinHigh.labelNoun>
+
+
+</LanguageData>

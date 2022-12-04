@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCEF_Fisherman.degreeDatas.0.label>завзятий рибалка</VCEF_Fisherman.degreeDatas.0.label>
+  <VCEF_Fisherman.degreeDatas.0.description>Проводити час за рибалкою дуже заспокійливо для {PAWN_nameDef}. {PAWN_pronoun} отримуватиме бонус до настрою кожного разу, коли з'явиться можливість порибалити.</VCEF_Fisherman.degreeDatas.0.description>
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 5 -->
+
+  <!-- EN: gestalt -->
+  <VME_Gestalt.label>унітаризм</VME_Gestalt.label>
+  <!-- EN: There shouldn't even be such a thing as individualism. Будучи діючим в достатній synchrony, наші люди будуть більше, ніж сума своїх частин. -->
+  <VME_Gestalt.description>Саме існування індивідуалізму є неприпустимим. Тільки діючи абсолютно синхронно, наше суспільство стане чимось більшим, ніж просто сума складових частин.</VME_Gestalt.description>
+
+  <VME_Gestalt.generalRules.rulesStrings>
+    <li>memeAdjective->єдиний</li>
+    <li>memeAdjective->об'єднаний</li>
+    <li>memeAdjective->однодумний</li>
+    <li>memeAdjective->поєднаний</li>
+    <li>memeAdjective->сукупний</li>
+    <li>memeCreed->колектив</li>
+    <li>memeCreed->вулик</li>
+    <li>memeConcept->загальний</li>
+    <li>memeLeaderNoun->всеєднувач</li>
+    <li>memeLeaderNoun->роїв</li>
+  </VME_Gestalt.generalRules.rulesStrings>
+
+  <VME_Gestalt.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Gestalt) ->[deity0_name] перетворив усіх чоловіків і жінок на єдину свідомість, і тільки через нашу дурість ми розділилися.</li>
+    <li>episode(uses=1,tag=meme_Gestalt) ->[deity0_name] сказав усім: "Єдина межа, яка будь-коли існувала - це індивідуальність. Сказало [deity0_name]".</li>
+    <li>intro(tag=meme_Gestalt) ->Люди [place_summary] [place_name00] працювали разом в унісон, і побудували чудовий [altarName] щоб віддати честь [deity0_name]. Вони дізналися, що вся свідомість єдина, розділена лише тонкою завісою фізичного світу.</li>
+    <li>conflict(tag=meme_Gestalt) ->[foeLeader] не змирився з єдністю [memberNamePlural], і послав [foeLeader_possessive] [foeSoldiers] до [place_community] щоб знищити нашу колективну свідомість.</li>
+    <li>founderJoin(tag=meme_Gestalt) ->[place_job] на ім'я [founderName] пригнув [founder_objective] у вогонь, щоб висловити протест [foeLeader]. [founderName] згорів живцем у полум'ї, але це не мало значення, бо він був лише гвинтиком у вічному механізмі, яким є [memberNamePlural].</li>
+    <li>victory(tag=meme_Gestalt) ->Дії [founderName] об'єднали людей. Діючи як єдиний організм, вони увірвалися до будинку [foeLeader]. [foeSoldiers] нічого не змогли зробити проти ідеального механізму, і [foeLeader] був безжально вбитий.</li>
+    <li>setup(tag=meme_Gestalt) ->У світі, де кожен сам за себе, [founderName] говорив одну істину: "Ви не окремі люди, ви - частина великого організму."</li>
+    <li>story(uses=1,tag=meme_Gestalt) ->[founderName] Навчили нас простягати свою свідомість назовні, за межі тілесної оболонки, усвідомлювати існування "Я" як групи та "Я" як усього людства. Цілі, які ставить перед собою група і вся раса цілком - знаходяться за межами звичайного розуміння і досягти їх - означає досягти просвітлення.</li>
+    <li>lessonIntro(tag=meme_Gestalt) ->Вони були вражені єдністю наших думок. Я пояснив їм, що немає нічого важливішого, ніж</li>
+    <li>lesson(tag=meme_Gestalt) ->гармонія мети та думки; ніякої нерішучості, жодних сумнівів; безпека та сила єдиної волі</li>
+    <li>lessonReinforcement(tag=meme_Gestalt) ->Нас багато, а ти... один. Як ви можете сподіватися нас перемогти?</li>
+    <li>archistBasis(tag=meme_Gestalt) ->Кожна думка і дія, кожна іскра інтелекту в Архотеках пов'язана і взаємопов'язана в єдиний розум, в єдину велику сутність, що тягнеться на світлові роки простору.</li>
+    <li>archistFact(tag=meme_Gestalt) ->Багаторазово втілена свідомість. Всі вони лише один вузол розподіленої мережі.</li>
+    <li>archistProphecy(tag=meme_Gestalt) ->[inTheEnd], можливо, ми ніколи не наблизимося до досконалості, досягнутої ними, будучи скутими нашими тілами з плоті, але ми, звичайно, намагатимемося.</li>
+    <li>animistFact(tag=meme_Gestalt) ->Саме людство представлене єдиним, всепоглинаючим духом, і лише звільнившись від своєї індивідуальності, ми зможемо охопити його.</li>
+    <li>serketistProphecy(tag=meme_Gestalt)->[itIsSaid] ми можемо вивчати інсектоїдні вулики та наслідувати їх досконалість. Справжня синхронність, гармонія мети та думки; ніякої нерішучості, жодних сумнівів; безпека та сила єдиної волі.</li>
+    <li>chthonianProphecy(tag=meme_Gestalt)->Тільки об'єднавши наші уми в гармонію мети та думки, без нерішучості, без сумнівів, у нас буде шанс протистояти безумству, яке переслідує нас із космосу..</li>
+    <li>esotericismProphecy(tag=meme_Gestalt)->Ми об'єднаємо наші уми в гармонію мети та думки; ніякої нерішучості, жодних сумнівів. Таємне знання буде нашим.</li>
+    <li>eschatologismFact(tag=meme_Gestalt)->Ми об'єднаємо наші уми в гармонію мети та думки; ніякої нерішучості, жодних сумнівів. Єдина ціль, єдина воля: знищувати.</li>
+    <li>introMemo(tag=meme_Gestalt)->Ходять неприємні чутки про премію "за вдячність співробітникам". Дозвольте мені нагадати вам, що в цій компанії ми діємо як єдине ціле. Ми прагнемо гармонії цілей і думок; ніякої нерішучості, жодних сумнівів; безпека та сила єдиної волі. Це те, чого хочуть наші клієнти, це те, чого наші клієнти БАЖАЮТЬ.</li>
+    <li>alienistProphecy(tag=meme_Gestalt)->Якщо нам доведеться судити про те, хороші чи погані всі ці генетично модифіковані твори, нам доведеться робити це разом.</li>
+  </VME_Gestalt.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: gestalt -->
+  <VME_Gestalt.symbolPacks.0.ideoName>Єдність</VME_Gestalt.symbolPacks.0.ideoName>
+  <!-- EN: hive mind -->
+  <VME_Gestalt.symbolPacks.0.theme>єдності</VME_Gestalt.symbolPacks.0.theme>
+  <!-- EN: gestalt -->
+  <VME_Gestalt.symbolPacks.0.adjective>єдиний</VME_Gestalt.symbolPacks.0.adjective>
+  <!-- EN: extension -->
+  <VME_Gestalt.symbolPacks.0.member>член</VME_Gestalt.symbolPacks.0.member>
+
+</LanguageData>

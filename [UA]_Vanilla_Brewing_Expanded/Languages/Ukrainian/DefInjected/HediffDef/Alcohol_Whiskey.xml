@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WhiskeyHigh.label>під віскі</VBE_WhiskeyHigh.label>
+  <VBE_WhiskeyHigh.description>Випив(а) віскі. Збільшує загальну швидкість роботи на 15%.</VBE_WhiskeyHigh.description>
+  <VBE_WhiskeyHigh.labelNoun>під віскі</VBE_WhiskeyHigh.labelNoun>
+
+  <VBE_DoubleWhiskeyHigh.label>під віскі подвійної витримки</VBE_DoubleWhiskeyHigh.label>
+  <VBE_DoubleWhiskeyHigh.description>Випив(а) віскі подвійної витримки. Збільшує загальну швидкість роботи на 20% та покращює торгові ціни на 20%.</VBE_DoubleWhiskeyHigh.description>
+  <VBE_DoubleWhiskeyHigh.labelNoun>під віскі подвійної витримки</VBE_DoubleWhiskeyHigh.labelNoun>
+
+
+</LanguageData>

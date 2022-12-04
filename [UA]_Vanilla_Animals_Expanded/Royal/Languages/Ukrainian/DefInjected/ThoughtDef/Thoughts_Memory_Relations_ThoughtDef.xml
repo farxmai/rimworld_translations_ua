@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAERoy_TutorDied.stages.0.label>орунгутан {0} помер</VAERoy_TutorDied.stages.0.label>
+  <VAERoy_TutorDied.stages.0.description>Цей милий орунгутан багато чого мене навчив. Цей всесвіт несправедливий!</VAERoy_TutorDied.stages.0.description>
+  <VAERoy_TutorLost.stages.0.label>орунгутана {0} втрачено</VAERoy_TutorLost.stages.0.label>
+  <VAERoy_TutorLost.stages.0.description>Цей милий орунгутан багато чого мене навчив. Цей всесвіт несправедливий!</VAERoy_TutorLost.stages.0.description>
+  <VAERoy_TutorKilled.stages.0.label>вбито мого вчителя</VAERoy_TutorKilled.stages.0.label>
+
+</LanguageData>

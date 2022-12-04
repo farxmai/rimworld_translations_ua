@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Extract 150 chemfuel -->
+  <VCHE_ExtractChemfuel>Вилучити 150 хімпалива</VCHE_ExtractChemfuel>
+  <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractChemfuelDesc>Вилучити 150 хімпалива з цистерни. Ваш колоніст для цього у вас має бути колоніст призначений на просту роботу.</VCHE_ExtractChemfuelDesc>
+
+  <!-- EN: Extract 150 deepchem -->
+  <VCHE_ExtractDeepchem>Вилучити 150 глибопалива</VCHE_ExtractDeepchem>
+  <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractDeepchemDesc>Вилучити 150 глибопалива з цистерни. Ваш колоніст для цього у вас має бути колоніст призначений на просту роботу.</VCHE_ExtractDeepchemDesc>
+
+  <!-- EN: Can’t refine: Tanks are full -->
+  <VCHE_CantRefine>Перегонка недоступна: цистерни заповнені</VCHE_CantRefine>
+  <!-- EN: Can’t pump: Tanks are full -->
+  <VCHE_CantPump>Закачування недоступне: цистерни заповнені</VCHE_CantPump>
+
+  <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
+  <VCHE_CantPlaceHere>Насос глибинного палива має бути розміщений на родовищі глибинного палива. Скористайтеся глибинним сканером для виявлення.</VCHE_CantPlaceHere>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemValve>вентиль хімпалива</VCHE_ChemValve>
+  <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_ChemValveDesc>Відкриває чи перекриває потік палива.</VCHE_ChemValveDesc>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepChemValve>вентиль глибопалива</VCHE_DeepChemValve>
+  <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_DeepChemValveDesc>Відкриває чи перекриває потік палива.</VCHE_DeepChemValveDesc>
+</LanguageData>

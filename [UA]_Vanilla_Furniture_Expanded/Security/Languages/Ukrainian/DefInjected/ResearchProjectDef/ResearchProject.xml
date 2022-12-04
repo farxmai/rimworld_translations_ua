@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_SiegeEquipment.label>облогові знаряддя</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Дослідження створення середньовічних облогових знарядь.</VFES_SiegeEquipment.description>
+
+  <VFES_TrenchWarfare.label>окопна війна</VFES_TrenchWarfare.label>
+  <VFES_TrenchWarfare.description>Дослідження доктрини ведення позиційних боїв із можливістю створювати окопи.</VFES_TrenchWarfare.description>
+
+  <VFES_Artillery.label>артилерія</VFES_Artillery.label>
+  <VFES_Artillery.description>Дослідження створення польової артилерійської установки, здатної обстрілювати віддалені цілі на світовій карті у певному радіусі.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>сторожові знаряддя</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Дослідження створення сторожових знарядь для використання у польових умовах.</VFES_SentryGuns.description>
+
+  <VFES_MetalAlloysBarricades.label>металеві барикади</VFES_MetalAlloysBarricades.label>
+  <VFES_MetalAlloysBarricades.description>Дослідження створення армованих металевих барикад.</VFES_MetalAlloysBarricades.description>
+
+  <VFES_ConcealedDefenses.label>прихований захист</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Дослідження створення підповерхневих турелей, що ідеально підходять для внутрішнього захисту.</VFES_ConcealedDefenses.description>
+
+  <VFES_MissileBarrage.label>ракетна турель</VFES_MissileBarrage.label>
+  <VFES_MissileBarrage.description>Дослідження створення ракетної установки класу "земля-земля".</VFES_MissileBarrage.description>
+
+  <VFES_PulseChargedDefenses.label>енергозахист</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Дослідження створення просунутих захисних енергоустановок.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>рельсотрони</VFES_Railgun.label>
+  <VFES_Railgun.description>Дослідження адаптації озброєння космічних кораблів у частину своєї системи безпеки.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>ЕМІ-гармата</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Дослідження створення ЕМІ-гармати, корисної по всій галактиці завдяки здатності приголомшувати механоїдів.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>репульсорна технологія</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Дослідження створення генераторів щита, які випромінюють енергетичні поля, здатні відбивати снаряди.</VFES_RepulsorTechnology.description>
+
+</LanguageData>

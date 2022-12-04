@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 6 -->
+
+  <!-- EN: fleshcrafting -->
+  <VME_Fleshcrafters.label>культ плоті</VME_Fleshcrafters.label>
+  <!-- EN: Technology should be shunned, unless it serves the flesh. Тільки через extreme biological experimentation можуть бути unlock нашим високим потенціалом. -->
+  <VME_Fleshcrafters.description>Слід уникати технологій, якщо вони не служать плоті. Тільки за допомогою екстремальних біологічних експериментів ми можемо звільнити наш прихований потенціал.</VME_Fleshcrafters.description>
+
+  <VME_Fleshcrafters.generalRules.rulesStrings>
+    <li>memeAdjective->біотехнологічний</li>
+    <li>memeAdjective->неприродний</li>
+    <li>memeAdjective->органічний</li>
+    <li>memeAdjective->плотерімісний</li>
+    <li>memeAdjective->мутаційний</li>
+    <li>memeCreed->модифікизм</li>
+    <li>memeCreed->мутизм</li>
+    <li>memeHyphenPrefix->біо</li>
+    <li>memeHyphenPrefix->біомехо</li>
+    <li>memeConcept->аугментації</li>
+    <li>memeLeaderNoun->плотеформер</li>
+    <li>memeLeaderNoun->супермутант</li>
+    <li>memeLeaderNoun->формер</li>
+    <li>memeLeaderAdjective->біо</li>
+    <li>memeMoralist->робитель</li>
+    <li>memeMoralist->мутатор</li>
+  </VME_Fleshcrafters.generalRules.rulesStrings>
+
+  <VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Fleshcrafting) ->[deity0_name] дарував нам знання про створення плоті, щоб ми могли використовувати його для покращення себе в спосіб удосконалення [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Fleshcrafting) ->Людські біо-формувачі вивчали роботи [deity0_name], які радували [deity0_objective].</li>
+    <li>intro(tag=meme_Fleshcrafting) ->На [place_summary] [place_name] [memberNamePlural] знайшов слова про [deity0_name], вирізані на плоті незвіданої гігантської космічної істоти, що мутувала.</li>
+    <li>conflict(tag=meme_Fleshcrafting) ->Технологічне поневіряння [foeLeader] заздрив прогресу [memberNamePlural], і [foeLeader_possessive] [foeSoldiers] і знищив чани з плоттю [place_personalWeapon].</li>
+    <li>founderJoin(tag=meme_Fleshcrafting) ->Хитрий [place_job] на ім'я [founderName] модифікував шляхом мутації [founder_possessive] голосові зв'язки, щоб попередити [memberNamePlural] підходу [foeSoldiers].</li>
+    <li>victoriy(tag=meme_Fleshcrafting) ->[founderName] отриманий divine fleshcrafting знання з [deity0_name], і використовується для розширення bodів і думок про [memberNamePlural] про наближення [foeSoldiers].</li>
+    <li>setup(tag=meme_Fleshcrafting) ->[founderName] Був біо-науковцем під час, коли люди починали колонізувати планети. Побачивши абсурдні для нього етичні обмеження звичайних колоній, [founder_pronoun] сів на невеликий корабель, щоб заснувати [founder_possessive] власний рух.</li>
+    <li>story(uses=1,tag=meme_Fleshcrafting) ->[founderName] зібрав команду великих майстрів плоті та генетиків, щоб заново створити людство.</li>
+    <li>lessonIntro(tag=meme_Fleshcrafting) ->Найстаріший закрійник у моєму підрозділі розповідав мені про історію створення плоті, про те, як генетичні експерименти над людьми завжди сприймалися з побоюванням, але не це було його справжнім уроком. Насправді він підводив мене до розуміння того, що </li>
+    <li>lesson(tag=meme_Fleshcrafting) ->плоть людства - це лише полотно. Порожнє, біле полотно, яке чекає, коли його заповнять</li>
+    <li>lessonReinforcement(tag=meme_Fleshcrafting) ->І будь-які обмеження, що накладаються на художника, тільки псують кінцевий результат його творчості.</li>
+    <li>archistBasis(tag=meme_Fleshcrafting) ->Прагнення людства до технологій породило всемогутніх архотеків як наступний крок у розвитку свідомості.</li>
+    <li>archistFact(tag=meme_Fleshcrafting) ->Створення плоті вчить нас, що технологія сама по собі нелюдська, якщо її не супроводжує напрямна рука біологічної еволюції.</li>
+    <li>archistProphecy(tag=meme_Fleshcrafting) ->[inTheEnd], ми змінимо наші власні тіла та з'єднаємо їх з архотеками.</li>
+    <li>animistBasis(tag=meme_Fleshcrafting) ->Світ духу керує всіма діями у Всесвіті, і смертна плоть - лише один його прояв.</li>
+    <li>animistFact(tag=meme_Fleshcrafting) ->Ми будемо вдосконалювати свої тіла до тих пір, поки вони не стануть придатною посудиною для духів.</li>
+    <li>animistFact(tag=meme_Fleshcrafting) ->Коли духи зливаються з нашою плоттю, обидва об'єднуються і стають сильнішими.</li>
+    <li>animistProphecy(tag=meme_Fleshcrafting) ->[itIsSaid] що одного разу володар [relic0_name]викличе її дух, який навчить людство вищому дару, створення плоті.</li>
+    <li>serketistProphecy(tag=meme_Fleshcrafting)->[itIsSaid] За допомогою відповідної технології ми зможемо сформувати наші тіла, як у комах. Жорсткі й незмінні, наші нові строчучі форми будуть настільки близькі до досконалості, наскільки це можливо.</li>
+    <li>chthonianProphecy(tag=meme_Fleshcrafting)->Наші людські тіла не зможуть протистояти космічному безумству, принесеному цими сутностями: ми повинні надати нашим тілам форму, яка буде здатна протистояти їх натиску.</li>
+    <li>esotericismProphecy(tag=meme_Fleshcrafting)->Формуючи своє тіло, ми отримаємо безцінне уявлення про таємниці Космосу.</li>
+    <li>eschatologismFact(tag=meme_Fleshcrafting)->Ми формуватимемо наші тіла, надаючи їм кошмарні форми, які принесуть із собою кінець всього сущого.</li>
+    <li>introMemo(tag=meme_Fleshcrafting)->Політика компанії щодо членошкідництва та тілесних втіх гранично ясна: якщо це допомагає прибутку, то вперед. Тільки, будь ласка, приберіть кімнату для нарад.</li>
+    <li>alienistProphecy(tag=meme_Fleshcrafting)->Всі ці заблукалі твори людства дають нам нескінченне достаток плоті для наших експериментів.</li>
+  </VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Biotechnologism -->
+  <VME_Fleshcrafters.symbolPacks.0.ideoName>Біотехнологізм</VME_Fleshcrafters.symbolPacks.0.ideoName>
+  <!-- EN: biotechnology -->
+  <VME_Fleshcrafters.symbolPacks.0.theme>біотехнології</VME_Fleshcrafters.symbolPacks.0.theme>
+  <!-- EN: biotechnologistic -->
+  <VME_Fleshcrafters.symbolPacks.0.adjective>біотехнологічний</VME_Fleshcrafters.symbolPacks.0.adjective>
+  <!-- EN: biotechnologist -->
+  <VME_Fleshcrafters.symbolPacks.0.member>біотехнік</VME_Fleshcrafters.symbolPacks.0.member>
+
+  <!-- EN: Fleshcrafting -->
+  <VME_Fleshcrafters.symbolPacks.1.ideoName>Ремесло плоті</VME_Fleshcrafters.symbolPacks.1.ideoName>
+  <!-- EN: fleshcrafting -->
+  <VME_Fleshcrafters.symbolPacks.1.theme>ремесла плоті</VME_Fleshcrafters.symbolPacks.1.theme>
+  <!-- EN: fleshcrafter -->
+  <VME_Fleshcrafters.symbolPacks.1.adjective>плотерімісний</VME_Fleshcrafters.symbolPacks.1.adjective>
+  <!-- EN: fleshcrafter -->
+  <VME_Fleshcrafters.symbolPacks.1.member>ремісник плоті</VME_Fleshcrafters.symbolPacks.1.member>
+
+  <!-- EN: Shaping -->
+  <VME_Fleshcrafters.symbolPacks.2.ideoName>Біоформінг</VME_Fleshcrafters.symbolPacks.2.ideoName>
+  <!-- EN: shaping -->
+  <VME_Fleshcrafters.symbolPacks.2.theme>біоформінгу</VME_Fleshcrafters.symbolPacks.2.theme>
+  <!-- EN: shaping -->
+  <VME_Fleshcrafters.symbolPacks.2.adjective>біоформний</VME_Fleshcrafters.symbolPacks.2.adjective>
+  <!-- EN: shaper -->
+  <VME_Fleshcrafters.symbolPacks.2.member>біоформ</VME_Fleshcrafters.symbolPacks.2.member>
+
+</LanguageData>

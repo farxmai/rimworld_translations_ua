@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <VCE_RawOnion.label>цибуля</VCE_RawOnion.label>
+    <VCE_RawOnion.description>Їстівна цибулина різкого, пікантного смаку та запаху. Має майже стільки різновидів, як і способів приготування.</VCE_RawOnion.description>
+
+    <VCE_RawPumpkin.label>гарбузи</VCE_RawPumpkin.label>
+    <VCE_RawPumpkin.description>Технічно це гігантська ягода. Гарбуз відомий тим, що простий для посіву і для збирання врожаю.</VCE_RawPumpkin.description>
+
+    <VCE_RawPepper.label>перці</VCE_RawPepper.label>
+    <VCE_RawPepper.description>Маленькі, гострі, червоні стручки часто використовують у соусах, приправах чи порошках. У той час як сам смак негострий, капсаїцин, що міститься всередині, дивним чином викликає звикання у людей, незважаючи на те, що спричиняє біль при рясному споживанні. Тварини абсолютно уникають їсти цю рослину.</VCE_RawPepper.description>
+
+    <VCE_RawPeas.label>горох</VCE_RawPeas.label>
+    <VCE_RawPeas.description>Кругле зелене насіння, надійно заховане в товстому стручці. Горох відрізняється тривалим терміном зберігання, якщо правильно висушений.</VCE_RawPeas.description>
+
+    <VCE_RawEggplant.label>баклажани</VCE_RawEggplant.label>
+    <VCE_RawEggplant.description>Цибулинний пурпуровий плід сімейства пасльонових. Баклажани рідко подають як гарнір, зазвичай вони виконують роль основного компонента страви замість м'яса.</VCE_RawEggplant.description>
+
+    <VCE_RawCabbage.label>капуста</VCE_RawCabbage.label>
+    <VCE_RawCabbage.description>Досить витривалий, покритий листям зелений овоч. Часто нарізають для подальшого квашення чи гасіння.</VCE_RawCabbage.description>
+
+    <VCE_RawBeets.label>буряк</VCE_RawBeets.label>
+    <VCE_RawBeets.description>Трав'янистий овоч, що широко культивується для людей і худоби, особливо поживний і з давніх-давен використовується у виробництві барвників.</VCE_RawBeets.description>
+
+    <VCE_RawTomatoes.label>томати</VCE_RawTomatoes.label>
+    <VCE_RawTomatoes.description>Ряд соковитих, гладких червоних плодів, прикріплених до лози, які зазвичай використовуються як овочева культура. Сильне гасіння вивільняє природні цукру і пом'якшує кислоти, що містяться в них.</VCE_RawTomatoes.description>
+</LanguageData>

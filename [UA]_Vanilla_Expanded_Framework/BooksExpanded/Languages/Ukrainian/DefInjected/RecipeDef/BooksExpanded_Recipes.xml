@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VanillaBooksExpandedExpanded_BurnBooks.label>спалювати літературу</VanillaBooksExpandedExpanded_BurnBooks.label>
+  <VanillaBooksExpandedExpanded_BurnBooks.description>Спалювати непотрібну літературу щоб повністю її позбутись.</VanillaBooksExpandedExpanded_BurnBooks.description>
+  <VanillaBooksExpandedExpanded_BurnBooks.jobString>спалює літературу</VanillaBooksExpandedExpanded_BurnBooks.jobString>
+
+  <VanillaBooksExpandedExpanded_PrintCopiedBook.label>копіювати літературу</VanillaBooksExpandedExpanded_PrintCopiedBook.label>
+  <VanillaBooksExpandedExpanded_PrintCopiedBook.description>Використати друкарський верстат щоб зробити копію книжки.</VanillaBooksExpandedExpanded_PrintCopiedBook.description>
+  <VanillaBooksExpandedExpanded_PrintCopiedBook.jobString>копіює літературу</VanillaBooksExpandedExpanded_PrintCopiedBook.jobString>
+
+  <VanillaBooksExpandedExpanded_PrintCopiedBookFewest.label>копіювати літературу з найменшим тиражем</VanillaBooksExpandedExpanded_PrintCopiedBookFewest.label>
+  <VanillaBooksExpandedExpanded_PrintCopiedBookFewest.description>Використати друкарський верстат щоб зробити копію книжки, екземплярів якої в колонії менше ніж інших.</VanillaBooksExpandedExpanded_PrintCopiedBookFewest.description>
+  <VanillaBooksExpandedExpanded_PrintCopiedBookFewest.jobString>копіює літературу</VanillaBooksExpandedExpanded_PrintCopiedBookFewest.jobString>
+
+  <Make_VanillaBooksExpandedExpanded_IdeoligionBook.label>написати ідеологічний текст</Make_VanillaBooksExpandedExpanded_IdeoligionBook.label>
+  <Make_VanillaBooksExpandedExpanded_IdeoligionBook.description>Написати ідеологічний текст.</Make_VanillaBooksExpandedExpanded_IdeoligionBook.description>
+  <Make_VanillaBooksExpandedExpanded_IdeoligionBook.jobString>пише ідеологічний текст</Make_VanillaBooksExpandedExpanded_IdeoligionBook.jobString>
+
+</LanguageData>

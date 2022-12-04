@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_SmallVanometricPowerCell.label>малий ванометричний генератор</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>Продукує невелику кількість електроенергії, завжди, без використання палива. Ця технологія доступна лише архотекам, і люди навіть у найутопічніших світах не змогли розробити нічого подібного. Нікому точно не відомий принцип роботи цих генераторів. Деякі вчені вважають, що вони якимось чином витягують енергію безпосередньо з флуктуацій квантової піни.</VFE_SmallVanometricPowerCell.description>
+
+  <VFE_LargeVanometricPowerCell.label>великий ванометричний генератор</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>Продукує велику кількість електроенергії, завжди, без використання палива. Ця технологія доступна лише архотекам, і люди навіть у найутопічніших світах не змогли розробити нічого подібного. Нікому точно не відомий принцип роботи цих генераторів. Деякі вчені вважають, що вони якимось чином витягують енергію безпосередньо з флуктуацій квантової піни.</VFE_LargeVanometricPowerCell.description>
+
+  <VPE_ArchotechViolenceGenerator.label>архотек-генератор</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>Цей пристрій використовує психічну енергію, витягуючи її з тіл навколишніх гуманоїдів, і перетворюючи її безпосередньо на корисну енергію. Ця технологія доступна лише архотекам, і люди навіть у найутопічніших світах не змогли розробити нічого подібного.</VPE_ArchotechViolenceGenerator.description>
+
+</LanguageData>

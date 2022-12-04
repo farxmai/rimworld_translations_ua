@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_ComponentFabricationBench.label>складальний верстат</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Верстат, обладнаний просунутими інструментами для збирання компонентів.</VFE_ComponentFabricationBench.description>
+
+  <VFE_TableButcherElectric.label>електричний стіл м'ясника</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Обробний стіл з дисковою пилкою для швидкого розбирання мертвих істот на шматки сирого м'яса та шкіру. Споживає багато енергії.</VFE_TableButcherElectric.description>
+
+  <VFE_TableDrugLabElectric.label>електрична хімічна лабораторія</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Просунутий робочий стіл, оснащений різними ємностями, нагрівачами та вимірювачами для виготовлення різних видів препаратів та наркотиків. Споживає багато енергії.</VFE_TableDrugLabElectric.description>
+
+  <VFE_FueledSmelter.label>дров'яна плавильня</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Витягує метал із шматків металобрухту та інших предметів, які можуть містити метал. Потребує дерева як паливо.</VFE_FueledSmelter.description>
+
+  <VFE_TableStonecutterElectric.label>електричний стіл каменяра</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Просунутий робочий стіл оснащений електропилами для різання шматків породи на кам'яні блоки. Споживає багато енергії.</VFE_TableStonecutterElectric.description>
+
+</LanguageData>

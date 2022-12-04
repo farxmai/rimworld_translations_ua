@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndustrialProps.label>індустріальні декорації</IndustrialProps.label>
+  <IndustrialProps.description>Створюйте індустріальні декорації.</IndustrialProps.description>
+
+  <VehicleProps.label>транспортні декорації</VehicleProps.label>
+  <VehicleProps.description>Створюйте декоративні автівки та ігші атрибути дорожньо-транспортного руху.</VehicleProps.description>
+
+  <PlantProps.label>садові декорації</PlantProps.label>
+  <PlantProps.description>Створюйте декоративні дерева, кущі та квіти. Ці споруди не вважаються рослинами.</PlantProps.description>
+
+  <MedievalProps.label>середньовічні декорації</MedievalProps.label>
+  <MedievalProps.description>Створюйте середньовічні декорації.</MedievalProps.description>
+
+  <FarmProps.label>фермерські декорації</FarmProps.label>
+  <FarmProps.description>Створюйте фермерські декорації.</FarmProps.description>
+
+  <PowerProps.label>енергетичні декорації</PowerProps.label>
+  <PowerProps.description>Створюйте декорації для енергетичої інфраструктури.</PowerProps.description>
+
+  <KitchenProps.label>кухонні декорації</KitchenProps.label>
+  <KitchenProps.description>Створюйте кухонні декорації.</KitchenProps.description>
+
+  <DecalsProps.label>підлогові позначки</DecalsProps.label>
+  <DecalsProps.description>Створюйте позначки на підлогах для прикрашання приміщень та розмітки.</DecalsProps.description>
+
+  <FurnitureProps.label>декоративні меблі</FurnitureProps.label>
+  <FurnitureProps.description>Створюйте велику кількість простих декоративних споруд для прикрашання кімнат.</FurnitureProps.description>
+
+  <SpaceshipProps.label>декоративні шатли</SpaceshipProps.label>
+  <SpaceshipProps.description>Створюйте макети космічних шатлів та кораблів.</SpaceshipProps.description>
+
+  <SpacerProps.label>космічні декорації</SpacerProps.label>
+  <SpacerProps.description>Створюйте космічні декорації.</SpacerProps.description>
+
+</LanguageData>

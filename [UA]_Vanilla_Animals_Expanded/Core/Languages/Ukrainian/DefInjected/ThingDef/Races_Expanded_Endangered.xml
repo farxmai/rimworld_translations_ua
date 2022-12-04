@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Black-Footed Ferret -->
+
+  <AEXP_BlackFootedFerret.label>чорноногий хорек</AEXP_BlackFootedFerret.label>
+  <AEXP_BlackFootedFerret.description>Невеликий нічний представник сімейства віверових, що харчується дрібнішими, ніж він сам, тваринами. У нього довге тіло, жовтувато-коричневе хутро з чорною плямою на спині і чорна маска навколо очей.\n\n&lt;color=#33d733&gt;Статус вида в реальному світі:&lt;/color&gt; Знаходиться під загрозою зникнення. Чорноногі тхори - це ссавці, які перебувають під найбільшою загрозою зникнення в Північній Америці. У 1976 році вони вважалися замерлими. Невелика група була знову виявлена в 1981 році, виведена в неволі і з обережністю випущена на волю. Станом на 2020 рік менше 500 чорноногих тхорів живуть у дикій природі на 17 ділянках реінтродукції - їх населення значно нижче 3000, необхідних для відновлення виду.</AEXP_BlackFootedFerret.description>
+  <AEXP_BlackFootedFerret.tools.0.label>ліва лапа</AEXP_BlackFootedFerret.tools.0.label>
+  <AEXP_BlackFootedFerret.tools.1.label>права лапа</AEXP_BlackFootedFerret.tools.1.label>
+  <AEXP_BlackFootedFerret.tools.3.label>голова</AEXP_BlackFootedFerret.tools.3.label>
+  <AEXP_BlackFootedFerret.race.meatLabel>м'ясо чорноногого тхора</AEXP_BlackFootedFerret.race.meatLabel>
+
+
+  <!-- Black Rhino -->
+
+  <AEXP_BlackRhino.label>чорний носорог</AEXP_BlackRhino.label>
+  <AEXP_BlackRhino.description>Величезний травоїдний ссавець із темпераментним характером. Чорні носороги відрізняються від своїх білих родичів трохи меншими розмірами та формою губ. У чорного носорога загострена верхня губа, а білого - квадратна. Ця різниця пов'язана з раціоном тварин - чорні носороги добувають більшу частину свого харчування від чагарників. \n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Знаходиться під критичною загрозою зникнення. Три із семи підвидів чорних носорогів вимерли з 1850 року, а один перебуває на межі вимирання. Станом на 2020 рік завдяки постійним зусиллям програм збереження тварин в Африці чисельність чорного носорога зросла з 5366 до 5627 особин.</AEXP_BlackRhino.description>
+  <AEXP_BlackRhino.tools.0.label>ріг</AEXP_BlackRhino.tools.0.label>
+  <AEXP_BlackRhino.tools.1.label>ріг</AEXP_BlackRhino.tools.1.label>
+  <AEXP_BlackRhino.tools.3.label>голова</AEXP_BlackRhino.tools.3.label>
+
+
+  <!-- Bonobo -->
+
+  <AEXP_Bonobo.label>бонобо</AEXP_Bonobo.label>
+  <AEXP_Bonobo.description>Бонобо - велика обезьяна, меньший родственник шимпанзе с более круглим черепом и более плоским лицом. У бонобо более длинние ноги, более короткие руки и более узкое туловище. Бонобо демонстрируют совершенно иное социальное поведение, чем шимпанзе, с упором на миротворчество и секс, как инструмент для управления и снижения напряженности.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Знаходиться під загрозою зникнення. За останні 30 років популяція бістро скоротилася, але надійних оцінок поточного числа бонобо не існує. Їхньому середовищу в Демократичній Республіці Конго часто загрожує політична нестабільність.</AEXP_Bonobo.description>
+  <AEXP_Bonobo.tools.0.label>лівий кулак</AEXP_Bonobo.tools.0.label>
+  <AEXP_Bonobo.tools.1.label>правий кулак</AEXP_Bonobo.tools.1.label>
+  <AEXP_Bonobo.tools.3.label>голова</AEXP_Bonobo.tools.3.label>
+
+
+  <!-- Moa -->
+
+  <AEXP_Moa.label>моа</AEXP_Moa.label>
+  <AEXP_Moa.description>Дуже велика травоїдна нелітаюча птаха, що мешкає на островах Старої Землі в Новій Зеландії. У моа не було навіть рудиментарних крил, які є у всіх інших страусів. Моа живляться різними видами рослин і різними їх частинами, у тому числі волокнистими гілочками та листям, узятим з невисоких дерев та чагарників.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Нещодавно зникли. Моа були домінуючими травоїдними тваринами у Новій Зеландії до прибиття людей. Полінезійці прибили туди десь до 1300 року, і незабаром всі роди моа вимерли через полювання і, меншою мірою, через скорочення середи внаслідок вирубування лісів. До 1445 року всі моа вимерли.</AEXP_Moa.description>
+  <AEXP_Moa.tools.0.label>кігти</AEXP_Moa.tools.0.label>
+  <AEXP_Moa.tools.1.label>клюв</AEXP_Moa.tools.1.label>
+  <AEXP_Moa.tools.2.label>голова</AEXP_Moa.tools.2.label>
+
+
+  <!-- Panda -->
+
+  <AEXP_Panda.label>велика панда</AEXP_Panda.label>
+  <AEXP_Panda.description>Панда с характерним и пишним черно-белим мехом - энергичний ведмідь, приспособленний к жизни в бамбукових лесах. В среднем велика панда съедает от 9 до 14 кг побегов бамбука в день, чтоби компенсировать ограниченную энергетическую ценность своего рациона. Панди обично менее агрессивни, чем другие види медведей.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Вразливий. Число диких панд, нещодавно піднятих до статусу виду, що зникає (станом на 2020 рік), нарешті відновлюється після декількох років скорочення. Втрата серед проживання – головна загроза для них.</AEXP_Panda.description>
+  <AEXP_Panda.tools.0.label>ліва лапа</AEXP_Panda.tools.0.label>
+  <AEXP_Panda.tools.1.label>права лапа</AEXP_Panda.tools.1.label>
+  <AEXP_Panda.tools.3.label>голова</AEXP_Panda.tools.3.label>
+
+
+  <!-- Quagga -->
+
+  <AEXP_Quagga.label>квагга</AEXP_Quagga.label>
+  <AEXP_Quagga.description>Квагга – це підвид рівнинної зебрі. Він відрізняється від інших зебр своїм обмеженим малюнком, що складається з коричневих та білих смуг, переважно на передній частині тіла. Задня частина коричневого кольору, без смуг і більше схожа на коня.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Нещодавно вимерли. Кваги вимерли наприкінці XIX століття через надмірне полювання африканців. Проект Quagga був розпочатий у 1987 у Південній Африці з метою створення популяції кваггоподібних зебр шляхом вибіркового розведення особин із зменшеним малюнком смуг із рівнинних зебр. Кінцева мета проекту - ввести їх у колишній ареал квагги.</AEXP_Quagga.description>
+  <AEXP_Quagga.tools.0.label>голова</AEXP_Quagga.tools.0.label>
+  <AEXP_Quagga.tools.1.label>ліве копито</AEXP_Quagga.tools.1.label>
+  <AEXP_Quagga.tools.2.label>праве копито</AEXP_Quagga.tools.2.label>
+
+
+  <!-- Rockhopper Penguin -->
+
+  <AEXP_RockhopperPenguin.label>чубатий пінгвін</AEXP_RockhopperPenguin.label>
+  <AEXP_RockhopperPenguin.description>Набагато менші за розміром, ніж імператорські пінгвіни, чубаті пінгвіни важать менше 10 фунтів. Вони характеризуються тим, що стрибають по скелястих пагорбах і скелях, де живуть та розмножуються.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Вразливий. За оцінками, за останні 30 років, популяція чубатих пінгвінів скоротилася майже на 25%, а тепер зміна клімату може надати їх ще більшому ризику.</AEXP_RockhopperPenguin.description>
+  <AEXP_RockhopperPenguin.tools.0.label>кігти</AEXP_RockhopperPenguin.tools.0.label>
+  <AEXP_RockhopperPenguin.tools.1.label>клюв</AEXP_RockhopperPenguin.tools.1.label>
+  <AEXP_RockhopperPenguin.tools.2.label>голова</AEXP_RockhopperPenguin.tools.2.label>
+
+
+  <!-- Tasmanian Devil -->
+
+  <AEXP_TasmanianDevil.label>тасманійский диявол</AEXP_TasmanianDevil.label>
+  <AEXP_TasmanianDevil.description>Плотоядна сумчаста тварина, що характеризується кремезною і мускулистою статурою, чорним хутром, різким запахом, надзвичайно гучним і тривожним вереском, гострим нюхом і агресією під час годівлі.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Знаходиться під загрозою зникнення. За оцінками експертів, із середини 1990-х років населення тасманійського диявола скоротилося більш ніж на 80%. За поточними оцінками, у дикій природі все ще живе менше 25000 тварин цього виду.</AEXP_TasmanianDevil.description>
+  <AEXP_TasmanianDevil.tools.0.label>ліва лапа</AEXP_TasmanianDevil.tools.0.label>
+  <AEXP_TasmanianDevil.tools.1.label>права лапа</AEXP_TasmanianDevil.tools.1.label>
+  <AEXP_TasmanianDevil.tools.3.label>голова</AEXP_TasmanianDevil.tools.3.label>
+  <AEXP_TasmanianDevil.race.meatLabel>м'ясо тасманійского диявола</AEXP_TasmanianDevil.race.meatLabel>
+
+  <!-- Thylacine -->
+
+  <AEXP_Thylacine.label>сумчатий волк</AEXP_Thylacine.label>
+  <AEXP_Thylacine.description>Відомий також, як тилацин, а також як тасманійський тигр через смугасту нижню частину спини. Сумчастий вовк - обережний та нічний хижак, із зовнішнім виглядом собаки середнього чи великого розміру. Відрізняється від собаки жорстким хвостом і черевним мішком, схожим на такий у кенгуру.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Нещодавно вимерли. Останній відомий тилацин помер у зоопарку Бомаріс у Хобарті у 1936 році. За поточними оцінками, під час перебування європейців у Тасманії налічувалося близько 5000 тилацинів, але надмірне полювання, у поєднанні з такими факторами, як руйнування середовища проживання тилацинів і занесення хвороби, призвели до швидкого вимирання цього виду.</AEXP_Thylacine.description>
+  <AEXP_Thylacine.tools.0.label>ліва лапа</AEXP_Thylacine.tools.0.label>
+  <AEXP_Thylacine.tools.1.label>права лапа</AEXP_Thylacine.tools.1.label>
+  <AEXP_Thylacine.tools.3.label>голова</AEXP_Thylacine.tools.3.label>
+  <AEXP_Thylacine.race.meatLabel>м'ясо сумчатого волка</AEXP_Thylacine.race.meatLabel>
+
+  <!-- African Wild Dog -->
+
+  <AEXP_AfricanWildDog.label>гіеновидна собака</AEXP_AfricanWildDog.label>
+  <AEXP_AfricanWildDog.description>Великий представник сімейства собачих, який відрізняється від собак і вовків зубами, відсутністю пальців на лапах, а також спеціалізацією гіперплотоїдної дієти. Гієноподібний собака - дуже соціальна тварина, яка живе зграями. Як і більшість диких собак, вони вважають за краще триматися якнайдалі від людей.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Знаходиться через загрозу зникнення. Гієноподібному собаці насамперед загрожує фрагментація серед проживання, що призводить до конфлікту між людиною та дикою природою, передачі інфекційних захворювань та високої смертності. За поточними оцінками, до 2020 року є близько 6600 дорослих особин цього виду.</AEXP_AfricanWildDog.description>
+  <AEXP_AfricanWildDog.tools.0.label>ліва лапа</AEXP_AfricanWildDog.tools.0.label>
+  <AEXP_AfricanWildDog.tools.1.label>права лапа</AEXP_AfricanWildDog.tools.1.label>
+  <AEXP_AfricanWildDog.tools.3.label>голова</AEXP_AfricanWildDog.tools.3.label>
+
+
+  <!-- Pangolin -->
+
+  <AEXP_Pangolin.label>велетенський панголін</AEXP_Pangolin.label>
+  <AEXP_Pangolin.description>Іноді називані лускатими мурахоїдами, панголіні - це ссавці з великими захисними кератиновими лусочками, що покривають їхню шкіру. панголіні ведуть нічний спосіб життя і їхній раціон складається в основному з мурах і термітів, яких вони ловлять своїми довгими язиками. Зазвичай вони живуть на самоті і зустрічаються тільки для того, щоб спаритися.\n\n&lt;color=#33d733&gt;Статус виду в реальному світі:&lt;/color&gt; Знаходиться під загрозою зникнення. Гігантському панголіну загрожує руйнація середовища та вирубування лісів, а також полювання за їх м'ясом. панголіні стали найпопулярнішим пошуковим запитом щодо диких ссавців у світі.</AEXP_Pangolin.description>
+  <AEXP_Pangolin.tools.0.label>ліва лапа</AEXP_Pangolin.tools.0.label>
+  <AEXP_Pangolin.tools.1.label>права лапа</AEXP_Pangolin.tools.1.label>
+  <AEXP_Pangolin.tools.2.label>голова</AEXP_Pangolin.tools.2.label>
+  <AEXP_Pangolin.race.meatLabel>м'ясо велетенського панголіна</AEXP_Pangolin.race.meatLabel>
+
+</LanguageData>

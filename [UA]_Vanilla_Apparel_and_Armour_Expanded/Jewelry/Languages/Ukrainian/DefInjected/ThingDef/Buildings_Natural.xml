@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MineableDiamond.label>поклади діамантів</MineableDiamond.label>
+  <MineableDiamond.description>Шматки породи з дорогоцінними вкрапленнями.</MineableDiamond.description>
+
+  <MineableRuby.label>поклади рубінів</MineableRuby.label>
+  <MineableRuby.description>Шматки породи з дорогоцінними вкрапленнями.</MineableRuby.description>
+
+  <MineableSapphire.label>поклади сапфірів</MineableSapphire.label>
+  <MineableSapphire.description>Шматки породи з дорогоцінними вкрапленнями.</MineableSapphire.description>
+
+
+</LanguageData>

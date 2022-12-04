@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crocodile -->
+
+  <AEXP_EggCrocodileUnfertilized.label>яйце крокодила (незапліднене)</AEXP_EggCrocodileUnfertilized.label>
+  <AEXP_EggCrocodileUnfertilized.description>Непліднене яйце крокодила. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggCrocodileUnfertilized.description>
+
+  <AEXP_EggCrocodileFertilized.label>яйце крокодила (запліднене)</AEXP_EggCrocodileFertilized.label>
+  <AEXP_EggCrocodileFertilized.description>Заплідне яйце крокодила. Якщо все піде добре, з нього вилупиться дитинча крокодила. Його можна з'їсти сирим, але краще приготувати.</AEXP_EggCrocodileFertilized.description>
+
+</LanguageData>

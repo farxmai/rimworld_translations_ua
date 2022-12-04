@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Facility_VitalsCentre.label>центр життєвих показників</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>Великий центр для моніторингу життєво важливих функцій декількох пацієнтів одночасно покращує якість лікування, підвищує ймовірність успішної операції та швидкість імунізації при розміщенні поблизу лікарняного ліжка або хірургічного столу.</Facility_VitalsCentre.description>
+
+  <Facility_IVDrip.label>крапельниця</Facility_IVDrip.label>
+  <Facility_IVDrip.description>Крапельниця для швидкої доставки втраченої рідини пацієнту, що допомагає імунній системі та відновленню крововтрати, якщо крапельниця знаходиться безпосередньо поряд із лікарняним ліжком чи хірургічним столом. Працює лише з лікарняними ліжками чи хірургічними столами. Одне лікарняне ліжко/хірургічний стіл може бути підключене лише до однієї крапельниці.</Facility_IVDrip.description>
+
+  <Facility_ResearchCounter.label>стійка для досліджень</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>Висока стерилізована поверхня для проведення досліджень. Надає підтримку сусіднім столам для досліджень, а також допомагає підтримувати чистоту. Стикається до 20 разів.</Facility_ResearchCounter.description>
+
+</LanguageData>

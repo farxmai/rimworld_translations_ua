@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Bullet_GaussRifle.label>болванка гвинтівки</VWE_Bullet_GaussRifle.label>
+
+  <VWE_Gun_GaussRifle.label>гаус-гвинтівка</VWE_Gun_GaussRifle.label>
+  <VWE_Gun_GaussRifle.description>Зроблений за космічними технологіями гвинтівка гаусу. Набір котушок прискорює феромагнітні болванки до запаморочливих швидкостей, дозволяючи їм пробивати броню та прошивати безліч цілей за один раз. Така зброя була популярна серед піхоти, яка билася на передовій під час механоїдних воєн.</VWE_Gun_GaussRifle.description>
+  <VWE_Gun_GaussRifle.tools.0.label>приклад</VWE_Gun_GaussRifle.tools.0.label>
+  <VWE_Gun_GaussRifle.tools.1.label>ствол</VWE_Gun_GaussRifle.tools.1.label>
+
+  <VWE_Bullet_GaussMagnum.label>болванка магнума</VWE_Bullet_GaussMagnum.label>
+
+  <VWE_Gun_GaussMagnum.label>гаус-магнум</VWE_Gun_GaussMagnum.label>
+  <VWE_Gun_GaussMagnum.description>Зроблений за космічними технологіями магнум-револьвер гауса. Масив котушок розганяє болванки в барабані до карколомних швидкостей, дозволяючи їм пробивати броню і прошивати безліч цілей за раз. Револьвер заряджається швидше, ніж інша зброя, що працює за тим же принципом, але завдає менше шкоди.</VWE_Gun_GaussMagnum.description>
+  <VWE_Gun_GaussMagnum.tools.0.label>приклад</VWE_Gun_GaussMagnum.tools.0.label>
+  <VWE_Gun_GaussMagnum.tools.1.label>ствол</VWE_Gun_GaussMagnum.tools.1.label>
+
+  <VWE_Bullet_GaussLance.label>болванка списа</VWE_Bullet_GaussLance.label>
+
+  <VWE_Gun_GaussLance.label>гаус-спис</VWE_Gun_GaussLance.label>
+  <VWE_Gun_GaussLance.description>Зроблений за космічними технологіями спис гауса. Набір котушок прискорює феромагнітні болванки до запаморочливих швидкостей, дозволяючи їм пробивати броню та прошивати безліч цілей за один раз. Воно стріляє від стегна, використовуючи вбудований комп'ютер для відстеження та наведення на далекі цілі.</VWE_Gun_GaussLance.description>
+  <VWE_Gun_GaussLance.tools.0.label>ствол</VWE_Gun_GaussLance.tools.0.label>
+</LanguageData>

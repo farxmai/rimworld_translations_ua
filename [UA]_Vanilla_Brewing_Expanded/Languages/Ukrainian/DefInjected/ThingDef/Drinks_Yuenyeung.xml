@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Yuenyeung.label>кака юэньюн</VBE_Yuenyeung.label>
+  <VBE_Yuenyeung.description>Суміш кави та чаю. Ті, хто п'ють чай і каву, проігнорували свої розбіжності, придумавши це нечестиве змішання. Зазвичай, його подають холодним, але незалежно від того, гарячий він чи холодний, він однаково збиває з пантелику того, хто його випив.</VBE_Yuenyeung.description>
+  <VBE_Yuenyeung.ingestible.ingestCommandString>Випити {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+  <VBE_Yuenyeung.ingestible.ingestReportString>п'є {0}</VBE_Yuenyeung.ingestible.ingestReportString>
+
+
+</LanguageData>

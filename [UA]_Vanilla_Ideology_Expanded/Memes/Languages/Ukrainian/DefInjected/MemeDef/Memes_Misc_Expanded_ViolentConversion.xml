@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: violent conversion -->
+  <VME_ViolentConversion.label>примусове звернення</VME_ViolentConversion.label>
+  <!-- EN: Infidels може вийти до здобутку наших біліфів, або die. -->
+  <VME_ViolentConversion.description>Інші повинні прийняти істиність нашої віри або померти.</VME_ViolentConversion.description>
+
+  <VME_ViolentConversion.generalRules.rulesStrings>
+    <li>memeAdjective->примушуючий</li>
+    <li>memeAdjective->суворий</li>
+    <li>memeHyphenPrefix->вкрай</li>
+    <li>memeConcept->абсолютної істини</li>
+    <li>memeLeaderNoun->великий інквізитор</li>
+    <li>memeMoralist->інквізитор</li>
+    <li>memeMoralist->поборник</li>
+  </VME_ViolentConversion.generalRules.rulesStrings>
+
+  <VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_ViolentConversion) ->[deity0_name] [deity0_anointed] кількох смертних як поборників для поширення своєї волі.</li>
+    <li>episode(uses=1,tag=meme_ViolentConversion) ->[deity0_name] [deity0_said] всім [memberNamePlural]: «Кожен невірний повинен прийняти волю Божу або загинути».</li>
+    <li>intro(tag=meme_ViolentConversion) ->[memberNamePlural] побудували щось величне в [place_summary] [place_name] під назвою «[altarName]». Цей вівтар змусив багатьох підкоритися волі [deity0_name].</li>
+    <li>conflict(tag=meme_ViolentConversion) ->[foeLeader] через свою боягузтво [foe_deny] волю [deity0_name], наказавши [foeSoldiers] відрізати мови всім, хто розповідав про [deity0_type].</li>
+    <li>founderJoin(tag=meme_ViolentConversion) ->[place_job] на ім'я [founderName] [founder_blessed] благословення [deity0_name], яке дало рішучість вимовляти слова, від яких ніхто не міг відвернутися.</li>
+    <li>victory(tag=meme_ViolentConversion) ->Багато [foeSoldiers] були заколоті і жорстоко намагалися [founderName], щоб усі побачили силу [deity0_name]. Крики назавжди увійдуть до історії нагадуванням про те, що трапляється з тим, хто відкидає волю [deity0_name].</li>
+    <li>setup(tag=meme_ViolentConversion) ->[founderName], наш засновник [founder_was] зміни, звертаючи сотні міст під час своїх мандрівок.</li>
+    <li>story(uses=1,tag=meme_ViolentConversion) ->Віруючі відвідували міста та поселення, несли з новий порядок словом і тримали напоготові меч для незгодних.</li>
+    <li>lessonIntro(tag=meme_ViolentConversion) ->Роки, витрачені на поширення вчення, одному найважливішому уроку:</li>
+    <li>lesson(tag=meme_ViolentConversion) ->існує лише одна Правда - наша Правда. Ніхто не повинен стояти в неї на заваді. Ті, хто стоїть на шляху Правди, повинні або прийняти її, або померти</li>
+    <li>lessonReinforcement(tag=meme_ViolentConversion) ->Ми повинні постояти це знову і знову. Підкріплюючи силою, якщо потрібно.</li>
+    <li>archistBasis(tag=meme_ViolentConversion) ->Архотеки голосно оголошують про себе з небес, доносячи слова прямо в розум людей. Їхнє існування МАЄ стати правдою.</li>
+    <li>archistFact(tag=meme_ViolentConversion) ->Архотекам потрібно коритися і ми несемо відповідальність за те, що інші підкорялися їм.</li>
+    <li>archistProphecy(tag=meme_ViolentConversion) ->[inTheEnd] архотеки востаннє поділяться своєю мудрістю з тим, хто матиме [relic0_name]. Решта перестане існувати.</li>
+    <li>animistFact(tag=meme_ViolentConversion) ->Духи бажають розголосу, але говорити здатні лише з небагатьма. Ми змусимо всіх, хто стоїть на нашому шляху, боятися волі духів.</li>
+    <li>serketistProphecy(tag=meme_ViolentConversion)->[itIsSaid] ми будемо навчатися у них, щоб очистити Всесвіт від брудних невірних.</li>
+    <li>chthonianProphecy(tag=meme_ViolentConversion)->Ми накопичимо моторошні знання, щоб очистити Всесвіт від брудних невірних.</li>
+    <li>esotericismProphecy(tag=meme_ViolentConversion)->З такими знаннями ми отримаємо явну перевагу перед іншими жителями планети та очистимо її від брудних невірних.</li>
+    <li>eschatologismFact(tag=meme_ViolentConversion)->Брудні невірні будуть очищені атомним вогнем та смертельними хворобами. Нічого не залишиться.</li>
+    <li>introMemo(tag=meme_ViolentConversion)->Як було сказано, цілі, переслідувані компанією, мають максимальний пріоритет. Тому як запобіжні заходи вже розроблено план ворожого поглинання деяких, так би мовити, «небажаних конкурентів».</li>
+    <li>alienistProphecy(tag=meme_ViolentConversion)->Ви повинні докласти зусиль для поширення ідей істот, які створили спільноту на околицях.</li>
+
+    <li>deity0_anointed(deity0_gender==None)->обрало</li>
+    <li>deity0_anointed(deity0_gender==Male)->обрав</li>
+    <li>deity0_anointed(deity0_gender==Female)->обрала</li>
+    <li>deity0_said(deity0_gender==None)->повідомило</li>
+    <li>deity0_said(deity0_gender==Male)->повідомив</li>
+    <li>deity0_said(deity0_gender==Female)->повідомила</li>
+    <li>deity0_blessed(deity0_gender==None)->благословило</li>
+    <li>deity0_blessed(deity0_gender==Male)->благословив</li>
+    <li>deity0_blessed(deity0_gender==Female)->благословила</li>
+    <li>foe_deny(founder_gender==Male)->відринув</li>
+    <li>foe_deny(founder_gender==Female)->відринула</li>
+    <li>founder_blessed(founder_gender==Male)->отримав</li>
+    <li>founder_blessed(founder_gender==Female)->отримала</li>
+    <li>founder_slaughtered(founder_gender==Male)->заколов</li>
+    <li>founder_slaughtered(founder_gender==Female)->заколола</li>
+    <li>founder_was(founder_gender==Male)->був геніальний і ніс</li>
+    <li>founder_was(founder_gender==Female)->була геніальна та несла</li>
+  </VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Strictness -->
+  <VME_ViolentConversion.symbolPacks.0.ideoName>підпорядкування</VME_ViolentConversion.symbolPacks.0.ideoName>
+  <!-- EN: strict -->
+  <VME_ViolentConversion.symbolPacks.0.theme>підпорядкування</VME_ViolentConversion.symbolPacks.0.theme>
+  <!-- EN: strict -->
+  <VME_ViolentConversion.symbolPacks.0.adjective>підпорядкований</VME_ViolentConversion.symbolPacks.0.adjective>
+  <!-- EN: strict -->
+  <VME_ViolentConversion.symbolPacks.0.member>підпорядкований</VME_ViolentConversion.symbolPacks.0.member>
+
+  <!-- EN: Crusade -->
+  <VME_ViolentConversion.symbolPacks.1.ideoName>поборництво</VME_ViolentConversion.symbolPacks.1.ideoName>
+  <!-- EN: crusade -->
+  <VME_ViolentConversion.symbolPacks.1.theme>поборництво</VME_ViolentConversion.symbolPacks.1.theme>
+  <!-- EN: crusading -->
+  <VME_ViolentConversion.symbolPacks.1.adjective>поборницький</VME_ViolentConversion.symbolPacks.1.adjective>
+  <!-- EN: crusader -->
+  <VME_ViolentConversion.symbolPacks.1.member>поборник</VME_ViolentConversion.symbolPacks.1.member>
+
+  <!-- EN: Inquisition -->
+  <VME_ViolentConversion.symbolPacks.2.ideoName>інквізиція</VME_ViolentConversion.symbolPacks.2.ideoName>
+  <!-- EN: inquisition -->
+  <VME_ViolentConversion.symbolPacks.2.theme>інквізиція</VME_ViolentConversion.symbolPacks.2.theme>
+  <!-- EN: inquisitorial -->
+  <VME_ViolentConversion.symbolPacks.2.adjective>інквізиторський</VME_ViolentConversion.symbolPacks.2.adjective>
+  <!-- EN: inquisitor -->
+  <VME_ViolentConversion.symbolPacks.2.member>інквізитор</VME_ViolentConversion.symbolPacks.2.member>
+
+</LanguageData>

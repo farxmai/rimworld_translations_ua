@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: anonymity -->
+  <VME_Anonymity.label>анонімність</VME_Anonymity.label>
+  <!-- EN: Anonymity reflects on how secretive a person finds their identity and personality to be. A pawn with this belief will feel happier when it’s high and unhappy when it’s nearing depletion. Anonymity slowly rises over time and any social interaction or exposed facial features will lower it. -->
+  <VME_Anonymity.description>Анонімність відбиває сприймається рівень приховування своєї особистості. Щастя персонажа залежатиме від її рівня. Рівень анонімності підвищується з часом, але будь-яке соціальне взаємодія чи відкриті частини обличчя особи знижують його.</VME_Anonymity.description>
+
+  <!-- EN: corruption -->
+  <!-- спотворення, гріхопадіння, порочність -->
+  <VME_Corruption.label>порочність</VME_Corruption.label>
+  <!-- EN: Corruption reflects a person's desire to give in to the dark, eldritch, and possibly even violent desires deeply embedded within them; a mildly corrupt pawn cannot lose ideological certainty. Corruption slowly fades daily, but can be paused by nearby obelisks and increased by incantation rituals. Upon reaching 100 corruption a pawn will immediately begin mentally breaking, and upon reaching 0 a pawn will easily be swayed to any other ideoligion -->
+  <VME_Corruption.description>Порочність відображає бажання піддатися темним, моторошним і, можливо, навіть жорстоким бажанням, що сидять глибоко всередині. Персонаж, який має високий показник порочності, не зможе втратити свої переконання. Однак порочність повільно знижується з часом, хоча це зниження може бути призупинено обелісками або прискорее містичним ритуалом. При досягненні 100% порочності персонаж отримує нервовий зрив, а при зниженні до 0 його можна схилити до іншої ідеолігії.</VME_Corruption.description>
+</LanguageData>

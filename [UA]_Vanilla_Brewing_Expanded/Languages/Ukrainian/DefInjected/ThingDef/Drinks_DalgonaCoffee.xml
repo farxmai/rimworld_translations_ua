@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DalgonaCoffee.label>дальгона-кава</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>Модний, новітній напій у світі кави, з чуток, родом із далеких індустріальних світів. Кавові гранули швидко поєднуються з цукром, утворюючи густу, розкішну солодку піну. Потім піна рівномірно розподіляється по добре охолодженому молоку. Це ідеальний напій для потягування під час навчання або читання.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Випити {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>п'є {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ate insect jelly -->
+  <VME_AteInsectJellyDirect.stages.0.label>з'їдено желе комах</VME_AteInsectJellyDirect.stages.0.label>
+  <!-- EN: I ate some insect jelly. Not bad. -->
+  <VME_AteInsectJellyDirect.stages.0.description>Ну, не погано.</VME_AteInsectJellyDirect.stages.0.description>
+
+  <!-- EN: ate insect jelly -->
+  <VME_AteInsectJellyDirect_Loved.stages.0.label>з'їдено желе комах</VME_AteInsectJellyDirect_Loved.stages.0.label>
+  <!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+  <VME_AteInsectJellyDirect_Loved.stages.0.description>Желе комах, як амброзія: їжа богів.</VME_AteInsectJellyDirect_Loved.stages.0.description>
+</LanguageData>

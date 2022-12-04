@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_WeirdCheese.label>дивний сир</VCE_WeirdCheese.label>
+  <VCE_WeirdCheese.description>Сир, що погано пахне, покритий маслянистою плівкою. У нього кислий хімічний смак з огидним присмаком.</VCE_WeirdCheese.description>
+
+  <VCE_MechaCheese.label>меха-сир</VCE_MechaCheese.label>
+  <VCE_MechaCheese.description>Сир отриманий шляхом пресування механоїдного молока. Він не їстівний, але при вживанні діятиме як неймовірно потужний препарат, схожий на люциферію, але без звикання.</VCE_MechaCheese.description>
+
+</LanguageData>

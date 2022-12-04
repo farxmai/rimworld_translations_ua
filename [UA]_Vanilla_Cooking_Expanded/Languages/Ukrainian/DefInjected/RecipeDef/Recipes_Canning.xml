@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CanMeats.label>законсервувати м'ясо x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>Зробити м'ясні консерви. Консервування подовжує термін придатності продукту майже до нескінченності.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>консервує м'ясо x20</VCE_CanMeats.jobString>
+
+  <VCE_CanProduce.label>законсервувати овочі x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>Зробити овочеві консерви. Консервування подовжує термін придатності продукту майже до нескінченності.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>консервує овочі x20</VCE_CanProduce.jobString>
+
+  <VCE_CanFruit.label>законсервувати фрукти x20</VCE_CanFruit.label>
+  <VCE_CanFruit.description>Зробити фруктові консерви. Консервування подовжує термін придатності продукту майже до нескінченності.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>консервує фрукти x20</VCE_CanFruit.jobString>
+
+  <VCE_CanEggs.label>законсервувати яйця x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>Зробити яєчні консерви. Консервування подовжує термін придатності продукту майже до нескінченності.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>консервує яйця x20</VCE_CanEggs.jobString>
+
+</LanguageData>

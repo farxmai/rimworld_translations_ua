@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Turret_MilitaryTurret.label>двоствольна турель</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Туреля з двома стволами.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібна заміна стволів</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_MilitaryTurret.label>двоствольна турель</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Туреля з двома стволами.</VFES_Gun_MilitaryTurret.description>
+
+  <VFES_Turret_Searchlight.label>прожектор</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Пристрій, що поєднує надзвичайно яскраву лампу і дзеркальний параболічний відбивач, корисно для освітлення і засліплення цілей.</VFES_Turret_Searchlight.description>
+
+  <VFES_Gun_Searchlight.label>прожектор</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Пристрій, що поєднує надзвичайно яскраву лампу і дзеркальний параболічний відбивач, корисно для освітлення і засліплення цілей.</VFES_Gun_Searchlight.description>
+
+  <VFES_Turret_Flame.label>турель-вогнемет</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Портативна вогнеметна турель.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Залишається палива</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Залишається палива</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібне хімпаливо</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_FlameTurret.label>турель-вогнемет</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Портативна вогнеметна турель.</VFES_Gun_FlameTurret.description>
+
+  <VFES_Bullet_FlameTurret.label>струмінь вогнемета</VFES_Bullet_FlameTurret.label>
+
+  <VFES_Turret_SentryGun.label>турель-мініган</VFES_Turret_SentryGun.label>
+  <VFES_Turret_SentryGun.description>Простий автоматичний кулемет.</VFES_Turret_SentryGun.description>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>Пострілів до заміни стволів</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>Міцність стволів</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібна заміна стволів</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_SentryTurret.label>турель-мініган</VFES_Gun_SentryTurret.label>
+  <VFES_Gun_SentryTurret.description>Простий автоматичний кулемет.</VFES_Gun_SentryTurret.description>
+
+</LanguageData>

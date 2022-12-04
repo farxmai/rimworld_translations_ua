@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li>Core</li>
+    <li IfModActive="ludeon.rimworld.biotech">Biotech</li>
+    <li IfModActive="ludeon.rimworld.royalty">Royalty</li>
+    <li IfModActive="ludeon.rimworld.ideology">Ideology</li>
+    <li IfModActive="UnlimitedHugs.AllowTool">AllowTool</li>
+    <li IfModActive="Mehni.PickUpAndHaul">PickUpAndHaul</li>
+    <li IfModActive="DerekBickley.LTOColonyGroupsFinal">ColonyGroups</li>
+    <li IfModActive="Sandy.RPGStyleInventory.avilmask.Revamped">RpgInventory</li>
+    <li IfModActive="LWM.DeepStorage">DeepStorage</li>
+    <li IfModActive="weilbyte.snapout">SnapOut</li>
+    <li IfModActive="Linkolas.Stabilize">Stabilize</li>
+    <li IfModActive="Uuugggg.ShareTheLoad">ShareTheLoad</li>
+    <li IfModActive="Uuugggg.ReplaceStuff">ReplaceStuff</li>
+    <li IfModActive="Uuugggg.SmartMedicine">SmartMedicine</li>
+    <li IfModActive="avilmask.CommonSense">CommonSense</li>
+    <li IfModActive="Jaxe.RimHUD">RimHUD</li>
+    <li IfModActive="Krafs.LevelUp">LevelUp</li>
+    <li IfModActive="PeteTimesSix.SimpleSidearms">SimpleSidearms</li>
+  </v1.4>
+</loadFolders>

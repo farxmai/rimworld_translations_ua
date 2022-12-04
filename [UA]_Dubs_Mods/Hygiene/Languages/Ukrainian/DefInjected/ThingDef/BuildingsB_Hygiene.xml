@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToiletStallDoor.label>двері кабінки</ToiletStallDoor.label>
+  <ToiletStallDoor.description>Тонкі дверцята, які закривають видимість лише людям, які користуються сантехнікою. Не створює нових приміщень і не запобігає переміщенню тепла.</ToiletStallDoor.description>
+
+
+  <!-- Low Tech Stuff -->
+
+  <PitLatrine.label>вигрібна яма</PitLatrine.label>
+  <PitLatrine.description>Вигрібна яма для накопичення каналізаційних відходів. Потрібно спорожнити вручну або можна підєднати до водопровіду.</PitLatrine.description>
+
+  <PrimitiveWell.label>колодязь</PrimitiveWell.label>
+  <PrimitiveWell.description>Має доступ до грунтових вод. Перш ніж використовувати воду для миття чи пиття, її потрібно набрати у баддю.</PrimitiveWell.description>
+
+  <WashBucket.label>баддя</WashBucket.label>
+  <WashBucket.description>Баддя для водних процедур. Необхідно регулярно наповнювати свіжою водою. Може бути використана для пиття.</WashBucket.description>
+
+  <WaterTrough.label>корито для тварин</WaterTrough.label>
+  <WaterTrough.description>Корито для води, що використовується тваринами. Коли вода в поїлці закінчується, вона автоматично наповнюється водою за допомогою кульового крана. Також наповнюється під час дощу.</WaterTrough.description>
+
+  <PetWaterBowl.label>поїлка для тварин</PetWaterBowl.label>
+  <PetWaterBowl.description>Миска з водою, що використовується тваринами.</PetWaterBowl.description>
+
+  <LitterBox.label>лоток</LitterBox.label>
+  <LitterBox.description>Кімнатний лоток для сечі та фекалій дрібних тварин.</LitterBox.description>
+
+  <BurnPit.label>яма для спалювання</BurnPit.label>
+  <BurnPit.description>Знищує фекальні маси, спалюючи їх як паливо. Може бути використана для позбавлення від тіл та інших відходів. Колоністи можуть занедужати, якщо проведуть багато часу поблизу.</BurnPit.description>
+
+  <!-- Basins -->
+
+  <Fountain.label>фонтанчик</Fountain.label>
+  <Fountain.description>Фонтан для води, який використовується для пиття та миття.</Fountain.description>
+
+  <BasinStuff.label>раковина</BasinStuff.label>
+  <BasinStuff.description>Проста раковина для підтримання чистоти рук після користування туалетом.</BasinStuff.description>
+
+  <KitchenSink.label>кухонна раковина</KitchenSink.label>
+  <KitchenSink.description>Проста кухонна раковина. Допомагає підтримувати чистоту у кімнаті.</KitchenSink.description>
+
+  <!-- Toilets -->
+
+  <ToiletStuff.label>унітаз</ToiletStuff.label>
+  <ToiletStuff.description>Сантехніка призначена для позбавлення відходів життєдіяльності організму.</ToiletStuff.description>
+
+  <ToiletAdvStuff.label>просунутий унітаз</ToiletAdvStuff.label>
+  <ToiletAdvStuff.description>Вдвічі більш водоефективний у порівнянні зі звичайним унітазом. Забезпечує комфорт з автоматичним очищенням та освіженням повітря.</ToiletAdvStuff.description>
+  <ToiletAdv.description>Вдвічі більш водоефективний у порівнянні зі звичайним унітазом. Забезпечує комфорт з автоматичним очищенням та освіженням повітря.</ToiletAdv.description>
+
+  <!-- Baths -->
+
+  <BathMat.label>Килимок для ванної</BathMat.label>
+  <BathMat.description>Невеликий килимок, який використовується біля ванни для вбирання води.</BathMat.description>
+
+  <BathtubStuff.label>ванна</BathtubStuff.label>
+  <BathtubStuff.description>Повільний у використанні, але дуже зручний. Можна обігрівати, розташувавши поруч багаття чи дров’яний котел, або за допомогою водопровідних баків для гарячої води. Не потребує виходу каналізації.\n190 л за використання</BathtubStuff.description>
+
+  <!-- Showers -->
+
+  <ShowerStuff.label>душ</ShowerStuff.label>
+  <ShowerStuff.description>Душ. Потрібна вода з водонапірних башт. Може нагріватися за допомогою водопровідних водонагрівачів. Не потребує каналізації.\n65 л за використання</ShowerStuff.description>
+
+  <ShowerSimple.label>простий душ</ShowerSimple.label>
+  <ShowerSimple.description>Простий душ. Потрібна вода з водонапірних башт. Може нагріватися за допомогою водопровідних водонагрівачів. Не потребує каналізації.\n65 л за використання</ShowerSimple.description>
+
+  <ShowerAdvStuff.label>просунутий душ</ShowerAdvStuff.label>
+  <ShowerAdvStuff.description>Нагріває воду за потреби та не потребує резервуара для гарячої води, очищає вдвічі швидше\n90 л за використання</ShowerAdvStuff.description>
+
+</LanguageData>

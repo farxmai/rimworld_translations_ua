@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: normal preferred -->
+  <VME_Darklight_NormalPreferred.label>не подобається</VME_Darklight_NormalPreferred.label>
+  <!-- EN: Darklight is an unnatural and cheap imitation of the miracle that is light, and should be avoided. -->
+  <VME_Darklight_NormalPreferred.description>Темне світло - неприродна дешева підробка дива справжнього світла, яку слід цуратися.</VME_Darklight_NormalPreferred.description>
+
+  <!-- EN: despised -->
+  <VME_DarknessCombat_Despised.label>огидно</VME_DarknessCombat_Despised.label>
+  <!-- EN: Beyond being difficult to fight in, bloodshed should never take place in darkness, lest the enemy be spared peering into your eyes before you end their lives. -->
+  <VME_DarknessCombat_Despised.description>Крім того, що в темряві важко боротися, кровопролиття має відбуватися при світлі, задля того щоб зазирнути ворогові прямо в очі, перш ніж обірвати його життя.</VME_DarknessCombat_Despised.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pipe networks tab -->
+  <Architect_VCHE_PipeNetworks.label>меню «Труби»</Architect_VCHE_PipeNetworks.label>
+  <!-- EN: Key bindings for the "Pipe networks" section of the Architect menu -->
+  <Architect_VCHE_PipeNetworks.description>Призначення клавіш для меню «Труби» в меню Архітектура</Architect_VCHE_PipeNetworks.description>
+</LanguageData>

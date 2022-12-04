@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BlackTea.label>чорний чай</VBE_BlackTea.label>
+  <VBE_BlackTea.description>Особливо гіркий чай з вершковим молоком пробуджує і допомагає вилікувати тіло від недугів.</VBE_BlackTea.description>
+  <VBE_BlackTea.ingestible.ingestCommandString>Випити {0}</VBE_BlackTea.ingestible.ingestCommandString>
+  <VBE_BlackTea.ingestible.ingestReportString>п'є {0}</VBE_BlackTea.ingestible.ingestReportString>
+
+
+</LanguageData>

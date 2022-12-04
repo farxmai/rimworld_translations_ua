@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Platypus leather -->
+
+  <AEXP_Leather_Platypus.label>шкіра качкодзьоба</AEXP_Leather_Platypus.label>
+  <AEXP_Leather_Platypus.description>За часів старої Землі хутро качкодзьоба вважалося цінним товаром та це мало не призвело до його повного зникнення. На щастя, тварина була захищена та відновила свою популяцію.</AEXP_Leather_Platypus.description>
+  <AEXP_Leather_Platypus.stuffProps.stuffAdjective>шкіри качкодзьоба</AEXP_Leather_Platypus.stuffProps.stuffAdjective>
+
+</LanguageData>

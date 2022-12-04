@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DBHSwimmingPool.label>басейн</DBHSwimmingPool.label>
+	<DBHSwimmingPool.description>Басейн, який використовується для гідротерапії, релаксації чи розваг. Спочатку потрібно заповнити водою з водонапірної вежі.</DBHSwimmingPool.description>
+
+	<HotTub.label>джакузі</HotTub.label>
+	<HotTub.description>Гідромасажна ванна, яка використовується для гідротерапії, релаксації чи розваг. Спочатку потрібно заповнити водою з водонапірної вежі. Самообігрівається і не потребує каналізації.</HotTub.description>
+
+	<WashingMachine.label>пральна машина</WashingMachine.label>
+	<WashingMachine.description>Пере одяг так добре, що навіть не скажеш, що в ньому хтось помер!</WashingMachine.description>
+
+	<DBHSaunaHeaterLog.label>кам'янка для сауни</DBHSaunaHeaterLog.label>
+	<DBHSaunaHeaterLog.description>Обігрівач розроблений спеціально для нагріву сауни, регулярне відвідування сауни знижує ризик серцевих нападів, нагріває кімнату до 60 С.</DBHSaunaHeaterLog.description>
+
+	<DBHSaunaHeaterElec.label>електрична кам'янка для сауни</DBHSaunaHeaterElec.label>
+	<DBHSaunaHeaterElec.description>Обігрівач розроблений спеціально для нагріву сауни, регулярне відвідування сауни знижує ризик серцевих нападів, нагріває кімнату до 60 С.</DBHSaunaHeaterElec.description>
+
+	<DBHSaunaSeating.label>лавка для сауни</DBHSaunaSeating.label>
+	<DBHSaunaSeating.description>Рейчаста лава для саун</DBHSaunaSeating.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.label>під гарячою кавою</VBE_HotCoffeeHigh.label>
+  <VBE_HotCoffeeHigh.description>Кофеїн, що природно міститься в каві, посилює подразники в нервовій системі, пригнічуючи позиви до сну, а також очищуючи розум.\n\nЗбільшує швидкість навчання на 15%, забезпечує зниження швидкості заповнення шкали втоми на 15%. Гаряча кава знижує рівень переохолодження, холодна - теплового удару.</VBE_HotCoffeeHigh.description>
+  <VBE_HotCoffeeHigh.labelNoun>під гарячою кавою</VBE_HotCoffeeHigh.labelNoun>
+
+  <VBE_IcedCoffeeHigh.label>під холодною кавою</VBE_IcedCoffeeHigh.label>
+  <VBE_IcedCoffeeHigh.description>Кофеїн, що природно міститься в каві, посилює подразники в нервовій системі, пригнічуючи позиви до сну, а також очищуючи розум.\n\nЗбільшує швидкість навчання на 15%, забезпечує зниження швидкості заповнення шкали втоми на 15%. Гаряча кава знижує рівень переохолодження, холодна - теплового удару.</VBE_IcedCoffeeHigh.description>
+  <VBE_IcedCoffeeHigh.labelNoun>під холодною кавою</VBE_IcedCoffeeHigh.labelNoun>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineTolerance.label>толерантність до кофеїну</VBE_CaffeineTolerance.label>
+  <VBE_CaffeineTolerance.description>Підвищена толерантність до кофеїну. Чим більша ця толерантність, тим більше кофеїну потрібно для досягнення того ж ефекту.</VBE_CaffeineTolerance.description>
+
+  <VBE_CaffeineAddiction.label>залежність від кофеїну</VBE_CaffeineAddiction.label>
+  <VBE_CaffeineAddiction.description>Хімічна залежність від кофеїну. Тривала присутність кофеїну викликала неврологічні адаптації на клітинному рівні, тому мозок більше не може нормально функціонувати без нього. Без регулярних доз кофеїну почнеться ломка, проте тривала помірність змусить мозок адаптуватися до свого звичайного стану, позбавившись залежності.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.stages.1.label>ломка</VBE_CaffeineAddiction.stages.1.label>
+
+
+</LanguageData>

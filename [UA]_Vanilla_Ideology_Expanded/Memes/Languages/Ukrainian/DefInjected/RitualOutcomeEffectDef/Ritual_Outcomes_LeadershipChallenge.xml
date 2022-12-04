@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_LeadershipChallengeRitualOutcome.description>Залежно від якості ритуалу настрій учасників зміниться на величину від {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день: дні: днів}.</VME_LeadershipChallengeRitualOutcome.description>
+  <!-- EN: This is a duel to the death. Whoever wins will get (or keep) the leader title. -->
+  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>Это смертельный поединок. Победивший получит или сохранит титул лидера.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
+
+  <!-- EN: challenge organizer present -->
+  <VME_LeadershipChallengeRitualOutcome.comps.0.label>присутній організатор поєдинку</VME_LeadershipChallengeRitualOutcome.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <VME_LeadershipChallengeRitualOutcome.comps.1.label>враження від приміщення</VME_LeadershipChallengeRitualOutcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_LeadershipChallengeRitualOutcome.comps.2.label>соціальний вплив {PAWN_labelShort}</VME_LeadershipChallengeRitualOutcome.comps.2.label>
+  <!-- EN: organizer's social impact -->
+  <VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>соціальний вплив организатора</VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_LeadershipChallengeRitualOutcome.comps.3.label>кількість учасників</VME_LeadershipChallengeRitualOutcome.comps.3.label>
+
+  <!-- EN: Terrible -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>жахливо</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The leadership challenge was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>Ритуал заперечення лідерства вийшов жахливим! Бійці тупцювали по колу, невміло ухиляючись від атак один одного, виявляючи свою незграбність і слабкість. Глядачі були засмучені.</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>нудно</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The leadership challenge was boring. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>Ритуал заперечення лідерства вийшов нудним. Бійці не зробили нічого гідного, і не було жодних хвилюючих моментів. Ну, принаймні, наш лідер найсильніший.</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>добре</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The leadership challenge was good. The fighters went for blood and showed real heart. We now know that our leader is the strongest. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>Ритуал заперечення лідерства був добрим. Бійці жадали крові та виявили справжню мужність. Тепер ми знаємо, що наш лідер найсильніший.</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Unforgettable -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>незабутньо</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us! -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>Ритуал заперечення лідерства був незабутнім! Обидва бійці зробили все, що могли, і ми тепер знаємо, що наш лідер зараз найсильніший серед нас!</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
+</LanguageData>

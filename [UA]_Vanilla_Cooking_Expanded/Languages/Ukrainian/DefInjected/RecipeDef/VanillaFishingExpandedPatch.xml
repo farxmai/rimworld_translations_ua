@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryFish.label>приготувати рибу у фритюрі x20</VCE_DeepFryFish.label>
+  <VCE_DeepFryFish.description>Приготувати рибу у фритюрі.</VCE_DeepFryFish.description>
+  <VCE_DeepFryFish.jobString>готує рибу у фритюрі x20</VCE_DeepFryFish.jobString>
+
+  <VCE_CanFish.label>законсервувати рибу x20</VCE_CanFish.label>
+  <VCE_CanFish.description>Зробити рибні консерви. Консервування подовжує термін придатності продукту майже до нескінченності.</VCE_CanFish.description>
+  <VCE_CanFish.jobString>консервує рибу x20</VCE_CanFish.jobString>
+
+</LanguageData>

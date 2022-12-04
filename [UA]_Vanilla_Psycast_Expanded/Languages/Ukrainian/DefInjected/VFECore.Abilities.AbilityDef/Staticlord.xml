@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: bolt -->
+  <VPE_Bolt.label>розряд</VPE_Bolt.label>
+  <!-- EN:Hurls a weak bolt of electricity to strike a small target, inflicting minor burns on direct hits and area EMP damage. -->
+  <VPE_Bolt.description>Відправляє відносно слабкий розряд електрики, здатний вразити невелику ціль, спричиняючи опіки та накриваючи зону впливу ЕМІ-впливом.</VPE_Bolt.description>
+
+  <!-- EN:chain bolt -->
+  <VPE_ChainBolt.label>ланцюговий розряд</VPE_ChainBolt.label>
+  <!-- EN:Projects a living bolt of electricity to a target which can then follow up with 5 more nearby targets, inflicting small burns and EMP damage. -->
+  <VPE_ChainBolt.description>Випускає в ціль розряд електрики, який потім може вразити п'ять найближчих цілей, завдаючи їм опіків та ушкоджуючи електроніку ЕМІ-впливом.</VPE_ChainBolt.description>
+
+  <!-- EN:thunderbolt -->
+  <VPE_Thunderbolt.label>удар блискавки</VPE_Thunderbolt.label>
+  <!-- EN:Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. -->
+  <VPE_Thunderbolt.description>Закликає удар блискавки у вказане місце, завдаючи опіків та ЕМІ-пошкоджень всім, хто опиниться в зоні дії.</VPE_Thunderbolt.description>
+
+  <!-- EN:static aura -->
+  <VPE_StaticAura.label>ЕМІ-поле</VPE_StaticAura.label>
+  <!-- EN:The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects. -->
+  <VPE_StaticAura.description>Псіонік накопичує електричні заряди у певному місці. Усі вороги опиняться під дією ЕМІ, будучи в радіусі поля.</VPE_StaticAura.description>
+
+  <!-- EN:recharge -->
+  <VPE_Recharge.label>підживлення</VPE_Recharge.label>
+  <!-- EN:Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity. -->
+  <VPE_Recharge.description>Дбайливо і акуратно направляє потік електрики в акумулятор, що знаходиться поблизу, заряджаючи його на 100 кВт енергії або еквівалентом 100 Вт/с. Тривалість періоду заряджання залежить від психічної чутливості псіоніка.</VPE_Recharge.description>
+
+  <!-- EN:ball lightning -->
+  <VPE_BallLightning.label>кульова блискавка</VPE_BallLightning.label>
+  <!-- EN:The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity. -->
+  <VPE_BallLightning.description>Псіонік створює максимально стиснуту кулю концентрованої електрики, яка потім починає рухатися у вказане місце. Через секунди після запуску, ця куля почне випускати електричні розряди в простір, вражаючи об'єкти, що знаходяться навколо, ланцюговими розрядами електрики.</VPE_BallLightning.description>
+
+  <!-- EN:static pulse -->
+  <VPE_StaticPulse.label>ЕМІ-хвиля</VPE_StaticPulse.label>
+  <!-- EN:The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless. -->
+  <VPE_StaticPulse.description>Псіонік випускає значну кількість енергії у простір навколо, створюючи ефект ЕМІ-удару у значному радіусі навколо себе.</VPE_StaticPulse.description>
+
+  <!-- EN:vortex -->
+  <VPE_Vortex.label>вихор</VPE_Vortex.label>
+  <!-- EN:Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center. -->
+  <VPE_Vortex.description>Створює зяючий вихор високовольтної електрики, спрямованої за допомогою порталів зі штормів, що вирують у космічних туманностях. Завдає значної шкоди у зазначеній області. Серйозно знижує можливість пересування та взаємодії з об'єктами. Найсильніше ефект проявляється у центрі вихору.</VPE_Vortex.description>
+
+  <!-- EN:hurricane -->
+  <VPE_Hurricane.label>ураган</VPE_Hurricane.label>
+  <!-- EN:The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop. -->
+  <VPE_Hurricane.description>Використовуючи деяку кількість порталів, спрямованих у зони різного тиску, псіонік ініціює локальну зміну погоди, яка виражається в ураганному вітрі та опадах, які тримаються доти, доки псіонік здатний підтримувати портали відкритими. Ті, кого раптова негода застане на вулиці, будуть відчувати на собі такі ефекти, як зниження сприйняття та утруднений рух, доки вони нарешті не будуть змушені залишатися на місці, будучи позбавленими здатності рухатися.</VPE_Hurricane.description>
+
+  <!-- EN:flashstorm -->
+  <VPE_Flashstorm.label>грозовий шторм</VPE_Flashstorm.label>
+  <!-- EN:Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+  <VPE_Flashstorm.description>Відкриває портали в атмосфері для створення різниці тиску та виклику локалізованого грозового шторму. Деякий час по вибраній території битиме велика кількість блискавок.</VPE_Flashstorm.description>
+</LanguageData>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boombat -->
+
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <AEXP_Boombat.labelPlural>бумбати</AEXP_Boombat.labelPlural>
+  <AEXP_Boombat.lifeStages.0.label>дитинча бумбата</AEXP_Boombat.lifeStages.0.label>
+  <AEXP_Boombat.lifeStages.0.labelPlural>дитинчата бумбата</AEXP_Boombat.lifeStages.0.labelPlural>
+  <AEXP_Boombat.lifeStages.0.labelMale>дитинча бумбата</AEXP_Boombat.lifeStages.0.labelMale>
+  <AEXP_Boombat.lifeStages.0.labelMalePlural>дитинчата бумбата</AEXP_Boombat.lifeStages.0.labelMalePlural>
+  <AEXP_Boombat.lifeStages.0.labelFemale>дитинча бумбата</AEXP_Boombat.lifeStages.0.labelFemale>
+  <AEXP_Boombat.lifeStages.0.labelFemalePlural>дитинчата бумбата</AEXP_Boombat.lifeStages.0.labelFemalePlural>
+  <AEXP_Boombat.lifeStages.1.label>молодий бумбат</AEXP_Boombat.lifeStages.1.label>
+  <AEXP_Boombat.lifeStages.1.labelPlural>молоді бумбати</AEXP_Boombat.lifeStages.1.labelPlural>
+  <AEXP_Boombat.lifeStages.1.labelMale>молодий бумбат</AEXP_Boombat.lifeStages.1.labelMale>
+  <AEXP_Boombat.lifeStages.1.labelMalePlural>молоді бумбати</AEXP_Boombat.lifeStages.1.labelMalePlural>
+  <AEXP_Boombat.lifeStages.1.labelFemale>молодий бумбат</AEXP_Boombat.lifeStages.1.labelFemale>
+  <AEXP_Boombat.lifeStages.1.labelFemalePlural>молоді бумбати</AEXP_Boombat.lifeStages.1.labelFemalePlural>
+  <AEXP_Boombat.lifeStages.2.label>бумбат</AEXP_Boombat.lifeStages.2.label>
+  <AEXP_Boombat.lifeStages.2.labelPlural>бумбати</AEXP_Boombat.lifeStages.2.labelPlural>
+  <AEXP_Boombat.lifeStages.2.labelMale>бумбат</AEXP_Boombat.lifeStages.2.labelMale>
+  <AEXP_Boombat.lifeStages.2.labelMalePlural>бумбати</AEXP_Boombat.lifeStages.2.labelMalePlural>
+  <AEXP_Boombat.lifeStages.2.labelFemale>бумбат</AEXP_Boombat.lifeStages.2.labelFemale>
+  <AEXP_Boombat.lifeStages.2.labelFemalePlural>бумбати</AEXP_Boombat.lifeStages.2.labelFemalePlural>
+  <AEXP_Boombat.labelMale>бумбат</AEXP_Boombat.labelMale>
+  <AEXP_Boombat.labelMalePlural>бумбати</AEXP_Boombat.labelMalePlural>
+  <AEXP_Boombat.labelFemale>бумбат</AEXP_Boombat.labelFemale>
+  <AEXP_Boombat.labelFemalePlural>бумбати</AEXP_Boombat.labelFemalePlural>
+
+
+  <!-- Kangaroo -->
+
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  <AEXP_Kangaroo.labelPlural>кенгуру</AEXP_Kangaroo.labelPlural>
+  <AEXP_Kangaroo.lifeStages.0.label>дитинча кенгуру</AEXP_Kangaroo.lifeStages.0.label>
+  <AEXP_Kangaroo.lifeStages.0.labelPlural>дитинчата кенгуру</AEXP_Kangaroo.lifeStages.0.labelPlural>
+  <AEXP_Kangaroo.lifeStages.0.labelMale>дитинча кенгуру</AEXP_Kangaroo.lifeStages.0.labelMale>
+  <AEXP_Kangaroo.lifeStages.0.labelMalePlural>дитинчата кенгуру</AEXP_Kangaroo.lifeStages.0.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.0.labelFemale>дитинча кенгуру</AEXP_Kangaroo.lifeStages.0.labelFemale>
+  <AEXP_Kangaroo.lifeStages.0.labelFemalePlural>дитинчата кенгуру</AEXP_Kangaroo.lifeStages.0.labelFemalePlural>
+  <AEXP_Kangaroo.lifeStages.1.label>молодий кенгуру</AEXP_Kangaroo.lifeStages.1.label>
+  <AEXP_Kangaroo.lifeStages.1.labelPlural>молоді кенгуру</AEXP_Kangaroo.lifeStages.1.labelPlural>
+  <AEXP_Kangaroo.lifeStages.1.labelMale>молодий кенгуру</AEXP_Kangaroo.lifeStages.1.labelMale>
+  <AEXP_Kangaroo.lifeStages.1.labelMalePlural>молоді кенгуру</AEXP_Kangaroo.lifeStages.1.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.1.labelFemale>молодий кенгуру</AEXP_Kangaroo.lifeStages.1.labelFemale>
+  <AEXP_Kangaroo.lifeStages.1.labelFemalePlural>молоді кенгуру</AEXP_Kangaroo.lifeStages.1.labelFemalePlural>
+  <AEXP_Kangaroo.lifeStages.2.label>кенгуру</AEXP_Kangaroo.lifeStages.2.label>
+  <AEXP_Kangaroo.lifeStages.2.labelPlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelPlural>
+  <AEXP_Kangaroo.lifeStages.2.labelMale>кенгуру</AEXP_Kangaroo.lifeStages.2.labelMale>
+  <AEXP_Kangaroo.lifeStages.2.labelMalePlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.2.labelFemale>кенгуру</AEXP_Kangaroo.lifeStages.2.labelFemale>
+  <AEXP_Kangaroo.lifeStages.2.labelFemalePlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelFemalePlural>
+  <AEXP_Kangaroo.labelMale>кенгуру</AEXP_Kangaroo.labelMale>
+  <AEXP_Kangaroo.labelMalePlural>кенгуру</AEXP_Kangaroo.labelMalePlural>
+  <AEXP_Kangaroo.labelFemale>кенгуру</AEXP_Kangaroo.labelFemale>
+  <AEXP_Kangaroo.labelFemalePlural>кенгуру</AEXP_Kangaroo.labelFemalePlural>
+
+
+  <!-- Koala -->
+
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <AEXP_Koala.labelPlural>коали</AEXP_Koala.labelPlural>
+  <AEXP_Koala.lifeStages.0.label>дитинча коали</AEXP_Koala.lifeStages.0.label>
+  <AEXP_Koala.lifeStages.0.labelPlural>дитинчата коали</AEXP_Koala.lifeStages.0.labelPlural>
+  <AEXP_Koala.lifeStages.0.labelMale>дитинча коали</AEXP_Koala.lifeStages.0.labelMale>
+  <AEXP_Koala.lifeStages.0.labelMalePlural>дитинчата коали</AEXP_Koala.lifeStages.0.labelMalePlural>
+  <AEXP_Koala.lifeStages.0.labelFemale>дитинча коали</AEXP_Koala.lifeStages.0.labelFemale>
+  <AEXP_Koala.lifeStages.0.labelFemalePlural>дитинчата коали</AEXP_Koala.lifeStages.0.labelFemalePlural>
+  <AEXP_Koala.lifeStages.1.label>молода коала</AEXP_Koala.lifeStages.1.label>
+  <AEXP_Koala.lifeStages.1.labelPlural>молоді коали</AEXP_Koala.lifeStages.1.labelPlural>
+  <AEXP_Koala.lifeStages.1.labelMale>молода коала</AEXP_Koala.lifeStages.1.labelMale>
+  <AEXP_Koala.lifeStages.1.labelMalePlural>молоді коали</AEXP_Koala.lifeStages.1.labelMalePlural>
+  <AEXP_Koala.lifeStages.1.labelFemale>молода коала</AEXP_Koala.lifeStages.1.labelFemale>
+  <AEXP_Koala.lifeStages.1.labelFemalePlural>молоді коали</AEXP_Koala.lifeStages.1.labelFemalePlural>
+  <AEXP_Koala.lifeStages.2.label>коала</AEXP_Koala.lifeStages.2.label>
+  <AEXP_Koala.lifeStages.2.labelPlural>коали</AEXP_Koala.lifeStages.2.labelPlural>
+  <AEXP_Koala.lifeStages.2.labelMale>коала</AEXP_Koala.lifeStages.2.labelMale>
+  <AEXP_Koala.lifeStages.2.labelMalePlural>коали</AEXP_Koala.lifeStages.2.labelMalePlural>
+  <AEXP_Koala.lifeStages.2.labelFemale>коала</AEXP_Koala.lifeStages.2.labelFemale>
+  <AEXP_Koala.lifeStages.2.labelFemalePlural>коали</AEXP_Koala.lifeStages.2.labelFemalePlural>
+  <AEXP_Koala.labelMale>коала</AEXP_Koala.labelMale>
+  <AEXP_Koala.labelMalePlural>коали</AEXP_Koala.labelMalePlural>
+  <AEXP_Koala.labelFemale>коала</AEXP_Koala.labelFemale>
+  <AEXP_Koala.labelFemalePlural>коали</AEXP_Koala.labelFemalePlural>
+
+
+  <!-- Platypus -->
+
+  <AEXP_Platypus.label>качкодзьоб</AEXP_Platypus.label>
+  <AEXP_Platypus.labelPlural>качкодзьоби</AEXP_Platypus.labelPlural>
+  <AEXP_Platypus.lifeStages.0.label>дитинча качкодзьоба</AEXP_Platypus.lifeStages.0.label>
+  <AEXP_Platypus.lifeStages.0.labelPlural>дитинчата качкодзьоба</AEXP_Platypus.lifeStages.0.labelPlural>
+  <AEXP_Platypus.lifeStages.0.labelMale>дитинча качкодзьоба</AEXP_Platypus.lifeStages.0.labelMale>
+  <AEXP_Platypus.lifeStages.0.labelMalePlural>дитинчата качкодзьоба</AEXP_Platypus.lifeStages.0.labelMalePlural>
+  <AEXP_Platypus.lifeStages.0.labelFemale>дитинча качкодзьоба</AEXP_Platypus.lifeStages.0.labelFemale>
+  <AEXP_Platypus.lifeStages.0.labelFemalePlural>дитинчата качкодзьоба</AEXP_Platypus.lifeStages.0.labelFemalePlural>
+  <AEXP_Platypus.lifeStages.1.label>молодий качкодзьоб</AEXP_Platypus.lifeStages.1.label>
+  <AEXP_Platypus.lifeStages.1.labelPlural>молоді качкодзьоби</AEXP_Platypus.lifeStages.1.labelPlural>
+  <AEXP_Platypus.lifeStages.1.labelMale>молодий качкодзьоб</AEXP_Platypus.lifeStages.1.labelMale>
+  <AEXP_Platypus.lifeStages.1.labelMalePlural>молоді качкодзьоби</AEXP_Platypus.lifeStages.1.labelMalePlural>
+  <AEXP_Platypus.lifeStages.1.labelFemale>молодий качкодзьоб</AEXP_Platypus.lifeStages.1.labelFemale>
+  <AEXP_Platypus.lifeStages.1.labelFemalePlural>молоді качкодзьоби</AEXP_Platypus.lifeStages.1.labelFemalePlural>
+  <AEXP_Platypus.lifeStages.2.label>качкодзьоб</AEXP_Platypus.lifeStages.2.label>
+  <AEXP_Platypus.lifeStages.2.labelPlural>качкодзьоби</AEXP_Platypus.lifeStages.2.labelPlural>
+  <AEXP_Platypus.lifeStages.2.labelMale>качкодзьоб</AEXP_Platypus.lifeStages.2.labelMale>
+  <AEXP_Platypus.lifeStages.2.labelMalePlural>качкодзьоби</AEXP_Platypus.lifeStages.2.labelMalePlural>
+  <AEXP_Platypus.lifeStages.2.labelFemale>качкодзьоб</AEXP_Platypus.lifeStages.2.labelFemale>
+  <AEXP_Platypus.lifeStages.2.labelFemalePlural>качкодзьоби</AEXP_Platypus.lifeStages.2.labelFemalePlural>
+  <AEXP_Platypus.labelMale>качкодзьоб</AEXP_Platypus.labelMale>
+  <AEXP_Platypus.labelMalePlural>качкодзьоби</AEXP_Platypus.labelMalePlural>
+  <AEXP_Platypus.labelFemale>качкодзьоб</AEXP_Platypus.labelFemale>
+  <AEXP_Platypus.labelFemalePlural>качкодзьоби</AEXP_Platypus.labelFemalePlural>
+
+
+</LanguageData>

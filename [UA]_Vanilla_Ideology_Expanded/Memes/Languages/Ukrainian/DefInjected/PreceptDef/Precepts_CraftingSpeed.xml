@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: slower -->
+  <VME_CraftingSpeed_Slower.label>сповільнено</VME_CraftingSpeed_Slower.label>
+  <!-- EN: A craftmaster must never rush, lest the quality of the product suffer. -->
+  <VME_CraftingSpeed_Slower.description>Ремісник ніколи не повинен поспішати, інакше постраждає якість.</VME_CraftingSpeed_Slower.description>
+
+  <!-- EN: slower for manual -->
+  <VME_CraftingSpeed_SlowerForManual.label>сповільнено ручну працю</VME_CraftingSpeed_SlowerForManual.label>
+  <!-- EN: Manual processes are unefficient. We can't waste our precious lives toiling away in mindless manual labour.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Non-electric work table speed: -25%. -->
+  <VME_CraftingSpeed_SlowerForManual.description>Ручна праця нераціональна. Ми не можемо витрачати наші дорогоцінні життя на тупу ручну працю.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - швидкість неелектрифікованих робочих місць: -25%.</VME_CraftingSpeed_SlowerForManual.description>
+</LanguageData>

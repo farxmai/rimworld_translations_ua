@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: count-down activator -->
+  <ActivatorCountdown.label>активатор із таймером</ActivatorCountdown.label>
+  <!-- EN: A timed mechanoid activation unit. After counting down, it will wake nearby dormant mechanoids and structures. -->
+  <ActivatorCountdown.description>Пристрій-таймер, що активує "сплячих" механоїдів. По завершенні відліку воно пробудить прилеглих механоїдів та їх спорудження.</ActivatorCountdown.description>
+
+  <!-- EN: proximity activator -->
+  <ActivatorProximity.label>активатор наближення</ActivatorProximity.label>
+  <!-- EN: A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will awaken any nearby dormant mechanoids or structures. -->
+  <ActivatorProximity.description>Датчик руху, що активує "сплячих" механоїдів. При виявленні поряд людської загрози він пробудить прилеглих механоїдів та їх спорудження.</ActivatorProximity.description>
+
+</LanguageData>

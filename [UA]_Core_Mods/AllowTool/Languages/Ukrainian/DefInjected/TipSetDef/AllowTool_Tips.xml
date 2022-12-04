@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AllowToolTips.ContextKey>Клавіша "=" активує команду в меню першого інструменту, коли щось виділено.</AllowToolTips.ContextKey>
+	<AllowToolTips.MineConnected>Виділивши руду та натиснувши клавішу "=" можна позначити все родовище для видобутку.</AllowToolTips.MineConnected>
+	<AllowToolTips.ToolModifiers>Деякі інструменти в меню "Накази" діють інакше під час утримання тієї чи іншої клавіші. Подробиці можна дізнатися в описі під час наведення миші.</AllowToolTips.ToolModifiers>
+	<AllowToolTips.ToolPickup>Коли щось виділено, можна "підібрати" відповідний інструмент, натиснувши наказ утримуючи клавішу Shift.</AllowToolTips.ToolPickup>
+	<AllowToolTips.ModOptions>У багатьох модів є налаштування, які можна змінювати на свій смак. Їх можна знайти в меню Налаштування, кнопка "Налаштування модів".</AllowToolTips.ModOptions>
+	<AllowToolTips.AllowAll>Натиснувши кнопку "Дозволити все" ("Home" за замовчуванням), можна швидко зняти заборону з усіх предметів на карті.</AllowToolTips.AllowAll>
+	<AllowToolTips.RightClick>Маленька іконка миші на командних кнопках означає, що правою кнопкою миші відкриє меню з додатковими командами.</AllowToolTips.RightClick>
+	<AllowToolTips.SelectSimilar>Інструмент "Виділити схожі" має багато застосувань. Він допоможе знайти поклади руди, зібрати дикий лікувальний корінь та видалити кабелі з-під стін.</AllowToolTips.SelectSimilar>
+
+</LanguageData>

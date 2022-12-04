@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <VFEPD_SteelATM.label>банкомат зі сталі</VFEPD_SteelATM.label>
+  <VFEPD_SteelATM.description>Непрацюючий автомат із видачі грошей.</VFEPD_SteelATM.description>
+  <VFEPD_PlasteelATM.label>банкомат з пласталі</VFEPD_PlasteelATM.label>
+  <VFEPD_PlasteelATM.description>Непрацюючий автомат із видачі грошей.</VFEPD_PlasteelATM.description>
+  <VFEPD_SilverATM.label>банкомат зі срібла</VFEPD_SilverATM.label>
+  <VFEPD_SilverATM.description>Непрацюючий автомат із видачі грошей.</VFEPD_SilverATM.description>
+  <VFEPD_WoodenATM.label>банкомат з деревини</VFEPD_WoodenATM.label>
+  <VFEPD_WoodenATM.description>Непрацюючий автомат із видачі грошей.</VFEPD_WoodenATM.description>
+
+  <VFEPD_SteelBookshelf.label>книжкова полиця зі сталі</VFEPD_SteelBookshelf.label>
+  <VFEPD_SteelBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та публікацій.</VFEPD_SteelBookshelf.description>
+  <VFEPD_PlasteelBookshelf.label>книжкова полиця з пласталі</VFEPD_PlasteelBookshelf.label>
+  <VFEPD_PlasteelBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та публікацій.</VFEPD_PlasteelBookshelf.description>
+  <VFEPD_SilverBookshelf.label>книжкова полиця зі срібла</VFEPD_SilverBookshelf.label>
+  <VFEPD_SilverBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та публікацій.</VFEPD_SilverBookshelf.description>
+  <VFEPD_WoodenBookshelf.label>книжкова полиця з деревини</VFEPD_WoodenBookshelf.label>
+  <VFEPD_WoodenBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та публікацій.</VFEPD_WoodenBookshelf.description>
+
+  <VFEPD_SteelCupboard.label>шафа зі сталі</VFEPD_SteelCupboard.label>
+  <VFEPD_SteelCupboard.description>Велика порожня шафа.</VFEPD_SteelCupboard.description>
+  <VFEPD_PlasteelCupboard.label>шафа з пласталі</VFEPD_PlasteelCupboard.label>
+  <VFEPD_PlasteelCupboard.description>Велика порожня шафа.</VFEPD_PlasteelCupboard.description>
+  <VFEPD_SilverCupboard.label>шафа зі срібла</VFEPD_SilverCupboard.label>
+  <VFEPD_SilverCupboard.description>Велика порожня шафа.</VFEPD_SilverCupboard.description>
+  <VFEPD_WoodenCupboard.label>шафа з деревини</VFEPD_WoodenCupboard.label>
+  <VFEPD_WoodenCupboard.description>Велика порожня шафа.</VFEPD_WoodenCupboard.description>
+
+  <VFEPD_SteelCupboardDouble.label>подвійна шафа зі сталі</VFEPD_SteelCupboardDouble.label>
+  <VFEPD_SteelCupboardDouble.description>Велика подвійна шафа.</VFEPD_SteelCupboardDouble.description>
+  <VFEPD_PlasteelCupboardDouble.label>подвійна шафа з пласталі</VFEPD_PlasteelCupboardDouble.label>
+  <VFEPD_PlasteelCupboardDouble.description>Велика подвійна шафа.</VFEPD_PlasteelCupboardDouble.description>
+  <VFEPD_SilverCupboardDouble.label>подвійна шафа зі срібла</VFEPD_SilverCupboardDouble.label>
+  <VFEPD_SilverCupboardDouble.description>Велика подвійна шафа.</VFEPD_SilverCupboardDouble.description>
+  <VFEPD_WoodenCupboardDouble.label>подвійна шафа з деревини</VFEPD_WoodenCupboardDouble.label>
+  <VFEPD_WoodenCupboardDouble.description>Велика подвійна шафа.</VFEPD_WoodenCupboardDouble.description>
+
+  <VFEPD_SteelCupboardPlates.label>шафа з тарілками зі сталі</VFEPD_SteelCupboardPlates.label>
+  <VFEPD_SteelCupboardPlates.description>Велика шафа з тарілками.</VFEPD_SteelCupboardPlates.description>
+  <VFEPD_PlasteelCupboardPlates.label>шафа з тарілками з пласталі</VFEPD_PlasteelCupboardPlates.label>
+  <VFEPD_PlasteelCupboardPlates.description>Велика шафа з тарілками.</VFEPD_PlasteelCupboardPlates.description>
+  <VFEPD_SilverCupboardPlates.label>шафа з тарілками зі срібла</VFEPD_SilverCupboardPlates.label>
+  <VFEPD_SilverCupboardPlates.description>Велика шафа з тарілками.</VFEPD_SilverCupboardPlates.description>
+  <VFEPD_WoodenCupboardPlates.label>шафа з тарілками з деревини</VFEPD_WoodenCupboardPlates.label>
+  <VFEPD_WoodenCupboardPlates.description>Велика шафа з тарілками.</VFEPD_WoodenCupboardPlates.description>
+
+  <VFEPD_SteelCupboardNarrow.label>вузька шафа зі сталі</VFEPD_SteelCupboardNarrow.label>
+  <VFEPD_SteelCupboardNarrow.description>Велика вузька шафа</VFEPD_SteelCupboardNarrow.description>
+  <VFEPD_PlasteelCupboardNarrow.label>вузька шафа з пласталі</VFEPD_PlasteelCupboardNarrow.label>
+  <VFEPD_PlasteelCupboardNarrow.description>Велика вузька шафа</VFEPD_PlasteelCupboardNarrow.description>
+  <VFEPD_SilverCupboardNarrow.label>вузька шафа зі срібла</VFEPD_SilverCupboardNarrow.label>
+  <VFEPD_SilverCupboardNarrow.description>Велика вузька шафа</VFEPD_SilverCupboardNarrow.description>
+  <VFEPD_WoodenCupboardNarrow.label>вузька шафа з деревини</VFEPD_WoodenCupboardNarrow.label>
+  <VFEPD_WoodenCupboardNarrow.description>Велика вузька шафа</VFEPD_WoodenCupboardNarrow.description>
+
+  <VFEPD_SteelTallCabinet.label>висока шафа зі сталі</VFEPD_SteelTallCabinet.label>
+  <VFEPD_SteelTallCabinet.description>Высокий порожня шафа.</VFEPD_SteelTallCabinet.description>
+  <VFEPD_PlasteelTallCabinet.label>висока шафа з пласталі</VFEPD_PlasteelTallCabinet.label>
+  <VFEPD_PlasteelTallCabinet.description>Высокий порожня шафа.</VFEPD_PlasteelTallCabinet.description>
+  <VFEPD_SilverTallCabinet.label>висока шафа зі срібла</VFEPD_SilverTallCabinet.label>
+  <VFEPD_SilverTallCabinet.description>Высокий порожня шафа.</VFEPD_SilverTallCabinet.description>
+  <VFEPD_WoodenTallCabinet.label>висока шафа з деревини</VFEPD_WoodenTallCabinet.label>
+  <VFEPD_WoodenTallCabinet.description>Высокий порожня шафа.</VFEPD_WoodenTallCabinet.description>
+
+  <VFEPD_SteelShortCupboard.label>низька шафа зі сталі</VFEPD_SteelShortCupboard.label>
+  <VFEPD_SteelShortCupboard.description>Низька порожня шафа.</VFEPD_SteelShortCupboard.description>
+  <VFEPD_PlasteelShortCupboard.label>низька шафа з пласталі</VFEPD_PlasteelShortCupboard.label>
+  <VFEPD_PlasteelShortCupboard.description>Низька порожня шафа.</VFEPD_PlasteelShortCupboard.description>
+  <VFEPD_SilverShortCupboard.label>низька шафа зі срібла</VFEPD_SilverShortCupboard.label>
+  <VFEPD_SilverShortCupboard.description>Низька порожня шафа.</VFEPD_SilverShortCupboard.description>
+  <VFEPD_WoodenShortCupboard.label>низька шафа з деревини</VFEPD_WoodenShortCupboard.label>
+  <VFEPD_WoodenShortCupboard.description>Низька порожня шафа.</VFEPD_WoodenShortCupboard.description>
+
+  <VFEPD_SteelShortCupboardPlates.label>низька шафа з тарілками зі сталі</VFEPD_SteelShortCupboardPlates.label>
+  <VFEPD_SteelShortCupboardPlates.description>Низька шафа з тарілками.</VFEPD_SteelShortCupboardPlates.description>
+  <VFEPD_PlasteelShortCupboardPlates.label>низька шафа з тарілками з пласталі</VFEPD_PlasteelShortCupboardPlates.label>
+  <VFEPD_PlasteelShortCupboardPlates.description>Низька шафа з тарілками.</VFEPD_PlasteelShortCupboardPlates.description>
+  <VFEPD_SilverShortCupboardPlates.label>низька шафа з тарілками зі срібла</VFEPD_SilverShortCupboardPlates.label>
+  <VFEPD_SilverShortCupboardPlates.description>Низька шафа з тарілками.</VFEPD_SilverShortCupboardPlates.description>
+  <VFEPD_WoodenShortCupboardPlates.label>низька шафа з тарілками з деревини</VFEPD_WoodenShortCupboardPlates.label>
+  <VFEPD_WoodenShortCupboardPlates.description>Низька шафа з тарілками.</VFEPD_WoodenShortCupboardPlates.description>
+
+  <VFEPD_Desk.label>письмовий стіл</VFEPD_Desk.label>
+  <VFEPD_Desk.description>Письмовий стіл.</VFEPD_Desk.description>
+  <VFEPD_CoffeeTable.label>журнальний столик (2x1)</VFEPD_CoffeeTable.label>
+  <VFEPD_CoffeeTable.description>Журнальний столик.</VFEPD_CoffeeTable.description>
+  <VFEPD_CoffeeTableSmall.label>журнальний столик (1x1)</VFEPD_CoffeeTableSmall.label>
+  <VFEPD_CoffeeTableSmall.description>Журнальний столик.</VFEPD_CoffeeTableSmall.description>
+
+  <VFEPD_SteelDivider.label>ширма зі сталі</VFEPD_SteelDivider.label>
+  <VFEPD_SteelDivider.description>Висока непрохідна перегородка.</VFEPD_SteelDivider.description>
+  <VFEPD_PlasteelDivider.label>ширма з пласталі</VFEPD_PlasteelDivider.label>
+  <VFEPD_PlasteelDivider.description>Висока непрохідна перегородка.</VFEPD_PlasteelDivider.description>
+  <VFEPD_SilverDivider.label>ширма зі срібла</VFEPD_SilverDivider.label>
+  <VFEPD_SilverDivider.description>Висока непрохідна перегородка.</VFEPD_SilverDivider.description>
+  <VFEPD_WoodenDivider.label>ширма з деревини</VFEPD_WoodenDivider.label>
+  <VFEPD_WoodenDivider.description>Висока непрохідна перегородка.</VFEPD_WoodenDivider.description>
+
+  <VFEPD_SteelPlankDivider.label>перегородка зі сталі</VFEPD_SteelPlankDivider.label>
+  <VFEPD_SteelPlankDivider.description>Висока непрохідна перегородка.</VFEPD_SteelPlankDivider.description>
+  <VFEPD_PlasteelPlankDivider.label>перегородка з пласталі</VFEPD_PlasteelPlankDivider.label>
+  <VFEPD_PlasteelPlankDivider.description>Висока непрохідна перегородка.</VFEPD_PlasteelPlankDivider.description>
+  <VFEPD_SilverPlankDivider.label>перегородка зі срібла</VFEPD_SilverPlankDivider.label>
+  <VFEPD_SilverPlankDivider.description>Висока непрохідна перегородка.</VFEPD_SilverPlankDivider.description>
+  <VFEPD_WoodenPlankDivider.label>перегородка з деревини</VFEPD_WoodenPlankDivider.label>
+  <VFEPD_WoodenPlankDivider.description>Висока непрохідна перегородка.</VFEPD_WoodenPlankDivider.description>
+
+  <VFEPD_SteelMirror.label>дзеркало зі сталі</VFEPD_SteelMirror.label>
+  <VFEPD_SteelMirror.description>Велике дзеркало.</VFEPD_SteelMirror.description>
+  <VFEPD_PlasteelMirror.label>дзеркало з пласталі</VFEPD_PlasteelMirror.label>
+  <VFEPD_PlasteelMirror.description>Велике дзеркало.</VFEPD_PlasteelMirror.description>
+  <VFEPD_SilverMirror.label>дзеркало зі срібла</VFEPD_SilverMirror.label>
+  <VFEPD_SilverMirror.description>Велике дзеркало.</VFEPD_SilverMirror.description>
+  <VFEPD_WoodenMirror.label>дзеркало з деревини</VFEPD_WoodenMirror.label>
+  <VFEPD_WoodenMirror.description>Велике дзеркало.</VFEPD_WoodenMirror.description>
+
+  <VFEPD_SteelVendingMachine.label>торговий автомат зі сталі</VFEPD_SteelVendingMachine.label>
+  <VFEPD_SteelVendingMachine.description>Непрацюючий торговий автомат.</VFEPD_SteelVendingMachine.description>
+  <VFEPD_PlasteelVendingMachine.label>торговий автомат з пласталі</VFEPD_PlasteelVendingMachine.label>
+  <VFEPD_PlasteelVendingMachine.description>Непрацюючий торговий автомат.</VFEPD_PlasteelVendingMachine.description>
+  <VFEPD_SilverVendingMachine.label>торговий автомат зі срібла</VFEPD_SilverVendingMachine.label>
+  <VFEPD_SilverVendingMachine.description>Непрацюючий торговий автомат.</VFEPD_SilverVendingMachine.description>
+  <VFEPD_WoodenVendingMachine.label>торговий автомат з деревини</VFEPD_WoodenVendingMachine.label>
+  <VFEPD_WoodenVendingMachine.description>Непрацюючий торговий автомат.</VFEPD_WoodenVendingMachine.description>
+
+  <VFEPD_WashingMachine.label>пральна машина</VFEPD_WashingMachine.label>
+  <VFEPD_WashingMachine.description>Пральна машина.</VFEPD_WashingMachine.description>
+  <VFEPD_WarehouseShelfEmpty.label>стелаж</VFEPD_WarehouseShelfEmpty.label>
+  <VFEPD_WarehouseShelfEmpty.description>Непрохідна складська полиця.</VFEPD_WarehouseShelfEmpty.description>
+  <VFEPD_WarehouseShelfBoxes.label>стелаж з коробками</VFEPD_WarehouseShelfBoxes.label>
+  <VFEPD_WarehouseShelfBoxes.description>Непрохідна складська полиця з коробками.</VFEPD_WarehouseShelfBoxes.description>
+
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_CarForklift.label>навантажувач</VFEPD_CarForklift.label>
+    <VFEPD_CarForklift.description>Навантажувач вилковий промислового типу.</VFEPD_CarForklift.description>
+
+    <VFEPD_CarDeliveryBlack.label>вантажівка (чорна)</VFEPD_CarDeliveryBlack.label>
+    <VFEPD_CarDeliveryBlack.description>Велика вантажівка.</VFEPD_CarDeliveryBlack.description>
+
+    <VFEPD_CarDeliveryWhite.label>вантажівка (біла)</VFEPD_CarDeliveryWhite.label>
+    <VFEPD_CarDeliveryWhite.description>Велика вантажівка.</VFEPD_CarDeliveryWhite.description>
+
+    <VFEPD_CarDeliveryBlue.label>вантажівка (срібна)</VFEPD_CarDeliveryBlue.label>
+    <VFEPD_CarDeliveryBlue.description>Велика вантажівка.</VFEPD_CarDeliveryBlue.description>
+
+    <VFEPD_CarDeliveryRed.label>вантажівка (синя)</VFEPD_CarDeliveryRed.label>
+    <VFEPD_CarDeliveryRed.description>Велика вантажівка.</VFEPD_CarDeliveryRed.description>
+
+    <VFEPD_CarDeliverySilver.label>вантажівка (червона)</VFEPD_CarDeliverySilver.label>
+    <VFEPD_CarDeliverySilver.description>Велика вантажівка.</VFEPD_CarDeliverySilver.description>
+
+
+    <VFEPD_CarFamilyBlack.label>сімейна автівка (чорна)</VFEPD_CarFamilyBlack.label>
+    <VFEPD_CarFamilyBlack.description>Сімейна автівка.</VFEPD_CarFamilyBlack.description>
+
+    <VFEPD_CarFamilyWhite.label>сімейна автівка (біла)</VFEPD_CarFamilyWhite.label>
+    <VFEPD_CarFamilyWhite.description>Сімейна автівка.</VFEPD_CarFamilyWhite.description>
+
+    <VFEPD_CarFamilySilver.label>сімейна автівка (срібна)</VFEPD_CarFamilySilver.label>
+    <VFEPD_CarFamilySilver.description>Сімейна автівка.</VFEPD_CarFamilySilver.description>
+
+    <VFEPD_CarFamilyBlue.label>сімейна автівка (синя)</VFEPD_CarFamilyBlue.label>
+    <VFEPD_CarFamilyBlue.description>Сімейна автівка.</VFEPD_CarFamilyBlue.description>
+
+    <VFEPD_CarFamilyRed.label>сімейна автівка (червона)</VFEPD_CarFamilyRed.label>
+    <VFEPD_CarFamilyRed.description>Сімейна автівка.</VFEPD_CarFamilyRed.description>
+
+
+    <VFEPD_CarVintageBlack.label>старовинна автівка (чорна)</VFEPD_CarVintageBlack.label>
+    <VFEPD_CarVintageBlack.description>Старовинна автівка.</VFEPD_CarVintageBlack.description>
+
+    <VFEPD_CarVintageWhite.label>старовинна автівка (біла)</VFEPD_CarVintageWhite.label>
+    <VFEPD_CarVintageWhite.description>Старовинна автівка.</VFEPD_CarVintageWhite.description>
+
+    <VFEPD_CarVintageSilver.label>старовинна автівка (срібна)</VFEPD_CarVintageSilver.label>
+    <VFEPD_CarVintageSilver.description>Старовинна автівка.</VFEPD_CarVintageSilver.description>
+
+    <VFEPD_CarVintageBlue.label>старовинна автівка (синя)</VFEPD_CarVintageBlue.label>
+    <VFEPD_CarVintageBlue.description>Старовинна автівка.</VFEPD_CarVintageBlue.description>
+
+    <VFEPD_CarVintageRed.label>старовинна автівка (червона)</VFEPD_CarVintageRed.label>
+    <VFEPD_CarVintageRed.description>Старовинна автівка.</VFEPD_CarVintageRed.description>
+
+
+    <VFEPD_CarPickupBlack.label>пікап (чорний)</VFEPD_CarPickupBlack.label>
+    <VFEPD_CarPickupBlack.description>Велика автівка з кузовом.</VFEPD_CarPickupBlack.description>
+
+    <VFEPD_CarPickupWhite.label>пікап (білий)</VFEPD_CarPickupWhite.label>
+    <VFEPD_CarPickupWhite.description>>Велика автівка з кузовом.</VFEPD_CarPickupWhite.description>
+
+    <VFEPD_CarPickupSilver.label>пікап (срібний)</VFEPD_CarPickupSilver.label>
+    <VFEPD_CarPickupSilver.description>>Велика автівка з кузовом.</VFEPD_CarPickupSilver.description>
+
+    <VFEPD_CarPickupBlue.label>пікап (синій)</VFEPD_CarPickupBlue.label>
+    <VFEPD_CarPickupBlue.description>>Велика автівка з кузовом.</VFEPD_CarPickupBlue.description>
+
+    <VFEPD_CarPickupRed.label>пікап (червоний)</VFEPD_CarPickupRed.label>
+    <VFEPD_CarPickupRed.description>>Велика автівка з кузовом.</VFEPD_CarPickupRed.description>
+
+
+
+</LanguageData>

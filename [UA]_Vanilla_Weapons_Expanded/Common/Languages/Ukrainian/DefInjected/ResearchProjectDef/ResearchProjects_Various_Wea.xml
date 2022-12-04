@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Longbow.label>довгі луки</VWE_Longbow.label>
+  <VWE_Longbow.description>Створюйте довгі луки - зброю стародавніх снайперів.</VWE_Longbow.description>
+
+  <VWE_Crossbow.label>арбалети</VWE_Crossbow.label>
+  <VWE_Crossbow.description>Створюйте арбалети - середньовічну зброю далекого бою для знищення броньованих ворогів.</VWE_Crossbow.description>
+
+  <VWE_CompoundBow.label>блокові луки</VWE_CompoundBow.label>
+  <VWE_CompoundBow.description>Створюйте блочні луки — стародавня зброя із сучасних матеріалів, що випускає стріли безшумно та вкрай ефективно.</VWE_CompoundBow.description>
+
+  <VWE_Tools.label>інструменти</VWE_Tools.label>
+  <VWE_Tools.description>Виготовляйте інструменти для спрощення ручної праці.</VWE_Tools.description>
+
+  <VWE_Gunpowder.label>димний порох</VWE_Gunpowder.label>
+  <VWE_Gunpowder.description>Синтезуйте димний порох - першу хімічну вибухову речовину.</VWE_Gunpowder.description>
+
+  <VWE_TrenchWarfare.label>окопна війна</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Адаптуйте свою військову доктрину до окопної війни за допомогою нової зброї для ближнього бою.</VWE_TrenchWarfare.description>
+
+  <VWE_HeavyWeapons.label>важке озброєння</VWE_HeavyWeapons.label>
+  <VWE_HeavyWeapons.description>Створюйте важку зброю, яка пропонує чудову вогневу міць, за рахунок фізичних вимог до стрільця.</VWE_HeavyWeapons.description>
+
+  <VWE_Flamethrower.label>вогнемети</VWE_Flamethrower.label>
+  <VWE_Flamethrower.description>Створіть вогнемети - зброю, що випускає в далечінь контрольований потік вогню. Їхня смертоносність призвела до заборон у багатьох цивілізованих світах.</VWE_Flamethrower.description>
+
+  <VWE_SpecializedFirearms.label>спеціалізована зброя</VWE_SpecializedFirearms.label>
+  <VWE_SpecializedFirearms.description>Створюйте спеціалізовану зброю для вимогливих до стрільців бойових сценаріїв.</VWE_SpecializedFirearms.description>
+
+  <VWE_DesignatedMarksmanRifle.label>снайперська зброя</VWE_DesignatedMarksmanRifle.label>
+  <VWE_DesignatedMarksmanRifle.description>Створюйте напівавтоматичні гвинтівки для знищення ворога на великій відстані.</VWE_DesignatedMarksmanRifle.description>
+
+  <VWE_TacticalGrenades.label>тактичні гранати</VWE_TacticalGrenades.label>
+  <VWE_TacticalGrenades.description>Створюйте спеціалізовані гранати для різних бойових контактів.</VWE_TacticalGrenades.description>
+
+  <VWE_LaserTargetingSystems.label>системи лазерного наведення</VWE_LaserTargetingSystems.label>
+  <VWE_LaserTargetingSystems.description>Адаптуйте системи лазерного наведення для точної та швидкої доставки вибухових «посилок».</VWE_LaserTargetingSystems.description>
+
+  <Greatbow.label>великі луки</Greatbow.label>
+  <Greatbow.description>Створюйте великі луки - зброю, якою можна вражати цілі з величезної відстані.</Greatbow.description>
+</LanguageData>

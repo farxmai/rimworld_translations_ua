@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_RawAvocado.label>авокадо</VCE_RawAvocado.label>
+  <VCE_RawAvocado.description>Фрукт зеленого або трохи чорного кольору з великим насінням у центрі та м'якоттю, що майже немає смаку. Хіпстери їх люблять.</VCE_RawAvocado.description>
+
+  <VCE_RawMelon.label>кавуни</VCE_RawMelon.label>
+  <VCE_RawMelon.description>Солодка та соковита ягода значних розмірів. Їх зазвичай вирощують у теплих регіонах.</VCE_RawMelon.description>
+
+  <VCE_RawPineapple.label>ананаси</VCE_RawPineapple.label>
+  <VCE_RawPineapple.description>Солодкий тропічний фрукт з щільною шкіркою і гострими листками нагорі.</VCE_RawPineapple.description>
+
+  <VCE_RawCoconut.label>кокоси</VCE_RawCoconut.label>
+  <VCE_RawCoconut.description>Їстівний фрукт, що росте на кокосових пальм. М'якуш кокосу багатий жирами і може бути висушений, перероблений в кокосове молоко або кокосове масло. Кокосовий сік, що міститься всередині горіха, часто використовують у приготуванні різних напоїв.</VCE_RawCoconut.description>
+
+  <VCE_RawAlmonds.label>мигдаль</VCE_RawAlmonds.label>
+  <VCE_RawAlmonds.description>Горіх довгастої форми. Може вживатися сирим або смаженим, а також може бути доданий до різних страв. Часто є основою для різних солодощів.</VCE_RawAlmonds.description>
+
+  <VCE_Mangoes.label>манго</VCE_Mangoes.label>
+  <VCE_Mangoes.description>Яйцеподібний фрукт, шкірка якого найчастіше має яскравий червоний або жовтий відтінок. Помаранчево-жовта та характерна солодко-пряна на смак м'якоть оточує кісточку сплюснутої форми.\n\n&lt;color=#E5E54C&gt;Вплив на ігровий процес:&lt;/color&gt; Манго не можуть бути заморожені, тому що миттєво псуються. Гра недостатньо розумна, щоб розпізнати це, тому не ставте їх у холодильник.</VCE_Mangoes.description>
+</LanguageData>

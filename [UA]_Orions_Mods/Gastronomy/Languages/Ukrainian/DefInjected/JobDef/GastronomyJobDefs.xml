@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gastronomy_Dine.reportString>обідає у ресторані.</Gastronomy_Dine.reportString>
+  <Gastronomy_StandBy.reportString>чекає на офіціанта.</Gastronomy_StandBy.reportString>
+  <Gastronomy_TakeOrder.reportString>приймає замовлення від TargetB.</Gastronomy_TakeOrder.reportString>
+  <Gastronomy_Serve.reportString>несе TargetB для TargetA.</Gastronomy_Serve.reportString>
+  <Gastronomy_MakeTable.reportString>накриває на стіл.</Gastronomy_MakeTable.reportString>
+
+</LanguageData>

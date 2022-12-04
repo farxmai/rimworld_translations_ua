@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.0.label>щастя</VPE_Bliss.stages.0.label>
+  <!-- EN: Maybe it isn't all bad. -->
+  <VPE_Bliss.stages.0.description>Можливо, все не так й погано.</VPE_Bliss.stages.0.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.1.label>щастя</VPE_Bliss.stages.1.label>
+  <!-- EN: I think things are getting better. -->
+  <VPE_Bliss.stages.1.description>Я думаю, що справи йдуть на краще.</VPE_Bliss.stages.1.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.2.label>щастя</VPE_Bliss.stages.2.label>
+  <!-- EN: Everything is improving, slowly but surely. -->
+  <VPE_Bliss.stages.2.description>Все йде на краще, повільно, але впевнено.</VPE_Bliss.stages.2.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.3.label>щастя</VPE_Bliss.stages.3.label>
+  <!-- EN: I'm feeling good right now, things are looking up. -->
+  <VPE_Bliss.stages.3.description>Зараз я почуваюся добре, все налагоджується.</VPE_Bliss.stages.3.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.4.label>щастя</VPE_Bliss.stages.4.label>
+  <!-- EN: I feel warm and fuzzy, just being alive feels great. -->
+  <VPE_Bliss.stages.4.description>Я почуваюся теплим і пухким, просто бути живим це чудово.</VPE_Bliss.stages.4.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.5.label>щастя</VPE_Bliss.stages.5.label>
+  <!-- EN: I'm just about to burst with excitement. I love this colony, I love this world and all the lives on it -->
+  <VPE_Bliss.stages.5.description>Я ось-ось лопну від хвилювання. Я люблю цю колонію, я люблю цей світ і все живе на ньому.</VPE_Bliss.stages.5.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.6.label>щастя</VPE_Bliss.stages.6.label>
+  <!-- EN: All the colors of this world are so vivid, the sounds are so tranquil, the air is so crisp. This life leaves me breathless. -->
+  <VPE_Bliss.stages.6.description>Усі кольори цього світу такі яскраві, звуки такі спокійні, повітря таке чисте. Це життя перехоплює подих.</VPE_Bliss.stages.6.description>
+  <!-- EN: bliss -->
+  <VPE_Bliss.stages.7.label>щастя</VPE_Bliss.stages.7.label>
+  <!-- EN: This is it, isn't it? I've truly reached nirvana itself. Life itself is the very embodiment of happiness. -->
+  <VPE_Bliss.stages.7.description>Це все, чи не так? Я справді у нірвані. Саме життя є втіленням щастя.</VPE_Bliss.stages.7.description>
+
+  <!-- EN: mind wiped -->
+  <VPE_MindWiped.stages.0.label>розум очищено</VPE_MindWiped.stages.0.label>
+  <!-- EN: I don’t remember anything, I’m exploring everything anew! -->
+  <VPE_MindWiped.stages.0.description>Нічого не пам'ятаю, все вивчаю заново!</VPE_MindWiped.stages.0.description>
+
+  <!-- EN: time quake -->
+  <VPE_TimeQuake.stages.0.label>хроношторм</VPE_TimeQuake.stages.0.label>
+  <!-- EN: Everyone I knew has changed so much. This timequake really did a number on me. -->
+  <VPE_TimeQuake.stages.0.description>Усі, кого я знав, дуже змінилися. Цей часотрус справді залишив на мені слід.</VPE_TimeQuake.stages.0.description>
+
+  <!-- EN: I know my future! -->
+  <VPE_Future.stages.0.label>Майбутнє відоме!</VPE_Future.stages.0.label>
+  <!-- EN: I know my future, and things are looking good! -->
+  <VPE_Future.stages.0.description>Я знаю своє майбутнє, і все виглядає добре!</VPE_Future.stages.0.description>
+
+  <!-- EN: Thrall -->
+  <VPE_Thrall.stages.0.label>псі-раб</VPE_Thrall.stages.0.label>
+  <!-- EN: Ughhh ugghhh aaaahhhh -->
+  <VPE_Thrall.stages.0.description>Уууу... Аааа... гориииить... москва...</VPE_Thrall.stages.0.description>
+</LanguageData>

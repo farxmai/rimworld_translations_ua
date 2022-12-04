@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: high -->
+  <VME_JunkDeconstructionYield_High.label>висока</VME_JunkDeconstructionYield_High.label>
+  <!-- EN: To throw away that which could be reused is utterly wasteful, every last shred of leather or fragment of steel can be repurposed.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Deconstructing a building returns 100% of its original materials. This also applies to destroying a building (as long as the building produces resources when destroyed), and when failing to construct it. -->
+  <VME_JunkDeconstructionYield_High.description>Викидати те, що можна використовувати повторно, вкрай марнотратно. Кожен шматочок шкіри або шматок металобрухту повинен знову піти у справу.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Розбирання споруд повертає 100% вихідних матеріалів. Це також стосується і руйнування будівель (якщо вони розпадаються на ресурси під час руйнування), і до невдач під час будівництва.</VME_JunkDeconstructionYield_High.description>
+</LanguageData>

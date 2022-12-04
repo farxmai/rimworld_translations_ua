@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_Cocoon.label>павучий кокон</VAECaves_Cocoon.label>
+  <VAECaves_Cocoon.description>павучий кокон. може мати здобич. Якщо кокон не відкрити найближчим часом, його мешканець напевно задихнеться і загине.</VAECaves_Cocoon.description>
+
+  <VAECaves_EmptyCocoon.label>пустий павучий кокон</VAECaves_EmptyCocoon.label>
+  <VAECaves_EmptyCocoon.description>пустий павучий кокон.</VAECaves_EmptyCocoon.description>
+
+  <VAECaves_SpiderLair.label>павуче гніздо</VAECaves_SpiderLair.label>
+  <VAECaves_SpiderLair.description>гніздо бридких павуков.</VAECaves_SpiderLair.description>
+
+  <VAECaves_SpiderEggs.label>павучі яйца</VAECaves_SpiderEggs.label>
+  <VAECaves_SpiderEggs.description>Яйця, з яких вилупляються велетенські павучата.</VAECaves_SpiderEggs.description>
+
+
+</LanguageData>

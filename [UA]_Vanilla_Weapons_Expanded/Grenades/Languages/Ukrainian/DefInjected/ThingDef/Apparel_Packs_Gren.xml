@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_Apparel_GrenadeEMPBelt.label>зв'язка ЕМІ-гранат</VWE_Apparel_GrenadeEMPBelt.label>
+  <VWE_Apparel_GrenadeEMPBelt.description>Зв'язка електромагнітних гранат, що завдають шкоди електронному обладнанню, закріплена на поясі. Їх можна кинути на невелику відстань і, коли вони вибухнуть, вимикають всю електроніку довкола. Зв'язку можна поповнювати ЕМІ-гранатами.</VWE_Apparel_GrenadeEMPBelt.description>
+  <VWE_Apparel_GrenadeEMPBelt.verbs.0.label>кинути ЕМІ-гранату</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>ЕМІ</VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>
+  
+
+  <VWE_Apparel_GrenadeFragBelt.label>зв'язка осколкових гранат</VWE_Apparel_GrenadeFragBelt.label>
+  <VWE_Apparel_GrenadeFragBelt.description>Зв'язка старих добрих осколкових гранат, закріплена на поясі. Їх можна кинути на невелику відстань і, коли вони вибухнуть, пошкоджуючи усе навколо. Зв'язку можна поповнювати уламковими гранатами.</VWE_Apparel_GrenadeFragBelt.description>
+  <VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>кинути осколочную гранату</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
+  <VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>осколочных</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>
+
+
+  <VWE_Apparel_GrenadeMolotovBelt.label>зв'язка коктейлів Молотова</VWE_Apparel_GrenadeMolotovBelt.label>
+  <VWE_Apparel_GrenadeMolotovBelt.description>Зв'язка скляних пляшок з легкозаймистою рідиною, закріплене на поясі. Улюблена зброя хуліганів та відчайдушних бійців. Їх можна кинути на невелику відстань і, коли вони вибухнуть, підпалять усіх і всі довкола. Зв'язку можна поповнювати коктейлями Молотова.</VWE_Apparel_GrenadeMolotovBelt.description>
+  <VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>кинути коктейль Молотова</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>Молотовых</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>
+
+
+  <VWE_Apparel_GrenadeSmokeBelt.label>зв'язка димових гранат</VWE_Apparel_GrenadeSmokeBelt.label>
+  <VWE_Apparel_GrenadeSmokeBelt.description>Зв'язка старомодних ємностей зі стисненим димом, закріплена на поясі, яка вибухає при ударі та створює стіну диму. Зв'язку можна поповнювати димовими гранатами.</VWE_Apparel_GrenadeSmokeBelt.description>
+  <VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>кинути димовую гранату</VWE_Apparel_GrenadeSmokeBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompReloadable.chargeNoun>димових</VWE_Apparel_GrenadeSmokeBelt.comps.CompReloadable.chargeNoun>
+
+
+  <VWE_Apparel_GrenadeToxicBelt.label>зв'язка отруйних гранат</VWE_Apparel_GrenadeToxicBelt.label>
+  <VWE_Apparel_GrenadeToxicBelt.description>Зв'язка заповнених смертоносним газом ємностей, закріплена на поясі, що викликає сильну інтоксикацію за дуже короткий проміжок часу. Зв'язку можна поповнювати отруйними гранатами.</VWE_Apparel_GrenadeToxicBelt.description>
+  <VWE_Apparel_GrenadeToxicBelt.verbs.0.label>кинути отруйну гранату</VWE_Apparel_GrenadeToxicBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>отруйних</VWE_Apparel_GrenadeToxicBelt.comps.CompReloadable.chargeNoun>
+
+
+  <VWE_Apparel_GrenadeFlashBelt.label>зв'язка світлошумових гранат</VWE_Apparel_GrenadeFlashBelt.label>
+  <VWE_Apparel_GrenadeFlashBelt.description>Зв'язка світлошумових гранат, закріплена на поясі. Тимчасово приголомшує органічних противників, дозволяючи скоротити дистанцію. Зв'язку можна поповнювати світлошумовими гранатами.</VWE_Apparel_GrenadeFlashBelt.description>
+  <VWE_Apparel_GrenadeFlashBelt.verbs.0.label>кинути світлошумову гранату</VWE_Apparel_GrenadeFlashBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompReloadable.chargeNoun>світлошумову</VWE_Apparel_GrenadeFlashBelt.comps.CompReloadable.chargeNoun>
+
+
+  <VWE_Apparel_GrenadeTearGasBelt.label>зв'язка сльозогінних гранат</VWE_Apparel_GrenadeTearGasBelt.label>
+  <VWE_Apparel_GrenadeTearGasBelt.description>Зв'язка ємностей сучасного зразка зі спеціальним з'єднанням, що називається у більшості світів сльозогінним газом. Тимчасово засліплює цілі. Зв'язку можна поповнювати гранатами зі сльозогінним газом.</VWE_Apparel_GrenadeTearGasBelt.description>
+  <VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>кинути сльозогінну гранат</VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>
+  <VWE_Apparel_GrenadeTearGasBelt.comps.CompReloadable.chargeNoun>сльозогінних</VWE_Apparel_GrenadeTearGasBelt.comps.CompReloadable.chargeNoun>
+</LanguageData>

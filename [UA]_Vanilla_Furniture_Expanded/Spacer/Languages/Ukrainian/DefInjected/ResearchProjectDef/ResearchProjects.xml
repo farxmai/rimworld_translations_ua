@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpacerFurniture.label>просунуті меблі</SpacerFurniture.label>
+  <SpacerFurniture.description>Дослідження створення просунутих меблів, які зазвичай можна побачити лише у високорозвинених колоніях та будинках утопічних світів.</SpacerFurniture.description>
+
+  <SpacerElectronics.label>просунута електроніка</SpacerElectronics.label>
+  <SpacerElectronics.description>Дослідження створення просунутої електроніки, яку зазвичай можна побачити лише у високорозвинених колоніях та будинках утопічних світів.</SpacerElectronics.description>
+
+  <MechaniteRestoration.label>відновлення механітами</MechaniteRestoration.label>
+  <MechaniteRestoration.description>Дослідження використання механітів для відновлення об'єктів шляхом будівництва високотехнологічного ремонтного стелажу.</MechaniteRestoration.description>
+
+</LanguageData>

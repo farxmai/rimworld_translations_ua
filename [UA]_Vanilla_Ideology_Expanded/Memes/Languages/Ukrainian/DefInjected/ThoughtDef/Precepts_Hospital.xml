@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: need hospital -->
+  <VME_Hospital_Required.stages.0.label>потрібна лікарня</VME_Hospital_Required.stages.0.label>
+  <!-- EN: We lack a place to help people and should have a dedicated hospital. -->
+  <VME_Hospital_Required.stages.0.description>Ми не маємо місця, де можна було б допомогти людям. Нам потрібне виділене під лікарню приміщення.</VME_Hospital_Required.stages.0.description>
+
+  <!-- EN: dirty hospital -->
+  <VME_Hospital_Required.stages.1.label>брудна лікарня</VME_Hospital_Required.stages.1.label>
+  <!-- EN: We have a hospital, but it is incredibly dirty. We are not animals! -->
+  <VME_Hospital_Required.stages.1.description>У нас є лікарня, але вона неймовірно брудна. Ми не тварини!</VME_Hospital_Required.stages.1.description>
+
+  <!-- EN: small hospital -->
+  <VME_Hospital_Required.stages.2.label>Невелика лікарня</VME_Hospital_Required.stages.2.label>
+  <!-- EN: We have a small hospital. -->
+  <VME_Hospital_Required.stages.2.description>В нас є невеличка лікарня.</VME_Hospital_Required.stages.2.description>
+
+  <!-- EN: spacious hospital -->
+  <VME_Hospital_Required.stages.3.label>простора лікарня</VME_Hospital_Required.stages.3.label>
+  <!-- EN: We have a very spacious hospital. -->
+  <VME_Hospital_Required.stages.3.description>В нас є простора лікарня.</VME_Hospital_Required.stages.3.description>
+
+  <!-- EN: huge hospital -->
+  <VME_Hospital_Required.stages.4.label>величезна лікарня</VME_Hospital_Required.stages.4.label>
+  <!-- EN: We have a huge, professional hospital! -->
+  <VME_Hospital_Required.stages.4.description>Ми маємо величезну професійну лікарню!</VME_Hospital_Required.stages.4.description>
+</LanguageData>

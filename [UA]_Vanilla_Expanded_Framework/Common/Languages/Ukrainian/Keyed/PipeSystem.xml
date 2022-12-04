@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PipeSystem_Consumption>{0} споживання</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>Сума {0} на день, яку ця будівля буде отримувати з системи {1}.</PipeSystem_ConsumptionExplained>
+
+  <PipeSystem_IdleConsumption>{0} споживання у простої</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>Кількість {0}, яку ця будівля отримає з системи {1} під час простою.</PipeSystem_IdleConsumptionExplained>
+
+  <PipeSystem_Production>{0} виробництво</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>Кількість {0}, яку ця будівля вироблятиме на день для системи {1}.</PipeSystem_ProductionExplained>
+
+  <PipeSystem_DeconstructLabel>Розібрати {0} труб</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Деконструювати лише частину труб системи {0}.</PipeSystem_DeconstructDesc>
+
+  <PipeSystem_ResourceOutput>{0} виробляє:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{0} потребує:</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceStored>{0} зберігає:</PipeSystem_ResourceStored>
+
+  <PipeSystem_NotConnected>Не підключено до {0}.</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>{0} надлишок (зберігається) у мережі:</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>{0} зберігаються в мережі:</PipeSystem_Stored>
+
+  <PipeSystem_ValveClosed>Клапан закрито.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>Клапан відкрито.</PipeSystem_ValveOpened>
+
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>Збільшити максимальний розмір стека виведення на 1.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>Збільшити максимальний розмір стека виведення на 10.</PipeSystem_AugmentStackDescB>
+
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>Зменшити максимальний розмір стека виведення на 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>Зменшити максимальний розмір стека виведення на 10.</PipeSystem_DecreaseStackDescB>
+
+  <PipeSystem_AmountOut>Максимальна кількість, що зберігається тут: {0}</PipeSystem_AmountOut>
+
+  <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>Виробництво {0} {1}. Перебіг циклу: {2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>Виготовити {0} {1} із {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>Вибрати результат</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Виберіть результат процесора.</PipeSystem_ChooseResultDesc>
+
+  <PipeSystem_TransferContent>Перенести вміст сховища</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Передайте вміст сховища в інші доступні сховища.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>Перенесення вмісту в інші доступні сховища...</PipeSystem_MarkedToTransferContent>
+
+  <PipeSystem_NothingToRefill>Нема чим поповнювати {0}</PipeSystem_NothingToRefill>
+  <PipeSystem_AllowManualRefill>Дозволити ручне заповнення</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>Дозвольте пішакам безпосередньо поповнювати сховище</PipeSystem_AllowManualRefillDesc>
+
+  <PipeSystem_CantExtract>Неможливо вилучити: сховища заповнено</PipeSystem_CantExtract>
+  <!-- EN: {0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits. -->
+  <PipeSystem_CantPlaceHere>{0} можна розташувати лише на родовищах, де є {1}. Використовуйте глибинні сканери, щоб знайти їх.</PipeSystem_CantPlaceHere>
+  <!-- EN: Amount left in deposit: {0}. -->
+  <PipeSystem_ResourceLeft>Залишилось у родовищі: {0}.</PipeSystem_ResourceLeft>
+
+</LanguageData>

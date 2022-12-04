@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_TableMachiningLarge.label>великий верстат</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Великий і більш просунутий варіант верстата.</VFE_TableMachiningLarge.description>
+
+  <VFE_TableSmithyLarge.label>велика електрокузня</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Великий і більш сучасний варіант електрокузні.</VFE_TableSmithyLarge.description>
+
+  <VFE_TableStoveLarge.label>велика електроплита</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Великий і більш сучасний варіант електроплити.</VFE_TableStoveLarge.description>
+
+  <VFE_TableTailorLarge.label>великий стіл кравця</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Великий і більш розвинений варіант столу кравця. Може використовуватися без електроенергії з ефективністю 33% від звичайної.</VFE_TableTailorLarge.description>
+
+</LanguageData>

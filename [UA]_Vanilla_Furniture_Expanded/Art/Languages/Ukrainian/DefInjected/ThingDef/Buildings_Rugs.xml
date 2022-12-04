@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedRug.label>незакінчений килим</UnfinishedRug.label>
+
+  <VFE_RugSmall.label>малий килим</VFE_RugSmall.label>
+  <VFE_RugSmall.description>Невелике за розміром текстильне покриття для підлоги, оздоблене художньою вишивкою.</VFE_RugSmall.description>
+
+  <VFE_RugLarge.label>великий килим</VFE_RugLarge.label>
+  <VFE_RugLarge.description>Велике за розміром текстильне покриття для підлоги, оздоблене художньою вишивкою.</VFE_RugLarge.description>
+
+  <VFE_RugGrand.label>величезний килим</VFE_RugGrand.label>
+  <VFE_RugGrand.description>Гігантське текстильне покриття для підлоги, створене для того, щоб займати центральне місце в будь-якому інтер'єрі, прикрашене художньою вишивкою.</VFE_RugGrand.description>
+
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <VFEPD_FilthDirt.label>бруд</VFEPD_FilthDirt.label>
+  <VFEPD_FilthDirt.description>Сміття та бруд.</VFEPD_FilthDirt.description>
+
+  <VFEPD_FilthAnimalFilth.label>бруд тварин</VFEPD_FilthAnimalFilth.label>
+  <VFEPD_FilthAnimalFilth.description>Сміття та бруд.</VFEPD_FilthAnimalFilth.description>
+
+  <VFEPD_FilthSand.label>пісок</VFEPD_FilthSand.label>
+  <VFEPD_FilthSand.description>Сміття та бруд.</VFEPD_FilthSand.description>
+
+  <VFEPD_FilthTrash.label>сміття</VFEPD_FilthTrash.label>
+  <VFEPD_FilthTrash.description>Сміття та бруд.</VFEPD_FilthTrash.description>
+
+  <VFEPD_FilthRubbleRock.label>щебінь</VFEPD_FilthRubbleRock.label>
+  <VFEPD_FilthRubbleRock.description>Сміття та бруд.</VFEPD_FilthRubbleRock.description>
+
+  <VFEPD_FilthRubbleSlag.label>металобрухт</VFEPD_FilthRubbleSlag.label>
+  <VFEPD_FilthRubbleSlag.description>Сміття та бруд.</VFEPD_FilthRubbleSlag.description>
+
+  <VFEPD_FilthRubbleSandbags.label>мішки з піском</VFEPD_FilthRubbleSandbags.label>
+  <VFEPD_FilthRubbleSandbags.description>Сміття та бруд.</VFEPD_FilthRubbleSandbags.description>
+
+  <VFEPD_FilthBlood.label>кров</VFEPD_FilthBlood.label>
+  <VFEPD_FilthBlood.description>Сміття та бруд.</VFEPD_FilthBlood.description>
+
+  <VFEPD_FilthBugBlood.label>кров інсектоїдів</VFEPD_FilthBugBlood.label>
+  <VFEPD_FilthBugBlood.description>Сміття та бруд.</VFEPD_FilthBugBlood.description>
+
+  <VFEPD_FilthMachineBits.label>деталі машин</VFEPD_FilthMachineBits.label>
+  <VFEPD_FilthMachineBits.description>Сміття та бруд.</VFEPD_FilthMachineBits.description>
+
+  <VFEPD_FilthAmnioticFluid.label>амніотична рідина</VFEPD_FilthAmnioticFluid.label>
+  <VFEPD_FilthAmnioticFluid.description>Сміття та бруд.</VFEPD_FilthAmnioticFluid.description>
+
+  <VFEPD_FilthSlime.label>слиз</VFEPD_FilthSlime.label>
+  <VFEPD_FilthSlime.description>Сміття та бруд.</VFEPD_FilthSlime.description>
+
+  <VFEPD_FilthVomit.label>блювота</VFEPD_FilthVomit.label>
+  <VFEPD_FilthVomit.description>Сміття та бруд.</VFEPD_FilthVomit.description>
+
+  <VFEPD_FilthFireFoam.label>пожежна піна</VFEPD_FilthFireFoam.label>
+  <VFEPD_FilthFireFoam.description>Сміття та бруд.</VFEPD_FilthFireFoam.description>
+
+  <VFEPD_FilthChemfuel.label>калюжа хімпалива</VFEPD_FilthChemfuel.label>
+  <VFEPD_FilthChemfuel.description>Сміття та бруд.</VFEPD_FilthChemfuel.description>
+
+  <VFEPD_FilthCorpseBile.label>трупна жовч</VFEPD_FilthCorpseBile.label>
+  <VFEPD_FilthCorpseBile.description>Сміття та бруд.</VFEPD_FilthCorpseBile.description>
+
+  <VFEPD_FilthAsh.label>попіл</VFEPD_FilthAsh.label>
+  <VFEPD_FilthAsh.description>Сміття та бруд.</VFEPD_FilthAsh.description>
+
+</LanguageData>

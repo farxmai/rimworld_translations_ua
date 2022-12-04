@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>[1.0, 1.1] RimCuisine 2 Core</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<!-- VCE Wheat to spelt -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Wheat"]/label</xpath>
+					<value>
+						<label>пшениця спельта</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Wheat"]/description</xpath>
+					<value>
+						<description>Спельта - це вид пшениці, який культивують приблизно з 5000 до н.е. Хороше джерело харчових волокон, білка (якого у спельті більше, ніж у звичайній пшениці), а також вітамінів та мінералів.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Flour"]/label</xpath>
+					<value>
+						<label>борошно спельта</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Flour"]/description</xpath>
+					<value>
+						<description>Пшеничне борошно спельти, що використовується у випічці. Пшеничне борошно дуже довго псується, якщо зберігається у сухому місці.</description>
+					</value>
+				</li>
+				<!-- VCE Cheese to Cow Cheese -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_Cheese"]/label</xpath>
+					<value>
+						<label>коров'ячий сир</label>
+					</value>
+				</li>
+				<!-- VCE Cheese Category to Aged Cheese -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingCategoryDef[defName="VCE_Cheese"]/label</xpath>
+					<value>
+						<label>витримані сири</label>
+					</value>
+				</li>
+				<!-- VCE Agave Nectar to maguey syrup -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_AgaveNectar"]/label</xpath>
+					<value>
+						<label>сироп магуї</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_AgaveNectar"]/description</xpath>
+					<value>
+						<description>Напівсолодкий сироп, відомий своїми цілющими та протизапальними властивостями. Хоча він корисніший за цукор, його високий вміст фруктози може бути шкідливим, якщо приймати його занадто часто.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/HediffDef[defName="VCE_ConsumedAgave"]/label</xpath>
+					<value>
+						<label>з'їв(ла) сироп магуї (зі страви)</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/HediffDef[defName="VCE_ConsumedAgave"]/description</xpath>
+					<value>
+						<description>Напівсолодкий сироп, відомий своїми цілющими та протизапальними властивостями. Підвищує швидкість імунізації на 15% протягом 24 годин.</description>
+					</value>
+				</li>
+				<!-- VCE Sugar to Brown Sugar -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_RawSugar"]/label</xpath>
+					<value>
+						<label>коричневий цукор</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VCE_RawSugar"]/description</xpath>
+					<value>
+						<description>Коричневий цукор – це цукор з характерним коричневим кольором через присутність патоки цукрової тростини. Цукор легко перетворюється організмом на енергію, але може деструктивно впливати на нирки та викликати діабет при вживанні в надмірних кількостях.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/HediffDef[defName="VCE_SugarRush"]/label</xpath>
+					<value>
+						<label>з'їв(ла) коричневий цукор (зі страви)</label>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

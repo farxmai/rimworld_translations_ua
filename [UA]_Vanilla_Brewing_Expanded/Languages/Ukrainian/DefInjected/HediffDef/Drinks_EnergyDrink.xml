@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrinkHigh.label>під енергетиком</VBE_EnergyDrinkHigh.label>
+  <VBE_EnergyDrinkHigh.description>Енергетики негайно відновлюють втому та збільшують швидкість руху за рахунок збою роботи організму через деякий час.</VBE_EnergyDrinkHigh.description>
+  <VBE_EnergyDrinkHigh.labelNoun>під енергетиком</VBE_EnergyDrinkHigh.labelNoun>
+
+  <VBE_EnergyDrinkCrash.label>наслідки від енергетика</VBE_EnergyDrinkCrash.label>
+  <VBE_EnergyDrinkCrash.description>Неприємні наслідки споживання енергетичного напою.</VBE_EnergyDrinkCrash.description>
+  <VBE_EnergyDrinkCrash.labelNoun>наслідки від енергетика</VBE_EnergyDrinkCrash.labelNoun>
+
+
+</LanguageData>

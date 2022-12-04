@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fishing culture -->
+  <VME_Angler.label>рибальсьство</VME_Angler.label>
+  <!-- EN: Serene and therapeutic, placid lakes and lapping shores are criminally underappreciated. With a little time or simple engineering rivers and oceans alike can leave our bellies full of tasty fish. -->
+  <VME_Angler.description>Спокійні та лікувальні, тихі озера та плескітні береги злочинно недооцінюються. З часом та простою технікою річки та океани можуть залишити наші черева повними смачної риби</VME_Angler.description>
+
+  <!-- EN:
+		<li>memeAdjective->piscatorial</li>
+		<li>memeAdjective->coastal</li>
+		<li>memeAdjective->seafaring</li>
+		<li>memeAdjective->angling</li>
+		<li>memeHyphenPrefix->fish</li>
+		<li>memeHyphenPrefix->river</li>
+		<li>memeHyphenPrefix->sea</li>
+		<li>memeConcept->fishing</li>
+  -->
+  <VME_Angler.generalRules.rulesStrings>
+    <li>memeAdjective->річковий</li>
+    <li>memeAdjective->прибережний</li>
+    <li>memeAdjective->морський</li>
+    <li>memeAdjective->рибальський</li>
+    <li>memeHyphenPrefix->рибно</li>
+    <li>memeHyphenPrefix->річко</li>
+    <li>memeHyphenPrefix->океано</li>
+    <li>memeConcept->риболовлі</li>
+    <li>memeConcept->морської вдачі</li>
+    <li>memeConcept->рибацтва</li>
+  </VME_Angler.generalRules.rulesStrings>
+
+  <!-- EN:
+	  <li>creation(tag=meme_Anglers)        ->[deity0_name] spoke to all [deity0_possessive] followers and told them: "Again, the kingdom of heaven is like a dragnet cast into the sea, and gathering fish of every kind."</li>
+	  <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] said to all the [memberNamePlural], "Follow Me, and I will make you fishers of men."</li>
+	  
+    <li>intro(tag=meme_Anglers)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and great angling competitions took place there every year.</li>
+	  <li>conflict(tag=meme_Anglers)        ->An envious [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to poison the lakes and seas surrounding the [altarName].</li>
+	  <li>founderJoin(tag=meme_Anglers)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] divine intelligence and [founder_pronoun] built a great water purifier, and the waters once again teamed with thousands of fish.</li>
+    <li>victory(tag=meme_Anglers)         ->The [foeSoldiers] and the [foeLeader] were humiliated and thwarted, and they had to leave the [memberNamePlural] alone.</li>
+	  
+    <li>setup(tag=meme_Anglers)           ->Our founder [founderName] was the greatest angler to have lived. No fish was big enough for [founderName_objective].</li>
+	  <li>story(uses=1,tag=meme_Anglers)    ->[founderName] taught us that fishing is a state of mind. [founderName_pronoun] always said that the charm of fishing is that it is the pursuit of what is elusive but attainable, a perpetual series of occasions for hope.</li>
+	  
+    <li>lessonIntro(tag=meme_Anglers)         ->I've spent as much of my life fishing as decency allowed, and sometimes I don't let even that get in my way. I have learned that</li>
+	  <li>lesson(tag=meme_Anglers)              ->fishing is a hard job. Fishing at night. Rain. Day, night. You have to be wise and smart. And quick.</li>
+	  <li>lessonReinforcement(tag=meme_Anglers) ->After a day's fishing, I'll know the solution to something or have good ideas that were not accessible before.</li>
+	  
+    <li>archistBasis(tag=meme_Anglers)    ->The archotechs filled the oceans and the rivers with wondrous plenty, accessible to anyone with the knowledge to take advantage of it.</li>
+	  <li>archistFact(tag=meme_Anglers)     ->Archotechs value resourcefulness above other things, and we must accept the bounty of the waters as their gift.</li>
+	  <li>archistProphecy(tag=meme_Anglers) ->[inTheEnd], the archotechs will be the greatest anglers, and their catch will be the ones worthy of transcendence.</li>
+	  
+    <li>animistFact(tag=meme_Anglers)     ->The spirits of fish provide us with the greatest bounty: the teeming life present in rivers and oceans.</li>
+	  <li>serketistProphecy(tag=meme_Anglers)->[itIsSaid] we will learn the ways of insects to find food whenever it's needed, by exploiting the greatest bounty: the teeming life present in rivers and oceans.</li>
+	  <li>chthonianProphecy(tag=meme_Anglers)->Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn.</li>
+	  <li>esotericismProphecy(tag=meme_Anglers)->We will discern what is hidden behind these secrets, perhaps by divining the entrails of dead fish.</li>
+	  <li>eschatologismFact(tag=meme_Anglers)->Like the slippery fish that hide beyond the abyssal depths, we will strike from the darkness and we will be unstoppable.</li>
+	  
+    <li>introMemo(tag=meme_Anglers)->Good news! In this year's company-wide raffle we are again including as a prize a two weeks, all expenses paid fishing trip! I know you are as excited as I am, so get those tickets as soon as possible!</li>
+  -->
+  <VME_Angler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anglers)        ->Одного разу [deity0_name] [deity_spoke] до всіх своїх послідовників і [deity_told]: «Царство небесне подібне до неводу, що Бог відправляє в море, щоб притягнути до себе будь-яку рибку».</li>
+    <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] [deity_spoke]: «[memberNamePlural], ідіть моїми слідами і знайдете мережі, що притягнуть людей».</li>
+    <li>intro(tag=meme_Anglers)           ->[memberNamePlural] побудували щось прекрасне в [place_summary] [place_name], назване "[altarName]". І було вирішено збиратися біля нього щороку, змагатись у риболовлі.</li>
+    <li>conflict(tag=meme_Anglers)        ->[foe_envious] [foeLeader] [foe_deny] закони [deity0_name] і [foe_told] наказ, щоб [foeSoldiers] отруїли всі водоймища, що розкинулися навколо місця, що люди звали «[altarName]».</li>
+    <li>founderJoin(tag=meme_Anglers)     ->[founder_simple] [place_job] на ім'я [founderName] [founder_get] благословення [deity0_name]. Воно дарувало [founder_objective] божественну мудрість спорудити великий очисник води та повернути у води сотні риб.</li>
+    <li>victory(tag=meme_Anglers)         ->Плани [foeLeader] та [foeSoldiers] зазнали краху, а самі вони були принижені. Їм більше нічого не залишилося і [memberNamePlural] залишили спокій.</li>
+    <li>setup(tag=meme_Anglers)           ->Наш засновник [founderName] [founder_setup]. Не було риби, яку [founderName_objective] зловити на гачок.</li>
+    <li>story(uses=1,tag=meme_Anglers)    ->[founderName] [founder_teach] нас тому, що рибалка, насамперед, це стан душі. [founderName_pronoun] завжди [founder_repeat], що сенс риболовлі у вічних спробах зловити щось ілюзорне, але реальне і досяжне кожному за шляхом незліченних спроб.</li>
+    <li>lessonIntro(tag=meme_Anglers)         ->Я [founder_spend] за риболовлею стільки років, скільки це взагалі можливо. І, іноді, проводжу ще. І зараз я [founder_know], що</li>
+    <li>lesson(tag=meme_Anglers)              ->риболовля - це все ж таки важка робота. Вночі та вдень, у дощ та спеку. Ви завжди повинні залишатися кмітливими. І вправними.</li>
+    <li>lessonReinforcement(tag=meme_Anglers) ->День, проведений за рибалкою, допоможе мені ухвалити рішення або дасть здорову думку.</li>
+    <li>archistBasis(tag=meme_Anglers)    ->Арохотеки наповнили водойми дивовижним достатком, доступним кожному, хто має навички взяти його.</li>
+    <li>archistFact(tag=meme_Anglers)     ->Архотеки цінують винахідливість понад усе. Тому ми приймаємо достаток вод, як їхній дар.</li>
+    <li>archistProphecy(tag=meme_Anglers) ->[inTheEnd] архотеки стануть найбільшими рибалками, які улов перевершить все.</li>
+    <li>animistFact(tag=meme_Anglers)     ->Духи риб дають нам свою найбільшу щедрість: достаток життя, що є в річках і океанах.</li>
+    <li>serketistProphecy(tag=meme_Anglers)   ->[itIsSaid], що одного разу ми пізнаємо нехай комах, які отримують їжу тоді, коли їм це потрібно, використовуючи найбільший дар: достаток у річках та океанах.</li>
+    <li>chthonianProphecy(tag=meme_Anglers)   ->Ф'нглуи мглв'нафх, [deity0_name]. [place_name] ргах'нагл фхтагн.</li>
+    <li>esotericismProphecy(tag=meme_Anglers) ->Ми розгадаємо секрети, дізнаємося про незвідане. Потрухи риб нам допоможуть.</li>
+    <li>eschatologismFact(tag=meme_Anglers)   ->Подібно до крутої рибки, ми сховаємося в глибинах і завдамо несподіваного удару з пітьми. Ніхто нас не зупинить.</li>
+    <li>introMemo(tag=meme_Anglers)           ->Гарні новини! Цього року у корпоративній лотереї знову розігруватимуться двотижневі путівки на рибалку за системою «все включено»! Вже не терпиться закинути вудки? Поспішайте, кількість квитків обмежена!</li>
+
+    <li>deity_spoke(deity0_gender==None)->звернулося</li>
+    <li>deity_spoke(deity0_gender==Male)->звернувся</li>
+    <li>deity_spoke(deity0_gender==Female)->звернулася</li>
+    <li>deity_told(deity0_gender==None)->сказало</li>
+    <li>deity_told(deity0_gender==Male)->сказав</li>
+    <li>deity_told(deity0_gender==Female)->сказала</li>
+
+    <li>foe_envious(foeLeader_gender==Male)->суворий</li>
+    <li>foe_envious(foeLeader_gender==Female)->сувора</li>
+    <li>foe_deny(foeLeader_gender==Male)->віддав</li>
+    <li>foe_deny(foeLeader_gender==Female)->віддала</li>
+    <li>foe_told(foeLeader_gender==Male)->віддав</li>
+    <li>foe_told(foeLeader_gender==Female)->віддала</li>
+
+    <li>founder_simple(founder_gender==Male)->Простий</li>
+    <li>founder_simple(founder_gender==Female)->Проста</li>
+    <li>founder_get(founder_gender==Male)->отриав</li>
+    <li>founder_get(founder_gender==Female)->отриала</li>
+    <li>founder_setup(founder_gender==Male)->виявив себе найбільшим рибалкою</li>
+    <li>founder_setup(founder_gender==Female)->виявила себе найбільшою рибалкою</li>
+    <li>founder_catch(founder_gender==Male)->він не міг</li>
+    <li>founder_catch(founder_gender==Female)->вона не могла</li>
+    <li>founder_teach(founder_gender==Male)->навчив</li>
+    <li>founder_teach(founder_gender==Female)->навчила</li>
+    <li>founder_repeat(founder_gender==Male)->повторював</li>
+    <li>founder_repeat(founder_gender==Female)->повторювала</li>
+    <li>founder_spend(founder_gender==Male)->провів</li>
+    <li>founder_spend(founder_gender==Female)->провела</li>
+    <li>founder_know(founder_gender==Male)->дізнався</li>
+    <li>founder_know(founder_gender==Female)->дізналася</li>
+  </VME_Angler.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: angling -->
+  <VME_Angler.symbolPacks.0.adjective>рибацький</VME_Angler.symbolPacks.0.adjective>
+  <!-- EN: Angler -->
+  <VME_Angler.symbolPacks.0.ideoName>Рибацтво</VME_Angler.symbolPacks.0.ideoName>
+  <!-- EN: angler -->
+  <VME_Angler.symbolPacks.0.member>рибалка</VME_Angler.symbolPacks.0.member>
+  <!-- EN: fishing -->
+  <VME_Angler.symbolPacks.0.theme>риболовлі</VME_Angler.symbolPacks.0.theme>
+</LanguageData>

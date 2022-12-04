@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: psychic healing -->
+  <VPE_Healing.label>псі-зцілення</VPE_Healing.label>
+  <!-- EN: Psychically-induced healing boost. -->
+  <VPE_Healing.description>Психічно викликане прискорення процесу одужання.</VPE_Healing.description>
+
+  <!-- EN: psychic stabilization -->
+  <VPE_BlockBleeding.label>псі-стабілізація</VPE_BlockBleeding.label>
+  <!-- EN: Psychically-induced stasis that stops any bleeding. -->
+  <VPE_BlockBleeding.description>Психічно викликаний стазис, який зупиняє будь-яку кровотечу.</VPE_BlockBleeding.description>
+
+  <!-- EN: psychic immunity -->
+  <VPE_Immunity.label>псі-імунізація</VPE_Immunity.label>
+  <!-- EN: Psychically-induced immunity boost. -->
+  <VPE_Immunity.description>Психічно викликане посилення імунітету.</VPE_Immunity.description>
+
+  <!-- EN: psychic overshield -->
+  <VPE_Overshield.label>псі-бар'єр</VPE_Overshield.label>
+  <!-- EN: Psychically-induced personal skipbarrier. Impenetrable by ranged projectiles. -->
+  <VPE_Overshield.description>Психічно викликаний особистий псі-бар'єр. Захищає від ураження дальнобійними атаками.</VPE_Overshield.description>
+
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipBarrier.label>псі-бар'єр захистника</VPE_GuardianSkipBarrier.label>
+  <!-- EN: Psychically crafted defensive barrier that generates large amounts of psychic heat in order to sustain itself. -->
+  <VPE_GuardianSkipBarrier.description>Психічно викликаний захистний бар'єр, що створює сильну псі-напругу у процесі підтримки.</VPE_GuardianSkipBarrier.description>
+
+  <!-- EN: psychic regeneration -->
+  <VPE_RegrowLimbs.label>псі-регенерація</VPE_RegrowLimbs.label>
+  <!-- EN: Psychically-induced tissue regeneration, which can close open wounds and regenerate missing body parts. -->
+  <VPE_RegrowLimbs.description>Психічно викликана регенерація тканин, яка може закрити відкриті рани та відновити відсутні частини тіла.</VPE_RegrowLimbs.description>
+
+  <!-- EN: regenerating -->
+  <VPE_Regenerating.label>регенерація</VPE_Regenerating.label>
+  <!-- EN: Regenerating wounds, new and old. -->
+  <VPE_Regenerating.description>Загоєння ран нових та старих.</VPE_Regenerating.description>
+  <!-- EN: Destroyed -->
+  <VPE_Regenerating.injuryProps.destroyedLabel>знищено</VPE_Regenerating.injuryProps.destroyedLabel>
+</LanguageData>

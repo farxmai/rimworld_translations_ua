@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:solar pinhole -->
+  <VPE_SolarPinhole.label>сонячна обскура</VPE_SolarPinhole.label>
+  <!-- EN:Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+  <VPE_SolarPinhole.description>Відкриває мікроскопічні портали, що ведуть до ядра прилеглої зірки. Поки пролом у просторі-часі буде відкрита, зоряна матерія зможе проходити крізь неї, освітлюючи та нагріваючи все поблизу. Світла буде достатньо для роботи, але не для вирощування рослин.</VPE_SolarPinhole.description>
+
+  <!-- EN:chunk skip -->
+  <VPE_Chunkskip.label>матеріалізація уламків</VPE_Chunkskip.label>
+  <!-- EN:>Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <VPE_Chunkskip.description>Розкидає 5 металевих чи кам'яних уламків навколо зазначеної точки. Їх можна використовувати як додаткові укриття при веденні наступального бою.</VPE_Chunkskip.description>
+
+  <!-- EN:waterskip -->
+  <VPE_Waterskip.label>виклик хвилі</VPE_Waterskip.label>
+  <!-- EN:Douse a target in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
+  <VPE_Waterskip.description>Накриває вибрану область хвилею води, що гасить вогонь. Вода архотехнологічно переноситься через портали з далекого водоймища або ґрунтових вод.</VPE_Waterskip.description>
+
+  <!-- EN:chaos skip -->
+  <VPE_ChaosSkip.label>хаотичний стрибок</VPE_ChaosSkip.label>
+  <!-- EN:Teleport the target to a random position near where he started. Stuns the target for a second and is considered a hostile action. -->
+  <VPE_ChaosSkip.description>Переміщує ціль у випадкове місце поблизу відправної точки. Приголомшує ціль на секунду і вважається ворожою дією.</VPE_ChaosSkip.description>
+
+  <!-- EN:skip -->
+  <VPE_Skip.label>стрибок</VPE_Skip.label>
+  <!-- EN:Teleport the target to a desired position not too far from his starting point. This is considered a hostile action. -->
+  <VPE_Skip.description>Переміщує ціль у вказане місце поблизу відправної точки. Вважається ворожою дією.</VPE_Skip.description>
+
+  <!-- EN:wall raise -->
+  <VPE_Wallraise.label>матеріалізація стіни</VPE_Wallraise.label>
+  <!-- EN:Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours. -->
+  <VPE_Wallraise.description>Формує тимчасову стіну з ґрунту та каміння, піднятих глибоко з під землі. Дозволяє створити перешкоду для руху та огляду на вражаючій відстані. Ефект триває кілька годин.</VPE_Wallraise.description>
+
+  <!-- EN:smokepop -->
+  <VPE_Smokepop.label>димова завіса</VPE_Smokepop.label>
+  <!-- EN:Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <VPE_Smokepop.description>Піднімає щільну завісу пилу з-під землі. Через таку хмару не можуть стріляти турелі, а точність стрільби решти зброї знижується.</VPE_Smokepop.description>
+
+  <!-- EN:mass chaos skip -->
+  <VPE_MassChaosSkip.label>масовий хаотичний стрибок</VPE_MassChaosSkip.label>
+  <!-- EN:Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger. -->
+  <VPE_MassChaosSkip.description>Переміщує групу цілей у випадкове місце неподалік. Впливає на відносини з іншими фракціями, оскільки ця дія може наразити їх на небезпеку.</VPE_MassChaosSkip.description>
+
+  <!-- EN:skipdoor -->
+  <VPE_Skipdoor.label>портал</VPE_Skipdoor.label>
+  <!-- EN:Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse. -->
+  <VPE_Skipdoor.description>Відкриває шлях до системи порталів, які можуть бути розміщені будь-де на постійній основі. Сама система воріт зав'язана на колективній свідомості групи, що дозволяє всім її учасникам використовувати цю браму, а інші псіоніки можуть їх підтримувати. Однак, точки входу дуже чутливі до психічних явищ і можуть плескатися, якщо вплив буде досить сильним.</VPE_Skipdoor.description>
+
+  <!-- EN:farskip -->
+  <VPE_Farskip.label>довгий стрибок</VPE_Farskip.label>
+  <!-- EN:Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey. -->
+  <VPE_Farskip.description>Переміщає псіоніка і всіх, хто стоїть поруч із ним до союзника поза карти. Ця здатність дозволяє переміщати людей по всій планеті, проте працює, тільки якщо в пункті призначення присутній союзник, готовий виступити як навігаційний маяк. Переміщені таким чином люди в пункті призначення завжди з'являтимуться поруч із випадковим союзником.</VPE_Farskip.description>
+</LanguageData>

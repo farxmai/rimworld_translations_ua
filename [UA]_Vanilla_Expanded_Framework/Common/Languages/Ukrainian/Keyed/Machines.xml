@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMechForceRecharge>Підзарядка</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Наказати відповідному пристрою повернутися на платформу для заряджання незалежно від поточного рівня заряду акумулятора.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Приєднати турель</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Побудувати турель на цій мобільній платформі. Це вимагатиме від колоніста доставки ресурсів, рівних вартості будівництва цієї турелі.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Машина знищена</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Одна з ваших машин була знищена! Її залишки можна розібрати на верстаті. Щоб побудувати заміну, одному з ваших колоністів потрібно доставити до точки збору наступне:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Недостатньо ресурсів</VFEMechNoResources>
+  <VFEMechNoTurret>Немає активної мобільної турелі</VFEMechNoTurret>
+  <VFEMechReconstruct>Для відновлення машини потрібно:</VFEMechReconstruct>
+  <VFEMechTurretResources>Для будівництва турелі потрібно:</VFEMechTurretResources>
+  <VFEMechLowerRange>Зменшити дальність</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Зменшити кількість клітин дальності пересування машини.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Збільшити дальність</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Збільшити кількість клітин дальності пересування машини.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Зупинити машину</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Зупинити просування цієї машини та змусити її повернутися на базу.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Запустити машину</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Запустити машину.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>Машина натрапила на перешкоду!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Вказати область</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Встановіть дозволену область для всіх машин, пов'язаних із цією платформою.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>На цьому дроїді можна їздити. Люди в каравані будуть їздити на найшвидших доступних тваринах/дроїдах, покращуючи швидкість каравану в цілому.</VFEMRideableMachineTip>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} розрядився, і залишився позаду.</VFEM.CaravanMachineRanOutPower>
+  <VFEM.DroneGainsName>Тепер дрон має назву {0}.</VFEM.DroneGainsName>
+</LanguageData>

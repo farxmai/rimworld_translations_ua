@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li IfModActive="Dubwise.DubsBadHygiene">Hygiene</li>
+    <li IfModActive="Dubwise.DubsMintMenus">Menus</li>
+    <li IfModActive="dubwise.dubsmintminimap">Minimap</li>
+  </v1.4>
+</loadFolders>

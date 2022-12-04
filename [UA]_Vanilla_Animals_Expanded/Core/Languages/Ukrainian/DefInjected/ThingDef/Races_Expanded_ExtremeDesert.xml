@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Camel -->
+
+  <AEXP_Camel.label>двогорбий верблюд</AEXP_Camel.label>
+  <AEXP_Camel.description>Двогорбий верблюд це великий наземний ссавець, пристосований до посушливих умов. Його шерсть і шкіра винятково добре захищають від спекотної пустелі, а його молоко дуже поживне. Його можна використовувати як в'ючну тварину, але через два горби кататися на ньому вкрай незручно. Завдяки запасам води в його великих горбах і витягу вологи з власного дихання на видоху, двогорбий верблюд може тижнями обходитися без пиття.</AEXP_Camel.description>
+  <AEXP_Camel.tools.0.label>ліве копито</AEXP_Camel.tools.0.label>
+  <AEXP_Camel.tools.1.label>праве копито</AEXP_Camel.tools.1.label>
+  <AEXP_Camel.tools.2.label>зуби</AEXP_Camel.tools.2.label>
+  <AEXP_Camel.tools.3.label>голова</AEXP_Camel.tools.3.label>
+  <AEXP_Camel.race.meatLabel>м'ясо двогорбий верблюда</AEXP_Camel.race.meatLabel>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_Rattlesnake.label>гремуча змія</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.description>Дуже отруйна змія, що отримала свою назву від брязкальця на кінці хвоста. Звук, що видається брязкальцем, є попередженням для будь-яких хижаків, проте, якщо це не спрацьовує, отруйні кліки гримучої змії проводять надзвичайно болісний токсин.</AEXP_Rattlesnake.description>
+  <AEXP_Rattlesnake.tools.0.label>отруйні клики</AEXP_Rattlesnake.tools.0.label>
+  <AEXP_Rattlesnake.tools.1.label>голова</AEXP_Rattlesnake.tools.1.label>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_Megascorpion.label>велетенський скорпіон</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.description>Велетенський скорпіон, створений за допомогою генної інженерії. Колись створений, як ідеальний інструмент для вбивства, він нечасто повертається у своє природне середовище - у пустелю. Дуже сильна отрута в його жалі допомагає йому ловити здобич набагато більше себе. Мегаскорпіон не може відтворюватися поодинці.</AEXP_Megascorpion.description>
+  <AEXP_Megascorpion.tools.0.label>жало</AEXP_Megascorpion.tools.0.label>а
+  <AEXP_Megascorpion.tools.1.label>мандибули</AEXP_Megascorpion.tools.1.label>
+  <AEXP_Megascorpion.tools.2.label>голова</AEXP_Megascorpion.tools.2.label>
+
+
+</LanguageData>

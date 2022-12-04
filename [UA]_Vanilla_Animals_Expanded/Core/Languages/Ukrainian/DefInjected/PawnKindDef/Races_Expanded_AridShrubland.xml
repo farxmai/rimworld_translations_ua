@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coyote -->
+
+  <AEXP_Coyote.label>койот</AEXP_Coyote.label>
+  <AEXP_Coyote.labelPlural>койоти</AEXP_Coyote.labelPlural>
+  <AEXP_Coyote.lifeStages.0.label>цуценя койота</AEXP_Coyote.lifeStages.0.label>
+  <AEXP_Coyote.lifeStages.0.labelPlural>цуценята койота</AEXP_Coyote.lifeStages.0.labelPlural>
+  <AEXP_Coyote.lifeStages.0.labelMale>цуценя койота</AEXP_Coyote.lifeStages.0.labelMale>
+  <AEXP_Coyote.lifeStages.0.labelMalePlural>цуценята койота</AEXP_Coyote.lifeStages.0.labelMalePlural>
+  <AEXP_Coyote.lifeStages.0.labelFemale>цуценя койота</AEXP_Coyote.lifeStages.0.labelFemale>
+  <AEXP_Coyote.lifeStages.0.labelFemalePlural>цуценята койота</AEXP_Coyote.lifeStages.0.labelFemalePlural>
+  <AEXP_Coyote.lifeStages.1.label>молодий койот</AEXP_Coyote.lifeStages.1.label>
+  <AEXP_Coyote.lifeStages.1.labelPlural>молоді койоти</AEXP_Coyote.lifeStages.1.labelPlural>
+  <AEXP_Coyote.lifeStages.1.labelMale>молодий койот</AEXP_Coyote.lifeStages.1.labelMale>
+  <AEXP_Coyote.lifeStages.1.labelMalePlural>молоді койоти</AEXP_Coyote.lifeStages.1.labelMalePlural>
+  <AEXP_Coyote.lifeStages.1.labelFemale>молодий койот</AEXP_Coyote.lifeStages.1.labelFemale>
+  <AEXP_Coyote.lifeStages.1.labelFemalePlural>молоді койоти</AEXP_Coyote.lifeStages.1.labelFemalePlural>
+  <AEXP_Coyote.lifeStages.2.label>койот</AEXP_Coyote.lifeStages.2.label>
+  <AEXP_Coyote.lifeStages.2.labelPlural>койоти</AEXP_Coyote.lifeStages.2.labelPlural>
+  <AEXP_Coyote.lifeStages.2.labelMale>койот</AEXP_Coyote.lifeStages.2.labelMale>
+  <AEXP_Coyote.lifeStages.2.labelMalePlural>койоти</AEXP_Coyote.lifeStages.2.labelMalePlural>
+  <AEXP_Coyote.lifeStages.2.labelFemale>койот</AEXP_Coyote.lifeStages.2.labelFemale>
+  <AEXP_Coyote.lifeStages.2.labelFemalePlural>койоти</AEXP_Coyote.lifeStages.2.labelFemalePlural>
+  <AEXP_Coyote.labelMale>койот</AEXP_Coyote.labelMale>
+  <AEXP_Coyote.labelMalePlural>койоти</AEXP_Coyote.labelMalePlural>
+  <AEXP_Coyote.labelFemale>койот</AEXP_Coyote.labelFemale>
+  <AEXP_Coyote.labelFemalePlural>койоти</AEXP_Coyote.labelFemalePlural>
+
+
+  <!-- Giraffe -->
+
+  <AEXP_Giraffe.label>жираф</AEXP_Giraffe.label>
+  <AEXP_Giraffe.labelPlural>жирафи</AEXP_Giraffe.labelPlural>
+  <AEXP_Giraffe.lifeStages.0.label>дитинча жирафа</AEXP_Giraffe.lifeStages.0.label>
+  <AEXP_Giraffe.lifeStages.0.labelPlural>дитинчата жирафа</AEXP_Giraffe.lifeStages.0.labelPlural>
+  <AEXP_Giraffe.lifeStages.0.labelMale>дитинча жирафа</AEXP_Giraffe.lifeStages.0.labelMale>
+  <AEXP_Giraffe.lifeStages.0.labelMalePlural>дитинчата жирафа</AEXP_Giraffe.lifeStages.0.labelMalePlural>
+  <AEXP_Giraffe.lifeStages.0.labelFemale>дитинча жирафа</AEXP_Giraffe.lifeStages.0.labelFemale>
+  <AEXP_Giraffe.lifeStages.0.labelFemalePlural>дитинчата жирафа</AEXP_Giraffe.lifeStages.0.labelFemalePlural>
+  <AEXP_Giraffe.lifeStages.1.label>молодий жираф</AEXP_Giraffe.lifeStages.1.label>
+  <AEXP_Giraffe.lifeStages.1.labelPlural>молоді жирафи</AEXP_Giraffe.lifeStages.1.labelPlural>
+  <AEXP_Giraffe.lifeStages.1.labelMale>молодий жираф</AEXP_Giraffe.lifeStages.1.labelMale>
+  <AEXP_Giraffe.lifeStages.1.labelMalePlural>молоді жирафи</AEXP_Giraffe.lifeStages.1.labelMalePlural>
+  <AEXP_Giraffe.lifeStages.1.labelFemale>молодий жираф</AEXP_Giraffe.lifeStages.1.labelFemale>
+  <AEXP_Giraffe.lifeStages.1.labelFemalePlural>молоді жирафи</AEXP_Giraffe.lifeStages.1.labelFemalePlural>
+  <AEXP_Giraffe.lifeStages.2.label>жираф</AEXP_Giraffe.lifeStages.2.label>
+  <AEXP_Giraffe.lifeStages.2.labelPlural>жирафи</AEXP_Giraffe.lifeStages.2.labelPlural>
+  <AEXP_Giraffe.lifeStages.2.labelMale>жираф</AEXP_Giraffe.lifeStages.2.labelMale>
+  <AEXP_Giraffe.lifeStages.2.labelMalePlural>жирафи</AEXP_Giraffe.lifeStages.2.labelMalePlural>
+  <AEXP_Giraffe.lifeStages.2.labelFemale>жираф</AEXP_Giraffe.lifeStages.2.labelFemale>
+  <AEXP_Giraffe.lifeStages.2.labelFemalePlural>жирафи</AEXP_Giraffe.lifeStages.2.labelFemalePlural>
+  <AEXP_Giraffe.labelMale>жираф</AEXP_Giraffe.labelMale>
+  <AEXP_Giraffe.labelMalePlural>жирафи</AEXP_Giraffe.labelMalePlural>
+  <AEXP_Giraffe.labelFemale>жираф</AEXP_Giraffe.labelFemale>
+  <AEXP_Giraffe.labelFemalePlural>жирафи</AEXP_Giraffe.labelFemalePlural>
+
+
+  <!-- Hippopotamus -->
+
+  <AEXP_Hippopotamus.label>бегемот</AEXP_Hippopotamus.label>
+  <AEXP_Hippopotamus.labelPlural>бегемоти</AEXP_Hippopotamus.labelPlural>
+  <AEXP_Hippopotamus.lifeStages.0.label>дитинча бегемота</AEXP_Hippopotamus.lifeStages.0.label>
+  <AEXP_Hippopotamus.lifeStages.0.labelPlural>дитинчата бегемота</AEXP_Hippopotamus.lifeStages.0.labelPlural>
+  <AEXP_Hippopotamus.lifeStages.0.labelMale>дитинча бегемота</AEXP_Hippopotamus.lifeStages.0.labelMale>
+  <AEXP_Hippopotamus.lifeStages.0.labelMalePlural>дитинчата бегемота</AEXP_Hippopotamus.lifeStages.0.labelMalePlural>
+  <AEXP_Hippopotamus.lifeStages.0.labelFemale>дитинча бегемота</AEXP_Hippopotamus.lifeStages.0.labelFemale>
+  <AEXP_Hippopotamus.lifeStages.0.labelFemalePlural>дитинчата бегемота</AEXP_Hippopotamus.lifeStages.0.labelFemalePlural>
+  <AEXP_Hippopotamus.lifeStages.1.label>молодий бегемот</AEXP_Hippopotamus.lifeStages.1.label>
+  <AEXP_Hippopotamus.lifeStages.1.labelPlural>молоді бегемоти</AEXP_Hippopotamus.lifeStages.1.labelPlural>
+  <AEXP_Hippopotamus.lifeStages.1.labelMale>молодий бегемот</AEXP_Hippopotamus.lifeStages.1.labelMale>
+  <AEXP_Hippopotamus.lifeStages.1.labelMalePlural>молоді бегемоти</AEXP_Hippopotamus.lifeStages.1.labelMalePlural>
+  <AEXP_Hippopotamus.lifeStages.1.labelFemale>молодий бегемот</AEXP_Hippopotamus.lifeStages.1.labelFemale>
+  <AEXP_Hippopotamus.lifeStages.1.labelFemalePlural>молоді бегемоти</AEXP_Hippopotamus.lifeStages.1.labelFemalePlural>
+  <AEXP_Hippopotamus.lifeStages.2.label>бегемот</AEXP_Hippopotamus.lifeStages.2.label>
+  <AEXP_Hippopotamus.lifeStages.2.labelPlural>бегемоти</AEXP_Hippopotamus.lifeStages.2.labelPlural>
+  <AEXP_Hippopotamus.lifeStages.2.labelMale>бегемот</AEXP_Hippopotamus.lifeStages.2.labelMale>
+  <AEXP_Hippopotamus.lifeStages.2.labelMalePlural>бегемоти</AEXP_Hippopotamus.lifeStages.2.labelMalePlural>
+  <AEXP_Hippopotamus.lifeStages.2.labelFemale>бегемот</AEXP_Hippopotamus.lifeStages.2.labelFemale>
+  <AEXP_Hippopotamus.lifeStages.2.labelFemalePlural>бегемоти</AEXP_Hippopotamus.lifeStages.2.labelFemalePlural>
+  <AEXP_Hippopotamus.labelMale>бегемот</AEXP_Hippopotamus.labelMale>
+  <AEXP_Hippopotamus.labelMalePlural>бегемоти</AEXP_Hippopotamus.labelMalePlural>
+  <AEXP_Hippopotamus.labelFemale>бегемот</AEXP_Hippopotamus.labelFemale>
+  <AEXP_Hippopotamus.labelFemalePlural>бегемоти</AEXP_Hippopotamus.labelFemalePlural>
+
+
+  <!-- Zebra -->
+
+  <AEXP_Zebra.label>зебра</AEXP_Zebra.label>
+  <AEXP_Zebra.labelPlural>зебри</AEXP_Zebra.labelPlural>
+  <AEXP_Zebra.lifeStages.0.label>лоша зебри</AEXP_Zebra.lifeStages.0.label>
+  <AEXP_Zebra.lifeStages.0.labelPlural>лошата зебри</AEXP_Zebra.lifeStages.0.labelPlural>
+  <AEXP_Zebra.lifeStages.0.labelMale>лоша зебра</AEXP_Zebra.lifeStages.0.labelMale>
+  <AEXP_Zebra.lifeStages.0.labelMalePlural>лошата зебри</AEXP_Zebra.lifeStages.0.labelMalePlural>
+  <AEXP_Zebra.lifeStages.0.labelFemale>лоша зебри</AEXP_Zebra.lifeStages.0.labelFemale>
+  <AEXP_Zebra.lifeStages.0.labelFemalePlural>лошата зебри</AEXP_Zebra.lifeStages.0.labelFemalePlural>
+  <AEXP_Zebra.lifeStages.1.label>молода зебра</AEXP_Zebra.lifeStages.1.label>
+  <AEXP_Zebra.lifeStages.1.labelPlural>молоді зебри</AEXP_Zebra.lifeStages.1.labelPlural>
+  <AEXP_Zebra.lifeStages.1.labelMale>молода зебра</AEXP_Zebra.lifeStages.1.labelMale>
+  <AEXP_Zebra.lifeStages.1.labelMalePlural>молоді зебри</AEXP_Zebra.lifeStages.1.labelMalePlural>
+  <AEXP_Zebra.lifeStages.1.labelFemale>молода зебра</AEXP_Zebra.lifeStages.1.labelFemale>
+  <AEXP_Zebra.lifeStages.1.labelFemalePlural>молоді зебри</AEXP_Zebra.lifeStages.1.labelFemalePlural>
+  <AEXP_Zebra.lifeStages.2.label>зебра</AEXP_Zebra.lifeStages.2.label>
+  <AEXP_Zebra.lifeStages.2.labelPlural>зебри</AEXP_Zebra.lifeStages.2.labelPlural>
+  <AEXP_Zebra.lifeStages.2.labelMale>зебра</AEXP_Zebra.lifeStages.2.labelMale>
+  <AEXP_Zebra.lifeStages.2.labelMalePlural>зебри</AEXP_Zebra.lifeStages.2.labelMalePlural>
+  <AEXP_Zebra.lifeStages.2.labelFemale>зебра</AEXP_Zebra.lifeStages.2.labelFemale>
+  <AEXP_Zebra.lifeStages.2.labelFemalePlural>зебри</AEXP_Zebra.lifeStages.2.labelFemalePlural>
+  <AEXP_Zebra.labelMale>зебра</AEXP_Zebra.labelMale>
+  <AEXP_Zebra.labelMalePlural>зебри</AEXP_Zebra.labelMalePlural>
+  <AEXP_Zebra.labelFemale>зебра</AEXP_Zebra.labelFemale>
+  <AEXP_Zebra.labelFemalePlural>зебри</AEXP_Zebra.labelFemalePlural>
+
+
+  <!-- Wildebeest -->
+
+  <AEXP_Wildebeest.label>антилопа гну</AEXP_Wildebeest.label>
+  <AEXP_Wildebeest.labelPlural>антилопи гну</AEXP_Wildebeest.labelPlural>
+  <AEXP_Wildebeest.lifeStages.0.label>теля антилопи гну</AEXP_Wildebeest.lifeStages.0.label>
+  <AEXP_Wildebeest.lifeStages.0.labelPlural>телята антилопи гну</AEXP_Wildebeest.lifeStages.0.labelPlural>
+  <AEXP_Wildebeest.lifeStages.0.labelMale>теля антилопи гну</AEXP_Wildebeest.lifeStages.0.labelMale>
+  <AEXP_Wildebeest.lifeStages.0.labelMalePlural>телята антилопи гну</AEXP_Wildebeest.lifeStages.0.labelMalePlural>
+  <AEXP_Wildebeest.lifeStages.0.labelFemale>молода антилопа гну</AEXP_Wildebeest.lifeStages.0.labelFemale>
+  <AEXP_Wildebeest.lifeStages.0.labelFemalePlural>молоді антилопи гну</AEXP_Wildebeest.lifeStages.0.labelFemalePlural>
+  <AEXP_Wildebeest.lifeStages.1.label>молода антилопа гну</AEXP_Wildebeest.lifeStages.1.label>
+  <AEXP_Wildebeest.lifeStages.1.labelPlural>молоді антилопи гну</AEXP_Wildebeest.lifeStages.1.labelPlural>
+  <AEXP_Wildebeest.lifeStages.1.labelMale>молода антилопа гну</AEXP_Wildebeest.lifeStages.1.labelMale>
+  <AEXP_Wildebeest.lifeStages.1.labelMalePlural>молоді антилопи гну</AEXP_Wildebeest.lifeStages.1.labelMalePlural>
+  <AEXP_Wildebeest.lifeStages.1.labelFemale>молода антилопа гну</AEXP_Wildebeest.lifeStages.1.labelFemale>
+  <AEXP_Wildebeest.lifeStages.1.labelFemalePlural>молоді антилопи гну</AEXP_Wildebeest.lifeStages.1.labelFemalePlural>
+  <AEXP_Wildebeest.lifeStages.2.label>антилопа гну</AEXP_Wildebeest.lifeStages.2.label>
+  <AEXP_Wildebeest.lifeStages.2.labelPlural>антилопи гну</AEXP_Wildebeest.lifeStages.2.labelPlural>
+  <AEXP_Wildebeest.lifeStages.2.labelMale>антилопа гну</AEXP_Wildebeest.lifeStages.2.labelMale>
+  <AEXP_Wildebeest.lifeStages.2.labelMalePlural>антилопи гну</AEXP_Wildebeest.lifeStages.2.labelMalePlural>
+  <AEXP_Wildebeest.lifeStages.2.labelFemale>антилопа гну</AEXP_Wildebeest.lifeStages.2.labelFemale>
+  <AEXP_Wildebeest.lifeStages.2.labelFemalePlural>антилопи гну</AEXP_Wildebeest.lifeStages.2.labelFemalePlural>
+  <AEXP_Wildebeest.labelMale>антилопа гну</AEXP_Wildebeest.labelMale>
+  <AEXP_Wildebeest.labelMalePlural>антилопи гну</AEXP_Wildebeest.labelMalePlural>
+  <AEXP_Wildebeest.labelFemale>антилопа гну</AEXP_Wildebeest.labelFemale>
+  <AEXP_Wildebeest.labelFemalePlural>антилопи гну</AEXP_Wildebeest.labelFemalePlural>
+
+
+  <!-- Crocodile -->
+
+  <AEXP_Crocodile.label>крокодил</AEXP_Crocodile.label>
+  <AEXP_Crocodile.labelPlural>крокодили</AEXP_Crocodile.labelPlural>
+  <AEXP_Crocodile.lifeStages.0.label>дитинча крокодила</AEXP_Crocodile.lifeStages.0.label>
+  <AEXP_Crocodile.lifeStages.0.labelPlural>дитинчата крокодила</AEXP_Crocodile.lifeStages.0.labelPlural>
+  <AEXP_Crocodile.lifeStages.0.labelMale>дитинча крокодила</AEXP_Crocodile.lifeStages.0.labelMale>
+  <AEXP_Crocodile.lifeStages.0.labelMalePlural>дитинчата крокодила</AEXP_Crocodile.lifeStages.0.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.0.labelFemale>дитинча крокодила</AEXP_Crocodile.lifeStages.0.labelFemale>
+  <AEXP_Crocodile.lifeStages.0.labelFemalePlural>дитинчата крокодила</AEXP_Crocodile.lifeStages.0.labelFemalePlural>
+  <AEXP_Crocodile.lifeStages.1.label>молодий крокодил</AEXP_Crocodile.lifeStages.1.label>
+  <AEXP_Crocodile.lifeStages.1.labelPlural>молоді крокодили</AEXP_Crocodile.lifeStages.1.labelPlural>
+  <AEXP_Crocodile.lifeStages.1.labelMale>молодий крокодил</AEXP_Crocodile.lifeStages.1.labelMale>
+  <AEXP_Crocodile.lifeStages.1.labelMalePlural>молоді крокодили</AEXP_Crocodile.lifeStages.1.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.1.labelFemale>молодий крокодил</AEXP_Crocodile.lifeStages.1.labelFemale>
+  <AEXP_Crocodile.lifeStages.1.labelFemalePlural>молоді крокодили</AEXP_Crocodile.lifeStages.1.labelFemalePlural>
+  <AEXP_Crocodile.lifeStages.2.label>крокодил</AEXP_Crocodile.lifeStages.2.label>
+  <AEXP_Crocodile.lifeStages.2.labelPlural>крокодила</AEXP_Crocodile.lifeStages.2.labelPlural>
+  <AEXP_Crocodile.lifeStages.2.labelMale>крокодил</AEXP_Crocodile.lifeStages.2.labelMale>
+  <AEXP_Crocodile.lifeStages.2.labelMalePlural>крокодила</AEXP_Crocodile.lifeStages.2.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.2.labelFemale>крокодил</AEXP_Crocodile.lifeStages.2.labelFemale>
+  <AEXP_Crocodile.lifeStages.2.labelFemalePlural>крокодила</AEXP_Crocodile.lifeStages.2.labelFemalePlural>
+  <AEXP_Crocodile.labelMale>крокодил</AEXP_Crocodile.labelMale>
+  <AEXP_Crocodile.labelMalePlural>крокодила</AEXP_Crocodile.labelMalePlural>
+  <AEXP_Crocodile.labelFemale>крокодил</AEXP_Crocodile.labelFemale>
+  <AEXP_Crocodile.labelFemalePlural>крокодила</AEXP_Crocodile.labelFemalePlural>
+
+
+  <!-- Cheetah -->
+
+  <AEXP_Cheetah.label>гепард</AEXP_Cheetah.label>
+  <AEXP_Cheetah.labelPlural>гепарди</AEXP_Cheetah.labelPlural>
+  <AEXP_Cheetah.lifeStages.0.label>кошеня гепарда</AEXP_Cheetah.lifeStages.0.label>
+  <AEXP_Cheetah.lifeStages.0.labelPlural>кошенята гепарда</AEXP_Cheetah.lifeStages.0.labelPlural>
+  <AEXP_Cheetah.lifeStages.0.labelMale>кошеня гепарда</AEXP_Cheetah.lifeStages.0.labelMale>
+  <AEXP_Cheetah.lifeStages.0.labelMalePlural>кошенята гепарда</AEXP_Cheetah.lifeStages.0.labelMalePlural>
+  <AEXP_Cheetah.lifeStages.0.labelFemale>кошеня гепарда</AEXP_Cheetah.lifeStages.0.labelFemale>
+  <AEXP_Cheetah.lifeStages.0.labelFemalePlural>кошенята гепарда</AEXP_Cheetah.lifeStages.0.labelFemalePlural>
+  <AEXP_Cheetah.lifeStages.1.label>молодий гепард</AEXP_Cheetah.lifeStages.1.label>
+  <AEXP_Cheetah.lifeStages.1.labelPlural>молоді гепарди</AEXP_Cheetah.lifeStages.1.labelPlural>
+  <AEXP_Cheetah.lifeStages.1.labelMale>молодий гепард</AEXP_Cheetah.lifeStages.1.labelMale>
+  <AEXP_Cheetah.lifeStages.1.labelMalePlural>молоді гепарди</AEXP_Cheetah.lifeStages.1.labelMalePlural>
+  <AEXP_Cheetah.lifeStages.1.labelFemale>молодий гепард</AEXP_Cheetah.lifeStages.1.labelFemale>
+  <AEXP_Cheetah.lifeStages.1.labelFemalePlural>молоді гепарди</AEXP_Cheetah.lifeStages.1.labelFemalePlural>
+  <AEXP_Cheetah.lifeStages.2.label>гепард</AEXP_Cheetah.lifeStages.2.label>
+  <AEXP_Cheetah.lifeStages.2.labelPlural>гепарди</AEXP_Cheetah.lifeStages.2.labelPlural>
+  <AEXP_Cheetah.lifeStages.2.labelMale>гепард</AEXP_Cheetah.lifeStages.2.labelMale>
+  <AEXP_Cheetah.lifeStages.2.labelMalePlural>гепарди</AEXP_Cheetah.lifeStages.2.labelMalePlural>
+  <AEXP_Cheetah.lifeStages.2.labelFemale>гепард</AEXP_Cheetah.lifeStages.2.labelFemale>
+  <AEXP_Cheetah.lifeStages.2.labelFemalePlural>гепарди</AEXP_Cheetah.lifeStages.2.labelFemalePlural>
+  <AEXP_Cheetah.labelMale>гепард</AEXP_Cheetah.labelMale>
+  <AEXP_Cheetah.labelMalePlural>гепарди</AEXP_Cheetah.labelMalePlural>
+  <AEXP_Cheetah.labelFemale>гепард</AEXP_Cheetah.labelFemale>
+  <AEXP_Cheetah.labelFemalePlural>гепарди</AEXP_Cheetah.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_Superpod.label>супер-капсула</VFEPD_Superpod.label>
+    <VFEPD_Superpod.description>Маленька футуристична персональна транспортна капсула.</VFEPD_Superpod.description>
+
+
+    <VFEPD_SkipBlack.label>особистий корабель (чорний)</VFEPD_SkipBlack.label>
+    <VFEPD_SkipBlack.description>Легкий апарат, що не обслуговується, який дозволяє користувачам з комфортом подорожувати на короткі відстані.</VFEPD_SkipBlack.description>
+
+    <VFEPD_SkipWhite.label>особистий корабель (білий)</VFEPD_SkipWhite.label>
+    <VFEPD_SkipWhite.description>Легкий апарат, що не обслуговується, який дозволяє користувачам з комфортом подорожувати на короткі відстані.</VFEPD_SkipWhite.description>
+
+    <VFEPD_SkipSilver.label>особистий корабель (срібний)</VFEPD_SkipSilver.label>
+    <VFEPD_SkipSilver.description>Легкий апарат, що не обслуговується, який дозволяє користувачам з комфортом подорожувати на короткі відстані.</VFEPD_SkipSilver.description>
+
+    <VFEPD_SkipBlue.label>особистий корабель (синій)</VFEPD_SkipBlue.label>
+    <VFEPD_SkipBlue.description>Легкий апарат, що не обслуговується, який дозволяє користувачам з комфортом подорожувати на короткі відстані.</VFEPD_SkipBlue.description>
+
+    <VFEPD_SkipRed.label>особистий корабель (червоний)</VFEPD_SkipRed.label>
+    <VFEPD_SkipRed.description>Легкий апарат, що не обслуговується, який дозволяє користувачам з комфортом подорожувати на короткі відстані.</VFEPD_SkipRed.description>
+
+
+    <VFEPD_AlbatrossBlack.label>бойовий корабель (чорний)</VFEPD_AlbatrossBlack.label>
+    <VFEPD_AlbatrossBlack.description>Велике багатопрофільне транспортне судно, яке нині не обслуговується.</VFEPD_AlbatrossBlack.description>
+
+    <VFEPD_AlbatrossWhite.label>бойовий корабель (білий)</VFEPD_AlbatrossWhite.label>
+    <VFEPD_AlbatrossWhite.description>Велике багатопрофільне транспортне судно, яке нині не обслуговується.</VFEPD_AlbatrossWhite.description>
+
+    <VFEPD_AlbatrossSilver.label>бойовий корабель (срібний)</VFEPD_AlbatrossSilver.label>
+    <VFEPD_AlbatrossSilver.description>Велике багатопрофільне транспортне судно, яке нині не обслуговується.</VFEPD_AlbatrossSilver.description>
+
+    <VFEPD_AlbatrossBlue.label>бойовий корабель (синій)</VFEPD_AlbatrossBlue.label>
+    <VFEPD_AlbatrossBlue.description>Велике багатопрофільне транспортне судно, яке нині не обслуговується.</VFEPD_AlbatrossBlue.description>
+
+    <VFEPD_AlbatrossRed.label>бойовий корабель (червоний)</VFEPD_AlbatrossRed.label>
+    <VFEPD_AlbatrossRed.description>Велике багатопрофільне транспортне судно, яке нині не обслуговується.</VFEPD_AlbatrossRed.description>
+
+</LanguageData>

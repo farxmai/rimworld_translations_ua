@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AgaveNectar.label>нектар агави</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Напівсолодкий нектар, відомий своїми цілющими та протизапальними властивостями. Хоча він корисніший за цукор, його високий вміст фруктози може бути шкідливим, якщо приймати його занадто часто.</VCE_AgaveNectar.description>
+
+  <VCE_RawSugar.label>цукор</VCE_RawSugar.label>
+  <VCE_RawSugar.description>Простий кристалічний тростинний цукор. Цукор легко перетворюється організмом на енергію, але може деструктивно впливати на нирки та викликати діабет при вживанні в надмірних кількостях.</VCE_RawSugar.description>
+
+  <VCE_RawSpices.label>спеції</VCE_RawSpices.label>
+  <VCE_RawSpices.description>Різноманітність ароматичних та гострих спецій додає кілька гострих ноток до смаку страви та трохи підбадьорює.</VCE_RawSpices.description>
+
+  <VCE_Salt.label>сіль</VCE_Salt.label>
+  <VCE_Salt.description>Кам'яна сіль, як і звичайна сіль, покращує смакові характеристики інших інгредієнтів, з якими вона готується. Надмірне споживання може спричинити підвищення кров'яного тиску.</VCE_Salt.description>
+
+  <VCE_Mayo.label>майонез</VCE_Mayo.label>
+  <VCE_Mayo.description>Густа емульсія з яєць, олії та інших трав. Майонез, хоч і жахливий для здоров'я, має приємний запах і дуже калорійний.</VCE_Mayo.description>
+
+  <VCE_InsectJellyPreserves.label>варення з комашиного желе</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Дуже смачне і солодке, а також є напрочуд корисним для здоров'я.</VCE_InsectJellyPreserves.description>
+
+  <VCE_SmokeleafButter.label>димолистне масло</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Згущена, жирна речовина з молочних вершків та листя димолисту. Шкідливо для здоров'я та "б'є" по голові трохи сильніше, ніж просте куріння димоліста.</VCE_SmokeleafButter.description>
+
+  <VCE_ChocolateSyrup.label>шоколадний сироп</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Суміш какао, води та цукру, що утворює гіркувато-солодкий сироп, ідеально підходить для покриття десертів. Не такий поганий для здоров'я, як цукор.</VCE_ChocolateSyrup.description>
+
+  <VCE_DigestibleResurrectorNanites.label>засвоювані воскрешаючі механіти</VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>Надзвичайно високотехнологічна суміш механітів зі світу-утопії, небезпечна для прямого безпосереднього споживання через гіркий смак і легкий внутрішньошлунковий крововилив. Однак, будь-які пішаки, що поглинули їх з їжею, на час дії цих механітів, негайно повстануть після своєї смерті ніби дивом.</VCE_DigestibleResurrectorNanites.description>
+
+</LanguageData>

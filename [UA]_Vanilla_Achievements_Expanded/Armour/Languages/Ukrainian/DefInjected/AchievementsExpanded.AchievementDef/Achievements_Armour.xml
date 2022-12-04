@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: JUGGERNAUT! -->
+  <Juggernaut.label>Душа воїна!</Juggernaut.label>
+  <!-- EN: Craft a masterwork stone war mask -->
+  <Juggernaut.description>Виготовити шедевральну кам'яну маску війни</Juggernaut.description>
+
+  <!-- EN: I Don't See Anyone! -->
+  <iDontSeeAnyone.label>Партизан - смерть окупанта</iDontSeeAnyone.label>
+  <!-- EN: Craft a ghillie suit -->
+  <iDontSeeAnyone.description>Зшити маскувальний халат</iDontSeeAnyone.description>
+
+  <!-- EN: Not Great, not Terrible -->
+  <notGreatNotTerrible.label>Чорнобильці</notGreatNotTerrible.label>
+  <!-- EN: Craft 6 HAZMAT suits -->
+  <notGreatNotTerrible.description>Виготовити 6 захисних костюмів</notGreatNotTerrible.description>
+
+  <!-- EN: Leather? That's Kinky -->
+  <leatherThatsKinky.label>Шкіра то мій фетіш</leatherThatsKinky.label>
+  <!-- EN: Research leather tanning -->
+  <leatherThatsKinky.description>Дослідити дублення шкіри</leatherThatsKinky.description>
+
+  <!-- EN: Sierra 117 -->
+  <sierra117.label>Спецзагін</sierra117.label>
+  <!-- EN: Craft a masterwork quality heavy marine armor -->
+  <sierra117.description>Виготовити шедевральну важку піхотну броню</sierra117.description>
+</LanguageData>

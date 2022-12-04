@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_PlagueBite.label>чумний укус</VAE_PlagueBite.label>
+  <VAE_VeryToxicBite.label>дуже отруйний укус</VAE_VeryToxicBite.label>
+  <VAE_ToxicSting.label>отруйна павутина</VAE_ToxicSting.label>
+  <VAE_HulkAttack.label>атака чудовиська</VAE_HulkAttack.label>
+  <VAE_HulkDualAttack.label>руйнівна атака</VAE_HulkDualAttack.label>
+  <VAE_CocoonBite.label>потрапляння в кокон</VAE_CocoonBite.label>
+  <VAE_InfectedMandibles.label>инфіковані мандибули</VAE_InfectedMandibles.label>
+
+</LanguageData>

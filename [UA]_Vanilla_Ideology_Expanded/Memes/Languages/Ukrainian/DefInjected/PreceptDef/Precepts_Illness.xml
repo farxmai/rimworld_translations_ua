@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: exalted -->
+  <VME_Illness_Exalted.label>піднесено</VME_Illness_Exalted.label>
+  <!-- EN: To be infected is to be blessed, and to go long without blessing is regrettable. -->
+  <VME_Illness_Exalted.description>Хто хворий, той благословенний. Життя без благословень сповнене жалю.</VME_Illness_Exalted.description>
+
+  <!-- EN: preferred -->
+  <VME_Illness_Preferred.label>бажано</VME_Illness_Preferred.label>
+  <!-- EN: Being sick gives you an excuse to lie down and work less. It's worth it! -->
+  <VME_Illness_Preferred.description>Хвороба дає привід лежати та не працювати. Чи не добре?</VME_Illness_Preferred.description>
+
+  <!-- EN: indifferent -->
+  <VME_Illness_Indifferent.label>байдуже</VME_Illness_Indifferent.label>
+  <!-- EN: Illness is just another fact of life. -->
+  <VME_Illness_Indifferent.description>Хвороби - це просто частина життя.</VME_Illness_Indifferent.description>
+</LanguageData>

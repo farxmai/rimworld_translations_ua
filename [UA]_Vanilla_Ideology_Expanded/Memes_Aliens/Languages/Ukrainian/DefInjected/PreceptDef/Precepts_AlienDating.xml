@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- forbidden -->
+  <HAR_AlienDating_Prohibited.label>заборонено</HAR_AlienDating_Prohibited.label>
+  <!-- Romancing aliens is absolutely off the table, and the thought of copulation with one is disgusting to the point of downright disgust. -->
+  <HAR_AlienDating_Prohibited.description>Романтичні стосунки з інопланетянами абсолютно виключені, і думка про злягання з одним із них огидна.</HAR_AlienDating_Prohibited.description>
+  <!-- horrible -->
+  <HAR_AlienDating_Horrible.label>огидно</HAR_AlienDating_Horrible.label>
+  <!-- The idea of mating with an alien is nothing short of ridiculous and there are plenty of reasons to not even entertain the idea. -->
+  <HAR_AlienDating_Horrible.description>Ідея спарювання з інопланетянином не що інше, як безглуздість, і є безліч причин навіть не розглядати цю ідею.</HAR_AlienDating_Horrible.description>
+  <!-- Dating an alien -->
+  <HAR_AlienDating_Horrible.comps.1.description>Зустрічається з інопланетянином</HAR_AlienDating_Horrible.comps.1.description>
+  <!-- acceptable -->
+  <HAR_AlienDating_Acceptable.label>прийнятно</HAR_AlienDating_Acceptable.label>
+  <!-- If an alien and oneself mesh well why would romance be out of the question? -->
+  <HAR_AlienDating_Acceptable.description>Якщо ви добре поєднуєтеся, чому потрібно забороняти романтику?</HAR_AlienDating_Acceptable.description>
+  <!-- preferred -->
+  <HAR_AlienDating_Preferred.label>бажано</HAR_AlienDating_Preferred.label>
+  <!-- Romance with aliens can be an exciting change of pace and should be encouraged. -->
+  <HAR_AlienDating_Preferred.description>Роман із інопланетянами може бути захоплюючою зміною ритму, і його слід заохочувати.</HAR_AlienDating_Preferred.description>
+  <!-- honorable -->
+  <HAR_AlienDating_Honorable.label>почесно</HAR_AlienDating_Honorable.label>
+  <!-- To take an alien's hand in love and dedication is both exhilarating and exotic and those who choose to do so should be respected for their open-mindedness. -->
+  <HAR_AlienDating_Honorable.description>Прийняти інопланетянина у коханні та відданості - це одночасно хвилююче та екзотично, і тих, хто вирішує зробити це, слід поважати за їхню неупередженість.</HAR_AlienDating_Honorable.description>
+
+</LanguageData>

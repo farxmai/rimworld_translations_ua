@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: make dark candle -->
+  <VFEM_Make_DarkCandle.label>зробити тьмяну свічку</VFEM_Make_DarkCandle.label>
+  <!-- EN: Use meat to create dark candles. -->
+  <VFEM_Make_DarkCandle.description>Зробити тьмяну свічку з тваринного жиру.</VFEM_Make_DarkCandle.description>
+  <!-- EN: Making dark candle -->
+  <VFEM_Make_DarkCandle.jobString>Виготовляє тьмяну свічку</VFEM_Make_DarkCandle.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeSodaSyrup.label>приготувати содовий сироп</VBE_MakeSodaSyrup.label>
+  <VBE_MakeSodaSyrup.description>Приготувати содовий сироп.</VBE_MakeSodaSyrup.description>
+  <VBE_MakeSodaSyrup.jobString>готує содовий сироп</VBE_MakeSodaSyrup.jobString>
+
+  <VBE_AmbrosiaMush.label>приготувати сусло амброзії</VBE_AmbrosiaMush.label>
+  <VBE_AmbrosiaMush.description>Приготувати сусло амброзії.</VBE_AmbrosiaMush.description>
+  <VBE_AmbrosiaMush.jobString>готує сусло амброзії</VBE_AmbrosiaMush.jobString>
+
+  <VBE_MakeTequilaMust.label>приготувати сусло текіли</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>Приготувати сусло текіли.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.jobString>готує сусло текіли</VBE_MakeTequilaMust.jobString>
+
+  <VBE_MakeWhiskeyMash.label>приготувати сусло віскі</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.description>Приготувати сусло віскі.</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.jobString>готує сусло віскі</VBE_MakeWhiskeyMash.jobString>
+
+  <VBE_MakeVodkaMash.label>приготувати сусло горілки</VBE_MakeVodkaMash.label>
+  <VBE_MakeVodkaMash.description>Приготувати сусло горілки.</VBE_MakeVodkaMash.description>
+  <VBE_MakeVodkaMash.jobString>готує сусло горілки</VBE_MakeVodkaMash.jobString>
+
+  <VBE_MakeGinMush.label>приготувати сусло джину</VBE_MakeGinMush.label>
+  <VBE_MakeGinMush.description>Приготувати сусло джину.</VBE_MakeGinMush.description>
+  <VBE_MakeGinMush.jobString>готує сусло джину</VBE_MakeGinMush.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Muskox -->
+
+  <AEXP_Muskox.label>вівцебик</AEXP_Muskox.label>
+  <AEXP_Muskox.description>Вівцебики це масивні ссавці, схожі на буйволів, які блукають тундрою у пошуках коренів, мохів і лишайників, щоб вжити їх. Будучи спорідненим муффало, вівцебики можуть використовуватися як в'ючна тварина. Вони відомі своєю товстою вовною та різким запахом, що йде від самців під час сезонного гону. Від цього запаху і походить їхня друга назва - мускусний бик.</AEXP_Muskox.description>
+  <AEXP_Muskox.tools.0.label>голова</AEXP_Muskox.tools.0.label>
+  <AEXP_Muskox.tools.1.label>ліве копито</AEXP_Muskox.tools.1.label>
+  <AEXP_Muskox.tools.2.label>праве копито</AEXP_Muskox.tools.2.label>
+  <AEXP_Muskox.tools.3.label>зуби</AEXP_Muskox.tools.3.label>
+  <AEXP_Muskox.race.meatLabel>м'ясо вівцебика</AEXP_Muskox.race.meatLabel>
+
+  <!-- Moose -->
+
+  <AEXP_Moose.label>лось</AEXP_Moose.label>
+  <AEXP_Moose.description>Найбільший і найважчий представник сімейства оленячих, добре пристосований до життя у холодному кліматі. Його легко ідентифікувати за розміром рогів та довгими тонкими ногами. Його не можна нав'ючити, але можна доїти. На відміну більшості інших видів оленів, лосі не утворюють стада і є одиночними тваринами. Незважаючи на свою малорухливість і флегматичність, вони можуть стати агресивними і рухатися дуже швидко, якщо їх розсердити або налякати.</AEXP_Moose.description>
+  <AEXP_Moose.tools.0.label>ліве копито</AEXP_Moose.tools.0.label>
+  <AEXP_Moose.tools.1.label>праве копито</AEXP_Moose.tools.1.label>
+  <AEXP_Moose.tools.2.label>рога</AEXP_Moose.tools.2.label>
+  <AEXP_Moose.tools.3.label>голова</AEXP_Moose.tools.3.label>
+  <AEXP_Moose.race.meatLabel>м'ясо лося</AEXP_Moose.race.meatLabel>
+
+  <!-- Megawolverine -->
+
+  <AEXP_MegaWolverine.label>величезна росомаха</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.description>Велетенський хижак, змінений генної інженерією. Має масивні лапи, якими розриває здобич. Густе хутро дозволяє йому пережити найхолодніший клімат, тоді як сила дозволяє йому полювати заради їжі навіть на найбільших ссавців.</AEXP_MegaWolverine.description>
+  <AEXP_MegaWolverine.tools.0.label>ліва лапа</AEXP_MegaWolverine.tools.0.label>
+  <AEXP_MegaWolverine.tools.1.label>права лапа</AEXP_MegaWolverine.tools.1.label>
+  <AEXP_MegaWolverine.tools.2.label>зуби</AEXP_MegaWolverine.tools.2.label>
+  <AEXP_MegaWolverine.tools.3.label>голова</AEXP_MegaWolverine.tools.3.label>
+  <AEXP_MegaWolverine.race.meatLabel>м'ясо величезної росомахи</AEXP_MegaWolverine.race.meatLabel>
+
+  <!-- Porcupine -->
+
+  <AEXP_Porcupine.label>дикобраз</AEXP_Porcupine.label>
+  <AEXP_Porcupine.description>Великий гризун з шерстю з довгих, гострих голок, що захищає його від хижаків.</AEXP_Porcupine.description>
+  <AEXP_Porcupine.tools.0.label>ліва лапа</AEXP_Porcupine.tools.0.label>
+  <AEXP_Porcupine.tools.1.label>права лапа</AEXP_Porcupine.tools.1.label>
+  <AEXP_Porcupine.tools.2.label>зуби</AEXP_Porcupine.tools.2.label>
+  <AEXP_Porcupine.tools.3.label>голова</AEXP_Porcupine.tools.3.label>
+  <AEXP_Porcupine.race.meatLabel>м'ясо дикобраза</AEXP_Porcupine.race.meatLabel>
+
+</LanguageData>

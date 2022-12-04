@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: desired -->
+  <VME_BookReading_Desired.label>подобається</VME_BookReading_Desired.label>
+  <!-- EN: It’s important to soak up every bit of information we can, how else are we supposed to learn? Most books are even quite entertaining to boot. -->
+  <VME_BookReading_Desired.description>Щоб чогось навчитися тут, потрібно намагатися вбирати кожну крихту інформації. У тому числі і з книг. До того ж, вони часто цікаві самі по собі.</VME_BookReading_Desired.description>
+
+  <!-- EN: disliked -->
+  <VME_BookReading_Disliked.label>не подобається</VME_BookReading_Disliked.label>
+  <!-- EN: Reading is just such a chore. We retain nothing from it. -->
+  <VME_BookReading_Disliked.description>Ми нічого не отримаємо, прочитавши книгу. Це лише нудна необхідність.</VME_BookReading_Disliked.description>
+</LanguageData>

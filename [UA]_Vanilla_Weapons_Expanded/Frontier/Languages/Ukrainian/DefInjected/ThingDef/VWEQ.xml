@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_Derringer.label>куля дерінджера</VWEFT_Bullet_Derringer.label>
+
+  <VWEFT_Gun_Derringer.label>револьвер дерінджер</VWEFT_Gun_Derringer.label>
+  <VWEFT_Gun_Derringer.description>Чудернацький, але непомітний пістолет відмінно підходить для захисту на дуже близькій дистанції від агресивних людей та диких звірів. Часто можна зустріти у жінок, наймитів і сумнівних особистостей з далеких індустріальних світів.</VWEFT_Gun_Derringer.description>
+  <VWEFT_Gun_Derringer.tools.0.label>рукоятка</VWEFT_Gun_Derringer.tools.0.label>
+  <VWEFT_Gun_Derringer.tools.1.label>ствол</VWEFT_Gun_Derringer.tools.1.label>
+
+  <VWEFT_Bullet_LeverActionShotgun.label>куля рычажного дробовика</VWEFT_Bullet_LeverActionShotgun.label>
+
+  <VWEFT_Gun_LeverActionShotgun.label>важільний дробовик</VWEFT_Gun_LeverActionShotgun.label>
+  <VWEFT_Gun_LeverActionShotgun.description>Чудернацький і швидкозарядний дробовик. Мешканці прикордоння часто використовують такі для захисту своєї власності, а бармени та господарі магазинів для заспокоєння буйних відвідувачів або злодіїв.</VWEFT_Gun_LeverActionShotgun.description>
+  <VWEFT_Gun_LeverActionShotgun.tools.0.label>ложа</VWEFT_Gun_LeverActionShotgun.tools.0.label>
+  <VWEFT_Gun_LeverActionShotgun.tools.1.label>ствол</VWEFT_Gun_LeverActionShotgun.tools.1.label>
+</LanguageData>

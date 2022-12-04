@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_SalvagedLaserRevolver.label>промінь</VWEFT_Bullet_SalvagedLaserRevolver.label>
+	
+  <VWEFT_Gun_SalvagedLaserRevolver.label>утильний лазерний револьвер</VWEFT_Gun_SalvagedLaserRevolver.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.description>Барабанний лазерний пістолет, що швидко нагрівається через наявність у кожному осередку індивідуальної мікробатареї. Однак це дозволяє заздалегідь підготувати батарею до наступного пострілу. Завдяки кустарним акумуляторам, ця зброя здатна швидко розігріватися від безперервної стрільби і збільшувати скорострільність поки стрілок стоїть на місці. Ця зброя швидко перегрівається і при повному нагріванні батарея може спричинити невеликий вибух навколо стрілка.</VWEFT_Gun_SalvagedLaserRevolver.description>
+	<VWEFT_Gun_SalvagedLaserRevolver.tools.grip.label>рукоять</VWEFT_Gun_SalvagedLaserRevolver.tools.grip.label>
+  <VWEFT_Gun_SalvagedLaserRevolver.tools.barrel.label>ствол</VWEFT_Gun_SalvagedLaserRevolver.tools.barrel.label>
+
+  <VWEFT_Bullet_SalvagedLaserRepeater.label>промінь</VWEFT_Bullet_SalvagedLaserRepeater.label>
+	
+  <VWEFT_Gun_SalvagedLaserRepeater.label>утильний лазерний карабін</VWEFT_Gun_SalvagedLaserRepeater.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.description>Утильний лазерний карабін, здатний напрочуд влучно потрапляти своїм нестабільним променем на близькій та середній дистанції. Завдяки кустарним акумуляторам, ця зброя здатна швидко розігріватися від безперервної стрільби і збільшувати скорострільність, поки стрілок стоїть на місці. Ця зброя швидко перегрівається і при повному нагріванні акумулятор може викликати невеликий вибух навколо стрілка.</VWEFT_Gun_SalvagedLaserRepeater.description>
+	<VWEFT_Gun_SalvagedLaserRepeater.tools.grip.label>ложа</VWEFT_Gun_SalvagedLaserRepeater.tools.grip.label>
+  <VWEFT_Gun_SalvagedLaserRepeater.tools.barrel.label>ствол</VWEFT_Gun_SalvagedLaserRepeater.tools.barrel.label>
+
+  <VWEFT_Bullet_SalvagedLaserHuntingRifle.label>промінь</VWEFT_Bullet_SalvagedLaserHuntingRifle.label>
+	<VWEFT_Bullet_SalvagedLaserHuntingRifle.description>Нестабильний лазерний промінь</VWEFT_Bullet_SalvagedLaserHuntingRifle.description>
+
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.label>утильна лазерна гвинтівка</VWEFT_Gun_SalvagedLaserHuntingRifle.label>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.description>Утильна снайперська гвинтівка здатна випускати нестабільний промінь світла на дуже велику відстань. У давнину такі гвинтівки часто використовувалися для пограбувань поїздів корпорацій. Завдяки кустарним акумуляторам, ця зброя здатна швидко розігріватися від безперервної стрільби і збільшувати скорострільність, поки стрілок стоїть на місці. Ця зброя швидко перегрівається і при повному нагріванні акумулятор може викликати невеликий вибух навколо стрілка.</VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+	<VWEFT_Gun_SalvagedLaserHuntingRifle.tools.grip.label>ложа</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.grip.label>
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.barrel.label>ствол</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.barrel.label>
+</LanguageData>

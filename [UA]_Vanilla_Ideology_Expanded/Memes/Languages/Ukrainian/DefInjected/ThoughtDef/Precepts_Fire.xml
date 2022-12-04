@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Desired.stages.0.label>немає вогню поблизу</VME_Fire_Desired.stages.0.label>
+  <!-- EN: It has been too long since I’ve seen a fire. -->
+  <VME_Fire_Desired.stages.0.description>Я надто довго не {PAWN_gender ? бачив : бачила} вогню.</VME_Fire_Desired.stages.0.description>
+
+  <!-- EN: very few fires -->
+  <VME_Fire_Desired.stages.1.label>трошки вогню</VME_Fire_Desired.stages.1.label>
+  <!-- EN: I miss seeing the open flames. -->
+  <VME_Fire_Desired.stages.1.description>Я сумую за видом відкритого полум'я.</VME_Fire_Desired.stages.1.description>
+
+  <!-- EN: small fire -->
+  <VME_Fire_Desired.stages.2.label>невелике полум'я</VME_Fire_Desired.stages.2.label>
+  <!-- EN: I recently saw a small fire. -->
+  <VME_Fire_Desired.stages.2.description>Нещодавно я {PAWN_gender ? бачив : бачила} невелике полум'я. От би ще раз.</VME_Fire_Desired.stages.2.description>
+
+  <!-- EN: saw fire -->
+  <VME_Fire_Desired.stages.3.label>помітне полум'я</VME_Fire_Desired.stages.3.label>
+  <!-- EN: I recently saw a burning flame. -->
+  <VME_Fire_Desired.stages.3.description>Нещодавно я {PAWN_gender ? бачив : бачила} помітне полум'я. Це було приємно.</VME_Fire_Desired.stages.3.description>
+
+  <!-- EN: amazing fires -->
+  <VME_Fire_Desired.stages.4.label>чудові вогні</VME_Fire_Desired.stages.4.label>
+  <!-- EN: I am surrounded by fire. -->
+  <VME_Fire_Desired.stages.4.description>Я {PAWN_gender ? оточений : оточена} вогнем. Це прекрасно.</VME_Fire_Desired.stages.4.description>
+
+  <!-- EN: beautiful fires -->
+  <VME_Fire_Desired.stages.5.label>заворожливі вогні</VME_Fire_Desired.stages.5.label>
+  <!-- EN: I am surrounded by many beautiful flames. This is fine. -->
+  <VME_Fire_Desired.stages.5.description>Мене оточує безліч прекрасних вогників. Як чудово.</VME_Fire_Desired.stages.5.description>
+
+
+  <!-- EN: no fires nearby -->
+  <VME_Fire_Despised.stages.0.label>немає вогню поблизу</VME_Fire_Despised.stages.0.label>
+  <!-- EN: There are no fires nearby. That's good. -->
+  <VME_Fire_Despised.stages.0.description>Поблизу немає вогню. Це добре.</VME_Fire_Despised.stages.0.description>
+
+  <!-- EN: very few fires -->
+  <VME_Fire_Despised.stages.1.label>трошки вогню</VME_Fire_Despised.stages.1.label>
+  <!-- EN: Looking at those fires makes me uneasy. -->
+  <VME_Fire_Despised.stages.1.description>Від виду цих вогників мені стає ніяково.</VME_Fire_Despised.stages.1.description>
+
+  <!-- EN: small fire -->
+  <VME_Fire_Despised.stages.2.label>невелике полум'я</VME_Fire_Despised.stages.2.label>
+  <!-- EN: I recently saw a small fire. I'd rather see it extinguished. -->
+  <VME_Fire_Despised.stages.2.description>Нещодавно я {PAWN_gender ? бачив : бачила} невелике полум'я. Скоріше б він погас.</VME_Fire_Despised.stages.2.description>
+
+  <!-- EN: saw fire -->
+  <VME_Fire_Despised.stages.3.label>помітне полум'я</VME_Fire_Despised.stages.3.label>
+  <!-- EN: I recently saw a burning flame. It makes me very uncomfortable! -->
+  <VME_Fire_Despised.stages.3.description>Нещодавно я {PAWN_gender ? бачив : бачила} помітне полум'я. Від нього мені дуже некомфортно!</VME_Fire_Despised.stages.3.description>
+
+  <!-- EN: blazing fires -->
+  <VME_Fire_Despised.stages.4.label>палаючі вогні</VME_Fire_Despised.stages.4.label>
+  <!-- EN: I am surrounded by fire! This is horrible! -->
+  <VME_Fire_Despised.stages.4.description>Я {PAWN_gender ? оточений : оточена} вогнем. Це жахливо!</VME_Fire_Despised.stages.4.description>
+
+  <!-- EN: conflagration -->
+  <VME_Fire_Despised.stages.5.label>пожежа</VME_Fire_Despised.stages.5.label>
+  <!-- EN: AHHHHHH! Everything is on fire! -->
+  <VME_Fire_Despised.stages.5.description>А-а-а! Все у вогні!</VME_Fire_Despised.stages.5.description>
+</LanguageData>

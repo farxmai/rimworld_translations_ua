@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MixologyResearch.label>міксологія</VBE_MixologyResearch.label>
+  <VBE_MixologyResearch.description>Дослідження створення просунутих пристроїв, що використовують електрику для ідеального бродіння, розливу в пляшки та змішування коктейлів.</VBE_MixologyResearch.description>
+
+  <VBE_LiquorBrewing.label>лікероваріння</VBE_LiquorBrewing.label>
+  <VBE_LiquorBrewing.description>Дослідження створення передових методів пивоваріння, які дозволяють переганяти та зброджувати міцніші спиртні напої зі своїми унікальними ефектами.</VBE_LiquorBrewing.description>
+
+</LanguageData>

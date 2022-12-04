@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_DataConsole.label>консоль даних</VFEPD_DataConsole.label>
+    <VFEPD_DataConsole.description>Розширена консоль даних, яка приймає кілька різних типів форматування файлів.</VFEPD_DataConsole.description>
+
+    <VFEPD_DataConveyor.label>передавач даних</VFEPD_DataConveyor.label>
+    <VFEPD_DataConveyor.description>Великий ящик для кабелів та труб для передачі даних.</VFEPD_DataConveyor.description>
+
+    <VFEPD_DisplayScreen.label>інформаційний дісплей</VFEPD_DisplayScreen.label>
+    <VFEPD_DisplayScreen.description>Великий екран для відображення даних.</VFEPD_DisplayScreen.description>
+
+    <VFEPD_DisplayTable.label>інформаційний стіл</VFEPD_DisplayTable.label>
+    <VFEPD_DisplayTable.description>Великий екран для відображення даних розташований горизонтально.</VFEPD_DisplayTable.description>
+
+    <VFEPD_LongCommandConsole.label>командна консоль</VFEPD_LongCommandConsole.label>
+    <VFEPD_LongCommandConsole.description>Довга консоль з кількома різними командними модулями.</VFEPD_LongCommandConsole.description>
+
+    <VFEPD_PlanningScreen.label>планувальний дісплей</VFEPD_PlanningScreen.label>
+    <VFEPD_PlanningScreen.description>Великий екран ідеально підходить для планування бойових сценаріїв.</VFEPD_PlanningScreen.description>
+
+    <VFEPD_PlanningTable.label>планувальний стіл</VFEPD_PlanningTable.label>
+    <VFEPD_PlanningTable.description>Великий екран ідеально підходить для планування бойових сценаріїв розташований горизонтально.</VFEPD_PlanningTable.description>
+
+    <VFEPD_TripleDisplay.label>панель мониторингу</VFEPD_TripleDisplay.label>
+    <VFEPD_TripleDisplay.description>Розширена консоль мониторингу, яка динамчно відображає різні показники.</VFEPD_TripleDisplay.description>
+
+    <VFEPD_SpacerContainer.label>герметичний контейнер</VFEPD_SpacerContainer.label>
+    <VFEPD_SpacerContainer.description>Герметична пласталева коробка з потрійним захистом та запароленим доступом.</VFEPD_SpacerContainer.description>
+
+    <VFEPD_SpacerContainerLarge.label>герметичний контейнер (великий)</VFEPD_SpacerContainerLarge.label>
+    <VFEPD_SpacerContainerLarge.description>Герметична пласталева коробка з потрійним захистом та запароленим доступом.</VFEPD_SpacerContainerLarge.description>
+
+    <VFEPD_SpacerContainerStack.label>герметичний контейнер (стопка)</VFEPD_SpacerContainerStack.label>
+    <VFEPD_SpacerContainerStack.description>Герметична пласталева коробка з потрійним захистом та запароленим доступом.</VFEPD_SpacerContainerStack.description>
+
+    <VFEPD_SpacerStorage.label>герметичне сховище</VFEPD_SpacerStorage.label>
+    <VFEPD_SpacerStorage.description>Герметична пласталевий блок з трьох секцій з потрійним захистом та запароленим доступом.</VFEPD_SpacerStorage.description>
+
+    <VFEPD_SwitchPanel.label>панель керування</VFEPD_SwitchPanel.label>
+    <VFEPD_SwitchPanel.description>Панель середнього розміру, що містить різні важелі та перемикачі.</VFEPD_SwitchPanel.description>
+
+    <VFEPD_ServerRack.label>серверна шафа</VFEPD_ServerRack.label>
+    <VFEPD_ServerRack.description>Велика серверна стійка, що містить кілька жорстких дисків та сучасні комп'ютерні компоненти.</VFEPD_ServerRack.description>
+
+    <VFEPD_SensorPlatform.label>сенсорна платформа</VFEPD_SensorPlatform.label>
+    <VFEPD_SensorPlatform.description>Невелика платформа яка містить безліч датчиків.</VFEPD_SensorPlatform.description>
+
+    <VFEPD_PersonalConsole.label>особистий термінал зв'язку</VFEPD_PersonalConsole.label>
+    <VFEPD_PersonalConsole.description>Маленька футуристична персональна комунікаційна консоль.</VFEPD_PersonalConsole.description>
+
+
+</LanguageData>

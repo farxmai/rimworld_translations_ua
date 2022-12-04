@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_VFE_Pottery.label>зробити керамічний виріб</Make_VFE_Pottery.label>
+  <Make_VFE_Pottery.description>Зробити керамічний виріб.</Make_VFE_Pottery.description>
+  <Make_VFE_Pottery.jobString>виготовляє керамічний виріб</Make_VFE_Pottery.jobString>
+
+  <Make_VFE_StatueSmall.label>зробити малу статую</Make_VFE_StatueSmall.label>
+  <Make_VFE_StatueSmall.description>Зробити малу статую.</Make_VFE_StatueSmall.description>
+  <Make_VFE_StatueSmall.jobString>виготовляє малу статую</Make_VFE_StatueSmall.jobString>
+
+  <Make_VFE_Carving.label>зробити різьблений виріб</Make_VFE_Carving.label>
+  <Make_VFE_Carving.description>Зробити різьблений виріб.</Make_VFE_Carving.description>
+  <Make_VFE_Carving.jobString>виготовляє різьблений виріб</Make_VFE_Carving.jobString>
+
+  <Make_VFE_StatueLarge.label>зробити велику статую</Make_VFE_StatueLarge.label>
+  <Make_VFE_StatueLarge.description>Зробити велику статую.</Make_VFE_StatueLarge.description>
+  <Make_VFE_StatueLarge.jobString>виготовляє велику статую</Make_VFE_StatueLarge.jobString>
+
+  <Make_VFE_StatueGrand.label>зробити величезну статую</Make_VFE_StatueGrand.label>
+  <Make_VFE_StatueGrand.description>Зробити величезну статую.</Make_VFE_StatueGrand.description>
+  <Make_VFE_StatueGrand.jobString>виготовляє величезну статую</Make_VFE_StatueGrand.jobString>
+
+  <Make_VFE_Monument.label>зробити монумент</Make_VFE_Monument.label>
+  <Make_VFE_Monument.description>Зробити монумент.</Make_VFE_Monument.description>
+  <Make_VFE_Monument.jobString>виготовляє монумент</Make_VFE_Monument.jobString>
+
+  <Make_VFE_Relief.label>зробити барельєф</Make_VFE_Relief.label>
+  <Make_VFE_Relief.description>Зробити барельєф.</Make_VFE_Relief.description>
+  <Make_VFE_Relief.jobString>виготовляє барельєф</Make_VFE_Relief.jobString>
+
+  <Make_VFE_Pillar.label>зробити колону</Make_VFE_Pillar.label>
+  <Make_VFE_Pillar.description>Зробити колону.</Make_VFE_Pillar.description>
+  <Make_VFE_Pillar.jobString>виготовляє колону</Make_VFE_Pillar.jobString>
+
+  <Make_VFE_Obelisk.label>зробити обеліск</Make_VFE_Obelisk.label>
+  <Make_VFE_Obelisk.description>Зробити обеліск.</Make_VFE_Obelisk.description>
+  <Make_VFE_Obelisk.jobString>виготовляє обеліск</Make_VFE_Obelisk.jobString>
+
+  <Make_VFE_Plinth.label>зробити постамент</Make_VFE_Plinth.label>
+  <Make_VFE_Plinth.description>Зробити постамент.</Make_VFE_Plinth.description>
+  <Make_VFE_Plinth.jobString>виготовляє постамент</Make_VFE_Plinth.jobString>
+
+  <Make_VFE_HologramOn.label>зробити голограму</Make_VFE_HologramOn.label>
+  <Make_VFE_HologramOn.description>Зробити голограму.</Make_VFE_HologramOn.description>
+  <Make_VFE_HologramOn.jobString>виготовляє голограму</Make_VFE_HologramOn.jobString>
+
+  <Make_VFE_RugSmall.label>зробити малий килим</Make_VFE_RugSmall.label>
+  <Make_VFE_RugSmall.description>Зробити малий килим.</Make_VFE_RugSmall.description>
+  <Make_VFE_RugSmall.jobString>виготовляє малий килим</Make_VFE_RugSmall.jobString>
+
+  <Make_VFE_RugLarge.label>зробити великий килим</Make_VFE_RugLarge.label>
+  <Make_VFE_RugLarge.description>Зробити великий килим.</Make_VFE_RugLarge.description>
+  <Make_VFE_RugLarge.jobString>виготовляє великий килим</Make_VFE_RugLarge.jobString>
+
+  <Make_VFE_RugGrand.label>зробити величезний килим</Make_VFE_RugGrand.label>
+  <Make_VFE_RugGrand.description>Зробити величезний килим.</Make_VFE_RugGrand.description>
+  <Make_VFE_RugGrand.jobString>виготовляє величезний килим</Make_VFE_RugGrand.jobString>
+
+</LanguageData>

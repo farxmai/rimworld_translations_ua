@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Anima Nexus trees grow these spheres to help protect the dryads as they morph. -->
+  <DryadCocoon.description>Сфера з волокнистої рослинної матерії. Дріада всередині повільно трансформується на нову форму. Вузлові дерева душі вирощують ці кокони, щоб захищати дріад під час їхньої трансформації.</DryadCocoon.description>
+
+  <!-- EN: Seedmaker pod -->
+  <GaumakerCocoon.label>капсула вузла</GaumakerCocoon.label>
+  <!-- EN: The result of the merging of several Seedmaker dryads, this symbiotic plant/animal pod is an essential part of the Anima Nexus life cycle. After some time, it will flower into a mature Anima Nexus pod which can be harvested to plant a new Anima Nexus tree. -->
+  <GaumakerCocoon.description>Цей симбіот рослини та тварини з'являється в результаті злиття кількох вузлових дріад. Через деякий час він перетвориться на насіннєву капсулу вузлового древа душі, яку можна буде використовувати для посадки.</GaumakerCocoon.description>
+</LanguageData>

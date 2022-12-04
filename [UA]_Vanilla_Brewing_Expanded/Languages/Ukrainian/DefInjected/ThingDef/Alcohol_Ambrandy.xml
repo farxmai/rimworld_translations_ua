@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_AmbrandyAwful.label>амбренді (жахливий)</VBE_AmbrandyAwful.label>
+  <VBE_AmbrandyAwful.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyAwful.description>
+  <VBE_AmbrandyAwful.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+  <VBE_AmbrandyAwful.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyAwful.ingestible.ingestReportString>
+
+  <VBE_AmbrandyPoor.label>амбренді (поганий)</VBE_AmbrandyPoor.label>
+  <VBE_AmbrandyPoor.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyPoor.description>
+  <VBE_AmbrandyPoor.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+  <VBE_AmbrandyPoor.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyPoor.ingestible.ingestReportString>
+
+  <VBE_AmbrandyNormal.label>амбренді (звичайний)</VBE_AmbrandyNormal.label>
+  <VBE_AmbrandyNormal.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyNormal.description>
+  <VBE_AmbrandyNormal.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+  <VBE_AmbrandyNormal.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyNormal.ingestible.ingestReportString>
+
+  <VBE_AmbrandyGood.label>амбренді (гарний)</VBE_AmbrandyGood.label>
+  <VBE_AmbrandyGood.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyGood.description>
+  <VBE_AmbrandyGood.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+  <VBE_AmbrandyGood.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyGood.ingestible.ingestReportString>
+
+  <VBE_AmbrandyExcellent.label>амбренді (чудовий)</VBE_AmbrandyExcellent.label>
+  <VBE_AmbrandyExcellent.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyExcellent.description>
+  <VBE_AmbrandyExcellent.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+  <VBE_AmbrandyExcellent.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+
+  <VBE_AmbrandyMasterwork.label>амбренді (шедевр)</VBE_AmbrandyMasterwork.label>
+  <VBE_AmbrandyMasterwork.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyMasterwork.description>
+  <VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+  <VBE_AmbrandyMasterwork.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+
+  <VBE_AmbrandyLegendary.label>амбренді (легенда)</VBE_AmbrandyLegendary.label>
+  <VBE_AmbrandyLegendary.description>Також відомий як «рідке сонячне світло» амбренді – це двічі ферментований, дистильований лікер найвищої якості.</VBE_AmbrandyLegendary.description>
+  <VBE_AmbrandyLegendary.ingestible.ingestCommandString>Випити {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+  <VBE_AmbrandyLegendary.ingestible.ingestReportString>п'є {0}</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+
+
+</LanguageData>

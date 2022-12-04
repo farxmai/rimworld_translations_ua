@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Darklight chemfuel brazier -->
+  <CA_ChemfuelBrazierDark.label>хімпаливна тьмяна жаровня</CA_ChemfuelBrazierDark.label>
+  <!-- A Darklight Chemfuel Brazier. Will light the surroundings and create heat. -->
+  <CA_ChemfuelBrazierDark.description>Жаровня, що працює на хімпаливі. Буде освітлювати навколишнє середовище тьмяним світлом та генерувати тепло. Підходить для знаті.</CA_ChemfuelBrazierDark.description>
+
+  <!-- Darklight chemfuel sun lamp -->
+  <CA_SunlampDark.label>хімпаливна тьмяна сонячна лампа</CA_SunlampDark.label>
+  <!-- An industrial lamp which lights an area  with Darklight enough to grow crops, but consumes a huge amount of chemfuel. It also has a slightly lower lighting radius. Automatically turns itself off at night. -->
+  <CA_SunlampDark.description>Потужний промисловий світильник. Висвітлює місцевість досить яскраво для вирощування рослин та потребує середньої кількості газу. Радіус освітлення трохи менший ніж у звичайної лампи. Автоматично вимикається вночі.</CA_SunlampDark.description>
+  <!-- Off for plant resting period -->
+  <CA_SunlampDark.comps.CompSchedule.offMessage>Вимкнена під час сну рослин</CA_SunlampDark.comps.CompSchedule.offMessage>
+
+  <!-- Darklightchemfuel-powered  standing  lamp -->
+  <CA_ChemfuelStandingLampDark.label>хімпаливна тьмяна лампа</CA_ChemfuelStandingLampDark.label>
+  <!-- A chemfuel standing lamp that lights an area. People need light to move and work at full speed. -->
+  <CA_ChemfuelStandingLampDark.description>Хімпаливний світильник. Світло потрібне людям для роботи та зручності пересування.</CA_ChemfuelStandingLampDark.description>
+
+  <!-- Darklight chemfuel floodlight -->
+  <CA_ChemfuelFloodlightDark.label>хімпаливний тьмяний ліхтар</CA_ChemfuelFloodlightDark.label>
+  <!-- A tall chemfuel-powered lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+  <CA_ChemfuelFloodlightDark.description>Високий хімпаливний ліхтар, що висвітлює велику територію тьмяним світлом. Світло потрібне людям для роботи та зручності пересування. Світить недостатньо яскраво, щоб рослини могли рости. Можна розміщувати на вулиці.</CA_ChemfuelFloodlightDark.description>
+
+  <!-- Darklight Chemfuel wall light -->
+  <CAS_ChemfuelWallLightDark.label>хімпаливна тьмяна настінна лампа</CAS_ChemfuelWallLightDark.label>
+  <!-- A Chemfuel-powered wall light that lights an area. People need light to move and work at full speed. Can be safely placed outdoors. -->
+  <CAS_ChemfuelWallLightDark.description>Настінний хімпаливний світильник. Світло потрібне людям для роботи та зручності пересування. Можна розміщувати на вулиці.</CAS_ChemfuelWallLightDark.description>
+
+</LanguageData>

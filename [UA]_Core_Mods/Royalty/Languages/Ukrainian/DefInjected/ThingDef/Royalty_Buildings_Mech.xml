@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: defoliator -->
+  <Defoliator.label>дефоліатор</Defoliator.label>
+  <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
+  <Defoliator.description>Пристрій, створений для вигнання супротивника з території. Воно знищує всі рослини навколо себе, не впливаючи на інших істот. Подібну зброю іноді розпорошували лісами та фермами для знищення запасів їжі противника без руйнування ландшафту. Його використання характерне для армій механоїдів, що десантуються з орбіти.</Defoliator.description>
+
+  <!-- EN: mech node -->
+  <Gloomlight.label>вузол механоїдів</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>Автономний пристрій механоїдів невідомого призначення. Може бути розібрано заради цінних ресурсів, але тільки якщо було захоплене цілим. Якщо вузол пошкодити занадто сильно, його внутрішній мініатюрний енергоосередок згорить, і цінні матеріали будуть знищені.</Gloomlight.description>
+
+  <!-- EN: unstable power cell -->
+  <UnstablePowerCell.label>нестабільний енергоосередок</UnstablePowerCell.label>
+  <!-- EN: A mechanoid power generation unit. The vanometric power core will run forever, extracting energy from quantum foam fluctuations.\n\nAn internal amplifier system makes it unstable. If damaged, the unit will generate a massive explosion.\n\nSome brave humans steal these from mechanoids for their own use as power plants or defensive bombs. However, an unintentional detonation can be devastating. -->
+  <UnstablePowerCell.description>Генератор живлення, створений механоїдами. Його ванометричне енергоядро може працювати нескінченно довго, витягуючи енергію з флуктуацій квантової піни. Генератор оснащений вбудованим підсилювачем, який при пошкодженні вибухає, виділяючи велику кількість енергії. Деякі сміливці крадуть такі енергоосередки у механоїдів, щоб використовувати їх як модулі для електростанцій, або як стаціонарні бомби. Варто пам'ятати, що випадковий вибух може призвести до катастрофічних наслідків.</UnstablePowerCell.description>
+
+</LanguageData>

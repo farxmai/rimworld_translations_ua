@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: eltex meteor -->
+  <VPE_EltexMeteor.label>метеор з ельтексом</VPE_EltexMeteor.label>
+  <!-- EN: A location of an eltex meteor, highly desired by the empire. Travelling here will allow you to obtain eltex that can be used to craft psycasting gear. -->
+  <VPE_EltexMeteor.description>Місце, куди впав метеор із ельтексом, матеріалом, який високо цінується в Імперії. Вирушивши туди, можна видобути ельтекс для створення спорядження для ваших псіоніків.</VPE_EltexMeteor.description>
+  <!-- EN: Hostile activity detected. -->
+  <VPE_EltexMeteor.mainPartAllThreatsLabel>Виявлено ворожу активність.</VPE_EltexMeteor.mainPartAllThreatsLabel>
+</LanguageData>

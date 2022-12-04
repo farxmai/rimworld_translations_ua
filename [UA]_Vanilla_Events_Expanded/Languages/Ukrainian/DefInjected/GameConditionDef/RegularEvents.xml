@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HailStorm.label>Град</HailStorm.label>
+  <HailStorm.description>Дивна невелика буря із градом спустошує місцеву територію. Будь-яка людина або тварина, яка не ховається під дахом, ризикує отримати травму від крижаних кульок.</HailStorm.description>
+  <HailStorm.endMessage>Град закінчується</HailStorm.endMessage>
+  <HailStorm.letterText>Дивна невелика буря із градом спустошує місцеву територію. Будь-яка людина або тварина, яка не ховається під дахом, ризикує отримати травму від крижаних кульок.</HailStorm.letterText>
+
+  <Drought.label>Посуха</Drought.label>
+  <Drought.description>Почалася незвичайна посуха. Посуха є згубною для життя рослин і швидко знищить усі культури, не посаджені на гідропоніці. Не забудьте швидко зібрати будь-які рослини, які зможете.</Drought.description>
+  <Drought.endMessage>Посуха закінчується</Drought.endMessage>
+  <Drought.letterText>Почалася незвичайна посуха. Посуха є згубною для життя рослин і швидко знищить усі культури, не посаджені на гідропоніці. Не забудьте швидко зібрати будь-які рослини, які зможете.</Drought.letterText>
+
+  <SpaceBattle.label>Космічна битва</SpaceBattle.label>
+  <SpaceBattle.description>У небі вирує космічна битва, яка може тривати до 1 дня.</SpaceBattle.description>
+  <SpaceBattle.endMessage>Космічна битва закінчується</SpaceBattle.endMessage>
+  <SpaceBattle.letterText> Декілька великих космічних кораблів вступили в бій на орбіті планети. Пропущені постріли та уламки можуть вразити поверхню на місці вашого поселення. Чекайте на масові пожежі.</SpaceBattle.letterText>
+</LanguageData>

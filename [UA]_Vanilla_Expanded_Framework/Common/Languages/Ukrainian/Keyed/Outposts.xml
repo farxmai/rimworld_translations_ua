@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Outposts.Settings.Title>Vanilla Expanded Framework - Outposts</Outposts.Settings.Title>
+    <Outposts.Settings.Multiplier>Множник продуктивності аванпоста:</Outposts.Settings.Multiplier>
+    <Outposts.Settings.Multiplier.Time>Множник часу аванпоста: {0}</Outposts.Settings.Multiplier.Time>
+    <Outposts.Settings.RaidDifficulty>Множник важкості рейдів: {0}</Outposts.Settings.RaidDifficulty>
+    <Outposts.Settings.RaidFrequency>Множник частоти рейдів</Outposts.Settings.RaidFrequency>
+    <Outposts.Dialog.Create>Створити</Outposts.Dialog.Create>
+    <Outposts.Commands.Create.Label>Створити аванпост</Outposts.Commands.Create.Label>
+    <Outposts.Commands.Create.Desc>Створити аванпост, використовуючи цей караван.</Outposts.Commands.Create.Desc>
+    <Outposts.Letters.Lost.Label>Аванпост втрачено</Outposts.Letters.Lost.Label>
+    <Outposts.Letters.Lost.Text>На жаль, через загибель усіх поселенців аванпост {0} було втрачено.</Outposts.Letters.Lost.Text>
+    <Outposts.Letters.BattleWon.Label>Битву за аванпост виграно</Outposts.Letters.BattleWon.Label>
+    <Outposts.Letters.BattleWon.Text>Ми успішно виграли битву за {0}.</Outposts.Letters.BattleWon.Text>
+    <Outposts.Letters.Items.Label>Предмети з {0}</Outposts.Letters.Items.Label>
+    <Outposts.Letters.Items.Text>Ви отримали від аванпоста {0} такі предмети: </Outposts.Letters.Items.Text>
+    <Outposts.Commands.AddPawn.Label>Додати пішака</Outposts.Commands.AddPawn.Label>
+    <Outposts.Commands.AddPawn.Desc>Перенести пішака з цього каравану в аванпост.</Outposts.Commands.AddPawn.Desc>
+    <Outposts.Commands.Pack.Label>Зібрати речі</Outposts.Commands.Pack.Label>
+    <Outposts.Commands.Pack.Desc>Розформувати цей аванпост назад у караван.</Outposts.Commands.Pack.Desc>
+    <Outposts.Commands.Remove.Label>Видалити пішака</Outposts.Commands.Remove.Label>
+    <Outposts.Commands.Remove.Desc>Перенести пішака з цього аванпосту до нового каравану.</Outposts.Commands.Remove.Desc>
+    <Outposts.Command.Remove.Only1>Неможливо прибрати пішака: всього 1 мешканець. Якщо ви бажаєте видалити цей аванпост, виберіть опцію «Зібрати речі».</Outposts.Command.Remove.Only1>
+    <Outposts.Contains>Містить {0} поселенців</Outposts.Contains>
+    <Outposts.Packing>Збираємо речі, готові висуватися через{0}</Outposts.Packing>
+    <Outposts.NotSkilledEnough>Пішаки недостатньо вмілі, їм потрібна сукупна навичка {0} принаймні {1} рівня</Outposts.NotSkilledEnough>
+    <Outposts.RestingAt>Відпочиває на аванпості {0}</Outposts.RestingAt>
+    <Outposts.WillProduce.0>Виготовить деякі предмети через {0}</Outposts.WillProduce.0>
+    <Outposts.WillProduce.1>Виготовить {0} {1} через {2}</Outposts.WillProduce.1>
+    <Outposts.WillProduce.2>Виготовить {0} {1} та {2} {3} через {4}</Outposts.WillProduce.2>
+    <Outposts.WillProduce.N>Виготовить наступне {0}:\n{1}</Outposts.WillProduce.N>
+    <Outposts.CannotBeMade>Не можна зробити через {0}</Outposts.CannotBeMade>
+    <Outposts.NotEnoughPawns>Не вистачає пішаків у каравані, потрібно хоча б {0}</Outposts.NotEnoughPawns>
+    <Outposts.TotalSkill>Сукупна навичка {0}: {1}</Outposts.TotalSkill>
+    <Outposts.TooClose>Занадто близько до поселення або іншого аванпоста, між ними має бути принаймні 1 тайл</Outposts.TooClose>
+    <Outposts.AddedFromTransportPods>Ваші транспортні капсули прибули. {0} додано до {1}.</Outposts.AddedFromTransportPods>
+    <Outposts.AddTo>Додати до аванпоста</Outposts.AddTo>
+    <Outposts.SendNonPawns>Підтвердити відправку речей на аванпост? Вони будуть остаточно втрачені.</Outposts.SendNonPawns>
+    <Outposts.AlreadyPacking>Вже пакується</Outposts.AlreadyPacking>
+    <Outposts.Settings.DeliveryMethod>Метод доставки</Outposts.Settings.DeliveryMethod>
+    <Outposts.Settings.DeliveryMethod.Teleport>Телепортувати предмети в колонію</Outposts.Settings.DeliveryMethod.Teleport>
+    <Outposts.Settings.DeliveryMethod.PackAnimal>Надішліть в’ючну тварину, що несе предмети, до колонії</Outposts.Settings.DeliveryMethod.PackAnimal>
+    <Outposts.Settings.DeliveryMethod.Store>Зберігати предмети на аванпості</Outposts.Settings.DeliveryMethod.Store>
+    <Outposts.Settings.DeliveryMethod.ForcePods>Завжди надсилати капсули</Outposts.Settings.DeliveryMethod.ForcePods>
+    <Outposts.Settings.DeliveryMethod.PackOrPods>Капсули якщо є, інакше в’ючна тварина</Outposts.Settings.DeliveryMethod.PackOrPods>
+    <Outposts.Abandoned>Аванпост покинуто</Outposts.Abandoned>
+    <Outposts.Abandoned.Desc>{0} було покинуто, оскільки всередині не було нікого, хто б ним керував. Він дуже швидко буде розграбований і захоплений природою, не залишивши жодних слідів, що він коли-небудь там був.</Outposts.Abandoned.Desc>
+    <Outposts.Take>Взяти</Outposts.Take>
+    <Outposts.Give>Дати</Outposts.Give>
+    <Outposts.AllowedBiomes>Має бути в одному з наступних біомів:</Outposts.AllowedBiomes>
+    <Outposts.DisallowedBiomes>Не може бути в жодному з наступних біомів:</Outposts.DisallowedBiomes>
+    <Outposts.NumPawns>Має бути принаймні {0} пішаків, які хочуть приєднатися до аванпосту</Outposts.NumPawns>
+    <Outposts.RequiredSkill>Сукупна навичка {0} має бути принаймні {1}</Outposts.RequiredSkill>
+    <Outposts.GrowingRequired>Необхідно мати вміння вирощувати рослини</Outposts.GrowingRequired>
+    <Outposts.MustHaveInCaravan>У каравані має бути {0}</Outposts.MustHaveInCaravan>
+    <Outposts.NoValidPawns>Немає дійсних пішаків для додавання до аванпосту</Outposts.NoValidPawns>
+    <Outposts.SkillChange>Через зміни рівня навичок {0} більше не може створювати {1}</Outposts.SkillChange>
+    <Outposts.Setting.ProductionTime>Час виготовлення</Outposts.Setting.ProductionTime>
+    <Outposts.Setting.PackTime>Час пакування</Outposts.Setting.PackTime>
+    <Outposts.Setting.Range>Діапазон</Outposts.Setting.Range>
+    <Outposts.Setting.MinimumPawns>Мінімальна кількість пішаків для створення</Outposts.Setting.MinimumPawns>
+    <Outposts.Settings.Production>Production Multiplier</Outposts.Settings.Production>
+    <Outposts.Settings.DoRaids>Увімкнути рейди на аванпостах?</Outposts.Settings.DoRaids>
+</LanguageData>

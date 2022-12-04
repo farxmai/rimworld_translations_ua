@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: psyfocus cost factor -->
+  <VPE_PsyfocusCostFactor.label>ефективність псі-здібностей</VPE_PsyfocusCostFactor.label>
+  <!-- EN: A multiplier on psyfocus cost of psycasts. -->
+  <VPE_PsyfocusCostFactor.description>Множник вартості псіконцентрації для використання здібностей.</VPE_PsyfocusCostFactor.description>
+
+  <!-- EN: minimum neural heat -->
+  <VPE_PsychicEntropyMinimum.label>мінімальна псі-напруга</VPE_PsychicEntropyMinimum.label>
+  <!-- EN: The minimum amount of neural heat. This is increased by maintaining certain psycasts, which give heat that never fades -->
+  <VPE_PsychicEntropyMinimum.description>Мінімальна кількість псі-напруги. Це збільшить вартість деяких псі-здібностей, які вимагають постійної напруги.</VPE_PsychicEntropyMinimum.description>
+
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>максимальна псі-напруга</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>Максимальна кількість псі-напруги яку колоніст може безпечно переносити.</PsychicEntropyMax.description>
+
+  <!-- EN: neural heat gain -->
+  <PsychicEntropyGain.label>приріст псі-напруги</PsychicEntropyGain.label>
+  <!-- EN: A multiplier on neural heat gained from any source. -->
+  <PsychicEntropyGain.description>Множник псі-напруги отриманої від будь-чого.</PsychicEntropyGain.description>
+
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>швидкість зменшення псі-напруги</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>Швидкість з якою колоніст зменшує псі-напругу.</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/с</PsychicEntropyRecoveryRate.formatString>
+
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>приріст псіконцентрації від медитації</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>Обсяг псіконцентрації, який колоніст отримує за день медитації, ігноруючи бонуси від об’єктів фокусування.</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>{0}/день</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0}/день</MeditationFocusGain.formatStringUnfinalized>
+
+</LanguageData>

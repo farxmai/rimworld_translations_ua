@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWE_MeleeWeapon_Pickaxe.label>кайло</VWE_MeleeWeapon_Pickaxe.label>
+  <VWE_MeleeWeapon_Pickaxe.description>Цей простий винахід ефективний як зброєю, так і як інструмент. Для гірських робіт все ще потрібна фізична сила, але сама робота стає комфортнішою. Гостра робоча частина здатна пробивати броню.</VWE_MeleeWeapon_Pickaxe.description>
+  <VWE_MeleeWeapon_Pickaxe.tools.0.label>держак</VWE_MeleeWeapon_Pickaxe.tools.0.label>
+  <VWE_MeleeWeapon_Pickaxe.tools.1.label>вістря</VWE_MeleeWeapon_Pickaxe.tools.1.label>
+
+  <VWE_MeleeWeapon_Hammer.label>молоток</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>Молоток - це інструмент, що складається з важкого шматка металу або каменю на кінці рукояті. Він використовується, наприклад, для забивання цвяхів у шматок дерева чи стіну. Це простий винахід є ефективною зброєю, так як і інструментом. Для будівництва все ще потрібна фізична сила, але сама робота стає комфортнішою.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.0.label>держак</VWE_MeleeWeapon_Hammer.tools.0.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>ударна частина</VWE_MeleeWeapon_Hammer.tools.1.label>
+
+  <VWE_MeleeWeapon_BattleAxe.label>бойова сокира</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>В умілих руках є могутньою зброєю на полі бою. Здатно розрубати шкіру, плоть та кістки однаково ефективно. Улюблена зброя кланів берсерків, а також популярна зброя серед середньовічних лицарів. Потужні змахи нищать багатьох ворогів у ближньому бою.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.0.label>держак</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.1.label>лезо</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+
+  <VWE_MeleeWeapon_Halberd.label>алебарда</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>Алебарда це піка з невеликою сокирою на кінці. Завдяки гострому списоподібному наконечнику є чудовим інструментом проти броньованих ворогів. Використовувалося для боротьби з кінними воїнами в Середньовіччі завдяки своїй надзвичайній довжині.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.0.label>держак</VWE_MeleeWeapon_Halberd.tools.0.label>
+  <VWE_MeleeWeapon_Halberd.tools.1.label>лезо</VWE_MeleeWeapon_Halberd.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.tools.2.label>вістря</VWE_MeleeWeapon_Halberd.tools.2.label>
+</LanguageData>

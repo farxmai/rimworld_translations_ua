@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+    <FF_Plant_PoisonIvy.label>отруйний плющ</FF_Plant_PoisonIvy.label>
+    <FF_Plant_PoisonIvy.description>Кущиста, плодоносна рослина з характерним листям. Оскільки отруйний плющ може викликати подразнюючі і сверблячі висипання при контакті, він вважається неприємним. Однак його екстракт має цінне застосування у медицині.</FF_Plant_PoisonIvy.description>
+
+    <FF_PoisonIvyLeaves.label>лисття отруйного плюща</FF_PoisonIvyLeaves.label>
+    <FF_PoisonIvyLeaves.description>Сире зрізане листя отруйного плюща. Хімічні речовини, витягнуті з живців отруйного плюща, можна використовувати для сильнодіючих ліків.</FF_PoisonIvyLeaves.description>
+
+</LanguageData>

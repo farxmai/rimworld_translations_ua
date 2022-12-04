@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_FineSteelTile.label>вишукана сталева плитка</VFEArch_FineSteelTile.label>
+  <VFEArch_FineSteelTile.description>Вишукана металева плитка, безкомпромісно створена для вираження економічного статусу. Довго укладається.</VFEArch_FineSteelTile.description>
+
+  <VFEArch_FineSilverTile.label>вишукана срібна плитка</VFEArch_FineSilverTile.label>
+  <VFEArch_FineSilverTile.description>Вишукана металева плитка, безкомпромісно створена для вираження економічного статусу. Довго укладається.</VFEArch_FineSilverTile.description>
+
+  <VFEArch_FineGoldTile.label>вишукана золота плитка</VFEArch_FineGoldTile.label>
+  <VFEArch_FineGoldTile.description>Вишукана металева плитка, безкомпромісно створена для вираження економічного статусу. Довго укладається.</VFEArch_FineGoldTile.description>
+
+  <VFEArch_FineWoodenFloor.label>вишукана дощата підлога</VFEArch_FineWoodenFloor.label>
+  <VFEArch_FineWoodenFloor.description>Гарний дерев'яний паркет, створений безкомпромісно для вираження економічного статусу. Довго укладається.</VFEArch_FineWoodenFloor.description>
+
+  <VFEArch_FineWoodenFloorWalnut.label>вишукана підлога з горіхового дерева</VFEArch_FineWoodenFloorWalnut.label>
+  <VFEArch_FineWoodenFloorWalnut.description>Гарний дерев'яний паркет, створений безкомпромісно для вираження економічного статусу. Довго укладається.</VFEArch_FineWoodenFloorWalnut.description>
+
+  <VFEArch_FineWoodenFloorBirch.label>вишукана підлога з берези</VFEArch_FineWoodenFloorBirch.label>
+  <VFEArch_FineWoodenFloorBirch.description>Гарний дерев'яний паркет, створений безкомпромісно для вираження економічного статусу. Довго укладається.</VFEArch_FineWoodenFloorBirch.description>
+
+  <VFEArch_FineWoodenFloorMahogany.label>вишукана підлога з червоного дерева</VFEArch_FineWoodenFloorMahogany.label>
+  <VFEArch_FineWoodenFloorMahogany.description>Гарний дерев'яний паркет, створений безкомпромісно для вираження економічного статусу. Довго укладається.</VFEArch_FineWoodenFloorMahogany.description>
+
+</LanguageData>

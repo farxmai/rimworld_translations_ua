@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mint.GearMenu>Меню спорядження (експериментальне)</Mint.GearMenu>
+  <Mint.GearMenuVisible>Головна кнопка видима</Mint.GearMenuVisible>
+  <Mint.GearMenuDesc>Активуйте кнопку, щоб відкрити меню керування спорядженням, яке дозволяє перетягувати доступне спорядження на будь-якого пішака</Mint.GearMenuDesc>
+  <Mint.Setup>Налаштування</Mint.Setup>
+  <Mint.AssignMenu>Меню призначення</Mint.AssignMenu>
+  <Mint.AssignMenuDesc>Перевизначити меню призначення.</Mint.AssignMenuDesc>
+  <MessageCantEquipWhileDowned>Неможливо спорядити під час збиття</MessageCantEquipWhileDowned>
+  <Mint.ShowMintBillsButton>Показати кнопку виробництва</Mint.ShowMintBillsButton>
+  <Mint.ShowMintBillsButtonTip>Показати кнопку в списку основних вкладок у нижній частині екрана</Mint.ShowMintBillsButtonTip>
+  <ReplacePlantMenuTip>Замінити меню росдин на варінт з цього моду</ReplacePlantMenuTip>
+  <Mint.ShowBillWorkIcons>Показати іконки обсягу роботи</Mint.ShowBillWorkIcons>
+  <Mint.ShowBillIngredientIcons>Показати іконки інгрідієнтів</Mint.ShowBillIngredientIcons>
+  <Mint.ConfirmDeleteTemplate>Підтвердити видалення копії</Mint.ConfirmDeleteTemplate>
+  <Mint.RenameTemplateTip>Перейменувати</Mint.RenameTemplateTip>
+  <Mint.Clones>Копії</Mint.Clones>
+  <Mint.Bills>Схеми</Mint.Bills>
+  <Mint.PasteTemplateTip>Вставити декілька схем</Mint.PasteTemplateTip>
+  <Mint.CloneBills>Копіювати список схем</Mint.CloneBills>
+  <Mint.DeleteTemplate>Видалити чернетку</Mint.DeleteTemplate>
+  <Mint.CloneWorktable>Перенести список схем на обране робоче місце</Mint.CloneWorktable>
+  <Mint.SelectABenchToAddBills>Оберіть робоче місце щоб керувати схемами</Mint.SelectABenchToAddBills>
+  <AutoCloseArchitect>Закрити після вибору</AutoCloseArchitect>
+  <AutoCloseArchitectDesc>Закриває меню архітектора після вибору споруди</AutoCloseArchitectDesc>
+  <ResearchQueueTip>Черга дослідження - перетягніть, щоб замовити</ResearchQueueTip>
+
+  <QueueResearchProj>Черга</QueueResearchProj>
+  <EnablePinningResources>Включити закріплення ресурсів</EnablePinningResources>
+  <EnablePinningResourcesTip>Ctrl+клацання по об'єктах у списку ресурсів, щоб закріпити їх угорі (тільки в режимі категорій)</EnablePinningResourcesTip>
+  <ShowHideResourceList>Приховати опис</ShowHideResourceList>
+  <ShowHideResourceListTip>Приховати опис у лівій частині екрану</ShowHideResourceListTip>
+
+  <dragdropdes>Перетягнути\n&amp;\nВідпустити</dragdropdes>
+
+  <ReplacePlantMenu>Перевизначити меню рослин</ReplacePlantMenu>
+  <ResearchCompletionMode>Режим завершення дослідження</ResearchCompletionMode>
+  <MintHelpLinks>Посилання підтримки</MintHelpLinks>
+  <MintDiscord>Dubs Mods Discord</MintDiscord>
+  <ProjectStalled>Вимоги дослідницького проекту не виконані</ProjectStalled>
+  <ProjectStopped>Проект зупинено</ProjectStopped>
+  <MintWiki>Mint Menus Wiki</MintWiki>
+  <SetButtonsFromBuildo>Добавить кнопки меню архитектора, нажав Ctrl</SetButtonsFromBuildo>
+  <BillSearchTip>Слова, доступні для пошуку:\n\nБудь-які слова з опису предмета або будівлі, наприклад "штани"\n\nКатегорії речей, наприклад "шкіра"\n\nГрупи частин тіла, наприклад "head"\n\nТеги, наприклад, "промислові"\n\nШари, наприклад "верхній"</BillSearchTip>
+  <NoActiveProject>Немає активного проекту</NoActiveProject>
+  <TargetProject>Цільовий проект: {0}</TargetProject>
+  <MintWheelDesc>Колесо команд {0}/{1} (Ctrl+Клацніть, щоб призначити)</MintWheelDesc>
+  <MintWheelMenu>Меню колеса команд</MintWheelMenu>
+  <MintWheelonrightclick>Відкриття правою кнопкою миші</MintWheelonrightclick>
+  <MintWheelRightClickDesc>Відкривати Колесо команд правою кнопкою миші замість відкриття меню архітектора</MintWheelRightClickDesc>
+  <MintWheel>Колесо команд</MintWheel>
+  <MintBuildMenu>Меню Архітектури</MintBuildMenu>
+  <AutoFocusSearch>Поле пошуку з автофокусом</AutoFocusSearch>
+  <AutoFocusSearchDesc>Автоматично фокусувати поле пошуку, щоб почати вводити текст щоразу, коли відкривається меню збирання</AutoFocusSearchDesc>
+  <OverrideArchitectTab>Перевизначити вкладку архітектури</OverrideArchitectTab>
+  <OverrideArchitectTabDesc>Замінити вкладку архітектури на варіант з моду.</OverrideArchitectTabDesc>
+  <ResearchMenu>Меню досліджень</ResearchMenu>
+  <MintListWidth>Ширина списку</MintListWidth>
+  <OverrideResearchTab>Перевизначити вкладку дослідження</OverrideResearchTab>
+  <OverrideResearchTabDesc>Замінити вкладку досліджень на варіант з моду.</OverrideResearchTabDesc>
+  <UnlockedThings>Розблокувати речі</UnlockedThings>
+  <HideFinishedProjects>Приховати завершені дослідження</HideFinishedProjects>
+  <HideLockedProjects>Приховати заблоковані дослідження</HideLockedProjects>
+  <PinnedRes>Закріплено</PinnedRes>
+  <MintResourceReadout>Меню відображення ресурсів</MintResourceReadout>
+  <MintExperimental>Додатково</MintExperimental>
+  <Autoprojectstep>Крок автоматичного проекту</Autoprojectstep>
+  <AutoprojectstepDesc>Автоматичний запуск наступного етапу дослідницького проекту для завершення цільового проекту</AutoprojectstepDesc>
+  <MintBills>Меню виробництва</MintBills>
+  <ListWidth>Ширина списку</ListWidth>
+  <RowHeight>Висота рядка</RowHeight>
+  <InfocardWidth>Ширина меню</InfocardWidth>
+  <TopOffset>Верхнє зміщення</TopOffset>
+  <MaxHeight>Максимальна висота</MaxHeight>
+  <MintPlants>Меню рослин</MintPlants>
+  <BoxSizeX>Ширина списку</BoxSizeX>
+  <BoxSizeY>Висота списку</BoxSizeY>
+  <MintResetAll>Скинути все</MintResetAll>
+
+</LanguageData>

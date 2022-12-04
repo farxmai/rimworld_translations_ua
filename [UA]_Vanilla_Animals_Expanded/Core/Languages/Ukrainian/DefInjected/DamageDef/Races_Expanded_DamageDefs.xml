@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gila Monster -->
+
+  <AEXP_GilaToxicBuildUp.label>отруйний укус</AEXP_GilaToxicBuildUp.label>
+  <AEXP_GilaToxicBuildUp.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} від отруйного укусу.</AEXP_GilaToxicBuildUp.deathMessage>
+
+  <!-- Rattlesnake -->
+
+  <AEXP_RattleSnakeToxicBuildUp.label>отруйний укус</AEXP_RattleSnakeToxicBuildUp.label>
+  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} від отруйних укусів.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+
+  <!-- Megascorpion -->
+
+  <AEXP_MegascorpionToxicBuildUp.label>отруйне жало</AEXP_MegascorpionToxicBuildUp.label>
+  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} {0_gender ? вмер : вмерла : вмерло} від отруйного жала.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+
+
+</LanguageData>

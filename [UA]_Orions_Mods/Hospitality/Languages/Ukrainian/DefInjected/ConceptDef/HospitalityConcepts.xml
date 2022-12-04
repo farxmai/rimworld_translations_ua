@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>GuestBeds.label</path>
+		<trans>Гостьові ліжка</trans>
+	</rep>
+	<rep>
+		<path>GuestBeds.helpText</path>
+		<trans>Гості воліють спати в ліжках. Ви можете призначити ліжка як гостей за допомогою кнопки «Для гостей».</trans>
+	</rep>
+
+	<rep>
+		<path>RecruitGuest.label</path>
+		<trans>Рекрутувати гостей</trans>
+	</rep>
+	<rep>
+		<path>RecruitGuest.helpText</path>
+		<trans>Ви можете рекрутувати гостей.\n\nРекрутування гостя погіршить ваші стосунки з його фракцією. Ви можете доручити це кваліфікованому перемовнику.</trans>
+	</rep>
+
+	<rep>
+		<path>GuestWork.label</path>
+		<trans>Гості допомагають</trans>
+	</rep>
+	<rep>
+		<path>GuestWork.helpText</path>
+		<trans>Задоволені гості допомагатимуть вашим поселенцям за наявності необхідних навичок. Ви можете вимкнути цю опцію або змінити поріг необхідних навичок у налаштуваннях мода.</trans>
+	</rep>
+
+	<rep>
+		<path>Hospitality.label</path>
+		<trans>Гостинність</trans>
+	</rep>
+	<rep>
+		<path>Hospitality.helpText</path>
+		<trans>Гості будуть користуватися вашими гостьовими ліжками, розвагами та здійснювати покупки у спеціальних зонах. Якщо гостям у вас сподобається, це покращить відносини між вашими фракціями.</trans>
+	</rep>
+
+</LanguageData>

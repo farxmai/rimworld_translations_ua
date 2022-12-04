@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: forbidden -->
+  <VME_Slavery_Forbidden.label>заборонено</VME_Slavery_Forbidden.label>
+  <!-- EN: Participating in slave trade is an absolutely vile idea. The only reason to purchase a slave is with intent to immediately free them. Moreso, those who struggled through enslavement deserve our compassion and respect. -->
+  <VME_Slavery_Forbidden.description>Участь у работоргівлі - мерзенна справа. Єдина поважна причина купити раба - це бажання дати йому свободу. Більш того, борці з рабством, заслуговують нашого співпереживання та поваги.</VME_Slavery_Forbidden.description>
+  <!-- EN: Any slave in colony (until emancipated) -->
+  <VME_Slavery_Forbidden.comps.0.description>Раб у колонії (поки не розкріпачено)</VME_Slavery_Forbidden.comps.0.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: high -->
+  <VME_WoodcuttingYield_High.label>висока</VME_WoodcuttingYield_High.label>
+  <!-- EN: Lumber is infinitely useful, not even stumps go to waste when our kind is in charge.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Woodcutting yield: +10%. -->
+  <VME_WoodcuttingYield_High.description>Деревина дуже цінна і, якщо ми рубаємо ліс, навіть пні не повинні зникнути даремно.\n\n&lt;color=#E5E54C&gt;Ефекти:&lt;/color&gt;\n - Видобуток деревини: +10%.</VME_WoodcuttingYield_High.description>
+</LanguageData>

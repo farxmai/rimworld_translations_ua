@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VWEFT_Bullet_HeavyRevolver.label>куля важкого револьвера</VWEFT_Bullet_HeavyRevolver.label>
+
+  <VWEFT_Gun_HeavyRevolver.label>важкий револьвер</VWEFT_Gun_HeavyRevolver.label>
+  <VWEFT_Gun_HeavyRevolver.description>Багато прикрашений револьвер — улюбленець успішних законників чи бандитів. Краща вогнева міць і дальність ціною більш довгої і незручної перезарядки. Історія про легендарних стрілців індустріальних світів наводять на думку, що місцева зброя іноді здатна на неймовірно вдалі постріли.</VWEFT_Gun_HeavyRevolver.description>
+  <VWEFT_Gun_HeavyRevolver.tools.0.label>рукоятка</VWEFT_Gun_HeavyRevolver.tools.0.label>
+  <VWEFT_Gun_HeavyRevolver.tools.1.label>ствол</VWEFT_Gun_HeavyRevolver.tools.1.label>
+
+  <VWEFT_Bullet_VolcanicPistol.label>куля волканика</VWEFT_Bullet_VolcanicPistol.label>
+
+  <VWEFT_Gun_VolcanicPistol.label>револьвер волканик</VWEFT_Gun_VolcanicPistol.label>
+  <VWEFT_Gun_VolcanicPistol.description>Багато прикрашений пістолет, що поєднує в собі вогневу міць великої гвинтівки та компактність револьвера. Також від гвинтівки йому дістався, дивовижний для пістолета, об'єм магазину і дальність, а від револьвера довга перезарядка і жахлива точність через віддачу.</VWEFT_Gun_VolcanicPistol.description>
+  <VWEFT_Gun_VolcanicPistol.tools.0.label>рукоятка</VWEFT_Gun_VolcanicPistol.tools.0.label>
+  <VWEFT_Gun_VolcanicPistol.tools.1.label>ствол</VWEFT_Gun_VolcanicPistol.tools.1.label>
+
+  <VWEFT_Gun_FrontierPistol.label>пістолет прикордоння</VWEFT_Gun_FrontierPistol.label>
+  <VWEFT_Gun_FrontierPistol.description>Оздоблений варіант звичайного пістолета Старого Світу. Ефективний на короткій і середній дистанції.</VWEFT_Gun_FrontierPistol.description>
+  <VWEFT_Gun_FrontierPistol.tools.0.label>рукоятка</VWEFT_Gun_FrontierPistol.tools.0.label>
+  <VWEFT_Gun_FrontierPistol.tools.1.label>ствол</VWEFT_Gun_FrontierPistol.tools.1.label>
+
+  <VWEFT_Bullet_FrontierPistol.label>куля пістолету прикордоння</VWEFT_Bullet_FrontierPistol.label>
+
+  <VWEFT_Gun_RollingBlockRifle.label>гвинтівка з роликовим затвором</VWEFT_Gun_RollingBlockRifle.label>
+  <VWEFT_Gun_RollingBlockRifle.description>Багато прикрашена потужна гвинтівка, що дозволяла мисливцям вбивати муффало одним пострілом. Ця модифікація оснащена оптичним прицілом для далеких дистанцій та покращеною системою заряджання. У такому вигляді вона припала до душі мисливцям за головами, відмінно показавши себе в полюванні на інших «муффало».</VWEFT_Gun_RollingBlockRifle.description>
+  <VWEFT_Gun_RollingBlockRifle.tools.0.label>ложа</VWEFT_Gun_RollingBlockRifle.tools.0.label>
+  <VWEFT_Gun_RollingBlockRifle.tools.1.label>ствол</VWEFT_Gun_RollingBlockRifle.tools.1.label>
+
+  <VWEFT_Bullet_RollingBlockRifle.label>куля гвинтівки з роликовим затвором</VWEFT_Bullet_RollingBlockRifle.label>
+
+  <VWEFT_Gun_RepeatingShotgun.label>магазинний дробовик</VWEFT_Gun_RepeatingShotgun.label>
+  <VWEFT_Gun_RepeatingShotgun.description>Багато прикрашений обріз дробовика для стрільби з однієї руки і навіть верхи. За свою вбивчу ефективність названо «бумалоп'я ніжка».</VWEFT_Gun_RepeatingShotgun.description>
+  <VWEFT_Gun_RepeatingShotgun.tools.0.label>ложа</VWEFT_Gun_RepeatingShotgun.tools.0.label>
+  <VWEFT_Gun_RepeatingShotgun.tools.1.label>ствол</VWEFT_Gun_RepeatingShotgun.tools.1.label>
+
+  <VWEFT_Bullet_RepeatingShotgun.label>дріб</VWEFT_Bullet_RepeatingShotgun.label>
+</LanguageData>

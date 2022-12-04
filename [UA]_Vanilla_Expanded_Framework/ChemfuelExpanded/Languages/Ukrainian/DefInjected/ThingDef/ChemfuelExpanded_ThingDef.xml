@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.3/Defs/ThingDefs_Buildings.xml-->
+  <!-- chemfuel cooler -->
+  <CAS_ChemfuelCooler.label>хімпаливний кондиціонер</CAS_ChemfuelCooler.label>
+  <!-- An air-cooling machine that runs on chemfuel, can fit into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <CAS_ChemfuelCooler.description>Машина, що охолоджує повітря, працює на хімпаливі, може монтуватися в стіну. Холодне повітря виходить з одного боку, а гарячий вихлоп виходить з іншого. Може використовуватися для охолодження приміщень улітку або для створення морозильної камери.</CAS_ChemfuelCooler.description>
+
+  <!-- chemfuel heater -->
+  <CAS_ChemfuelHeater.label>хімпаливний обігрівач</CAS_ChemfuelHeater.label>
+  <!-- A device that burns chemfuel to produce heat. -->
+  <CAS_ChemfuelHeater.description>Пристрій, який спалює хімпаливо для отримання тепла.</CAS_ChemfuelHeater.description>
+
+  <!-- chemfuel crematorium -->
+  <CA_ChemfuelCrematorium.label>хімпаливний кремеаторій</CA_ChemfuelCrematorium.label>
+  <!-- A huge crematorium that runs via chemfuel, which vaporizes corpses with extremely high temperatures. -->
+  <CA_ChemfuelCrematorium.description>Кам'яний електричний крематорій для спалювання трупів та непотрібних речей. Використовує хімпаливо.</CA_ChemfuelCrematorium.description>
+
+  <!-- chemfuel sun lamp -->
+  <CA_Sunlamp.label>хімпаливна сонячна лампа</CA_Sunlamp.label>
+  <!-- An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of chemfuel. It also has a slightly lower lighting radius. Automatically turns itself off at night. -->
+  <CA_Sunlamp.description>Потужний промисловий світильник. Висвітлює місцевість досить яскраво для вирощування рослин та потребує середньої кількості газу. Радіус освітлення трохи менший ніж у звичайної лампи. Автоматично вимикається вночі.</CA_Sunlamp.description>
+  <!-- Off for plant resting period -->
+  <CA_Sunlamp.comps.CompSchedule.offMessage>Вимкнена під час сну рослин</CA_Sunlamp.comps.CompSchedule.offMessage>
+
+  <!-- chemfuel-powered  standing lamp -->
+  <CA_ChemfuelStandingLamp.label>хімпаливна лампа</CA_ChemfuelStandingLamp.label>
+  <!-- A chemfuel standing lamp that lights an area. People need light to move and work at full speed. -->
+  <CA_ChemfuelStandingLamp.description>Стояча лампа на хімічному паливі, що висвітлює зону навколо себе. Людям потрібне світло, щоб рухатися та працювати на повній швидкості.</CA_ChemfuelStandingLamp.description>
+
+  <!-- chemfuel smithy -->
+  <CA_ChemfuelSmithy.label>хімпаливна кузня</CA_ChemfuelSmithy.label>
+  <!-- A chemfuel-powered station for smithing non-mechanical weapons and tools. -->
+  <CA_ChemfuelSmithy.description>Кузня, що працює на хімічному паливі, обладнана для виробництва немеханічної зброї та інструментів.</CA_ChemfuelSmithy.description>
+
+  <!-- chemfuel smelter -->
+  <CA_ChemfuelSmelter.label>хімпаливна плавильня</CA_ChemfuelSmelter.label>
+  <!-- Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of chemfuel and runs very hot. -->
+  <CA_ChemfuelSmelter.description>Витягує метал із шматків металобрухту та інших предметів, які можуть містити метал. Використовує хімпаливо та виробляє надзвичайно багато тепла.</CA_ChemfuelSmelter.description>
+
+  <!-- wood-fired turbine -->
+  <CA_WoodFiredTurbine.label>дров'яний турбо генератор</CA_WoodFiredTurbine.label>
+  <!-- A wood powered turbojet generator . Although cumbersome, it produces a lot power. Must be refueled by hand. -->
+  <CA_WoodFiredTurbine.description>Турбореактивний генератор, працюючий на дровах. Незважаючи на громіздкість, він виробляє багато енергії. Потрібно заправляти вручну.</CA_WoodFiredTurbine.description>
+
+  <!-- chemfuel turbine -->
+  <CA_ChemfuelTurbine.label>хімпаливний турбо генератор</CA_ChemfuelTurbine.label>
+  <!-- A chemfuel powered turbojet. Although cumbersome, it produces a lot of power, and can be refueled by chemfuel pipes. -->
+  <CA_ChemfuelTurbine.description>Турбореактивний генератор, працюючий на хімічному паливі. Незважаючи на громіздкість, він виробляє багато енергії і може заправлятися хімічним паливом трубами.</CA_ChemfuelTurbine.description>
+
+  <!-- chemfuel floodlight -->
+  <CA_ChemfuelFloodlight.label>хімпаливний ліхтар</CA_ChemfuelFloodlight.label>
+  <!-- A tall chemfuel-powered lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+  <CA_ChemfuelFloodlight.description>Високий хімпаливний ліхтар, що висвітлює велику територію. Світло потрібне людям для роботи та зручності пересування. Світить недостатньо яскраво, щоб рослини могли рости. Можна розміщувати на вулиці.</CA_ChemfuelFloodlight.description>
+
+  <!-- Chemfuel stove -->
+  <CE_ChemfuelStove.label>хімпаливна плита</CE_ChemfuelStove.label>
+  <!-- An chemfuel-powered stove with an attached countertop for preparing meals. -->
+  <CE_ChemfuelStove.description>Стіл для приготування їжі з плитою на хімпаливі.</CE_ChemfuelStove.description>
+
+  <!-- Chemfuel wall light -->
+  <CAS_ChemfuelWallLight.label>хімпаливний настінна лампа</CAS_ChemfuelWallLight.label>
+  <!-- A Chemfuel-powered wall light that lights an area. People need light to move and work at full speed. Can be safely placed outdoors. -->
+  <CAS_ChemfuelWallLight.description>Хімпаливний газовий світильник. Світло потрібне людям для роботи та зручності пересування. Має бути підключено до газової мережі. Можна розміщувати на вулиці.</CAS_ChemfuelWallLight.description>
+
+  <!-- Chemfuel powered excavator -->
+  <SCP_ChemDrill.label>хімпаливна бурова устанока</SCP_ChemDrill.label>
+  <!-- A Chemfuel powered  deep-crust drilling excavator for extracting minerals from deep under the surface. Great for caravaning due to its portability. -->
+  <SCP_ChemDrill.description>Кстановка глибокого буріння, що працює на хімічному паливі, для отримання корисних копалин з-під поверхні. Відмінно підходить для караванів завдяки своїй портативності.</SCP_ChemDrill.description>
+
+</LanguageData>

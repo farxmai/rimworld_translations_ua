@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Lemonade.label>лемонад</VBE_Lemonade.label>
+  <VBE_Lemonade.description>Солодкий напій, змішаний з лимонним соком, цукром і водою.</VBE_Lemonade.description>
+  <VBE_Lemonade.ingestible.ingestCommandString>Випити {0}</VBE_Lemonade.ingestible.ingestCommandString>
+  <VBE_Lemonade.ingestible.ingestReportString>п'є {0}</VBE_Lemonade.ingestible.ingestReportString>
+  <VBE_Lemonade.tools.0.label>пляшка</VBE_Lemonade.tools.0.label>
+  <VBE_Lemonade.tools.1.label>шийка</VBE_Lemonade.tools.1.label>
+
+</LanguageData>

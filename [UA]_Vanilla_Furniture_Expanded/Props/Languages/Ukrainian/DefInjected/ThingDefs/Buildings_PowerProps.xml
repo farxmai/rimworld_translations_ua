@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_AdvancedRotor.label>промисловий ротор</VFEPD_AdvancedRotor.label>
+    <VFEPD_AdvancedRotor.description>Удосконалений роторний блок.</VFEPD_AdvancedRotor.description>
+
+    <VFEPD_Rotor.label>ротор</VFEPD_Rotor.label>
+    <VFEPD_Rotor.description>Роторний блок.</VFEPD_Rotor.description>
+
+    <VFEPD_Battery.label>батарея</VFEPD_Battery.label>
+    <VFEPD_Battery.description>Простий пристрій зберігання енергії. Не прцює.</VFEPD_Battery.description>
+
+    <VFEPD_Exhaust.label>димохід (великий)</VFEPD_Exhaust.label>
+    <VFEPD_Exhaust.description>Труба для відведення диму.</VFEPD_Exhaust.description>
+
+    <VFEPD_SmallExhaust.label>димохід</VFEPD_SmallExhaust.label>
+    <VFEPD_SmallExhaust.description>Труба для відведення диму.</VFEPD_SmallExhaust.description>
+
+    <VFEPD_Generator.label>генератор</VFEPD_Generator.label>
+    <VFEPD_Generator.description>Звичайний генератор. Не прцює.</VFEPD_Generator.description>
+
+    <VFEPD_IndustrialGenerator.label>промисловий генератор</VFEPD_IndustrialGenerator.label>
+    <VFEPD_IndustrialGenerator.description>Великий промисловий генератор. Не прцює.</VFEPD_IndustrialGenerator.description>
+
+    <VFEPD_GeneratorUnitLarge.label>блок генератора (великий)</VFEPD_GeneratorUnitLarge.label>
+    <VFEPD_GeneratorUnitLarge.description>Велика частина промислового генератора.</VFEPD_GeneratorUnitLarge.description>
+
+    <VFEPD_GeneratorUnitSmall.label>блок генератора</VFEPD_GeneratorUnitSmall.label>
+    <VFEPD_GeneratorUnitSmall.description>Частина промислового генератора.</VFEPD_GeneratorUnitSmall.description>
+
+    <VFEPD_GasStorageUnit.label>резервуар з газом</VFEPD_GasStorageUnit.label>
+    <VFEPD_GasStorageUnit.description>Резервуар для зберігання газу.</VFEPD_GasStorageUnit.description>
+
+    <VFEPD_ToxicWasteBarrel.label>бочка з токсичними відходами</VFEPD_ToxicWasteBarrel.label>
+    <VFEPD_ToxicWasteBarrel.description>Бочка з токсичними відходами.</VFEPD_ToxicWasteBarrel.description>
+
+    <VFEPD_PowerConverter.label>перетворювач потужності</VFEPD_PowerConverter.label>
+    <VFEPD_PowerConverter.description>Великий блок перетворювача потужності.</VFEPD_PowerConverter.description>
+
+    <VFEPD_ChemfuelTank.label>бак для рідини (хімпаливо)</VFEPD_ChemfuelTank.label>
+    <VFEPD_ChemfuelTank.description>Великий бак для зберігання рідини.</VFEPD_ChemfuelTank.description>
+
+    <VFEPD_LiquidTank.label>бак для рідини (вода)</VFEPD_LiquidTank.label>
+    <VFEPD_LiquidTank.description>Великий бак для зберігання рідини.</VFEPD_LiquidTank.description>
+
+    <VFEPD_SteelTank.label>бак для рідини (порожній)</VFEPD_SteelTank.label>
+    <VFEPD_SteelTank.description>Великий бак для зберігання рідини.</VFEPD_SteelTank.description>
+
+    <VFEPD_CoalBurner.label>пальник вугілля</VFEPD_CoalBurner.label>
+    <VFEPD_CoalBurner.description>Промислова вугільна піч. Не прцює.</VFEPD_CoalBurner.description>
+
+    <VFEPD_PowerPole.label>ЛЕП</VFEPD_PowerPole.label>
+    <VFEPD_PowerPole.description>Висока стовб для кріплення кабелів. Не прцює.</VFEPD_PowerPole.description>
+
+
+</LanguageData>

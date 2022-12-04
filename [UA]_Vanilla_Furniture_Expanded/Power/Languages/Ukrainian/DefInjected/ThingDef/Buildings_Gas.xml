@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_GasPipe.label>газова труба</VPE_GasPipe.label>
+  <VPE_GasPipe.description>Труба, що пропускає через себе хеліксіновий газ.</VPE_GasPipe.description>
+
+  <VPE_GasPipeSub.label>підземна газова труба</VPE_GasPipeSub.label>
+  <VPE_GasPipeSub.description>Труба, що пропускає через себе хеліксіновий газ. Ця труба прихована від очей та має захист від вибухів газу.</VPE_GasPipeSub.description>
+
+  <VPE_GasPipeValve.label>газовий клапан</VPE_GasPipeValve.label>
+  <VPE_GasPipeValve.description>Відкриває та перекриває потік газу.</VPE_GasPipeValve.description>
+
+  <VPE_GasTank.label>газове сховище</VPE_GasTank.label>
+  <VPE_GasTank.description>Великий сталевий резервуар для зберігання газу. Вибухає при пошкодженні.</VPE_GasTank.description>
+
+  <VPE_HelixienPump.label>хеліксіновий насос</VPE_HelixienPump.label>
+  <VPE_HelixienPump.description>Насосна установка, що розміщена на хеліксиновій свердловині. Цей пристрій з автономним живленням викачує з підземних родовищ цінний газ і має бути підключений до інших газових пристроїв через мережу трубопроводу.</VPE_HelixienPump.description>
+
+  <VPE_HelixienGenerator.label>генератор на хеліксиновому газі</VPE_HelixienGenerator.label>
+  <VPE_HelixienGenerator.description>Виробляє електроенергію, споживаючи як паливо хеліксиновий газ. Потребує підключення до газопровідної мережі.</VPE_HelixienGenerator.description>
+
+  <VPE_IndustrialHelixienGenerator.label>промисловий генератор на хеліксиновому газі</VPE_IndustrialHelixienGenerator.label>
+  <VPE_IndustrialHelixienGenerator.description>Виробляє електроенергію, споживаючи як паливо хеліксиновий газ. Потребує підключення до газопровідної мережі.</VPE_IndustrialHelixienGenerator.description>
+
+  <VPE_GasCrematorium.label>газовий крематорій</VPE_GasCrematorium.label>
+  <VPE_GasCrematorium.description>Кам'яний крематорій для спалювання трупів та непотрібних речей. Потребує підключення до газопровідної мережі.</VPE_GasCrematorium.description>
+
+  <VPE_GasSmelter.label>газова плавильня</VPE_GasSmelter.label>
+  <VPE_GasSmelter.description>Витягує метал із шматків металобрухту та інших предметів, які можуть містити метал. Потребує підключення до газопровідної мережі.</VPE_GasSmelter.description>
+
+  <VPE_GasStove.label>газова плита</VPE_GasStove.label>
+  <VPE_GasStove.description>Стіл для приготування їжі з плитою, що працює на геліксиновому газі.</VPE_GasStove.description>
+
+  <VPE_GasDrill.label>газова бурова установка</VPE_GasDrill.label>
+  <VPE_GasDrill.description>Комплекс бурового обладнання, призначений для отримання корисних копалин з надр. Для виявлення родовищ слід використовувати глибинний сканер. За відсутності з корисними копалинами відбувається видобуток кам'яної породи. Можна переміщати з місця на місце.</VPE_GasDrill.description>
+
+  <VPE_GasCooler.label>газовий кондиціонер</VPE_GasCooler.label>
+  <VPE_GasCooler.description>Влаштування повітряного охолодження, яке випускає охолоджене повітря з себе на всі боки. Може бути використаний для створення морозильної камери. Бажану температуру газового кондиціонера налаштувати не можна, він автоматично знижує температуру до позначки трохи нижче нуля.</VPE_GasCooler.description>
+
+  <VPE_GasHeater.label>газовий обігрівач</VPE_GasHeater.label>
+  <VPE_GasHeater.description>Пристрій, який перетворює хеліксиновий газ на тепло. Може автоматично вмикатися та вимикатися при досягненні заданої температури.</VPE_GasHeater.description>
+
+  <VPE_GasSunLamp.label>газова сонячна лампа</VPE_GasSunLamp.label>
+  <VPE_GasSunLamp.description>Потужний виробничий світильник. Висвітлює місцевість досить яскраво для вирощування рослин, але потребує середньої кількості геліксинового газу. Автоматично вимикається ночами.</VPE_GasSunLamp.description>
+
+  <VPE_GasSmithy.label>газова кузня</VPE_GasSmithy.label>
+  <VPE_GasSmithy.description>Газова кузня, обладнана для виробництва немеханічної зброї та інструментів.</VPE_GasSmithy.description>
+
+  <VPE_GasLamp.label>газова лампа</VPE_GasLamp.label>
+  <VPE_GasLamp.description>Газова лампа висвітлює найближчу область. Світло потрібне людям для роботи та зручності пересування. Потребує підключення до газопровідної мережі.</VPE_GasLamp.description>
+
+  <VPE_GasWallLight.label>газова настінна лампа</VPE_GasWallLight.label>
+  <VPE_GasWallLight.description>Газова лампа висвітлює найближчу область. Світло потрібне людям для роботи та зручності пересування. Потребує підключення до газопровідної мережі.</VPE_GasWallLight.description>
+
+  <VPE_GasWallDarkLight.label>тьмяна газова настінна лампа</VPE_GasWallDarkLight.label>
+  <VPE_GasWallDarkLight.description>Газова лампа висвітлює найближчу область тьмяним світлом. Людям, які вважають за краще працювати при тьмяному освітленні, подобається це джерело світла. Потребує підключення до газопровідної мережі.</VPE_GasWallDarkLight.description>
+
+  <VPE_GasFloodlight.label>газовий ліхтар</VPE_GasFloodlight.label>
+  <VPE_GasFloodlight.description>Газовий ліхтар висвітлює найближчу область. Світло потрібне людям для роботи та зручності пересування. Потребує підключення до газопровідної мережі.</VPE_GasFloodlight.description>
+
+  <VPE_GasBiofuelRefinery.label>газовий біопаливний завод</VPE_GasBiofuelRefinery.label>
+  <VPE_GasBiofuelRefinery.description>Використовується для отримання хімічного палива із деревини або рослинної сировини. Потребує підключення до газопровідної мережі.</VPE_GasBiofuelRefinery.description>
+
+  <VPE_GasVent.label>вентиляційний отвір для газу</VPE_GasVent.label>
+  <VPE_GasVent.description>Настінний вентиляційний отвір, здатний випускати токсичні сполуки хеліксінового газу задану область. Для обмеження потоку газу в тій самій мережі має бути встановлений газовий клапан. Хеліксіновий газ дуже леткий.</VPE_GasVent.description>
+
+  <VPE_GasPodLauncher.label>газовий запускач капсул</VPE_GasPodLauncher.label>
+  <VPE_GasPodLauncher.description>Пристрій для подачі палива та запуску транспортної капсули. Можна активувати кілька пускових установок одночасно, для цього вони повинні бути встановлені впритул один до одного. Потребує підключення до газопровідної мережі.</VPE_GasPodLauncher.description>
+
+</LanguageData>

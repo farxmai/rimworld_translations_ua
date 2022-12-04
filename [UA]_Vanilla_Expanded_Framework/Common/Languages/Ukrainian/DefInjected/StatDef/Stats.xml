@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ranged cooldown factor -->
+  <VEF_RangedCooldownFactor.label>час між пострілами</VEF_RangedCooldownFactor.label>
+  <!-- EN: The cooldown on ranged weapons of the wearer is multiplied by this value. -->
+  <VEF_RangedCooldownFactor.description>Час, необхідний для перезарядки зброї, множиться на це значення.</VEF_RangedCooldownFactor.description>
+
+  <!-- EN: verb range factor -->
+  <VEF_VerbRangeFactor.label>дальність стрільби</VEF_VerbRangeFactor.label>
+  <!-- EN: verb range factor (people) -->
+  <VEF_VerbRangeFactor.labelForFullStatList>дальність стрільби (люди)</VEF_VerbRangeFactor.labelForFullStatList>
+  <!-- EN: The range on weapons is multiplied by this value. -->
+  <VEF_VerbRangeFactor.description>Дальнобійність зброї власника множиться на це значення.</VEF_VerbRangeFactor.description>
+
+  <!-- EN: verb cooldown factor -->
+  <VEF_VerbCooldownFactor.label>час між атаками</VEF_VerbCooldownFactor.label>
+  <!-- EN: verb cooldown factorr (people) -->
+  <VEF_VerbCooldownFactor.labelForFullStatList>час між атаками (люди)</VEF_VerbCooldownFactor.labelForFullStatList>
+  <!-- EN: The cooldown on weapons is multiplied by this value. -->
+  <VEF_VerbCooldownFactor.description>Час між атаками зброєю множиться на це значення.</VEF_VerbCooldownFactor.description>
+
+  <!-- EN: Shield max energy offset -->
+  <VEF_EnergyShieldEnergyMaxOffset.label>зсув макс. заряду щита</VEF_EnergyShieldEnergyMaxOffset.label>
+  <!-- EN: Offset of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxOffset.description>Зсув максимуму енергії щита, який можна збільшити різними шляхами.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+  <!-- EN: Shield max energy factor -->
+  <VEF_EnergyShieldEnergyMaxFactor.label>множ. макс. заряду щита</VEF_EnergyShieldEnergyMaxFactor.label>
+  <!-- EN: Factor of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxFactor.description>Множник максимуму енергії щита, який можна збільшити різними шляхами.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxApparel.label>макс. заряд щита</VEF_EnergyShieldEnergyMaxApparel.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxApparel.description>Максимальна кількість енергії, яка може бути у щита. Більше енергії — більше поглиненої шкоди.</VEF_EnergyShieldEnergyMaxApparel.description>
+
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRateApparel.label>Швидкість відновлення щита</VEF_EnergyShieldRechargeRateApparel.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRateApparel.description>Швидкість, з якою щит відновлює енергію, якщо він не зламаний.</VEF_EnergyShieldRechargeRateApparel.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0} с</VEF_EnergyShieldRechargeRateApparel.formatString>
+
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusApparel.label>радіус дії щита</VEF_EnergyShieldRadiusApparel.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusApparel.description>Область, яку закриває щит під час своєї роботи.</VEF_EnergyShieldRadiusApparel.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} с</VEF_EnergyShieldRadiusApparel.formatString>
+
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxPawn.label>Макс. заряд щита</VEF_EnergyShieldEnergyMaxPawn.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxPawn.description>Максимальна кількість енергії, яка може бути у щиті. Більше енергії — більше поглиненої шкоди.</VEF_EnergyShieldEnergyMaxPawn.description>
+
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRatePawn.label>Швидкість відновлення щита</VEF_EnergyShieldRechargeRatePawn.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRatePawn.description>Швидкість, з якою щит відновлює енергію, якщо він не зламаний.</VEF_EnergyShieldRechargeRatePawn.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/с</VEF_EnergyShieldRechargeRatePawn.formatString>
+
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusPawn.label>радіус дії щита</VEF_EnergyShieldRadiusPawn.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusPawn.description>Область, яку закриває щит під час своєї роботи.</VEF_EnergyShieldRadiusPawn.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusPawn.formatString>{0} с</VEF_EnergyShieldRadiusPawn.formatString>
+
+  <!-- EN: melee attack speed factor -->
+  <VEF_MeleeAttackSpeedFactor.label>множ. швидкості ближнього бою</VEF_MeleeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on melee attack speed. -->
+  <VEF_MeleeAttackSpeedFactor.description>Множник швидкості атаки в ближньому бою.</VEF_MeleeAttackSpeedFactor.description>
+
+  <!-- EN: range attack speed factor -->
+  <VEF_RangeAttackSpeedFactor.label>множ. швидкості стрільби</VEF_RangeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on range attack speed. -->
+  <VEF_RangeAttackSpeedFactor.description>Множник швидкості атаки в дальньому бою.</VEF_RangeAttackSpeedFactor.description>
+
+  <!-- EN: melee attack damage factor -->
+  <VEF_MeleeAttackDamageFactor.label>множ. пошкоджень в ближньому бою</VEF_MeleeAttackDamageFactor.label>
+  <!-- EN: A multiplier on melee attack damage. -->
+  <VEF_MeleeAttackDamageFactor.description>Множник урона в ближньому бою.</VEF_MeleeAttackDamageFactor.description>
+
+  <!-- EN: range attack damage factor -->
+  <VEF_RangeAttackDamageFactor.label>множ. пошкоджень в дальньому бою</VEF_RangeAttackDamageFactor.label>
+  <!-- EN: A multiplier on range attack damage. -->
+  <VEF_RangeAttackDamageFactor.description>Множник урона в дальньому бою.</VEF_RangeAttackDamageFactor.description>
+</LanguageData>

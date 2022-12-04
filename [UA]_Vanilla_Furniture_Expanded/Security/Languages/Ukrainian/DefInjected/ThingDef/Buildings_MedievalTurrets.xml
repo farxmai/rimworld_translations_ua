@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Turret_Ballista.label>баліста</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Старовинна облогова машина у вигляді арбалета, встановлена на дерев'яній конструкції. Снаряди, випущені з балістів, при ударі розлітаються на уламки.</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Пострілів до перезарядки</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Снаряди</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: потрібні снаряди балісти</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Bullet_Ballista.label>снаряд балісти</VFES_Bullet_Ballista.label>
+
+  <VFES_Gun_BallistaTurret.label>баліста</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Старовинна облогова машина у вигляді арбалета, встановлена на дерев'яній конструкції. Снаряди, випущені з балістів, при ударі розлітаються на уламки.</VFES_Gun_BallistaTurret.description>
+
+  <VFES_Turret_Catapult.label>катапульта</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Катапульта – це облогова машина, яка використовується для запуску снарядів на велику відстань за допомогою кінетичної енергії.</VFES_Turret_Catapult.description>
+
+  <VFES_Artillery_Catapult.label>катапульта</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Катапульта – це облогова машина, яка використовується для запуску снарядів на велику відстань за допомогою кінетичної енергії.</VFES_Artillery_Catapult.description>
+
+  <VFES_Artillery_Rock.label>масивний камінь</VFES_Artillery_Rock.label>
+
+</LanguageData>

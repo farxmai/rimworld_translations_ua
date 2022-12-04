@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Chirashizushi.label>миска чиращизущі (простий)</VCE_Chirashizushi.label>
+  <VCE_Chirashizushi.description>Миска простого суші - чиращизущі, швидко приготованого з кількох інгредієнтів. Часто вживається в їжу через ситність та простоту приготування.</VCE_Chirashizushi.description>
+
+  <VCE_Norimaki.label>норімакі (простий)</VCE_Norimaki.label>
+  <VCE_Norimaki.description>Миска простого суші – норімакі, швидко приготованого з кількох інгредієнтів. Часто вживається в їжу через ситність та простоту приготування.</VCE_Norimaki.description>
+
+  <VCE_Uramaki.label>урамакі (чудовий)</VCE_Uramaki.label>
+  <VCE_Uramaki.description>Комплексні суші - урамакі, виготовлені з обережністю з широкого асортименту інгредієнтів.</VCE_Uramaki.description>
+
+  <VCE_Nigiri.label>нігірі (чудовий)</VCE_Nigiri.label>
+  <VCE_Nigiri.description>Комплексні суші - нігірі, виготовлені з обережністю з широкого асортименту інгредієнтів.</VCE_Nigiri.description>
+
+  <VCE_Temaki.label>темакі (вишуканий)</VCE_Temaki.label>
+  <VCE_Temaki.description>Цей шедевр японського кулінарного мистецтва живить тіло, розум та душу.</VCE_Temaki.description>
+
+  <VCE_Futomaki.label>футомакі (вишуканий)</VCE_Futomaki.label>
+  <VCE_Futomaki.description>Цей шедевр японського кулінарного мистецтва живить тіло, розум та душу.</VCE_Futomaki.description>
+
+  <VCE_Gunkanmaki.label>гунканмакі (першокласний)</VCE_Gunkanmaki.label>
+  <VCE_Gunkanmaki.description>Вершина японського кулінарного мистецтва.</VCE_Gunkanmaki.description>
+
+  <VCE_Oshizushi.label>ошизуші (першокласний)</VCE_Oshizushi.label>
+  <VCE_Oshizushi.description>Вершина японського кулінарного мистецтва.</VCE_Oshizushi.description>
+
+</LanguageData>

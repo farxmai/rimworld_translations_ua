@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <sewagePipeStuff.label>труба</sewagePipeStuff.label>
+  <sewagePipeStuff.description>Водопровід для підключення сантехніки і не тільки.</sewagePipeStuff.description>
+  <sewagePipeStuff_Blueprint.label>труба (креслення)</sewagePipeStuff_Blueprint.label>
+  <sewagePipeStuff_Frame.label>труба (будівництво)</sewagePipeStuff_Frame.label>
+  <sewagePipeStuff_Frame.description>Водопровід для підключення сантехніки і не тільки.</sewagePipeStuff_Frame.description>
+
+  <plumbingValve.label>вентиль</plumbingValve.label>
+  <plumbingValve.description>Відкриває або закриває з'єднання між трубами.</plumbingValve.description>
+  <plumbingValve_Blueprint.label>вентиль (креслення)</plumbingValve_Blueprint.label>
+  <plumbingValve_Blueprint_Install.label>вентиль (креслення)</plumbingValve_Blueprint_Install.label>
+  <plumbingValve_Frame.label>вентиль (будівництво)</plumbingValve_Frame.label>
+  <plumbingValve_Frame.description>Відкриває або закриває з'єднання між трубами.</plumbingValve_Frame.description>
+
+  <airPipe.label>труба кондиціонера</airPipe.label>
+  <airPipe.description>Труба для підключення кондиціонерів.</airPipe.description>
+  <airPipe_Blueprint.label>труба кондиціонера (креслення)</airPipe_Blueprint.label>
+  <airPipe_Frame.label>труба кондиціонера (будівництво)</airPipe_Frame.label>
+  <airPipe_Frame.description>Труба для підключення кондиціонерів.</airPipe_Frame.description>
+
+</LanguageData>

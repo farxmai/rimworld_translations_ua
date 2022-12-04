@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: godlike -->
+  <VME_Leader_Godlike.label>божественний</VME_Leader_Godlike.label>
+  <!-- EN: Our leader should be exalted as a god, to treat them as any less assures our demise.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Opinion of the leader depends on a person's certainty in its ideoligion. -->
+  <VME_Leader_Godlike.description>Нам не загрожує занепад, доки ми молимося нашому лідерові.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Ставлення поселенця до лідера залежить від його впевненості в ідеолігії.</VME_Leader_Godlike.description>
+  <!-- EN: Supreme god emperor (certainty above 75%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>богоподібний (впевненість вища 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: God emperor (certainty above 50%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>майже богоподібний (впевненість вища 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Dubious divinity (certainty above 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>більше ніж смертний (впевненість вища 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: False god (certainty below 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>смертний (впевненість нижча 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: best crafter -->
+  <VME_Leader_BestCrafter.label>найкращий ремісник</VME_Leader_BestCrafter.label>
+  <!-- EN: Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestCrafter.description>Наш найуміліший ремісник — наш лідер. Під його пильним поглядом і чуйними настановами, наші майстерні заспівають гімн творчості.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Періодично на роль лідера примусово висуватиметься найкращий ремісник (коли ця ідеологія є основною).</VME_Leader_BestCrafter.description>
+
+  <!-- EN: best fighter -->
+  <VME_Leader_BestFighter.label>найкращий боєць</VME_Leader_BestFighter.label>
+  <!-- EN: Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one). -->
+  <VME_Leader_BestFighter.description>Бойові навички володіння мечем або списом - прояв сили та відваги. Найталановитіший боєць і буде нашим лідером. Без сумніву.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Періодично на роль лідера примусово висуватиметься найкращий воїн (коли ця ідеологія є основною).</VME_Leader_BestFighter.description>
+
+  <!-- EN: three -->
+  <VME_Leader_Three.label>тріумвірат</VME_Leader_Three.label>
+  <!-- EN: It’s vital that we put our trust in the hands of few rather than the hand of one.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Up to three people can be designated as leader. -->
+  <VME_Leader_Three.description>Життєво важливо вручити нашу довіру до рук кількох, а не до одного.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Лідерами можуть бути призначені до трьох поселенців.</VME_Leader_Three.description>
+
+  <!-- EN: moralist -->
+  <VME_Leader_Moralist.label>мораліст</VME_Leader_Moralist.label>
+  <!-- EN: Our leader is a morale bastion, and through them and their divinity we shall flourish.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The colony's leader can use moralist abilities too. -->
+  <VME_Leader_Moralist.description>Наш лідер — оплот моралі. Завдяки його проповідям ми досягнемо процвітання.\n\n&lt;color=#E5E54C&gt;Ефекти&lt;/color&gt;\n - Лідер поселення також може застосовувати здібності провідника моралі.</VME_Leader_Moralist.description>
+</LanguageData>

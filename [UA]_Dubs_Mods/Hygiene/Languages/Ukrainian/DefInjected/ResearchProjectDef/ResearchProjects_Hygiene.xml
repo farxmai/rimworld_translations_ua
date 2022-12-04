@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SewageSludgeComposting.label>компостування</SewageSludgeComposting.label>
+  <SewageSludgeComposting.description>При належній обробці каналізаційних відходів, вони перетворюються на добрива, які незначно підвищують родючість місцевості. Корисно для суворих умов з обмеженим простором для вирощування. Біотверді речовини також значно підвищують родючість піску, що може зробити його родючим у поєднанні зі зрошенням.</SewageSludgeComposting.description>
+
+  <MultiSplitAirCon.label>роздільне кондиціювання</MultiSplitAirCon.label>
+  <MultiSplitAirCon.description>Спорудження спліт-систем кондиціювання зі зв'язаними між собою зовнішніми та внутрішніми елементами та охолоджувачами.</MultiSplitAirCon.description>
+
+  <Plumbing.label>водопровід</Plumbing.label>
+  <Plumbing.description>Використовуйте труби, сантехніку, резервуари для зберігання, вітряні насоси та інші пристрої для доставки та відведення води та каналізаційних відходів.</Plumbing.description>
+
+  <LogBoilers.label>опалення</LogBoilers.label>
+  <LogBoilers.description>Створюйте дров’яні котли, які можна використовувати для обігріву приміщень, а також розміщувати поряд з ванною для нагрівання води у ванній.</LogBoilers.description>
+
+  <CentralHeating.label>центральне опалення</CentralHeating.label>
+  <CentralHeating.description>Будуйте системи центрального опалення з радіаторами, баками для гарячої води, котлами та термостатами.</CentralHeating.description>
+
+  <GeothermalHeating.label>геотермальне опалення</GeothermalHeating.label>
+  <GeothermalHeating.description>Створіть геотермальні обігрівачі, які можна побудувати над гейзерами, щоб генерувати тепло для центрального опалення та резервуарів для гарячої води.</GeothermalHeating.description>
+
+  <Saunas.label>сауна</Saunas.label>
+  <Saunas.description>Побудуйте спеціальну кімнату з обігрівачем сауни, де колоністи зможуть розслабитися та прибрати, часте використання може зменшити ймовірність серцевих нападів.</Saunas.description>
+
+  <ModernFixtures.label>сучасна сантехніка</ModernFixtures.label>
+  <ModernFixtures.description>Створіть сантехніку в сучасному стилі, наприклад туалети та душові.</ModernFixtures.description>
+
+  <ElectricPumps.label>електричні насоси</ElectricPumps.label>
+  <ElectricPumps.description>Водяні насоси для постійного перекачування води під тиском.</ElectricPumps.description>
+
+  <AdvancedShowers.label>просунутий душ</AdvancedShowers.label>
+  <AdvancedShowers.description>Створіть душ із сильним напором води, який вдвічі скорочує час прийняття душу та підвищує комфорт.</AdvancedShowers.description>
+
+  <AdvancedToilets.label>просунутий туалет</AdvancedToilets.label>
+  <AdvancedToilets.description>Створіть зручні розумні туалети, що самоочищаються, надзвичайно ефективні.</AdvancedToilets.description>
+
+  <HotTubs.label>джакузі</HotTubs.label>
+  <HotTubs.description>Побудуйте гарячі ванни, які можна використовувати для гідротерапії, релаксації та задоволення.</HotTubs.description>
+
+  <LargeWaterPumps.label>промислове водопостачння</LargeWaterPumps.label>
+  <LargeWaterPumps.description>Створюйте промислові водяні насоси та резервуари для зберігання.</LargeWaterPumps.description>
+
+  <DeepWells.label>глибокі свердловини</DeepWells.label>
+  <DeepWells.description>Пробуріть глибші свердловини, щоб отримати доступ до значно більшої площі грунтових вод.</DeepWells.description>
+
+  <WashingMachines.label>пральні машини</WashingMachines.label>
+  <WashingMachines.description>Створюйте пральні машини, які можуть прати одяг настільки добре, що ви навіть не зможете сказати, що хтось помер у них!</WashingMachines.description>
+
+  <WaterFiltration.label>фільтрація води</WaterFiltration.label>
+  <WaterFiltration.description>Створюйте системи фільтрації води, які очищають воду, усуваючи ризик захворювання.</WaterFiltration.description>
+
+  <HygieneBionics.label>біонічна гігієна</HygieneBionics.label>
+  <HygieneBionics.description>Створюйте біоніку, яка допомагає переробляти тілесні відходи та контролювати особисту гігієну.</HygieneBionics.description>
+
+  <SepticTanks.label>септик</SepticTanks.label>
+  <SepticTanks.description>Будуйте септики, які накопичують стічні води і забезпечують помірну очистку каналізаційних відходів.</SepticTanks.description>
+
+  <SewageTreatment.label>очищення каналізаційних відходів</SewageTreatment.label>
+  <SewageTreatment.description>Будуйте великі системи очищення, які накопичують велику кількість каналізаційних відходів і забезпечують їх швидке очищення.</SewageTreatment.description>
+
+  <SwimmingPools.label>басейн</SwimmingPools.label>
+  <SwimmingPools.description>Побудуйте басейн.</SwimmingPools.description>
+
+  <Irrigation.label>зрошення</Irrigation.label>
+  <Irrigation.description>Створюйте спринклери, які можуть зрошувати ґрунт для підвищення родючості.</Irrigation.description>
+
+  <FireSuppression.label>пожежогасіння</FireSuppression.label>
+  <FireSuppression.description>Створюйте спринклери, які гасять пожежі за допомогою розпилення води.</FireSuppression.description>
+
+
+</LanguageData>

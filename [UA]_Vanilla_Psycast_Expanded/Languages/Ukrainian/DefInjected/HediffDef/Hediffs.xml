@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: recharge -->
+  <VPE_Recharge.label>підживлення</VPE_Recharge.label>
+  <!-- EN: Electricity is being channeled to a nearby battery. -->
+  <VPE_Recharge.description>Заряджає найближчу батарею.</VPE_Recharge.description>
+
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>вихор</VPE_Vortex.label>
+  <!-- EN: An electirical vortex is causing difficulty moving. -->
+  <VPE_Vortex.description>Електричний вихор ускладнює пересування.</VPE_Vortex.description>
+
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.label>ураган</VPE_Hurricane.label>
+  <!-- EN: A hurricane is causing difficulty moving and seeing. -->
+  <VPE_Hurricane.description>Ураган ускладнює пересування та огляд.</VPE_Hurricane.description>
+
+  <!-- EN: bliss -->
+  <VPE_Bliss.label>блаженство</VPE_Bliss.label>
+  <!-- EN: Waves of serenity emanate deep from within, bringing peace of mind and lowering consciousness. -->
+  <VPE_Bliss.description>Хвилі безтурботності виходять глибоко зсередини, приносячи душевний спокій і знижуючи свідомість.</VPE_Bliss.description>
+
+  <!-- EN: age sickness -->
+  <VPE_AgeSickness.label>старість</VPE_AgeSickness.label>
+  <!-- EN: Age-related psychic sickness greatly reducing manipulation and consciousness. -->
+  <VPE_AgeSickness.description>Вікове псі-захворювання, що значно знижує роботу та свідомість.</VPE_AgeSickness.description>
+
+  <!-- EN: psychic drone -->
+  <VPE_PsychicDrone.label>псі-зонд</VPE_PsychicDrone.label>
+  <!-- EN: A strong psychic force affecting every enemy humanlike in the area, making them feel more disturbed, terrified, and paranoid. -->
+  <VPE_PsychicDrone.description>Сильний псі-вплив, що впливає на кожного ворога-гуманоїда у цьому районі і змушує їх почувати себе більш стривоженими, наляканими і параноїдальними.</VPE_PsychicDrone.description>
+
+  <!-- EN: ice shield -->
+  <VPE_IceShield.label>крижаний щит</VPE_IceShield.label>
+  <!-- EN: A psychic shield that protects from hypothermia and freezer enemies that interact with it. -->
+  <VPE_IceShield.description>Псі-щит, що захищає від гіпотермії і морозить ворогів у ближньому бою.</VPE_IceShield.description>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>крижаний промінь</VPE_FrostRay.label>
+  <!-- EN: A heavily damaging and freezing ray of frost. -->
+  <VPE_FrostRay.description>Потужний промінь, що заморожує.</VPE_FrostRay.description>
+
+  <!-- EN: frozen solid -->
+  <VPE_IceBlock.label>заморозка</VPE_IceBlock.label>
+  <!-- EN: This entity is completely frozen in a block of ice, and will not be able to move until it melts. -->
+  <VPE_IceBlock.description>Цільова істота повністю заморожена в крижаній брилі і не зможе рухатися, поки та не розтане.</VPE_IceBlock.description>
+
+  <!-- EN: casting blizzard -->
+  <VPE_BlizzardSource.label>виклик хуртовини</VPE_BlizzardSource.label>
+  <!-- EN: This entity is casting blizzard. -->
+  <VPE_BlizzardSource.description>Створює хуртовину.</VPE_BlizzardSource.description>
+
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.label>хуртовина</VPE_Blizzard.label>
+  <!-- EN: A huge wind with extreme snow that lowers sight, manipulation and movement speed. -->
+  <VPE_Blizzard.description>Потужний вітер і сильний снігопад заважають огляду, роботі та пересуванню.</VPE_Blizzard.description>
+
+  <!-- EN: haywire -->
+  <VPE_Haywire.label>збій програми</VPE_Haywire.label>
+  <!-- EN: Psychically hacked programming that disrupts the IFF operations. -->
+  <VPE_Haywire.description>Психологічний злам програмного забезпечення, який порушує роботу системи розпізнавання «свій-чужий»</VPE_Haywire.description>
+
+  <!-- EN: powering -->
+  <VPE_InfinitePower.label>живлення</VPE_InfinitePower.label>
+  <!-- EN: Generating infinite electricity supply to a given structure. -->
+  <VPE_InfinitePower.description>Генерація нескінченного електропостачання для заданої споруди.</VPE_InfinitePower.description>
+
+  <!-- EN: animal shield -->
+  <VPE_AnimalOvershield.label>тваринний щит</VPE_AnimalOvershield.label>
+  <!-- EN: An overshield that protects the animal from any ranged attacks. -->
+  <VPE_AnimalOvershield.description>Щит, що захищає тварину від будь-яких далекобійних атак.</VPE_AnimalOvershield.description>
+
+  <!-- EN: smartbuzz -->
+  <VPE_Smartbuzz.label>розумовий імпульс</VPE_Smartbuzz.label>
+  <!-- EN: Psychically-induced feelings of clarity and curiosity. This improves research speed as well as skill gain speed. -->
+  <VPE_Smartbuzz.description>Психічно викликані допитливість та цікавість. Прискорюють дослідження та швидкість розвитку навичок.</VPE_Smartbuzz.description>
+
+  <!-- EN: Essence of -->
+  <VPE_Essence.label>Есенція</VPE_Essence.label>
+  <!-- EN: Psychically-split fragment of someone's personality imbued in this very being. -->
+  <VPE_Essence.description>Психічно-розщеплений фрагмент чиєїсь особистості, що пронизує цю саму істоту.</VPE_Essence.description>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.label>темнобачення</VPE_Darkvision.label>
+  <!-- EN: Psychically-induced ability to see through the darkness and shadows. -->
+  <VPE_Darkvision.description>Психічно викликана здатність бачити крізь темряву та тіні.</VPE_Darkvision.description>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision_Display.label>темнобачення</VPE_Darkvision_Display.label>
+  <!-- EN: Psychically-induced night vision. -->
+  <VPE_Darkvision_Display.description>Психічно викликана здатність бачити вночі.</VPE_Darkvision_Display.description>
+
+  <!-- EN: psychic productivity -->
+  <VPE_Productivity.label>псі-продуктивність</VPE_Productivity.label>
+  <!-- EN: Psychically-induced improvement to work speed. -->
+  <VPE_Productivity.description>Психічно викликане поліпшення швидкості роботи.</VPE_Productivity.description>
+
+  <!-- EN: psychic soothe -->
+  <VPE_PsychicSoothe.label>псі-заспокоєння</VPE_PsychicSoothe.label>
+  <!-- EN: Psychically-induced, self-satisfying perceptual distortions, giving a temporary mood boost. -->
+  <VPE_PsychicSoothe.description>Психічно викликане спотворення сприйняття, що дає тимчасове підвищення настрою.</VPE_PsychicSoothe.description>
+
+  <!-- EN: group link -->
+  <VPE_GroupLink.label>груповий зв'язок</VPE_GroupLink.label>
+  <!-- EN: Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals. -->
+  <VPE_GroupLink.description>Психічно викликаний зв'язок між декількома сутностями. Здібності типу «Слово ...» діятимуть відразу на всіх.</VPE_GroupLink.description>
+
+  <!-- EN: psychic pain -->
+  <VPE_PsychicPain.label>псі-біль</VPE_PsychicPain.label>
+  <!-- EN: Psychically-induced extreme physical pain. -->
+  <VPE_PsychicPain.description>Психічно викликаний сильний фізичний біль.</VPE_PsychicPain.description>
+
+  <!-- EN: psychic protection -->
+  <VPE_Protection.label>псі-захист</VPE_Protection.label>
+  <!-- EN: Psychically-induced physical protection from incoming damage. -->
+  <VPE_Protection.description>Психічно викликаний фізичний захист від вхідної шкоди.</VPE_Protection.description>
+
+  <!-- EN: hallucination -->
+  <VPE_Hallucination.label>галюцинація</VPE_Hallucination.label>
+  <!-- EN: Strong psychic suggestion that reshapes reality in the eyes of the affected individuals, making them perceive their every day life as that of a luxury. -->
+  <VPE_Hallucination.description>Сильне псіонічне навіювання, яке змінює реальність в очах уражених істот, змушуючи їх сприймати своє повсякденне життя як розкіш.</VPE_Hallucination.description>
+
+  <!-- EN: liferot -->
+  <VPE_Liferot.label>гниття живцем</VPE_Liferot.label>
+  <!-- EN: Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim.< -->
+  <VPE_Liferot.description>Психічно викликаний масовий некроз, що викликає гниття живих і здорових кінцівок та органів жертви.</VPE_Liferot.description>
+
+  <!-- EN: rot -->
+  <VPE_Rot.label>гниття</VPE_Rot.label>
+  <!-- EN: A rot. -->
+  <VPE_Rot.description>Гниття.</VPE_Rot.description>
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedLabel>згнило</VPE_Rot.injuryProps.destroyedLabel>
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedOutLabel>згнило</VPE_Rot.injuryProps.destroyedOutLabel>
+  <!-- EN: a rot -->
+  <VPE_Rot.labelNoun>гниття</VPE_Rot.labelNoun>
+  <VPE_Rot.labelNounPretty>{0} {1}</VPE_Rot.labelNounPretty >
+
+  <!-- EN: psychic vitality -->
+  <VPE_GainedVitality.label>псі-живучість</VPE_GainedVitality.label>
+  <!-- EN: Psychically-induced vitality stolen from another person. -->
+  <VPE_GainedVitality.description>Психічно викликана життєва сила, вкрадена в іншої людини.</VPE_GainedVitality.description>
+
+  <!-- EN: psychic weakness -->
+  <VPE_LostVitality.label>псі-слабкість</VPE_LostVitality.label>
+  <!-- EN: Psychically-induced weakness caused by vitality being stolen by another person. -->
+  <VPE_LostVitality.description>Психічно покликана слабкість через те, що життєва сила була вкрадена кимось іншим.</VPE_LostVitality.description>
+
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.label>фазовий стрибок</VPE_Ghostwalk.label>
+  <!-- EN: Psychically-induced matter phasing. -->
+  <VPE_Ghostwalk.description>Психічний фазовий стрибок.</VPE_Ghostwalk.description>
+
+  <!-- EN: corpse talk -->
+  <VPE_CorpseTalk.label>спіритичний сеанс</VPE_CorpseTalk.label>
+  <!-- EN: Psychically-induced link with a spirit of a deceased individual. -->
+  <VPE_CorpseTalk.description>Психічно викликаний зв'язок із духом померлої особистості.</VPE_CorpseTalk.description>
+
+  <!-- EN: bodies consumed -->
+  <VPE_BodiesConsumed.label>поглинання плоті</VPE_BodiesConsumed.label>
+  <!-- EN: The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1. -->
+  <VPE_BodiesConsumed.description>Кількість тіл, які були поглинуті за допомогою псі-здібності Поглинання плоті. Кожне поглинуте тіло збільшує максимальну псі-напругу на 1.</VPE_BodiesConsumed.description>
+
+  <!-- EN: death shield -->
+  <VPE_DeathShield.label>псі-безсмертя</VPE_DeathShield.label>
+  <!-- EN: Psychically-induced immortality that lasts for one day. -->
+  <VPE_DeathShield.description>Психічно викликане безсмертя, яке триває один день.</VPE_DeathShield.description>
+
+  <!-- EN: obscured -->
+  <VPE_Obscured.label>псі-невидимість</VPE_Obscured.label>
+  <!-- EN: Psychically-induced invisibility. -->
+  <VPE_Obscured.description>Психічно викликане невидимість.</VPE_Obscured.description>
+
+  <!-- EN: shadowfocus -->
+  <VPE_Shadowfocus.label>тіньове фокусування</VPE_Shadowfocus.label>
+  <!-- EN: Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster. -->
+  <VPE_Shadowfocus.description>Психічно викликане збільшення психічної чутливості, що залежить від нестачі освітленості навколо псіоніка.</VPE_Shadowfocus.description>
+</LanguageData>

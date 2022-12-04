@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Writing -->
+  <VBE_Writing.label>Письмо</VBE_Writing.label>
+  <!-- EN: Perform writing work. -->
+  <VBE_Writing.description>Письменники створюють книжки та друкують газети.</VBE_Writing.description>
+  <!-- EN: writing -->
+  <VBE_Writing.gerundLabel>писати</VBE_Writing.gerundLabel>
+  <!-- EN: Writing -->
+  <VBE_Writing.labelShort>Письменник</VBE_Writing.labelShort>
+  <!-- EN: Writer -->
+  <VBE_Writing.pawnLabel>Письменник</VBE_Writing.pawnLabel>
+  <!-- EN: Write at -->
+  <VBE_Writing.verb>Писати</VBE_Writing.verb>
+</LanguageData>

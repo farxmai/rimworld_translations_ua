@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: plate boots -->
+  <VAE_Footwear_PlateBoots.label>пластинчасті чоботи</VAE_Footwear_PlateBoots.label>
+  <!-- EN: A pair of simple plate boots. Due to their weight, they slow down the wearer. -->
+  <VAE_Footwear_PlateBoots.description>Пара простих пластинчастb[] чоботів. Через свою вагу уповільнюють того, хто носить.</VAE_Footwear_PlateBoots.description>
+
+  <!-- EN: marine boots -->
+  <VAE_Footwear_MarineBoots.label>силові чоботи</VAE_Footwear_MarineBoots.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. -->
+  <VAE_Footwear_MarineBoots.description>Пара чобіт космодесанту з багатошаровими пласталевими пластинами та просунутими сервомоторами.</VAE_Footwear_MarineBoots.description>
+</LanguageData>

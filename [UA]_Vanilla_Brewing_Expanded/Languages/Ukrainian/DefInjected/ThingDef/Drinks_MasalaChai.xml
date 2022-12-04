@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VBE_MasalaChai.label>масала-чай</VBE_MasalaChai.label>
+	<VBE_MasalaChai.description>Гірчичний, теплий, майже деревний чай, створений із простих листків та складних спецій. Стверджується, що він корисний за підвищеного холестерину.</VBE_MasalaChai.description>
+	<VBE_MasalaChai.ingestible.ingestCommandString>Випити {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+	<VBE_MasalaChai.ingestible.ingestReportString>п'є {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+
+</LanguageData>

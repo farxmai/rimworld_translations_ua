@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TD.SettingDeliverAny>Доставляйте ресурси, навіть якщо їх недостатньо для завершення будівництва</TD.SettingDeliverAny>
+	<TD.SettingBlockingJobs>Зробіть інші завдання чіткими для креслень</TD.SettingBlockingJobs>
+	<TD.SettingBlockingJobsDesc>Садівники та шахтарі розчистять місцевість для будівництва.\n\n(Є повідомлення, що це сповільнює клацання правою кнопкою миші, тому вимкніть це, щоб, можливо, виправити це.)</TD.SettingBlockingJobsDesc>
+	<TD.ShareTheLoad>Share The Load</TD.ShareTheLoad>
+
+</LanguageData>

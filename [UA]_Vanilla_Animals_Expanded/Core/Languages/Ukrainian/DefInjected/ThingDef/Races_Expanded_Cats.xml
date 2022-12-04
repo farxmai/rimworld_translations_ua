@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CatAbyssinian -->
+
+  <AEXP_CatAbyssinian.label>абісинська кішка</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.description>струнка, чагарникова кішка середнього розміру з невеликими кістками.</AEXP_CatAbyssinian.description>
+  <AEXP_CatAbyssinian.tools.0.label>ліва лапа</AEXP_CatAbyssinian.tools.0.label>
+  <AEXP_CatAbyssinian.tools.1.label>права лапа</AEXP_CatAbyssinian.tools.1.label>
+  <AEXP_CatAbyssinian.tools.2.label>зуби</AEXP_CatAbyssinian.tools.2.label>
+  <AEXP_CatAbyssinian.tools.3.label>голова</AEXP_CatAbyssinian.tools.3.label>
+
+
+  <!-- CatBengal -->
+
+  <AEXP_CatBengal.label>бенгальська кішка</AEXP_CatBengal.label>
+  <AEXP_CatBengal.description>Ручний гібрид домашньої кішки та дикої тропічної бенгальської кішки</AEXP_CatBengal.description>
+  <AEXP_CatBengal.tools.0.label>ліва лапа</AEXP_CatBengal.tools.0.label>
+  <AEXP_CatBengal.tools.1.label>права лапа</AEXP_CatBengal.tools.1.label>
+  <AEXP_CatBengal.tools.2.label>зуби</AEXP_CatBengal.tools.2.label>
+  <AEXP_CatBengal.tools.3.label>голова</AEXP_CatBengal.tools.3.label>
+
+  <!-- CatBritishShorthair -->
+
+  <AEXP_CatBritishShorthair.label>британська короткошерста кішка</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.description>Короткошерстна версія звичайної британської кішки з характерним кремезним тілом, густою вовною і дуже широкою мордою. Незважаючи на те, що ці кішки досить потужні завдяки великим грудям та масивним лапам, вони абсолютно ручні.</AEXP_CatBritishShorthair.description>
+  <AEXP_CatBritishShorthair.tools.0.label>ліва лапа</AEXP_CatBritishShorthair.tools.0.label>
+  <AEXP_CatBritishShorthair.tools.1.label>права лапа</AEXP_CatBritishShorthair.tools.1.label>
+  <AEXP_CatBritishShorthair.tools.2.label>зуби</AEXP_CatBritishShorthair.tools.2.label>
+  <AEXP_CatBritishShorthair.tools.3.label>голова</AEXP_CatBritishShorthair.tools.3.label>
+
+
+  <!-- CatMaineCoon -->
+
+  <AEXP_CatMaineCoon.label>мейн-кун</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.description>Це найбільша з домашніх кішок, має відмінну зовнішність і цінні мисливські навички. Це великий і товариський вихованець, тому він отримав прізвисько "ніжній велетень".</AEXP_CatMaineCoon.description>
+  <AEXP_CatMaineCoon.tools.0.label>ліва лапа</AEXP_CatMaineCoon.tools.0.label>
+  <AEXP_CatMaineCoon.tools.1.label>права лапа</AEXP_CatMaineCoon.tools.1.label>
+  <AEXP_CatMaineCoon.tools.2.label>зуби</AEXP_CatMaineCoon.tools.2.label>
+  <AEXP_CatMaineCoon.tools.3.label>голова</AEXP_CatMaineCoon.tools.3.label>
+
+
+  <!-- CatMunchkin -->
+
+  <AEXP_CatMunchkin.label>манчкін</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.description>Це нова порода кішок, також відома як такса кішка, відрізняється дуже короткими ногами. Не дивлячись на те що вони мило виглядаюсь, вони щось накшталт інвалідів котячого світу.</AEXP_CatMunchkin.description>
+  <AEXP_CatMunchkin.tools.0.label>ліва лапа</AEXP_CatMunchkin.tools.0.label>
+  <AEXP_CatMunchkin.tools.1.label>права лапа</AEXP_CatMunchkin.tools.1.label>
+  <AEXP_CatMunchkin.tools.2.label>зуби</AEXP_CatMunchkin.tools.2.label>
+  <AEXP_CatMunchkin.tools.3.label>голова</AEXP_CatMunchkin.tools.3.label>
+
+
+
+  <!-- NorwegianForestCat -->
+
+  <AEXP_CatNorwegianForest.label>норвезька лісова кішка</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.description>Кішка, яка пристосувалася до дуже холодного клімату через верхній шар блискучої, пухнастої шубки.</AEXP_CatNorwegianForest.description>
+  <AEXP_CatNorwegianForest.tools.0.label>ліва лапа</AEXP_CatNorwegianForest.tools.0.label>
+  <AEXP_CatNorwegianForest.tools.1.label>права лапа</AEXP_CatNorwegianForest.tools.1.label>
+  <AEXP_CatNorwegianForest.tools.2.label>зуби</AEXP_CatNorwegianForest.tools.2.label>
+  <AEXP_CatNorwegianForest.tools.3.label>голова</AEXP_CatNorwegianForest.tools.3.label>
+
+
+  <!-- CatPersian -->
+
+  <AEXP_CatPersian.label>перська кішка</AEXP_CatPersian.label>
+  <AEXP_CatPersian.description>Перські кішки - мають довгу шерсть та походять від диких пустельних котів. Вони величні, розумні та рухливі, що робить їх чудовими мисливцями на дрібних гризунів та птахів.</AEXP_CatPersian.description>
+  <AEXP_CatPersian.tools.0.label>ліва лапа</AEXP_CatPersian.tools.0.label>
+  <AEXP_CatPersian.tools.1.label>права лапа</AEXP_CatPersian.tools.1.label>
+  <AEXP_CatPersian.tools.2.label>зуби</AEXP_CatPersian.tools.2.label>
+  <AEXP_CatPersian.tools.3.label>голова</AEXP_CatPersian.tools.3.label>
+
+
+  <!-- CatSiamese -->
+
+  <AEXP_CatSiamese.label>сіамська кішка</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.description>Кішка з характерною трикутною головою, блакитними очима та довгим мускулистим тілом, відома своїм товариським характеромю</AEXP_CatSiamese.description>
+  <AEXP_CatSiamese.tools.0.label>ліва лапа</AEXP_CatSiamese.tools.0.label>
+  <AEXP_CatSiamese.tools.1.label>права лапа</AEXP_CatSiamese.tools.1.label>
+  <AEXP_CatSiamese.tools.2.label>зуби</AEXP_CatSiamese.tools.2.label>
+  <AEXP_CatSiamese.tools.3.label>голова</AEXP_CatSiamese.tools.3.label>
+
+
+  <!-- CatSomali -->
+
+  <AEXP_CatSomali.label>сомалійська кішка</AEXP_CatSomali.label>
+  <AEXP_CatSomali.description>Чагарникова кішка з тієї ж родини, що й абісинська кишка. У неї пухнастий хвіст та мигдалеподібні очі.</AEXP_CatSomali.description>
+  <AEXP_CatSomali.tools.0.label>ліва лапа</AEXP_CatSomali.tools.0.label>
+  <AEXP_CatSomali.tools.1.label>права лапа</AEXP_CatSomali.tools.1.label>
+  <AEXP_CatSomali.tools.2.label>зуби</AEXP_CatSomali.tools.2.label>
+  <AEXP_CatSomali.tools.3.label>голова</AEXP_CatSomali.tools.3.label>
+
+
+  <!-- CatSphynx -->
+
+  <AEXP_CatSphynx.label>сфінкс</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.description>Кішка, яка стала лисою в результаті селекційного розведення. Теплі на дотик, легко втрачають температуру тіла, що змушує їх шукати джерела тепла.</AEXP_CatSphynx.description>
+  <AEXP_CatSphynx.tools.0.label>ліва лапа</AEXP_CatSphynx.tools.0.label>
+  <AEXP_CatSphynx.tools.1.label>права лапа</AEXP_CatSphynx.tools.1.label>
+  <AEXP_CatSphynx.tools.2.label>зуби</AEXP_CatSphynx.tools.2.label>
+  <AEXP_CatSphynx.tools.3.label>голова</AEXP_CatSphynx.tools.3.label>
+
+
+</LanguageData>

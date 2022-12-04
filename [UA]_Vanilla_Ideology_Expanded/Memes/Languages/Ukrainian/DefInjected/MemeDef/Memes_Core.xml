@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: guilty -->
+  <Guilty.label>розкайність</Guilty.label>
+  <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
+  <Guilty.description>Наш народ несе провину з минулих століть. Інші гідніші.</Guilty.description>
+
+  <!-- EN: loyalist -->
+  <Loyalist.label>вірність</Loyalist.label>
+  <!-- EN: We stand for our own before others. -->
+  <Loyalist.description>Ми відстоюємо своє перед чужим.</Loyalist.description>
+
+  <!-- EN: supremacist -->
+  <Supremacist.label>домінування</Supremacist.label>
+  <!-- EN: Our people should dominate all others. -->
+  <Supremacist.description>Наш народ має домінувати над усіма іншими.</Supremacist.description>
+
+  <!-- EN: female supremacy -->
+  <FemaleSupremacy.label>матріархат</FemaleSupremacy.label>
+  <!-- EN: Women are the superior gender and should rule. -->
+  <FemaleSupremacy.description>Жіноча стать краща, вона повинна домінувати.</FemaleSupremacy.description>
+
+  <!-- EN: male supremacy -->
+  <MaleSupremacy.label>патріархат</MaleSupremacy.label>
+  <!-- EN: Men are the superior gender and should rule. -->
+  <MaleSupremacy.description>Чоловіки є вищою статтю і повинні керувати.</MaleSupremacy.description>
+
+  <!-- EN: collectivist -->
+  <Collectivist.label>колективізм</Collectivist.label>
+  <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
+  <Collectivist.description>Кожна людина є частиною великого цілого. Вона має грати свою роль у житті спільноти та приносити користь.</Collectivist.description>
+
+  <!-- EN: individualist -->
+  <Individualist.label>індивідуалізм</Individualist.label>
+  <!-- EN: Each person is a free individual with the right to their own ideas and decisions. Nobody should be made to conform. -->
+  <Individualist.description>Кожна людина є вільною особистістю з правом на власні ідеї та рішення. Нікого не можна змушувати підлаштовуватися.</Individualist.description>
+
+  <!-- EN: animal personhood -->
+  <AnimalPersonhood.label>зв'язок з тваринами</AnimalPersonhood.label>
+  <!-- EN: Animals have rights as humans do. -->
+  <AnimalPersonhood.description>Тварини мають так ж права, як і люди.</AnimalPersonhood.description>
+
+  <!-- EN: tree connection -->
+  <TreeConnection.label>зв'язок з деревами</TreeConnection.label>
+  <!-- EN: Trees are the essence of life, and we must be near them. -->
+  <TreeConnection.description>Дерева - це суть життя, і ми повинні бути поруч з ними.</TreeConnection.description>
+
+  <!-- EN: darkness -->
+  <Darkness.label>культ темряви</Darkness.label>
+  <!-- EN: Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness. -->
+  <Darkness.description>Яскраве світло палить і нищить! Темрява живить і творить. Люди повинні жити в темряві.</Darkness.description>
+
+  <!-- EN: blindsight -->
+  <Blindsight.label>культ сліпоти</Blindsight.label>
+  <!-- EN: Only those who are blind can perceive the true reality. -->
+  <Blindsight.description>Тільки сліпі можуть сприйняти справжню реальність.</Blindsight.description>
+
+  <!-- EN: cannibal -->
+  <Cannibal.label>канібалізм</Cannibal.label>
+  <!-- EN: We must consume human flesh. -->
+  <Cannibal.description>Нам потрібно їсти людську плоть.</Cannibal.description>
+
+  <!-- EN: transhumanist -->
+  <Transhumanist.label>трансгуманізм</Transhumanist.label>
+  <!-- EN: Human progress means merging with technology. -->
+  <Transhumanist.description>Людський прогрес означає злиття з технологіями.</Transhumanist.description>
+
+  <!-- EN: flesh purity -->
+  <FleshPurity.label>біоконсерватизм</FleshPurity.label>
+  <!-- EN: The human body should not be debased. -->
+  <FleshPurity.description>Людське тіло не повинно бути спаплюжене.</FleshPurity.description>
+
+  <!-- EN: high life -->
+  <HighLife.label>громада курців</HighLife.label>
+  <!-- EN: Exotic states of mind are central to a good life. -->
+  <HighLife.description>Особливі стани свідомості — ключ до щасливого життя.</HighLife.description>
+
+  <!-- EN: nudism -->
+  <Nudism.label>нудизм</Nudism.label>
+  <!-- EN: Clothing binds, controls, and suffocates us. We should all hang free. -->
+  <Nudism.description>Одяг сковує, контролює і пригнічує нас. Ми всі повинні бути вільними.</Nudism.description>
+
+  <!-- EN: pain is virtue -->
+  <PainIsVirtue.label>мазохізм</PainIsVirtue.label>
+  <!-- EN: Virtue is shown through suffering of self and others. -->
+  <PainIsVirtue.description>Чеснота виявляється через катування себе та іншїх.</PainIsVirtue.description>
+
+  <!-- EN: proselytizer -->
+  <Proselytizer.label>нав'язливе звернення</Proselytizer.label>
+  <!-- EN: It is our duty to spread our beliefs. -->
+  <Proselytizer.description>Наш обов’язок – поширювати наші переконання.</Proselytizer.description>
+
+  <!-- EN: raider -->
+  <Raider.label>рейдерство</Raider.label>
+  <!-- EN: The strong should take from the weak. -->
+  <Raider.description>Сильні мають право відбирати все що їм потрібно у слабких.</Raider.description>
+
+  <!-- EN: rancher -->
+  <Rancher.label>скотарство</Rancher.label>
+  <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
+  <Rancher.description>Вирощування тварин - правильний шлях; рослин - ні.</Rancher.description>
+
+  <!-- EN: tunneler -->
+  <Tunneler.label>печерництво</Tunneler.label>
+  <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
+  <Tunneler.description>Люди повинні жити під землею і насолоджуватися соковитими плодами глибин.</Tunneler.description>
+
+  <!-- EN: human primacy -->
+  <HumanPrimacy.label>панування людини</HumanPrimacy.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <HumanPrimacy.description>Люди є моральним центром Всесвіту.</HumanPrimacy.description>
+
+  <!-- EN: nature primacy -->
+  <NaturePrimacy.label>панування природи</NaturePrimacy.label>
+  <!-- EN: Man is a stain on nature's perfection. -->
+  <NaturePrimacy.description>Людина — це пляма на досконалості природи.</NaturePrimacy.description>
+
+  <!-- EN: ideological -->
+  <Structure_Ideological.label>ідеологізм</Structure_Ideological.label>
+  <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
+  <Structure_Ideological.description>Богів не існує. Моральний світоустрій ґрунтується на нашому розумінні соціальних процесів та сил.</Structure_Ideological.description>
+
+  <!-- EN: animist -->
+  <Structure_Animist.label>анімізм</Structure_Animist.label>
+  <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
+  <Structure_Animist.description>Духи живуть у всьому, що нас оточує. У рослинах і тваринах, річках і деревах, небі і зірках. Моральна структура всесвіту виникає з необхідності поважати їх.</Structure_Animist.description>
+
+  <!-- EN: archist -->
+  <Structure_Archist.label>архізм</Structure_Archist.label>
+  <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
+  <Structure_Archist.description>Архотехи — справжні боги. Вони знають моральну структуру всесвіту, і служіння їм — це те, як ми з ним з’єднуємося.</Structure_Archist.description>
+
+  <!-- EN: embodied theist -->
+  <Structure_TheistEmbodied.label>втілений теїзм</Structure_TheistEmbodied.label>
+  <!-- EN: The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe. -->
+  <Structure_TheistEmbodied.description>Бог(и) ходять планетами, як і люди. Але на відміну від людей, вони могутні та безсмертні. Саме вони визначають моральний устрій Всесвіту.</Structure_TheistEmbodied.description>
+
+  <!-- EN: Buddhist origin -->
+  <Structure_OriginBuddhist.label>буддизм</Structure_OriginBuddhist.label>
+  <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginBuddhist.description>Ця ідеолігія походить від буддизму, стародавньої релігійної течії. У її центрі можуть бути зовсім інші принципи, аніж тисячі років тому, проте символіка залишилася схожою.</Structure_OriginBuddhist.description>
+
+  <!-- EN: Hindu origin -->
+  <Structure_OriginHindu.label>індуїзм</Structure_OriginHindu.label>
+  <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginHindu.description>Ця ідеолігія — різновид іманентного теїзму, що походить від індуїзму, стародавньої релігійної течії. У її центрі можуть бути зовсім інші принципи, аніж тисячі років тому, проте символіка залишилася схожою.</Structure_OriginHindu.description>
+
+  <!-- EN: Christian origin -->
+  <Structure_OriginChristian.label>християнство</Structure_OriginChristian.label>
+  <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginChristian.description>Ця ідеолігія — різновид абстрактного теїзму, що походить від християнства, давньої релігійної течії. У її центрі можуть бути зовсім інші принципи, аніж тисячі років тому, проте символіка залишилася схожою.</Structure_OriginChristian.description>
+
+  <!-- EN: Islamic origin -->
+  <Structure_OriginIslamic.label>іслам</Structure_OriginIslamic.label>
+  <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginIslamic.description>Ця ідеолігія — різновид абстрактного теїзму, що походить від ісламу, стародавньої релігійної течії. У її центрі можуть бути зовсім інші принципи, аніж тисячі років тому, проте символіка залишилася схожою.</Structure_OriginIslamic.description>
+
+</LanguageData>

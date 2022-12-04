@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: commissar -->
+  <VME_IdeoRole_Commissar.label>комісар</VME_IdeoRole_Commissar.label>
+  <!-- EN: A brave and ruthless military tactician who specializes in leading by means of fear and threats. Capable of executing insubordinate pawns in order to motivate the rest. -->
+  <VME_IdeoRole_Commissar.description>Відважний і безжальний офіцер, який спеціалізується на управлінні бійцями, залякуваннях та погрозах. Може страчувати колоніста, що забув про субординацію, і підняти таким чином бойовий дух решти.</VME_IdeoRole_Commissar.description>
+</LanguageData>

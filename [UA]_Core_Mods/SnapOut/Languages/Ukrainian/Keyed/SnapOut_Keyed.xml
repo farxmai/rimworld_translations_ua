@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FailCalm>{0} не вдалося заспокоїти {1}.</FailCalm>
+  <SuccessCalm>{1} було заспокоєно завдяки {0}.</SuccessCalm>
+  <AggroFailCalm>{0} було атаковано після невдалої спроби заспокоїти {1}</AggroFailCalm>
+  <SettingsCategoryLabel>Snap Out!</SettingsCategoryLabel>
+  <MessagesEnabledLabel>Увімкнути повідомлення персонажів</MessagesEnabledLabel>
+  <AggroCalmEnabledLabel>Увімкнути заспокоєння агресивних колоністів</AggroCalmEnabledLabel>
+  <OpinionOnlyEnabledLabel>Тільки погляди впливають</OpinionOnlyEnabledLabel>
+  <NonFactionEnabledLabel>Увімкнути заспокоєння в'язнів</NonFactionEnabledLabel>
+  <TraderCalmEnabledLabel>Увімкнути заспокоєння торговців</TraderCalmEnabledLabel>
+  <AdvancedMenu>Розширені налаштування</AdvancedMenu>
+  <SMultLabel>Множник дипломатії</SMultLabel>
+  <OMultLabel>Множник поглядів</OMultLabel>
+  <OOMultLabel>Множник власних поглядів</OOMultLabel>
+  <StunWeight>Шанс приголомшити агресивного колоніста</StunWeight>
+  <CalmDuration>Тривалість спокою</CalmDuration>
+  <DebugChanceSetting>Виведення налагоджувальних та випадкових повідомлень у консолі</DebugChanceSetting>
+  <NoCathEnabledLabel>Вимкнути катарсис</NoCathEnabledLabel>
+  <Cooldown>Перезаряджання при невдалій спробі</Cooldown>
+
+  <CM1>Все буде добре.</CM1>
+  <CM2>Не хвилюйся, я тобі допоможу.</CM2>
+  <CM3>Просто тримайся за мене, я буду з тобою до кінця.</CM3>
+  <CM4>Це лише маленька проблема, ми будемо в порядку.</CM4>
+  <CM5>Ми будемо з тобою.</CM5>
+  <CM6>Я тут заради тебе, розкажи мені, що тебе турбує – я вислухаю.</CM6>
+  <CM7>Ми можемо вирішити це разом.</CM7>
+  <CM8>Зроби глибокий подих, ти зможеш це зробити. Розслабся.</CM8>
+  <CM9>Я знаю, що ти переживаєш, я дуже хотів би допомогти.</CM9>
+  <CM10>Що тебе турбує?</CM10>
+  <CM11>Тільки не знову, припини.</CM11>
+  <CM12>Поділись зі мною своїми турботами.</CM12>
+  <CM13>Це мине.</CM13>
+  <CM14>Це як шторм, це все тимчасово.</CM14>
+  <CM15>Давай вирішимо це разом.</CM15>
+  <CM16>Ти в безпеці, я з тобою.</CM16>
+  <CM17>Мені шкода, що ти переживаєш це.</CM17>
+  <CM18>Ти тут не один, ми тобі допоможемо.</CM18>
+  <CM19>Це не твоя провина.</CM19>
+  <CM20>Ви можете випустити мене, я слухатиму.</CM20>
+  <CM21>У нас чудова кімната для відпочинку, як щодо того, щоб пограти у шахи разом?</CM21>
+
+</LanguageData>

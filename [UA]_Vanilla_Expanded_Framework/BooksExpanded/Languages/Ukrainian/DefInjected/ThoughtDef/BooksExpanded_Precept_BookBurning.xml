@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VanillaBooksExpandedExpanded_BookBurned_Desired_Self.stages.0.label>Спалено книгу</VanillaBooksExpandedExpanded_BookBurned_Desired_Self.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookBurned_Desired_Self.stages.0.description>Нарешті ми позбулися цього марного пережитку.</VanillaBooksExpandedExpanded_BookBurned_Desired_Self.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookKilled_Desired_Self.stages.0.label>Знищено книгу</VanillaBooksExpandedExpanded_BookKilled_Desired_Self.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookKilled_Desired_Self.stages.0.description>Було знищено непотрібну книгу.</VanillaBooksExpandedExpanded_BookKilled_Desired_Self.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookBurned_Desired.stages.0.label>Нами спалено книгу</VanillaBooksExpandedExpanded_BookBurned_Desired.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookBurned_Desired.stages.0.description>Нарешті ми позбулися цього марного пережитку.</VanillaBooksExpandedExpanded_BookBurned_Desired.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookKilled_Desired.stages.0.label>Нами знищено книгу</VanillaBooksExpandedExpanded_BookKilled_Desired.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookKilled_Desired.stages.0.description>Було знищено непотрібну книгу.</VanillaBooksExpandedExpanded_BookKilled_Desired.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookBurned_Horrible_Self.stages.0.label>Спалено книгу</VanillaBooksExpandedExpanded_BookBurned_Horrible_Self.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookBurned_Horrible_Self.stages.0.description>Я спалив дорогоцінну книгу! Як я міг дозволити цьому статися?</VanillaBooksExpandedExpanded_BookBurned_Horrible_Self.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookKilled_Horrible_Self.stages.0.label>Знищено книгу</VanillaBooksExpandedExpanded_BookKilled_Horrible_Self.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookKilled_Horrible_Self.stages.0.description>Я знищив дорогоцінну книгу! Як я міг дозволити цьому статися?</VanillaBooksExpandedExpanded_BookKilled_Horrible_Self.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookBurned_Horrible.stages.0.label>Нами спалено книгу</VanillaBooksExpandedExpanded_BookBurned_Horrible.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookBurned_Horrible.stages.0.description>Ми спалили дорогоцінні книги! Я живу серед дикунів?</VanillaBooksExpandedExpanded_BookBurned_Horrible.stages.0.description>
+
+  <VanillaBooksExpandedExpanded_BookKilled_Horrible.stages.0.label>Нами знищено книгу</VanillaBooksExpandedExpanded_BookKilled_Horrible.stages.0.label>
+  <VanillaBooksExpandedExpanded_BookKilled_Horrible.stages.0.description>Дорогоцінні книги було втрачено! Це катастрофа!</VanillaBooksExpandedExpanded_BookKilled_Horrible.stages.0.description>
+
+
+</LanguageData>

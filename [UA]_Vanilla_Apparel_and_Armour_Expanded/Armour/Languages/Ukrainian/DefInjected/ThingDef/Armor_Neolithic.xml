@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wooden armor -->
+  <VAE_Apparel_WoodenArmor.label>дерев'яний нагрудник</VAE_Apparel_WoodenArmor.label>
+  <!-- EN: A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots. -->
+  <VAE_Apparel_WoodenArmor.description>Жилет із дошок та інших дерев'яшок. Дуже ефективний проти дрібнокаліберної вогнепальної та колючої зброї, але цілком безкорисний проти тупих ударів та пострілів з гвинтівок.</VAE_Apparel_WoodenArmor.description>
+
+  <!-- EN: stone war mask -->
+  <VAE_Headgear_StoneWarMask.label>кам'яна маска війни</VAE_Headgear_StoneWarMask.label>
+  <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy. -->
+  <VAE_Headgear_StoneWarMask.description>Маска війни, вкрита жахливим різьбленням. Приховує обличчя та надає впевненості у собі. Будучи зроблена з каменю, вона дуже міцна, але неймовірно важка.</VAE_Headgear_StoneWarMask.description>
+</LanguageData>

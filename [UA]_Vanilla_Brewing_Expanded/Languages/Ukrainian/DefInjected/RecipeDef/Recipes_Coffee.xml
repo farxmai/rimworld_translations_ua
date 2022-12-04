@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeCoffeeFast.label>приготувати каву (швидко)</VBE_MakeCoffeeFast.label>
+  <VBE_MakeCoffeeFast.description>Приготувати каву .</VBE_MakeCoffeeFast.description>
+  <VBE_MakeCoffeeFast.jobString>готує каву</VBE_MakeCoffeeFast.jobString>
+
+  <VBE_ReheatCoffee.label>підігріти охолоджену каву</VBE_ReheatCoffee.label>
+  <VBE_ReheatCoffee.description>Підігріти охолоджену каву.</VBE_ReheatCoffee.description>
+  <VBE_ReheatCoffee.jobString>підігріває каву, що охолола</VBE_ReheatCoffee.jobString>
+
+  <VBE_BrewLatteCoffee.label>приготувати латте</VBE_BrewLatteCoffee.label>
+  <VBE_BrewLatteCoffee.description>Приготувати латте.</VBE_BrewLatteCoffee.description>
+  <VBE_BrewLatteCoffee.jobString>готує латте</VBE_BrewLatteCoffee.jobString>
+
+  <VBE_BrewMochaCoffee.label>приготувати мокко</VBE_BrewMochaCoffee.label>
+  <VBE_BrewMochaCoffee.description>Приготувати мокко.</VBE_BrewMochaCoffee.description>
+  <VBE_BrewMochaCoffee.jobString>готує мокко</VBE_BrewMochaCoffee.jobString>
+
+  <VBE_BrewIrishCoffee.label>приготувати каву по-ірландськи</VBE_BrewIrishCoffee.label>
+  <VBE_BrewIrishCoffee.description>Приготувати каву по-ірландськи.</VBE_BrewIrishCoffee.description>
+  <VBE_BrewIrishCoffee.jobString>готує каву по-ірландськи</VBE_BrewIrishCoffee.jobString>
+
+  <VBE_BrewCannibalCoffee.label>приготувати канібальську каву</VBE_BrewCannibalCoffee.label>
+  <VBE_BrewCannibalCoffee.description>Приготувати канібальську каву.</VBE_BrewCannibalCoffee.description>
+  <VBE_BrewCannibalCoffee.jobString>готує канібальську каву</VBE_BrewCannibalCoffee.jobString>
+
+
+</LanguageData>

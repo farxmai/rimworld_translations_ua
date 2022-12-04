@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_BlueCheese.label>блакитний сир</VCE_BlueCheese.label>
+  <VCE_BlueCheese.description>Блакитний сир - це сир, приготований з додаванням культур цвілі Penicillium, що надають йому блакитні плями/прожилки.</VCE_BlueCheese.description>
+
+  <VCE_GowCheese.label>сир гоу</VCE_GowCheese.label>
+  <VCE_GowCheese.description>Гоу-сир цінується за його гладку текстуру, що тане, і дуже м'який смак.</VCE_GowCheese.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: only buying -->
+  <VME_SlaveTrading_OnlyBuying.label>лише купівля</VME_SlaveTrading_OnlyBuying.label>
+  <!-- EN: Only buying slaves is justifiable, after which we should provide them amicable amounts of lodging and consideration within our colony. By selling a slave one leaves their fate up to the good faith of their buyer, a very unwise decision. -->
+  <VME_SlaveTrading_OnlyBuying.description>Виправдано лише купівлю рабів. Але навіть так ми маємо підійти відповідально, ретельно все обміркувати та перевірити вільні ліжка. Вирішивши продати раба, ми довіримо його долю у невідомо чиї руки. Це дуже безвідповідально.</VME_SlaveTrading_OnlyBuying.description>
+  <!-- EN: Someone bought a slave -->
+  <VME_SlaveTrading_OnlyBuying.comps.2.description>придбано раба</VME_SlaveTrading_OnlyBuying.comps.2.description>
+  <!-- EN: Someone sold a slave -->
+  <VME_SlaveTrading_OnlyBuying.comps.3.description>продано раба</VME_SlaveTrading_OnlyBuying.comps.3.description>
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Psycasts -->
+  <VPE.Psycasts>Псіоніка</VPE.Psycasts>
+  <!-- EN: Psycaster Level: {0} -->
+  <VPE.PsyLevel>Рівень псіоніка: {0}</VPE.PsyLevel>
+  <!-- EN: Earn psycaster experience by meditating. -->
+  <VPE.EarnXP>Досвід псіоніка дається під час медитації.</VPE.EarnXP>
+  <!-- EN: Available points to spend: {0} -->
+  <VPE.Points>Доступно очок: {0}</VPE.Points>
+  <!-- EN: Spend points on unlocking new paths, unlocking psycasts, unlocking meditation foci, improving stats, etc. -->
+  <VPE.SpendPoints>Очки можна витратити на відкриття нових шляхів, псі-здібностей, типів медитації, поліпшення характеристик та багато іншого.</VPE.SpendPoints>
+  <!-- EN: Psycaster stats -->
+  <VPE.PsycasterStats>Характеристики псіоніка</VPE.PsycasterStats>
+  <!-- EN: Upgrade -->
+  <VPE.Upgrade>Покращити</VPE.Upgrade>
+  <!-- EN: Focus types: -->
+  <VPE.FocusTypes>Види медитації:</VPE.FocusTypes>
+  <!-- EN: Customize Psysets -->
+  <VPE.PsysetCustomize>Змінити набір</VPE.PsysetCustomize>
+  <!-- EN: Drag and drop learnt psycasts into psysets that you can cycle between ingame. -->
+  <VPE.PsysetDesc>Перетягніть вивчені псі-здатності в набори, щоб перемикатися між ними у грі.</VPE.PsysetDesc>
+  <!-- EN: Create Psyset -->
+  <VPE.CreatePsyset>Створити набір</VPE.CreatePsyset>
+  <!-- EN: Unlock -->
+  <VPE.Unlock>Відкрити</VPE.Unlock>
+  <!-- EN: Click to Unlock -->
+  <VPE.ClickToUnlock>Натисніть, щоб відкрити</VPE.ClickToUnlock>
+  <!-- EN: Use alternative backgrounds -->
+  <VPE.UseAltBackground>Використовувати альтернативне тло</VPE.UseAltBackground>
+  <!-- EN: Destroy -->
+  <VPE.DestroySkipdoor>Зачинити</VPE.DestroySkipdoor>
+  <!-- EN: Destroy this skipdoor. It will no longer be usable, but will no longer impact the max heat of {0}. -->
+  <VPE.DestroySkipdoor.Desc>Зачинити цей портал. Його більше не можна буде використовувати, але він більше не впливатиме на псі-напругу {0}.</VPE.DestroySkipdoor.Desc>
+  <!-- EN: Rename -->
+  <VPE.RenameSkipdoor>Перейменувати</VPE.RenameSkipdoor>
+  <!-- EN: Rename this skipdoor -->
+  <VPE.RenameSkipdoor.Desc>Перейменувати портал.</VPE.RenameSkipdoor.Desc>
+  <!-- EN: Teleport to {0} -->
+  <VPE.TeleportTo>Телепортуватися у {0}</VPE.TeleportTo>
+  <!-- EN: Cancel Skipbarrier -->
+  <VPE.CancelSkipbarrier>Зняти псі-бар'єр</VPE.CancelSkipbarrier>
+  <!-- EN: Click to cancel Skipbarrier on the caster. -->
+  <VPE.CancelSkipbarrierDesc>Натисніть, щоб зняти бар'єр із псіоніка.</VPE.CancelSkipbarrierDesc>
+  <!-- EN: Edit -->
+  <VPE.Edit>Змінити</VPE.Edit>
+  <!-- EN: Rename -->
+  <VPE.Rename>Перейменувати</VPE.Rename>
+  <!-- EN: Untitled -->
+  <VPE.Untitled>Без назви</VPE.Untitled>
+  <!-- EN: Remove -->
+  <VPE.Remove>Видилити</VPE.Remove>
+  <!-- EN: Contents: -->
+  <VPE.Contents>Містить:</VPE.Contents>
+  <!-- EN: Click to Remove -->
+  <VPE.ClickRemove>Натисніть, щоб видалити</VPE.ClickRemove>
+  <!-- EN: Selling Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.SellingEltexWarning>Продаж ельтексу заборонено імперськими законами. Це може вплинути на ваші відносини з Імперією.</VPE.SellingEltexWarning>
+  <!-- EN: Gifting Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.GiftingEltexWarning>Дарування ельтексу заборонено імперськими законами. Це може вплинути на ваші відносини з Імперією.</VPE.GiftingEltexWarning>
+  <!-- EN: Empire angered -->
+  <VPE.EmpireAngeredTitle>Імперія розлютилася</VPE.EmpireAngeredTitle>
+  <!-- EN: Empire caught wind that you have been {0} Eltex behind their back. They consider it to be against Imperial law, and your relations have degraded. -->
+  <VPE.EmpireAngeredDesc>В Імперії стало відомо, що ви {0} ельтекс в них за спиною. Це є порушенням закону і погіршило ваші стосунки.</VPE.EmpireAngeredDesc>
+  <!-- EN: gifting -->
+  <VPE.Gifting>дарували</VPE.Gifting>
+  <!-- EN: trading -->
+  <VPE.Trading>продавали</VPE.Trading>
+  <!-- EN: Goodwill with {FACTION_name} is now {1}. (Reduced by {2}) -->
+  <VPE.FactionRelationReducedInfo>Відносини з фракцією {FACTION_name} тепер {1}. (Знизилися на {2})</VPE.FactionRelationReducedInfo>
+  <!-- EN: Choose Psycast: -->
+  <VPE.CreatePsyringTitle>Вибрати псі-здібність:</VPE.CreatePsyringTitle>
+  <!-- EN: Create Psyring -->
+  <VPE.CreatePsyringButton>Створити псі-перстень</VPE.CreatePsyringButton>
+  <!-- EN: Locked -->
+  <VPE.Locked>Тільки для</VPE.Locked>
+  <!-- EN: Bodies consumed: +{0} -->
+  <VPE.StatsReport_BodiesConsumed>Тіло поглинуто: +{0}</VPE.StatsReport_BodiesConsumed>
+  <!-- EN: Developer mode -->
+  <VPE.DevMode>Режим розробника</VPE.DevMode>
+  <!-- EN: Not enough points available -->
+  <VPE.NotEnoughPoints>Недостатньо очок</VPE.NotEnoughPoints>
+  <!-- EN: LocPsycasts included:ked -->
+  <VPE.AbilitiesList>Містить здібності:</VPE.AbilitiesList>
+  <!-- EN: hover -->
+  <VPE.Hover>невизначений</VPE.Hover>
+  <!-- EN: Edit -->
+  <VPE.Edit>Змінити</VPE.Edit>
+  <!-- EN: {0}
+
+Capturing psycasters is a viable strategy and can be considered beneficial. -->
+  <VPE.PsycasterRaidDescription>{0}
+
+Захоплення псіоніків життєздатна та, як вважається, вигідна стратегія.</VPE.PsycasterRaidDescription>
+  <!-- EN: Locked: Requires a Royal Title -->
+  <VPE.LockedTitle>Заблоковано: потрібен знатний титул</VPE.LockedTitle>
+  <!-- EN: Locked: Cannot be unlocked with points -->
+  <VPE.LockedLocked>Заблоковано: не можна розблокувати за оски</VPE.LockedLocked>
+</LanguageData>

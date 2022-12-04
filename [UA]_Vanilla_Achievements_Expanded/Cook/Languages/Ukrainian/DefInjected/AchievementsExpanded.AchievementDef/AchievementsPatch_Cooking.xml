@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AchievementBigBoned.label>Широка кістка</VCE_AchievementBigBoned.label>
+  <VCE_AchievementBigBoned.description>Мати колоніста з більш ніж 80% холестерину</VCE_AchievementBigBoned.description>
+
+  <VCE_AchievementFiveStarRestaurant.label>П'ятизірковий ресторан</VCE_AchievementFiveStarRestaurant.label>
+  <VCE_AchievementFiveStarRestaurant.description>Приготувати 100 вишуканих страв</VCE_AchievementFiveStarRestaurant.description>
+
+  <VCE_AchievementLannibalHecter.label>Ланібал Гектор</VCE_AchievementLannibalHecter.label>
+  <VCE_AchievementLannibalHecter.description>Приготувати вишукану страву з людського м'яса</VCE_AchievementLannibalHecter.description>
+
+  <VCE_AchievementRatatouille.label>Звістно курятина!</VCE_AchievementRatatouille.label>
+  <VCE_AchievementRatatouille.description>Приготувати чудовий гриль з щурячого м'яса</VCE_AchievementRatatouille.description>
+
+  <VCE_AchievementQuattroFormaggi.label>Чотири сири</VCE_AchievementQuattroFormaggi.label>
+  <VCE_AchievementQuattroFormaggi.description>Приготувати вишукану випічку з борошна та сиру</VCE_AchievementQuattroFormaggi.description>
+
+  <VCE_AchievementKitchenNightmare.label>Скидони у Фокстрот</VCE_AchievementKitchenNightmare.label>
+  <VCE_AchievementKitchenNightmare.description>Побудувати загалом 7 нових кухонних прилоадів з Cooking Expanded</VCE_AchievementKitchenNightmare.description>
+
+  <VCE_AchievementBonFromage.label>Вже з душком</VCE_AchievementBonFromage.label>
+  <VCE_AchievementBonFromage.description>Отримати сир легендарної якості</VCE_AchievementBonFromage.description>
+
+  <VCE_AchievementNastyAndRubbery.label>На смак як резина</VCE_AchievementNastyAndRubbery.label>
+  <VCE_AchievementNastyAndRubbery.description>Помістити незапліднені курячі яйця в консервну банку</VCE_AchievementNastyAndRubbery.description>
+
+  <VCE_AchievementAmysBaking.label>Точно не пельмені</VCE_AchievementAmysBaking.label>
+  <VCE_AchievementAmysBaking.description>Приготувати огидний десерт вишуканої якості з майонезу</VCE_AchievementAmysBaking.description>
+
+  <VCE_AchievementRefrigerationFailure.label>Ще не готово?</VCE_AchievementRefrigerationFailure.label>
+  <VCE_AchievementRefrigerationFailure.description>Зіпсувати 30 простих грилів через охолодження</VCE_AchievementRefrigerationFailure.description>
+
+  <VCE_AchievementTastyRobots.label>Молекулярна кулінарія</VCE_AchievementTastyRobots.label>
+  <VCE_AchievementTastyRobots.description>Приготувати будь-яку їжу із засвоюваних воскресних механітів</VCE_AchievementTastyRobots.description>
+
+  <VCE_AchievementDiabetesSoup.label>Смерть діабетика</VCE_AchievementDiabetesSoup.label>
+  <VCE_AchievementDiabetesSoup.description>Приготувати солодкий вишуканий суп за допомогою цукру</VCE_AchievementDiabetesSoup.description>
+
+  <VCE_AchievementSpam.label>Тушонка "Своя Лінія"</VCE_AchievementSpam.label>
+  <VCE_AchievementSpam.description>Нафарширувати свинину в банку та вважати справу закритою</VCE_AchievementSpam.description>
+
+  <VCE_AchievementFreedomFries.label>Домашній МакДак</VCE_AchievementFreedomFries.label>
+  <VCE_AchievementFreedomFries.description>Приготувати 200 картоплі-фрі</VCE_AchievementFreedomFries.description>
+
+  <VCE_AchievementHarvestWheat.label>Пшениця колоситься - життя веселиться.</VCE_AchievementHarvestWheat.label>
+  <VCE_AchievementHarvestWheat.description>Зібрати 100 одиниць пшениці</VCE_AchievementHarvestWheat.description>
+
+  <VCE_AchievementSugarDaddy.label>Цукровий Татусь</VCE_AchievementSugarDaddy.label>
+  <VCE_AchievementSugarDaddy.description>Зібрати 100 одиниць цукрової тростини</VCE_AchievementSugarDaddy.description>
+
+  <VCE_AchievementSilkRoad.label>Шовковий шлях</VCE_AchievementSilkRoad.label>
+  <VCE_AchievementSilkRoad.description>Заробити 1000 срібла, продаючи спеції</VCE_AchievementSilkRoad.description>
+
+  <VCE_AchievementInsectGourmet.label>Страва гурманів</VCE_AchievementInsectGourmet.label>
+  <VCE_AchievementInsectGourmet.description>Приготувати 100 банок консервованого желе комах</VCE_AchievementInsectGourmet.description>
+
+  <VCE_AchievementTheCheesemaker.label>Сировар</VCE_AchievementTheCheesemaker.label>
+  <VCE_AchievementTheCheesemaker.description>Зробити 200 шматків сиру</VCE_AchievementTheCheesemaker.description>
+
+  <VCE_AchievementHealthyAsAnOx.label>Здоровий шо капець</VCE_AchievementHealthyAsAnOx.label>
+  <VCE_AchievementHealthyAsAnOx.description>Мати колоніста з високим рівнем холестерину, діабетом та високим кров'яним тиском</VCE_AchievementHealthyAsAnOx.description>
+
+</LanguageData>
