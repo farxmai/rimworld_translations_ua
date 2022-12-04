@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: supplies -->
-  <VFEA_CTP_TravelingSupplies.label>поставка</VFEA_CTP_TravelingSupplies.label>
+  <VFEA_CTP_TravelingSupplies.label>постачання</VFEA_CTP_TravelingSupplies.label>
   <!-- EN: Supplies in flight. -->
-  <VFEA_CTP_TravelingSupplies.description>Летящие припасы.</VFEA_CTP_TravelingSupplies.description>
+  <VFEA_CTP_TravelingSupplies.description>Припаси, що летять.</VFEA_CTP_TravelingSupplies.description>
 </LanguageData>

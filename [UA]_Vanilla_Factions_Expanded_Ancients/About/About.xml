@@ -18,5 +18,7 @@
   <loadAfter>
     <li>VanillaExpanded.VFEA</li>
     <li>legoduded17.vfea.catatrans</li>
+    <li>seos.m.vfea.vault.wnd</li>
+    <!-- 2817855431 -->
   </loadAfter>
 </ModMetaData>
