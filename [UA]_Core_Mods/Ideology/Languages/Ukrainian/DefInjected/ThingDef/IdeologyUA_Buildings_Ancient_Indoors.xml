@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>старовинна бочка</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>Давня дірява бочка виглядає, ніби в ній зберігалися якісь відходи. Єдине, що в ній зараз — це розмазаний засохлий бруд.</AncientBarrel.description>
+
+  <!-- EN: ancient bed -->
+  <AncientBed.label>старовинне ліжко</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>Старий гнилий матрац на заіржавілому каркасі. Незважаючи на незручність, ліжко все ще можна використовувати за прямим призначенням, але полагодити вже не вийде.</AncientBed.description>
+
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>старовинний ящик</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>Стародавній зламаний ящик. Все цінне, що в ньому було, стало непридатним.</AncientCrate.description>
+
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>старовинні монітори</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>Стародавня система екранів. Цінні частини відсутні, а все інше стало непридатним.</AncientDisplayBank.description>
+
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>старовинні ящики з обладнанням</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>Декілька стародавніх ящиків з обладнанням невідомого призначення. Цінні частини відсутні, а все інше стало непридатним.</AncientEquipmentBlocks.description>
+
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>старовинний генератор</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>Стародавній електричний генератор. Його придатні для використання частини давно вилучені чи розбиті, а решта заржавіла.</AncientGenerator.description>
+
+  <!-- EN: ancient lamp -->
+  <AncientLamp.label>старовинна лампа</AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <AncientLamp.description>Стародавня лампа з автономним живленням. Її внутрішній акумулятор майже повністю розряджений, але вона все ще слабко світиться.</AncientLamp.description>
+
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>старовинні шафки</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>Ряд стародавніх проржавілих шафок. Усі вони давно зламані, нічого цінного всередині не лишилося.</AncientLockerBank.description>
+
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>старовинна машина</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>Громіздкий корпус стародавньої машини заповнений незрозумілими механізмами. Цінні частини відсутні, а все інше стало непридатним.</AncientMachine.description>
+
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>старовиння військова скринька</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>Стародавній ящик з армійськими відмітками. Він давно зламаний, а все цінне з нього — розтягнуте.</AncientMilitaryCrate.description>
+
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>старовинний операційний стіл</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>Стіл, який колись використовувався для хірургічних операцій. Він уже давно став непридатним.</AncientOperatingTable.description>
+
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>старовинний космічний ящик</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>Стародавній зламаний ящик. Усі цінності, що у ньому зберігалися, давно вже вилучено.</AncientSpacerCrate.description>
+
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>старовинний бак</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>Стародавній пристрій схожий на сховище для якоїсь рідини. Цінні частини відсутні, а все інше стало непридатним.</AncientStorageCylinder.description>
+
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>старовинна серверна стійка</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>Стародавній стелаж, набитий незрозумілими пристроями. Цінні частини відсутні, а все інше стало непридатним.</AncientSystemRack.description>
+</LanguageData>

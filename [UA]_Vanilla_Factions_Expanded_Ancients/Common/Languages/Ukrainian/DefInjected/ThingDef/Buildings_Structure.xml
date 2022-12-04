@@ -11,14 +11,4 @@
   <!-- EN: A thick vault auto-door, which takes a very long time to open and close, but is nearly indestructible. If the power is cut, it will remain locked. -->
   <VFEA_VaultDoor.description>Товсті автодвері сховища. Відкриваються дуже повільно, але майже незнищенні. Автоматично блокуються за відсутності живлення.</VFEA_VaultDoor.description>
 
-  <!-- EN: vault wall -->
-  <VFEA_A_VaultWall.label>стіна сховища</VFEA_A_VaultWall.label>
-  <!-- EN: A thick, triple-reinforced steel wall. Nearly indestructible. -->
-  <VFEA_A_VaultWall.description>Товста тричі посилена сталева стіна. Майже ніщо не здатне знищити її.</VFEA_A_VaultWall.description>
-
-  <!-- EN: vault door -->
-  <VFEA_A_VaultDoor.label>двері сховища</VFEA_A_VaultDoor.label>
-  <!-- EN: A thick vault auto-door, which takes a very long time to open and close, but is nearly indestructible. If the power is cut, it will remain locked. -->
-  <VFEA_A_VaultDoor.description>Товсті автодвері сховища. Відкриваються дуже повільно, але майже незнищенні. Автоматично блокуються за відсутності живлення.</VFEA_A_VaultDoor.description>
-
 </LanguageData>

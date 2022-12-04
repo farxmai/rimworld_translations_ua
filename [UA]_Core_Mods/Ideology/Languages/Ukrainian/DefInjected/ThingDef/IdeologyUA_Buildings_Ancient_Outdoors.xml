@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient air conditioner -->
+  <AncientAirConditioner.label>старовинний кондиціонер</AncientAirConditioner.label>
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <AncientAirConditioner.description>Стародавні машини для охолодження повітря. Її нутрощі були розбиті давним-давно, а те, що не розтягли, з того часу проржавіло.</AncientAirConditioner.description>
+
+  <!-- EN: ancient ruined APC -->
+  <AncientAPC.label>старовинна зруйнована БМП</AncientAPC.label>
+  <!-- EN: The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientAPC.description>Залишки стародавньої БМП, яка була знищена якоюсь важкою зброєю. Всі корисні частини давно вилучені або стали непридатними.</AncientAPC.description>
+
+  <!-- EN: ancient ATM -->
+  <AncientATM.label>старовинний банкомат</AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientATM.description>Стародавній банкомат. Розбитий і заіржавілий і спустошений. Як він тут виявився — важко сказати.</AncientATM.description>
+
+  <!-- EN: ancient container -->
+  <AncientContainer.label>старовинний контейнер</AncientContainer.label>
+  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness. -->
+  <AncientContainer.description>Великий контейнер для якогось давнього вантажного транспортного засобу. Він уже давно пограбований і став непридатним.</AncientContainer.description>
+
+  <!-- EN: ancient dropship engine -->
+  <AncientDropshipEngine.label>старовинний двигун шатла</AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientDropshipEngine.description>Старовинний двигун шатла. Ймовірно, він відвалився від десантного військового корабля. Його крихкі нутрощі заіржавіли, а цінні частини давно вилучені.</AncientDropshipEngine.description>
+
+  <!-- EN: ancient fence -->
+  <AncientFence.label>старовинний паркан</AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <AncientFence.description>Стародавній забор із залізобетонних стовпів, з'єднаних бетонними панелями.</AncientFence.description>
+
+  <!-- EN: ancient giant wheel -->
+  <AncientGiantWheel.label>древнее гігантське колесо</AncientGiantWheel.label>
+  <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
+  <AncientGiantWheel.description>Гігантське колесо, яке багато століть тому відвалилося від якогось великого транспортного засобу. Гума зіпсована, а метал викручений і заржавілий.</AncientGiantWheel.description>
+
+  <!-- EN: ancient hydrant -->
+  <AncientHydrant.label>старовинний гідрант</AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientHydrant.description>Стародавній гідрант. Сильно заіржавілий, тепер з нього ніякої користі. Як він тут виявився — важко сказати.</AncientHydrant.description>
+
+  <!-- EN: ancient jet engine -->
+  <AncientJetEngine.label>старовинний реактивний двигун</AncientJetEngine.label>
+  <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientJetEngine.description>Стародавній реактивний двигун, мабуть, відірваний від великого літака. Його крихкі нутрощі заіржавіли, а цінні частини давно вилучені.</AncientJetEngine.description>
+
+  <!-- EN: ancient kitchen sink -->
+  <AncientKitchenSink.label>старовинна раковина</AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AncientKitchenSink.description>Стародавня кухонна раковина, виготовлена з листів неметалічного волокна. Вона зовсім зіпсована і нічого цінного не містить. Як тут виявилася раковина, — мабуть, цікава історія.</AncientKitchenSink.description>
+
+  <!-- EN: ancient large crate -->
+  <AncientLargeCrate.label>старовиння велика скринька</AncientLargeCrate.label>
+  <!-- EN: A large crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLargeCrate.description>Великий порожній ящик, кинутий давним-давно. Він надто іржавий, щоб щось у ньому зберігати.</AncientLargeCrate.description>
+
+  <!-- EN: ancient macro-engine block -->
+  <AncientLargeRustedEngineBlock.label>старовинний макродвигун</AncientLargeRustedEngineBlock.label>
+  <!-- EN: An large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
+  <AncientLargeRustedEngineBlock.description>Великий старовинний двигун від якогось воістину гігантського транспортного засобу або джерела енергії. Він проржавів наскрізь, а всі корисні комплектуючі зникли. Жодний ремонт тут уже не допоможе.</AncientLargeRustedEngineBlock.description>
+
+  <!-- EN: ancient long crate -->
+  <AncientLongCrate.label>старовинний довгий ящик</AncientLongCrate.label>
+  <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLongCrate.description>Довгий порожній ящик, кинутий давно. Він надто іржавий, щоб щось у ньому зберігати.</AncientLongCrate.description>
+
+  <!-- EN: ancient mechanoid shell -->
+  <AncientMechanoidShell.label>старовинний корпус механоїда</AncientMechanoidShell.label>
+  <!-- EN: A shell from a smashed mechanoid. It has been deteriorating for many years and the useful components have disintegrated. -->
+  <AncientMechanoidShell.description>Корпус розбитого механоїда. Він занепадав протягом багатьох років, всі цінні частини розсипалися.</AncientMechanoidShell.description>
+
+  <!-- EN: ancient mech drop beacon -->
+  <AncientMechDropBeacon.label>старовинний маяк механоїдів</AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <AncientMechDropBeacon.description>Розбитий корпус десантного маяка механоїдів. Цінні частини у ньому відсутні, а сам корпус зіпсувався після довгих років.</AncientMechDropBeacon.description>
+
+  <!-- EN: ancient mega-cannon barrel -->
+  <AncientMegaCannonBarrel.label>старовинний ствол мега-гармати</AncientMegaCannonBarrel.label>
+  <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
+  <AncientMegaCannonBarrel.description>Стовбур від далекобійної гармати артилерійського чи протикорабельного призначення. Коли він був новим, то, мабуть, лякав своєю силою. Тепер він абсолютно не підлягає ремонту, цінних частин у ньому теж не залишилося.</AncientMegaCannonBarrel.description>
+
+  <!-- EN: ancient mega-cannon platform -->
+  <AncientMegaCannonTripod.label>старовинна платформа мега-гармати</AncientMegaCannonTripod.label>
+  <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
+  <AncientMegaCannonTripod.description>Платформа, де колись стояла велика гармата. Вона була зламана багато років тому, а всі корисні частини давно вилучено.</AncientMegaCannonTripod.description>
+
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>старовинна мікрохвильова піч</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>Давній пристрій для розігріву їжі. Розбите і заіржавіле, тепер воно зовсім марне. Як воно тут виявилося — важко сказати.</AncientMicrowave.description>
+
+  <!-- EN: ancient warsprinter remains -->
+  <AncientMiniWarwalkerRemains.label>старовинні залишки бойового міні-павука</AncientMiniWarwalkerRemains.label>
+  <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
+  <AncientMiniWarwalkerRemains.description>Розбиті залишки старого малого бойового павука. Всі вцілілі деталі давно розтягли.</AncientMiniWarwalkerRemains.description>
+
+  <!-- EN: ancient oven -->
+  <AncientOven.label>старовинна піч</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>Старовинна піч. Розбита й заіржавіла, тепер зовсім марна. Як вона тут виявилася — важко сказати.</AncientOven.description>
+
+  <!-- EN: ancient pipeline section -->
+  <AncientPipelineSection.label>старовинна частина трубопроводу</AncientPipelineSection.label>
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <AncientPipelineSection.description>Ділянка стародавнього трубопроводу. Колись транспортував цінну рідину на великі відстані. Тепер він пограбований і став непридатним.</AncientPipelineSection.description>
+
+  <!-- EN: ancient pipes -->
+  <AncientPipes.label>старовинні труби</AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AncientPipes.description>Купа іржавих старих труб. Важко сказати, як вони тут опинилися.</AncientPipes.description>
+
+  <!-- EN: ancient pod car -->
+  <AncientPodCar.label>старовинний транспортний шатл</AncientPodCar.label>
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <AncientPodCar.description>Старовинна капсула, колись здатна літати самостійно. Її цінні частини були давно розграбовані, а решта сильно зношена.</AncientPodCar.description>
+
+  <!-- EN: ancient postbox -->
+  <AncientPostbox.label>старовинна поштова скринька</AncientPostbox.label>
+  <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
+  <AncientPostbox.description>Старовинна поштова скринька, розбита та зруйнована до непотрібності. Здається, з невідомих причин її сюди недавно перенесли.</AncientPostbox.description>
+
+  <!-- EN: ancient razor wire -->
+  <AncientRazorWire.label>старовинний колючий дріт</AncientRazorWire.label>
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <AncientRazorWire.description>Шматок стародавнього колючого дроту. Він вже багато років руйнується і більше не становить небезпеки.</AncientRazorWire.description>
+
+  <!-- EN: ancient refrigerator -->
+  <AncientRefrigerator.label>старовинний холодильник</AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AncientRefrigerator.description>Досить давній холодильник, без цікавих запчастин.</AncientRefrigerator.description>
+
+  <!-- EN: ancient car -->
+  <AncientRustedCar.label>старовинне авто</AncientRustedCar.label>
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedCar.description>Старовинний, зламаний автомобіль. Все, що не зламане, вже давно було розграбовано..</AncientRustedCar.description>
+
+  <!-- EN: ancient car frame -->
+  <AncientRustedCarFrame.label>старовинний каркас авто</AncientRustedCarFrame.label>
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <AncientRustedCarFrame.description>Стародавня іржава рама автомобіля, кузов якого вже давно проіржавів і розсипався на пил.</AncientRustedCarFrame.description>
+
+  <!-- EN: ancient dropship -->
+  <AncientRustedDropship.label>старовинний шатл</AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <AncientRustedDropship.description>Залишки стародавнього шатла. Цінні частини давно розтягли, а решта непридатна до використання.</AncientRustedDropship.description>
+
+  <!-- EN: ancient engine block -->
+  <AncientRustedEngineBlock.label>старовинний двигун</AncientRustedEngineBlock.label>
+  <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
+  <AncientRustedEngineBlock.description>Стародавній двигун, що проржавів наскрізь. Жодний ремонт не врятує його.</AncientRustedEngineBlock.description>
+
+  <!-- EN: ancient troop carrier -->
+  <AncientRustedJeep.label>старовинний хамві</AncientRustedJeep.label>
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedJeep.description>Старовинна розбита бронеавтівка. Все, що не заіржавіло, давно розтягли.</AncientRustedJeep.description>
+
+  <!-- EN: ancient truck -->
+  <AncientRustedTruck.label>старовинна вантажівка</AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AncientRustedTruck.description>Стародавня розбита вантажівка. Все корисне або заіржавіло, або давно вилучено.</AncientRustedTruck.description>
+
+  <!-- EN: ancient security turret -->
+  <AncientSecurityTurret.label>старовинна турель</AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AncientSecurityTurret.description>Зламана старовинна охоронна турель. Усі цінні частини вилучено чи розбито.</AncientSecurityTurret.description>
+
+  <!-- EN: ancient nav beacon -->
+  <AncientShipBeacon.label>старовинний навігаційний маяк</AncientShipBeacon.label>
+  <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
+  <AncientShipBeacon.description>Зламаний старовинний корабельний навігаційний маяк. Усі корисні частини давно вилучено.</AncientShipBeacon.description>
+
+  <!-- EN: ancient shopping cart -->
+  <AncientShoppingCart.label>старовинний візок для покупок</AncientShoppingCart.label>
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <AncientShoppingCart.description>Старовинний іржавий візок для покупок. Як вона потрапила сюди - загадка, але це історія давня і, можливо, дуже сумна.</AncientShoppingCart.description>
+
+  <!-- EN: ancient small crate -->
+  <AncientSmallCrate.label>старовинний маленький ящик</AncientSmallCrate.label>
+  <!-- EN: A small, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientSmallCrate.description>Маленька порожня скринька, кинута давно. Надто іржава, щоб щось зберігати.</AncientSmallCrate.description>
+
+  <!-- EN: ancient stove -->
+  <AncientStove.label>старовинна кухонна плита</AncientStove.label>
+  <!-- EN: An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientStove.description>Старовинні кухонна плита. Розбита й заіржавіла, тепер зовсім марна. Як вона тут виявилася — важко сказати.</AncientStove.description>
+
+  <!-- EN: ancient ruined tank -->
+  <AncientTank.label>старовинний зруйнований танк</AncientTank.label>
+  <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientTank.description>Залишки стародавнього танка, який було знищено якоюсь важкою зброєю. Всі корисні частини давно вилучені або стали непридатними до використання.</AncientTank.description>
+
+  <!-- EN: ancient tank trap -->
+  <AncientTankTrap.label>старовинний протитанковий їжак</AncientTankTrap.label>
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <AncientTankTrap.description>Оборонна споруда для зупинки транспортних засобів. Він ржавів багато років.</AncientTankTrap.description>
+
+  <!-- EN: ancient toilet -->
+  <AncientToilet.label>старовинний унітаз</AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientToilet.description>Стародавній унітаз. Давним-давно розбитий, тепер зовсім марна. Як він тут виявився — важко сказати.</AncientToilet.description>
+
+  <!-- EN: ancient vending machine -->
+  <AncientVendingMachine.label>старовинний торгівельний автомат</AncientVendingMachine.label>
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <AncientVendingMachine.description>Стародавній торговельний автомат. Він був розбитий багато століть тому, і покоління мародерів розтягли всі корисні деталі. Як він виявився тут, залишається загадкою.</AncientVendingMachine.description>
+
+  <!-- EN: ancient warspider remains -->
+  <AncientWarspiderRemains.label>старовинні залишки бойового павука</AncientWarspiderRemains.label>
+  <!-- EN: The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot. -->
+  <AncientWarspiderRemains.description>Зруйновані залишки стародавнього бойового павука середнього розміру. Його обшукували багато разів та не залишили нічого цінного.</AncientWarspiderRemains.description>
+
+  <!-- EN: ancient warwalker claw -->
+  <AncientWarwalkerClaw.label>стародавній кіготь бойового крокохода</AncientWarwalkerClaw.label>
+  <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
+  <AncientWarwalkerClaw.description>Штурмовий кіготь стародавнього бойового крокохода середнього розміну. Ця зброя призначалася для розривання важкої пласталевої броні на ближній дистанції. Його цінні частини давно вилучено.</AncientWarwalkerClaw.description>
+
+  <!-- EN: ancient warwalker foot -->
+  <AncientWarwalkerFoot.label>стародавня стопа бойового крокохода</AncientWarwalkerFoot.label>
+  <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientWarwalkerFoot.description>Масивна стопа стародавнього бойового крокоходу. Схоже, її відірвало при попаданні з якоїсь важкої зброї. Всі корисні частини давно вилучені або стали непридатними.</AncientWarwalkerFoot.description>
+
+  <!-- EN: ancient warwalker leg -->
+  <AncientWarwalkerLeg.label>стародавня нога бойового крокохода</AncientWarwalkerLeg.label>
+  <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
+  <AncientWarwalkerLeg.description>Зруйнована нога бойового крокохода середнього розміну, що лежить тут давно. Вона була очищена мародерами, жодних цінних частин не лишилося.</AncientWarwalkerLeg.description>
+
+  <!-- EN: ancient warwalker shell -->
+  <AncientWarwalkerShell.label>стародавня бронепластина бойового крокохода</AncientWarwalkerShell.label>
+  <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
+  <AncientWarwalkerShell.description>Бронепластина бойового крокохода. Здається, її було відірвано якоюсь колосальною системою озброєння. Усі цінні частини були розграбовані, а решта сильно зношена.</AncientWarwalkerShell.description>
+
+  <!-- EN: ancient warwalker torso -->
+  <AncientWarwalkerTorso.label>стародавній корпус бойового крокохода</AncientWarwalkerTorso.label>
+  <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
+  <AncientWarwalkerTorso.description>Корпус бойового крокоходу середнього розміру, що впав тут у давнину. Цінні частини давно розтягли.</AncientWarwalkerTorso.description>
+
+  <!-- EN: ancient washing machine -->
+  <AncientWashingMachine.label>старовинна пральна машина</AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientWashingMachine.description>Старовинній побутовий прилад для прання текстильних виробів. Розбитий і заіржавілий, тепер він абсолютно марний. Як він тут виявився — важко сказати.</AncientWashingMachine.description>
+
+  <!-- EN: ancient wheel -->
+  <AncientWheel.label>старовинне колесо</AncientWheel.label>
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <AncientWheel.description>Стародавнє колесо від якогось транспортного засобу. Гума зіпсована, а метал викручений і ржавий.</AncientWheel.description>
+
+  <!-- EN: ancient space junk -->
+  <AncientSpaceJunk.label>старовинний космічний мотлох</AncientSpaceJunk.label>
+  <!-- EN: Ancient chunks of space junk that fell from orbit. Perhaps a relic of an ancient space battle.l -->
+  <AncientSpaceJunk.description>Стародавні уламки космічного сміття, що впали з орбіти. Можливо, вони є свідками давньої космічної битви.</AncientSpaceJunk.description>
+</LanguageData>
