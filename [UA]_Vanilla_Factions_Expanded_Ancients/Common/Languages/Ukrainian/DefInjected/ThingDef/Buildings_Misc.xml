@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: ancient vitals monitor -->
-  <VFEA_AncientVitalsMonitor.label>старовинні монітори показників</VFEA_AncientVitalsMonitor.label>
+  <VFEA_AncientVitalsMonitor.label>старовинний монітор життєвих показників</VFEA_AncientVitalsMonitor.label>
   <!-- EN: An old set of monitors to check up on the healing progress of wounded soldiers.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents. -->
-  <VFEA_AncientVitalsMonitor.description>Стародавні монітори для перевірки життєвих показників поранених солдатів.\n\nЦей пристрій було зроблено за допомогою втрачених технологій стародавніх цивілізацій і не може бути відтворено. Він ніколи не ламатиметься, а також ефективніше прцює під час сонячних спалахів.</VFEA_AncientVitalsMonitor.description>
+  <VFEA_AncientVitalsMonitor.description>Стародавній монітор для перевірки життєвих показників поранених солдатів. Підвищує якість медичного обслуговування, шанси на успішне хірургічне втручання та швидкість відновлення імунітету, якщо його розмістити безпосередньо біля лікарняного ліжка. \n\nЦей пристрій було зроблено за допомогою втрачених технологій стародавніх цивілізацій і не може бути відтворено. Він ніколи не ламатиметься, а також ефективніше прцює під час сонячних спалахів.</VFEA_AncientVitalsMonitor.description>
 
   <!-- EN: ancient cryptosleep sarcophagus -->
   <VFEA_AncientCryptosleepSarcophagus.label>старовинний саркофаг криптосу</VFEA_AncientCryptosleepSarcophagus.label>
