@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wolfhound -->
+  <VFEV_Wolfhound.label>вовкодав</VFEV_Wolfhound.label>
+  <VFEV_Wolfhound.labelPlural>вовкодави</VFEV_Wolfhound.labelPlural>
+  <VFEV_Wolfhound.lifeStages.0.label>щеня вовкодава</VFEV_Wolfhound.lifeStages.0.label>
+  <VFEV_Wolfhound.lifeStages.0.labelPlural>щенята вовкодава</VFEV_Wolfhound.lifeStages.0.labelPlural>
+  <VFEV_Wolfhound.lifeStages.1.label>молодий вовкодав</VFEV_Wolfhound.lifeStages.1.label>
+</LanguageData>

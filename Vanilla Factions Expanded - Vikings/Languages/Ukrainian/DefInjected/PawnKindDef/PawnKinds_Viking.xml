@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: peasant -->
+  <VFEV_Viking_Peasant.label>селянин</VFEV_Viking_Peasant.label>
+  <VFEV_Viking_Peasant.labelFemale>селянин</VFEV_Viking_Peasant.labelFemale>
+  <VFEV_Viking_Peasant.labelPlural>селяни</VFEV_Viking_Peasant.labelPlural>
+  
+  <!-- EN: merchant -->
+  <VFEV_Viking_Merchant.label>трговець</VFEV_Viking_Merchant.label>
+  <VFEV_Viking_Merchant.labelFemale>трговець</VFEV_Viking_Merchant.labelFemale>
+  <VFEV_Viking_Merchant.labelPlural>трговці</VFEV_Viking_Merchant.labelPlural>
+  
+  <!-- EN: slaver -->
+  <VFEV_Viking_Slaver.label>рабовласник</VFEV_Viking_Slaver.label>
+  <VFEV_Viking_Slaver.labelFemale>рабовласниця</VFEV_Viking_Slaver.labelFemale>
+  <VFEV_Viking_Slaver.labelPlural>рабовласники</VFEV_Viking_Slaver.labelPlural>
+  
+  <!-- EN: raider -->
+  <VFEV_Raider.label>рейдер</VFEV_Raider.label>
+  <VFEV_Raider.labelFemale>рейдер</VFEV_Raider.labelFemale>
+  <VFEV_Raider.labelPlural>рейдери</VFEV_Raider.labelPlural>
+
+  <!-- EN: guardian -->
+  <VFEV_Guardian.label>страж</VFEV_Guardian.label>
+  <VFEV_Guardian.labelPlural>стражі</VFEV_Guardian.labelPlural>
+
+  <!-- EN: ravager -->
+  <VFEV_Ravager.label>загарбник</VFEV_Ravager.label>
+  <VFEV_Ravager.labelFemale>загарбниця</VFEV_Ravager.labelFemale>
+  <VFEV_Ravager.labelPlural>загарбники</VFEV_Ravager.labelPlural>
+
+  <!-- EN: berserker -->
+  <VFEV_Berserker.label>берсерк</VFEV_Berserker.label>
+  <VFEV_Berserker.labelPlural>берсерки</VFEV_Berserker.labelPlural>
+  
+  <!-- EN: archer -->
+  <VFEV_Archer.label>лучник</VFEV_Archer.label>
+  <VFEV_Ravager.labelFemale>лучниця</VFEV_Ravager.labelFemale>
+  <VFEV_Archer.labelPlural>лучники</VFEV_Archer.labelPlural>
+
+  <!-- EN: shieldbearer -->
+  <VFEV_Shieldbearer.label>щитоносець</VFEV_Shieldbearer.label>
+  <VFEV_Shieldbearer.labelPlural>щитоносці</VFEV_Shieldbearer.labelPlural>
+
+  <!-- EN: guardian -->
+  <VFEV_ShieldedGuardian.label>вартовий</VFEV_ShieldedGuardian.label>
+  <VFEV_ShieldedGuardian.labelPlural>вартові</VFEV_ShieldedGuardian.labelPlural>
+
+  <!-- EN: ravager -->
+  <VFEV_ShieldedRavager.label>розорювач</VFEV_ShieldedRavager.label>
+  <VFEV_ShieldedRavager.labelFemale>розорювач</VFEV_ShieldedRavager.labelFemale>
+  <VFEV_ShieldedRavager.labelPlural>розорювачі</VFEV_ShieldedRavager.labelPlural>
+
+  <!-- EN: housecarl -->
+  <VFEV_HousecarlMelee.label>хускарл</VFEV_HousecarlMelee.label>
+  <VFEV_HousecarlMelee.labelPlural>хускарли</VFEV_HousecarlMelee.labelPlural>
+
+  <!-- EN: housecarl -->
+  <VFEV_HousecarlRanged.label>хускарл</VFEV_HousecarlRanged.label>
+  <VFEV_HousecarlRanged.labelPlural>хускарли</VFEV_HousecarlRanged.labelPlural>
+</LanguageData>

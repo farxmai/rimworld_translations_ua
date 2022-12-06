@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: raid (Slavers) -->
+  <VFEV_SlaverRaid.label>рейд (рабовласники)</VFEV_SlaverRaid.label>
+  <!-- EN: Raid (Slavers) -->
+  <VFEV_SlaverRaid.letterLabel>Рейд (рабовласники)</VFEV_SlaverRaid.letterLabel>
+  <!-- EN: A group of slavers have arrived nearby. They will use wolfhounds to hunt down your colonists and kidnap them as soon as they can. They are not interested in dealing damage and destroying your base. -->
+  <VFEV_SlaverRaid.letterText>Рейдери работорговці розташувалися неподалік. Вони не намагатимуться знищити вашу колонію, натомість вони планують відловити ваших колоністів за допомогою вокодавів та полонити їх.</VFEV_SlaverRaid.letterText>
+ 
+  <!-- EN: raid (pillage) -->
+  <VFEV_PillageRaid.label>рейд (розбій)</VFEV_PillageRaid.label>
+  <!-- EN: Raid (Pillage) -->
+  <VFEV_PillageRaid.letterLabel>Рейд (розбій)</VFEV_PillageRaid.letterLabel>
+  <!-- EN: A group of pillagers have arrived nearby. They will use torches to set your base ablaze. They are not interested in fighting and only want to steal your property and burn down your houses. -->
+  <VFEV_PillageRaid.letterText>Рейдери грабіжники розташувалися неподалік. Вони не зацікавлені у хорошій битві, натомість вону готуються спалити вашу колонію і винести усе цінне. Ховайте пральні машини!</VFEV_PillageRaid.letterText>
+ </LanguageData>

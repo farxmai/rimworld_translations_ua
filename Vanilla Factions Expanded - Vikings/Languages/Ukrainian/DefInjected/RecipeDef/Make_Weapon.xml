@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VFEV_Apparel_TorchBelt.label>зв'язати факели</Make_VFEV_Apparel_TorchBelt.label>
+  <Make_VFEV_Apparel_TorchBelt.description>Зв'язати факели.</Make_VFEV_Apparel_TorchBelt.description>
+  <Make_VFEV_Apparel_TorchBelt.jobString>Зв'язує факели</Make_VFEV_Apparel_TorchBelt.jobString>
+
+  <Make_VFE_MeleeWeapon_Seax.label>зробити скрамасакс</Make_VFE_MeleeWeapon_Seax.label>
+  <Make_VFE_MeleeWeapon_Seax.description>Зробити скрамасакс.</Make_VFE_MeleeWeapon_Seax.description>
+  <Make_VFE_MeleeWeapon_Seax.jobString>виготовляє скрамасакс</Make_VFE_MeleeWeapon_Seax.jobString>
+
+  <Make_VFE_MeleeWeapon_BeardedAxe.label>зробити бородата сокира</Make_VFE_MeleeWeapon_BeardedAxe.label>
+  <Make_VFE_MeleeWeapon_BeardedAxe.description>Зробити бородата сокира.</Make_VFE_MeleeWeapon_BeardedAxe.description>
+  <Make_VFE_MeleeWeapon_BeardedAxe.jobString>виготовляє бородата сокира</Make_VFE_MeleeWeapon_BeardedAxe.jobString>
+
+  <Make_VFE_MeleeWeapon_DaneAxe.label>зробити скандинавська сокира</Make_VFE_MeleeWeapon_DaneAxe.label>
+  <Make_VFE_MeleeWeapon_DaneAxe.description>Зробити скандинавська сокира.</Make_VFE_MeleeWeapon_DaneAxe.description>
+  <Make_VFE_MeleeWeapon_DaneAxe.jobString>виготовляє скандинавська сокира</Make_VFE_MeleeWeapon_DaneAxe.jobString>
+
+  <Make_VFE_ThrowingAxe.label>зробити метальна сокира</Make_VFE_ThrowingAxe.label>
+  <Make_VFE_ThrowingAxe.description>Зробити метальна сокира.</Make_VFE_ThrowingAxe.description>
+  <Make_VFE_ThrowingAxe.jobString>виготовляє метальна сокира</Make_VFE_ThrowingAxe.jobString>
+</LanguageData>

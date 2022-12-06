@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: taking honey out of TargetA. -->
+  <VFEV_TakeHoneyOutOfApiary.reportString>збирає мед з TargetA</VFEV_TakeHoneyOutOfApiary.reportString>
+  <!-- EN: tending to TargetA. -->
+  <VFEV_TendToApiary.reportString>обслуговує TargetA</VFEV_TendToApiary.reportString>
+  <!-- EN: igniting TargetA with torches. -->
+  <VFEV_IgniteWithTorches.reportString>підпалює TargetA</VFEV_IgniteWithTorches.reportString>
+  
+  <!-- EN: recovering from hypothermia. -->
+  <VFEV_HypothermiaResponse.reportString>відновлюється після переохолодження</VFEV_HypothermiaResponse.reportString>
+</LanguageData>

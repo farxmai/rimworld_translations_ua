@@ -14,8 +14,8 @@
     <li>questDescription->Великий метеорит упав неподалік. У місці падіння можна знайти поклади ельтексу. Ельтекс можна використовувати для створення спорядження, яке покращує псіконцентрацію, або продати Імперії за прихильність корони.\n\nВам варто відправити туди загін шахтарів, щоб добути ельтекс. Якщо чекати надто довго, хтось інший обов'язково забере його собі.</li>
   </VPE_EltexMeteor.questDescriptionRules.rulesStrings>
 
-  <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Термін завдання вичерпано: [resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <!-- EN: Others have mined the Eltex meteor. The quest [resolvedQuestName] has expired. -->
-  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Хтось інший знайшов місці падіння метеору швидче за нас. Завдання [resolvedQuestName] провалено.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest expired: «[resolvedQuestName]» -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Others have mined the Eltex meteor. The quest «[resolvedQuestName]» has expired. -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Хтось інший знайшов місці падіння метеору швидче за нас. Завдання «[resolvedQuestName]» провалено.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
 </LanguageData>

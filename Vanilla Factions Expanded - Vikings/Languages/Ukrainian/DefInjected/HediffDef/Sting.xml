@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sting -->
+  <VFEV_Sting.label>вжалено</VFEV_Sting.label>
+  <!-- EN: a bee sting -->
+	<VFEV_Sting.labelNoun>бджолиний укус</VFEV_Sting.labelNoun>
+  <!-- EN: A hurtful bee sting. -->
+  <VFEV_Sting.description>Болючий бджолиний укус.</VFEV_Sting.description>
+  <!-- EN: bandaged -->
+  <VFEV_Sting.comps.0.labelTendedWell>перев'язано</VFEV_Sting.comps.0.labelTendedWell>
+  <!-- EN: bandaged -->
+  <VFEV_Sting.comps.0.labelTendedWellInner>оброблено</VFEV_Sting.comps.0.labelTendedWellInner>
+  <!-- EN: bandaged -->
+  <VFEV_Sting.comps.0.labelSolidTendedWell>оброблено</VFEV_Sting.comps.0.labelSolidTendedWell>
+  <!-- EN: sting scar -->
+  <VFEV_Sting.comps.HediffComp_GetsPermanent.permanentLabel>шрам від жала</VFEV_Sting.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <VFEV_Sting.labelNounPretty>{0} {1}</VFEV_Sting.labelNounPretty>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: mead high -->
+  <VFEF_MeadAlcoholHigh.label>під медом</VFEF_MeadAlcoholHigh.label>
+  <!-- EN: Mead in the bloodstream. It makes people happy, but reduces capacities. Slightly reduces psychic sensitivity. -->
+  <VFEF_MeadAlcoholHigh.description>Мед у крові дає приємне відчуття сп'яніння, але знижає прцездатність та психічну чутливість.</VFEF_MeadAlcoholHigh.description>
+  <!-- EN: a mead high -->
+  <VFEF_MeadAlcoholHigh.labelNoun>під медом</VFEF_MeadAlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <VFEF_MeadAlcoholHigh.stages.warm.label>на підпитку</VFEF_MeadAlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <VFEF_MeadAlcoholHigh.stages.tipsy.label>захмелілий</VFEF_MeadAlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <VFEF_MeadAlcoholHigh.stages.drunk.label>налиганий</VFEF_MeadAlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <VFEF_MeadAlcoholHigh.stages.hammered.label>лика не в'яже</VFEF_MeadAlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <VFEF_MeadAlcoholHigh.stages.blackout.label>у відключці</VFEF_MeadAlcoholHigh.stages.blackout.label>
+</LanguageData>

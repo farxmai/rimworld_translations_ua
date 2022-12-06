@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Cryptobleed -->
+  <VFEV_BleedrateCrypto_5.label>критозаморожування крові</VFEV_BleedrateCrypto_5.label>
+  <!-- EN: Experimental crypto tech from the armour slows down bleeding. -->
+  <VFEV_BleedrateCrypto_5.description>Експериментальна криптотехнологія яка сповілюнює втрату крові у випадку поранення.</VFEV_BleedrateCrypto_5.description>
+  <!-- EN: Armour -->
+  <VFEV_BleedrateCrypto_5.stages.Armour.label>Захист</VFEV_BleedrateCrypto_5.stages.Armour.label>
+
+  <!-- EN: Cryptobleed -->
+  <VFEV_BleedrateCrypto_10.label>критозаморожування крові</VFEV_BleedrateCrypto_10.label>
+  <!-- EN: Experimental crypto tech from the armour slows down bleeding. -->
+  <VFEV_BleedrateCrypto_10.description>Експериментальна криптотехнологія яка сповілюнює втрату крові у випадку поранення.</VFEV_BleedrateCrypto_10.description>
+  <!-- EN: Armour -->
+  <VFEV_BleedrateCrypto_10.stages.Armour.label>Захист</VFEV_BleedrateCrypto_10.stages.Armour.label>
+
+  <!-- EN: Cryptobleed -->
+  <VFEV_BleedrateCrypto_20.label>критозаморожування крові</VFEV_BleedrateCrypto_20.label>
+  <!-- EN: Experimental crypto tech from the armour slows down bleeding. -->
+  <VFEV_BleedrateCrypto_20.description>Експериментальна криптотехнологія яка сповілюнює втрату крові у випадку поранення.</VFEV_BleedrateCrypto_20.description>
+  <!-- EN: Armour -->
+  <VFEV_BleedrateCrypto_20.stages.Armour.label>Захист</VFEV_BleedrateCrypto_20.stages.Armour.label>
+</LanguageData>

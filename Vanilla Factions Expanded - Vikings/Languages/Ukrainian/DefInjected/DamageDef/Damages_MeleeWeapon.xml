@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: cut -->
+  <VFEV_Cut.label>поріз</VFEV_Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <VFEV_Cut.deathMessage>{0} було зарізано.</VFEV_Cut.deathMessage>
+</LanguageData>

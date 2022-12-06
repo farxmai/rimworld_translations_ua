@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFactionViking.rulePack.rulesFiles>
+    <li>NorseNamesN->Words/RuNamesN</li>
+		<li>ColorS->Words/ColorsS</li>
+		<li>ANordic->Words/AnimalsNordicN</li>
+  </NamerFactionViking.rulePack.rulesFiles>
+
+  <!-- EN:
+    <li>r_name->The [AnimalNordic] Clan</li>
+    <li>r_name->The [Color] [AnimalNordic] Clan</li>
+		<li>r_name->[NorseNames]'s Clan</li>
+  -->
+	<NamerFactionViking.rulePack.rulesStrings>
+    <li>r_name->Клан [ANordic]</li>
+    <li>r_name->[ColorS] клан [ANordic]</li>
+		<li>r_name->Клан [NorseNamesN]</li>
+  </NamerFactionViking.rulePack.rulesStrings>
+
+  <!-- EN:    
+    <li>r_name->[townname_wordgen]</li>
+
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->tear</li>
+    <li>townendevil->cut</li>
+    <li>townendevil->lop</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozzle</li>
+    <li>townendevil->latch</li>
+    <li>townendevil->lock</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->sear</li>
+    <li>townendevil->shank</li>
+    <li>townendevil->hurt</li>
+    <li>townendevil->vash</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->thot</li>
+    <li>townendevil->thard</li>
+    <li>townendevil->thad</li>
+  -->
+  <NamerSettlementViking.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->васт</li>
+    <li>townendevil->варг</li>
+    <li>townendevil->викс</li>
+    <li>townendevil->тор</li>
+    <li>townendevil->тір</li>
+    <li>townendevil->кат</li>
+    <li>townendevil->лоп</li>
+    <li>townendevil->оз</li>
+    <li>townendevil->озле</li>
+    <li>townendevil->лач</li>
+    <li>townendevil->лок</li>
+    <li>townendevil->бйорн</li>
+    <li>townendevil->сир</li>
+    <li>townendevil->шенк</li>
+    <li>townendevil->хурт</li>
+    <li>townendevil->ваш</li>
+    <li>townendevil->ванг</li>
+    <li>townendevil->вюг</li>
+    <li>townendevil->тот</li>
+    <li>townendevil->фард</li>
+    <li>townendevil->фед</li>
+  </NamerSettlementViking.rulePack.rulesStrings>
+
+  <NamerPersonViking.rulePack.rulesFiles>
+    <li>NorseNamesC->Words/RuNames</li>
+    <li>NorseNamesN->Words/RuNamesN</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive</li>
+    <li>AnimalV->Words/Animals_Badass_Genitive_Plural</li>
+		<li>ColorS->Words/ColorsS</li>
+    <li>AnimalM->Words/Animals_Badass_Masc</li>
+  </NamerPersonViking.rulePack.rulesFiles>
+
+  <!-- EN:     
+    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]berg</li>
+    <li>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <li>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]-son</li>
+    <li>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+  -->
+  <NamerPersonViking.rulePack.rulesStrings>
+    <li>r_name(p=2)->[NorseNamesC] син [NorseNamesN]</li>
+		<li>r_name->[NorseNamesC] [NorseNamesC]берг</li>
+    <li>r_name->[NorseNamesC] [Slayer] [AnimalV] син [NorseNamesN]</li>
+    <li>r_name->[NorseNamesC] [ColorS] [AnimalM] син [NorseNamesN]</li>
+    <li>r_name->[NorseNamesC] син [NorseNamesN]</li>
+		<li>r_name->[NorseNamesC] син [NorseNamesN] зз клану [AnimalV]</li>
+		<li>Slayer->вбивця</li>
+		<li>Slayer->переможець</li>
+		<li>Slayer->винищувач</li>
+		<li>Slayer->загроза</li>
+		<li>Slayer->загибель</li>
+  </NamerPersonViking.rulePack.rulesStrings>
+</LanguageData>

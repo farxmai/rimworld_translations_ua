@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: drunk chitchat -->
+  <VFEV_DrunkChitchat.label>п'яні балачки</VFEV_DrunkChitchat.label>
+
+  <!-- EN:
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+
+		<li>talkedabout(p=4)->chatted about</li>
+		<li>talkedabout->shared a word about</li>
+		<li>talkedabout->spoke about</li>
+		<li>talkedabout->gabbed about</li>
+		<li>talkedabout->talked about</li>
+		<li>talkedabout->joked about</li>
+		<li>talkedabout->quipped about</li>
+
+		<li>commentedabout->said something about</li>
+		<li>commentedabout->said a word about</li>
+		<li>commentedabout->made a comment about</li>
+		<li>commentedabout->commented about</li>
+		<li>commentedabout->told a joke about</li>
+  -->
+  <VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] з [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>talkedabout_plural(p=4)->захоплено сперечаються</li>
+    <li>talkedabout_plural->душевно балакають</li>
+    <li>talkedabout_plural->зацікавлено обговорюють важливі питання</li>
+    <li>talkedabout_plural->весело гомонять</li>
+    <li>talkedabout_plural->красномовно спілкуються</li>
+    <li>talkedabout_plural->перекидаються кількома фразами</li>
+    <li>talkedabout(p=4)->жваво теревенить</li>
+    <li>talkedabout->веде задушевну бесіду</li>
+    <li>talkedabout->весело гельгоче</li>
+    <li>talkedabout->енергійно щебече</li>
+    <li>talkedabout->недоречно жартує</li>
+    <li>talkedabout->промовляє тост</li>
+  </VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+
+  <!-- EN: very drunk chitchat -->
+	<VFEV_VeryDrunkChitchat.label>налигані балачки</VFEV_VeryDrunkChitchat.label>
+
+  <!-- EN:
+		<li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+		<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+
+		<li>talkedabout(p=4)->chatted about</li>
+		<li>talkedabout->shared a word about</li>
+		<li>talkedabout->spoke about</li>
+		<li>talkedabout->gabbed about</li>
+		<li>talkedabout->talked about</li>
+		<li>talkedabout->joked about</li>
+		<li>talkedabout->quipped about</li>
+
+		<li>commentedabout->said something about</li>
+		<li>commentedabout->said a word about</li>
+		<li>commentedabout->made a comment about</li>
+		<li>commentedabout->commented about</li>
+		<li>commentedabout->told a joke about</li>
+  -->
+  <VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout_plural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] з [RECIPIENT_nameDef] [TalkTopicLight].</li>
+    <li>talkedabout_plural(p=4)->балакають лика не в'яжучи</li>
+    <li>talkedabout_plural->базікають за життя</li>
+    <li>talkedabout_plural->ледве зв'язуть слова</li>
+    <li>talkedabout_plural->теревенять</li>
+    <li>talkedabout_plural->регочуть</li>
+    <li>talkedabout_plural->голосно сперечаються</li>
+    <li>talkedabout(p=4)->відригує слова</li>
+    <li>talkedabout->вважає, що щось каже</li>
+    <li>talkedabout->незрозуміло мичить</li>
+    <li>talkedabout->белькочить собі під носа</li>
+    <li>talkedabout->розповідає вульгарний жарт</li>
+    <li>talkedabout->ледве ворочає язиком</li>
+  </VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+</LanguageData>

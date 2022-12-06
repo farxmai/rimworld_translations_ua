@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The hearth bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this hearth [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_Hearth.rulePack.rulesStrings>
+    <li>physical_description_root->На вогнищі вигравіруваний напис: [depiction_h] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Вогнище [depicts_h] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Композиція на вогнищі є [depiction_h] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Гравюра на цьому вогнищі [depicts_h] [image]. [desc_sentence_group]</li>
+		<li>depicts_h->зображає як</li>
+    <li>depicts_h->показує що</li>
+		<li>depicts_h->ілюструє те</li>
+    <li>depicts_h->розповідає про</li>
+		<li>depiction_h->зображення того</li>
+    <li>depiction_h->історія того</li>
+		<li>depiction_h->ілюстрація того</li>
+    <li>depiction_h->картина того</li>
+  </ArtDescription_Hearth.rulePack.rulesStrings>
+</LanguageData>

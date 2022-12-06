@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: legendary grave -->
+  <VFEV_LegendaryGrave.label>легендарне поховання</VFEV_LegendaryGrave.label>
+  <!-- EN: A legendary grave. -->
+  <VFEV_LegendaryGrave.description>Легендарне поховання.</VFEV_LegendaryGrave.description>
+
+  <!-- EN: vikings guards -->
+  <VFEV_VikingsGuarding.label>охорона вікінгів</VFEV_VikingsGuarding.label>
+  <!-- EN: Vikings are guarding this place. -->
+  <VFEV_VikingsGuarding.description>Вікінги охороняють це місце.</VFEV_VikingsGuarding.description>
+</LanguageData>

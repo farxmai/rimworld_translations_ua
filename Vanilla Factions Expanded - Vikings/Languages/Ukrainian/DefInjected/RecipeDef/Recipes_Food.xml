@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: make sweetrolls -->
+  <VFEV_Make_Sweetroll.label>приготувати солодкий рулет</VFEV_Make_Sweetroll.label>
+  <!-- EN: Make sweetrolls out of honey and eggs. -->
+  <VFEV_Make_Sweetroll.description>Приготувати солодкий рулет з меду та яєць.</VFEV_Make_Sweetroll.description>
+  <!-- EN: Making sweetrolls. -->
+  <VFEV_Make_Sweetroll.jobString>готує солодкий рулет</VFEV_Make_Sweetroll.jobString>
+</LanguageData>

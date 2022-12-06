@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: feast -->
+  <VFEV_Feast.label>застілля</VFEV_Feast.label>
+  <!-- EN: The feast has been called off. -->
+  <VFEV_Feast.calledOffMessage>Застілля скасовано.</VFEV_Feast.calledOffMessage>
+  <!-- EN: The feast has finished. -->
+  <VFEV_Feast.finishedMessage>Застілля завершено.</VFEV_Feast.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} suggests throwing a feast after the last stockpile check to boost morale. Be warned - Feasts can last up to 48h. Colonists will binge on food and drugs until it is over. Simply draft your colonists to stop them taking part in the feast. -->
+  <VFEV_Feast.letterText>Провівши перевірку запасів, {ORGANIZER_labelShort} пропонує влаштувати застілля для підняття бойового духу. Майте на увазі, що такі застілля можуть тривати до 48 годин. І протягом цих годин поселенці поглинатимуть їжу, випивку та наркотики.</VFEV_Feast.letterText>
+  <!-- EN: feast -->
+  <VFEV_Feast.letterTitle>застілля</VFEV_Feast.letterTitle>
+</LanguageData>

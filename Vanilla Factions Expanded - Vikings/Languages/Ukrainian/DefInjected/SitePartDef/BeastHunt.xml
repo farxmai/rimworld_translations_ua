@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fenrir hunt -->
+  <VFEV_FenrirHunt.label>Полювання на Фенріра</VFEV_FenrirHunt.label>
+  <!-- EN: A legendary Fenrir has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+  <VFEV_FenrirHunt.description>Тут було помічено легендарного Фенрір. Він зупинився тут надовго, але рано чи пізно рушить далі.</VFEV_FenrirHunt.description>
+  
+  <!-- EN: lothurr hunt -->
+	<VFEV_LothurrHunt.label>Полювання на Лодура</VFEV_LothurrHunt.label>
+  <!-- EN: A legendary Lothurr has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+  <VFEV_LothurrHunt.description>Тут було помічено легендарного Лодура. Він зупинився тут надовго, але рано чи пізно рушить далі.</VFEV_LothurrHunt.description>
+
+  <!-- EN: thrumbo hunt -->
+	<VFEV_ThrumboHunt.label>Полювання на Трумбо</VFEV_ThrumboHunt.label>
+  <!-- EN: A legendary Thrumbo has been sighted here. It will stay there for the foreseeable future but move on in time.< -->
+  <VFEV_ThrumboHunt.description>Тут було помічено легендарного Трумбо. Він зупинився тут надовго, але рано чи пізно рушить далі.</VFEV_ThrumboHunt.description>
+  
+  <!-- EN: njorun hunt -->
+	<VFEV_NjorunHunt.label>Полювання на Нйоруна</VFEV_NjorunHunt.label>
+  <!-- EN: A legendary Njorun has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+  <VFEV_NjorunHunt.description>Тут було помічено легендарного Нйоруна. Він зупинився тут надовго, але рано чи пізно рушить далі.</VFEV_NjorunHunt.description>
+
+  <!-- EN: odin hunt -->
+	<VFEV_OdinHunt.label>Полювання на Одіна</VFEV_OdinHunt.label>
+  <!-- EN: A legendary Odin has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+  <VFEV_OdinHunt.description>Тут було помічено легендарного Одін. Він зупинився тут надовго, але рано чи пізно рушить далі.</VFEV_OdinHunt.description>
+</LanguageData>

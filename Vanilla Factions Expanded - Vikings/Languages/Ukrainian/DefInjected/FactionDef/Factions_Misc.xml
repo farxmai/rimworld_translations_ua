@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: rough clan -->
+  <VFEV_VikingsClan.label>суворий клан</VFEV_VikingsClan.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan values warlike dominance; it may be difficult to turn them into an ally. -->
+  <VFEV_VikingsClan.description>Ці люди мешкають на планеті дуже давно. Згідно з легендами, їхні предки впали на цю планету тисячі років тому. Так чи інакше, норди — войовничі люди, які живуть за рахунок чужих ресурсів, готові, без будь-яких докорів совісті, забрати чужі багатства.\n\nНа відміну від інших фракцій, цей клан не так технологічно просунутий, але здатний стати цінним союзником або жахливим ворогом, завдяки своїй витривалості та дикій вдачі.\n\nЦей клан поважає грубу силу та військове домінування. Домогтися їх прихильності буде непросто.</VFEV_VikingsClan.description>
+  <!-- EN: jarl -->
+  <VFEV_VikingsClan.leaderTitle>ярл</VFEV_VikingsClan.leaderTitle>
+  <!-- EN: nordspeople -->
+  <VFEV_VikingsClan.pawnSingular>норд</VFEV_VikingsClan.pawnSingular>
+  <VFEV_VikingsClan.pawnsPlural>норди</VFEV_VikingsClan.pawnsPlural>
+
+  <!-- EN: savage clan -->
+  <VFEV_VikingsSlaver.label>свирепый клан</VFEV_VikingsSlaver.label>
+  <!-- EN: These clanmen have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordmen are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordmen can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan wreaks havoc in surrounding settlements and takes any survivors into slavery - it will be very difficult to become their ally! -->
+  <VFEV_VikingsSlaver.description>Ці люди мешкають на планеті дуже давно. Згідно з легендами, їхні предки впали на цю планету тисячі років тому. Так чи інакше, норди — войовничі люди, які живуть за рахунок чужих ресурсів, готові, без будь-яких докорів совісті, забрати чужі багатства.\n\nНа відміну від інших фракцій, цей клан не так технологічно просунутий, але здатний стати цінним союзником або жахливим ворогом, завдяки своїй витривалості та дикій вдачі.\n\nЦей клан руйнує навколишні поселення і забирає в рабство тих, хто вижив — стати їх союзником буде вкрай важко!</VFEV_VikingsSlaver.description>
+  <!-- EN: jarl -->
+  <VFEV_VikingsSlaver.leaderTitle>ярл</VFEV_VikingsSlaver.leaderTitle>
+  <!-- EN: nordspeople -->
+  <VFEV_VikingsSlaver.pawnSingular>норд</VFEV_VikingsSlaver.pawnSingular>
+  <VFEV_VikingsSlaver.pawnsPlural>норди</VFEV_VikingsSlaver.pawnsPlural>
+</LanguageData>

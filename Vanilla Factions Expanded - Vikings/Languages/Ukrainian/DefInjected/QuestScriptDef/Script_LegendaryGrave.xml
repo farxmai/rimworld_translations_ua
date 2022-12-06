@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [legendary] [grave]</li>
+    <li>questName->[legendary] [grave]</li>
+    <li>grave->Grave</li>
+    <li>grave->Tomb</li>
+    <li>grave->Crypt</li>
+    <li>grave->Mausoleum</li>
+    <li>grave->Catacomb</li>
+    <li>legendary->Legendary</li>
+    <li>legendary->Mythical</li>
+    <li>legendary->Ancient</li>
+    <li>legendary->Lost</li>
+    <li>legendary->Fabled</li>
+  -->
+  <VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+    <li>questName->[legendary] [ruins]</li>
+    <li>questName->[legendary] [ruins] [asker_nameDef]</li>
+
+    <li>legendary->древня</li>
+    <li>legendary->легендарна</li>
+    <li>legendary->таємничя</li>
+    <li>legendary->втрачена</li>
+    <li>legendary->загадкова</li>
+    <li>ruins->гробниця</li>
+    <li>ruins->катакомба</li>
+    <li>ruins->могила</li>
+    <li>ruins->крипта</li>
+  </VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+
+  <!-- EN:     
+    <li>questDescription(askerIsNull==true)->We've found the location of a legendary vikings grave not far from [map_definite]. The place might be guarded.\n\nYou can travel there and defeat the guardians to obtain valuable rewards and perhaps recruit a legendary viking hero.</li>
+
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports finding the location of a legendary vikings grave not far from [map_definite]. The place might be guarded.\n\nYou can travel there and defeat the guardians to obtain valuable rewards and perhaps recruit a legendary viking hero.</li>
+  -->
+  <VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Ми виявили місцезнаходження легендарного поховання вікінгів неподалік [map_definite]. Воно може охоронятись.\n\nВи можете вирушити туди, перемогти вартових, забрати скарби і, можливо, завербувати легендарного героя вікінгів.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name] розповідає нам про місцезнаходження легендарного поховання вікінгів неподалік [map_definite]. Воно може охоронятись.\n\nВи можете вирушити туди, перемогти вартових, забрати скарби і, можливо, завербувати легендарного героя вікінгів.</li>
+  </VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+
+  <!-- EN: Quest expired: «[resolvedQuestName]» -->
+  <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The site has been found and raided by others. The quest «[resolvedQuestName]» has expired. -->
+  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>Це місце було пограбовано кимось іншим. Завдання «[resolvedQuestName]» провалено.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: «[resolvedQuestName]» -->
+  <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>Завдання провалено: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, they woke up the heros, and transfered them somewhere else. The quest «[resolvedQuestName]» has ended. -->
+  <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Будучи виявленими, вартові розбудили героїв і перемістилися в інше місце. Завдання «[resolvedQuestName]» завершено.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+  <!-- EN: Quest Succeed: «[resolvedQuestName]» -->
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>Завдання виконано: «[resolvedQuestName]»</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+  <!-- EN: You successfully fought the guardians! The quest «[resolvedQuestName]» has ended. -->
+  <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Ви перемогли вартових! Завдання «[resolvedQuestName]» виконано.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+</LanguageData>

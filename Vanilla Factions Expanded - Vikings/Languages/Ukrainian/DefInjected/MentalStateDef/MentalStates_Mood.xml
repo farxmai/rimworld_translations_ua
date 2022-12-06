@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: enraged -->
+  <VFEV_Enraged.label>оскаженіння</VFEV_Enraged.label>
+  <!-- EN: Mental state: Enraged -->
+  <VFEV_Enraged.baseInspectLine>Психічний стан: оскаженіння</VFEV_Enraged.baseInspectLine>
+  <!-- EN: {0} has become enraged.\n\n[PAWN_pronoun] will attack any hostiles [PAWN_pronoun] sees, with double attack speed. -->
+  <VFEV_Enraged.beginLetter>{0} скаженіє.\n\n{PAWN_pronoun} буде кидатись на усіх ворогів, наносячи удари з подвійною швидкістю.</VFEV_Enraged.beginLetter>
+  <!-- EN: enraged -->
+  <VFEV_Enraged.beginLetterLabel>оскаженіння</VFEV_Enraged.beginLetterLabel>
+  <!-- EN: {0}'s rage has come to an end. -->
+  <VFEV_Enraged.recoveryMessage>{0} заспокоюється.</VFEV_Enraged.recoveryMessage>
+</LanguageData>

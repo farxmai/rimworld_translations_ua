@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a sealed vault not far from [map_definite]. The site is full of ancient technology and relics.\n\nIt seems that it is still defended by ancient soldiers.</li>
+  -->
+  <VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Нам вдалося перехопити повідомлення про запечатане сховище неподалік від [map_definite]. Там має бути багато стародавніх технологій та артефактів.\n\nЗдається, що воно і досі охороняється давніми солдатами.</li>
+  </VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[journey] to the [ruins]</li>
+    <li>journey->Journey</li>
+    <li>journey->Expedition</li>
+    <li>journey->Treasure hunt</li>
+    <li>journey->Adventure</li>
+    <li>ruins->Sealed vault</li>
+    <li>ruins->Locked vault</li>
+    <li>ruins->Ancient vault</li>
+    <li>ruins->Secured vault</li>
+    <li>ruins->Hidden vault</li>
+  -->
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[journey] [ruins]</li>
+    <li>journey->Пригода у</li>
+    <li>journey->Пошукова єкспедиція у</li>
+    <li>journey->Таємниці чекають у</li>
+    <li>journey->Пригода у</li>
+    <li>ruins->запечатаному сховищі</li>
+    <li>ruins->закритому сховищі</li>
+    <li>ruins->стародавньому сховищі</li>
+    <li>ruins->захищеному сховищі</li>
+    <li>ruins->прихованому сховищі</li>
+  </VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: «[resolvedQuestName]» -->
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the sealed vault has been opened and scavenged by others. The quest «[resolvedQuestName]» has expired. -->
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Судячи з перехоплених повідомлень, сховище обчистив хтось інший. Час, відведений на завдання «[resolvedQuestName]», минув.</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

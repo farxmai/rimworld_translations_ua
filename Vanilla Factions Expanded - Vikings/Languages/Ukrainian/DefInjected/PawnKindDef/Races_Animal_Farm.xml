@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wooly cow -->
+  <VFEV_WoolyCow.label>шерстяна корова</VFEV_WoolyCow.label>
+  <VFEV_WoolyCow.labelPlural>шерстяні корови</VFEV_WoolyCow.labelPlural>
+  <VFEV_WoolyCow.labelFemale>шерстяна корова</VFEV_WoolyCow.labelFemale>
+  <VFEV_WoolyCow.labelMale>шерстяний бик</VFEV_WoolyCow.labelMale>
+  <VFEV_WoolyCow.lifeStages.0.label>теля</VFEV_WoolyCow.lifeStages.0.label>
+  <VFEV_WoolyCow.lifeStages.0.labelPlural>телята</VFEV_WoolyCow.lifeStages.0.labelPlural>
+  <VFEV_WoolyCow.lifeStages.1.labelFemale>корівка</VFEV_WoolyCow.lifeStages.1.labelFemale>
+  <VFEV_WoolyCow.lifeStages.1.labelMale>бичок</VFEV_WoolyCow.lifeStages.1.labelMale>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Restless Raid< -->
+  <VFEV_NewClan.label>жадання слави</VFEV_NewClan.label>
+  <!-- EN: The gods have been merciful. After a long and tiring journey through the land, your raiding party discovers a small tribal settlement, ready for the taking. Whilst certainly posing a challenge, the loot that can be obtained is more than worth it, and the makeshift shelter will be excellent for upcoming winter.\n\nNote: Due to lack of resources and a tough enemy present on the map, this is a difficult scenario. -->
+  <VFEV_NewClan.description>Після довгих поневірянь цими землями, Боги виявили милосердя і вивели нас до поселення племені. Захоплення цього поселення, безумовно, стане викликом, але здобич того варта. До того ж їхні будинки послужать відмінним укриттям від зими, що наближається.\n\nУвага: через нестачу ресурсів і сильного ворога, який є на карті, це складний сценарій.</VFEV_NewClan.description>
+  <!-- EN: The gods have been merciful. After a long and tiring journey through the land, your raiding party discovers a small tribal settlement, ready for the taking. Whilst certainly posing a challenge, the loot that can be obtained is more than worth it, and the makeshift shelter will be excellent for upcoming winter.\n\nNote: Due to lack of resources and a tough enemy present on the map, this is a difficult scenario. -->
+  <VFEV_NewClan.scenario.description>Після довгих поневірянь цими землями, Боги виявили милосердя і вивели нас до поселення племені. Захоплення цього поселення, безумовно, стане викликом, але здобич того варта. До того ж їхні будинки послужать відмінним укриттям від зими, що наближається.\n\nУвага: через нестачу ресурсів і сильного ворога, який є на карті, це складний сценарій.</VFEV_NewClan.scenario.description>
+  <!-- EN: Restless Raid< -->
+  <VFEV_NewClan.scenario.name>Жадання слави</VFEV_NewClan.scenario.name>
+  <!-- EN: A group of raiders, ready to pillage a tribal settlement. Difficult. -->
+  <VFEV_NewClan.scenario.summary>Група нальотчиків, готових пограбувати поселення племені. Складний сценарій.</VFEV_NewClan.scenario.summary>
+</LanguageData>
