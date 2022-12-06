@@ -83,8 +83,8 @@
     <li>hunt->Chase</li>
   -->
   <VFEV_NjorunHunt.questNameRules.rulesStrings>
-    <li>questName(priority=1)->Полювання [asker_nameDef] на Нйоруна</li>
-    <li>questName->Полювання на Нйоруна</li>
+    <li>questName(priority=1)->Полювання [asker_nameDef] на Ньйоруна</li>
+    <li>questName->Полювання на Ньйоруна</li>
   </VFEV_NjorunHunt.questNameRules.rulesStrings>
 
   <!-- EN:     
@@ -93,22 +93,22 @@
     <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting some Njörun nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s thick leather and meat.\n\nA gigantic, ox-like creature of unknown origin. The njorun is wary by nature, traveling the planet in small herds and staying hidden from anyone who might wish it harm. Though docile, the beast is far too skittish to be tamed and is likely to retaliate if attacked.\n\n Legends say the njoruns are the result of breeding by long gone corporations in an attempt to create the perfect animal to breed for profits.</li>
   -->
   <VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->Ми перехопили повідомлення з місцезнаходженням Нйоруна, що розташувався неподалік [map_definite]. Він зупинився там надовго, але рано чи пізно рушить далі. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Нйорун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
-    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name] сообщает о Нйоруна неподалёку. Вони не планують полювати на звіра самі та кидають вам виклик: полювання на цього звіра. Якщо досягнете успіху, вас нагородять. Він зупинився там надовго, але рано чи пізно рушить далі. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Нйорун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
+    <li>questDescription(askerIsNull==true)->Ми перехопили повідомлення з місцезнаходженням Ньйоруна, що розташувався неподалік [map_definite]. Він зупинився там надовго, але рано чи пізно рушить далі. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Ньйорун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name] сообщает о Ньйоруна неподалёку. Вони не планують полювати на звіра самі та кидають вам виклик: полювання на цього звіра. Якщо досягнете успіху, вас нагородять. Він зупинився там надовго, але рано чи пізно рушить далі. Мы можем воспользоваться моментом, чтобы получить его прочную шкуру или жирное мясо.\n\nГигантское быкоподобное существо неизвестного происхождения, Ньйорун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</li>
   </VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
 
   <!-- EN: Quest expired: «[resolvedQuestName]» -->
   <VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>
   <!-- EN: The Njörun have been found by others. The quest «[resolvedQuestName]» has expired. -->
-  <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>Нйорун було знайдено кимось іншим. Завдання «[resolvedQuestName]» провалено.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
+  <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>Ньйорун було знайдено кимось іншим. Завдання «[resolvedQuestName]» провалено.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: «[resolvedQuestName]» -->
   <VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>Завдання провалено: «[resolvedQuestName]»</VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the Njörun fled. The quest «[resolvedQuestName]» has ended. -->
-  <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>После обнаружения, Нйорун втік. Завдання «[resolvedQuestName]» завершено.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
+  <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>После обнаружения, Ньйорун втік. Завдання «[resolvedQuestName]» завершено.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
   <VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>Оплата прибула</VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the Njörun!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Ви перемогли Нйоруна!\n\nПрибула оплата від фракції [asker_faction_name].</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
+  <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Ви перемогли Ньйоруна!\n\nПрибула оплата від фракції [asker_faction_name].</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->

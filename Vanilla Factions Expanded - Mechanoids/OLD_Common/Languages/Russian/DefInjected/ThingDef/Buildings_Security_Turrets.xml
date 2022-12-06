@@ -19,7 +19,7 @@
   <!-- EN: charge lance turret -->
   <VFE_Turret_AutoChargeLance.label>энергетическая турель</VFE_Turret_AutoChargeLance.label>
   <!-- EN: A highly accurate, albeit slightly weaker version of the charge lance mounted on a simple-minded turret. Targets in power armor still must be cautious, as a single lucky shot is still more than capable of piercing through plasteel carapace. -->
-  <VFE_Turret_AutoChargeLance.description>Высокоточная, хоть и менее мощная версия энергокопья, установленного на турель без полноценного ИИ. Эта турель представляет опасность даже для врагов в силовой броне. При должной удаче, один выстрел способен пробить их пласталевый панцирь.</VFE_Turret_AutoChargeLance.description>
+  <VFE_Turret_AutoChargeLance.description>Высокоточная, хоть и менее мощная версия энергокопья, установленного на турель без полноценного ИИ. Эта турель представляет опасность даже для врагов в силовой броне. При должной удаче, один выстрел способен пробить их пласталівий панцирь.</VFE_Turret_AutoChargeLance.description>
   <!-- EN: Battery level -->
   <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>Заряд батареи</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until out of battery -->

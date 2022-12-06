@@ -3,46 +3,45 @@
   <!-- EN: guardian armor -->
   <VFEV_Apparel_GuardianArmor.label>броня стража</VFEV_Apparel_GuardianArmor.label>
   <!-- EN: A heavy, metallic breastplate meant to provide warmth and protection to heavy infantry during battles in frigid tundras. Unfortunately, this armor leaves one slowed and more vulnerable to melee attacks. -->
-  <VFEV_Apparel_GuardianArmor.description>Тяжёлый металлический нагрудник, предназначенный для обеспечения тепла и защиты тяжёлой пехоты во время сражений в холодной тундре. К сожалению, он замедляет и делает более уязвимым к атакам ближнего боя.</VFEV_Apparel_GuardianArmor.description>
+  <VFEV_Apparel_GuardianArmor.description>Важкий металевий нагрудник, призначений для забезпечення тепла та захисту важкої піхоти під час битв у холодній тундрі. На жаль, він уповільнює та робить більш уразливим до атак ближнього бою.</VFEV_Apparel_GuardianArmor.description>
   
   <!-- EN: leather armor -->
-  <VFEV_LeatherArmor.label>кожаная броня</VFEV_LeatherArmor.label>
+  <VFEV_LeatherArmor.label>шкіряна броня</VFEV_LeatherArmor.label>
   <!-- EN: Flexible, medium-thickness leather armor made from squares of animal hide. Meant to be worn under a pelt cloak or parka, offers suitable protection for light combat without restricting movement, making it a favorite of archers and scouts. -->
-  <VFEV_LeatherArmor.description>Гибкая средняя кожаная броня, сделанная из кусочков шкур. Предназначена для ношения под меховым плащом или пуховиком. Обеспечивает приемлемую защиту для короткого боя и не ограничивает движений, что делает её хорошим выбором для лучников и разведчиков.</VFEV_LeatherArmor.description>
+  <VFEV_LeatherArmor.description>Гнучка шкіряна броня, зроблена зі шматочків шкур. Призначена для носіння під хутряним плащем або пуховиком. Забезпечує прийнятний захист для короткого бою і не обмежує рухів, що робить його хорошим вибором для лучників та розвідників.</VFEV_LeatherArmor.description>
   
   <!-- EN: ravager armor -->
-  <VFEV_Apparel_RavagerArmor.label>броня разорителя</VFEV_Apparel_RavagerArmor.label>
+  <VFEV_Apparel_RavagerArmor.label>броня розорювача</VFEV_Apparel_RavagerArmor.label>
   <!-- EN: Much heavier than its leather armor cousin, this armor is made much more carefully and tightly out of processed leathers. Intended to be worn by front-line troops and often accompanied by a shield. -->
-  <VFEV_Apparel_RavagerArmor.description>Гораздо тяжелее своего брата по конструкции  — кожаной брони. Эта броня делается тщательнее и из большего числа шкур. Рассчитана на ношение бойцами первой линии, преимущественно со щитами.</VFEV_Apparel_RavagerArmor.description>
+  <VFEV_Apparel_RavagerArmor.description>Набагато важче за свого брата за конструкцією — шкіряну броню. Ця броня робиться ретельніше і з більшої кількості шкір. Розрахована на носіння бійцями першої лінії, переважно із щитами.</VFEV_Apparel_RavagerArmor.description>
   
   <!-- EN: jarl cape -->
   <VFEV_Apparel_JarlCape.label>накидка ярла</VFEV_Apparel_JarlCape.label>
   <!-- EN: A painstakingly sewn cloak topped with a broad, furry mantle and ornate clasp. Satisfies even the highest ranks of royalty and offers surprising amounts of insulation, even down to the legs. -->
-  <VFEV_Apparel_JarlCape.description>Кропотливо сшитый плащ с широким меховым воротником и вычурной застёжкой. Подойдет даже самым высоким рангам знати и предложит удивительное качество термоизоляции до самых ног.</VFEV_Apparel_JarlCape.description>
+  <VFEV_Apparel_JarlCape.description>Ретельно зшитий плащ з широким хутряним коміром і химерною застібкою. Підійде навіть найвищим рангам знаті і надає дивовижну якість термоізоляції до самісіньких ніг.</VFEV_Apparel_JarlCape.description>
   
   <!-- EN: noble fur coat -->
-  <VFEV_Apparel_RoyalFurCoat.label>меховой плащ знати</VFEV_Apparel_RoyalFurCoat.label>
+  <VFEV_Apparel_RoyalFurCoat.label>хутряний плащ знаті</VFEV_Apparel_RoyalFurCoat.label>
   <!-- EN: An intently woven series of pelts then strapped together tightly with cured animal sinew, quite pleasing to wear even for nobility. -->
-  <VFEV_Apparel_RoyalFurCoat.description>Несколько тщательно сплетённых шкур, туго стянутых вместе с вяленными сухожилиями животных. Такой элемент одежды приятно носить даже знати.</VFEV_Apparel_RoyalFurCoat.description>
+  <VFEV_Apparel_RoyalFurCoat.description>Декілька ретельно сплетених шкур, туго стягнутих разом із в'яленими сухожиллями тварин. Такий елемент одягу приємно носити навіть знаті.</VFEV_Apparel_RoyalFurCoat.description>
   
   <!-- EN: crypto armor -->
   <VFEV_CryptoArmor.label>криптоброня</VFEV_CryptoArmor.label>
   <!-- EN: Low-powered plasteel carapace armor draped with an unknown but impossibly durable cloth sash affixed over one shoulder, the armor emits a low electrical hum and feels smooth to the touch. The power supply itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding. -->
-  <VFEV_CryptoArmor.description>Маломощная пласталевая панцирная броня с невероятно прочным воротником из неизвестной ткани, прикреплённым к одному плечу. Броня испускает низкий электрический гул и кажется гладкой на ощупь. Сам источник питания оснащён встроенной технологией криптосна и будет использовать стазис, чтобы замедлить кровотечение.</VFEV_CryptoArmor.description>
+  <VFEV_CryptoArmor.description>Відносно легка пласталева панцирна броня з неймовірно міцним коміром з невідомої тканини, прикріпленим до одного плеча. Броня випускає низький електричний гул і здається гладкою на дотик. Саме джерело живлення оснащене вбудованою технологією криптосну і використовуватиме стазис, щоб уповільнити кровотечу.</VFEV_CryptoArmor.description>
   
   <!-- EN: crypto heavy armor -->
-  <VFEV_CryptoHeavyArmor.label>тяжёлая криптоброня</VFEV_CryptoHeavyArmor.label>
+  <VFEV_CryptoHeavyArmor.label>важка криптоброня</VFEV_CryptoHeavyArmor.label>
   <!-- EN: Heavy, high-powered plasteel plate armor affixed with an unknown but impossibly durable cloth cowl, the armor emits a low electrical hum and feels smooth to the touch. The power supply itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding. -->
-  <VFEV_CryptoHeavyArmor.description>Мощная и тяжёлая пласталевая панцирная броня с невероятно прочным воротником из неизвестной ткани. Броня испускает низкий электрический гул и кажется гладкой на ощупь. Сам источник питания оснащён встроенной технологией криптосна и будет использовать стазис, чтобы замедлить кровотечение.</VFEV_CryptoHeavyArmor.description>
+  <VFEV_CryptoHeavyArmor.description>Важка пласталева панцирна броня з неймовірно міцним коміром з невідомої тканини, прикріпленим до одного плеча. Броня випускає низький електричний гул і здається гладкою на дотик. Саме джерело живлення оснащене вбудованою технологією криптосну і використовуватиме стазис, щоб уповільнити кровотечу.</VFEV_CryptoHeavyArmor.description>
   
   <!-- EN: crypto helmet -->
-  <VFEV_Apparel_CryptoLightHelmet.label>криптошлем</VFEV_Apparel_CryptoLightHelmet.label>
+  <VFEV_Apparel_CryptoLightHelmet.label>криптошолом</VFEV_Apparel_CryptoLightHelmet.label>
   <!-- EN: A lower-powered helmet with an unknown but impossibly durable cloth hood. It's theorized that either a long-lost or far-advanced civilizations scout troopers would adorn this helmet before recon missions during the mechanoid wars. The helmet itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding. -->
-  <VFEV_Apparel_CryptoLightHelmet.description>Маломощный пласталевый шлем с невероятно прочным капюшоном из неизвестной ткани. Существует теория, что шлем был разработан древними цивилизациями для разведчиков времён механоидных войн. Разведчики наносили на него боевой 
-   перед разведывательными миссиями. Шлем оснащён встроенной технологией криптосна и будет использовать стазис, чтобы замедлить кровотечение.</VFEV_Apparel_CryptoLightHelmet.description>
+  <VFEV_Apparel_CryptoLightHelmet.description>Відносно легка пласталевий шолом з неймовірно міцним капюшоном з невідомої тканини. Існує теорія, що шолом був розроблений давніми цивілізаціями для розвідників часів механоїдних воєн. Вони наносили на нього бойове розфарбування перед розвідувальними місіями. Шолом оснащений вбудованою технологією криптосна і використовуватиме стазис, щоб уповільнити кровотечу.</VFEV_Apparel_CryptoLightHelmet.description>
   
   <!-- EN: heavy crypto helmet -->
-  <VFEV_Apparel_CryptoHeavyHelmet.label>тяжёлый криптошлем</VFEV_Apparel_CryptoHeavyHelmet.label>
+  <VFEV_Apparel_CryptoHeavyHelmet.label>важкий криптошолом</VFEV_Apparel_CryptoHeavyHelmet.label>
   <!-- EN: A heavy, high-powered helmet complete with an embedded HUD system and diagnostics display. It's theorized that either a long-lost or far-advanced civilizations shock troopers would adorn this helmet before strike missions during the mechanoid wars. The helmet itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding. -->
-  <VFEV_Apparel_CryptoHeavyHelmet.description>Мощный и тяжёлый пласталевый шлем со встроенным дисплеем и диагностическим подсистемами. Существует теория, что шлем был разработан древними цивилизациями для штурмовиков времён механоидных войн. Штурмовики наносили на него боевой раскрас перед наступательными операциями. Шлем оснащён встроенной технологией криптосна и будет использовать стазис, чтобы замедлить кровотечение.</VFEV_Apparel_CryptoHeavyHelmet.description>
+  <VFEV_Apparel_CryptoHeavyHelmet.description>Потужний та важкий пласталевий шолом із вбудованим дисплеєм та діагностичним підсистемами. Існує теорія, що шолом був розроблений давніми цивілізаціями для воїнів часів механоїдних воєн. Вони наносили на нього бойове розфарбування перед розвідувальними місіями. Шолом оснащений вбудованою технологією криптосна і використовуватиме стазис, щоб уповільнити кровотечу.</VFEV_Apparel_CryptoHeavyHelmet.description>
 </LanguageData>

@@ -15,9 +15,9 @@
   <VFEV_Lothurr.lifeStages.1.label>молодий лодур</VFEV_Lothurr.lifeStages.1.label>
   
   <!-- EN: njorun -->
-  <VFEV_Njorun.label>нйорун</VFEV_Njorun.label>
-  <VFEV_Njorun.labelPlural>нйоруни</VFEV_Njorun.labelPlural>
-  <VFEV_Njorun.lifeStages.0.label>теля нйорун</VFEV_Njorun.lifeStages.0.label>
-  <VFEV_Njorun.lifeStages.0.labelPlural>телята нйорун</VFEV_Njorun.lifeStages.0.labelPlural>
-  <VFEV_Njorun.lifeStages.1.label>молодий нйорун</VFEV_Njorun.lifeStages.1.label>
+  <VFEV_Njorun.label>ньйорун</VFEV_Njorun.label>
+  <VFEV_Njorun.labelPlural>ньйоруни</VFEV_Njorun.labelPlural>
+  <VFEV_Njorun.lifeStages.0.label>теля ньйорун</VFEV_Njorun.lifeStages.0.label>
+  <VFEV_Njorun.lifeStages.0.labelPlural>телята ньйорун</VFEV_Njorun.lifeStages.0.labelPlural>
+  <VFEV_Njorun.lifeStages.1.label>молодий ньйорун</VFEV_Njorun.lifeStages.1.label>
 </LanguageData>

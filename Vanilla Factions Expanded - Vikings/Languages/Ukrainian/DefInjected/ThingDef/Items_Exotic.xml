@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: lothurr antler -->
-  <VFEV_LothurrAntler.label>рога Лоруда</VFEV_LothurrAntler.label>
+  <VFEV_LothurrAntler.label>роги Лоруда</VFEV_LothurrAntler.label>
   <!-- EN: An antler of a Lothurr. Incredibly heavy and priceless in most markets. This is a true trophy, as well as a deadly blunt weapon. -->
-  <VFEV_LothurrAntler.description>Рога Лодура. Невероятно тяжёлые и ценные. Это настоящий трофей, а также смертоносное оружие.</VFEV_LothurrAntler.description>
+  <VFEV_LothurrAntler.description>Роги Лодура. Неймовірно важкі та цінні. Це справжній трофей, а також смертоносна зброя.</VFEV_LothurrAntler.description>
   <!-- EN: edge -->
-  <VFEV_LothurrAntler.tools.edge.label>остриё</VFEV_LothurrAntler.tools.edge.label>
+  <VFEV_LothurrAntler.tools.edge.label>вістря</VFEV_LothurrAntler.tools.edge.label>
   <!-- EN: base -->
-  <VFEV_LothurrAntler.tools.base.label>основание</VFEV_LothurrAntler.tools.base.label>
+  <VFEV_LothurrAntler.tools.base.label>основа</VFEV_LothurrAntler.tools.base.label>
 </LanguageData>

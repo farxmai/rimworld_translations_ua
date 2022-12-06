@@ -3,17 +3,17 @@
   <!-- EN: fenrir -->
   <VFEV_Fenrir.label>фенрір</VFEV_Fenrir.label>
   <!-- EN: A gigantic, deadly wolf of unknown origin. The fenrir is aggressive by nature and extremely dangerous when enraged. Its fur and hide is incredibly resistant to damage and cold, while it's razor-sharp teeths can pierce even the best armour.\n\nLegends say that fenrir were bioengineered in ancient times for war and only follow the bravest leader's into combat. -->
-  <VFEV_Fenrir.description>Гигантский смертельно опасный волк неизвестного происхождения, Фенрір агрессивен по своей природе и чрезвычайно опасен, когда приходит в ярость. Его мех и шкура чрезвычайно устойчивы к повреждениям и холоду, а острые как бритва зубы способны пробить даже самую лучшую броню.\n\nЛегенды гласят, что фенріры были выведены для войн в древние времена и будут следовать в бой только за самым храбрым лидером.</VFEV_Fenrir.description>
+  <VFEV_Fenrir.description>Гігантський смертельно небезпечний вовк невідомого походження, Фенрір агресивний за своєю природою і надзвичайно небезпечний, коли лютує. Його хутро та шкура надзвичайно стійкі до пошкоджень та холоду, а гострі як бритва зуби здатні пробити навіть найкращу броню.\n\nЛегенди свідчать, що фенріри були виведені для воєн у давні часи і йтимуть у бій лише за найхоробрішим лідером.</VFEV_Fenrir.description>
   <!-- EN: left claw -->
-  <VFEV_Fenrir.tools.left_claw.label>левая лапа</VFEV_Fenrir.tools.left_claw.label>
+  <VFEV_Fenrir.tools.left_claw.label>ліва лапа</VFEV_Fenrir.tools.left_claw.label>
   <!-- EN: right claw -->
-  <VFEV_Fenrir.tools.right_claw.label>правая лапа</VFEV_Fenrir.tools.right_claw.label>
+  <VFEV_Fenrir.tools.right_claw.label>права лапа</VFEV_Fenrir.tools.right_claw.label>
   <!-- EN: head -->
   <VFEV_Fenrir.tools.head.label>голова</VFEV_Fenrir.tools.head.label>
 
-	<Corpse_VFEV_Fenrir.label>туша фенріра</Corpse_VFEV_Fenrir.label>
-  <Corpse_VFEV_Fenrir.description>Мёртвый Фенрір.</Corpse_VFEV_Fenrir.description>
-  <Meat_VFEV_Fenrir.label>мясо фенріра</Meat_VFEV_Fenrir.label>
+	<Corpse_VFEV_Fenrir.label>тіло фенріра</Corpse_VFEV_Fenrir.label>
+  <Corpse_VFEV_Fenrir.description>Мертвий Фенрір.</Corpse_VFEV_Fenrir.description>
+  <Meat_VFEV_Fenrir.label>м'ясо фенріра</Meat_VFEV_Fenrir.label>
   
   <!-- EN: lothurr -->
 	<VFEV_Lothurr.label>лодур</VFEV_Lothurr.label>
@@ -22,30 +22,30 @@
   <!-- EN: Locked -->
   <VFEV_Lothurr.tools.horns.label>рога</VFEV_Lothurr.tools.horns.label>
   <!-- EN: left foot -->
-	<VFEV_Lothurr.tools.left_foot.label>левая нога</VFEV_Lothurr.tools.left_foot.label>
+	<VFEV_Lothurr.tools.left_foot.label>ліва нога</VFEV_Lothurr.tools.left_foot.label>
   <!-- EN: right foot -->
-  <VFEV_Lothurr.tools.right_foot.label>правая нога</VFEV_Lothurr.tools.right_foot.label>
+  <VFEV_Lothurr.tools.right_foot.label>права нога</VFEV_Lothurr.tools.right_foot.label>
   <!-- EN: head -->
   <VFEV_Lothurr.tools.head.label>голова</VFEV_Lothurr.tools.head.label>
 
-	<Corpse_VFEV_Lothurr.label>туша лодура</Corpse_VFEV_Lothurr.label>
-  <Corpse_VFEV_Lothurr.description>Мёртвый Лодур.</Corpse_VFEV_Lothurr.description>
-  <Meat_VFEV_Lothurr.label>мясо лодура</Meat_VFEV_Lothurr.label>
+	<Corpse_VFEV_Lothurr.label>тіло лодура</Corpse_VFEV_Lothurr.label>
+  <Corpse_VFEV_Lothurr.description>Мертвий Лодур.</Corpse_VFEV_Lothurr.description>
+  <Meat_VFEV_Lothurr.label>м'ясо лодура</Meat_VFEV_Lothurr.label>
 
   <!-- EN: njorun -->
-	<VFEV_Njorun.label>ньёрун</VFEV_Njorun.label>
+	<VFEV_Njorun.label>ньйорун</VFEV_Njorun.label>
   <!-- EN: A gigantic, ox-like creature of unknown origin. The njorun is wary by nature, traveling the planet in small herds and staying hidden from anyone who might wish it harm. Though docile, the beast is far too skittish to be tamed and is likely to retaliate if attacked.\n\n Legends say the njoruns are the result of breeding by long gone corporations in an attempt to create the perfect animal to breed for profits. -->
-  <VFEV_Njorun.description>Гигантское быкоподобное существо неизвестного происхождения, Нйорун осторожен по своей природе и путешествует по планете небольшими стадами, прячась от любого, кто может представлять опасность. Несмотря на свою покорность, зверь слишком пуглив, чтобы его можно было приручить, и, вероятно, ответит, если на него нападут.\n\nЛегенды гласят, что ньёруны являются результатом экспериментов древних корпораций, пытавшихся создать идеальное животное для сельского хозяйства.</VFEV_Njorun.description>
+  <VFEV_Njorun.description>Гігантська бикоподібна істота невідомого походження, Ньйорун обережний за своєю природою і подорожує планетою невеликими стадами, ховаючись від будь-кого, хто може становити небезпеку. Незважаючи на свою покірність, звір надто лякливий, щоб його можна було приручити, і, ймовірно, відповість, якщо на нього нападуть.\n\nЛегенди свідчать, що нььйоруни є результатом експериментів стародавніх корпорацій, які намагалися створити ідеальну тварину для сільського господарства.</VFEV_Njorun.description>
   <!-- EN: horns -->
   <VFEV_Njorun.tools.horns.label>рога</VFEV_Njorun.tools.horns.label>
   <!-- EN: left foot -->
-	<VFEV_Njorun.tools.left_foot.label>левое копыто</VFEV_Njorun.tools.left_foot.label>
+	<VFEV_Njorun.tools.left_foot.label>ліве копито</VFEV_Njorun.tools.left_foot.label>
   <!-- EN: right foot -->
-  <VFEV_Njorun.tools.right_foot.label>правое копыто</VFEV_Njorun.tools.right_foot.label>
+  <VFEV_Njorun.tools.right_foot.label>праве копито</VFEV_Njorun.tools.right_foot.label>
   <!-- EN: head -->
   <VFEV_Njorun.tools.head.label>голова</VFEV_Njorun.tools.head.label>
 
-	<Corpse_VFEV_Njorun.label>туша ньёруна</Corpse_VFEV_Njorun.label>
-  <Corpse_VFEV_Njorun.description>Мёртвый ньёрун.</Corpse_VFEV_Njorun.description>
-  <Meat_VFEV_Njorun.label>мясо ньёруна</Meat_VFEV_Njorun.label>
+	<Corpse_VFEV_Njorun.label>тіло ньёруна</Corpse_VFEV_Njorun.label>
+  <Corpse_VFEV_Njorun.description>Мертвий ньёрун.</Corpse_VFEV_Njorun.description>
+  <Meat_VFEV_Njorun.label>м'ясо ньйоруна</Meat_VFEV_Njorun.label>
 </LanguageData>

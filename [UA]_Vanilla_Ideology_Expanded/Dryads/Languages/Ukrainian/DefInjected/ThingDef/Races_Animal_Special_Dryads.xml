@@ -5,9 +5,9 @@
   <!-- EN: An extremely easy-going caste of dryad which specializes in finding stone chunks. Absorbs minerals from the ground that help harden its carapace while leaving excessively large pieces aside.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <VDE_Dryad_Stonedigger.description>Каста дріад, що відрізняється особливо спокійним та радісним ставленням до життя. Її представники займаються пошуком кам'яних уламків. Вони поглинають знайдені маленькі шматочки мінералів і зміцнюють свій панцир, а надто великі залишають на землі.\n\nДріади - це звіроподібні істоти, що мають симбіотичні відносини з деревом Гауранлен. З його допомогою вони розмножуються, і в ньому знаходиться їхня королева. У дріад існує кілька каст, і вони можуть змінювати себе для переходу з однієї касти в іншу.</VDE_Dryad_Stonedigger.description>
   <!-- EN: left claw -->
-  <VDE_Dryad_Stonedigger.tools.0.label>левая лапа</VDE_Dryad_Stonedigger.tools.0.label>
+  <VDE_Dryad_Stonedigger.tools.0.label>ліва лапа</VDE_Dryad_Stonedigger.tools.0.label>
   <!-- EN: right claw -->
-  <VDE_Dryad_Stonedigger.tools.1.label>правая лапа</VDE_Dryad_Stonedigger.tools.1.label>
+  <VDE_Dryad_Stonedigger.tools.1.label>права лапа</VDE_Dryad_Stonedigger.tools.1.label>
   <!-- EN: head -->
   <VDE_Dryad_Stonedigger.tools.3.label>голова</VDE_Dryad_Stonedigger.tools.3.label>
 
@@ -16,9 +16,9 @@
   <!-- EN: A dryad caste specialized in territorialism and can launch ranged acid projectiles. Though it can dish out tremendous damage, it is vulnerable in melee due to its oversized mouth.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <VDE_Dryad_Spitter.description>Каста дріад, що займається охороною своєї території та плювками кислотою на далекі дистанції. Кислота надзвичайно небезпечна, але самі дріади вразливі у ближньому бою через свій великий ріт.\n\nДріади - це звіроподібні істоти, що мають симбіотичні відносини з деревом Гауранлен. З його допомогою вони розмножуються, і в ньому знаходиться їхня королева. У дріад існує кілька каст, і вони можуть змінювати себе для переходу з однієї касти в іншу.</VDE_Dryad_Spitter.description>
   <!-- EN: left claw -->
-  <VDE_Dryad_Spitter.tools.0.label>левая лапа</VDE_Dryad_Spitter.tools.0.label>
+  <VDE_Dryad_Spitter.tools.0.label>ліва лапа</VDE_Dryad_Spitter.tools.0.label>
   <!-- EN: right claw -->
-  <VDE_Dryad_Spitter.tools.1.label>правая лапа</VDE_Dryad_Spitter.tools.1.label>
+  <VDE_Dryad_Spitter.tools.1.label>права лапа</VDE_Dryad_Spitter.tools.1.label>
   <!-- EN: head -->
   <VDE_Dryad_Spitter.tools.3.label>голова</VDE_Dryad_Spitter.tools.3.label>
 
@@ -27,9 +27,9 @@
   <!-- EN: A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Gauranlen tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <VDE_Dryad_Gaubricmaker.description>Каста дріад, що виробляє вовняний, схожий на шкіру тварини, матеріал. Їх можна остригати так само, як і дерево Гауранлен, і отримувати м'який, красивий і теплий матеріал. Повільні і неефективні в роботі та в бою.\n\nДріади - це звіроподібні істоти, що мають симбіотичні відносини з деревом Гауранлен. З його допомогою вони розмножуються, і в ньому знаходиться їхня королева. У дріад існує кілька каст, і вони можуть змінювати себе для переходу з однієї касти в іншу.</VDE_Dryad_Gaubricmaker.description>
   <!-- EN: left claw -->
-  <VDE_Dryad_Gaubricmaker.tools.0.label>левая лапа</VDE_Dryad_Gaubricmaker.tools.0.label>
+  <VDE_Dryad_Gaubricmaker.tools.0.label>ліва лапа</VDE_Dryad_Gaubricmaker.tools.0.label>
   <!-- EN: right claw -->
-  <VDE_Dryad_Gaubricmaker.tools.1.label>правая лапа</VDE_Dryad_Gaubricmaker.tools.1.label>
+  <VDE_Dryad_Gaubricmaker.tools.1.label>права лапа</VDE_Dryad_Gaubricmaker.tools.1.label>
   <!-- EN: head -->
   <VDE_Dryad_Gaubricmaker.tools.3.label>голова</VDE_Dryad_Gaubricmaker.tools.3.label>
 
@@ -38,9 +38,9 @@
   <!-- EN: A curious dryad caste specialized in ambrosia production. Together with its Gauranlen tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <VDE_Dryad_Nectarmaker.description>Каста дріад, що виробляє амброзію. Повільні і неефективні в роботі та в бою.\n\nДріади - це звіроподібні істоти, що мають симбіотичні відносини з деревом Гауранлен. З його допомогою вони розмножуються, і в ньому знаходиться їхня королева. У дріад існує кілька каст, і вони можуть змінювати себе для переходу з однієї касти в іншу.</VDE_Dryad_Nectarmaker.description>
   <!-- EN: left claw -->
-  <VDE_Dryad_Nectarmaker.tools.0.label>левая лапа</VDE_Dryad_Nectarmaker.tools.0.label>
+  <VDE_Dryad_Nectarmaker.tools.0.label>ліва лапа</VDE_Dryad_Nectarmaker.tools.0.label>
   <!-- EN: right claw -->
-  <VDE_Dryad_Nectarmaker.tools.1.label>правая лапа</VDE_Dryad_Nectarmaker.tools.1.label>
+  <VDE_Dryad_Nectarmaker.tools.1.label>права лапа</VDE_Dryad_Nectarmaker.tools.1.label>
   <!-- EN: head -->
   <VDE_Dryad_Nectarmaker.tools.3.label>голова</VDE_Dryad_Nectarmaker.tools.3.label>
 </LanguageData>

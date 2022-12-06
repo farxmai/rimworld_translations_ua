@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: mead high -->
-  <VFEF_MeadAlcoholHigh.label>під медом</VFEF_MeadAlcoholHigh.label>
+  <VFEF_MeadAlcoholHigh.label>під медовухою</VFEF_MeadAlcoholHigh.label>
   <!-- EN: Mead in the bloodstream. It makes people happy, but reduces capacities. Slightly reduces psychic sensitivity. -->
   <VFEF_MeadAlcoholHigh.description>Мед у крові дає приємне відчуття сп'яніння, але знижає прцездатність та психічну чутливість.</VFEF_MeadAlcoholHigh.description>
   <!-- EN: a mead high -->
-  <VFEF_MeadAlcoholHigh.labelNoun>під медом</VFEF_MeadAlcoholHigh.labelNoun>
+  <VFEF_MeadAlcoholHigh.labelNoun>під медовухою</VFEF_MeadAlcoholHigh.labelNoun>
   <!-- EN: warm -->
   <VFEF_MeadAlcoholHigh.stages.warm.label>на підпитку</VFEF_MeadAlcoholHigh.stages.warm.label>
   <!-- EN: tipsy -->

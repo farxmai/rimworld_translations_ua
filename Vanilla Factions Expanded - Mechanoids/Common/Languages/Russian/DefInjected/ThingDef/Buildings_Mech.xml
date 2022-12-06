@@ -28,7 +28,7 @@
   <!-- EN: reactor -->
   <VFE_MechanoidReactor.label>реактор</VFE_MechanoidReactor.label>
   <!-- EN: A mechanoid power generation unit. The gigantic vanometric power core will run forever, extracting energy from quantum foam fluctuations. Despite the huge power output, effort has been made to stabilise it. If enough damage is dealt to the plasteel shell surrounding the core, a huge explosion will wipe out the local area. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidReactor.description>Механоидная энерговырабатывающая единица. Представляет из себя гигантское ванометрическое энергоядро, извлекающее энергию напрямую из флуктуаций квантовой пены. Несмотря на огромную мощность, оно было каким-то образом стабилизировано. Однако если пласталевая оболочка, окружающая ядро, получит достаточный урон, мощнейший взрыв уничтожит всё вокруг. Является частью большого корабля механоидов.</VFE_MechanoidReactor.description>
+  <VFE_MechanoidReactor.description>Механоидная энерговырабатывающая единица. Представляет из себя гигантское ванометрическое энергоядро, извлекающее энергию напрямую из флуктуаций квантовой пены. Несмотря на огромную мощность, оно было каким-то образом стабилизировано. Однако если пласталіва оболочка, окружающая ядро, получит достаточный урон, мощнейший взрыв уничтожит всё вокруг. Является частью большого корабля механоидов.</VFE_MechanoidReactor.description>
 
   <!-- EN: terraformer -->
   <VFE_MechanoidTerraformer.label>терраформер</VFE_MechanoidTerraformer.label>

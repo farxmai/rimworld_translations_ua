@@ -3,29 +3,29 @@
   <!-- EN: seax -->
   <VFE_MeleeWeapon_Seax.label>скрамасакс</VFE_MeleeWeapon_Seax.label>
   <!-- EN: A stout bladed weapon adapted for use among northern clans. Because it can be swung quite rapidly and easily, it is favored among those first learning swordsmanship. -->
-  <VFE_MeleeWeapon_Seax.description>Крепкое клинковое оружие, приспособленное для использования среди северных кланов. Поскольку им можно махать довольно быстро и легко, это оружие будет хорошим выбором для новичков в фехтовании.</VFE_MeleeWeapon_Seax.description>
+  <VFE_MeleeWeapon_Seax.description>Міцна клинкова зброя, пристосована для використання серед північних кланів. Оскільки їм можна махати досить швидко та легко, ця зброя буде гарним вибором для новачків у фехтуванні.</VFE_MeleeWeapon_Seax.description>
   <!-- EN: handle -->
   <VFE_MeleeWeapon_Seax.tools.handle.label>рукоять</VFE_MeleeWeapon_Seax.tools.handle.label>
   <!-- EN: point -->
-  <VFE_MeleeWeapon_Seax.tools.point.label>остриё</VFE_MeleeWeapon_Seax.tools.point.label>
+  <VFE_MeleeWeapon_Seax.tools.point.label>вістря</VFE_MeleeWeapon_Seax.tools.point.label>
   <!-- EN: edge -->
-  <VFE_MeleeWeapon_Seax.tools.edge.label>лезвие</VFE_MeleeWeapon_Seax.tools.edge.label>
+  <VFE_MeleeWeapon_Seax.tools.edge.label>лезо</VFE_MeleeWeapon_Seax.tools.edge.label>
   
   <!-- EN: bearded axe -->
-  <VFE_MeleeWeapon_BeardedAxe.label>бородатый топор</VFE_MeleeWeapon_BeardedAxe.label>
+  <VFE_MeleeWeapon_BeardedAxe.label>бородата сокира</VFE_MeleeWeapon_BeardedAxe.label>
   <!-- EN: A form of one of mankind's oldest weapons. The "beard" of the axe extends downwards, providing wider cutting edge.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
-  <VFE_MeleeWeapon_BeardedAxe.description>Разновидность одного из древнейших видов оружия. «Борода» топора выступает вниз, обеспечивая более широкую режущую кромку.\n\nОружие имеет шанс нанести критический удар, оглушив противника.</VFE_MeleeWeapon_BeardedAxe.description>
+  <VFE_MeleeWeapon_BeardedAxe.description>Різновид одного з найдавніших видів зброї. «Борода» сокири виступає вниз, забезпечуючи ширшу ріжучу кромку.\n\nЗброя має шанс завдати критичного удару, оглушивши противника.</VFE_MeleeWeapon_BeardedAxe.description>
   <!-- EN: handle -->
   <VFE_MeleeWeapon_BeardedAxe.tools.handle.label>рукоять</VFE_MeleeWeapon_BeardedAxe.tools.handle.label>
   <!-- EN: edge -->
-  <VFE_MeleeWeapon_BeardedAxe.tools.edge.label>лезвие</VFE_MeleeWeapon_BeardedAxe.tools.edge.label>
+  <VFE_MeleeWeapon_BeardedAxe.tools.edge.label>лезо</VFE_MeleeWeapon_BeardedAxe.tools.edge.label>
   
   <!-- EN: dane axe -->
-  <VFE_MeleeWeapon_DaneAxe.label>скандинавский топор</VFE_MeleeWeapon_DaneAxe.label>
+  <VFE_MeleeWeapon_DaneAxe.label>скандинавска сокира</VFE_MeleeWeapon_DaneAxe.label>
   <!-- EN: A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike. The axe edge extends into what's called horns, ideal for cutting through light armor and flesh alike.\n\nThis weapon has a chance to deal a critical strike, stunning the opponent. -->
-  <VFE_MeleeWeapon_DaneAxe.description>Могучее оружие, когда лежит в умелых руках. Одинаково хорошо рубит плоть и кости. Лезвие топора имеет «рога» на концах, позволяющие легче прорубаться сквозь лёгкую броню.\n\nОружие имеет шанс нанести критический удар, оглушив противника.</VFE_MeleeWeapon_DaneAxe.description>
+  <VFE_MeleeWeapon_DaneAxe.description>Могутня зброя, коли лежить у вмілих руках. Однаково добре рубає тіло та кістки. Лезо сокири має «роги» на кінцях, що дозволяють легше прорубуватися крізь легку броню.\n\nЗброя має шанс завдати критичного удару, оглушивши противника.</VFE_MeleeWeapon_DaneAxe.description>
   <!-- EN: handle -->
   <VFE_MeleeWeapon_DaneAxe.tools.handle.label>рукоять</VFE_MeleeWeapon_DaneAxe.tools.handle.label>
   <!-- EN: edge -->
-  <VFE_MeleeWeapon_DaneAxe.tools.edge.label>лезвие</VFE_MeleeWeapon_DaneAxe.tools.edge.label>
+  <VFE_MeleeWeapon_DaneAxe.tools.edge.label>лезо</VFE_MeleeWeapon_DaneAxe.tools.edge.label>
 </LanguageData>

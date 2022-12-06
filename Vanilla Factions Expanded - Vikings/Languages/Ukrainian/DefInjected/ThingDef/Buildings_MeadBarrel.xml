@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: mead fermenting barrel -->
-  <VFEV_MeadFermentingBarrel.label>бочка для брожения мёда</VFEV_MeadFermentingBarrel.label>
+  <VFEV_MeadFermentingBarrel.label>бочка для бродіння меду</VFEV_MeadFermentingBarrel.label>
   <!-- EN: A very simple barrel, held together with a series of mortise and tenon joints. -->
-  <VFEV_MeadFermentingBarrel.description>Очень простая бочка, скреплённая с помощью нескольких пазов и шипов.</VFEV_MeadFermentingBarrel.description>
+  <VFEV_MeadFermentingBarrel.description>Дуже проста бочка, скріплена за допомогою кількох пазів та шипів.</VFEV_MeadFermentingBarrel.description>
 </LanguageData>

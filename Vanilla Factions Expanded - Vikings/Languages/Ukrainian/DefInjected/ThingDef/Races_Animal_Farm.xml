@@ -1,21 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: wooly cow -->
-  <VFEV_WoolyCow.label>шерстистая корова</VFEV_WoolyCow.label>
+  <VFEV_WoolyCow.label>шерстиста корова</VFEV_WoolyCow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. This breed originates in the hilly areas and can be differentiated by long horns and a shaggy coat. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
-  <VFEV_WoolyCow.description>Крупные одомашненные коровы выводились в течении тысячелетий, чтобы производить огромное количество молока, мяса и кожи. Эта порода берёт своё начало в холмистой местности и может быть отличена по длинным рогам и мохнатой шерсти. Коровы очень мирные и никогда не будут искать мести. Большинство из них настолько одомашнились, что не смогут выжить в дикой природе.</VFEV_WoolyCow.description>
+  <VFEV_WoolyCow.description>Великі одомашнені корови виводилися протягом тисячоліть, щоб виробляти величезну кількість молока, м'яса та шкіри. Ця порода бере свій початок у горбистій місцевості і може бути впізнана по довгих рогах і волохатій вовні. Корови дуже мирні і ніколи не шукатимуть помсти. Більшість із них настільки одомашнилися, що не зможуть вижити у дикій природі.</VFEV_WoolyCow.description>
   <!-- EN: head -->
   <VFEV_WoolyCow.tools.head.label>голова</VFEV_WoolyCow.tools.head.label>
   <!-- EN: left hoof -->
-  <VFEV_WoolyCow.tools.left_hoof.label>левое копыто</VFEV_WoolyCow.tools.left_hoof.label>
+  <VFEV_WoolyCow.tools.left_hoof.label>ліве копито</VFEV_WoolyCow.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <VFEV_WoolyCow.tools.right_hoof.label>правое копыто</VFEV_WoolyCow.tools.right_hoof.label>
+  <VFEV_WoolyCow.tools.right_hoof.label>праве копито</VFEV_WoolyCow.tools.right_hoof.label>
 
-  <Corpse_VFEV_WoolyCow.label>туша шерстистой коровы</Corpse_VFEV_WoolyCow.label>
-  <Corpse_VFEV_WoolyCow.description>Мёртвая шерстистая корова.</Corpse_VFEV_WoolyCow.description>
+  <Corpse_VFEV_WoolyCow.label>тіло шерстистої корови</Corpse_VFEV_WoolyCow.label>
+  <Corpse_VFEV_WoolyCow.description>Мертва шерстиста корова.</Corpse_VFEV_WoolyCow.description>
+  
+  <!-- EN: Cow wool -->
+  <VFEV_WoolCow.label>коров'яча шерсть</VFEV_WoolCow.label>
+  <!-- EN: Cow's wool. It provides good insulation. -->
+  <VFEV_WoolCow.description>Коров'яча шерсть. Добре зігріває.</VFEV_WoolCow.description>
+  <VFEV_WoolCow.stuffProps.stuffAdjective>коров'ячої шерсті</VFEV_WoolCow.stuffProps.stuffAdjective>
 
-  <!-- EN: cow wool -->
-  <VFEV_WoolCow.label>шерсть коровы</VFEV_WoolCow.label>
-  <!-- EN: Cow's wool. It provides a decent amount of insulation. -->
-  <VFEV_WoolCow.description>Коровья шерсть. Она обеспечивает хорошее качество изоляции.</VFEV_WoolCow.description>
 </LanguageData>
