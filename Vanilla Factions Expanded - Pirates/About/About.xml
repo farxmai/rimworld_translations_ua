@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Русский язык для Vanilla Factions Expanded - Pirates</name>
-  <author>OliveWizard</author>
+  <name>Українська мова для Vanilla Factions Expanded - Pirates [UA]</name>
+  <author>Farxmai2</author>
   <supportedVersions>
     <li>1.3</li>
     <li>1.4</li>
   </supportedVersions>
-  <packageId>OW.RU.Pirates</packageId>
-  <description>Перевод на русский язык мода Vanilla Factions Expanded - Pirates.</description>
+  <packageId>Farxmai2.VanillaFactionsExpandedPirates.UA</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2897706157</url>
+  <description>Переклад українською мовою Vanilla Factions Expanded - Pirates, та декількох аддонів.</description>
   <modDependencies>
     <li>
       <packageId>OskarPotocki.VFE.Pirates</packageId>
@@ -24,7 +25,4 @@
     <li>OskarPotocki.VFE.Insectoid</li>
     <li>OskarPotocki.VFE.Vikings</li>
   </loadAfter>
-  <incompatibleWith>
-		<li>gekasid.OskarPotocki.VFE.Pirates.rus</li>
-	</incompatibleWith>
 </ModMetaData>
