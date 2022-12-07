@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>UA Dubs Mods</name>
+  <name>Українська мова для Dubs Mods [UA]</name>
   <author>Farxmai2</author>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
   <packageId>Farxmai2.DubsMods.UA</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2886928970</url>
   <description>Переклад українською мовою модів від Dubwise:
     
     Dubs Mint Menus

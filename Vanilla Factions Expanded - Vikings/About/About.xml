@@ -7,7 +7,8 @@
     <li>1.4</li>
   </supportedVersions>
   <packageId>Farxmai2.VanillaFactionsExpandedVikings.UA</packageId>
-  <description>Переклад українською мовою Vanilla Factions Expanded - Vikings, та декількох аддонів.</description>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2898515264</url>
+  <description>Переклад українською мовою Vanilla Factions Expanded - Vikings.</description>
   <modDependencies>
     <li>
       <packageId>OskarPotocki.VFE.Vikings</packageId>
