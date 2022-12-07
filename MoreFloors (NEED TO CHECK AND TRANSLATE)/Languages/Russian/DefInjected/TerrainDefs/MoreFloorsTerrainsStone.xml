@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-<!-- Square slab flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Square slab flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneSlabsSandstone.label>Плита из песчаника</FloorStoneSlabsSandstone.label>
   <FloorStoneSlabsGranite.label>Гранитная плита</FloorStoneSlabsGranite.label>
@@ -10,14 +10,14 @@
   <FloorStoneSlabsSlate.label>Сланцевая плита</FloorStoneSlabsSlate.label>
   <FloorStoneSlabsMarble.label>Мраморная плита</FloorStoneSlabsMarble.label>
 
-    <FloorStoneSlabsSandstone.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsSandstone.description>
-   <FloorStoneSlabsGranite.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsGranite.description>
-   <FloorStoneSlabsLimestone.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsLimestone.description>
-   <FloorStoneSlabsSlate.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsSlate.description>
-   <FloorStoneSlabsMarble.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsMarble.description>
+  <FloorStoneSlabsSandstone.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsSandstone.description>
+  <FloorStoneSlabsGranite.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsGranite.description>
+  <FloorStoneSlabsLimestone.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsLimestone.description>
+  <FloorStoneSlabsSlate.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsSlate.description>
+  <FloorStoneSlabsMarble.description>Каменный пол с неприметными плитами. Простота сборки и функциональность.</FloorStoneSlabsMarble.description>
 
-<!-- Rough stone flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Rough stone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneRoughSandstone.label>Грубый тротуар из песчаника</FloorStoneRoughSandstone.label>
   <FloorStoneRoughGranite.label>Грубый тротуар из гранита</FloorStoneRoughGranite.label>
@@ -31,8 +31,8 @@
   <FloorStoneRoughSlate.description>Грубое покрытие, которое можно построить из очень небольшого количества камня, но оно требует больше рабочего времени и выглядит довольно нейтрально.</FloorStoneRoughSlate.description>
   <FloorStoneRoughMarble.description>Грубое покрытие, которое можно построить из очень небольшого количества камня, но оно требует больше рабочего времени и выглядит довольно нейтрально.</FloorStoneRoughMarble.description>
 
-<!-- Hexagonal flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Hexagonal flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneHexSandstone.label>Гексагонная плитка (песчаник)</FloorStoneHexSandstone.label>
   <FloorStoneHexGranite.label>Гексагонная плитка (гранит)</FloorStoneHexGranite.label>
@@ -46,8 +46,8 @@
   <FloorStoneHexSlate.description>Каменная мостовая с красивым шестиугольным узором.</FloorStoneHexSlate.description>
   <FloorStoneHexMarble.description>Каменная мостовая с красивым шестиугольным узором.</FloorStoneHexMarble.description>
 
-<!-- Mosaic flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Mosaic flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneMosaicSandstone.label>Мозаичная плитка (песчаник)</FloorStoneMosaicSandstone.label>
   <FloorStoneMosaicGranite.label>Мозаичная плитка (гранит)</FloorStoneMosaicGranite.label>
@@ -61,8 +61,8 @@
   <FloorStoneMosaicSlate.description>Мощеный каменный пол с красивым мозаичным рисунком.</FloorStoneMosaicSlate.description>
   <FloorStoneMosaicMarble.description>Мощеный каменный пол с красивым мозаичным рисунком.</FloorStoneMosaicMarble.description>
 
-<!-- Diamond flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Diamond flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneDiamondSandstone.label>Ромбовидная плитка (песчаник)</FloorStoneDiamondSandstone.label>
   <FloorStoneDiamondGranite.label>Ромбовидная плитка (гранит)</FloorStoneDiamondGranite.label>
@@ -76,8 +76,8 @@
   <FloorStoneDiamondSlate.description>Мощеный каменный пол с красивым ромбовидным рисунком.</FloorStoneDiamondSlate.description>
   <FloorStoneDiamondMarble.description>Мощеный каменный пол с красивым ромбовидным рисунком.</FloorStoneDiamondMarble.description>
 
-<!-- Arabesque flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Arabesque flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneArabesqueSandstone.label>Арабеска плитка (песчаник)</FloorStoneArabesqueSandstone.label>
   <FloorStoneArabesqueGranite.label>Арабеска плитка (гранит)</FloorStoneArabesqueGranite.label>
@@ -91,8 +91,8 @@
   <FloorStoneArabesqueSlate.description>Мощеный каменный пол с красивым рисунком в арабском стиле.</FloorStoneArabesqueSlate.description>
   <FloorStoneArabesqueMarble.description>Мощеный каменный пол с красивым рисунком в арабском стиле.</FloorStoneArabesqueMarble.description>
 
-<!-- Digital flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Digital flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneDigitalSandstone.label>Диджитал плитка (песчаник)</FloorStoneDigitalSandstone.label>
   <FloorStoneDigitalGranite.label>Диджитал плитка (гранит)</FloorStoneDigitalGranite.label>
@@ -106,8 +106,8 @@
   <FloorStoneDigitalSlate.description>Мощеный каменный пол с красивым футуристичным изображением.</FloorStoneDigitalSlate.description>
   <FloorStoneDigitalMarble.description>Мощеный каменный пол с красивым футуристичным изображением.</FloorStoneDigitalMarble.description>
 
-<!-- Herringbone flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Herringbone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneHerringboneSandstone.label>Плитка елочкой (песчаник)</FloorStoneHerringboneSandstone.label>
   <FloorStoneHerringboneGranite.label>Плитка елочкой (гранит)</FloorStoneHerringboneGranite.label>
@@ -121,8 +121,8 @@
   <FloorStoneHerringboneSlate.description>Мощеный каменный пол с узором в виде елочки</FloorStoneHerringboneSlate.description>
   <FloorStoneHerringboneMarble.description>Мощеный каменный пол с узором в виде елочки</FloorStoneHerringboneMarble.description>
 
-<!-- Alternating flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Alternating flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneAlternatingSandstone.label>Чередующаяся плитка (песчаник)</FloorStoneAlternatingSandstone.label>
   <FloorStoneAlternatingGranite.label>Чередующаяся плитка (гранит)</FloorStoneAlternatingGranite.label>
@@ -136,8 +136,8 @@
   <FloorStoneAlternatingSlate.description>Мощеный каменный пол с узором в виде парных перпендикулярных плиток</FloorStoneAlternatingSlate.description>
   <FloorStoneAlternatingMarble.description>Мощеный каменный пол с узором в виде парных перпендикулярных плиток</FloorStoneAlternatingMarble.description>
 
-<!-- Staggered flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Staggered flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneStaggeredSandstone.label>Шахматная плитка (песчаник)</FloorStoneStaggeredSandstone.label>
   <FloorStoneStaggeredGranite.label>шахматная плитка (гранит)</FloorStoneStaggeredGranite.label>
@@ -151,8 +151,8 @@
   <FloorStoneStaggeredSlate.description>Мощеный каменный пол с простым сдвигающимся узором</FloorStoneStaggeredSlate.description>
   <FloorStoneStaggeredMarble.description>Мощеный каменный пол с простым сдвигающимся узором</FloorStoneStaggeredMarble.description>
 
-<!-- Random stone flooring -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- Random stone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
   <FloorStoneRandomSandstone.label>Хаотичная плитка (песчаник)</FloorStoneRandomSandstone.label>
   <FloorStoneRandomGranite.label>Хаотичная плитка (гранит)</FloorStoneRandomGranite.label>
@@ -165,23 +165,23 @@
   <FloorStoneRandomLimestone.description>Тщательно уложенный каменный пол с произвольным рисунком плитки. Требует меньше материалов, чем мозаичный пол, но его сложнее укладывать.</FloorStoneRandomLimestone.description>
   <FloorStoneRandomSlate.description>Тщательно уложенный каменный пол с произвольным рисунком плитки. Требует меньше материалов, чем мозаичный пол, но его сложнее укладывать.</FloorStoneRandomSlate.description>
   <FloorStoneRandomMarble.description>Тщательно уложенный каменный пол с произвольным рисунком плитки. Требует меньше материалов, чем мозаичный пол, но его сложнее укладывать.</FloorStoneRandomMarble.description>
-  
-<!-- Chequered floors -->
-<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
-  <FloorStoneChequeredSandstone.label>Средняя плитка (песчаник)</FloorStoneChequeredSandstone.label>
+  <!-- Chequered floors -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <FloorStoneChequeredSandstone.label>середня плитка (песчаник)</FloorStoneChequeredSandstone.label>
   <FloorStoneChequeredSandstone.description>Квадратная плитка состоящая из небольших одинаковых каменных блоков. Проще в производстве чем аналоги.</FloorStoneChequeredSandstone.description>
 
-  <FloorStoneChequeredGranite.label>Средняя плитка (гранит)</FloorStoneChequeredGranite.label>
+  <FloorStoneChequeredGranite.label>середня плитка (гранит)</FloorStoneChequeredGranite.label>
   <FloorStoneChequeredGranite.description>Квадратная плитка состоящая из небольших одинаковых каменных блоков. Проще в производстве чем аналоги.</FloorStoneChequeredGranite.description>
 
-  <FloorStoneChequeredLimestone.label>Средняя плитка (известняк)</FloorStoneChequeredLimestone.label>
+  <FloorStoneChequeredLimestone.label>середня плитка (известняк)</FloorStoneChequeredLimestone.label>
   <FloorStoneChequeredLimestone.description>Квадратная плитка состоящая из небольших одинаковых каменных блоков. Проще в производстве чем аналоги.</FloorStoneChequeredLimestone.description>
 
-  <FloorStoneChequeredSlate.label>Средняя плитка (сланец)</FloorStoneChequeredSlate.label>
+  <FloorStoneChequeredSlate.label>середня плитка (сланец)</FloorStoneChequeredSlate.label>
   <FloorStoneChequeredSlate.description>Квадратная плитка состоящая из небольших одинаковых каменных блоков. Проще в производстве чем аналоги.</FloorStoneChequeredSlate.description>
 
-  <FloorStoneChequeredMarble.label>Средняя плитка (мрамор)</FloorStoneChequeredMarble.label>
+  <FloorStoneChequeredMarble.label>середня плитка (мрамор)</FloorStoneChequeredMarble.label>
   <FloorStoneChequeredMarble.description>Квадратная плитка состоящая из небольших одинаковых каменных блоков. Проще в производстве чем аналоги.</FloorStoneChequeredMarble.description>
 
   <FloorStoneChequerMarbleSlate.label>Мраморно-сланцевая плитка</FloorStoneChequerMarbleSlate.label>

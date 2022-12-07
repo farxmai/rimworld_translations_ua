@@ -19,7 +19,7 @@
   <VFEI_BurrowSmall.description>Нора, ведущая к сети тоннелей насекомых. До тех пор, пока её не уничтожат, будет порождать время от времени волны инсектоидов низших каст.</VFEI_BurrowSmall.description>
 
   <!-- EN: medium burrow -->
-  <VFEI_BurrowMedium.label>средняя нора</VFEI_BurrowMedium.label>
+  <VFEI_BurrowMedium.label>середня нора</VFEI_BurrowMedium.label>
   <!-- EN: A burrow leading to a web of insectoid tunnels. It will periodically spawn waves of higher castes of insects until destroyed. -->
   <VFEI_BurrowMedium.description>Нора, ведущая к сети тоннелей насекомых. До тех пор, пока её не уничтожат, будет порождать время от времени волны инсектоидов высших каст.</VFEI_BurrowMedium.description>
 

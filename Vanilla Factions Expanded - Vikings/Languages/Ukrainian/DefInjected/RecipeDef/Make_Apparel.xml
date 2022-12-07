@@ -12,6 +12,10 @@
   <Make_VFEV_Apparel_JarlCape.description>Зробити накидку ярла.</Make_VFEV_Apparel_JarlCape.description>
   <Make_VFEV_Apparel_JarlCape.jobString>виготовляє накидку ярла</Make_VFEV_Apparel_JarlCape.jobString>
 
+  <Make_VFEV_JarlCrown.label>зробити корону ярла</Make_VFEV_JarlCrown.label>
+  <Make_VFEV_JarlCrown.description>Зробити корону ярла.</Make_VFEV_JarlCrown.description>
+  <Make_VFEV_JarlCrown.jobString>виготовляє корону ярла</Make_VFEV_JarlCrown.jobString>
+
   <Make_VFEV_Apparel_GuardianArmor.label>зробити броню стража</Make_VFEV_Apparel_GuardianArmor.label>
   <Make_VFEV_Apparel_GuardianArmor.description>Зробити броню стража.</Make_VFEV_Apparel_GuardianArmor.description>
   <Make_VFEV_Apparel_GuardianArmor.jobString>виготовляє броню стража</Make_VFEV_Apparel_GuardianArmor.jobString>
@@ -24,7 +28,7 @@
   <Make_VFEV_Apparel_RavagerArmor.description>Зробити броню розорювача.</Make_VFEV_Apparel_RavagerArmor.description>
   <Make_VFEV_Apparel_RavagerArmor.jobString>виготовляє броню розорювача</Make_VFEV_Apparel_RavagerArmor.jobString>
 
-  <Make_VFEV_Apparel_RoyalFurCoat.label>зробити хутряний плащ знаті</Make_VFEV_Apparel_RoyalFurCoat.label>
-  <Make_VFEV_Apparel_RoyalFurCoat.description>Зробити хутряний плащ знаті.</Make_VFEV_Apparel_RoyalFurCoat.description>
-  <Make_VFEV_Apparel_RoyalFurCoat.jobString>виготовляє хутряний плащ знаті</Make_VFEV_Apparel_RoyalFurCoat.jobString>
+  <Make_VFEV_Apparel_RoyalFurCoat.label>зробити хутряну накидку знаті</Make_VFEV_Apparel_RoyalFurCoat.label>
+  <Make_VFEV_Apparel_RoyalFurCoat.description>Зробити хутряну накидку знаті.</Make_VFEV_Apparel_RoyalFurCoat.description>
+  <Make_VFEV_Apparel_RoyalFurCoat.jobString>виготовляє хутряну накидку знаті</Make_VFEV_Apparel_RoyalFurCoat.jobString>
 </LanguageData>

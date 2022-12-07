@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BecameLover.label>любовь</BecameLover.label>
+  <BecameLover.label>любов</BecameLover.label>
   <BecameLover.rulePack.rulesStrings>
-    <li>tale_noun->как [PURSUER_nameDef] и [ACCEPTER_nameDef] стали любовниками</li>
-    <li>image->, как [PURSUER_nameFull] шепчет сладкие пустяки в ухо [ACCEPTER_nameFull][circumstance_phrase]</li>
-    <li>image->, как [PURSUER_nameFull] ведёт [ACCEPTER_nameFull] за руку к кровати[circumstance_phrase]</li>
-    <li>image->, как [PURSUER_nameFull] резвится в кровати с [ACCEPTER_nameFull][circumstance_phrase]</li>
-    <li>image->, как [PURSUER_nameFull] горячо целует [ACCEPTER_nameFull][circumstance_phrase]</li>
-    <li>circumstance_phrase->[empty] на неправдоподобно большой кровати</li>
-    <li>circumstance_phrase->[empty] между одеял</li>
-    <li>circumstance_phrase->[empty] практически без одежды</li>
-    <li>circumstance_phrase->, оба покрыты потом</li>
-    <li>desc_sentence->[PURSUER_nameDef] прижимается к [ACCEPTER_nameDef].</li>
-    <li>desc_sentence->[PURSUER_nameDef] не отрываясь глядит на [ACCEPTER_nameDef].</li>
-    <li>desc_sentence->[PURSUER_nameDef] посылает воздушный поцелуй [ACCEPTER_nameDef].</li>
-    <li>desc_sentence->[PURSUER_nameDef] стилистически изображается неотрывно от [ACCEPTER_nameDef].</li>
-    <li>desc_sentence->[PURSUER_nameDef] словно зеркальное отражение [ACCEPTER_nameDef].</li>
-    <li>desc_sentence->[PURSUER_nameDef] настойчиво прикасается к [ACCEPTER_nameDef].</li>
+    <li>tale_noun->як [PURSUER_nameDef] і [ACCEPTER_nameDef] стали коханцями</li>
+    <li>image->, як [PURSUER_nameFull] шепоче солодкі дрібниці на вухо [ACCEPTER_nameFull][circumstance_phrase]</li>
+    <li>image->, як [PURSUER_nameFull] веде [ACCEPTER_nameFull] за руку до ліжка[circumstance_phrase]</li>
+    <li>image->, як [PURSUER_nameFull] веселиться в ліжку з [ACCEPTER_nameFull][circumstance_phrase]</li>
+    <li>image->, як [PURSUER_nameFull] гаряче цілує [ACCEPTER_nameFull][circumstance_phrase]</li>
+    <li>circumstance_phrase->[empty] на неправдоподібно великому ліжку</li>
+    <li>circumstance_phrase->[empty] між ковдр</li>
+    <li>circumstance_phrase->[empty] практично без одягу</li>
+    <li>circumstance_phrase->, обидва сильно спітніли</li>
+    <li>desc_sentence->[PURSUER_nameDef] притискається до [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] не відриваючись дивиться на [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] посилає повітряний поцілунок [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] стилістично зображується невідривно від [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] немов дзеркальне відображення [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] наполегливо торкається [ACCEPTER_nameDef].</li>
   </BecameLover.rulePack.rulesStrings>
-  
-  <BondedWithAnimal.label>возникла привязанность</BondedWithAnimal.label>
+
+  <BondedWithAnimal.label>виникла прихильність</BondedWithAnimal.label>
   <BondedWithAnimal.rulePack.rulesStrings>
-    <li>tale_noun->как [ANIMAL_nameDef] привязался к [HUMAN_nameDef]</li>
-    <li>image->[ANIMAL_nameFull] и [HUMAN_nameDef], между которыми возникает привязанность[circumstance_phrase]</li>
-    <li>image->[HUMAN_nameFull] и [ANIMAL_nameFull], между которыми возникает глубокая привязанность[circumstance_phrase]</li>
-    <li>image->, как [HUMAN_nameFull] осознаёт, что [PAWN_pronoun] любит [ANIMAL_nameFull][circumstance_phrase]</li>
-    <li>circumstance_phrase->, пока другие животные смотрят на них</li>
-    <li>circumstance_phrase->. [HUMAN_nameDef] глядит глубоко в [ANIMAL_possessive] глаза</li>
-    <li>circumstance_phrase->. [HUMAN_nameDef] чувствует удовлетворение</li>
-    <li>desc_sentence->[ANIMAL_nameDef] прижимается к [HUMAN_nameDef].</li>
-    <li>desc_sentence->животное, [ANIMAL_nameDef], выглядит сонным и опьянённым от любви.</li>
-    <li>desc_sentence->[ANIMAL_nameDef] не роняет достоинства и выглядит величественно.</li>
-    <li>desc_sentence->[ANIMAL_nameDef] отвечает взаимной любовью.</li>
+    <li>tale_noun->як [ANIMAL_nameDef] прив'язався до [HUMAN_nameDef]</li>
+    <li>image->[ANIMAL_nameFull] і [HUMAN_nameDef], між якими виникає прихильність [circumstance_phrase]</li>
+    <li>image->[HUMAN_nameFull] і [ANIMAL_nameFull], між якими виникає глибока прихильність[circumstance_phrase]</li>
+    <li>image->, як [HUMAN_nameFull] усвідомлює, що [PAWN_pronoun] любить [ANIMAL_nameFull][circumstance_phrase]</li>
+    <li>circumstance_phrase->, поки інші тварини дивляться на них</li>
+    <li>circumstance_phrase->. [HUMAN_nameDef] дивиться глибоко в [ANIMAL_possessive] очі</li>
+    <li>circumstance_phrase->. [HUMAN_nameDef] відчуває задоволення</li>
+    <li>desc_sentence->[ANIMAL_nameDef] притискається до [HUMAN_nameDef].</li>
+    <li>desc_sentence->тварина, [ANIMAL_nameDef], виглядає сонною та п'яною від кохання.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] не упускає переваги і виглядає велично.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] відповідає взаємним коханням.</li>
   </BondedWithAnimal.rulePack.rulesStrings>
-  
-  <Breakup.label>расставание</Breakup.label>
+
+  <Breakup.label>розставання</Breakup.label>
   <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->как расстались [DUMPER_nameDef] и [REJECTED_nameDef]</li>
-    <li>image->, как [DUMPER_nameFull] усаживает [REJECTED_nameFull] для неприятного разговора[circumstance_phrase]</li>
-    <li>image->, как [DUMPER_nameFull] отдаляется от [REJECTED_nameFull][circumstance_phrase]</li>
-    <li>image->, как [DUMPER_nameFull] выталкивает [REJECTED_nameFull] из кровати[circumstance_phrase]</li>
-    <li>image->, как [DUMPER_nameFull] отвергает объятия [REJECTED_nameFull][circumstance_phrase]</li>
-    <li>circumstance_phrase->[empty] в момент великой печали</li>
-    <li>circumstance_phrase->, пока другие неловко отворачиваются</li>
-    <li>circumstance_phrase->, пока другие смотрят</li>
-    <li>desc_sentence->[REJECTED_nameDef] безудержно рыдает.</li>
-    <li>desc_sentence->[REJECTED_nameDef] одновременно насмехается и плачет.</li>
-    <li>desc_sentence->[REJECTED_nameDef] пребывает в удивлении.</li>
-    <li>desc_sentence->[DUMPER_nameDef] стилистически изображается отдельно от [REJECTED_nameDef].</li>
-    <li>desc_sentence->[REJECTED_nameDef], рыдая, падает на пол.</li>
-    <li>desc_sentence->[REJECTED_nameDef] злобно жестикулирует, указывая на [DUMPER_nameDef]</li>
+    <li>tale_noun->як розлучилися [DUMPER_nameDef] і [REJECTED_nameDef]</li>
+    <li>image->, як [DUMPER_nameFull] усаджує [REJECTED_nameFull] для неприємної розмови[circumstance_phrase]</li>
+    <li>image->, як [DUMPER_nameFull] віддаляється від [REJECTED_nameFull][circumstance_phrase]</li>
+    <li>image->, як [DUMPER_nameFull] виштовхує [REJECTED_nameFull] из кровати[circumstance_phrase]</li>
+    <li>image->, як [DUMPER_nameFull] відкидає обійми[REJECTED_nameFull][circumstance_phrase]</li>
+    <li>circumstance_phrase->[empty] у момент великого смуткуи</li>
+    <li>circumstance_phrase->, поки інші ніяково відвертаються</li>
+    <li>circumstance_phrase->, поки інші дивляться</li>
+    <li>desc_sentence->[REJECTED_nameDef] нестримно ридає.</li>
+    <li>desc_sentence->[REJECTED_nameDef] одночасно насміхається і плаче.</li>
+    <li>desc_sentence->[REJECTED_nameDef] перебуває в здивуванні.</li>
+    <li>desc_sentence->[DUMPER_nameDef] стилістично зображується окремо від [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef], ридаючи, падає на підлогу.</li>
+    <li>desc_sentence->[REJECTED_nameDef] сердито жестикулює, вказуючи на [DUMPER_nameDef]</li>
   </Breakup.rulePack.rulesStrings>
-  
-  <Marriage.label>свадьба</Marriage.label>
+
+  <Marriage.label>весілля</Marriage.label>
   <Marriage.rulePack.rulesStrings>
-    <li>tale_noun->как поженились [SPOUSE1_nameDef] и [SPOUSE2_nameDef]</li>
-    <li>image->, как [SPOUSE1_nameFull][circumstance_phrase] связывает себя узами брака с [SPOUSE2_nameFull]</li>
-    <li>image->, как [SPOUSE1_nameFull][circumstance_phrase] говорит свою свадебную клятву [SPOUSE2_nameFull]</li>
-    <li>image->, как [SPOUSE1_nameFull][circumstance_phrase] проходит к алтарю с [SPOUSE2_nameFull]</li>
-    <li>image->, как [SPOUSE1_nameFull][circumstance_phrase] держится за руки с [SPOUSE2_nameFull] во время свадебной церемонии</li>
-    <li>circumstance_phrase->[empty] торжественно и величаво</li>
-    <li>circumstance_phrase->, радостно смеясь,</li>
-    <li>circumstance_phrase->, пока другие смотрят с торжественным видом,</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] прижимается к [SPOUSE2_nameDef].</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] не отрываясь глядит на [SPOUSE2_nameDef].</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] посылает воздушный поцелуй [SPOUSE2_nameDef].</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] стилистически изображается неотрывно от [SPOUSE2_nameDef].</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] словно зеркальное отражение [SPOUSE2_nameDef].</li>
-    <li>desc_sentence->[SPOUSE1_nameDef] настойчиво прикасается к [SPOUSE2_nameDef].</li>
+    <li>tale_noun->як одружилися [SPOUSE1_nameDef] і [SPOUSE2_nameDef]</li>
+    <li>image->, як [SPOUSE1_nameFull][circumstance_phrase] пов'язує себе узами шлюбу з[SPOUSE2_nameFull]</li>
+    <li>image->, як [SPOUSE1_nameFull][circumstance_phrase] каже свою весільну клятву [SPOUSE2_nameFull]</li>
+    <li>image->, як [SPOUSE1_nameFull][circumstance_phrase] проходить до вівтаря з [SPOUSE2_nameFull]</li>
+    <li>image->, як [SPOUSE1_nameFull][circumstance_phrase] тримається за руки з [SPOUSE2_nameFull] під час весільної церемонії</li>
+    <li>circumstance_phrase->[empty] урочисто і велично</li>
+    <li>circumstance_phrase->, радісно сміючись,</li>
+    <li>circumstance_phrase->, поки інші дивляться з урочистим виглядом,</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] притискається до [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] не відриваючись дивиться на [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] посилає повітряний поцілунок [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] стилістично зображується невідривно від [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] немов дзеркальне відображення [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] наполегливо торкається [SPOUSE2_nameDef].</li>
   </Marriage.rulePack.rulesStrings>
 </LanguageData>

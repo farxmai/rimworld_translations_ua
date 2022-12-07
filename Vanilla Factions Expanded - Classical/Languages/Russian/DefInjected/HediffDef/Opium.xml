@@ -15,9 +15,9 @@
   <!-- EN: small -->
   <VFEC_OpiumTolerance.stages.small.label>небольшая</VFEC_OpiumTolerance.stages.small.label>
   <!-- EN: large -->
-  <VFEC_OpiumTolerance.stages.large.label>средняя</VFEC_OpiumTolerance.stages.large.label>
+  <VFEC_OpiumTolerance.stages.large.label>середня</VFEC_OpiumTolerance.stages.large.label>
   <!-- EN: massive -->
-  <VFEC_OpiumTolerance.stages.massive.label>сильная</VFEC_OpiumTolerance.stages.massive.label>
+  <VFEC_OpiumTolerance.stages.massive.label>сильна</VFEC_OpiumTolerance.stages.massive.label>
 
   <!-- EN: opium addiction -->
   <VFEC_OpiumAddiction.label>опиумная зависимость</VFEC_OpiumAddiction.label>

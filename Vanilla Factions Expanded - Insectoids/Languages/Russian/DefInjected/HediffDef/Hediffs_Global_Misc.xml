@@ -37,6 +37,6 @@
   <VFEI_TempDown.stages.5.label>экстремальный</VFEI_TempDown.stages.5.label>
 
   <VFEI_RoyalJellyTolerance.stages.small.label>небольшая</VFEI_RoyalJellyTolerance.stages.small.label>
-  <VFEI_RoyalJellyTolerance.stages.large.label>средняя</VFEI_RoyalJellyTolerance.stages.large.label>
-  <VFEI_RoyalJellyTolerance.stages.massive.label>сильная</VFEI_RoyalJellyTolerance.stages.massive.label>
+  <VFEI_RoyalJellyTolerance.stages.large.label>середня</VFEI_RoyalJellyTolerance.stages.large.label>
+  <VFEI_RoyalJellyTolerance.stages.massive.label>сильна</VFEI_RoyalJellyTolerance.stages.massive.label>
 </LanguageData>

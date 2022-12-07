@@ -16,7 +16,7 @@
   <VFE_MechanoidBeamHeavy.description>Строительная балка, вокруг которой построен корабль, является частью большого корабля механоидов. Содержит ценные экзотические ресурсы.</VFE_MechanoidBeamHeavy.description>
 
   <!-- EN: light structural beam -->
-  <VFE_MechanoidBeamLight.label>лёгкая корабельная балка</VFE_MechanoidBeamLight.label>
+  <VFE_MechanoidBeamLight.label>легка корабельная балка</VFE_MechanoidBeamLight.label>
   <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
   <VFE_MechanoidBeamLight.description>Строительная балка, вокруг которой построен корабль, является частью большого корабля механоидов. Содержит ценные экзотические ресурсы.</VFE_MechanoidBeamLight.description>
 
@@ -145,7 +145,7 @@
 
   <!-- EN: charge railgun shot -->
   <VFE_Bullet_ChargeRailgun.label>снаряд рельсовой энергопушки</VFE_Bullet_ChargeRailgun.label>
- 
+
   <!-- EN: orbital bombardment uplink -->
   <VFE_Turret_OrbitalBombardmentUplink.label>модуль бомбардировки</VFE_Turret_OrbitalBombardmentUplink.label>
   <!-- EN: An uplink module connected to a local orbital strike satellite. It will light up any enemies in range for the orbital bombardment, however long realignment period makes it inefficient for longer encounters. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->

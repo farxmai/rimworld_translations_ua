@@ -1,78 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CollapseDodged.label>обрушение потолка</CollapseDodged.label>
+  <CollapseDodged.label>обвалення стелі</CollapseDodged.label>
   <CollapseDodged.rulePack.rulesStrings>
-    <li>tale_noun->как [PAWN_nameDef] уворачивается от обломков потолка</li>
-    <li>tale_noun->как [PAWN_nameDef] чуть не попадает под обвал потолка</li>
-    <li>image->, как [PAWN_nameFull] отпрыгивает в сторону от падающих обломков, [circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] едва уворачивается от обломков потолка, [circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] чудом избегает смерти под обломками, [circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] чуть не оказывается под падающими обломками, [circumstance_phrase]</li>
-    <li>circumstance_phrase->очертания которых размыты в образовавшемся облаке пыли и мусора</li>
-    <li>circumstance_phrase->что могли бы легко раздавить [PAWN_possessive] в лепёшку</li>
-    <li>circumstance_phrase->что разбиваются о землю с невероятной силой</li>
-    <li>desc_sentence->[PAWN_pronoun] обильно потеет.</li>
-    <li>desc_sentence->[PAWN_possessive] лицо выражает сильный испуг.</li>
-    <li>desc_sentence->[PAWN_pronoun] потирает рукой полученные царапины.</li>
-    <li>desc_sentence->[PAWN_pronoun] теряет равновесие.</li>
+    <li>tale_noun->як [PAWN_nameDef] ухиляється від уламків стелі</li>
+    <li>tale_noun->як [PAWN_nameDef] мало не потрапляє під обвал стелі</li>
+    <li>image->, як [PAWN_nameFull] відстрибує убік від падаючих уламків, [circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] ледве ухиляється від уламків стелі, [circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] дивом уникає смерті під уламками, [circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] мало не виявляється під уламками, що падають, [circumstance_phrase]</li>
+    <li>circumstance_phrase->обриси яких розмиті в хмарі пилу і сміття, що утворилася</li>
+    <li>circumstance_phrase->що могли б легко розчавити [PAWN_possessive] в коржик</li>
+    <li>circumstance_phrase->що розбиваються об землю з неймовірною силою</li>
+    <li>desc_sentence->[PAWN_pronoun] рясно потіє.</li>
+    <li>desc_sentence->[PAWN_possessive] особа висловлює сильний переляк.</li>
+    <li>desc_sentence->[PAWN_pronoun] потирає рукою отримані подряпини.</li>
+    <li>desc_sentence->[PAWN_pronoun] втрачає рівновагу.</li>
   </CollapseDodged.rulePack.rulesStrings>
-  
+
   <LaunchedShip.label>запуск корабля</LaunchedShip.label>
   <LaunchedShip.rulePack.rulesStrings>
-    <li>tale_noun->как [PAWN_nameDef] улетает с планеты</li>
-    <li>tale_noun->как [PAWN_nameDef] взлетает на космическом корабле</li>
-    <li>image->, как [PAWN_nameFull] мчится к звёздам[circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] взлетает[circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] разгоняется до второй космической скорости[circumstance_phrase]</li>
-    <li>image->, как [PAWN_nameFull] летит в ракете[circumstance_phrase]</li>
+    <li>tale_noun->як [PAWN_nameDef] летить з планети</li>
+    <li>tale_noun->як [PAWN_nameDef] злітає на космічному кораблі</li>
+    <li>image->, як [PAWN_nameFull] мчить до зірок[circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] злітає[circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] розганяється до другої космічної швидкості[circumstance_phrase]</li>
+    <li>image->, як [PAWN_nameFull] летить у ракеті[circumstance_phrase]</li>
     <li>circumstance_phrase->[empty] in front of a [TerrainFeature]</li>
-    <li>circumstance_phrase->, ускоряясь с невероятной силой</li>
-    <li>circumstance_phrase->[empty] в шлейфе из реактивных газов</li>
-    <li>circumstance_phrase->[empty] с эффектно работающими двигателями</li>
-    <li>circumstance_phrase->, не отклоняясь от рассчитанной траектории</li>
-    <li>desc_sentence->Всё [PAWN_possessive] внимание сосредоточено на управлении.</li>
-    <li>desc_sentence->[PAWN_possessive] глаза закрыты, [PAWN_pronoun] выглядит уверенно.</li>
-    <li>desc_sentence->[PAWN_pronoun] спит, [PAWN_possessive] безмятежно закрыты.</li>
-    <li>desc_sentence->[PAWN_pronoun] зловеще улыбается.</li>
-    <li>desc_sentence->[PAWN_pronoun], по-видимому, полностью контролирует ситуацию.</li>
-    <li>desc_sentence->Небо прочертил огненный след, языки пламени охватывают корабль.</li>
-    <li>desc_sentence->[Animal] неподалёку испуганно смотрит вверх.</li>
-    <li>desc_sentence->[Animal] со страху несётся прочь.</li>
-    <li>desc_sentence->На фоне виднеется [TerrainFeature].</li>
-    <li>desc_sentence->[Outlander] молча наблюдает за происходящим издалека.</li>
+    <li>circumstance_phrase->, прискорюючись із неймовірною силою</li>
+    <li>circumstance_phrase->[empty] у шлейфі з реактивних газів</li>
+    <li>circumstance_phrase->[empty] з ефектно працюючими двигунами</li>
+    <li>circumstance_phrase->, не відхиляючись від розрахованої траєкторії</li>
+    <li>desc_sentence->Все [PAWN_possessive] увага зосереджена на управлінні.</li>
+    <li>desc_sentence->[PAWN_possessive] очі закриті, [PAWN_pronoun] виглядає впевнено.</li>
+    <li>desc_sentence->[PAWN_pronoun] спить, [PAWN_possessive] безтурботно закриті.</li>
+    <li>desc_sentence->[PAWN_pronoun] зловісно усміхається.</li>
+    <li>desc_sentence->[PAWN_pronoun], мабуть, повністю контролює ситуацію.</li>
+    <li>desc_sentence->Небо прокреслив вогненний слід, язики полум'я охоплюють корабель.</li>
+    <li>desc_sentence->[Animal] недалеко злякано дивиться вгору.</li>
+    <li>desc_sentence->[Animal] зі страху мчить геть.</li>
+    <li>desc_sentence->На тлі видніється [TerrainFeature].</li>
+    <li>desc_sentence->[Outlander] мовчки спостерігає за тим, що відбувається здалеку.</li>
   </LaunchedShip.rulePack.rulesStrings>
-  
-  <SocialFight.label>потасовка</SocialFight.label>
+
+  <SocialFight.label>бійка</SocialFight.label>
   <SocialFight.rulePack.rulesStrings>
-    <li>tale_noun->как [INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
-    <li>image->, как [INITIATOR_nameFull] оскорбляет [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] отпускает колкости в адрес [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] угрожает [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] запугивает [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] атакует [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] нападает на [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] бьёт [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] пинает [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>image->, как [INITIATOR_nameFull] отбивается от [RESPONDER_nameFull] [circumstance_phrase]</li>
-    <li>fight_name_present->бьёт</li>
-    <li>fight_name_present->атакует</li>
-    <li>fight_name_present->дерётся с</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] оскорбляет [INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] отпускает колкости в [INITIATOR_possessive] адрес</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] [INITIATOR_objective] угрожает</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] запугивает [INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] атакует [INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] нападает на н[INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] бьёт [INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] пинает [INITIATOR_possessive]</li>
-    <li>circumstance_phrase->, пока [RESPONDER_nameDef] отбивается от н[INITIATOR_possessive]</li>
-    <li>desc_sentence->[target] не испытывает угрызений совести.</li>
-    <li>desc_sentence->[target] гневно огрызается.</li>
-    <li>desc_sentence->Лицо [target] не выражает никаких эмоций.</li>
-    <li>desc_sentence->Одежда [target] покрыта [Gore] оппонента.</li>
-    <li>desc_sentence->[target] яростно кричит.</li>
-    <li>desc_sentence->[target] закрывает свои раны руками.</li>
-    <li>desc_sentence->В глазах [target] горит недобрый [Color] огонёк.</li>
+    <li>tale_noun->як [INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
+    <li>image->, як [INITIATOR_nameFull] ображає [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image->, як [INITIATOR_nameFull] відпускає шпильки на адресу [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image-> як [INITIATOR_nameFull] загрожує [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image->, як [INITIATOR_nameFull] залякує [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image-> як [INITIATOR_nameFull] атакує [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image-> як [INITIATOR_nameFull] нападає на [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image-> як [INITIATOR_nameFull] б'є [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image->, як [INITIATOR_nameFull] штовхає [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>image-> як [INITIATOR_nameFull] відбивається від [RESPONDER_nameFull] [circumstance_phrase]</li>
+    <li>fight_name_present->б'є</li>
+    <li>fight_name_present->атакує</li>
+    <li>fight_name_present->б'ється з</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] ображає [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] відпускає шпильки в [INITIATOR_possessive] адресу</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] [INITIATOR_objective] загрожує</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] залякує [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] атакує [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] нападає на [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] б'є [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] штовхає [INITIATOR_possessive]</li>
+    <li>circumstance_phrase->, поки [RESPONDER_nameDef] відбивається від [INITIATOR_possessive]</li>
+    <li>desc_sentence->[target] не відчуває докорів сумління.</li>
+    <li>desc_sentence->[target] гнівно огризається.</li>
+    <li>desc_sentence->Обличчя [target] не виражає жодних емоцій.</li>
+    <li>desc_sentence->Одяг [target] покритий [Gore] опонента.</li>
+    <li>desc_sentence->[target] люто кричить.</li>
+    <li>desc_sentence->[target] закриває свої рани руками.</li>
+    <li>desc_sentence->В очах [target] горить недобрий [Color] вогник.</li>
     <li>target->[INITIATOR_nameDef]</li>
     <li>target->[RESPONDER_nameDef]</li>
   </SocialFight.rulePack.rulesStrings>

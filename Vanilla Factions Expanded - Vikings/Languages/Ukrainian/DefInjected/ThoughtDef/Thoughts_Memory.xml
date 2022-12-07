@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Stung by bees -->
-  <VFEV_StingMoodDebuff.stages.0.label>{1_gender ? ужален : ужалена} пчелой</VFEV_StingMoodDebuff.stages.0.label>
+  <VFEV_StingMoodDebuff.stages.0.label>вжалено бджолою</VFEV_StingMoodDebuff.stages.0.label>
   <!-- EN: I was stung, and it hurt! -->
-  <VFEV_StingMoodDebuff.stages.0.description>Меня ужалила пчела. Это больно!</VFEV_StingMoodDebuff.stages.0.description>
+  <VFEV_StingMoodDebuff.stages.0.description>Мене вжалила бджола. Це боляче!</VFEV_StingMoodDebuff.stages.0.description>
 
   <!-- EN: Successful hunt! -->
-  <VFEV_BeastHunted.stages.0.label>успешная Полювання</VFEV_BeastHunted.stages.0.label>
+  <VFEV_BeastHunted.stages.0.label>успішне полювання</VFEV_BeastHunted.stages.0.label>
   <!-- EN: We successfully hunted a beast! -->
-  <VFEV_BeastHunted.stages.0.description>Мы победили чудовище!</VFEV_BeastHunted.stages.0.description>
+  <VFEV_BeastHunted.stages.0.description>Ми здолали монстра!</VFEV_BeastHunted.stages.0.description>
 
   <!-- EN: Attended feast -->
-  <VFEV_AttendedFeast.stages.0.label>{1_gender ? присутствовал : присутствовала} на пиру</VFEV_AttendedFeast.stages.0.label>
+  <VFEV_AttendedFeast.stages.0.label>після застілля</VFEV_AttendedFeast.stages.0.label>
   <!-- EN: I had an amazing time at the feast! -->
-  <VFEV_AttendedFeast.stages.0.description>Я прекрасно {1_gender ? провёл : провела} время на пиру!</VFEV_AttendedFeast.stages.0.description>
+  <VFEV_AttendedFeast.stages.0.description>Ми чудово првели час разом і гарно відпочили!</VFEV_AttendedFeast.stages.0.description>
 
   <!-- EN: Taking part in a feast -->
-  <VFEV_TakingPartInFeast.stages.0.label>{1_gender ? участвовал : участвовала} в пиру</VFEV_TakingPartInFeast.stages.0.label>
+  <VFEV_TakingPartInFeast.stages.0.label>після застілля</VFEV_TakingPartInFeast.stages.0.label>
   <!-- EN: I'm just enjoying myself! -->
-  <VFEV_TakingPartInFeast.stages.0.description>Я хорошо {1_gender ? провёл : провела} время на пиру!</VFEV_TakingPartInFeast.stages.0.description>
+  <VFEV_TakingPartInFeast.stages.0.description>Ми чудово првели час разом і гарно відпочили!</VFEV_TakingPartInFeast.stages.0.description>
 
   <!-- EN: Successful hunt! -->
-  <VFEI_BeastHunted.stages.0.label>успешная Полювання</VFEI_BeastHunted.stages.0.label>
+  <VFEI_BeastHunted.stages.0.label>успішне полювання</VFEI_BeastHunted.stages.0.label>
   <!-- EN: We successfully hunted a beast! -->
-  <VFEI_BeastHunted.stages.0.description>Мы победили чудовище!</VFEI_BeastHunted.stages.0.description>
+  <VFEI_BeastHunted.stages.0.description>Ми здолали монстра!</VFEI_BeastHunted.stages.0.description>
 
   <!-- EN: alcohol warmth -->
-  <VFEV_Inebriated.stages.0.label>навеселе</VFEV_Inebriated.stages.0.label>
+  <VFEV_Inebriated.stages.0.label>напідпитку</VFEV_Inebriated.stages.0.label>
   <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
-  <VFEV_Inebriated.stages.0.description>Я чувствую себя чуточку легче после этого стаканчика. Это хорошо.</VFEV_Inebriated.stages.0.description>
+  <VFEV_Inebriated.stages.0.description>Я почуваюся трохи легше після цього стаканчика. Це добре.</VFEV_Inebriated.stages.0.description>
 
   <!-- EN: quite inebriated -->
-  <VFEV_Inebriated.stages.1.label>опьянение</VFEV_Inebriated.stages.1.label>
+  <VFEV_Inebriated.stages.1.label>сп'яніння</VFEV_Inebriated.stages.1.label>
   <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
-  <VFEV_Inebriated.stages.1.description>Меня немного пошатывает! И это весьма приятно.</VFEV_Inebriated.stages.1.description>
+  <VFEV_Inebriated.stages.1.description>Мене трохи хитає! І це дуже приємно.</VFEV_Inebriated.stages.1.description>
 
   <!-- EN: drunk -->
-  <VFEV_Inebriated.stages.2.label>сильное опьянение</VFEV_Inebriated.stages.2.label>
+  <VFEV_Inebriated.stages.2.label>налиганість</VFEV_Inebriated.stages.2.label>
   <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
-  <VFEV_Inebriated.stages.2.description>Я чувствую себя таким раскованным и бесстрашным! Это великолепно!</VFEV_Inebriated.stages.2.description>
+  <VFEV_Inebriated.stages.2.description>Я почуваюся таким розкутим та безстрашним! Це чудово!</VFEV_Inebriated.stages.2.description>
 
   <!-- EN: hammered -->
-  <VFEV_Inebriated.stages.3.label>в хлам</VFEV_Inebriated.stages.3.label>
+  <VFEV_Inebriated.stages.3.label>лика не в'яже</VFEV_Inebriated.stages.3.label>
   <!-- EN: Wooo! What's going on? -->
-  <VFEV_Inebriated.stages.3.description>Э-хей! Что происходит?!</VFEV_Inebriated.stages.3.description>
+  <VFEV_Inebriated.stages.3.description>Ехей! Що відбувається?!</VFEV_Inebriated.stages.3.description>
 </LanguageData>

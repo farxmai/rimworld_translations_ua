@@ -10,10 +10,10 @@
   <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий усик</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <VFEI_Wargling.corePart.parts.front_left_claw.customLabel>передняя ліва клешня</VFEI_Wargling.corePart.parts.front_left_claw.customLabel>
   <VFEI_Wargling.corePart.parts.front_right_claw.customLabel>передняя права клешня</VFEI_Wargling.corePart.parts.front_right_claw.customLabel>
-	<VFEI_Wargling.corePart.parts.front_left_leg.customLabel>передняя ліва нога</VFEI_Wargling.corePart.parts.front_left_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.front_left_leg.customLabel>передняя ліва нога</VFEI_Wargling.corePart.parts.front_left_leg.customLabel>
   <VFEI_Wargling.corePart.parts.front_right_leg.customLabel>передняя права нога</VFEI_Wargling.corePart.parts.front_right_leg.customLabel>
-  <VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>средняя ліва нога</VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>
-  <VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>средняя права нога</VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>середня ліва нога</VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>середня права нога</VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>
   <VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>задняя ліва нога</VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>
   <VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>задняя права нога</VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>
 </LanguageData>

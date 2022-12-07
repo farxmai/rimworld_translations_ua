@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: The apiary need to be tended to -->
-  <ANeedTend>Улей скоро произведёт мёд</ANeedTend>
-  <!-- EN: The apiary is resting, because the ambiant temperature is below 10°C -->
-  <AResting>Пчелы в спячке, потому что температура окружающей среды ниже 10°C</AResting>
-  <!-- EN: Honey ready -->
-  <AReady>Можно собирать мёд</AReady>
-  <!-- EN: The apiary need {0} more flowers around it for bees to forage around -->
-  <ANeedFlower>Вокруг улья нужно разместить ещё {0} цветов, чтобы пчёлам было, где собирать нектар</ANeedFlower>
-  <!-- EN: The apiary need tending in {0} -->
-  <ANeedTIn>Улей произведёт мёд через {0}</ANeedTIn>
+  <!-- EN: The apiary needs to be tended to. -->
+  <ANeedTend>Пасіка скоро дасть мед</ANeedTend>
+  <!-- EN: The apiary is resting, because the ambient temperature is below 10°C. -->
+  <AResting>Бджоли у сплячці, тому що температура навколишнього середовища нижче 10°C</AResting>
+  <!-- EN: Honey ready. -->
+  <AReady>Можна збирати мед</AReady>
+  <!-- EN: The apiary needs {0} more flowers around it for bees to forage. -->
+  <ANeedFlower>Навколо вулика потрібно розмістити ще {0} квіток, щоб бджолам було, де збирати нектар</ANeedFlower>
+  <!-- EN: The apiary needs tending in {0}. -->
+  <ANeedTIn>Пасіка дасть мед за {0}</ANeedTIn>
 
   <!-- EN: You will start during the attack of a base. The coveted treasure, 150 gold and 300 silver, is located in rooms of this base. -->
-  <ScenPartSettlemntDesc>Вы начнёте во время атаки на базу. Богатства базы, состоящие из 150 золота и 300 серебра, можно найти в комнатах.</ScenPartSettlemntDesc>
+  <ScenPartSettlemntDesc>Ви розпочнете під час атаки на базу. Багатства бази, що складаються з 150 золота та 300 срібла, можна знайти у кімнатах.</ScenPartSettlemntDesc>
 
   <!-- EN: Hunt quests rate multiplier (READ MOUSEOVER TOOLTIP) -->
-  <VFEV_HuntQuestMultiplier>Множитель частоты появления охотничьих заданий (ПРОЧТИТЕ ВСПЛЫВАЮЩУЮ ПОДСКАЗКУ)</VFEV_HuntQuestMultiplier>
+  <VFEV_HuntQuestMultiplier>Множник частоти появи мисливських завдань (ЧИТАЙТЕ ПІДКАЗКУ)</VFEV_HuntQuestMultiplier>
   <!-- EN: The frequency of the hunt quests (Lothurr, Njörun, Fenrir, Thrumbo and Odin) being offered is multiplied by this number (with a multiplier of 1, it is offered every between 50 and 70 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently. -->
-  <VFEV_HuntQuestMultiplierTooltip>Частота появления заданий «Полювання на Фенріра, Лодура, Ньйоруна, Трумбо, Одина» умножается на это число (при единице она составляет случайное значение между 50 и 70 днями). Значения ниже единицы уменьшают время, больше единицы увеличивают. Обратите внимание, что эти задания не заменяют другие и появляются независимо.</VFEV_HuntQuestMultiplierTooltip>
+  <VFEV_HuntQuestMultiplierTooltip>Частота появи завдань «Полювання на Фенріра, Лодура, Ньйоруна, Трумбо, Одіна» множиться на це число (при одиниці вона становить випадкове значення між 50 та 70 днями). Значення нижче одиниці зменшують час, більше одиниці збільшують. Зверніть увагу, що ці завдання не замінюють інші та з'являються незалежно.</VFEV_HuntQuestMultiplierTooltip>
   <!-- EN: Grave and Ruin quests rate multiplier (READ MOUSEOVER TOOLTIP) -->
-  <VFEV_StructureQuestMultiplier>Множитель частоты появления заданий с руинами и могилами (ПРОЧТИТЕ ВСПЛЫВАЮЩУЮ ПОДСКАЗКУ)</VFEV_StructureQuestMultiplier>
+  <VFEV_StructureQuestMultiplier>Множник частоти появи завдань з руїнами та могилами (ЧИТАЙТЕ ПІДКАЗКУ)</VFEV_StructureQuestMultiplier>
   <!-- EN: The frequency of the legendary grave and ancient ruin quests being offered is multiplied by this number (with a multiplier of 1, it is offered every between 50 and 70 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently. -->
-  <VFEV_StructureQuestMultiplierTooltip>Частота появления заданий «Легендарное захоронение, Древние руины» умножается на это число (при единице она составляет случайное значение между 50 и 70 днями). Значения ниже единицы уменьшают время, больше единицы увеличивают. Обратите внимание, что эти задания не заменяют другие и появляются независимо.</VFEV_StructureQuestMultiplierTooltip>
+  <VFEV_StructureQuestMultiplierTooltip>Частота появи завдань "Легендарне поховання, Стародавні руїни" множиться на це число (при одиниці вона становить випадкове значення між 50 і 70 днями). Значення нижче одиниці зменшують час, більше одиниці збільшують. Зверніть увагу, що ці завдання не замінюють інші та з'являються незалежно.</VFEV_StructureQuestMultiplierTooltip>
   <!-- EN: Reset -->
-  <VFEV_Reset>Сбросить</VFEV_Reset>
+  <VFEV_Reset>Зкинути</VFEV_Reset>
 </LanguageData>
