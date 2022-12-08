@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Settler.label>поселенець</Settler.label>
+  <Settler.labelPlural>поселенці</Settler.labelPlural>
+
+  <Deputy.label>заступник шерифа</Deputy.label>
+  <Deputy.labelPlural>заступники шерифа</Deputy.labelPlural>
+
+  <Militia.label>ополченець</Militia.label>
+  <Militia.labelPlural>ополченеці</Militia.labelPlural>
+
+  <Frontier_Trader.label>торговець прикордоння</Frontier_Trader.label>
+  <Frontier_Trader.labelPlural>торговці прикордоння</Frontier_Trader.labelPlural>
+
+  <Sheriff.label>шериф</Sheriff.label>
+  <Sheriff.labelPlural>шерифи</Sheriff.labelPlural>
+
+  <Mayor.label>мер</Mayor.label>
+  <Mayor.labelPlural>мери</Mayor.labelPlural>
+
+</LanguageData>

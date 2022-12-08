@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemshined.label>під хімблиском</Chemshined.label>
+  <Chemshined.labelNoun>під хімблиском</Chemshined.labelNoun>
+  <Chemshined.description>Здається, хтось випив щось вибухонебезпечне.</Chemshined.description>
+  <Chemshined.stages.0.label>на підпитку</Chemshined.stages.0.label>
+  <Chemshined.stages.1.label>захмелілий</Chemshined.stages.1.label>
+  <Chemshined.stages.2.label>налиганий</Chemshined.stages.2.label>
+  <Chemshined.stages.3.label>у відключці</Chemshined.stages.3.label>
+
+</LanguageData>

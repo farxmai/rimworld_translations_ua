@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_PlayerSettlement.label>Поселення</VFES_PlayerSettlement.label>
+  <VFES_PlayerSettlement.description>Невеликий притулок членів банди та злочинців.</VFES_PlayerSettlement.description>
+  <VFES_PlayerSettlement.pawnSingular>бандит</VFES_PlayerSettlement.pawnSingular>
+  <VFES_PlayerSettlement.pawnsPlural>бандити</VFES_PlayerSettlement.pawnsPlural>
+
+</LanguageData>

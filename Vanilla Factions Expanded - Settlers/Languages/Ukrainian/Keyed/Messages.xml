@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CaravanRaidLabel>Рейдовий караван від {0}</CaravanRaidLabel>
+  <CaravanRaidDialogue>Ви отримали інформацію про караван від {0}, який розбив табір неподалік. Якщо хочете, зараз саме час зробити набіг на нього, але пам'ятайте, що каравани зазвичай охороняються.</CaravanRaidDialogue>
+  <WantedLabel>Розшукується {0}</WantedLabel>
+  <WantedDialogue>{0} призначив нагороду за голову {PAWN_nameDef}. {PAWN_nameDef} з {1} розшукується за {2} срібла, і подвійна сума якщо привести {PAWN_possessive} живцем в одне з поселень {0}.</WantedDialogue>
+  <WantedTurnIn>Здати {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescDead>Здати труп {PAWN_nameDef} за винагороду.</WantedTurnInDescDead>
+  <WantedTurnInDescAlive>Здати разбійника {PAWN_nameDef} за винагороду.</WantedTurnInDescAlive>
+  <WantedTurnInLabel>Здати {PAWN_nameDef}.</WantedTurnInLabel>
+  <WantedTurnInMessageDead>Ви віддали голову {PAWN_nameDef} за {0} срібла.</WantedTurnInMessageDead>
+  <WantedTurnInMessageAlive>Ви здали разбійника {PAWN_nameDef} живцем за {0} срібла.</WantedTurnInMessageAlive>
+  <WantedHediff>Розшукується {0} за {1} срібла</WantedHediff>
+  <DefaultSettings>За замовчуванням</DefaultSettings>
+  <MinReward>Мінмальна винагорода: {0}.</MinReward>
+  <MaxReward>Максимальна винагорода: {0}.</MaxReward>
+  <Chemsined>Чи повинні п'яні хімблиском муффало штурмувати ваш хімблеск: {0}</Chemsined>
+  <ProtectionFeeLabel>Плата за захист</ProtectionFeeLabel>
+  <ProtectionFeeDialogue>Головорізи з {0} пропонують "захистити" вашу колонію від будь-яких загроз, навіть тих, які можуть бути викликані ними самими, за умови, що ви заплатите {1} срібла. Будьте обережні – відмова може роздратувати бандитів.</ProtectionFeeDialogue>
+  <ProtectionFeeAgree>Заплптити</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>Головорізи з {0}, здається, задоволені угодою і закінчують розмову.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDisagree>Послати під три чорти</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>Головорізи з {0}, здається, раді, що ви відмовилися від їх пропозиції, і перервали спілкування відразу після запевнення, що вони тепер не можуть гарантувати вашу безпеку. Чекайте на гостей...</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeNotEnoughSilver>Бракує срібла</ProtectionFeeNotEnoughSilver>
+  <DrunkMuffaloTitle>Хімблискові муффало</DrunkMuffaloTitle>
+  <DrunkMuffaloMessage>Невелика череда муффало прибула до цього району. Здається, вони десь знайшли схованку з хімблиском і тепер вештаються навколо п'яні. Стережіться їх п'яних витівок та пам'ятайте що хімблиск є вибухонебезпечним!</DrunkMuffaloMessage>
+
+  <ContainsChemfuel>Містить {0} / {1} хімпалива.</ContainsChemfuel>
+  <ContainsChemshine>Містить {0} / {1} хімблиску.</ContainsChemshine>  
+  <NoChemfuel>Потрібне хімпаливо</NoChemfuel>
+
+  <!-- Chemsine -->
+  <VFES_InsertFirstItemDesc>Хімпаливо</VFES_InsertFirstItemDesc>
+  <VFES_bringIngredientsText>Принести хімпаливо</VFES_bringIngredientsText>
+  <VFES_bringIngredientsDesc>Принести хімпаливо до бочки для хімблиску, щоб розпочати процес бродіння.</VFES_bringIngredientsDesc>
+  <VFES_cancelIngredientsText>Скасувати доставку хімпалива</VFES_cancelIngredientsText>
+  <VFES_cancelIngredientsDesc>Скасувати доставку хімпалива до бочки для хімблиску.</VFES_cancelIngredientsDesc>
+  <VFES_removeProductText>Вилучити хімблиск</VFES_removeProductText>
+  <VFES_removeProductDesc>Вилучити хімблиск з бочки.</VFES_removeProductDesc>
+
+  <!-- Wanted -->
+  <VFES_Target>Ціль полювання за головами</VFES_Target>
+  <VFES_TargetDesc>Ціль полювання за головами - {0} знаходиться на цьому аванпості.</VFES_TargetDesc>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_Vest.label>жилет</Apparel_Vest.label>
+  <Apparel_Vest.description>Простий жилет, що забезпечує пристойний рівень ізоляції, як від спеки, так і від холоду. Значно покращує соціальний вплив.</Apparel_Vest.description>
+
+  <Apparel_GreatDress.label>вишукана сукня</Apparel_GreatDress.label>
+  <Apparel_GreatDress.description>Прекрасне плаття, яке часто носять леді та суфражистки. Значно покращує соціальний вплив.</Apparel_GreatDress.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Gun_DoubleActionRevolver.label>ковбойський револьвер</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.description>Револьвер класичного зразка. Він не дуже точний, але має пристойну швидкість стрільби.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.tools.0.label>рукоять</VFES_Gun_DoubleActionRevolver.tools.0.label>
+  <VFES_Gun_DoubleActionRevolver.tools.1.label>ствол</VFES_Gun_DoubleActionRevolver.tools.1.label>
+
+  <VFES_Gun_DoubleBarreledShotgun.label>двоствольна рушниця</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>Класичний дизайн дробовика з двома стволами, що індивідуально заряджаються.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.tools.0.label>ложа</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.1.label>ствол</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+
+  <VFES_Gun_HuntingRifle.label>мисливська гвинтівка</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.description>Класична гвинтівка зі ковзним затвором та прицілом. Завдяки винятковій дальності стрільби є відмінним вибором для полювання.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.tools.0.label>ложа</VFES_Gun_HuntingRifle.tools.0.label>
+  <VFES_Gun_HuntingRifle.tools.1.label>ствол</VFES_Gun_HuntingRifle.tools.1.label>
+
+</LanguageData>

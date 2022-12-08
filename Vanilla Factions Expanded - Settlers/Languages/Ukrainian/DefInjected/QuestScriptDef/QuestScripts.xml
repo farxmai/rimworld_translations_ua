@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>questName->Нагорода за голову: [nameFull] [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>questName->Розшукується живим чи мертвим: [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>questName->Розбійники: [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>questDescription->[asker_nameFull], [asker_faction_leaderTitle] з фракції [asker_faction_name] вітає нас. Мабуть, горезвісний [criminal_nameFull] з [siteFaction_name] ховається у наших околицях.\n\n[asker_nameDef] просить нас привести [nickname] в одне з їхніх поселень за винагороду у розмірі [bounty] срібла, і подвоєну суму, якщо [nickname] буде живим. Вони ховаються в безпечному сховку, і він, скоріш за все, охороняється.\n\nЯкщо ми очистимо їхній табір, [allRewardsDescriptions]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>
+  <VFES_Wanted.root.nodes.11.node.nodes.0.label>Термін завдання вичерпано: «[resolvedQuestName]»</VFES_Wanted.root.nodes.11.node.nodes.0.label>
+  <VFES_Wanted.root.nodes.11.node.nodes.0.text>[criminal_nameFull] стало відомо що їх схованку викрито, тому встигли втекти. Срок действия «[resolvedQuestName]» истёк.</VFES_Wanted.root.nodes.11.node.nodes.0.text>
+  <VFES_Wanted.root.nodes.12.node.nodes.0.label>Завдання провалено: «[resolvedQuestName]»</VFES_Wanted.root.nodes.12.node.nodes.0.label>
+  <VFES_Wanted.root.nodes.12.node.nodes.0.text>Розбійники зібрали речі та пішли далі. Завдання «[resolvedQuestName]» провалено.</VFES_Wanted.root.nodes.12.node.nodes.0.text>
+  <VFES_Wanted.root.nodes.13.node.customLetterLabel>Вознаграждение прибыло</VFES_Wanted.root.nodes.13.node.customLetterLabel>
+  <VFES_Wanted.root.nodes.13.node.customLetterText>Ви перемогли [criminal_nameFull] и ликвидировали лагерь!\n\nПолучено вознаграждение от [asker_faction_name].</VFES_Wanted.root.nodes.13.node.customLetterText>
+
+  <VFES_CaravanRaid.questNameRules.rulesStrings.0>questName->Караван: [raid]</VFES_CaravanRaid.questNameRules.rulesStrings.0>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.1>questName->[asker_nameDef] і [raid] каравана</VFES_CaravanRaid.questNameRules.rulesStrings.1>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.2>raid->Рейд</VFES_CaravanRaid.questNameRules.rulesStrings.2>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.3>raid->Атака</VFES_CaravanRaid.questNameRules.rulesStrings.3>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.4>raid->Засідка</VFES_CaravanRaid.questNameRules.rulesStrings.4>
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] з фракції [asker_faction_name] надіслав(а) нам повідомлення. Судячи з усього, [siteFaction_pawnsPlural] відпочивають зі своїми тваринами, перш ніж продовжити свою подорож.\n[asker_nameDef] повідомив(а) нам їхнє місце розташування, за бажання ми можемо атакувати їх.</VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>Термін завдання вичерпано: «[resolvedQuestName]»</VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>[siteFaction_pawnsPlural] зібрали свої речі та пішли. Завдання «[resolvedQuestName]» провалено.</VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>Завдання провалено: «[resolvedQuestName]»</VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>Після виявлення [siteFaction_pawnsPlural] залишили місце дислокації. Завдання «[resolvedQuestName]» провалено.</VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>
+
+</LanguageData>

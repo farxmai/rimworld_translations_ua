@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemshine.label>хімблиск</Chemshine.label>
+  <Chemshine.description>Небезпечний алкоголь, як правило, споживається золотошукачами та жителями промислових поселень окраїнних світів. У той час як хімблеск знімає смуток і біль, він наповнює кров того, хто п'є вибухонебезпечною хімією, що призводить до потужного вибуху у разі смерті.</Chemshine.description>
+  <Chemshine.ingestible.ingestCommandString>Випити {0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestReportString>п'є {0}</Chemshine.ingestible.ingestReportString>
+  <Chemshine.tools.0.label>пляшка</Chemshine.tools.0.label>
+  <Chemshine.tools.1.label>шийка</Chemshine.tools.1.label>
+
+</LanguageData>

@@ -8,9 +8,9 @@
 	</include>
 	<rulePack>
 		<rulesStrings>
-			<li>r_name->Поселенцы [Color_f] [TerrainFeature_f]</li>
-			<li>r_name->Поселенцы [Color_m] [TerrainFeature_m]</li>
-			<li>r_name->Поселенцы [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Поселенці [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Поселенці [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Поселенці [Color_0] [TerrainFeature_0]</li>
 		</rulesStrings>
 		<rulesFiles>
 			<li>TerrainFeature_f->Words/Nouns/TerrainFeatures_f</li>
@@ -30,18 +30,18 @@
 			<li>r_name->Банда [Color_f] [TerrainFeature_f]</li>
 			<li>r_name->Банда [Color_m] [TerrainFeature_m]</li>
 			<li>r_name->Банда [Color_0] [TerrainFeature_0]</li>
-			<li>r_name->Рэкетиры [Color_f] [TerrainFeature_f]</li>
-			<li>r_name->Рэкетиры [Color_m] [TerrainFeature_m]</li>
-			<li>r_name->Рэкетиры [Color_0] [TerrainFeature_0]</li>
-			<li>r_name->Мародёры [Color_f] [TerrainFeature_f]</li>
-			<li>r_name->Мародёры [Color_m] [TerrainFeature_m]</li>
-			<li>r_name->Мародёры [Color_0] [TerrainFeature_0]</li>
-			<li>r_name->Вымогатели [Color_f] [TerrainFeature_f]</li>
-			<li>r_name->Вымогатели [Color_m] [TerrainFeature_m]</li>
-			<li>r_name->Вымогатели [Color_0] [TerrainFeature_0]</li>
-			<li>r_name->Разбойники [Color_f] [TerrainFeature_f]</li>
-			<li>r_name->Разбойники [Color_m] [TerrainFeature_m]</li>
-			<li>r_name->Разбойники [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Колектори [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Колектори [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Колектори [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Мародери [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Мародери [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Мародери [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Здирники [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Здирники [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Здирники [Color_0] [TerrainFeature_0]</li>
+			<li>r_name->Разбійники [Color_f] [TerrainFeature_f]</li>
+			<li>r_name->Разбійники [Color_m] [TerrainFeature_m]</li>
+			<li>r_name->Разбійники [Color_0] [TerrainFeature_0]</li>
 		</rulesStrings>
 		<rulesFiles>
 			<li>TerrainFeature_f->Words/Nouns/TerrainFeatures_f</li>
