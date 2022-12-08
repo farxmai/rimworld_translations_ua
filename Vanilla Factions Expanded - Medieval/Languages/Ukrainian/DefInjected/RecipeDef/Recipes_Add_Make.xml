@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_VFEM_Apparel_PlateHelmetLight.label>зробити легкий пластинчастий шолом</Make_VFEM_Apparel_PlateHelmetLight.label>
+  <Make_VFEM_Apparel_PlateHelmetLight.description>Зробити легкий пластинчастий шолом.</Make_VFEM_Apparel_PlateHelmetLight.description>
+  <Make_VFEM_Apparel_PlateHelmetLight.jobString>Виготовляє легкий пластинчастий шолом</Make_VFEM_Apparel_PlateHelmetLight.jobString>
+
+  <Make_VFEM_Apparel_PlateHelmetHeavy.label>зробити важкий пластинчастий шолом</Make_VFEM_Apparel_PlateHelmetHeavy.label>
+  <Make_VFEM_Apparel_PlateHelmetHeavy.description>Зробити важкий пластинчастий шолом.</Make_VFEM_Apparel_PlateHelmetHeavy.description>
+  <Make_VFEM_Apparel_PlateHelmetHeavy.jobString>Виготовляє важкий пластинчастий шолом</Make_VFEM_Apparel_PlateHelmetHeavy.jobString>
+
+  <Make_VFEM_Apparel_PlateArmorHeavy.label>зробити важкий пластинчастий обладунок</Make_VFEM_Apparel_PlateArmorHeavy.label>
+  <Make_VFEM_Apparel_PlateArmorHeavy.description>Зробити важкий пластинчастий обладунок.</Make_VFEM_Apparel_PlateArmorHeavy.description>
+  <Make_VFEM_Apparel_PlateArmorHeavy.jobString>Виготовляє важкий пластинчастий обладунок</Make_VFEM_Apparel_PlateArmorHeavy.jobString>
+
+  <Make_VFEM_Apparel_Tabard.label>зробити табард</Make_VFEM_Apparel_Tabard.label>
+  <Make_VFEM_Apparel_Tabard.description>Зробити табард.</Make_VFEM_Apparel_Tabard.description>
+  <Make_VFEM_Apparel_Tabard.jobString>Виготовляє табард</Make_VFEM_Apparel_Tabard.jobString>
+
+  <Make_VFEM_MeleeWeapon_Claymore.label>зробити клеймор</Make_VFEM_MeleeWeapon_Claymore.label>
+  <Make_VFEM_MeleeWeapon_Claymore.description>Зробити клеймор.</Make_VFEM_MeleeWeapon_Claymore.description>
+  <Make_VFEM_MeleeWeapon_Claymore.jobString>Виготовляє клеймор</Make_VFEM_MeleeWeapon_Claymore.jobString>
+
+  <Make_VFEM_MeleeWeapon_HeavyMace.label>зробити важку булаву</Make_VFEM_MeleeWeapon_HeavyMace.label>
+  <Make_VFEM_MeleeWeapon_HeavyMace.description>Зробити важку булаву.</Make_VFEM_MeleeWeapon_HeavyMace.description>
+  <Make_VFEM_MeleeWeapon_HeavyMace.jobString>Виготовляє важку булаву</Make_VFEM_MeleeWeapon_HeavyMace.jobString>
+
+  <Make_VFEM_Bow_HeavyCrossbow.label>зробити важкий арбалет</Make_VFEM_Bow_HeavyCrossbow.label>
+  <Make_VFEM_Bow_HeavyCrossbow.description>Зробити важкий арбалет.</Make_VFEM_Bow_HeavyCrossbow.description>
+  <Make_VFEM_Bow_HeavyCrossbow.jobString>Виготовляє важкий арбалет</Make_VFEM_Bow_HeavyCrossbow.jobString>
+
+  <Make_VFEM_Shield_Kite.label>зробити краплеподібний щит</Make_VFEM_Shield_Kite.label>
+  <Make_VFEM_Shield_Kite.description>Зробити краплеподібний щит.</Make_VFEM_Shield_Kite.description>
+  <Make_VFEM_Shield_Kite.jobString>Виготовляє краплеподібний щит</Make_VFEM_Shield_Kite.jobString>
+
+  <Make_VFEM_Shield_Heater.label>зробити важкий щит</Make_VFEM_Shield_Heater.label>
+  <Make_VFEM_Shield_Heater.description>Зробити важкий щит.</Make_VFEM_Shield_Heater.description>
+  <Make_VFEM_Shield_Heater.jobString>Виготовляє важкий щит</Make_VFEM_Shield_Heater.jobString>
+
+  <Make_VFEM_Apparel_JesterHat.label>зробити капелюх блазня</Make_VFEM_Apparel_JesterHat.label>
+  <Make_VFEM_Apparel_JesterHat.description>Зробити капелюх блазня.</Make_VFEM_Apparel_JesterHat.description>
+  <Make_VFEM_Apparel_JesterHat.jobString>Виготовляє капелюх блазня</Make_VFEM_Apparel_JesterHat.jobString>
+
+  <Make_VFEM_Apparel_DameHat.label>зробити капелюшок леді</Make_VFEM_Apparel_DameHat.label>
+  <Make_VFEM_Apparel_DameHat.description>Зробити капелюшок леді.</Make_VFEM_Apparel_DameHat.description>
+  <Make_VFEM_Apparel_DameHat.jobString>Виготовляє капелюшок леді</Make_VFEM_Apparel_DameHat.jobString>
+
+  <Make_VFEM_Apparel_KingsCrown.label>зробити корону</Make_VFEM_Apparel_KingsCrown.label>
+  <Make_VFEM_Apparel_KingsCrown.description>Зробити корону.</Make_VFEM_Apparel_KingsCrown.description>
+  <Make_VFEM_Apparel_KingsCrown.jobString>Виготовляє корону</Make_VFEM_Apparel_KingsCrown.jobString>
+
+  <Make_VFEM_Apparel_PlagueMask.label>зробити чумну маску</Make_VFEM_Apparel_PlagueMask.label>
+  <Make_VFEM_Apparel_PlagueMask.description>Зробити чумну маску.</Make_VFEM_Apparel_PlagueMask.description>
+  <Make_VFEM_Apparel_PlagueMask.jobString>Виготовляє чумну маску</Make_VFEM_Apparel_PlagueMask.jobString>
+
+  <Make_VFEM_Apparel_JesterOutfit.label>зробити вбрання блазня</Make_VFEM_Apparel_JesterOutfit.label>
+  <Make_VFEM_Apparel_JesterOutfit.description>Зробити вбрання блазня.</Make_VFEM_Apparel_JesterOutfit.description>
+  <Make_VFEM_Apparel_JesterOutfit.jobString>Виготовляє вбрання блазня</Make_VFEM_Apparel_JesterOutfit.jobString>
+
+  <Make_VFEM_Apparel_DameDress.label>зробити сукню леді</Make_VFEM_Apparel_DameDress.label>
+  <Make_VFEM_Apparel_DameDress.description>Зробити сукню леді.</Make_VFEM_Apparel_DameDress.description>
+  <Make_VFEM_Apparel_DameDress.jobString>Виготовляє сукню леді</Make_VFEM_Apparel_DameDress.jobString>
+
+  <Make_VFEM_Apparel_KingsRobes.label>зробити королівську мантію</Make_VFEM_Apparel_KingsRobes.label>
+  <Make_VFEM_Apparel_KingsRobes.description>Зробити королівську мантію.</Make_VFEM_Apparel_KingsRobes.description>
+  <Make_VFEM_Apparel_KingsRobes.jobString>Виготовляє королівську мантію</Make_VFEM_Apparel_KingsRobes.jobString>
+
+</LanguageData>

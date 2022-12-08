@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_VFES_Headgear_Bandana.label>зробити бандану</Make_VFES_Headgear_Bandana.label>
+  <Make_VFES_Headgear_Bandana.description>Зробити бандану.</Make_VFES_Headgear_Bandana.description>
+  <Make_VFES_Headgear_Bandana.jobString>Виготовляє бандану</Make_VFES_Headgear_Bandana.jobString>
+
+  <Make_VFES_Headgear_Sombrero.label>зробити сомбреро</Make_VFES_Headgear_Sombrero.label>
+  <Make_VFES_Headgear_Sombrero.description>Зробити сомбреро.</Make_VFES_Headgear_Sombrero.description>
+  <Make_VFES_Headgear_Sombrero.jobString>Виготовляє сомбреро</Make_VFES_Headgear_Sombrero.jobString>
+
+  <Make_VFES_Headgear_FlatCap.label>зробити картуз</Make_VFES_Headgear_FlatCap.label>
+  <Make_VFES_Headgear_FlatCap.description>Зробити картуз.</Make_VFES_Headgear_FlatCap.description>
+  <Make_VFES_Headgear_FlatCap.jobString>Виготовляє картуз</Make_VFES_Headgear_FlatCap.jobString>
+
+  <Make_Apparel_Vest.label>зробити жилет</Make_Apparel_Vest.label>
+  <Make_Apparel_Vest.description>Зробити жилет.</Make_Apparel_Vest.description>
+  <Make_Apparel_Vest.jobString>Виготовляє жилет</Make_Apparel_Vest.jobString>
+
+  <Make_Apparel_GreatDress.label>зробити вишукану сукню</Make_Apparel_GreatDress.label>
+  <Make_Apparel_GreatDress.description>Зробити вишукану сукню.</Make_Apparel_GreatDress.description>
+  <Make_Apparel_GreatDress.jobString>Виготовляє вишукану сукню</Make_Apparel_GreatDress.jobString>
+
+  <Make_VFES_Gun_DoubleActionRevolver.label>зробити ковбойский револьвер</Make_VFES_Gun_DoubleActionRevolver.label>
+  <Make_VFES_Gun_DoubleActionRevolver.description>Зробити ковбойский револьвер.</Make_VFES_Gun_DoubleActionRevolver.description>
+  <Make_VFES_Gun_DoubleActionRevolver.jobString>Виготовляє ковбойский револьвер</Make_VFES_Gun_DoubleActionRevolver.jobString>
+
+  <Make_VFES_Gun_DoubleBarreledShotgun.label>зробити двоствольну рушницю</Make_VFES_Gun_DoubleBarreledShotgun.label>
+  <Make_VFES_Gun_DoubleBarreledShotgun.description>Зробити двоствольну рушницю.</Make_VFES_Gun_DoubleBarreledShotgun.description>
+  <Make_VFES_Gun_DoubleBarreledShotgun.jobString>Виготовляє двоствольну рушницю</Make_VFES_Gun_DoubleBarreledShotgun.jobString>
+
+  <Make_VFES_Gun_HuntingRifle.label>зробити мисливську гвинтівку</Make_VFES_Gun_HuntingRifle.label>
+  <Make_VFES_Gun_HuntingRifle.description>Зробити мисливську гвинтівку.</Make_VFES_Gun_HuntingRifle.description>
+  <Make_VFES_Gun_HuntingRifle.jobString>Виготовляє мисливську гвинтівку</Make_VFES_Gun_HuntingRifle.jobString>
+
+  <Make_VFES_Weapon_GrenadeDynamite.label>зробити динаміт</Make_VFES_Weapon_GrenadeDynamite.label>
+  <Make_VFES_Weapon_GrenadeDynamite.description>Зробити динаміт.</Make_VFES_Weapon_GrenadeDynamite.description>
+  <Make_VFES_Weapon_GrenadeDynamite.jobString>Виготовляє динаміт</Make_VFES_Weapon_GrenadeDynamite.jobString>
+
+  <Make_VFES_Tomahawk.label>зробити томагавк</Make_VFES_Tomahawk.label>
+  <Make_VFES_Tomahawk.description>Зробити томагавк.</Make_VFES_Tomahawk.description>
+  <Make_VFES_Tomahawk.jobString>Виготовляє томагавк</Make_VFES_Tomahawk.jobString>
+
+</LanguageData>

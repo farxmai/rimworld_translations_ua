@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_HeavyCrossbow.label>важкий арбалет</VFEM_HeavyCrossbow.label>
+  <VFEM_HeavyCrossbow.description>Дослідження створення важких арбалетів, здатних стріляти снарядами, непереборними для більшості видів броні, зробленої людиною.</VFEM_HeavyCrossbow.description>
+
+  <VFEM_NobleMedievalApparel.label>шляхетний одяг</VFEM_NobleMedievalApparel.label>
+  <VFEM_NobleMedievalApparel.description>Дослідження створення "шляхетного" одягу, що надає власнику додаткового соціального впливу.</VFEM_NobleMedievalApparel.description>
+
+  <VFEM_PlagueMask.label>чумна маска</VFEM_PlagueMask.label>
+  <VFEM_PlagueMask.description>Дослідження створення чумної маски, наповненої лікарськими травами, для запобігання зараженню чумою.</VFEM_PlagueMask.description>
+
+  <VFEM_TreeHealroot.label>лікувальні древа</VFEM_TreeHealroot.label>
+  <VFEM_TreeHealroot.description>Дослідження вирощування цілющих дерев, що дають лікарські засоби та випромінюють антисептичні олії.</VFEM_TreeHealroot.description>
+
+  <VFEM_MeatSmoking.label>копчення</VFEM_MeatSmoking.label>
+  <VFEM_MeatSmoking.description>Дослідження методу тривалого зберігання м'яса.</VFEM_MeatSmoking.description>
+
+</LanguageData>

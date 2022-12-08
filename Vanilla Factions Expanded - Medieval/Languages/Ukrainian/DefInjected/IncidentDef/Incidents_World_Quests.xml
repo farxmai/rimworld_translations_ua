@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Quest_MedievalTournament.label>лицарський турнір</VFEM_Quest_MedievalTournament.label>
+  <VFEM_Quest_MedievalTournament.letterText>Поширюється чутка, що {PAWN_nameDef}, {0} з {1}, буде проводити турнір поруч із {2}. Це потенційно може бути гарною нагодою заробити репутацію, а також отримати наступні призи:\n\n {3}</VFEM_Quest_MedievalTournament.letterText>
+  <VFEM_Quest_MedievalTournament.letterLabel>Лицарський турнір</VFEM_Quest_MedievalTournament.letterLabel>
+
+</LanguageData>

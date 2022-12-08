@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Weapon_GrenadeDynamite.label>динаміт</VFES_Weapon_GrenadeDynamite.label>
+  <VFES_Weapon_GrenadeDynamite.description>Саморобна вибухова шашка із хімпалива. Її можна кинути на коротку відстань, де вона вибухне через довільну кількість часу.</VFES_Weapon_GrenadeDynamite.description>
+
+  <VFES_Proj_Dynamite.label>динаміт</VFES_Proj_Dynamite.label>
+
+</LanguageData>

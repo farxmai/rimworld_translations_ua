@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_DigTerrain.reportString>копає</VFEM_DigTerrain.reportString>
+
+  <VFEM_FillTerrain.reportString>закопує</VFEM_FillTerrain.reportString>
+
+</LanguageData>

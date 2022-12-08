@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_KingdomCivil.label>мирне королівство</VFEM_KingdomCivil.label>
+  <VFEM_KingdomCivil.description>Ці люди прожили тут коротший період, ніж їхні неолітичні побратими з племен. Вважається, що деякі люди з племен і більш просунуті чужинці об'єдналися і організували середньовічний соціальний устрій.\n\nХоча вони все ще технологічно поступаються багатьом іншим фракціям, люди королівства добре відомі тим, що використовують високі укріплення для захисту свого майна, а також користуються щитами у бою та воюють особливо впорядкованим чином.\n\nЦе конкретне королівство відкрите для підтримки добрих торгових відносин з іншими поселеннями, щоб зміцнити своє економічне становище.</VFEM_KingdomCivil.description>
+  <VFEM_KingdomCivil.pawnSingular>підданий</VFEM_KingdomCivil.pawnSingular>
+  <VFEM_KingdomCivil.pawnsPlural>піддані</VFEM_KingdomCivil.pawnsPlural>
+  <VFEM_KingdomCivil.leaderTitle>лорд</VFEM_KingdomCivil.leaderTitle>
+
+  <VFEM_KingdomRough.label>войовниче королівство</VFEM_KingdomRough.label>
+  <VFEM_KingdomRough.description>Ці люди прожили тут коротший період, ніж їхні неолітичні побратими з племен. Вважається, що деякі люди з племен і більш просунуті чужинці об'єдналися і організували середньовічний соціальний устрій.\n\nХоча вони все ще технологічно поступаються багатьом іншим фракціям, люди королівства добре відомі тим, що використовують високі укріплення для захисту свого майна, а також користуються щитами у бою та воюють особливо впорядкованим чином.\n\nЦе конкретне королівство знаходиться під міцною рукою і бажає розширюватися за рахунок руйнування менш щасливих - хоча з ними все ще можна потоваришувати.</VFEM_KingdomRough.description>
+  <VFEM_KingdomRough.pawnSingular>підданий</VFEM_KingdomRough.pawnSingular>
+  <VFEM_KingdomRough.pawnsPlural>піддані</VFEM_KingdomRough.pawnsPlural>
+  <VFEM_KingdomRough.leaderTitle>лорд</VFEM_KingdomRough.leaderTitle>
+
+  <VFEM_KingdomSavage.label>вороже королівство</VFEM_KingdomSavage.label>
+  <VFEM_KingdomSavage.description>Ці люди прожили тут коротший період, ніж їхні неолітичні побратими з племен. Вважається, що деякі люди з племен і більш просунуті чужинці об'єдналися і організували середньовічний соціальний устрій.\n\nХоча вони все ще технологічно поступаються багатьом іншим фракціям, люди королівства добре відомі тим, що використовують високі укріплення для захисту свого майна, а також користуються щитами у бою та воюють особливо впорядкованим чином.\n\nЦе конкретне королівство відоме культурою нескінченних битв; ви не зможете укласти з ними союз!</VFEM_KingdomSavage.description>
+  <VFEM_KingdomSavage.pawnSingular>підданий</VFEM_KingdomSavage.pawnSingular>
+  <VFEM_KingdomSavage.pawnsPlural>піддані</VFEM_KingdomSavage.pawnsPlural>
+  <VFEM_KingdomSavage.leaderTitle>лорд</VFEM_KingdomSavage.leaderTitle>
+
+</LanguageData>

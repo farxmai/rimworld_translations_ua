@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wanted.label>розшукується</Wanted.label>
+  <Wanted.description>Ця особа вважається злочинцем і розшукується однією з фракцій.</Wanted.description>
+  <Wanted.stages.0.label>у розшуку</Wanted.stages.0.label>
+  <Wanted.labelNoun>у розшуку</Wanted.labelNoun>
+
+</LanguageData>

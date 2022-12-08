@@ -3,7 +3,7 @@
   <!-- EN: factory floor -->
   <VFE_FactoryFloor.label>заводская плитка</VFE_FactoryFloor.label>
   <!-- EN: Reinforced steel tiles, capable of holding heavy, complex machinery in place. Not the prettiest to look at. -->
-  <VFE_FactoryFloor.description>Усиленная стальная плитка, способная удерживать тяжёлую и сложную технику. Не слишком красивая на вид.</VFE_FactoryFloor.description>
+  <VFE_FactoryFloor.description>Усиленная стальная плитка, способная удерживать важку и сложную технику. Не слишком красивая на вид.</VFE_FactoryFloor.description>
   
   <!-- EN: factory path -->
   <VFE_FactoryPath.label>заводская дорожка</VFE_FactoryPath.label>

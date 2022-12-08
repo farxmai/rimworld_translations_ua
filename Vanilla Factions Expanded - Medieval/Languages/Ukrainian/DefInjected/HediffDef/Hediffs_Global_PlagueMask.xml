@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_PlagueMask.label>чумна маска</VFEM_PlagueMask.label>
+  <VFEM_PlagueMask.description>Чумна маска запобігає зараженню чумою.</VFEM_PlagueMask.description>
+
+  <VFEM_AntisepticSmell.label>запах антисептика</VFEM_AntisepticSmell.label>
+  <VFEM_AntisepticSmell.description>Ефірні олії лікувального кореня всмоктуються у кров. Ефект викликає слабкість і збентеження.</VFEM_AntisepticSmell.description>
+
+</LanguageData>

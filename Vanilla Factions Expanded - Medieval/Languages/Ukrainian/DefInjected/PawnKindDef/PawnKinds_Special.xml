@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_SellSword.label>найманий мечник</VFEM_SellSword.label>
+  <VFEM_SellSword.labelPlural>наймані мечники</VFEM_SellSword.labelPlural>
+
+  <VFEM_BlackKnight.label>чорний лицар</VFEM_BlackKnight.label>
+  <VFEM_BlackKnight.labelPlural>чорні лицарі</VFEM_BlackKnight.labelPlural>
+
+  <VFEM_KnightInBlack.label>лицар у чорному</VFEM_KnightInBlack.label>
+  <VFEM_KnightInBlack.labelPlural>лицарі у чорному</VFEM_KnightInBlack.labelPlural>
+
+</LanguageData>

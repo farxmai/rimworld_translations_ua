@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bandit.label>бандит</Bandit.label>
+  <Bandit.labelPlural>бандити</Bandit.labelPlural>
+
+  <BountyHunter.label>мисливець за головами</BountyHunter.label>
+  <BountyHunter.labelPlural>мисливці за головами</BountyHunter.labelPlural>
+
+  <Outlaw.label>вигнанець</Outlaw.label>
+  <Outlaw.labelPlural>вигнанці</Outlaw.labelPlural>
+
+  <Gunslinger.label>стрілець</Gunslinger.label>
+  <Gunslinger.labelPlural>стрільці</Gunslinger.labelPlural>
+
+  <BanditLeader.label>лідер бандитів</BanditLeader.label>
+  <BanditLeader.labelPlural>лідери бандитів</BanditLeader.labelPlural>
+
+</LanguageData>
