@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName->Сутичка</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->[asker_nameDef], [asker_faction_leaderTitle] з фракції [asker_faction_name] каже, що [asker_possessive] війська зіткнулися з ворогами і хочуть битися з ними у відкритому бою.\nВ [asker_nameDef] немає підкріплень або допомоги, і вони передають, що якщо ви встигнете допомогти вчасно, ви надасте велику послугу [asker_faction_name].</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>Битва скінчилася до того, як ви встигли взяти у ній участь. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>Ви здобули перемогу у битві.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>Всі ворги знешкоджені.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>
+
+</LanguageData>

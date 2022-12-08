@@ -7,11 +7,11 @@
   <SettlerCivil.pawnSingular>мирний поселенець</SettlerCivil.pawnSingular>
   <SettlerCivil.pawnsPlural>мирні поселенці</SettlerCivil.pawnsPlural>
 
-  <SettlerRough.label>ворожі поселенці</SettlerRough.label>
+  <SettlerRough.label>войовничі поселенці</SettlerRough.label>
   <SettlerRough.description>Ці люди живуть тут протягом десятиліть чи століть. Більшість технологій, які привели їх сюди, давно втрачено. У роботі вони зазвичай використовують прості механічні інструменти, а захищаються просунутою вогнепальною зброєю.\n\nКоло їх інтересів - торгівля, довіра, виживання.\n\nЦя конкретна група вважає, що ніхто не створений рівним, і що сила дозволяє їм виживати на прикордонні.</SettlerRough.description>
   <SettlerRough.leaderTitle>мер</SettlerRough.leaderTitle>
   <SettlerRough.pawnSingular>ворожий поселенець</SettlerRough.pawnSingular>
-  <SettlerRough.pawnsPlural>ворожі поселенці</SettlerRough.pawnsPlural>
+  <SettlerRough.pawnsPlural>войовничі поселенці</SettlerRough.pawnsPlural>
 
   <SettlerSavage.label>бандити</SettlerSavage.label>
   <SettlerSavage.description>Ці люди жили тут десятиліттями чи століттями і втратили більшу частину технологій, які привели їх у цей світ.\n\nЦе вільна конфедерація бандитських угруповань, які погодилися спільно боротися з чужинцями, а не один з одним. Бандити не вирощують рослини, не будують власні споруди і рідко торгують. Керуючись культурою крові та честі, яка цінує особисту силу та безжалісність, вони збагачуються, здійснюючи набіги та грабуючи своїх більш продуктивних сусідів.</SettlerSavage.description>

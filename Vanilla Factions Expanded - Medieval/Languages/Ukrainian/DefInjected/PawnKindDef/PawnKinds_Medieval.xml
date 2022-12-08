@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Medieval_Peasant.label>селянин</VFEM_Medieval_Peasant.label>
+  <VFEM_Medieval_Peasant.labelPlural>селяни</VFEM_Medieval_Peasant.labelPlural>
+
+  <VFEM_Medieval_Merchant.label>купець</VFEM_Medieval_Merchant.label>
+  <VFEM_Medieval_Merchant.labelPlural>купці</VFEM_Medieval_Merchant.labelPlural>
+
+  <VFEM_Medieval_Squire.label>зброєносець</VFEM_Medieval_Squire.label>
+  <VFEM_Medieval_Squire.labelPlural>зброєносці</VFEM_Medieval_Squire.labelPlural>
+
+  <VFEM_Medieval_Bowman.label>лучник</VFEM_Medieval_Bowman.label>
+  <VFEM_Medieval_Bowman.labelPlural>лучники</VFEM_Medieval_Bowman.labelPlural>
+
+  <VFEM_Medieval_Footsoldier.label>піхотинець</VFEM_Medieval_Footsoldier.label>
+  <VFEM_Medieval_Footsoldier.labelPlural>піхотинці</VFEM_Medieval_Footsoldier.labelPlural>
+
+  <VFEM_Medieval_Knight.label>лицар</VFEM_Medieval_Knight.label>
+  <VFEM_Medieval_Knight.labelPlural>лицарі</VFEM_Medieval_Knight.labelPlural>
+
+  <VFEM_Medieval_Lord.label>лорд</VFEM_Medieval_Lord.label>
+  <VFEM_Medieval_Lord.labelPlural>лорди</VFEM_Medieval_Lord.labelPlural>
+
+  <VFEM_Medieval_Jester.label>блазень</VFEM_Medieval_Jester.label>
+  <VFEM_Medieval_Jester.labelPlural>блазні</VFEM_Medieval_Jester.labelPlural>
+
+  <VFEM_Medieval_Dame.label>леді</VFEM_Medieval_Dame.label>
+  <VFEM_Medieval_Dame.labelPlural>леді</VFEM_Medieval_Dame.labelPlural>
+
+  <VFEM_Medieval_King.label>король</VFEM_Medieval_King.label>
+  <VFEM_Medieval_King.labelPlural>королі</VFEM_Medieval_King.labelPlural>
+
+</LanguageData>

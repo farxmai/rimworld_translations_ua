@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_UnknownKingdom.label>невідоме королівство</VFEM_UnknownKingdom.label>
+  <VFEM_UnknownKingdom.pawnSingular>підданий</VFEM_UnknownKingdom.pawnSingular>
+  <VFEM_UnknownKingdom.pawnsPlural>піддані</VFEM_UnknownKingdom.pawnsPlural>
+  <VFEM_UnknownKingdom.fixedName>Невідоме королівство</VFEM_UnknownKingdom.fixedName>
+
+  <VFEM_UnknownKingdomHostile.label>невідоме королівство</VFEM_UnknownKingdomHostile.label>
+  <VFEM_UnknownKingdomHostile.pawnSingular>підданий</VFEM_UnknownKingdomHostile.pawnSingular>
+  <VFEM_UnknownKingdomHostile.pawnsPlural>піддані</VFEM_UnknownKingdomHostile.pawnsPlural>
+  <VFEM_UnknownKingdomHostile.fixedName>Невідоме королівство</VFEM_UnknownKingdomHostile.fixedName>
+
+</LanguageData>

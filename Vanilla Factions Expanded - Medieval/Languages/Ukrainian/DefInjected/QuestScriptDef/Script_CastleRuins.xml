@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>questName(priority=1)->[journey] [asker_nameDef] біля [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>questName->[stash] біля [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>journey->Подорож</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>journey->Експедиція</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>journey->Полювання за скарбами</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>journey->Авантюра</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>ruins->руїн замку</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>ruins->зруйнованої фортеці</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>ruins->зруйнованого замку</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>ruins->покинутого замку</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>ruins->нічийних володінь</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>stash->Схованка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>stash->Запаси</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>stash->Скарб</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>ruins->руїн</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>ruins->зруйнованої фортеці</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>ruins->покинутих володінь</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>
+
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Ми перехопили повідомлення про руїни покинутого замку, в яких є скарби неподалік [map_definite].\n\nЗдається, що [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] з фракції [asker_faction_name], повідомив нам про деякі руїни покинутого замку, недалеко від нас, у яких можуть бути скарби. Ніхто не знає, що трапилося з попередніми мешканцями, але ми ще можемо зібрати те, що залишилося.\n\n[asker_label] каже, що [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
+
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Термін завдання вичерпано: «[resolvedQuestName]»</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Перехоплені повідомлення вказують на те, що зруйнований замок розграбовано іншими людьми. Завдання «[resolvedQuestName]» провалено.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+
+</LanguageData>

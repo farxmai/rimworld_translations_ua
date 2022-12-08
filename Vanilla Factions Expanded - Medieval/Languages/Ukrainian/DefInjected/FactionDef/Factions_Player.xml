@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_PlayerKingdom.label>Нове Королівство</VFEM_PlayerKingdom.label>
+  <VFEM_PlayerKingdom.description>Маленьке королівство.</VFEM_PlayerKingdom.description>
+  <VFEM_PlayerKingdom.pawnSingular>підданий</VFEM_PlayerKingdom.pawnSingular>
+  <VFEM_PlayerKingdom.pawnsPlural>піддані</VFEM_PlayerKingdom.pawnsPlural>
+
+</LanguageData>
