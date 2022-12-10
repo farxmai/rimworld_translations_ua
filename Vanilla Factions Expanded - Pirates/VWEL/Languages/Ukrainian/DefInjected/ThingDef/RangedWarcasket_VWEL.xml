@@ -2,38 +2,38 @@
 <LanguageData>
 
   <!-- EN: warcasket (бойова оболонка) salvaged laser eradicator -->
-  <VFEP_WarcasketGun_SalvagedLaserEradicator.label>утильный уничтожитель мертвеца</VFEP_WarcasketGun_SalvagedLaserEradicator.label>
+  <VFEP_WarcasketGun_SalvagedLaserEradicator.label>великогабаратний утильний винищувач</VFEP_WarcasketGun_SalvagedLaserEradicator.label>
   <!-- EN: A rather complicated piece of laser technology that was primarily developed as a siege weapon to generate explosions within hardened bunkers. In order to miniaturize an emplacement weapon without needing a massive power unit, the shoulder-mounted laser fires in irregular pulses with a frequency between kHz and MHz. The results are hard to dispute as it can cause a devastating blast, however it has a limited effective range and a long warm-up period to charge the capacitor banks. -->
-  <VFEP_WarcasketGun_SalvagedLaserEradicator.description>Довольно сложная часть лазерной технологии, которая в первую очередь разрабатывалась как осадное орудие для создания взрывов в укрепленных бункерах. Для решения проблемы использования такого оружия без необходимости в массивном блоке питания, лазер, установленный на плече, стреляет нерегулярными импульсами с частотой от нескольких килогерц до нескольких мегагерц. В результате выстрела получается мощный взрыв, который говорит сам за себя. Однако оружие имеет ограниченную дальность стрельбы и длительный период зарядки батарей.</VFEP_WarcasketGun_SalvagedLaserEradicator.description>
+  <VFEP_WarcasketGun_SalvagedLaserEradicator.description>Досить складна частина лазерної технології, яка в першу чергу розроблялася як облогова зброя для створення вибухів у укріплених бункерах. Для вирішення проблеми використання такої зброї без необхідності в масивному блоці живлення лазер, встановлений на плечі, стріляє нерегулярними імпульсами з частотою від кількох кілогерц до кількох мегагерц. Внаслідок пострілу виходить потужний вибух, який говорить сам за себе. Однак зброя має обмежену дальність стрільби та тривалий період заряджання батарей.</VFEP_WarcasketGun_SalvagedLaserEradicator.description>
   <!-- EN: barrel -->
   <VFEP_WarcasketGun_SalvagedLaserEradicator.tools.0.label>ствол</VFEP_WarcasketGun_SalvagedLaserEradicator.tools.0.label>
 
   <!-- EN: warcasket (бойова оболонка) salvaged laser eradicator -->
-  <VFEP_Box_SalvagedLaserEradicator.label>утильный уничтожитель мертвеца</VFEP_Box_SalvagedLaserEradicator.label>
+  <VFEP_Box_SalvagedLaserEradicator.label>великогабаратний утильний винищувач</VFEP_Box_SalvagedLaserEradicator.label>
   <!-- EN: A rather complicated piece of laser technology that was primarily developed as a siege weapon to generate explosions within hardened bunkers. In order to miniaturize an emplacement weapon without needing a massive power unit, the shoulder-mounted laser fires in irregular pulses with a frequency between kHz and MHz. The results are hard to dispute as it can cause a devastating blast, however it has a limited effective range and a long warm-up period to charge the capacitor banks. -->
-  <VFEP_Box_SalvagedLaserEradicator.description>Довольно сложная часть лазерной технологии, которая в первую очередь разрабатывалась как осадное орудие для создания взрывов в укрепленных бункерах. Для решения проблемы использования такого оружия без необходимости в массивном блоке питания, лазер, установленный на плече, стреляет нерегулярными импульсами с частотой от нескольких килогерц до нескольких мегагерц. В результате выстрела получается мощный взрыв, который говорит сам за себя. Однако оружие имеет ограниченную дальность стрельбы и длительный период зарядки батарей.</VFEP_Box_SalvagedLaserEradicator.description>
+  <VFEP_Box_SalvagedLaserEradicator.description>Досить складна частина лазерної технології, яка в першу чергу розроблялася як облогова зброя для створення вибухів у укріплених бункерах. Для вирішення проблеми використання такої зброї без необхідності в масивному блоці живлення лазер, встановлений на плечі, стріляє нерегулярними імпульсами з частотою від кількох кілогерц до кількох мегагерц. Внаслідок пострілу виходить потужний вибух, який говорить сам за себе. Однак зброя має обмежену дальність стрільби та тривалий період заряджання батарей.</VFEP_Box_SalvagedLaserEradicator.description>
 
   <!-- EN: unstable laser shot -->
-  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>нестабильный лазерный луч</VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>
+  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>розфокусований лазерний промінь</VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>
   <!-- EN: An unstable laser beam. -->
-  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>Расфокусированный лазерный луч.</VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>
+  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>Розфокусований лазерний промінь.</VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>
 
   <!-- EN: warcasket (бойова оболонка) laser blaster -->
-  <VFEP_WarcasketGun_LaserBlaster.label>лазерный болтер мертвеца</VFEP_WarcasketGun_LaserBlaster.label>
+  <VFEP_WarcasketGun_LaserBlaster.label>великогабаратний лазерний бластер</VFEP_WarcasketGun_LaserBlaster.label>
   <!-- EN: An enlarged laser weapon, combining both modern and antique methods into a compact package. Taking advantage of a greater weight tolerance, this system includes a revolver cylinder using advanced battery cells instead of cartridges. This allows the weapon to fire more powerful shots at a slower warmup reduction, meaning safer sustained fire for the operator. -->
-  <VFEP_WarcasketGun_LaserBlaster.description>Увеличенное в размерах лазерное оружие, сочетающее в себе как современные, так и старинные технологии в компактной упаковке. Используя преимущества грузоподъёмности брони мертвеца, эта система включает в себя револьверный барабан, с усовершенствованными энергоячейками вместо аккумуляторов. Это позволяет оружию производить более мощные выстрелы при увеличенном времени нагрева, что означает безопасное для стрелка непрерывное ведение огня.</VFEP_WarcasketGun_LaserBlaster.description>
+  <VFEP_WarcasketGun_LaserBlaster.description>Збільшена в розмірах лазерна зброя, що поєднує в собі як сучасні, так і старовинні технології компактної упаковки. Використовуючи переваги вантажопідйомності броні мерця, ця система включає револьверний барабан, з удосконаленими енергоосередками замість акумуляторів. Це дозволяє зброї робити потужніші постріли при збільшеному часі нагріву, що означає безпечне для стрілка безперервне ведення вогню.</VFEP_WarcasketGun_LaserBlaster.description>
   <!-- EN: barrel -->
   <VFEP_WarcasketGun_LaserBlaster.tools.0.label>ствол</VFEP_WarcasketGun_LaserBlaster.tools.0.label>
 
   <!-- EN: warcasket (бойова оболонка) laser bolter -->
-  <VFEP_Box_WarcasketLaserBolter.label>лазерный болтер мертвеца</VFEP_Box_WarcasketLaserBolter.label>
+  <VFEP_Box_WarcasketLaserBolter.label>великогабаратний лазерний бластер</VFEP_Box_WarcasketLaserBolter.label>
   <!-- EN: An enlarged laser weapon, combining both modern and antique methods into a compact package. Taking advantage of a greater weight tolerance, this system includes a revolver cylinder using advanced battery cells instead of cartridges. This allows the weapon to fire more powerful shots at a slower warmup reduction, meaning safer sustained fire for the operator. -->
-  <VFEP_Box_WarcasketLaserBolter.description>Увеличенное в размерах лазерное оружие, сочетающее в себе как современные, так и старинные технологии в компактной упаковке. Используя преимущества грузоподъёмности брони мертвеца, эта система включает в себя револьверный барабан, с усовершенствованными энергоячейками вместо аккумуляторов. Это позволяет оружию производить более мощные выстрелы при увеличенном времени нагрева, что означает безопасное для стрелка непрерывное ведение огня.</VFEP_Box_WarcasketLaserBolter.description>
+  <VFEP_Box_WarcasketLaserBolter.description>Збільшена в розмірах лазерна зброя, що поєднує в собі як сучасні, так і старовинні технології компактної упаковки. Використовуючи переваги вантажопідйомності броні мерця, ця система включає револьверний барабан, з удосконаленими енергоосередками замість акумуляторів. Це дозволяє зброї робити потужніші постріли при збільшеному часі нагріву, що означає безпечне для стрілка безперервне ведення вогню.</VFEP_Box_WarcasketLaserBolter.description>
 
   <!-- EN: laser shot -->
-  <VWEL_Bullet_LaserRifle.label>лазерный луч</VWEL_Bullet_LaserRifle.label>
+  <VWEL_Bullet_LaserRifle.label>лазерний промінь</VWEL_Bullet_LaserRifle.label>
   <!-- EN: A focused laser beam. -->
-  <VWEL_Bullet_LaserRifle.description>Сфокусированный лазерный луч.</VWEL_Bullet_LaserRifle.description>
+  <VWEL_Bullet_LaserRifle.description>Фокусований лазерний промінь.</VWEL_Bullet_LaserRifle.description>
 
 
 </LanguageData>

@@ -1,62 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Select Your Curses -->
-  <VFEP.ChooseCurses>Выбрать проклятия</VFEP.ChooseCurses>
+  <VFEP.ChooseCurses>Обрати прокляття</VFEP.ChooseCurses>
   <!-- EN: The more curses you select, the more pawns your storyteller will allow you to have, and the rarer big threat events will be. -->
-  <VFEP.ChooseCurses.Desc>Чем больше проклятий будет выбрано, тем больше поселенцев позволит иметь рассказчик и тем реже будут случаться серьёзные угрозы.</VFEP.ChooseCurses.Desc>
+  <VFEP.ChooseCurses.Desc>Чим більше проклятть буде обрано, тим більше колоністів дозволить мати оповідач і тим рідше траплятимуться серйозні загрози.</VFEP.ChooseCurses.Desc>
   <!-- EN: Desired population max: {0} -->
-  <VFEP.DesiredPopMax>Предельное население: {0}</VFEP.DesiredPopMax>
+  <VFEP.DesiredPopMax>Максимальне населення: {0}</VFEP.DesiredPopMax>
   <!-- EN: Days between Big Threats: {0} -->
-  <VFEP.DaysBigThreats>Дней между угрозами: {0}</VFEP.DaysBigThreats>
+  <VFEP.DaysBigThreats>Днів між загрозами: {0}</VFEP.DaysBigThreats>
   <!-- EN: Warcasket Customization -->
-  <VFEP.WarcasketCustom>Изменение брони мертвеца</VFEP.WarcasketCustom>
+  <VFEP.WarcasketCustom>Зміна бойової оболинки</VFEP.WarcasketCustom>
   <!-- EN: When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin
 assembling a warcasket (бойова оболонка). The speed of the assembly depends on the crafting skill of your crafter.
 Once the process is completed, a warcasket (бойова оболонка) will leave the platform. Be careful, as the pawn
 on the platform can still die of hunger when on the platform - you should prioritize the warcasket (бойова оболонка)
 assembly over other tasks. -->
-  <VFEP.WarcasketText>Когда вы нажмёте «Принять», выбранный мастер начнёт собрать ресурсы для сборки брони мертвеца.
-Скорость сборки будет зависеть от уровня навыка ремесла выбранного мастера.
-Только когда сборка будет завершена, броня мертвеца покинет платформу. Поселенец в броне может умереть от голода во время сборки.
-Постарайтесь отдать максимальный приоритет процессу сборки брони.</VFEP.WarcasketText>
+  <VFEP.WarcasketText>Натискаючи «Принйняти», майстер почне збирати ресурси для створення нової бойової оболонки.
+Жвідкість збірки залежатиме від навичок ремесла майстра.
+Колоніст зможе полишити станцію тількі після того, як створення оболонки буде завершено. До того необхідно щоб хтось годував його, інакше є ризик загинути.
+Намагайтесь надати максимальний пріорітет створенню оболонки.</VFEP.WarcasketText>
   <!-- EN: Work Amount: -->
-  <VFEP.WorkAmount>Объём работ:</VFEP.WorkAmount>
+  <VFEP.WorkAmount>Обсяг роботи:</VFEP.WorkAmount>
   <!-- EN: Crafter -->
-  <VFEP.Crafter>Мастер:</VFEP.Crafter>
+  <VFEP.Crafter>Майстер:</VFEP.Crafter>
   <!-- EN: Helmet: -->
-  <VFEP.Helmet>Шлем:</VFEP.Helmet>
+  <VFEP.Helmet>Шолом:</VFEP.Helmet>
   <!-- EN: Shoulderpads: -->
-  <VFEP.Shoulderpads>Наплечники:</VFEP.Shoulderpads>
+  <VFEP.Shoulderpads>Наплічники:</VFEP.Shoulderpads>
   <!-- EN: Armor frame: -->
   <VFEP.ArmorFrame>Броня:</VFEP.ArmorFrame>
   <!-- EN: Total Cost: -->
-  <VFEP.TotalCost>Всего:</VFEP.TotalCost>
+  <VFEP.TotalCost>Всього:</VFEP.TotalCost>
   <!-- EN: Resource Cost: -->
-  <VFEP.ResourceCost>Всего ресурсов:</VFEP.ResourceCost>
+  <VFEP.ResourceCost>Всього ресурсів:</VFEP.ResourceCost>
   <!-- EN: Research more warcasket (бойова оболонка) technology to unlock more armor pieces. -->
-  <VFEP.ResearchText>Исследуйте больше технологий мертвеца, чтобы открыть больше листов брони.</VFEP.ResearchText>
+  <VFEP.ResearchText>Досліджуйте відповідні проекти щоб відкрити більше бойових оболонок.</VFEP.ResearchText>
   <!-- EN: Research warcaskets to learn how to use the foundry. -->
-  <VFEP.NoWarcaskets>Исследуйте броню мертвеца, чтобы узнать как пользоваться цехом мертвеца.</VFEP.NoWarcaskets>
+  <VFEP.NoWarcaskets>Дослідіть свторення бойових оболонок щоб дізнатися як користуватись станцією збірки.</VFEP.NoWarcaskets>
   <!-- EN: Not enough chemfuel for power jump. -->
-  <VFEP.NotEnoughFuel>Не хватает химтоплива для силового прыжка.</VFEP.NotEnoughFuel>
+  <VFEP.NotEnoughFuel>Не вистачає хімпалива для стрибка.</VFEP.NotEnoughFuel>
   <!-- EN: Siege mode off -->
-  <VFEP.SiegeModeOff>Осадный режим отключён</VFEP.SiegeModeOff>
+  <VFEP.SiegeModeOff>Облоговий режим вимкнено</VFEP.SiegeModeOff>
   <!-- EN: Siege mode on -->
-  <VFEP.SiegeModeOn>Осадный режим включён</VFEP.SiegeModeOn>
+  <VFEP.SiegeModeOn>Облоговий режим увімкнено</VFEP.SiegeModeOn>
   <!-- EN: Cannot entomp in warcasket (бойова оболонка): {0} -->
-  <VFEPirates.CannotEntomb>Нельзя заковать в броню мертвеца: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.CannotEntomb>Неможливо встановити оболонку: {0}</VFEPirates.CannotEntomb>
   <!-- EN: Entomb in warcasket (бойова оболонка) -->
-  <VFEPirates.EntombInWarcasket>Заковать в броню мертвеца</VFEPirates.EntombInWarcasket>
+  <VFEPirates.EntombInWarcasket>Встановити оболонку</VFEPirates.EntombInWarcasket>
   <!-- EN:  (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.) -->
-  <VFEP.EntombInIncapableOfViolenceWarning> (Внимание: {PAWN_nameDef} не может причинять насилие и будет бесполезен.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <VFEP.EntombInIncapableOfViolenceWarning> (Увага: {PAWN_nameDef} не здатний до насилля, тому це не має сенсу.)</VFEP.EntombInIncapableOfViolenceWarning>
   <!-- EN: Activate shield field -->
-  <VFEP.ActivateShield>Активировать щит</VFEP.ActivateShield>
+  <VFEP.ActivateShield>Активувати щит</VFEP.ActivateShield>
   <!-- EN: Click to activate the shield field. It has 10 seconds of active mode and then 90 seconds cooldown. -->
-  <VFEP.ActivateShieldDesc>Нажмите, чтобы активировать щит. Он будет активен 10 секунд, а потом уйдёт на 90 секунд на перезарядку.</VFEP.ActivateShieldDesc>
+  <VFEP.ActivateShieldDesc>Натисніть для активації щита. Він буде активний 10 секунд, а потім зникне на 90 секунд на перезарядження.</VFEP.ActivateShieldDesc>
   <!-- EN: Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds. -->
-  <VFEP.DeployWarDrone>Выпустить готовых к бою дронов из заднего отсека. Ими можно управлять для создания огневой поддержки, но они самоуничтожатся через 60 секунд.</VFEP.DeployWarDrone>
+  <VFEP.DeployWarDrone>Випустити готових до бою дронів із заднього відсіку. Ними можна керувати для створення вогневої підтримки, але вони самознищаться за 60 секунд.</VFEP.DeployWarDrone>
   <!-- EN: Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them. -->
-  <VFEP.DeploySpidermineDesc>Выстрелить на дальнее расстояние миной-павуком, которая начнёт двигаться к ближайшему врагу и сдетонирует как только дойдёт до него.</VFEP.DeploySpidermineDesc>
+  <VFEP.DeploySpidermineDesc>Вистрілити на далеку відстань міною-павуком, яка почне рухатися до найближчого ворога і здетонує, як тільки дійде до нього.</VFEP.DeploySpidermineDesc>
   <!-- EN: Cancel -->
-  <VFEP.Cancel>Отменить</VFEP.Cancel>
+  <VFEP.Cancel>Скасувати</VFEP.Cancel>
 </LanguageData>

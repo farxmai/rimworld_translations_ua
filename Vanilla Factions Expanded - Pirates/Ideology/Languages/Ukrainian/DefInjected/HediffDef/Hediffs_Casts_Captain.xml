@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--En: firing frenzy -->
-  <VFEP_FiringFrenzy.label>стрелковая команда</VFEP_FiringFrenzy.label>
+  <VFEP_FiringFrenzy.label>стрілецьке командування</VFEP_FiringFrenzy.label>
   <!--En: This person is using a special ability to inspire everyone nearby. Everyone within an effect radius gains 50% decreased Shooting Aiming time and 50% increased Pain Shock Threshold.-->
-  <VFEP_FiringFrenzy.description>Я использую особую способность для вдохновения окружающих. Они в радиусе действия способности начинают на 50% быстрее прицеливаться и на 50% увеличивают порог переносимости боли.</VFEP_FiringFrenzy.description>
+  <VFEP_FiringFrenzy.description>Я використовую особливу здатність натхнення оточуючих. Вони в радіусі впливу здатності починають на 50% швидше прицілюватися і на 50% збільшують поріг переносимості болю.</VFEP_FiringFrenzy.description>
 
   <!--En: firing frenzy -->
-  <VFEP_FiringFrenzyBuff.label>стрелковая команда</VFEP_FiringFrenzyBuff.label>
+  <VFEP_FiringFrenzyBuff.label>стрілецьке командування</VFEP_FiringFrenzyBuff.label>
   <!--En: Someone is using the firing frenzy ability nearby, inspiring this person to shoot faster and withstand greater amounts of physical pain. -->
-  <VFEP_FiringFrenzyBuff.description>Кто-то поблизости отдал стрелковую команду и вдохновил меня стрелять быстрее и сдерживать боль.</VFEP_FiringFrenzyBuff.description>
+  <VFEP_FiringFrenzyBuff.description>Хтось поблизу віддав стрілецьку команду і надихнув мене стріляти швидше та стримувати біль.</VFEP_FiringFrenzyBuff.description>
 </LanguageData>

@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: warcasket (бойова оболонка) crypto cannon -->
-  <VFEP_WarcasketGun_CryptoCannon.label>криптоорудие мертвеца</VFEP_WarcasketGun_CryptoCannon.label>
+  <VFEP_WarcasketGun_CryptoCannon.label>великогабаритна криптогармата</VFEP_WarcasketGun_CryptoCannon.label>
   <!-- EN: Combines both crypto technology with military flamethrowers for a close range defense weapon. Sacrifices direct damage potential for area denial. Applies variable cold effect to those affected by the stream of supercooled particles, reducing their manipulation and inducing hypothermia. Ideally used with a pair of fast-moving warcaskets. -->
-  <VFEP_WarcasketGun_CryptoCannon.description>Смесь криптотехнологий и военных огнемётов для контроля подходов вблизи. Жертвует прямым уроном в пользу возможности контроля территории. Использует различные технологии заморозки для создания потока очень холодных частиц, которые снижают способности врагов и вызывают гипотермию. Идеальный выбор для быстрой брони мертвеца.</VFEP_WarcasketGun_CryptoCannon.description>
+  <VFEP_WarcasketGun_CryptoCannon.description>Суміш криптотехнологій та військових вогнеметів для контролю підходів поблизу. Жертвує потенціалом прямої шкоди заради контролю території навколо. Використовує різні технології заморожування для створення потоку дуже холодних частинок, які знижують здібності ворогів і викликають гіпотермію. Ідеальний вибір для швидкої бойової оболонки.</VFEP_WarcasketGun_CryptoCannon.description>
   <!-- EN: stock -->
-  <VFEP_WarcasketGun_CryptoCannon.tools.0.label>приклад</VFEP_WarcasketGun_CryptoCannon.tools.0.label>
+  <VFEP_WarcasketGun_CryptoCannon.tools.0.label>ложа</VFEP_WarcasketGun_CryptoCannon.tools.0.label>
   <!-- EN: barrel -->
   <VFEP_WarcasketGun_CryptoCannon.tools.1.label>ствол</VFEP_WarcasketGun_CryptoCannon.tools.1.label>
 

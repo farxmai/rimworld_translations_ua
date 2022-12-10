@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: singing shanties -->
-  <VFEP_Speech_Shanties.label>пение шанти</VFEP_Speech_Shanties.label>
+  <VFEP_Speech_Shanties.label>спів шанті</VFEP_Speech_Shanties.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
 
@@ -36,34 +36,34 @@
   -->
   <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->поисках [Vegetable] для предотвращения цинги</li>
-    <li>speechtopic->том, как быть [AdjectiveFriendly] во время налётов</li>
-    <li>speechtopic->том, как охотиться на [AnimalBadass] ради протеина</li>
-    <li>speechtopic->том, что вся наша жизнь — [Game], но кооперативная</li>
-    <li>speechtopic->мышлении, смертоносном, словно [Weapon] во время налёта</li>
-    <li>speechtopic->путешествиях через [TerrainFeature] и [TerrainFeature] перед налётов</li>
-    <li>speechtopic->что каждый член команды друг другу [PersonFamily]</li>
-    <li>speechtopic->потребности в [PersonJob] в команде</li>
-    <li>speechtopic->том, как побеждать [PersonBadass]</li>
-    <li>speechtopic->победе над [Enemy] с помощью духа братства</li>
-    <li>speechtopic->том, как [initiator_saw] [Gore] в бою</li>
-    <li>speechtopic->смысле братства</li>
-    <li>speechtopic->наличия капитана в команде</li>
-    <li>speechtopic->том, как быть [AdjectiveBadass], не будучи [AdjectiveBadass]</li>
-    <li>speechtopic->насколько наша команда [AdjectiveBadass]</li>
+    <li>speechtopic->пошуках [Vegetable] для запобігання цинги</li>
+    <li>speechtopic->тому, як бути [Adjective Friendly] під час нальотів</li>
+    <li>speechtopic->тому, як полювати на [AnimalBadass] заради протеїну</li>
+    <li>speechtopic->тому, що все наше життя — [Game], але кооперативне</li>
+    <li>speechtopic->мислення, смертоносне, наче [Weapon] під час нальоту</li>
+    <li>speechtopic->подорожі через [Terrain Feature] та [Terrain Feature] перед нальотами</li>
+    <li>speechtopic->що кожен член команди один одному [PersonFamily]</li>
+    <li>speechtopic->потреби в [PersonJob] у команді</li>
+    <li>speechtopic->тому, як перемагати [PersonBadass]</li>
+    <li>speechtopic->перемоги над [Enemy] за допомогою духу братства</li>
+    <li>speechtopic->тому, як [initiator_saw] [Gore] у бою</li>
+    <li>speechtopic->сенс братства</li>
+    <li>speechtopic->наявності капітана у команді</li>
+    <li>speechtopic->як бути [AdjectiveBadass], не будучи [AdjectiveBadass]</li>
+    <li>speechtopic->наскільки наша команда [AdjectiveBadass]</li>
     <li>speechtopic->[AdjectiveNatural] [TerrainFeature]</li>
-    <li>speechtopic->том, насколько [AdjectiveLarge] потенциал команды</li>
-    <li>speechtopic->[PersonalCharacteristic] каждого члена команды</li>
-    <li>speechtopic->ужасных проявлениях [PersonalCharacteristic] врагов команды</li>
-    <li>speechtopic(p=0.25)->важности сплочённости</li>
-    <li>speechtopic(p=0.25)->движении вперёд через все трагедии, как команда</li>
-    <li>speechtopic(p=0.25)->важности команды</li>
-    <li>speechtopic(p=0.25)->первостепенности выживания перед силой</li>
-    <li>speechtopic(p=0.25)->триумф, несмотря на трудности</li>
-    <li>speechtopic(p=0.25)->смерти врагов, как о мотивации</li>
-    <li>speechtopic(p=0.25)->стойких сердцах и умах, работающих вместе</li>
-    <li>speechtopic(p=0.25)->праве на выживание и победе над слабаками</li>
-    <li>initiator_saw(INITIATOR_gender==Male)->наслаждался</li>
-    <li>initiator_saw(INITIATOR_gender==Female)->наслаждалась</li>
+    <li>speechtopic->тому, наскільки [AdjectiveLarge] потенціал команди</li>
+    <li>speechtopic->[PersonalCharacteristic] кожного члена команди</li>
+    <li>speechtopic->жахливих проявах [PersonalCharacteristic] ворогів команди</li>
+    <li>speechtopic(p=0.25)->важливості згуртованості</li>
+    <li>speechtopic(p=0.25)->руху вперед через усі трагедії, як команда</li>
+    <li>speechtopic(p=0.25)->важливості команди</li>
+    <li>speechtopic(p=0.25)->першорядності виживання перед силою</li>
+    <li>speechtopic(p=0.25)->тріумф, незважаючи на труднощі</li>
+    <li>speechtopic(p=0.25)->смерті ворогів, як про мотивацію</li>
+    <li>speechtopic(p=0.25)->стійких серцях і умах, що працюють разом</li>
+    <li>speechtopic(p=0.25)->праві на виживання та перемозі над слабаками</li>
+    <li>initiator_saw(INITIATOR_gender==Male)->насолоджувався</li>
+    <li>initiator_saw(INITIATOR_gender==Female)->насолоджувалася</li>
   </VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
 </LanguageData>
