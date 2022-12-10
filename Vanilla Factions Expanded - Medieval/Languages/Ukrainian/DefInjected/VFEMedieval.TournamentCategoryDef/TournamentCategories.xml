@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VFEM_Melee.label>рукопашный бой</VFEM_Melee.label>
-  <VFEM_Melee.description>Категория этого турнира - рукопашный бой. Наличие колониста с высокой точностью рукопашного боя было бы преимуществом.</VFEM_Melee.description>
+  <VFEM_Melee.label>рукопашний бій</VFEM_Melee.label>
+  <VFEM_Melee.description>Категорія цього турніру – рукопашний бій. Наявність колоніста з високою точністю рукопашного бою була б перевагою.</VFEM_Melee.description>
 
-  <VFEM_Jousting.label>рыцарский турнир</VFEM_Jousting.label>
-  <VFEM_Jousting.description>Категория этого турнира - рыцарский. Наличие колониста с высокой точностью рукопашного боя и навыками обращения с животными было бы преимуществом.</VFEM_Jousting.description>
+  <VFEM_Jousting.label>лицарський турнір</VFEM_Jousting.label>
+  <VFEM_Jousting.description>Категорія цього турніру – лицарський. Наявність колоніста з високою точністю рукопашного бою та навичками поводження з тваринами була б перевагою.</VFEM_Jousting.description>
 
-  <VFEM_Archery.label>стрельба из лука</VFEM_Archery.label>
-  <VFEM_Archery.description>Категория этого турнира - стрельба из лука. Наличие колониста с высокой точностью стрельбы и низким порогом нервного срыва было бы преимуществом.</VFEM_Archery.description>
+  <VFEM_Archery.label>срільба з лука</VFEM_Archery.label>
+  <VFEM_Archery.description>Категорія цього турніру – стрілянина з лука. Наявність колоніста з високою точністю стрілянини та низьким порогом нервового зриву була б перевагою.</VFEM_Archery.description>
 
 </LanguageData>

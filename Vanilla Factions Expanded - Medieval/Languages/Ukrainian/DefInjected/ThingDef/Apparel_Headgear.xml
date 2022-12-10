@@ -2,21 +2,21 @@
 <LanguageData>
 
   <VFEM_Apparel_PlateHelmetLight.label>легкий пластинчастий шолом</VFEM_Apparel_PlateHelmetLight.label>
-  <VFEM_Apparel_PlateHelmetLight.description>Легкий средневековый шолом, обеспечивающий умеренную защиту от колющих атак, не эффективен против тупого оружия. Слегка ограничивает обзор</VFEM_Apparel_PlateHelmetLight.description>
+  <VFEM_Apparel_PlateHelmetLight.description>Легкий середньовічний шолом, що забезпечує помірний захист від колючих атак, не є ефективним проти тупої зброї. Злегка обмежує огляд.</VFEM_Apparel_PlateHelmetLight.description>
 
   <VFEM_Apparel_PlateHelmetHeavy.label>важкий пластинчастий шолом</VFEM_Apparel_PlateHelmetHeavy.label>
-  <VFEM_Apparel_PlateHelmetHeavy.description>Громоздкий средневековый шолом, полностью закрывающий голову. Обеспечивает значительную защиту, но ограничивает обзор.</VFEM_Apparel_PlateHelmetHeavy.description>
+  <VFEM_Apparel_PlateHelmetHeavy.description>Громіздкий середньовічний шолом, що повністю закриває голову. Забезпечує значний захист, але обмежує огляд.</VFEM_Apparel_PlateHelmetHeavy.description>
 
-  <VFEM_Apparel_JesterHat.label>шутовская шляпа</VFEM_Apparel_JesterHat.label>
-  <VFEM_Apparel_JesterHat.description>Шляпа, достойная шута. Каждая половина отличается от другой по цвету.</VFEM_Apparel_JesterHat.description>
+  <VFEM_Apparel_JesterHat.label>капелюх блазня</VFEM_Apparel_JesterHat.label>
+  <VFEM_Apparel_JesterHat.description>Капелюх, гідний блазня. Кожна половина відрізняється від іншої за кольором.</VFEM_Apparel_JesterHat.description>
 
-  <VFEM_Apparel_DameHat.label>дамская шляпа</VFEM_Apparel_DameHat.label>
-  <VFEM_Apparel_DameHat.description>Красивая длинная шляпа для настоящих дам.</VFEM_Apparel_DameHat.description>
+  <VFEM_Apparel_DameHat.label>капелюшок леді</VFEM_Apparel_DameHat.label>
+  <VFEM_Apparel_DameHat.description>Красивий довгий капелюх для справжніх дам.</VFEM_Apparel_DameHat.description>
 
   <VFEM_Apparel_KingsCrown.label>корона</VFEM_Apparel_KingsCrown.label>
-  <VFEM_Apparel_KingsCrown.description>Красивая металлическая корона. Владелец становится очень влиятельным, но в то же время отказывается выполнять любую работу.</VFEM_Apparel_KingsCrown.description>
+  <VFEM_Apparel_KingsCrown.description>Красива металева корона. Власник стає дуже впливовим, але водночас відмовляється виконувати будь-яку роботу.</VFEM_Apparel_KingsCrown.description>
 
   <VFEM_Apparel_PlagueMask.label>чумная маска</VFEM_Apparel_PlagueMask.label>
-  <VFEM_Apparel_PlagueMask.description>Маска с длинным клювом, наполненная лекарственными травами, для предотвращения заражения чумой.</VFEM_Apparel_PlagueMask.description>
+  <VFEM_Apparel_PlagueMask.description>Маска з довгим дзьобом, наповнена лікарськими травами, для запобігання зараженню чумою.</VFEM_Apparel_PlagueMask.description>
 
 </LanguageData>

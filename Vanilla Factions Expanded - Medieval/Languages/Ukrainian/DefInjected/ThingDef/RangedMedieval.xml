@@ -2,9 +2,9 @@
 <LanguageData>
 
   <VFEM_Bow_HeavyCrossbow.label>важкий арбалет</VFEM_Bow_HeavyCrossbow.label>
-  <VFEM_Bow_HeavyCrossbow.description>Арбалет имеет тот же принцип работы, что и лук, но его снаряды более убойны.</VFEM_Bow_HeavyCrossbow.description>
-  <VFEM_Bow_HeavyCrossbow.tools.0.label>лук</VFEM_Bow_HeavyCrossbow.tools.0.label>
+  <VFEM_Bow_HeavyCrossbow.description>Арбалет має той самий принцип роботи, що й лук, та його снаряди більш забійні.</VFEM_Bow_HeavyCrossbow.description>
+  <VFEM_Bow_HeavyCrossbow.tools.0.label>плече</VFEM_Bow_HeavyCrossbow.tools.0.label>
 
-  <VFEM_Arrow_HeavyBolt.label>важкий арбалетный болт</VFEM_Arrow_HeavyBolt.label>
+  <VFEM_Arrow_HeavyBolt.label>важкий арбалетний болт</VFEM_Arrow_HeavyBolt.label>
 
 </LanguageData>

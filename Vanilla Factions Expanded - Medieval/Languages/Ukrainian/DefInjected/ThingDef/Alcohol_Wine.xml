@@ -2,13 +2,13 @@
 <LanguageData>
 
   <VFEM_Wine.label>вино</VFEM_Wine.label>
-  <VFEM_Wine.description>Большая бутылка крепкого алкогольного напитка из перебродившего винограда. Чрезмерное употребление алкоголя может привести к потере сознания из-за переизбытка алкоголя и, со временем, к зависимости.</VFEM_Wine.description>
-  <VFEM_Wine.ingestible.ingestCommandString>Выпить {0}</VFEM_Wine.ingestible.ingestCommandString>
-  <VFEM_Wine.ingestible.ingestReportString>пьёт {0}</VFEM_Wine.ingestible.ingestReportString>
-  <VFEM_Wine.tools.0.label>бутылка</VFEM_Wine.tools.0.label>
-  <VFEM_Wine.tools.1.label>горлышко</VFEM_Wine.tools.1.label>
+  <VFEM_Wine.description>Велика пляшка міцного алкогольного напою з винограду, що перебродив. Надмірне вживання алкоголю може призвести до втрати свідомості через надлишок алкоголю і, згодом, залежність.</VFEM_Wine.description>
+  <VFEM_Wine.ingestible.ingestCommandString>Випити {0}</VFEM_Wine.ingestible.ingestCommandString>
+  <VFEM_Wine.ingestible.ingestReportString>п'є {0}</VFEM_Wine.ingestible.ingestReportString>
+  <VFEM_Wine.tools.0.label>пляшка</VFEM_Wine.tools.0.label>
+  <VFEM_Wine.tools.1.label>шийка</VFEM_Wine.tools.1.label>
 
-  <VFEM_Must.label>виноградное сусло</VFEM_Must.label>
-  <VFEM_Must.description>Неферментированное вино. Это вещество необходимо забродить в винной бочке, прежде чем оно станет пригодным для питья вином.</VFEM_Must.description>
+  <VFEM_Must.label>виноградне сусло</VFEM_Must.label>
+  <VFEM_Must.description>Неферментоване вино. Цю речовину необхідно забродити у винній бочці, перш ніж вона стане придатним для пиття вином.</VFEM_Must.description>
 
 </LanguageData>
