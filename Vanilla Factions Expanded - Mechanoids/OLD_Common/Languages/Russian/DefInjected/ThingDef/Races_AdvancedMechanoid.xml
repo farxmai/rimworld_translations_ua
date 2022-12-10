@@ -3,14 +3,14 @@
   <!-- EN: advanced centipede -->
   <VFE_Mech_AdvancedCentipede.label>продвинутая сентипеда</VFE_Mech_AdvancedCentipede.label>
   <!-- EN: An even heavier, more armored version of the Centipede mechanoid propelled by hundreds of tiny legs as well. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover before attempting to break lines of defense. -->
-  <VFE_Mech_AdvancedCentipede.description>Ещё более тяжёлая, более бронированная версия сентипеды, приводимая в движение сотнями крошечных ножек. В отличие от более ранних и менее продвинутых моделей, эта боевая единица гораздо более разумна и будет стараться искать укрытия, прежде чем прорывать линию обороны.</VFE_Mech_AdvancedCentipede.description>
+  <VFE_Mech_AdvancedCentipede.description>Ещё более тяжёлая, более бронированная версия сентипеды, приводимая в движение сотнями крошечных ножек. В отличие от более ранних и менее продвинутых моделей, эта бойова единица гораздо более разумна и будет стараться искать укрытия, прежде чем прорывать линию обороны.</VFE_Mech_AdvancedCentipede.description>
   <!-- EN: head -->
   <VFE_Mech_AdvancedCentipede.tools.head.label>голова</VFE_Mech_AdvancedCentipede.tools.head.label>
 
   <!-- EN: advanced lancer -->
   <VFE_Mech_AdvancedLancer.label>продвинутый улан</VFE_Mech_AdvancedLancer.label>
   <!-- EN: A freshly manufactured and heavily upgraded long-range infantry mechanoid. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover and prove to be a much more challenging opponent in melee combat. -->
-  <VFE_Mech_AdvancedLancer.description>Свежесобранный и сильно модернизированный пехотный механоид дальнего действия. В отличие от более ранних и менее продвинутых моделей, эта боевая единица гораздо более разумна и будет стараться искать укрытия, прежде чем стать гораздо более сложным противником в ближнем бою.</VFE_Mech_AdvancedLancer.description>
+  <VFE_Mech_AdvancedLancer.description>Свежесобранный и сильно модернизированный пехотный механоид дальнего действия. В отличие от более ранних и менее продвинутых моделей, эта бойова единица гораздо более разумна и будет стараться искать укрытия, прежде чем стать гораздо более сложным противником в ближнем бою.</VFE_Mech_AdvancedLancer.description>
   <!-- EN: left fist -->
   <VFE_Mech_AdvancedLancer.tools.left_fist.label>лівий кулак</VFE_Mech_AdvancedLancer.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -54,7 +54,7 @@
   <!-- EN: advanced pikeman -->
   <VFE_Mech_AdvancedPikeman.label>продвинутый драгун</VFE_Mech_AdvancedPikeman.label>
   <!-- EN: A multi-legged combat mechanoid specialized as a long-range weapons platform. This particular unit appears to have been upgraded with additional limbs for quicker movement as well as a layer of roach-like carapace plates for extra defense against melee combatants. -->
-  <VFE_Mech_AdvancedPikeman.description>Многоногий боевой механоид, специализировавшийся для ведения огня из дальнобойного оружия. Эта модель была оснащена дополнительными конечностями для более быстрого передвижения, а также слоем панцирных пластин, похожих на тараканьи, для дополнительной защиты в ближнем бою.</VFE_Mech_AdvancedPikeman.description>
+  <VFE_Mech_AdvancedPikeman.description>Многоногий бойовий механоид, специализировавшийся для ведения огня из дальнобойного оружия. Эта модель была оснащена дополнительными конечностями для более быстрого передвижения, а также слоем панцирных пластин, похожих на тараканьи, для дополнительной защиты в ближнем бою.</VFE_Mech_AdvancedPikeman.description>
   <!-- EN: front left leg -->
   <VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>передняя ліва нога</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->

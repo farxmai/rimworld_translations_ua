@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: pirate -->
-  <VFEP_PirateColonist.label>пират</VFEP_PirateColonist.label>
-  <VFEP_Scrapper.labelFemale>пиратка</VFEP_Scrapper.labelFemale>
-  <VFEP_Scrapper.labelPlural>пираты</VFEP_Scrapper.labelPlural>
+  <VFEP_PirateColonist.label>пірат</VFEP_PirateColonist.label>
+  <VFEP_Scrapper.labelPlural>пірати</VFEP_Scrapper.labelPlural>
 </LanguageData>

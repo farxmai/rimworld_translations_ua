@@ -11,9 +11,9 @@
   <!-- EN: Warcasket Customization -->
   <VFEP.WarcasketCustom>Изменение брони мертвеца</VFEP.WarcasketCustom>
   <!-- EN: When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin
-assembling a warcasket. The speed of the assembly depends on the crafting skill of your crafter.
-Once the process is completed, a warcasket will leave the platform. Be careful, as the pawn
-on the platform can still die of hunger when on the platform - you should prioritize the warcasket
+assembling a warcasket (бойова оболонка). The speed of the assembly depends on the crafting skill of your crafter.
+Once the process is completed, a warcasket (бойова оболонка) will leave the platform. Be careful, as the pawn
+on the platform can still die of hunger when on the platform - you should prioritize the warcasket (бойова оболонка)
 assembly over other tasks. -->
   <VFEP.WarcasketText>Когда вы нажмёте «Принять», выбранный мастер начнёт собрать ресурсы для сборки брони мертвеца.
 Скорость сборки будет зависеть от уровня навыка ремесла выбранного мастера.
@@ -33,7 +33,7 @@ assembly over other tasks. -->
   <VFEP.TotalCost>Всего:</VFEP.TotalCost>
   <!-- EN: Resource Cost: -->
   <VFEP.ResourceCost>Всего ресурсов:</VFEP.ResourceCost>
-  <!-- EN: Research more warcasket technology to unlock more armor pieces. -->
+  <!-- EN: Research more warcasket (бойова оболонка) technology to unlock more armor pieces. -->
   <VFEP.ResearchText>Исследуйте больше технологий мертвеца, чтобы открыть больше листов брони.</VFEP.ResearchText>
   <!-- EN: Research warcaskets to learn how to use the foundry. -->
   <VFEP.NoWarcaskets>Исследуйте броню мертвеца, чтобы узнать как пользоваться цехом мертвеца.</VFEP.NoWarcaskets>
@@ -43,9 +43,9 @@ assembly over other tasks. -->
   <VFEP.SiegeModeOff>Осадный режим отключён</VFEP.SiegeModeOff>
   <!-- EN: Siege mode on -->
   <VFEP.SiegeModeOn>Осадный режим включён</VFEP.SiegeModeOn>
-  <!-- EN: Cannot entomp in warcasket: {0} -->
+  <!-- EN: Cannot entomp in warcasket (бойова оболонка): {0} -->
   <VFEPirates.CannotEntomb>Нельзя заковать в броню мертвеца: {0}</VFEPirates.CannotEntomb>
-  <!-- EN: Entomb in warcasket -->
+  <!-- EN: Entomb in warcasket (бойова оболонка) -->
   <VFEPirates.EntombInWarcasket>Заковать в броню мертвеца</VFEPirates.EntombInWarcasket>
   <!-- EN:  (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.) -->
   <VFEP.EntombInIncapableOfViolenceWarning> (Внимание: {PAWN_nameDef} не может причинять насилие и будет бесполезен.)</VFEP.EntombInIncapableOfViolenceWarning>
@@ -56,7 +56,7 @@ assembly over other tasks. -->
   <!-- EN: Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds. -->
   <VFEP.DeployWarDrone>Выпустить готовых к бою дронов из заднего отсека. Ими можно управлять для создания огневой поддержки, но они самоуничтожатся через 60 секунд.</VFEP.DeployWarDrone>
   <!-- EN: Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them. -->
-  <VFEP.DeploySpidermineDesc>Выстрелить на дальнее расстояние миной-пауком, которая начнёт двигаться к ближайшему врагу и сдетонирует как только дойдёт до него.</VFEP.DeploySpidermineDesc>
+  <VFEP.DeploySpidermineDesc>Выстрелить на дальнее расстояние миной-павуком, которая начнёт двигаться к ближайшему врагу и сдетонирует как только дойдёт до него.</VFEP.DeploySpidermineDesc>
   <!-- EN: Cancel -->
   <VFEP.Cancel>Отменить</VFEP.Cancel>
 </LanguageData>

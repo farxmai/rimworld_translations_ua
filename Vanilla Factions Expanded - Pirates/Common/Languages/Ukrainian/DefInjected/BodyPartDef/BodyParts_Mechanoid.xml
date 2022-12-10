@@ -2,15 +2,15 @@
 <LanguageData>
 
   <!-- EN: joint -->
-  <VFEP_MechanicalJoint.label>шарнир</VFEP_MechanicalJoint.label>
+  <VFEP_MechanicalJoint.label>шарнір</VFEP_MechanicalJoint.label>
   <!-- EN: turret -->
   <VFEP_Turret.label>турель</VFEP_Turret.label>
   <!-- EN: propeller -->
-  <VFEP_Propeller.label>пропеллер</VFEP_Propeller.label>
+  <VFEP_Propeller.label>пропелер</VFEP_Propeller.label>
   <!-- EN: turret base -->
-  <VFEP_TurretBase.label>крепление турели</VFEP_TurretBase.label>
+  <VFEP_TurretBase.label>основа турелі</VFEP_TurretBase.label>
   <!-- EN: base base -->
-  <VFEP_Base.label>основание</VFEP_Base.label>
+  <VFEP_Base.label>основа</VFEP_Base.label>
   <!-- EN: frame -->
   <VFEP_Frame.label>основа</VFEP_Frame.label>
   <!-- EN: mechanical leg -->

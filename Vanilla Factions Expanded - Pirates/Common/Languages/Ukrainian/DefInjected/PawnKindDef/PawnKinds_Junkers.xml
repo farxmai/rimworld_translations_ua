@@ -1,34 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: scrapper -->
-  <VFEP_Scrapper.label>мусорщик</VFEP_Scrapper.label>
-  <VFEP_Scrapper.labelFemale>мусорщица</VFEP_Scrapper.labelFemale>
-  <VFEP_Scrapper.labelPlural>мусорщики</VFEP_Scrapper.labelPlural>
+  <VFEP_Scrapper.label>сміттяр</VFEP_Scrapper.label>
+  <VFEP_Scrapper.labelPlural>сміттярі</VFEP_Scrapper.labelPlural>
 
   <!-- EN: footsoldier -->
-  <VFEP_Footsoldier.label>пехотинец</VFEP_Footsoldier.label>
-  <VFEP_Footsoldier.labelPlural>пехотинцы</VFEP_Footsoldier.labelPlural>
+  <VFEP_Footsoldier.label>піхотинець</VFEP_Footsoldier.label>
+  <VFEP_Footsoldier.labelPlural>піхотинці</VFEP_Footsoldier.labelPlural>
 
   <!-- EN: veteran -->
   <VFEP_Veteran.label>ветеран</VFEP_Veteran.label>
-  <VFEP_Veteran.labelPlural>ветераны</VFEP_Veteran.labelPlural>
+  <VFEP_Veteran.labelPlural>ветерани</VFEP_Veteran.labelPlural>
 
   <VFEP_Veteran_Melee.label>ветеран</VFEP_Veteran_Melee.label>
-  <VFEP_Veteran_Melee.labelPlural>ветераны</VFEP_Veteran_Melee.labelPlural>
+  <VFEP_Veteran_Melee.labelPlural>ветерани</VFEP_Veteran_Melee.labelPlural>
 
   <!-- EN: heavy weapons platform -->
-  <VFEP_HeavyWeaponsPlatform.label>важка боевая платформа</VFEP_HeavyWeaponsPlatform.label>
-  <VFEP_HeavyWeaponsPlatform.labelPlural>тяжелые боевые платформы</VFEP_HeavyWeaponsPlatform.labelPlural>
+  <VFEP_HeavyWeaponsPlatform.label>важка бойова платформа</VFEP_HeavyWeaponsPlatform.label>
+  <VFEP_HeavyWeaponsPlatform.labelPlural>важкі боевые платформы</VFEP_HeavyWeaponsPlatform.labelPlural>
 
   <!-- EN: hussar -->
   <VFEP_Hussar.label>гусар</VFEP_Hussar.label>
-  <VFEP_Hussar.labelPlural>гусары</VFEP_Hussar.labelPlural>
+  <VFEP_Hussar.labelPlural>гусари</VFEP_Hussar.labelPlural>
 
   <!-- EN: pyro -->
-  <VFEP_Pyro.label>поджигатель</VFEP_Pyro.label>
-  <VFEP_Pyro.labelPlural>поджигатели</VFEP_Pyro.labelPlural>
+  <VFEP_Pyro.label>палій</VFEP_Pyro.label>
+  <VFEP_Pyro.labelPlural>палії</VFEP_Pyro.labelPlural>
 
   <!-- EN: artillery -->
-  <VFEP_Artillery.label>артиллерия</VFEP_Artillery.label>
-  <VFEP_Artillery.labelPlural>артиллерии</VFEP_Artillery.labelPlural>
+  <VFEP_Artillery.label>артилерія</VFEP_Artillery.label>
+  <VFEP_Artillery.labelPlural>артилерія</VFEP_Artillery.labelPlural>
 </LanguageData>

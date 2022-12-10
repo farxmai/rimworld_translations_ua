@@ -145,7 +145,7 @@
   <!-- EN: Transformation! -->
   <TransformationLLabel>Трансформация!</TransformationLLabel>
   <!-- EN: Due to a royal jelly addiction withdrawal {0} has been transformed into a megaspider. He is still part of your faction and won't attack anyone. -->
-  <TransformationLetter>Из-за ломки по королевскому желе, {0} {0_gender ? трансформировался : трансформировалась} в мегапаука. {0_pronoun} всё ещё часть вашей фракции и не хочет атаковать кого-либо.</TransformationLetter>
+  <TransformationLetter>Из-за ломки по королевскому желе, {0} {0_gender ? трансформировался : трансформировалась} в мегапавука. {0_pronoun} всё ещё часть вашей фракции и не хочет атаковать кого-либо.</TransformationLetter>
 
   <!-- EN: Teleport -->
   <TeleportButton>Телепорт</TeleportButton>

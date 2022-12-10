@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: pirate -->
-  <VFEP_PirateMeme.label>пиратское братство</VFEP_PirateMeme.label>
+  <VFEP_PirateMeme.label>піратское братство</VFEP_PirateMeme.label>
   <!-- EN: Humans are the moral center of the universe. -->
   <VFEP_PirateMeme.description>Сильный имеет право забирать у слабого, но кодекс чести и братства должен быть превыше всего.</VFEP_PirateMeme.description>
 
@@ -32,7 +32,7 @@
     <li>memeAdjective->разбойничестский</li>
     <li>memeAdjective->грабительский</li>
     <li>memeAdjective->мятежный</li>
-    <li>memeAdjective->пиратский</li>
+    <li>memeAdjective->піратский</li>
     
     <li>memeLeaderNoun->капитан</li>
     <li>memeLeaderNoun->командир</li>
@@ -87,9 +87,9 @@
     <li>conflict(tag=meme_Pirate)        ->Однажды [foeLeader], из-за трусости своей, [foeLeader_try] прибрать все богатства к рукам своим.</li>
     <li>founderJoin(tag=meme_Pirate)     ->Верный слуга [deity0_name] — капитан [founderName] [founder_captured] [foeLeader] во время лихого налёта.</li>
     <li>victory(tag=meme_Pirate)         ->Члена команды [founderName] бросили [foeLeader] в темницу и, спустя несколько дней, казнили во славу [deity0_name].</li>
-    <li>setup(tag=meme_Pirate)           ->[founderName] [founder_was] величайшим капитаном и прирождённым лидером. Тысячи пиратов вышли в море под [founder_possessive] внушающим ужас флагом.</li>
+    <li>setup(tag=meme_Pirate)           ->[founderName] [founder_was] величайшим капитаном и прирождённым лидером. Тысячи піратов вышли в море под [founder_possessive] внушающим ужас флагом.</li>
     <li>story(uses=1,tag=meme_Pirate)    ->[founderName] [founder_made] нам, что преодолевать трудности, страдания и жертвы нужно объединившись в команду. Мы научились товариществу и братству, и уважению к другим.</li>
-    <li>lessonIntro(tag=meme_Pirate)         ->Однажды мне выпала честь поговорить с величайшим из пиратов. Он сказал мне, что</li>
+    <li>lessonIntro(tag=meme_Pirate)         ->Однажды мне выпала честь поговорить с величайшим из піратов. Он сказал мне, что</li>
     <li>lesson(tag=meme_Pirate)              ->трудности, страдания и жертвы нужно встречать вместе, как одна команды</li>
     <li>lessonReinforcement(tag=meme_Pirate) ->Он научил меня ценить товарищество и братство, уважать других.</li>
 
@@ -123,11 +123,11 @@
   </VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: pirate -->
-  <VFEP_PirateMeme.symbolPacks.0.adjective>пиратский</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <VFEP_PirateMeme.symbolPacks.0.adjective>піратский</VFEP_PirateMeme.symbolPacks.0.adjective>
   <!-- EN: Piracy -->
-  <VFEP_PirateMeme.symbolPacks.0.ideoName>пиратство</VFEP_PirateMeme.symbolPacks.0.ideoName>
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>піратство</VFEP_PirateMeme.symbolPacks.0.ideoName>
   <!-- EN: crewmember -->
   <VFEP_PirateMeme.symbolPacks.0.member>член команды</VFEP_PirateMeme.symbolPacks.0.member>
   <!-- EN: piracy -->
-  <VFEP_PirateMeme.symbolPacks.0.theme>пиратства</VFEP_PirateMeme.symbolPacks.0.theme>
+  <VFEP_PirateMeme.symbolPacks.0.theme>піратства</VFEP_PirateMeme.symbolPacks.0.theme>
 </LanguageData>
