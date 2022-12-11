@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: entombing in TargetA. -->
-  <VFEP_EntombIn.reportString>закувати TargetA</VFEP_EntombIn.reportString>
+  <VFEP_EntombIn.reportString>використовує TargetA</VFEP_EntombIn.reportString>
   <!-- EN: Welding TargetB in TargetA. -->
   <VFEP_DoWelding.reportString>заковує TargetB в TargetA</VFEP_DoWelding.reportString>
   <!-- EN: equipping TargetA. -->
