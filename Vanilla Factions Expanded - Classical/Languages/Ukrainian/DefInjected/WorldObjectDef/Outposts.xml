@@ -1,22 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: farming outpost -->
-  <Outpost_Farming.label>фермерский аванпост</Outpost_Farming.label>
+  <Outpost_Farming.label>аванпост фермерів</Outpost_Farming.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Farming.description>Временный лагерь, управляемый автономно. Лагерь специализируется на выращивании простых продуктов и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Farming.description>
+  <Outpost_Farming.description>Тимчасовий табір, керований автономно. Табір спеціалізується на вирощуванні простих продуктів і не може бути розташований у пустелі. Коли він здобуде достатню кількість ресурсів, вони будуть доставлені на край карти основного поселення.</Outpost_Farming.description>
+  <!-- EN: Choose plant -->
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Вибрати рослину</Outpost_Farming.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose which plant this outpost should plant -->
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Вибрати рослину, яке вирощуватиметься на цьому аванпості</Outpost_Farming.modExtensions.0.ChooseDesc>
 
   <!-- EN: hunting outpost -->
-  <Outpost_Hunting.label>аванпост охотников</Outpost_Hunting.label>
+  <Outpost_Hunting.label>аванпост мисливців</Outpost_Hunting.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Hunting.description>Временный лагерь, управляемый автономно. Лагерь специализируется на охоте и заготовке животных. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Hunting.description>
+  <Outpost_Hunting.description>Тимчасовий табір, керований автономно. Табір спеціалізується на полюванні та заготівлі тварин. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Hunting.description>
+  <!-- EN: Hunting {0} -->
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Полювати на {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  <!-- EN: Choose what animal to hunt at this outpost -->
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Вибрати тварину, на яку полюватимуть цей аванпост</Outpost_Hunting.modExtensions.0.ChooseDesc>
 
   <!-- EN: logging outpost -->
-  <Outpost_Logging.label>аванпост лесорубов</Outpost_Logging.label>
+  <Outpost_Logging.label>аванпост лісорубів</Outpost_Logging.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Logging.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче древесины и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Logging.description>
-
+  <Outpost_Logging.description>Тимчасовий табір, керований автономно. Табір спеціалізується на видобутку деревини та не може бути розташований у пустелі. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Logging.description>
+  
   <!-- EN: mining outpost -->
-  <Outpost_Mining.label>аванпост шахтёров</Outpost_Mining.label>
+  <Outpost_Mining.label>аванпост шахтарів</Outpost_Mining.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Mining.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче и обработке камня или металла и может быть расположен исключительно в горах или на возвышенностях. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Mining.description>
-</LanguageData>
+  <Outpost_Mining.description>Тимчасовий табір, керований автономно. Табір спеціалізується на видобутку та обробці каменю або металу і може бути розташований виключно в горах або на пагорбах. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Mining.description>
+  <!-- EN: Mining {0} -->
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Видобувати {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+  <!-- EN: Click to change mining target. -->
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Змінити ресурс, що видобувається</Outpost_Mining.modExtensions.0.ChooseDesc>
+  </LanguageData>

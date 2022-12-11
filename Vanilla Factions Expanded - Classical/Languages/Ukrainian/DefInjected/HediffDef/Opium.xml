@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: high on opium -->
-  <VFEC_OpiumHigh.label>под кайфом от опиума</VFEC_OpiumHigh.label>
+  <VFEC_OpiumHigh.label>під опіумом</VFEC_OpiumHigh.label>
   <!-- EN: Active opium in the bloodstream. Dulls out pain completely. -->
-  <VFEC_OpiumHigh.description>Активные компоненты опиума в крови полностью притупляют боль.</VFEC_OpiumHigh.description>
+  <VFEC_OpiumHigh.description>Активні компоненти опіуму у крові повністю притуплюють біль.</VFEC_OpiumHigh.description>
   <!-- EN: an opium high -->
-  <VFEC_OpiumHigh.labelNoun>кайф от опиума</VFEC_OpiumHigh.labelNoun>
+  <VFEC_OpiumHigh.labelNoun>під опіумом</VFEC_OpiumHigh.labelNoun>
 
 
   <!-- EN: opium tolerance -->
-  <VFEC_OpiumTolerance.label>толерантность к опиуму</VFEC_OpiumTolerance.label>
+  <VFEC_OpiumTolerance.label>толерантність до опіуму</VFEC_OpiumTolerance.label>
   <!-- EN: A built-up tolerance to opium. The more severe this tolerance is, the more opium it takes to get the same effect. -->
-  <VFEC_OpiumTolerance.description>Толерантность к опиуму. Чем она серьёзнее, тем больше потребуется опиума для получения первоначального эффекта.</VFEC_OpiumTolerance.description>
+  <VFEC_OpiumTolerance.description>Толерантність до опіуму. Чим вона серйозніша, тим більше буде потрібно опіуму для отримання початкового ефекту.</VFEC_OpiumTolerance.description>
   <!-- EN: small -->
-  <VFEC_OpiumTolerance.stages.small.label>небольшая</VFEC_OpiumTolerance.stages.small.label>
+  <VFEC_OpiumTolerance.stages.small.label>невелика</VFEC_OpiumTolerance.stages.small.label>
   <!-- EN: large -->
   <VFEC_OpiumTolerance.stages.large.label>середня</VFEC_OpiumTolerance.stages.large.label>
   <!-- EN: massive -->
   <VFEC_OpiumTolerance.stages.massive.label>сильна</VFEC_OpiumTolerance.stages.massive.label>
 
   <!-- EN: opium addiction -->
-  <VFEC_OpiumAddiction.label>опиумная зависимость</VFEC_OpiumAddiction.label>
+  <VFEC_OpiumAddiction.label>залежність від опіуму</VFEC_OpiumAddiction.label>
   <!-- EN: A chemical addiction to opium. Long-term presence of opium has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
 \nWithout regular doses of opium, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <VFEC_OpiumAddiction.description>Зависимость от опиума. Его продолжительное употребление вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении опиума вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</VFEC_OpiumAddiction.description>
+  <VFEC_OpiumAddiction.description>Залежність від опіуму. Його тривале вживання викликає неврологічні зміни на клітинному рівні, через що мозок не здатний нормально функціонувати без речовини.\n\nПерерва у регулярному вживанні опіуму викличе абстинентний синдром - ломку. Тривале утримання допоможе мозку повернутися до нормального стану і позбавитися залежності.</VFEC_OpiumAddiction.description>
   <!-- EN: withdrawal -->
   <VFEC_OpiumAddiction.stages.1.label>ломка</VFEC_OpiumAddiction.stages.1.label>
 </LanguageData>

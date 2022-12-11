@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: javelin -->
-  <VFEC_Javelin.label>метательное копьё</VFEC_Javelin.label>
+  <VFEC_Javelin.label>метальний спис</VFEC_Javelin.label>
   <!-- EN: A long-tipped throwing spear specifically designed to break armor and shield alike. -->
-  <VFEC_Javelin.description>Длинное заострённое метательное копьё, предназначенное для пробития брони и щитов.</VFEC_Javelin.description>
+  <VFEC_Javelin.description>Довгий загострений метальний спис, призначений для пробивання броні та щитів.</VFEC_Javelin.description>
   <!-- EN: shaft -->
-  <VFEC_Javelin.tools.0.label>древко</VFEC_Javelin.tools.0.label>
+  <VFEC_Javelin.tools.0.label>рукоятка</VFEC_Javelin.tools.0.label>
   <!-- EN: point -->
-  <VFEC_Javelin.tools.1.label>острие</VFEC_Javelin.tools.1.label>
+  <VFEC_Javelin.tools.1.label>вістря</VFEC_Javelin.tools.1.label>
   <!-- EN: javelin -->
-  <VFEC_Javelin_Thrown.label>метательное копьё</VFEC_Javelin_Thrown.label>
+  <VFEC_Javelin_Thrown.label>метальний спис</VFEC_Javelin_Thrown.label>
 
   <!-- EN: scorpion -->
-  <VFEC_Weapon_Scorpion.label>скорпион</VFEC_Weapon_Scorpion.label>
+  <VFEC_Weapon_Scorpion.label>скорпіон</VFEC_Weapon_Scorpion.label>
   <!-- EN: A ballista-like turret capable of firing rapidly when set up and manned. Light enough to be used as a handheld weapon at the cost of firing speed, very effective against enemy infantry. -->
-  <VFEC_Weapon_Scorpion.description>Орудие, похожее по принципу действия на баллисту. Когда оно развёрнуто, опытный стрелок способен достигать высокой скорострельности. Достаточно лёгкое, чтобы использоваться «от бедра», но для этого придётся пожертвовать скорострельностью. Эффективно против пехоты.</VFEC_Weapon_Scorpion.description>
+  <VFEC_Weapon_Scorpion.description>Зброя, схожа за принципом на балісту. Коли воно розгорнуте, досвідчений стрілець здатний досягати високої скорострільності. Досить легке, щоб використовуватися від стегна, але для цього доведеться пожертвувати скорострільністю. Ефективно проти піхоти.</VFEC_Weapon_Scorpion.description>
   <!-- EN: limb -->
-  <VFEC_Weapon_Scorpion.tools.0.label>плечо</VFEC_Weapon_Scorpion.tools.0.label>
+  <VFEC_Weapon_Scorpion.tools.0.label>плече</VFEC_Weapon_Scorpion.tools.0.label>
   <!-- EN: scorpion arrow -->
-  <VFEC_Arrow_Scorpion.label>стрела скорпиона</VFEC_Arrow_Scorpion.label>
+  <VFEC_Arrow_Scorpion.label>стріла скорпіона</VFEC_Arrow_Scorpion.label>
 </LanguageData>

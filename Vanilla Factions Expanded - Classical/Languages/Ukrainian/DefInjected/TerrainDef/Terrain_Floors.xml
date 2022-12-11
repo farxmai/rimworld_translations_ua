@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: sandstone mosaics -->
-  <VFEC_MosaicsSandstone.label>мозаика из песчаника</VFEC_MosaicsSandstone.label>
+  <VFEC_MosaicsSandstone.label>мозаїка з пісковику</VFEC_MosaicsSandstone.label>
   <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
-  <VFEC_MosaicsSandstone.description>Тщательно вырезанные и уложенные полы. Очень красивые.</VFEC_MosaicsSandstone.description>
+  <VFEC_MosaicsSandstone.description>Ретельно вирізані та укладені підлоги. Дуже красиві.</VFEC_MosaicsSandstone.description>
 
   <!-- EN: granite mosaics -->
-  <VFEC_MosaicsGranite.label>мозаика из гранита</VFEC_MosaicsGranite.label>
+  <VFEC_MosaicsGranite.label>мозаїка з граніту</VFEC_MosaicsGranite.label>
   <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
-  <VFEC_MosaicsGranite.description>Тщательно вырезанные и уложенные полы. Очень красивые.</VFEC_MosaicsGranite.description>
+  <VFEC_MosaicsGranite.description>Ретельно вирізані та укладені підлоги. Дуже красиві.</VFEC_MosaicsGranite.description>
 
   <!-- EN: limestone mosaics -->
-  <VFEC_MosaicsLimestone.label>мозаика из известняка</VFEC_MosaicsLimestone.label>
+  <VFEC_MosaicsLimestone.label>мозаїка з вапняку</VFEC_MosaicsLimestone.label>
   <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
-  <VFEC_MosaicsLimestone.description>Тщательно вырезанные и уложенные полы. Очень красивые.</VFEC_MosaicsLimestone.description>
+  <VFEC_MosaicsLimestone.description>Ретельно вирізані та укладені підлоги. Дуже красиві.</VFEC_MosaicsLimestone.description>
 
   <!-- EN: slate mosaics -->
-  <VFEC_MosaicsSlate.label>мозаика из сланца</VFEC_MosaicsSlate.label>
+  <VFEC_MosaicsSlate.label>мозаїка з сланцю</VFEC_MosaicsSlate.label>
   <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
-  <VFEC_MosaicsSlate.description>Тщательно вырезанные и уложенные полы. Очень красивые.</VFEC_MosaicsSlate.description>
+  <VFEC_MosaicsSlate.description>Ретельно вирізані та укладені підлоги. Дуже красиві.</VFEC_MosaicsSlate.description>
 
   <!-- EN: marble mosaics -->
-  <VFEC_MosaicsMarble.label>мозаика из мрамора</VFEC_MosaicsMarble.label>
+  <VFEC_MosaicsMarble.label>мозаїка з мармуру</VFEC_MosaicsMarble.label>
   <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
-  <VFEC_MosaicsMarble.description>Тщательно вырезанные и уложенные полы. Очень красивые.</VFEC_MosaicsMarble.description>
+  <VFEC_MosaicsMarble.description>Ретельно вирізані та укладені підлоги. Дуже красиві.</VFEC_MosaicsMarble.description>
 
   <!-- EN: bronze tile -->
-  <VFEC_BronzeTile.label>бронзовая плитка</VFEC_BronzeTile.label>
+  <VFEC_BronzeTile.label>бронзова плитка</VFEC_BronzeTile.label>
   <!-- EN: Bronze tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <VFEC_BronzeTile.description>Бронзовая плитка помогает сохранить полы в чистоте, что особенно полезно в больницах и исследовательских лабораториях. Укладка такой плитки — очень трудоёмкая работа.</VFEC_BronzeTile.description>
+  <VFEC_BronzeTile.description>Бронзова плитка допомагає зберегти підлогу в чистоті, що особливо корисно у лікарнях та дослідницьких лабораторіях. Укладання такої плитки - дуже трудомістка робота.</VFEC_BronzeTile.description>
 
   <!-- EN: concrete tile -->
-  <VFEC_TileConcrete.label>бетонная плитка</VFEC_TileConcrete.label>
+  <VFEC_TileConcrete.label>бетонна плитка</VFEC_TileConcrete.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <VFEC_TileConcrete.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</VFEC_TileConcrete.description>
+  <VFEC_TileConcrete.description>Акуратно вирізані та підігнані одна до одної кам'яні плитки, як у середньовічному замку. Приємні на вигляд, але укладання потребує часу.</VFEC_TileConcrete.description>
   <!-- EN: concrete flagstone -->
-  <VFEC_FlagstoneConcrete.label>грубая бетонная плитка</VFEC_FlagstoneConcrete.label>
+  <VFEC_FlagstoneConcrete.label>груба бетонна плитка</VFEC_FlagstoneConcrete.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <VFEC_FlagstoneConcrete.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</VFEC_FlagstoneConcrete.description>
+  <VFEC_FlagstoneConcrete.description>Грубо вирізьблені кам'яні плити. Не дуже красиві, але чудово підходять для покриття доріг та пішохідних доріжок. Розбирання плити не дає ресурсів.</VFEC_FlagstoneConcrete.description>
 </LanguageData>

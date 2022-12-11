@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: It looks like they want to use scorpions to help you. -->
-  <VFEC_ScorpionRaid.arrivalTextFriendly>Похоже, что они хотят использовать скорпионов, чтобы помочь вам.</VFEC_ScorpionRaid.arrivalTextFriendly>
+  <VFEC_ScorpionRaid.arrivalTextFriendly>Схоже, вони хочуть використовувати скорпіонів, щоб допомогти вам.</VFEC_ScorpionRaid.arrivalTextFriendly>
   <!-- EN: It looks like they want to set up Scorpions nearby to fire on your colonists. You can try to wait them out - or go get them. -->
-  <VFEC_ScorpionRaid.arrivalTextEnemy>Похоже, они собираются развернуть скорпионы и сжечь ваше поселение. Вы можете переждать осаду или контратаковать.</VFEC_ScorpionRaid.arrivalTextEnemy>
+  <VFEC_ScorpionRaid.arrivalTextEnemy>Здається, вони збираються розгоронути скорпіони і спалити ваше поселення. Ви можете спробувати дочекатися їх - або піти за ними.</VFEC_ScorpionRaid.arrivalTextEnemy>
   <!-- EN: Scorpion Raid -->
-  <VFEC_ScorpionRaid.letterLabelEnemy>Налёт со скорпионами</VFEC_ScorpionRaid.letterLabelEnemy>
+  <VFEC_ScorpionRaid.letterLabelEnemy>Рейд: Скорпіони</VFEC_ScorpionRaid.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <VFEC_ScorpionRaid.letterLabelFriendly>Помощь союзников</VFEC_ScorpionRaid.letterLabelFriendly>
+  <VFEC_ScorpionRaid.letterLabelFriendly>Допомога союзників</VFEC_ScorpionRaid.letterLabelFriendly>
 </LanguageData>

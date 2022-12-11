@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: make things at crafting spot -->
-  <VFEC_DoBillsUseCraftingBench.label>выполнять задания на рабочем столе</VFEC_DoBillsUseCraftingBench.label>
+  <VFEC_DoBillsUseCraftingBench.label>прцювати за робочим столом</VFEC_DoBillsUseCraftingBench.label>
   <!-- EN: craft -->
-  <VFEC_DoBillsUseCraftingBench.verb>работать на</VFEC_DoBillsUseCraftingBench.verb>
+  <VFEC_DoBillsUseCraftingBench.verb>прцювати за</VFEC_DoBillsUseCraftingBench.verb>
   <!-- EN: crafting at -->
-  <VFEC_DoBillsUseCraftingBench.gerund>работать на</VFEC_DoBillsUseCraftingBench.gerund>
+  <VFEC_DoBillsUseCraftingBench.gerund>прцювати за</VFEC_DoBillsUseCraftingBench.gerund>
 </LanguageData>
