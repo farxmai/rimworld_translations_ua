@@ -17,7 +17,7 @@ on the platform can still die of hunger when on the platform - you should priori
 assembly over other tasks. -->
   <VFEP.WarcasketText>Когда вы нажмёте «Принять», выбранный мастер начнёт собрать ресурсы для сборки брони мертвеца.
 Скорость сборки будет зависеть от уровня навыка ремесла выбранного мастера.
-Только когда сборка будет завершена, броня мертвеца покинет платформу. Поселенец в броне может умереть от голода во время сборки.
+Только когда сборка будет завершена, бойова оболонка покинет платформу. Поселенец в броне может умереть от голода во время сборки.
 Постарайтесь отдать максимальный приоритет процессу сборки брони.</VFEP.WarcasketText>
   <!-- EN: Work Amount: -->
   <VFEP.WorkAmount>Объём работ:</VFEP.WorkAmount>
@@ -36,7 +36,7 @@ assembly over other tasks. -->
   <!-- EN: Research more warcasket (бойова оболонка) technology to unlock more armor pieces. -->
   <VFEP.ResearchText>Исследуйте больше технологий мертвеца, чтобы открыть больше листов брони.</VFEP.ResearchText>
   <!-- EN: Research warcaskets to learn how to use the foundry. -->
-  <VFEP.NoWarcaskets>Исследуйте броню мертвеца, чтобы узнать как пользоваться цехом мертвеца.</VFEP.NoWarcaskets>
+  <VFEP.NoWarcaskets>Исследуйте бойову оболонку, чтобы узнать как пользоваться цехом мертвеца.</VFEP.NoWarcaskets>
   <!-- EN: Not enough chemfuel for power jump. -->
   <VFEP.NotEnoughFuel>Не хватает химтоплива для силового прыжка.</VFEP.NotEnoughFuel>
   <!-- EN: Siege mode off -->
@@ -44,9 +44,9 @@ assembly over other tasks. -->
   <!-- EN: Siege mode on -->
   <VFEP.SiegeModeOn>Осадный режим включён</VFEP.SiegeModeOn>
   <!-- EN: Cannot entomp in warcasket (бойова оболонка): {0} -->
-  <VFEPirates.CannotEntomb>Нельзя заковать в броню мертвеца: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.CannotEntomb>Нельзя заковать в бойову оболонку: {0}</VFEPirates.CannotEntomb>
   <!-- EN: Entomb in warcasket (бойова оболонка) -->
-  <VFEPirates.EntombInWarcasket>Заковать в броню мертвеца</VFEPirates.EntombInWarcasket>
+  <VFEPirates.EntombInWarcasket>Заковать в бойову оболонку</VFEPirates.EntombInWarcasket>
   <!-- EN:  (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.) -->
   <VFEP.EntombInIncapableOfViolenceWarning> (Внимание: {PAWN_nameDef} не может причинять насилие и будет бесполезен.)</VFEP.EntombInIncapableOfViolenceWarning>
   <!-- EN: Activate shield field -->

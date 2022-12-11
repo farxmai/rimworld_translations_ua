@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: power jump range -->
-  <VFEP_PowerJumpRange.label>дальность силового прыжка</VFEP_PowerJumpRange.label>
+  <VFEP_PowerJumpRange.label>дальність силового стрибка</VFEP_PowerJumpRange.label>
   <!-- EN: The maximum distance of a power jump. -->
-  <VFEP_PowerJumpRange.description>Определяет максимальную дальность силового прыжка.</VFEP_PowerJumpRange.description>
+  <VFEP_PowerJumpRange.description>Визначає максимальну дальність силового стрибка.</VFEP_PowerJumpRange.description>
 
   <!-- EN: power jump detonation radius -->
-  <VFEP_PowerJumpDetonationRadius.label>радиус взрыва силового прыжка</VFEP_PowerJumpDetonationRadius.label>
+  <VFEP_PowerJumpDetonationRadius.label>радіус вибуху силового стрибка</VFEP_PowerJumpDetonationRadius.label>
   <!-- EN: The radius of the area of detonation. -->
-  <VFEP_PowerJumpDetonationRadius.description>Радиус взрыва при приземлении.</VFEP_PowerJumpDetonationRadius.description>
+  <VFEP_PowerJumpDetonationRadius.description>Радіус вибуху при приземленні.</VFEP_PowerJumpDetonationRadius.description>
 
   <!-- EN: power jump flight speed -->
-  <VFEP_FlightSpeed.label>скорость полёта силового прыжка</VFEP_FlightSpeed.label>
+  <VFEP_FlightSpeed.label>швидкість польоту силового стрибка</VFEP_FlightSpeed.label>
   <!-- EN: The speed of a power jump. -->
-  <VFEP_FlightSpeed.description>Скорость полёта в силовом прыжке.</VFEP_FlightSpeed.description>
+  <VFEP_FlightSpeed.description>Швидкість польоту у силовому стрибку.</VFEP_FlightSpeed.description>
 
   <!-- EN: siege mode cooldown -->
-  <VFEP_SiegeModeCooldown.label>время до перехода в осадный режим</VFEP_SiegeModeCooldown.label>
+  <VFEP_SiegeModeCooldown.label>час до переходу в облоговий режим</VFEP_SiegeModeCooldown.label>
   <!-- EN: How long it takes to activate siege mode again. -->
-  <VFEP_SiegeModeCooldown.description>Определяет то, как быстро можно перейти в осадный режим.</VFEP_SiegeModeCooldown.description>
+  <VFEP_SiegeModeCooldown.description>Визначає те, як швидко можна перейти в режим облоги.</VFEP_SiegeModeCooldown.description>
 </LanguageData>

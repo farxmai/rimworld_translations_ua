@@ -3,13 +3,13 @@
   <!-- EN: rum -->
   <VFEP_Rum.label>ром</VFEP_Rum.label>
   <!-- EN: A highly alcoholic beverage made from the recycled bodily fluids of those wearing rumsuits.\n\nAn ingenious way of not only improving morale but also allowing crew to operate longer without needing to resupply for food or dispose of human waste. Rum is very thick to drink - much like a protein shake - and the alcohol helps mask the otherwise unpleasant taste from repurposed nutrient paste dispenser technology. -->
-  <VFEP_Rum.description>Крепкий алкогольный напиток, изготовленный из переработанных выделений человеческого тела.\n\nИзобретательное решение сразу двух проблем: повышения морального духа и добычи продовольствия. По консистенции ром густой, как протеиновый коктейль, а на вкус не так плох благодаря алкоголю, скрывающему привкус питательной пасты.</VFEP_Rum.description>
+  <VFEP_Rum.description>Міцний алкогольний напій, виготовлений із перероблених виділень людського тіла.\n\nВинахідливе вирішення одразу двох проблем: підвищення морального духу та видобутку продовольства. По консистенції ром густий, як протеїновий коктейль, а на смак не такий поганий завдяки алкоголю, що приховує присмак поживної пасти.</VFEP_Rum.description>
   <!-- EN: Drink {0} -->
-  <VFEP_Rum.ingestible.ingestCommandString>Пить {0}</VFEP_Rum.ingestible.ingestCommandString>
+  <VFEP_Rum.ingestible.ingestCommandString>Випити {0}</VFEP_Rum.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <VFEP_Rum.ingestible.ingestReportString>Пьёт {0}</VFEP_Rum.ingestible.ingestReportString>
+  <VFEP_Rum.ingestible.ingestReportString>п'є {0}</VFEP_Rum.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <VFEP_Rum.tools.bottle.label>бутылка</VFEP_Rum.tools.bottle.label>
+  <VFEP_Rum.tools.bottle.label>пляшка</VFEP_Rum.tools.bottle.label>
   <!-- EN: neck -->
-  <VFEP_Rum.tools.neck.label>горлышко</VFEP_Rum.tools.neck.label>
+  <VFEP_Rum.tools.neck.label>шийка</VFEP_Rum.tools.neck.label>
 </LanguageData>

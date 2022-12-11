@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: ship chunk debris -->
-  <VFEP_ShipChunkDebris.label>обломок корабля</VFEP_ShipChunkDebris.label>
+  <VFEP_ShipChunkDebris.label>корабльні уламки</VFEP_ShipChunkDebris.label>
   <!-- EN: A chunk of a combat-grade spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon. It is densely packed with double-layer armor plating and control systems, which can be acquired by deconstructing it. -->
-  <VFEP_ShipChunkDebris.description>Обломок боевого космического корабля. Вероятно, он был оторван в результате мощного удара и попадания из какого-то оружия. На обломке можно разглядеть двухслойную броню обшивки и остатки систем управления, которые можно получить, разобрав его.</VFEP_ShipChunkDebris.description>
+  <VFEP_ShipChunkDebris.description>Уламок бойового космічного корабля. Ймовірно, його було відірвано внаслідок потужного удару та влучення з якоїсь зброї. На уламку можна розглянути двошарову броню обшивки та залишки систем управління, які можна отримати, розібравши його.</VFEP_ShipChunkDebris.description>
 
   <!-- EN: ship chunk battery -->
-  <VFEP_ShipChunkBattery.label>обломок батареи</VFEP_ShipChunkBattery.label>
+  <VFEP_ShipChunkBattery.label>корабльні уламки батареї</VFEP_ShipChunkBattery.label>
   <!-- EN: The mangled remains of ship-borne battery, used to power systems with high power draw for short periods. It was leaps and bounds about Rimworld battery technology but it can no longer be recharged and yields decent salvage once it’s stored charge has run out. -->
-  <VFEP_ShipChunkBattery.description>Остатки корабельной батареи, которая питала корабль мощными кратковременными всплесками энергии. Батарея выполнена по слишком старым даже для этого окраинного мира технологиям и не может быть заряжена вновь. Однако накопленную энергию всё ещё можно использовать.</VFEP_ShipChunkBattery.description>
+  <VFEP_ShipChunkBattery.description>Залишки корабельної батареї, яка мала корабель потужними короткочасними сплесками енергії. Батарея виконана за надто старими навіть для цього окраїнного світу технологіями і не може бути заряджена знову. Однак накопичену енергію все ще можна використати.</VFEP_ShipChunkBattery.description>
 
   <!-- EN: ship chunk cryptosleep casket -->
-  <VFEP_ShipChunkCryptosleepCasket.label>обломок с саркофагом</VFEP_ShipChunkCryptosleepCasket.label>
+  <VFEP_ShipChunkCryptosleepCasket.label>корабльні уламки з саркофагом</VFEP_ShipChunkCryptosleepCasket.label>
   <!-- EN: A self-powered cryptosleep casket caught in the remains of their ship’s hull. The occupant can still be recovered from the module, but most of the material is worth less than scrap metal and offers little salvage. -->
-  <VFEP_ShipChunkCryptosleepCasket.description>Автономный саркофаг криптосна, застрявший в обломках корпуса. Большая часть материалов превратилась в бесполезный мусор, но находящегося внутри человека всё ещё можно спасти.</VFEP_ShipChunkCryptosleepCasket.description>
+  <VFEP_ShipChunkCryptosleepCasket.description>Автономний саркофаг криптосну, що застряг у уламках корпусу. Більшість матеріалів перетворилася на марне сміття, але якщо всередині знаходиться людина, її все ще можна врятувати.</VFEP_ShipChunkCryptosleepCasket.description>
 
   <!-- EN: ship chunk volatile engine -->
-  <VFEP_ShipChunkVolatileEngine.label>нестабильный корабельный двигатель</VFEP_ShipChunkVolatileEngine.label>
+  <VFEP_ShipChunkVolatileEngine.label>корабельний нестабільний двигун</VFEP_ShipChunkVolatileEngine.label>
   <!-- EN: Self-powered turbo engines for a combat-grade spacecraft, designed for atmospheric use. The control and safety system are damaged and the turbines are unable to take in enough air to cool itself. If not properly dismantled, the accumulating energy will tear itself apart. -->
-  <VFEP_ShipChunkVolatileEngine.description>Автономный скоростной двигатель боевого космического корабля, пригодный для использования в атмосфере. Системы управления и безопасности пришли в негодность и турбины перестали охлаждаться. Если его не отключить и разобрать должным образом, он взорвётся.</VFEP_ShipChunkVolatileEngine.description>
+  <VFEP_ShipChunkVolatileEngine.description>Автономний швидкісний двигун бойового корабля, придатний для використання в атмосфері. Системи управління та безпеки стали непридатними і турбіни перестали охолоджуватися. Якщо його не відключити і розібрати належним чином, він вибухне.</VFEP_ShipChunkVolatileEngine.description>
 
   <!-- EN: chemfuel puddle -->
-  <VFEP_Filth_Fuel.label>топливная лужа</VFEP_Filth_Fuel.label>
+  <VFEP_Filth_Fuel.label>паливна калюжа</VFEP_Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <VFEP_Filth_Fuel.description>Загорится, если поджечь.</VFEP_Filth_Fuel.description>
+  <VFEP_Filth_Fuel.description>Загориться, якщо підпалити.</VFEP_Filth_Fuel.description>
 
   <!-- EN: ship chunk fuel tank -->
-  <VFEP_ShipChunkFuelTank.label>топливный бак</VFEP_ShipChunkFuelTank.label>
+  <VFEP_ShipChunkFuelTank.label>корабельний паливний бак</VFEP_ShipChunkFuelTank.label>
   <!-- EN: A tank of Chemfuel, punctured by the hull of its ship’s hull. Some of the fluid can be recovered while the majority is filled with grime, leaking out and creating a fire hazard. A prime target for any pyromaniac wanting to watch the world burn. -->
-  <VFEP_ShipChunkFuelTank.description>Пробитый банк с химтопливом. Часть топлива ещё можно спасти, но большая часть вытекла и смешалась с землёй. Вытекшее топливо создаёт опасность пожара и является желанной целью для пироманов, желающих видеть мир в огне.</VFEP_ShipChunkFuelTank.description>
+  <VFEP_ShipChunkFuelTank.description>Пробитий бак із хімпаливом. Частину палива ще можна врятувати, але більшість витекла і змішалася із землею. Паливо, що витекло, створює небезпеку пожежі і є бажаною цілю для піроманів, які бажають бачити світ у вогні.</VFEP_ShipChunkFuelTank.description>
 
   <!-- EN: ship chunk gauntlet turret -->
-  <VFEP_ShipChunkGauntletTurret.label>турель «Краги»</VFEP_ShipChunkGauntletTurret.label>
+  <VFEP_ShipChunkGauntletTurret.label>корабельна турель «Латниці»</VFEP_ShipChunkGauntletTurret.label>
   <!-- EN: The remains of the housing for the Gauntlet charge cannon. Powered externally, the ammunition storage is wrecked and cannot be replaced. Once the turret empties its magazine, it is still valuable salvage worth recovery. -->
-  <VFEP_ShipChunkGauntletTurret.description>Остатки энергоорудия «Краги». Боеприпасы для него подавались системами корабля, и потому орудие не может быть перезаряжено. Однако даже без боезапаса турель является источником ценных ресурсов.</VFEP_ShipChunkGauntletTurret.description>
+  <VFEP_ShipChunkGauntletTurret.description>Залишки енергозброї «Латниці». Боєприпаси йому подавалися системами корабля, і тому зброю неможливо перезарядити. Однак навіть без боєзапасу турель є джерелом цінних ресурсів.</VFEP_ShipChunkGauntletTurret.description>
   <!-- EN: Barrel durability -->
   <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>Міцність ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
@@ -42,17 +42,17 @@
   <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>Неможливо вести вогонь: необхдна заміна ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
 
   <!-- EN: ship chunk reactor -->
-  <VFEP_ShipChunkReactor.label>реактор корабля</VFEP_ShipChunkReactor.label>
+  <VFEP_ShipChunkReactor.label>корабльні уламки реактору</VFEP_ShipChunkReactor.label>
   <!-- EN: The remains of a combat-grade spacecraft’s nuclear reactor, low-yield and designed to operate alongside energy storage. Surprisingly, the reactor is fully functional with no structural damage, so it can be safely used for ground operations. -->
-  <VFEP_ShipChunkReactor.description>Остатки ядерного реактора боевого космического корабля. Он маломощный и предназначен для постепенной зарядки хранилища энергии. Сложно поверить, но он всё ещё работает и может послужить источником энергии для поселения.</VFEP_ShipChunkReactor.description>
+  <VFEP_ShipChunkReactor.description>Залишки ядерного реактора бойового космічного корабля. Він малопотужний та призначений для поступової зарядки сховища енергії. Важко повірити, але він все ще працює і може стати джерелом енергії для поселення.</VFEP_ShipChunkReactor.description>
 
   <!-- EN: ship medical crate -->
-  <VFEP_ShipMedicalCrate.label>медицинский контейнер</VFEP_ShipMedicalCrate.label>
+  <VFEP_ShipMedicalCrate.label>корабльний контейнер з медикаментами</VFEP_ShipMedicalCrate.label>
   <!-- EN: A now-unsealed crate containing first-aid supplies. The pallet can be dismantled for steel along with recovering the supplies. -->
-  <VFEP_ShipMedicalCrate.description>Теперь уже незапечатанный контейнер с препаратами для оказания первой помощи. Можно разобрать и получить немного стали и медикаментов.</VFEP_ShipMedicalCrate.description>
+  <VFEP_ShipMedicalCrate.description>Пошкоджений контейнер з медикаментами, у якого заклинило замок, тому щоб дістатися до запасів, необхідно повністю розібрати.</VFEP_ShipMedicalCrate.description>
 
   <!-- EN: ship nutrient paste crate -->
-  <VFEP_ShipNutrientPasteCrate.label>контейнер с питательной пастой</VFEP_ShipNutrientPasteCrate.label>
+  <VFEP_ShipNutrientPasteCrate.label>корабльний контейнер з їжею</VFEP_ShipNutrientPasteCrate.label>
   <!-- EN: A now-unsealed crate containing emergency food rations. The pallet can be dismantled for steel along with recovering the supplies. -->
-  <VFEP_ShipNutrientPasteCrate.description>Теперь уже незапечатанный контейнер с резервным запасом пищи. Можно разобрать и получить немного стали и питательной пасты.</VFEP_ShipNutrientPasteCrate.description>
+  <VFEP_ShipNutrientPasteCrate.description>Пошкоджений контейнер з поживною пастою, у якого заклинило замок, тому щоб дістатися до запасів, необхідно повністю розібрати.</VFEP_ShipNutrientPasteCrate.description>
 </LanguageData>

@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: warcasket (бойова оболонка) combat knife -->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>бойовий нож мертвеца</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>великогабаритний ніж</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
   <!-- EN: An upscaled version of the combat knife designed for use by a warcasket (бойова оболонка). It is only still called a knife due to size comparison to a warcasket (бойова оболонка), but it is capable of cleaving a man in half and is just as large. The preferred weapon for the faster moving warcaskets that prioritize lightly armored, isolated targets. -->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>Увеличенная в размерах версия боевого ножа для использования с бронёй мертвеца. Это оружие остаётся «ножом» исключительно на фоне брони мертвеца. Он сопоставим по размерам с человеком и может разрубить этого человека пополам. Оружие отлично подходит для для быстрого передвижения и ликвидации одиноких легкобронированных целей.</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>Збільшена у розмірах версія бойового ножа для використання з бойовою оболонкою. Ця зброя залишається «ножем» виключно на тлі бойової оболонки. Він можна порівняти за розмірами з людиною і може розрубати цю людину навпіл. Зброя відмінно підходить для швидкого пересування та ліквідації одиноких легкоброньованих цілей.</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
   <!-- EN: point -->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>остриё</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>вістря</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>
   <!-- EN: blade -->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>лезвие</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>лезо</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>
 
   <!-- EN: warcasket (бойова оболонка) broadsword -->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.label>меч мертвеца</VFEP_WarcasketMeleeWeapon_Broadsword.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.label>великогабаритний меч</VFEP_WarcasketMeleeWeapon_Broadsword.label>
   <!-- EN: A very unique melee weapon exclusively made for warcaskets. It combines massive weight and a cutting force that gives it no equal in melee combat. While it was intended for use against other warcaskets, it works just as well against smaller targets that would normally be considered armored. -->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.description>Совершенно уникальное оружие, изготовленное специально для использования с бронёй мертвеца. Меч обладает мощным сочетанием большого веса и острого лезвия, которое делает его лучшим выбором для ближнего боя. Меч, в первую очередь, предназначен для устранения целей в броне мертвеца, но без проблем справляет и с более мелкими, считающимися бронированными, целями.</VFEP_WarcasketMeleeWeapon_Broadsword.description>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.description>Абсолютно унікальна зброя, виготовлена спеціально для використання з бойовою оболонкою. Меч має потужне поєднання великої ваги та гострого леза, яке робить його найкращим вибором для ближнього бою. Меч, в першу чергу, призначений для усунення цілей у бойової оболонки, але без проблем справляє і з дрібнішими цільами, що вважаються броньованими.</VFEP_WarcasketMeleeWeapon_Broadsword.description>
   <!-- EN: point -->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>остриё</VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>вістря</VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>
   <!-- EN: blade -->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>лезвие</VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>лезо</VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>
 
   <!-- EN: warcasket (бойова оболонка) gravity hammer -->
-  <VFEP_WarcasketMeleeWeapon_GravityHammer.label>гравітаційний молот мертвеца</VFEP_WarcasketMeleeWeapon_GravityHammer.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.label>великогабаритний гравітаційний молот</VFEP_WarcasketMeleeWeapon_GravityHammer.label>
   <!-- EN: A monumental piece of anti-personnel technology that can only be properly utilized by the oversized warcaskets. Practically an engine block fitted to the end of a mech’s limb actuator, equipped with multiple pneumatic plates covering miniature repulsor generators designed for riot control. In layman’s terms, a strike from the head will launch the target backwards by several meters. -->
-  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>Внушающий трепет образец убийственных технологий, который будет смотреться уместно лишь в руках брони мертвеца. Фактически полноценный двигатель на механическом манипуляторе, усиленный несколькими репульсорными генераторами за пневматическими пластинами. Идеальное оружие для контроля толпы. Просто-напросто достаточно всего одного удара чтобы отбросить цель на несколько метров назад.</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>Вражаючий взірець вбивчих технологій, який виглядатиме доречно лише в руках носія бойової оболонки. Фактично повноцінний двигун на механічному маніпуляторі, посилений кількома генераторами репульсорними за пневматичними пластинами. Ідеальна зброя для контролю натовпу. Достатньо всього одного удару щоб відкинути ціль на кілька метрів.</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
   <!-- EN: head -->
-  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>бойова часть</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>ударна частина</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>
   <!-- EN: handle -->
   <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>рукоятка</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>
-  
+
 </LanguageData>

@@ -4,16 +4,16 @@
   <!-- EN: wardrone -->
   <VFEP_Mech_Wardrone.label>бойовий дрон</VFEP_Mech_Wardrone.label>
   <!-- EN: Semi-autonomous flying combat drone with limited combat functionality. Equipped with a lightweight semi-automatic miniturret due to limited recoil absorption and an onboard self-destruction module to both prevent enemy capture and defense against melee attackers. -->
-  <VFEP_Mech_Wardrone.description>Полуавтономный летающий бойовий дрон для решения ограниченного ряда боевых задач. Он вооружён лёгкой полуавтоматической турелью с простой системой компенсации отдачи и системой самоуничтожения, предотвращающей захват дрона врагом. Так же она может использоваться для нанесения урона атакующим в ближнем бою.</VFEP_Mech_Wardrone.description>
+  <VFEP_Mech_Wardrone.description>Напівавтономний літаючий бойовий дрон для вирішення обмеженого ряду бойових завдань. Він озброєний легкою напівавтоматичною туреллю із простою системою компенсації віддачі та системою самознищення, що запобігає захопленню дрона ворогом. Так само вона може використовуватися для завдання шкоди атакуючим у ближньому бою.</VFEP_Mech_Wardrone.description>
   <!-- EN: turret -->
   <VFEP_Mech_Wardrone.tools.0.label>турель</VFEP_Mech_Wardrone.tools.0.label>
-  <VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>Взорвётся через</VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>
+  <VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>Вибухне за</VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>
 
   <!-- EN: spidermine -->
   <VFEP_Mech_Spidermine.label>міна-павук</VFEP_Mech_Spidermine.label>
   <!-- EN: Semi-autonomous combat drone with onboard pathfinding capability. Equipped with a self-destruction module and tracking system, designed to be launched as a payload and then seek out enemy targets. If no nearby targets can be acquired, it will immediately detonate in order to prevent future accidents. -->
-  <VFEP_Mech_Spidermine.description>Полуавтономный бойовий дрон с системой поиска пути. Помимо этого, он имеет систему самоуничтожения с возможностью отслеживания целей. После сброса дрон начинает поиск целей. Если в зоне поиска целей не обнаружено, мина просто взрывается, чтобы предотвратить возможные несчастные случаи.</VFEP_Mech_Spidermine.description>
+  <VFEP_Mech_Spidermine.description>Напівавтономний боєвий дрон із системою пошуку шляху. Крім цього, він має систему самознищення з можливістю відстеження цілей. Після скидання дрон починає пошук цілей. Якщо в зоні пошуку цілей не виявлено, міна просто вибухає, щоб запобігти можливим нещасним випадкам.</VFEP_Mech_Spidermine.description>
   <!-- EN: frame -->
-  <VFEP_Mech_Spidermine.tools.0.label>основание</VFEP_Mech_Spidermine.tools.0.label>
+  <VFEP_Mech_Spidermine.tools.0.label>вибух</VFEP_Mech_Spidermine.tools.0.label>
 
 </LanguageData>
