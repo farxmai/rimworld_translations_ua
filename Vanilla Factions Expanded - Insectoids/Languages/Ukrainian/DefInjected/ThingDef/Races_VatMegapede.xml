@@ -3,10 +3,10 @@
   <!-- EN: Vat-grown megapede -->
   <VFEI_VatGrownMegapede.label>вирощена тисячоніжка</VFEI_VatGrownMegapede.label>
   <!-- EN: A giant, heavy insectoid that glides on dozens of tiny legs. Its thick chitin armor and sharp mandibles the size of an elephant’s tusk make it an excellent siege machine. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownMegapede.description>Тяжёлая громадина на множестве маленьких ножек. Благодаря прочной хитиновой броне и острым жвалам, размером со слоновий бивень, отлично подходит на роль осадной машины. Из-за крайней медлительности может быть уязвима для hit-and-run тактики. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownMegapede.description>
-  <VFEI_VatGrownMegapede.tools.head_claw.label>передние клешни</VFEI_VatGrownMegapede.tools.head_claw.label>
-  <VFEI_VatGrownMegapede.tools.mandibles.label>жвалы</VFEI_VatGrownMegapede.tools.mandibles.label>
+  <VFEI_VatGrownMegapede.description>Тяжкий гігант на безлічі маленьких ніжок. Завдяки міцній хітиновій броні та гострим жвалам, розміром зі слоновий бивень, відмінно підходить на роль облогової машини. Через крайню повільність може бути вразлива для hit-and-run тактики. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownMegapede.description>
+  <VFEI_VatGrownMegapede.tools.head_claw.label>передні клешні</VFEI_VatGrownMegapede.tools.head_claw.label>
+  <VFEI_VatGrownMegapede.tools.mandibles.label>жвали</VFEI_VatGrownMegapede.tools.mandibles.label>
   <VFEI_VatGrownMegapede.tools.head.label>голова</VFEI_VatGrownMegapede.tools.head.label>
-  <Corpse_VFEI_VatGrownMegapede.label>туша тысяченожки</Corpse_VFEI_VatGrownMegapede.label>
-  <Corpse_VFEI_VatGrownMegapede.description>Мёртвая тисячоніжка.</Corpse_VFEI_VatGrownMegapede.description>
+  <Corpse_VFEI_VatGrownMegapede.label>туша тисячоніжки</Corpse_VFEI_VatGrownMegapede.label>
+  <Corpse_VFEI_VatGrownMegapede.description>Мертва тисячоніжка.</Corpse_VFEI_VatGrownMegapede.description>
 </LanguageData>

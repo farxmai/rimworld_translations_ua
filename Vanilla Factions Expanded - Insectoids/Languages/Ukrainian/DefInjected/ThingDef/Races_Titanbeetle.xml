@@ -3,9 +3,9 @@
   <!-- EN: Vat-grown titanbeetle -->
   <VFEI_VatGrownTitanbeetle.label>вирощений жук-титан</VFEI_VatGrownTitanbeetle.label>
   <!-- EN: A giant, beetle-like insectoid recognized for its ability to break down solid rocks into smaller, easier to carry, chunks. It’s heavily armoured to save it from eventual avalanches, whilst it’s deadly horn allows it to quickly eliminate potential predators with a single blow. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased.\n\nNOTE: The Titanbeetle needs to be trained in "Guard" to be able to help with mining. Things mined by the beetle will always appear forbidden due to game constraints. -->
-  <VFEI_VatGrownTitanbeetle.description>Гигантский жукообразный інсектоїд, способное разбивать камни на более мелкие, удобные для переноски куски. Оно хорошо бронировано для защиты от возможных обвалов, а его смертоносный рог способен устранить потенциальных хищников одним ударом. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.ВАЖНО: Жук-титан должен быть обучен «преданности», чтобы помогать с добычей минералов. Ресурсы, добытые жуком, будут «запрещены» по умолчанию из-за особенностей игры.</VFEI_VatGrownTitanbeetle.description>
-  <VFEI_VatGrownTitanbeetle.tools.head_claw.label>передние клешни</VFEI_VatGrownTitanbeetle.tools.head_claw.label>
-  <VFEI_VatGrownTitanbeetle.tools.mandibles.label>жвалы</VFEI_VatGrownTitanbeetle.tools.mandibles.label>
+  <VFEI_VatGrownTitanbeetle.description>Гігантський жукоподібний інсектоїд, здатне розбивати каміння на дрібніші, зручні для перенесення шматки. Воно добре броньоване для захисту від можливих обвалів, яке смертоносний ріг здатний усунути потенційних хижаків одним ударом. Так як це штучно вирощене істота, у нього немає здатності до розмноження, а термін життя скорочений. Ресурси, здобуті жуком, будуть «заборонені» за замовчанням через особливості гри.</VFEI_VatGrownTitanbeetle.description>
+  <VFEI_VatGrownTitanbeetle.tools.head_claw.label>передні клешні</VFEI_VatGrownTitanbeetle.tools.head_claw.label>
+  <VFEI_VatGrownTitanbeetle.tools.mandibles.label>жвали</VFEI_VatGrownTitanbeetle.tools.mandibles.label>
   <VFEI_VatGrownTitanbeetle.tools.head.label>голова</VFEI_VatGrownTitanbeetle.tools.head.label>
   <Corpse_VFEI_VatGrownTitanbeetle.label>туша жука-титана</Corpse_VFEI_VatGrownTitanbeetle.label>
   <Corpse_VFEI_VatGrownTitanbeetle.description>Мертвий жук-титан.</Corpse_VFEI_VatGrownTitanbeetle.description>

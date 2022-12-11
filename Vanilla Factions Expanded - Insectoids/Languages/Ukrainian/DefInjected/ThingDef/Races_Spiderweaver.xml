@@ -3,9 +3,9 @@
   <!-- EN: Vat-grown spiderweaver -->
   <VFEI_VatGrownSpiderweaver.label>вирощений павук-ткач</VFEI_VatGrownSpiderweaver.label>
   <!-- EN: A bio-engineered spider insectoid the size of a bear. Designed for production of a beautiful insectoid spidersilk and sometimes employed in combat, its thick chitinous armor makes it hard to kill, whilst it’s sharp mandibles allow it to rip enemies into pieces. It is, however, quite slow in open terrain. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownSpiderweaver.description>Гигантский павук размером с медведя. Спроектирован для производства красивого паучьего шёлка, но также способен участвовать в бою. Прочная хитиновая броня не даёт ему так просто погибнуть, а острые жвала позволяют разрывать большинство врагов на куски. При всём при этом, довольно медленный на открытой местности. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownSpiderweaver.description>
-  <VFEI_VatGrownSpiderweaver.tools.head_claw.label>передние клешни</VFEI_VatGrownSpiderweaver.tools.head_claw.label>
+  <VFEI_VatGrownSpiderweaver.description>Гігантський павук розміром з ведмедя. Спроектований для виробництва гарного шовку, але також здатний брати участь у бою. Міцна хітинова броня не дає йому так просто загинути, а гострі жували дозволяють розривати більшість ворогів на шматки. При всьому цьому досить повільний на відкритій місцевості. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownSpiderweaver.description>
+  <VFEI_VatGrownSpiderweaver.tools.head_claw.label>передні клешні</VFEI_VatGrownSpiderweaver.tools.head_claw.label>
   <VFEI_VatGrownSpiderweaver.tools.head.label>голова</VFEI_VatGrownSpiderweaver.tools.head.label>
-  <Corpse_VFEI_VatGrownSpiderweaver.label>туша ткацкого павука</Corpse_VFEI_VatGrownSpiderweaver.label>
+  <Corpse_VFEI_VatGrownSpiderweaver.label>туша павука-ткача</Corpse_VFEI_VatGrownSpiderweaver.label>
   <Corpse_VFEI_VatGrownSpiderweaver.description>Мертвий павук-ткач.</Corpse_VFEI_VatGrownSpiderweaver.description>
 </LanguageData>

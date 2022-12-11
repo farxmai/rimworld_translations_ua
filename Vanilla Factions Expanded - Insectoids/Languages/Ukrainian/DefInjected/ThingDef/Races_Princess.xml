@@ -3,9 +3,9 @@
   <!-- EN: Vat-grown princess -->
   <VFEI_VatGrownPrincess.label>вирощена принцеса</VFEI_VatGrownPrincess.label>
   <!-- EN: A giant, genetically-engineered insectoid responsible for creating large amounts of unfertilized insectoid eggs. A mere shadow of an actual insectoid queen, an insectoid princess is slow, quite incapable of handling herself in combat situations, and not as intimidating as the natural counterpart. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownPrincess.description>Инсектоид, создающий множество неоплодотворённых яиц. Всего лишь тень настоящей королевы улья. Медлительная и не способная справиться с противниками, или хотя бы напугать их. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownPrincess.description>
-  <VFEI_VatGrownPrincess.tools.mandibles.label>жвалы</VFEI_VatGrownPrincess.tools.mandibles.label>
+  <VFEI_VatGrownPrincess.description>Інсектоїд, що створює безліч незапліднених яєць. Лише тінь справжньої королеви вулика. Повільна і не здатна впоратися з противниками, або хоча б налякати їх. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownPrincess.description>
+  <VFEI_VatGrownPrincess.tools.mandibles.label>жвали</VFEI_VatGrownPrincess.tools.mandibles.label>
   <VFEI_VatGrownPrincess.tools.head.label>голова</VFEI_VatGrownPrincess.tools.head.label>
-  <Corpse_VFEI_VatGrownPrincess.label>туша принцессы інсектоїдов</Corpse_VFEI_VatGrownPrincess.label>
-  <Corpse_VFEI_VatGrownPrincess.description>Мёртвая принцеса інсектоїдов.</Corpse_VFEI_VatGrownPrincess.description>
+  <Corpse_VFEI_VatGrownPrincess.label>туша принцеси інсектоїдів</Corpse_VFEI_VatGrownPrincess.label>
+  <Corpse_VFEI_VatGrownPrincess.description>Мертва принцеса інсектоїдів.</Corpse_VFEI_VatGrownPrincess.description>
 </LanguageData>

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: drone genetic material -->
-  <VFEI_DroneGenome.label>генетический материал трутня</VFEI_DroneGenome.label>
+  <VFEI_DroneGenome.label>генетичний матеріал трутня</VFEI_DroneGenome.label>
   <!-- EN: Genetic material of several different species of working animals and drones, mixed into one payload of DNA.\n\nWhen administered to a human being, this genome can have a random effect. -->
-  <VFEI_DroneGenome.description>Генетический материал различных рабочих животных и інсектоїдов-трутней, соединённый в единую ДНК.\n\nПри введении человеку может дать непредсказуемый эффект.</VFEI_DroneGenome.description>
+  <VFEI_DroneGenome.description>Генетичний матеріал різних робочих тварин та інсектоїдів-трутнів, з'єднаний у єдину ДНК.\n\nПри введені людині може дати непередбачуваний ефект.</VFEI_DroneGenome.description>
 
   <!-- EN: warrior genetic material -->
-  <VFEI_WarriorGenome.label>генетический материал воина</VFEI_WarriorGenome.label>
+  <VFEI_WarriorGenome.label>генетичний матеріал воїна</VFEI_WarriorGenome.label>
   <!-- EN: Genetic material of several different species of warrior caste insects and predators, mixed into one payload of DNA.\n\nWhen administered to a human being, this genome can have a random effect. -->
-  <VFEI_WarriorGenome.description>Генетический материал различных хищных животных и інсектоїдов-войнов, соединённый в единую ДНК.\n\nПри введении человеку может дать непредсказуемый эффект.</VFEI_WarriorGenome.description>
+  <VFEI_WarriorGenome.description>Генетичний матеріал різних хижих тварин та інсектоїдів-війн, поєднаний у єдину ДНК.\n\nПри введені людині може дати непередбачуваний ефект.</VFEI_WarriorGenome.description>
 
   <!-- EN: royal genetic material -->
-  <VFEI_RoyalGenome.label>генетический материал монарха</VFEI_RoyalGenome.label>
+  <VFEI_RoyalGenome.label>генетичний матеріал монарха</VFEI_RoyalGenome.label>
   <!-- EN: Genetic material of several different species of royal insectoids and queens, mixed into one payload of DNA.\n\nWhen administered to a human being, this genome can have a random effect. -->
-  <VFEI_RoyalGenome.description>Генетический материал различных и інсектоїдов-монархов и королев, соединённый в единую ДНК.\n\nПри введении человеку может дать непредсказуемый эффект.</VFEI_RoyalGenome.description>
+  <VFEI_RoyalGenome.description>Генетичний матеріал різних та інсектоїдів-монархів та королів, поєднаний в єдину ДНК.\n\nПри введені людині може дати непередбачуваний ефект.</VFEI_RoyalGenome.description>
 </LanguageData>

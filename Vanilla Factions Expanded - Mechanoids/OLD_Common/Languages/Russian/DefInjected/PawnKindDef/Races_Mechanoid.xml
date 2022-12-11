@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <!-- EN: centipede -->
   <VFE_Mech_Centipede.label>сентипеда</VFE_Mech_Centipede.label>
   <VFE_Mech_Centipede.labelPlural>сентипеды</VFE_Mech_Centipede.labelPlural>
@@ -19,7 +19,7 @@
 
   <!-- EN: scyther -->
   <VFE_Mech_Scyther.label>жнец</VFE_Mech_Scyther.label>
-  <VFE_Mech_Scyther.labelPlural>жнецы</VFE_Mech_Scyther.labelPlural>
+  <VFE_Mech_Scyther.labelPlural>жнеці</VFE_Mech_Scyther.labelPlural>
 
   <!-- EN: pikeman -->
   <VFE_Mech_Pikeman.label>драгун</VFE_Mech_Pikeman.label>

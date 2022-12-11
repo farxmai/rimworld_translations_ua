@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: tunnel -->
-  <VFEI_TunnelHiveSpawner.label>тоннель</VFEI_TunnelHiveSpawner.label>
+  <VFEI_TunnelHiveSpawner.label>тунель</VFEI_TunnelHiveSpawner.label>
 
   <!-- EN: large hive -->
-  <VFEI_LargeHive.label>большой улей</VFEI_LargeHive.label>
+  <VFEI_LargeHive.label>великий рій</VFEI_LargeHive.label>
   <!-- EN: An enourmous hive of insectoid creatures. If activated, it will spawn additional insect types and hives over time, as well as delicious and valuable insect jelly. -->
-  <VFEI_LargeHive.description>Громадный улей інсектоїдов. Если активен, со временем будет порождать інсектоїдов и другие ульи, но также и вкусное и ценное желе.</VFEI_LargeHive.description>
+  <VFEI_LargeHive.description>Величезний вулик інсектоїдів. Якщо активний, згодом породжуватиме інсектоїдів та інші вулики, але також і смачне та цінне желе.</VFEI_LargeHive.description>
 
   <!-- EN: cocoon -->
   <VFEI_InsectoidLarvaeCocoon.label>кокон</VFEI_InsectoidLarvaeCocoon.label>
@@ -14,17 +14,17 @@
   <VFEI_InsectoidLarvaeCocoon.description>Кокон інсектоїда.</VFEI_InsectoidLarvaeCocoon.description>
 
   <!-- EN: small burrow -->
-  <VFEI_BurrowSmall.label>малая нора</VFEI_BurrowSmall.label>
+  <VFEI_BurrowSmall.label>мала нора</VFEI_BurrowSmall.label>
   <!-- EN: A burrow leading to a web of insectoid tunnels. It will periodically spawn waves of lower castes of insects until destroyed. -->
-  <VFEI_BurrowSmall.description>Нора, ведущая к сети тоннелей насекомых. До тех пор, пока её не уничтожат, будет порождать время от времени волны інсектоїдов низших каст.</VFEI_BurrowSmall.description>
+  <VFEI_BurrowSmall.description>Нора, що веде до мережі тунелів комах. Доти, доки її не знищать, породжуватиме час від часу хвилі інсектоїдів нижчих каст.</VFEI_BurrowSmall.description>
 
   <!-- EN: medium burrow -->
   <VFEI_BurrowMedium.label>середня нора</VFEI_BurrowMedium.label>
   <!-- EN: A burrow leading to a web of insectoid tunnels. It will periodically spawn waves of higher castes of insects until destroyed. -->
-  <VFEI_BurrowMedium.description>Нора, ведущая к сети тоннелей насекомых. До тех пор, пока её не уничтожат, будет порождать время от времени волны інсектоїдов высших каст.</VFEI_BurrowMedium.description>
+  <VFEI_BurrowMedium.description>Нора, що веде до мережі тунелів комах. Доти, доки її не знищать, породжуватиме час від часу хвилі інсектоїдів вищих каст.</VFEI_BurrowMedium.description>
 
   <!-- EN: royal burrow -->
-  <VFEI_BurrowRoyal.label>королевская нора</VFEI_BurrowRoyal.label>
+  <VFEI_BurrowRoyal.label>королівська нора</VFEI_BurrowRoyal.label>
   <!-- EN: A burrow leading to a web of insectoid tunnels. It will periodically spawn the highest caste of insects - the royal offspring of the queen until destroyed. -->
-  <VFEI_BurrowRoyal.description>Нора, ведущая к сети тоннелей насекомых. До тех пор, пока её не уничтожат, будет порождать время от времени волны высших інсектоїдов — монарших отпрысков самой королевы.</VFEI_BurrowRoyal.description>
+  <VFEI_BurrowRoyal.description>Нора, що веде до мережі тунелів комах. Доки її не знищать, породжуватиме час від часу хвилі вищих інсектоїдів — монарших нащадків самої королеви.</VFEI_BurrowRoyal.description>
 </LanguageData>

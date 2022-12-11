@@ -8,16 +8,16 @@
   <VFEI_InfestedSmallShipPartDrop.letterText>Декілька невеликих уламків стародавнього корабля впали неподалік.\nСхоже, всередині все заповнене якоюсь органічною масою. Також зсередини корпусу чується дзижчання невідомих комах.\nЗнищте його якнайшвидше.</VFEI_InfestedSmallShipPartDrop.letterText>
 
   <!-- EN: infested ship crash -->
-  <VFEI_InfestedShipPartDrop.label>падение корабля с органикой</VFEI_InfestedShipPartDrop.label>
+  <VFEI_InfestedShipPartDrop.label>падіння корабля з органікою</VFEI_InfestedShipPartDrop.label>
   <!-- EN: Infested ship crash -->
-  <VFEI_InfestedShipPartDrop.letterLabel>Падение корабля с органикой</VFEI_InfestedShipPartDrop.letterLabel>
+  <VFEI_InfestedShipPartDrop.letterLabel>Падіння корабля з органікою</VFEI_InfestedShipPartDrop.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n It seems to be infested with an organic mass. Bizarre insect chittering can be heard within the hull.\n Destroy it as soon as possible. -->
   <VFEI_InfestedShipPartDrop.letterText>Великий уламок стародавнього корабля впав неподалік.\nСхоже, всередині все заповнене якоюсь органічною масою. Також зсередини корпусу чується дзижчання невідомих комах.\nЗнищте його якнайшвидше.</VFEI_InfestedShipPartDrop.letterText>
 
   <!-- EN: infested ship module crash -->
-  <VFEI_InfestedShipModuleDrop.label>падение модуля корабля с органикой</VFEI_InfestedShipModuleDrop.label>
+  <VFEI_InfestedShipModuleDrop.label>падіння модуля корабля з органікою</VFEI_InfestedShipModuleDrop.label>
   <!-- EN: infested ship module crash -->
-  <VFEI_InfestedShipModuleDrop.letterLabel>Падение модуля корабля с органикой</VFEI_InfestedShipModuleDrop.letterLabel>
+  <VFEI_InfestedShipModuleDrop.letterLabel>Падіння модуля корабля з органікою</VFEI_InfestedShipModuleDrop.letterLabel>
   <!-- EN: A mysterious segment of a long destroyed spaceship has crashed nearby.\n It seems to be completely covered in biomass and lumps of insectoid jelly. It is fairly certain that this old wreckage may contain ancient dangers.\n Destroy it as soon as possible. -->
   <VFEI_InfestedShipModuleDrop.letterText>Загадковий сегмент давно зруйнованого корабля впав неподалік.\nВін виглядає повністю покритим желе комах та якоюсь іншою органічною масою. Цілком очевидно, що ці старі руїни зберігають у собі щось давнє та небезпечне.\nЗнищте його якнайшвидше.</VFEI_InfestedShipModuleDrop.letterText>
 

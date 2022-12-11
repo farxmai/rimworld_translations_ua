@@ -3,9 +3,9 @@
   <!-- EN: Vat-grown spelopede -->
   <VFEI_VatGrownSpelopede.label>вирощений печерний жук</VFEI_VatGrownSpelopede.label>
   <!-- EN: A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownSpelopede.description>Генетически модифицированный інсектоїд размером с овцу.середня каста в улье. Своими клешнями эти жуки как защищают улей, так и выполняют в нём львиную долю работы. Опасны в ближнем бою, но на открытой местности весьма медлительны. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownSpelopede.description>
-  <VFEI_VatGrownSpelopede.tools.head_claw.label>жвалы</VFEI_VatGrownSpelopede.tools.head_claw.label>
+  <VFEI_VatGrownSpelopede.description>Генетично модифікований інсектоїд розміром з вівцю. Середня каста у вулику. Своїми клешнями ці жуки як захищають вулик, так і виконують у ньому левову частку роботи. Небезпечні у ближньому бою, але у відкритій місцевості дуже повільні. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownSpelopede.description>
+  <VFEI_VatGrownSpelopede.tools.head_claw.label>жвали</VFEI_VatGrownSpelopede.tools.head_claw.label>
   <VFEI_VatGrownSpelopede.tools.head.label>голова</VFEI_VatGrownSpelopede.tools.head.label>
-  <Corpse_VFEI_VatGrownSpelopede.label>туша пещерного жука</Corpse_VFEI_VatGrownSpelopede.label>
+  <Corpse_VFEI_VatGrownSpelopede.label>туша печерного жука</Corpse_VFEI_VatGrownSpelopede.label>
   <Corpse_VFEI_VatGrownSpelopede.description>Мертвий печерний жук.</Corpse_VFEI_VatGrownSpelopede.description>
 </LanguageData>

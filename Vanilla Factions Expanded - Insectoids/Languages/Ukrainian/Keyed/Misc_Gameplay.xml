@@ -1,197 +1,197 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Select first genome for the bio-engineering incubator -->
-  <VFEI_InsertFirstGenomeDesc>Выберите первый геном для биоинженерного инкубатора</VFEI_InsertFirstGenomeDesc>
+  <VFEI_InsertFirstGenomeDesc>Оберіть перший геном для біоінженерного інкубатора</VFEI_InsertFirstGenomeDesc>
   <!-- EN: First genome: None -->
-  <None_InsertFirstGenome>Первый геном: пусто</None_InsertFirstGenome>
+  <None_InsertFirstGenome>Перший геном: порожньо</None_InsertFirstGenome>
   <!-- EN: First genome: Royal -->
-  <VFEI_RoyalGenome_InsertFirstGenome>Первый геном: монарх</VFEI_RoyalGenome_InsertFirstGenome>
+  <VFEI_RoyalGenome_InsertFirstGenome>Перший геном: монарх</VFEI_RoyalGenome_InsertFirstGenome>
   <!-- EN: First genome: Warrior -->
-  <VFEI_WarriorGenome_InsertFirstGenome>Первый геном: воин</VFEI_WarriorGenome_InsertFirstGenome>
+  <VFEI_WarriorGenome_InsertFirstGenome>Перший геном: воїн</VFEI_WarriorGenome_InsertFirstGenome>
   <!-- EN: First genome: Drone -->
-  <VFEI_DroneGenome_InsertFirstGenome>Первый геном: трутень</VFEI_DroneGenome_InsertFirstGenome>
+  <VFEI_DroneGenome_InsertFirstGenome>Перший геном: трутень</VFEI_DroneGenome_InsertFirstGenome>
 
   <!-- EN: Select second genome for the bio-engineering incubator -->
-  <VFEI_InsertSecondGenomeDesc>Выберите второй геном для биоинженерного инкубатора</VFEI_InsertSecondGenomeDesc>
+  <VFEI_InsertSecondGenomeDesc>Оберіть другий геном для біоінженерного інкубатора</VFEI_InsertSecondGenomeDesc>
   <!-- EN: Second genome: None -->
-  <None_InsertSecondGenome>Второй геном: пусто</None_InsertSecondGenome>
+  <None_InsertSecondGenome>Другий геном: порожньо</None_InsertSecondGenome>
   <!-- EN: Second genome: Royal -->
-  <VFEI_RoyalGenome_InsertSecondGenome>Второй геном: монарх</VFEI_RoyalGenome_InsertSecondGenome>
+  <VFEI_RoyalGenome_InsertSecondGenome>Другий геном: монарх</VFEI_RoyalGenome_InsertSecondGenome>
   <!-- EN: Second genome: Warrior -->
-  <VFEI_WarriorGenome_InsertSecondGenome>Второй геном: воин</VFEI_WarriorGenome_InsertSecondGenome>
+  <VFEI_WarriorGenome_InsertSecondGenome>Другий геном: воїн</VFEI_WarriorGenome_InsertSecondGenome>
   <!-- EN: Second genome: Drone -->
-  <VFEI_DroneGenome_InsertSecondGenome>Второй геном: трутень</VFEI_DroneGenome_InsertSecondGenome>
+  <VFEI_DroneGenome_InsertSecondGenome>Другий геном: трутень</VFEI_DroneGenome_InsertSecondGenome>
 
   <!-- EN: Select third genome for the bio-engineering incubator -->
-  <VFEI_InsertThirdGenomeDesc>Выберите третий геном для биоинженерного инкубатора</VFEI_InsertThirdGenomeDesc>
+  <VFEI_InsertThirdGenomeDesc>Оберіть третій геном для біоінженерного інкубатора</VFEI_InsertThirdGenomeDesc>
   <!-- EN: Third genome: None -->
-  <None_InsertThirdGenome>Третий геном: пусто</None_InsertThirdGenome>
+  <None_InsertThirdGenome>Третій геном: порожньо</None_InsertThirdGenome>
   <!-- EN: Third genome: Royal -->
-  <VFEI_RoyalGenome_InsertThirdGenome>Третий геном: монарх</VFEI_RoyalGenome_InsertThirdGenome>
+  <VFEI_RoyalGenome_InsertThirdGenome>Третій геном: монарх</VFEI_RoyalGenome_InsertThirdGenome>
   <!-- EN: Third genome: Warrior -->
-  <VFEI_WarriorGenome_InsertThirdGenome>Третий геном: воин</VFEI_WarriorGenome_InsertThirdGenome>
+  <VFEI_WarriorGenome_InsertThirdGenome>Третій геном: воїн</VFEI_WarriorGenome_InsertThirdGenome>
   <!-- EN: Third genome: Drone -->
-  <VFEI_DroneGenome_InsertThirdGenome>Третий геном: трутень</VFEI_DroneGenome_InsertThirdGenome>
+  <VFEI_DroneGenome_InsertThirdGenome>Третій геном: трутень</VFEI_DroneGenome_InsertThirdGenome>
 
   <!-- EN: Royal Genome -->
   <VFEI_RoyalGenome>Геном монарха</VFEI_RoyalGenome>
   <!-- EN: Warrior Genome -->
-  <VFEI_WarriorGenome>Геном воина</VFEI_WarriorGenome>
+  <VFEI_WarriorGenome>Геном воїна</VFEI_WarriorGenome>
   <!-- EN: Drone Genome -->
   <VFEI_DroneGenome>Геном трутня</VFEI_DroneGenome>
   <!-- EN: Leave empty -->
-  <VFEI_None>Оставить пустым</VFEI_None>
+  <VFEI_None>Залишити порожнім</VFEI_None>
 
   <!-- EN: There is no genetic material of this type present on the map -->
-  <VFEI_NoGeneticMaterial>На карте нет генетического материала этого типа</VFEI_NoGeneticMaterial>
+  <VFEI_NoGeneticMaterial>На карті немає генетичного матеріалу цього типу</VFEI_NoGeneticMaterial>
   <!-- EN: At least one of the three slots in the incubator must be filled with genetic material -->
-  <VFEI_SelectAtLeastOne>Хотя бы один из трёх слотов инкубатора должен быть заполнен генетическим материалом.</VFEI_SelectAtLeastOne>
+  <VFEI_SelectAtLeastOne>Хоча б один із трьох слотів інкубатора повинен бути заповнений генетичним матеріалом.</VFEI_SelectAtLeastOne>
 
   <!-- EN: Begin inserting genes -->
-  <VFEI_StartInsertion>Начать ввод генов</VFEI_StartInsertion>
+  <VFEI_StartInsertion>Почати введення генів</VFEI_StartInsertion>
   <!-- EN: Order your colonists to begin inserting genetic material in the incubator. This is a hauling job. -->
-  <VFEI_StartInsertionDesc>Прикажите поселенцам начать ввод генетического материала в инкубатор. Это работа для носильщика.</VFEI_StartInsertionDesc>
+  <VFEI_StartInsertionDesc>Накажіть поселенцям розпочати введення генетичного матеріалу в інкубатор. Це робота для носія.</VFEI_StartInsertionDesc>
 
   <!-- EN: Remove genes -->
-  <VFEI_RemoveAllGenes>Удалить гены</VFEI_RemoveAllGenes>
+  <VFEI_RemoveAllGenes>Видалити гени</VFEI_RemoveAllGenes>
   <!-- EN: Empty the incubator, removing all genes that might be still stored inside. -->
-  <VFEI_RemoveAllGenesDesc>Опустошите инкубатор и удалите все гены, которые могли быть внутри.</VFEI_RemoveAllGenesDesc>
+  <VFEI_RemoveAllGenesDesc>Спустошіть інкубатор та видаліть усі гени, які могли бути всередині.</VFEI_RemoveAllGenesDesc>
 
   <!-- EN: Cancel insertion -->
-  <VFEI_CancelJobs>Отменить ввод генов</VFEI_CancelJobs>
+  <VFEI_CancelJobs>Скасувати введення генів</VFEI_CancelJobs>
   <!-- EN: Cancels gene insertion. All gene hauling jobs will be cancelled. -->
-  <VFEI_CancelJobsDesc>Отменить ввод генов. Все задачи по переноске генов будут отменены.</VFEI_CancelJobsDesc>
+  <VFEI_CancelJobsDesc>Скасувати введення генів. Усі завдання щодо перенесення генів будуть скасовані.</VFEI_CancelJobsDesc>
 
   <!-- EN: Activate Incubator -->
-  <VFEI_Engage>Активировать инкубатор</VFEI_Engage>
+  <VFEI_Engage>Активувати інкубатор</VFEI_Engage>
   <!-- EN: Activate Incubator to create a new insectoid from the inserted genetic materials -->
-  <VFEI_EngageDesc>Активируйте инкубатор для создания нового інсектоїда из введенного генетического материала</VFEI_EngageDesc>
+  <VFEI_EngageDesc>Активуйте інкубатор для створення нового інсектоїду із введеного генетичного матеріалу</VFEI_EngageDesc>
 
   <!-- EN: Your colonists were unable to retrieve the genetic material -->
-  <VFEI_NoGenesFound>Ваши поселенцы не смогли получить генетический материал</VFEI_NoGenesFound>
+  <VFEI_NoGenesFound>Ваші поселенці не змогли отримати генетичного матеріалу</VFEI_NoGenesFound>
 
   <!-- EN: Genetic material is still being carried to the incubator -->
-  <VFEI_WaitTillJobsEnd>Генетический материал всё ещё несут в инкубатор</VFEI_WaitTillJobsEnd>
+  <VFEI_WaitTillJobsEnd>Генетичний матеріал все ще несуть в інкубатор</VFEI_WaitTillJobsEnd>
 
   <!-- EN: Incubation in Progress. A {0} will be produced in:  -->
-  <VFEI_IncubationInProgress>Инкубация в процессе. {0} будет произведён в: </VFEI_IncubationInProgress>
+  <VFEI_IncubationInProgress>Інкубація у процесі. {0} буде вироблено за: </VFEI_IncubationInProgress>
 
   <!-- EN: This combination produces no results -->
-  <VFEI_CombinationNoResults>Эта комбинация даст никаких результатов</VFEI_CombinationNoResults>
+  <VFEI_CombinationNoResults>Ця комбінація не дає результатів</VFEI_CombinationNoResults>
 
   <!-- EN: The bio-engineering incubator is not powered right now -->
-  <VFEI_NotPowered>Биоинженерный инкубатор сейчас не включён</VFEI_NotPowered>
+  <VFEI_NotPowered>Біоінженерний інкубатор вимкнено</VFEI_NotPowered>
   <!-- EN: An incubation progress has failed due to lack of power -->
-  <VFEI_IncubationFailurePower>Инкубационный прогресс потерпел неудачу из-за отсутствия энергии</VFEI_IncubationFailurePower>
+  <VFEI_IncubationFailurePower>Інкубаційний прогрес зазнав невдачі через відсутність енергії</VFEI_IncubationFailurePower>
 
   <!-- EN: Something has gone catastrophically wrong with the incubation progress! -->
-  <VFEI_FailureMonstrosity>Что-то катастрофически пошло не так с инкубационным процессом!</VFEI_FailureMonstrosity>
+  <VFEI_FailureMonstrosity>Щось катастрофічно пішло не так із інкубаційним процесом!</VFEI_FailureMonstrosity>
   <!-- EN: Something has gone wrong with the incubation progress. The insectoid emerges dead -->
-  <VFEI_FailureDeath>Что-то пошло не так с инкубационным процессом. Инсектоид получился мёртвым</VFEI_FailureDeath>
+  <VFEI_FailureDeath>Щось пішло не так з інкубаційним процесом. Інсектоїд народився мертвим</VFEI_FailureDeath>
   <!-- EN: Something has gone wrong with the incubation progress. The insectoid emerges sick -->
-  <VFEI_FailureDisease>Что-то пошло не так с инкубационным процессом. Инсектоид получился больным</VFEI_FailureDisease>
+  <VFEI_FailureDisease>Щось пішло не так з інкубаційним процесом. Інсектоїд народився хворим</VFEI_FailureDisease>
 
   <!-- EN: First genome: Black Hive -->
-  <VFEI_BlackHiveGenome_InsertFirstGenome>Первый геном: чёрный рой</VFEI_BlackHiveGenome_InsertFirstGenome>
+  <VFEI_BlackHiveGenome_InsertFirstGenome>Перший геном: чорний рій</VFEI_BlackHiveGenome_InsertFirstGenome>
   <!-- EN: Second genome: Black Hive -->
-  <VFEI_BlackHiveGenome_InsertSecondGenome>Второй геном: чёрный рой</VFEI_BlackHiveGenome_InsertSecondGenome>
+  <VFEI_BlackHiveGenome_InsertSecondGenome>Другий геном: чорний рій</VFEI_BlackHiveGenome_InsertSecondGenome>
   <!-- EN: Third genome: Black Hive -->
-  <VFEI_BlackHiveGenome_InsertThirdGenome>Третий геном: чёрный рой</VFEI_BlackHiveGenome_InsertThirdGenome>
+  <VFEI_BlackHiveGenome_InsertThirdGenome>Третій геном: чорний рій</VFEI_BlackHiveGenome_InsertThirdGenome>
   <!-- EN: Black Hive Genome -->
-  <VFEI_BlackHiveGenome>Геном чёрного роя</VFEI_BlackHiveGenome>
+  <VFEI_BlackHiveGenome>Геном чорного рою</VFEI_BlackHiveGenome>
 
   <!-- EN: Cell degeneration in: {0} -->
-  <VFEI_MonstrosityTimeToLive>Клеточная деградация через: {0}</VFEI_MonstrosityTimeToLive>
+  <VFEI_MonstrosityTimeToLive>Клітинна деградація за: {0}</VFEI_MonstrosityTimeToLive>
   <!-- EN: {0} before next larvae spawn. -->
-  <LarvaeTimeSpawn>{0} до следующего появления личинок.</LarvaeTimeSpawn>
+  <LarvaeTimeSpawn>{0} до наступної появи личинок.</LarvaeTimeSpawn>
   <!-- EN: Insects arrived and are attacking. -->
-  <InsectSpawned>Инсектоиды прибыли и атакуют.</InsectSpawned>
+  <InsectSpawned>Інсектоїди прибули та атакують.</InsectSpawned>
   <!-- EN: {0} arrive in {1} -->
-  <InsectsArriveIn>{0} прибывает через {1}</InsectsArriveIn>
+  <InsectsArriveIn>{0} прибуває за {1}</InsectsArriveIn>
   <!-- EN: {0} before insect spawn. -->
-  <CocoonInsectSpawnIn>{0} до появление інсектоїда.</CocoonInsectSpawnIn>
+  <CocoonInsectSpawnIn>{0} до появи інсектоїда.</CocoonInsectSpawnIn>
   <!-- EN: Queen is resting. -->
-  <NoMoreSpawningAllowed>Королева отдыхает.</NoMoreSpawningAllowed>
+  <NoMoreSpawningAllowed>Королева відпочиє.</NoMoreSpawningAllowed>
 
   <!-- EN: {1_kind} has been force-tamed -->
-  <LetterLabelForcedTame>{1_kind} принудительно приручен</LetterLabelForcedTame>
+  <LetterLabelForcedTame>{1_kind} примусово приручено</LetterLabelForcedTame>
   <!-- EN: {0} has become tame. -->
-  <LetterArtifactTame>{0} приручен.</LetterArtifactTame>
+  <LetterArtifactTame>{0} приручено.</LetterArtifactTame>
 
   <!-- EN: {1_kind} force-taming has failed -->
-  <LetterLabelForcedTameFail>принудительное приручение {1_kind} не удалось</LetterLabelForcedTameFail>
+  <LetterLabelForcedTameFail>примусове приручення {1_kind} не вдалося</LetterLabelForcedTameFail>
   <!-- EN: {0} taming has failed, driving the animal insane. -->
-  <LetterArtifactTameFail>приручение {0} не удалось, животное пришло в ярость.</LetterArtifactTameFail>
+  <LetterArtifactTameFail>Приручення {0} не вдалося, тварина розлютилася.</LetterArtifactTameFail>
 
   <!-- EN: {0} is joining your faction. -->
-  <LetterLabelForcedRecruit>{0} присоединяется к вашей фракции.</LetterLabelForcedRecruit>
+  <LetterLabelForcedRecruit>{0} приєднується до вашої фракції.</LetterLabelForcedRecruit>
   <!-- EN: {0} has been pacified and is joining your faction! -->
-  <LetterArtifactRecruit>{0} был усмирён и присоединяется к вашей фракции!</LetterArtifactRecruit>
+  <LetterArtifactRecruit>{0} був приборканий і приєднується до вашої фракції!</LetterArtifactRecruit>
   <!-- EN: Good will with the faction target dropped by 50 due to the use of artifact on one of their member. -->
-  <GoodWillAffectedByArtifact>Отношения с целевой фракцией упали на 50 из-за использования артефакта на одном из её членов.</GoodWillAffectedByArtifact>
+  <GoodWillAffectedByArtifact>Відносини з цільовою фракцією впали на 50 через використання артефакту одному з її членів.</GoodWillAffectedByArtifact>
 
   <!-- EN: Mutation Outcome -->
-  <MutationOutcome>Результат мутации</MutationOutcome>
+  <MutationOutcome>Результат мутації</MutationOutcome>
   <!-- EN: Mutation developed: {0}. -->
-  <MutationOutcomeLetter>Мутация развилась: {0}.</MutationOutcomeLetter>
+  <MutationOutcomeLetter>Мутація розвинулася: {0}.</MutationOutcomeLetter>
   <!-- EN: Mutation failed! -->
-  <FailedMutation>Мутация не удалась!</FailedMutation>
+  <FailedMutation>Мутація не вдалася!</FailedMutation>
   <!-- EN: Mutation failed, no body part could grow. -->
-  <FailedMutationLetter>Мутация не удалась, ни одна из частей тела не смогла вырасти.</FailedMutationLetter>
+  <FailedMutationLetter>Мутація не вдалася, жодна з частин тіла не змогла вирости.</FailedMutationLetter>
 
   <!-- EN: An infestation have been prevented. -->
-  <InfestationNegated>Вторжение было предотвращено.</InfestationNegated>
+  <InfestationNegated>Інвазії вдалося запобігти.</InfestationNegated>
 
   <!-- EN: Transformation! -->
-  <TransformationLLabel>Трансформация!</TransformationLLabel>
+  <TransformationLLabel>Трансформація!</TransformationLLabel>
   <!-- EN: Due to a royal jelly addiction withdrawal {0} has been transformed into a megaspider. He is still part of your faction and won't attack anyone. -->
-  <TransformationLetter>Из-за ломки по королевскому желе, {0} {0_gender ? трансформировался : трансформировалась} в мегапавука. {0_pronoun} всё ещё часть вашей фракции и не хочет атаковать кого-либо.</TransformationLetter>
+  <TransformationLetter>Через ломку за королівським желе, {0} {0_gender ? трансформувався: трансформувалася} в мегапавука. {0_pronoun} все ще частина вашої фракції і не хоче атакувати будь-кого.</TransformationLetter>
 
   <!-- EN: Teleport -->
   <TeleportButton>Телепорт</TeleportButton>
   <!-- EN: Teleport here. -->
-  <TeleportHere>Телепортировать сюда.</TeleportHere>
+  <TeleportHere>Телепортировати сюди.</TeleportHere>
   <!-- EN: Teleport all choosen items and pawns to destination. -->
-  <TeleportDesc>Телепортировать всех выбранных поселенцев и предметы в выбранную точку.</TeleportDesc>
+  <TeleportDesc>Телепортировати всіх обраних поселенців та предмети у вибрану точку.</TeleportDesc>
   <!-- EN: Teleport destination is invalid. -->
-  <TeleportDestInvalid>Точка телепортации неверна.</TeleportDestInvalid>
+  <TeleportDestInvalid>Точка телепортації неправильна.</TeleportDestInvalid>
   <!-- EN: Teleport destination is too far! -->
-  <TeleportDestTooFar>Точка телепортации слишком далека!</TeleportDestTooFar>
+  <TeleportDestTooFar>Точка телепортації надто далеко!</TeleportDestTooFar>
   <!-- EN: Teleporting to this destination will result in the loss of contents. -->
-  <TeleportWillDestroy>Телепортация в эту точку приведёт к потере груза.</TeleportWillDestroy>
+  <TeleportWillDestroy>Телепортація в цю точку призведе до втрати вантажу.</TeleportWillDestroy>
   <!-- EN: Teleportation succeeded. -->
-  <TeleportDone>Телепортация удалась.</TeleportDone>
+  <TeleportDone>Телепортація успішна.</TeleportDone>
 
   <!-- EN: {0}: Teleport at center -->
-  <TeleportToSiteCenter>{0}: телепортация к центру</TeleportToSiteCenter>
+  <TeleportToSiteCenter>{0}: телепортація до центру</TeleportToSiteCenter>
   <!-- EN: {0}: Teleport at edge -->
-  <TeleportToSiteEdge>{0}: телепортация к границе</TeleportToSiteEdge>
+  <TeleportToSiteEdge>{0}: телепортація до кордону</TeleportToSiteEdge>
 
   <!-- EN: Caravan created -->
-  <TeleportDoneCaravan>Создан караван</TeleportDoneCaravan>
+  <TeleportDoneCaravan>Створено караван</TeleportDoneCaravan>
   <!-- EN: Teleport content to {0} -->
-  <TeleportAddToCaravan>Телепортировать груз в {0}</TeleportAddToCaravan>
+  <TeleportAddToCaravan>Телепортувати вантаж у {0}</TeleportAddToCaravan>
   <!-- EN: Teleportation succeeded, contents was added to {0} -->
-  <TeleportDoneCAdded>Телепортация удалась, груз был добавлен в {0}.</TeleportDoneCAdded>
+  <TeleportDoneCAdded>Телепортація успішна, вантаж був доданий до {0}.</TeleportDoneCAdded>
 
   <!-- EN: Give gift to {0} ({1}). -->
-  <TeleportAndGift>Сделать подарок фракции {0} ({1}).</TeleportAndGift>
+  <TeleportAndGift>Зробити подарунок фракції {0} ({1}).</TeleportAndGift>
 
   <!-- EN: Zoom in and choose teleporting spot -->
-  <TeleportAndTarget>Приблизить и выбрать точку телепортации</TeleportAndTarget>
+  <TeleportAndTarget>Наблизити та вибрати точку телепортації</TeleportAndTarget>
 
   <!-- EN: Attack {0}: Teleport at center -->
-  <TeleportAndAttackCenter>Нападение на {0}: телепортация к центру</TeleportAndAttackCenter>
+  <TeleportAndAttackCenter>Напад на {0}: телепортація до центру</TeleportAndAttackCenter>
   <!-- EN: Attack {0}: Teleport at edge -->
-  <TeleportAndAttackEgde>Нападение на {0}: телепортация к границе</TeleportAndAttackEgde>
+  <TeleportAndAttackEgde>Напад на {0}: телепортація до кордону</TeleportAndAttackEgde>
 
   <!-- EN: The teleportation has failed and contents is lost -->
-  <TeleportDestroyed>Поскольку не было телепортированных поселенцев, телепортация не удалась, а груз был потерян.</TeleportDestroyed>
+  <TeleportDestroyed>Оскільки телепортованих поселенців не було, телепортація не вдалася, а вантаж було втрачено.</TeleportDestroyed>
 
   <!-- EN: Vanilla Factions Expanded - Insectoids -->
   <SName>Vanilla Factions Expanded - Insectoids</SName>
   <!-- EN: Repeller pulse effect: -->
-  <PusleLabel>Эффект импульса отпугивателя:</PusleLabel>
+  <PusleLabel>Ефект імпульсу відлякувача:</PusleLabel>
   <!-- EN: Enable or disable the pulse effect from the sonic infestation repeller. -->
-  <PusleTooltip>Включить или выключить эффект импульса от звукового отпугивателя інсектоїдов.</PusleTooltip>
+  <PusleTooltip>Включити чи вимкнути ефект імпульсу від звукового відлякувача інсектоїдів.</PusleTooltip>
 </LanguageData>

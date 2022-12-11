@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: insectoid queen -->
-  <VFEI_Insectoid_Queen.label>королева інсектоїдов</VFEI_Insectoid_Queen.label>
+  <VFEI_Insectoid_Queen.label>королева інсектоїдів</VFEI_Insectoid_Queen.label>
   <!-- EN: A giant, genetically-engineered insectoid responsible for creating new spawn. A mother to the insects in her hive, a queen doesn’t do heavy work, and tries to avoid combat if possible. As massive as an adult thrumbo, the queen instills fear in most opponents. Her thick chitinous armor makes her hard to kill, whilst long, deadly blades can tear through plasteel shielding in seconds. Despite being quite slow in open terrain, an insectoid queen is capable of creating new larvae at a rapid pace, and should never be allowed to settle down. -->
-  <VFEI_Insectoid_Queen.description>Гигантское генетически-модифицированное насекомое, порождающее новые выводки. Королева – мать всех інсектоїдов своего улья. Не занимается работой или избегает боёв по возможности. Огромная, как трумбо и внушает страх противникам, а также имеет прочнейшую броню и длинные смертоносные клинки. Хоть она и довольно медлительна на открытой местности, королева способна в критической ситуации быстро и без передышек порождать новых личинок.</VFEI_Insectoid_Queen.description>
-  <Corpse_VFEI_Insectoid_Queen.label>туша королевы інсектоїдов</Corpse_VFEI_Insectoid_Queen.label>
-  <Corpse_VFEI_Insectoid_Queen.description>Мёртвая королева інсектоїдов.</Corpse_VFEI_Insectoid_Queen.description>
-  <VFEI_Insectoid_Queen.tools.head_claw.label>передние клешни</VFEI_Insectoid_Queen.tools.head_claw.label>
+  <VFEI_Insectoid_Queen.description>Гігантська генетично-модифікована комаха, що породжує нові виводки. Королева – мати всіх інсектоїдів свого вулика. Вона не займається роботою та уникає боїв за можливості. Величезна, як трумбо і вселяє страх противникам, а також має міцну броню і довгі смертоносні мечі. Хоча вона і досить повільна на відкритій місцевості, королева здатна в критичній ситуації швидко і без перепочинків породжувати нових личинок.</VFEI_Insectoid_Queen.description>
+  <Corpse_VFEI_Insectoid_Queen.label>туша королеви інсектоїдів</Corpse_VFEI_Insectoid_Queen.label>
+  <Corpse_VFEI_Insectoid_Queen.description>Мертва королева інсектоїдів.</Corpse_VFEI_Insectoid_Queen.description>
+  <VFEI_Insectoid_Queen.tools.head_claw.label>передні клешні</VFEI_Insectoid_Queen.tools.head_claw.label>
   <VFEI_Insectoid_Queen.tools.head.label>голова</VFEI_Insectoid_Queen.tools.head.label>
 
   <!-- EN: royal megaspider -->
   <VFEI_Insectoid_RoyalMegaspider.label>мегапавук-монарх</VFEI_Insectoid_RoyalMegaspider.label>
   <!-- EN: Not actually a spider, the royal megaspider is a rhino-sized natural spawn of the insectoid queen herself, serving not only as her bodyguard but also as a primary mate. Designed not for work, but for combat only, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades allow it to slay intruders in the name of his queen. -->
-  <VFEI_Insectoid_RoyalMegaspider.description>Не является павуком на самом деле. Мегапавук-монарх прямой потомок королевы. Размером с носорога, является как её телохранителем, так и основным партнёром. Королевский павук создан с прочной хитиновой бронёй и острыми лезвиями не для работы, а для убийств во славу своей королевы.</VFEI_Insectoid_RoyalMegaspider.description>
+  <VFEI_Insectoid_RoyalMegaspider.description>Не є павуком насправді. Мегапавук-монарх - прямий нащадок королеви. Розміром з носорога є як її охоронцем, так і основним партнером. Королівський павук створений із міцною хітиновою бронею та гострими лезами не для роботи, а для вбивств на славу своєї королеві.</VFEI_Insectoid_RoyalMegaspider.description>
   <Corpse_VFEI_Insectoid_RoyalMegaspider.label>туша мегапавука-монарха</Corpse_VFEI_Insectoid_RoyalMegaspider.label>
   <Corpse_VFEI_Insectoid_RoyalMegaspider.description>Мертвий мегапавук-монарх.</Corpse_VFEI_Insectoid_RoyalMegaspider.description>
-  <VFEI_Insectoid_RoyalMegaspider.tools.head_claw.label>передние клешни</VFEI_Insectoid_RoyalMegaspider.tools.head_claw.label>
+  <VFEI_Insectoid_RoyalMegaspider.tools.head_claw.label>передні клешні</VFEI_Insectoid_RoyalMegaspider.tools.head_claw.label>
   <VFEI_Insectoid_RoyalMegaspider.tools.head.label>голова</VFEI_Insectoid_RoyalMegaspider.tools.head.label>
 
   <!-- EN: gigalocust -->
   <VFEI_Insectoid_Gigalocust.label>гігасарана</VFEI_Insectoid_Gigalocust.label>
   <!-- EN: A genetically-engineered hunter drone the size of an elephant. It can fly over long distances, dropping down on unsuspecting targets, ripping them to shreds with its several sets of ripper-blades and sharp mandibles. Serving as special servants of the insectoid queen, these monstrosities are deadly, fast and nigh indestructible. -->
-  <VFEI_Insectoid_Gigalocust.description>Генетически спроектированный охотник размером со слона. Может быстро сократить дистанцию с врагом и разорвать его в клочья клинкообразными отростками и острыми жвалами. Являются приближёнными королевы и потому смертельно опасны, быстры и почти неразрушимы.</VFEI_Insectoid_Gigalocust.description>
-  <Corpse_VFEI_Insectoid_Gigalocust.label>туша гігасаранчи</Corpse_VFEI_Insectoid_Gigalocust.label>
-  <Corpse_VFEI_Insectoid_Gigalocust.description>Мёртвая гігасарана.</Corpse_VFEI_Insectoid_Gigalocust.description>
-  <VFEI_Insectoid_Gigalocust.tools.head_claw.label>передние клешни</VFEI_Insectoid_Gigalocust.tools.head_claw.label>
+  <VFEI_Insectoid_Gigalocust.description>Генетично спроектований мисливець розміром із слона. Може швидко скоротити дистанцію з ворогом і розірвати його на шматки клиноподібними відростками та гострими жвалами. Є наближеними королеві і тому смертельно небезпечні, швидкі та майже неруйнівні.</VFEI_Insectoid_Gigalocust.description>
+  <Corpse_VFEI_Insectoid_Gigalocust.label>туша гігасарани</Corpse_VFEI_Insectoid_Gigalocust.label>
+  <Corpse_VFEI_Insectoid_Gigalocust.description>Мертва гігасарана.</Corpse_VFEI_Insectoid_Gigalocust.description>
+  <VFEI_Insectoid_Gigalocust.tools.head_claw.label>передні клешні</VFEI_Insectoid_Gigalocust.tools.head_claw.label>
   <VFEI_Insectoid_Gigalocust.tools.head.label>голова</VFEI_Insectoid_Gigalocust.tools.head.label>
 
   <!-- EN: megapede -->
   <VFEI_Insectoid_Megapede.label>тисячоніжка</VFEI_Insectoid_Megapede.label>
   <!-- EN: A giant, heavy insectoid that glides on dozens of tiny legs. Its thick chitin armor and sharp mandibles the size of an elephant’s tusk make it an excellent siege machine. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics. -->
-  <VFEI_Insectoid_Megapede.description>Тяжёлая громадина на множестве маленьких ножек. Благодаря прочной хитиновой броне и острым жвалам, размером со слоновий бивень, отлично подходит на роль осадной машины. Из-за крайней медлительности может быть уязвима для hit-and-run тактики.</VFEI_Insectoid_Megapede.description>
-  <Corpse_VFEI_Insectoid_Megapede.label>туша тысяченожки</Corpse_VFEI_Insectoid_Megapede.label>
-  <Corpse_VFEI_Insectoid_Megapede.description>Мёртвая тисячоніжка.</Corpse_VFEI_Insectoid_Megapede.description>
-  <VFEI_Insectoid_Megapede.tools.head_claw.label>передние клешни</VFEI_Insectoid_Megapede.tools.head_claw.label>
-  <VFEI_Insectoid_Megapede.tools.mandibles.label>жвалы</VFEI_Insectoid_Megapede.tools.mandibles.label>
+  <VFEI_Insectoid_Megapede.description>Важка громадина на безлічі маленьких ніжок. Завдяки міцній хітиновій броні та гострим жвалам, розміром зі слоновий бивень, відмінно підходить на роль облогової машини. Через крайню повільність може бути вразлива для hit-and-run тактики.</VFEI_Insectoid_Megapede.description>
+  <Corpse_VFEI_Insectoid_Megapede.label>туша тисячоніжки</Corpse_VFEI_Insectoid_Megapede.label>
+  <Corpse_VFEI_Insectoid_Megapede.description>Мертва тисячоніжка.</Corpse_VFEI_Insectoid_Megapede.description>
+  <VFEI_Insectoid_Megapede.tools.head_claw.label>передні клешні</VFEI_Insectoid_Megapede.tools.head_claw.label>
+  <VFEI_Insectoid_Megapede.tools.mandibles.label>жвали</VFEI_Insectoid_Megapede.tools.mandibles.label>
   <VFEI_Insectoid_Megapede.tools.head.label>голова</VFEI_Insectoid_Megapede.tools.head.label>
 
   <!-- EN: larvae -->
   <VFEI_Insectoid_Larvae.label>личинка</VFEI_Insectoid_Larvae.label>
   <!-- EN: The juvenile form of an insectoid, larvae are harmless, slow and easy to kill. After some time has passed, it undergoes a metamorphosis, turning into an adult insectoid. There is no way to tell what kind of insect will crawl out of its cocoon. -->
-  <VFEI_Insectoid_Larvae.description>Совсем юная форма інсектоїда. Безвредна, медлительна, легко убивается. Через некоторое время станет взрослым інсектоїдом. Каким именно – неизвестно.</VFEI_Insectoid_Larvae.description>
-  <Corpse_VFEI_Insectoid_Larvae.label>тушка личинки</Corpse_VFEI_Insectoid_Larvae.label>
-  <Corpse_VFEI_Insectoid_Larvae.description>Мёртвая личинка.</Corpse_VFEI_Insectoid_Larvae.description>
-  <VFEI_Insectoid_Larvae.tools.head_claw.label>передние клешни</VFEI_Insectoid_Larvae.tools.head_claw.label>
+  <VFEI_Insectoid_Larvae.description>Зовсім юна форма інсектоїду. Нешкідлива, повільна, легко вбивається. За деякий час стане дорослим інсектоїдом. Яким саме – невідомо.</VFEI_Insectoid_Larvae.description>
+  <Corpse_VFEI_Insectoid_Larvae.label>туша личинки</Corpse_VFEI_Insectoid_Larvae.label>
+  <Corpse_VFEI_Insectoid_Larvae.description>Мертва личинка.</Corpse_VFEI_Insectoid_Larvae.description>
+  <VFEI_Insectoid_Larvae.tools.head_claw.label>передні клешні</VFEI_Insectoid_Larvae.tools.head_claw.label>
 </LanguageData>

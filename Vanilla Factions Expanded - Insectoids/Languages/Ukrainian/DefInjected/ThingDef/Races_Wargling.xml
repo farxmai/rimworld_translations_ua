@@ -3,8 +3,8 @@
   <!-- EN: Vat-grown wargling -->
   <VFEI_VatGrownWargling.label>вирощений варглінг</VFEI_VatGrownWargling.label>
   <!-- EN: A dog-sized combat insectoid, usually tasked with defending property. It’s speed paired with strong jaws and several sharp appendages allow it to quickly tackle much larger assailants. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownWargling.description>Бойцовский гігантский жук размером с собаку, обычно используемый для охраны. Высокая подвижность в сочетании с мощными челюстями и несколькими острыми отростками позволяют ему быстро справляться даже с более крупными врагами. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownWargling.description>
-  <VFEI_VatGrownWargling.tools.mandibles.label>жвалы</VFEI_VatGrownWargling.tools.mandibles.label>
+  <VFEI_VatGrownWargling.description>Бійцівський гігантський жук розміром із собаку, який зазвичай використовується для охорони. Висока рухливість у поєднанні з потужними щелепами та кількома гострими відростками дозволяють йому швидко справлятися навіть із більшими ворогами. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownWargling.description>
+  <VFEI_VatGrownWargling.tools.mandibles.label>жвали</VFEI_VatGrownWargling.tools.mandibles.label>
   <VFEI_VatGrownWargling.tools.head.label>голова</VFEI_VatGrownWargling.tools.head.label>
   <Corpse_VFEI_VatGrownWargling.label>туша варглінга</Corpse_VFEI_VatGrownWargling.label>
   <Corpse_VFEI_VatGrownWargling.description>Мертвий варглінг.</Corpse_VFEI_VatGrownWargling.description>

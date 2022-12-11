@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <!-- EN: advanced centipede -->
   <VFE_Mech_AdvancedCentipede.label>продвинутая сентипеда</VFE_Mech_AdvancedCentipede.label>
   <VFE_Mech_AdvancedCentipede.labelPlural>продвинутые сентипеды</VFE_Mech_AdvancedCentipede.labelPlural>
@@ -19,7 +19,7 @@
 
   <!-- EN: advanced scyther -->
   <VFE_Mech_AdvancedScyther.label>продвинутый жнец</VFE_Mech_AdvancedScyther.label>
-  <VFE_Mech_AdvancedScyther.labelPlural>продвинутые жнецы</VFE_Mech_AdvancedScyther.labelPlural>
+  <VFE_Mech_AdvancedScyther.labelPlural>продвинутые жнеці</VFE_Mech_AdvancedScyther.labelPlural>
 
   <!-- EN: advanced pikeman -->
   <VFE_Mech_AdvancedPikeman.label>продвинутый драгун</VFE_Mech_AdvancedPikeman.label>

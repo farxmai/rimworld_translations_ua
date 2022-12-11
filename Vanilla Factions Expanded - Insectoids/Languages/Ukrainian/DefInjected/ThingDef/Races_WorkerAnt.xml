@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Vat-grown worker ant -->
-  <VFEI_VatGrownWorkerAnt.label>вирощений мурашка-робітник</VFEI_VatGrownWorkerAnt.label>
+  <VFEI_VatGrownWorkerAnt.label>вирощений мураха-робітник</VFEI_VatGrownWorkerAnt.label>
   <!-- EN: A medium-sized, bioengineered ant the size of a large dog. It’s the middle caste of a hive, responsible for resource distribution and food delivery. Worker ants are capable of carrying large volumes of materials over long distances with ease. A vat-grown creature, it is unable to reproduce, and its lifespan is significantly decreased. -->
-  <VFEI_VatGrownWorkerAnt.description>Инсектоид среднего размера. Представляет из себя продукт биоинженерии в виде муравья размером с собаку. В ульях относится к средней касте, ответственен за распределение ресурсов и доставку пищи. Муравей-рабочий легко переносит тяжёлые грузы на большие расстояния. Так как это искусственно вирощене существо, у него нет способности к размножению, а срок жизни сокращён.</VFEI_VatGrownWorkerAnt.description>
-  <VFEI_VatGrownWorkerAnt.tools.mandibles.label>жвалы</VFEI_VatGrownWorkerAnt.tools.mandibles.label>
+  <VFEI_VatGrownWorkerAnt.description>Інсектоїд середнього розміру. Являє собою продукт біоінженерії у вигляді мурашки розміром з собаку. У вуликах відноситься до середньої касти, відповідальний за розподіл ресурсів та доставку їжі. Мурашка-робітник легко переносить важкі вантажі на великі відстані. Так як це штучно вирощене істота, він не має здатності до розмноження, а термін життя скорочений.</VFEI_VatGrownWorkerAnt.description>
+  <VFEI_VatGrownWorkerAnt.tools.mandibles.label>жвали</VFEI_VatGrownWorkerAnt.tools.mandibles.label>
   <VFEI_VatGrownWorkerAnt.tools.head.label>голова</VFEI_VatGrownWorkerAnt.tools.head.label>
-  <Corpse_VFEI_VatGrownWorkerAnt.label>туша муравья-рабочего</Corpse_VFEI_VatGrownWorkerAnt.label>
-  <Corpse_VFEI_VatGrownWorkerAnt.description>Мертвий мурашка-робітник.</Corpse_VFEI_VatGrownWorkerAnt.description>
+  <Corpse_VFEI_VatGrownWorkerAnt.label>туша мурахи-робітника</Corpse_VFEI_VatGrownWorkerAnt.label>
+  <Corpse_VFEI_VatGrownWorkerAnt.description>Мертвий мураха-робітник.</Corpse_VFEI_VatGrownWorkerAnt.description>
 </LanguageData>

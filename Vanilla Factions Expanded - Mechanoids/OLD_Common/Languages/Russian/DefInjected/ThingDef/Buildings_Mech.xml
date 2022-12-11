@@ -163,7 +163,7 @@
   <!-- EN: mechanoid foundry -->
   <VFE_AssemblyFoundry.label>производственный модуль</VFE_AssemblyFoundry.label>
   <!-- EN: A spaceship module containing a large scale mechanoid foundry. It is capable of generating large squads of mechanoids at great speed, but it is incapable of constructing larger, more complex variants. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_AssemblyFoundry.description>Модуль с крупной производственной линией механоидов. Он способен оперативно создавать большие отряды механоидов, но без возможности создавать крупные и сложные боевые единицы. Является частью большого корабля механоидов. Содержит ценные экзотические ресурсы.</VFE_AssemblyFoundry.description>
+  <VFE_AssemblyFoundry.description>Модуль с крупной производственной линией механоидов. Он способен оперативно создавать большие отряды механоидов, но без возможности создавать крупные и сложные боевые единиці. Является частью большого корабля механоидов. Содержит ценные экзотические ресурсы.</VFE_AssemblyFoundry.description>
 
   <!-- EN: cargo hold -->
   <VFE_CargoHold.label>грузовой отсек</VFE_CargoHold.label>

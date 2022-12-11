@@ -7,7 +7,7 @@
 
   <!-- EN: trader -->
   <VFEC_RepublicTrader.label>торговец</VFEC_RepublicTrader.label>
-  <VFEC_RepublicTrader.labelPlural>торговцы</VFEC_RepublicTrader.labelPlural>
+  <VFEC_RepublicTrader.labelPlural>торговці</VFEC_RepublicTrader.labelPlural>
 
   <!-- EN: town guard -->
   <VFEC_TownGuard.label>стражник</VFEC_TownGuard.label>
@@ -40,5 +40,5 @@
 
   <!-- EN: praetorian -->
   <VFEC_Praetorian.label>преторианец</VFEC_Praetorian.label>
-  <VFEC_Praetorian.labelPlural>преторианцы</VFEC_Praetorian.labelPlural>
+  <VFEC_Praetorian.labelPlural>преторианці</VFEC_Praetorian.labelPlural>
 </LanguageData>
