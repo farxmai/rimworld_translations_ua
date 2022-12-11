@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EB_ExtractionGenesFromTissue.label>вилчити генетичний матеріал</EB_ExtractionGenesFromTissue.label>
+  <EB_ExtractionGenesFromTissue.description>Обережно витягніть життєздатні генетичні матеріали із зібраного генетичного матеріалу.</EB_ExtractionGenesFromTissue.description>
+  <EB_ExtractionGenesFromTissue.jobString>Вилчає генетичний матеріал.</EB_ExtractionGenesFromTissue.jobString>
+
+  <EB_Dissection.label>розділити тушу зберігаючи геноми</EB_Dissection.label>
+  <EB_Dissection.description>Обережно розчленуйте інсектоїдну тушу, зберігши всі придатні зразки тканин, якщо вони є.</EB_Dissection.description>
+  <EB_Dissection.jobString>розділяє тушу.</EB_Dissection.jobString>
+
+
+</LanguageData>

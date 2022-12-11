@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EB_InsertFirstGenomeMakeshift.label>завантажити геном</EB_InsertFirstGenomeMakeshift.label>
+  <EB_InsertFirstGenomeMakeshift.verb>завантажує геном в</EB_InsertFirstGenomeMakeshift.verb>
+  <EB_InsertFirstGenomeMakeshift.gerund>завантажити геном в</EB_InsertFirstGenomeMakeshift.gerund>
+
+  <EB_InsertSecondGenomeMakeshift.label>завантажити геном в інкубатор</EB_InsertSecondGenomeMakeshift.label>
+  <EB_InsertSecondGenomeMakeshift.verb>завантажує геном в</EB_InsertSecondGenomeMakeshift.verb>
+  <EB_InsertSecondGenomeMakeshift.gerund>завантажити геном в</EB_InsertSecondGenomeMakeshift.gerund>
+
+  <EB_InsertThirdGenomeMakeshift.label>завантажити геном</EB_InsertThirdGenomeMakeshift.label>
+  <EB_InsertThirdGenomeMakeshift.verb>завантажує геном в</EB_InsertThirdGenomeMakeshift.verb>
+  <EB_InsertThirdGenomeMakeshift.gerund>завантажити геном в</EB_InsertThirdGenomeMakeshift.gerund>
+
+  <EB_InsertCulture.label>завантажити культуру</EB_InsertCulture.label>
+  <EB_InsertCulture.verb>завантажує культуру в</EB_InsertCulture.verb>
+  <EB_InsertCulture.gerund>завантажити культуру в</EB_InsertCulture.gerund>
+
+
+</LanguageData>

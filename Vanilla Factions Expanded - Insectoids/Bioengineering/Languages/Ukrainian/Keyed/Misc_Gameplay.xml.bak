@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--CompSimpleRepeller.cs-->
+  <StringRepelSuccessRate>Success Rate</StringRepelSuccessRate>
+
+  <!--Building_Inducer.cs-->
+  <StringInducerNeedsBugs>Failed to fire: Insufficient insectoid presence.</StringInducerNeedsBugs>
+  <StringInducerCanFire>Ready to activate.</StringInducerCanFire>
+  <StringInducerCoolingDown>Cooldown remaining</StringInducerCoolingDown>
+  <StringInducerButton>Activate Inducer</StringInducerButton>
+  <StringInducerAction>Activate the sonic pulse, summoning an insectoid attack immediately</StringInducerAction>
+
+  <!--TurnCompCorpseWithGenes.cs-->
+  <StringTissueSource>Extracted from</StringTissueSource>
+
+</LanguageData>

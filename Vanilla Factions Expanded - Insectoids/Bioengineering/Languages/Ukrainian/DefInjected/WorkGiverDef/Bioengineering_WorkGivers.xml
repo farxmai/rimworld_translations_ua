@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EB_DoBillsExtractGenes.label>вилучити генетичний матеріал</EB_DoBillsExtractGenes.label>
+  <EB_DoBillsExtractGenes.verb>вилучає генетичний матеріал у</EB_DoBillsExtractGenes.verb>
+  <EB_DoBillsExtractGenes.gerund>вилучити генетичний матеріал у</EB_DoBillsExtractGenes.gerund>
+
+  <EB_DoBillsAutopsy.label>вскрити інсектоїда</EB_DoBillsAutopsy.label>
+  <EB_DoBillsAutopsy.verb>вскриває інсектоїда на</EB_DoBillsAutopsy.verb>
+  <EB_DoBillsAutopsy.gerund>вскрити інсектоїда на</EB_DoBillsAutopsy.gerund>
+
+  <EB_RefuelGenome.label>завантажити геном</EB_RefuelGenome.label>
+  <EB_RefuelGenome.verb>завантажує геном у</EB_RefuelGenome.verb>
+  <EB_RefuelGenome.gerund>завантажити геном у</EB_RefuelGenome.gerund>
+
+
+</LanguageData>

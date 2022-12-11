@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--CompSimpleRepeller.cs-->
+    <StringRepelSuccessRate>Коефіцієнт успіху</StringRepelSuccessRate>
+
+    <!--Building_Inducer.cs-->
+    <StringInducerNeedsBugs>Помилка спрацьовування: недостатня присутність інсектоїдів.</StringInducerNeedsBugs>
+    <StringInducerCanFire>Готове до активації.</StringInducerCanFire>
+    <StringInducerCoolingDown>Час відновлення</StringInducerCoolingDown>
+    <StringInducerButton>Активувати індуктор</StringInducerButton>
+    <StringInducerAction>Активувати звуковий імпульс, негайно викликаючи атаку інсектоїдів</StringInducerAction>
+
+    <!--TurnCompCorpseWithGenes.cs-->
+    <StringTissueSource>Витягнуто з</StringTissueSource>
+
+    <!--Building_ArtificialHive.cs-->
+    <StringLoadedCulture>Завантажені культури:</StringLoadedCulture>
+    <StringLoadedCultureNone>Відсутні</StringLoadedCultureNone>
+
+    <!--Command_SetHiveCulture.cs-->
+    <StringCultureNotOwned>На карті не знайдено культури цього типу.</StringCultureNotOwned>
+
+    <!--WorkGiver_RefuelGenome-->
+    <StringGenomeNotOwned>Геном недоступний</StringGenomeNotOwned>
+
+    <!--ThingComp_JellySynthesizer.cs-->
+    <StringLoadedGenomeCount>Завантажені геноми:</StringLoadedGenomeCount>
+    <StringLoadedGenomeEmpty>Відсутні</StringLoadedGenomeEmpty>
+
+    <!--Command_SetJellyMode.cs-->
+    <StringJellySelectGizmo>Поточне налаштування:</StringJellySelectGizmo>
+
+    <!--Gizmo_JellySynthesizerFuelStatus.cs-->
+    <StringGeneticMaterialFuel>генетичний матеріал</StringGeneticMaterialFuel>
+
+
+</LanguageData>

@@ -18,5 +18,6 @@
   </modDependencies>
   <loadAfter>
     <li>OskarPotocki.VFE.Insectoid</li>
+    <li>turnovus.submod.extendedbioengineering</li>
   </loadAfter>
 </ModMetaData>

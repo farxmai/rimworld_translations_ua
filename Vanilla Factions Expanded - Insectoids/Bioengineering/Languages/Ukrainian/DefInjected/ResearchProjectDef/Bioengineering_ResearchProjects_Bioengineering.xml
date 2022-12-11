@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EB_SampleButchering.label>анатомія інсектоїдів</EB_SampleButchering.label>
+  <EB_SampleButchering.description>Побудуйте столи для розтину, які можна використовувати для збирання зразків тканин у мертвих інсектоїдів.</EB_SampleButchering.description>
+
+  <EB_Bioengineering.label>лабораторія генетики інсектоїдів</EB_Bioengineering.label>
+  <EB_Bioengineering.description>Розкрийте секрети біоінженерії космічних технологій та побудуйте власні лабораторії з генетики інсектоїдів.</EB_Bioengineering.description>
+
+  <EB_SimpleIncubator.label>біоінженерний інкубатор</EB_SimpleIncubator.label>
+  <EB_SimpleIncubator.description>Вивчіть біоінженерні рішення космічних технологій і створіть рудиментарний пристрій, здатний виростити живих істот із геномів.</EB_SimpleIncubator.description>
+
+  <EB_SimpleRepeller.label>теорія поведінки інсектоїдів</EB_SimpleRepeller.label>
+  <EB_SimpleRepeller.description>Отримайте комплексне розуміння поведінки інсектоїдів.</EB_SimpleRepeller.description>
+
+  <EB_Incubator.label>просунутий біоінженерний інкубатор</EB_Incubator.label>
+  <EB_Incubator.description>Розкрийте секрети надтехнологічної біоінженерії та створіть пристрій, спеціалізований для вирощування живих істот із геномів.</EB_Incubator.description>
+
+  <EB_Repeller.label>звуковий відлякувач</EB_Repeller.label>
+  <EB_Repeller.description>Опануйте трансцендентне розуміння поведінки інсектоїдів і створіть пристрої, здатні відганяти їх від вашої бази.</EB_Repeller.description>
+
+  <EB_Inducer.label>звуковий індуктор зараження</EB_Inducer.label>
+  <EB_Inducer.description>Опануйте трансцендентне розуміння поведінки інсектоїдів і створіть пристрої, здатні роздратувати їх і змусити напасти на вашу базу.</EB_Inducer.description>
+
+  <EB_EnzymeSynthesis.label>синтез ферментів</EB_EnzymeSynthesis.label>
+  <EB_EnzymeSynthesis.description>Створюйте машини, здатні синтезувати ферменти з генетичного матеріалу та використовувати ці ферменти для імітації природних процесів.</EB_EnzymeSynthesis.description>
+
+
+</LanguageData>
