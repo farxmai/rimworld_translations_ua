@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: pirate -->
-  <VFEP_PirateMeme.label>піратское братство</VFEP_PirateMeme.label>
+  <VFEP_PirateMeme.label>піратство</VFEP_PirateMeme.label>
   <!-- EN: Humans are the moral center of the universe. -->
-  <VFEP_PirateMeme.description>Сильный имеет право забирать у слабого, но кодекс чести и братства должен быть превыше всего.</VFEP_PirateMeme.description>
+  <VFEP_PirateMeme.description>Сильний має право забирати у слабкого, але кодекс честі та братства має бути понад усе.</VFEP_PirateMeme.description>
 
     <!-- EN:
     <li>memeAdjective->buccaneering</li>
@@ -27,25 +27,41 @@
     <li>memeMoralist->first officer</li>
   -->
   <VFEP_PirateMeme.generalRules.rulesStrings>
-    <li>memeAdjective->буканьерский</li>
-    <li>memeAdjective->криминальный</li>
-    <li>memeAdjective->разбойничестский</li>
-    <li>memeAdjective->грабительский</li>
-    <li>memeAdjective->мятежный</li>
-    <li>memeAdjective->піратский</li>
-    
-    <li>memeLeaderNoun->капитан</li>
+    <li>memeAdjective_masc->буканьєрський</li>
+    <li>memeAdjective_masc->кримінальний</li>
+    <li>memeAdjective_masc->розбійницький</li>
+    <li>memeAdjective_masc->грабіжницький</li>
+    <li>memeAdjective_masc->бунтівний</li>
+    <li>memeAdjective_masc->піратський</li>
+    <li>memeAdjective_fem->буканьєрська</li>
+    <li>memeAdjective_fem->кримінальна</li>
+    <li>memeAdjective_fem->розбійницька</li>
+    <li>memeAdjective_fem->грабіжницька</li>
+    <li>memeAdjective_fem->бунтівна</li>
+    <li>memeAdjective_fem->піратська</li>
+    <li>memeAdjective_neutral->буканьєрське</li>
+    <li>memeAdjective_neutral->кримінальне</li>
+    <li>memeAdjective_neutral->розбійницьке</li>
+    <li>memeAdjective_neutral->грабіжницьке</li>
+    <li>memeAdjective_neutral->бунтівне</li>
+    <li>memeAdjective_neutral->піратське</li>
+    <li>memeAdjective_plural->буканьєрські</li>
+    <li>memeAdjective_plural->кримінальні</li>
+    <li>memeAdjective_plural->розбійницькі</li>
+    <li>memeAdjective_plural->грабіжницькі</li>
+    <li>memeAdjective_plural->бунтівні</li>
+    <li>memeAdjective_plural->піратські</li>
+
+    <li>memeLeaderNoun->капітан</li>
     <li>memeLeaderNoun->командир</li>
     <li>memeLeaderNoun->босс</li>    
-    <li>memeLeaderAdjective->галантный</li>
-    <li>memeLeaderAdjective->драконовский</li>
-    <li>memeLeaderAdjective->бессердечный</li>
-    <li>memeLeaderAdjective->храбрый</li>
-    <li>memeLeaderAdjective->жестокий</li>
-    <li>memeLeaderAdjective->лихой</li>
-    <li>memeMoralist->капеллан</li>
-    <li>memeMoralist->первый помощник</li>
-    <li>memeMoralist->первый офицер</li>
+    <li>memeLeaderAdjective->хоробрий</li>
+    <li>memeLeaderAdjective->безсердечний</li>
+    <li>memeLeaderAdjective->жорстокий</li>
+    <li>memeLeaderAdjective->лихий</li>
+    <li>memeMoralist->капелан</li>
+    <li>memeMoralist->перший помічник</li>
+    <li>memeMoralist->перший офіцер</li>
   </VFEP_PirateMeme.generalRules.rulesStrings>
 
   <!-- EN:
@@ -81,53 +97,53 @@
     <li>alienistProphecy(tag=meme_Pirate)->These wayward creatures are ours to do as we please.</li>
   -->
   <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Pirate)        ->Благодаря [deity0_name], [memberNamePlural] узнали, что нужно объединяться в команду и навязывать слабым волю [deity0_name].</li>
-    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] [deity0_shouted] так, что все [memberNamePlural] услышали: «в хождении под законом нет достойной награды, а есть каторжный труд. Пираты едят достойно, спят в безопасности, развлекаются по желанию, имеют власть и силу. Бросайте кирки и хватайте банданы!».</li>
-    <li>intro(tag=meme_Pirate)           ->[place_summary] [place_name] создали [memberNamePlural], как безопасное место для хранения добычи и прославления [deity0_name].</li>
-    <li>conflict(tag=meme_Pirate)        ->Однажды [foeLeader], из-за трусости своей, [foeLeader_try] прибрать все богатства к рукам своим.</li>
-    <li>founderJoin(tag=meme_Pirate)     ->Верный слуга [deity0_name] — капитан [founderName] [founder_captured] [foeLeader] во время лихого налёта.</li>
-    <li>victory(tag=meme_Pirate)         ->Члена команды [founderName] бросили [foeLeader] в темницу и, спустя несколько дней, казнили во славу [deity0_name].</li>
-    <li>setup(tag=meme_Pirate)           ->[founderName] [founder_was] величайшим капитаном и прирождённым лидером. Тысячи піратов вышли в море под [founder_possessive] внушающим ужас флагом.</li>
-    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] [founder_made] нам, что преодолевать трудности, страдания и жертвы нужно объединившись в команду. Мы научились товариществу и братству, и уважению к другим.</li>
-    <li>lessonIntro(tag=meme_Pirate)         ->Однажды мне выпала честь поговорить с величайшим из піратов. Он сказал мне, что</li>
-    <li>lesson(tag=meme_Pirate)              ->трудности, страдания и жертвы нужно встречать вместе, как одна команды</li>
-    <li>lessonReinforcement(tag=meme_Pirate) ->Он научил меня ценить товарищество и братство, уважать других.</li>
+    <li>creation(tag=meme_Pirate)        ->Завдяки [deity0_name], [memberNamePlural] дізналися, що треба домагатись свободи, щоб увесь світ лежав біля ваших ніг.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] [deity0_shouted] так, що всі [memberNamePlural] почули: «Мої скарби? Беріть їх, якщо можете! Я все залишив в одному місці!».</li>
+    <li>intro(tag=meme_Pirate)           ->[place_summary] [place_name] створили [memberNamePlural] як безпечне місце для зберігання здобічі та прославлення [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)        ->Одного разу [foeLeader], через боягузтво своє, [foeLeader_try] прибрати всі багатства до рук своїх.</li>
+    <li>founderJoin(tag=meme_Pirate)     ->Вірний послідувач [deity0_name] - капітан [founderName] [founder_captured] [foeLeader] під час нальоту.</li>
+    <li>victory(tag=meme_Pirate)         ->Члена команди [founderName] кинули [foeLeader] у в'язницю і, через кілька днів, стратили на славу [deity0_name].</li>
+    <li>setup(tag=meme_Pirate)           ->[founderName] [founder_was] королем піратів і вродженим лідером. Тисячі піратів вийшли в море під [founder_possessive] прапором, який вселяв жах.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] [founder_made] нам, що долати труднощі, страждання та жертви потрібно об'єднавшись у команду. Ми навчилися товариству і братерству та повазі до інших.</li>
+    <li>lessonIntro(tag=meme_Pirate)         ->Якось мені випала честь поговорити з королем піратів. Він сказав мені, що</li>
+    <li>lesson(tag=meme_Pirate)              ->труднощі, страждання та жертви потрібно зустрічати разом, як одна команди</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->Він навчив мене цінувати товариство та братерство, поважати своїх накама.</li>
 
-    <li>archistBasis(tag=meme_Pirate)    ->Архотеки не уважают тех, кто не может защитить себя: будучи командой, мы будем сталкиваться с теми, кто слабее нас.</li>
-    <li>archistFact(tag=meme_Pirate)     ->Мы докажем архотекам, что товарищество и братство делают нас сильнее.</li>
-    <li>archistProphecy(tag=meme_Pirate) ->Только объединившись, мы можем стать достойными трансцендентности.</li>
+    <li>archistBasis(tag=meme_Pirate)    ->Архотеки не поважають тих, хто не може захистити себе: на своєму шляху наша команда зіткнеться з тими, перемога над ким зробить нас сильнішими.</li>
+    <li>archistFact(tag=meme_Pirate)     ->Ми доведемо архотекам, що товариство і братерство роблять нас сильнішими.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Тільки об'єднавшись, ми можемо стати гідними трансцендентності.</li>
 
-    <li>animistBasis(tag=meme_Pirate)    ->Духи не уважают тех, кто не может защитить себя: будучи командой, мы будем сталкиваться с теми, кто слабее нас.</li>
-    <li>animistFact(tag=meme_Pirate)     ->Мы докажем духам, что товарищество и братство делают нас сильнее.</li>
-    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] только объединившись, мы можем заставить духов по-настоящему прислушаться к нам.</li>
+    <li>animistBasis(tag=meme_Pirate)    ->Духи не поважають тих, хто не може захистити себе: на своєму шляху наша команда зіткнеться з тими, перемога над ким зробить нас сильнішими.</li>
+    <li>animistFact(tag=meme_Pirate)     ->Ми доведемо усім, що товариство і братерство роблять нас сильнішими.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] тільки об'єднавшись, ми можемо змусити духів по-справжньому прислухатися до нас.</li>
 
-    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] мы докажем, что товарищество и братство делают нас сильнее.</li>
-    <li>chthonianProphecy(tag=meme_Pirate)->Эти сверхъестественные сущности будут стремиться уничтожить нас, но мы объединимся и дадим отпор. Даже им не победить наше братство.</li>
-    <li>esotericismProphecy(tag=meme_Pirate)->Оккультные знания требуют объединённой воли. Мы будем держаться вместе, как команда, наше братство позволит с легкостью раскрыть эти секреты.</li>
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] ми доведемо, що товариство і братерство роблять нас сильнішими.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)->Ці надприродні сутності прагнутимуть знищити нас, але ми об'єднаємось і дамо відсіч. Нікому не перемогти нас якщо ми разом!</li>
+    <li>esotericismProphecy(tag=meme_Pirate)->Окультні знання потребують об'єднаної волі. Ми триматимемося разом, як команда, наше братство дозволить з легкістю розкрити ці секрети.</li>
 
-    <li>eschatologismFact(tag=meme_Pirate)->Мы будем грабить всех, кто слабее нас. Мир, который они создали, должен быть уничтожен. Только наша команда заслуживает их достижений.</li>
-    <li>introMemo(tag=meme_Pirate)->В рамках исполнения роли представителя Отдела Отбора и Изъятия напоминаю, что все ресурсы на планете являются активами Компании и любые враждебные фракции, желающие завладеть ими, должны быть уничтожены СОВЕРШЕННО БЕЗ юридических проволочек. Никто не должен забирать имущество Компании.</li>
-    <li>alienistProphecy(tag=meme_Pirate)->Эти своенравные существа под нашим контролем и поступают так, как мы хотим.</li>
+    <li>eschatologismFact(tag=meme_Pirate)->Ми будемо грабувати всіх, хто слабший за нас. Світ, який вони створили, має бути знищений. Тільки наша команда заслуговує на їх досягнення.</li>
+    <li>introMemo(tag=meme_Pirate)->У рамках виконання ролі представника Відділу Відбору та Вилучення нагадую, що всі ресурси на планеті є активами Компанії і будь-які ворожі фракції, які бажають заволодіти ними, повинні бути знищені БЕЗ юридичних зволікань. Ніхто не має забирати майно Компанії.</li>
+    <li>alienistProphecy(tag=meme_Pirate)->Ці норовливі істоти під нашим контролем і роблять так, як ми хочемо.</li>
 
-    <li>deity0_shouted(deity0_gender==None)->крикнуло</li>
-    <li>deity0_shouted(deity0_gender==Male)->крикнул</li>
-    <li>deity0_shouted(deity0_gender==Female)->крикнула</li>
-    <li>foeLeader_try(foeLeader_gender==Male)->попытался</li>
-    <li>foeLeader_try(foeLeader_gender==Female)->попыталась</li>
-    <li>founder_captured(founder_gender==Male)->поймал</li>
-    <li>founder_captured(founder_gender==Female)->поймала</li>
-    <li>founder_was(founder_gender==Male)->был</li>
-    <li>founder_was(founder_gender==Female)->была</li>
-    <li>founder_made(founder_gender==Male)->показал</li>
+    <li>deity0_shouted(deity0_gender==None)->вигукнуло</li>
+    <li>deity0_shouted(deity0_gender==Male)->вигукнув</li>
+    <li>deity0_shouted(deity0_gender==Female)->вигукнула</li>
+    <li>foeLeader_try(foeLeader_gender==Male)->спробував</li>
+    <li>foeLeader_try(foeLeader_gender==Female)->спробувала</li>
+    <li>founder_captured(founder_gender==Male)->спіймав</li>
+    <li>founder_captured(founder_gender==Female)->спіймала</li>
+    <li>founder_was(founder_gender==Male)->був</li>
+    <li>founder_was(founder_gender==Female)->була</li>
+    <li>founder_made(founder_gender==Male)->показав</li>
     <li>founder_made(founder_gender==Female)->показала</li>
   </VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: pirate -->
-  <VFEP_PirateMeme.symbolPacks.0.adjective>піратский</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <VFEP_PirateMeme.symbolPacks.0.adjective>піратський</VFEP_PirateMeme.symbolPacks.0.adjective>
   <!-- EN: Piracy -->
   <VFEP_PirateMeme.symbolPacks.0.ideoName>піратство</VFEP_PirateMeme.symbolPacks.0.ideoName>
   <!-- EN: crewmember -->
-  <VFEP_PirateMeme.symbolPacks.0.member>член команды</VFEP_PirateMeme.symbolPacks.0.member>
+  <VFEP_PirateMeme.symbolPacks.0.member>член команди</VFEP_PirateMeme.symbolPacks.0.member>
   <!-- EN: piracy -->
   <VFEP_PirateMeme.symbolPacks.0.theme>піратства</VFEP_PirateMeme.symbolPacks.0.theme>
 </LanguageData>

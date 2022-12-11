@@ -1,83 +1,83 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: farming outpost -->
-  <Outpost_Farming.label>фермерский аванпост</Outpost_Farming.label>
+  <Outpost_Farming.label>аванпост фермерів</Outpost_Farming.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Farming.description>Временный лагерь, управляемый автономно. Лагерь специализируется на выращивании простых продуктов и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Farming.description>
+  <Outpost_Farming.description>Тимчасовий табір, керований автономно. Табір спеціалізується на вирощуванні простих продуктів і не може бути розташований у пустелі. Коли він здобуде достатню кількість ресурсів, вони будуть доставлені на край карти основного поселення.</Outpost_Farming.description>
   <!-- EN: Choose plant -->
-  <Outpost_Farming.modExtensions.0.ChooseLabel>Выбрать растение</Outpost_Farming.modExtensions.0.ChooseLabel>
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Вибрати рослину</Outpost_Farming.modExtensions.0.ChooseLabel>
   <!-- EN: Choose which plant this outpost should plant -->
-  <Outpost_Farming.modExtensions.0.ChooseDesc>Выбрать растение, которое будет выращиваться на этом аванпосте</Outpost_Farming.modExtensions.0.ChooseDesc>
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Вибрати рослину, яке вирощуватиметься на цьому аванпості</Outpost_Farming.modExtensions.0.ChooseDesc>
 
   <!-- EN: artillery outpost -->
-  <Outpost_Artillery.label>артиллерийский пост</Outpost_Artillery.label>
+  <Outpost_Artillery.label>артилерійський аванпост</Outpost_Artillery.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one. -->
-  <Outpost_Artillery.description>Временный лагерь, управляемый автономно. Лагерь специализируется на обеспечении защиты ближайших поселений путём нанесения точечных артиллерийских ударов. Каждый персонаж в лагере занят обслуживанием и использованием одного миномёта. После проведения обстрела потребуется один день для подготовки нового.</Outpost_Artillery.description>
+  <Outpost_Artillery.description>Тимчасовий табір, керований автономно. Табір спеціалізується на забезпеченні захисту найближчих поселень шляхом завдання точкових артилерійських ударів. Кожен персонаж у таборі зайнятий обслуговуванням та використанням одного міномета. Після проведення обстрілу буде потрібно один день для підготовки нового.</Outpost_Artillery.description>
 
   <!-- EN: defensive outpost -->
-  <Outpost_Defensive.label>оборонительный аванпост</Outpost_Defensive.label>
+  <Outpost_Defensive.label>оборонний аванпост</Outpost_Defensive.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense. -->
-  <Outpost_Defensive.description>Временный лагерь, управляемый автономно. Лагерь специализируется на перехвате приближающихся к основному поселению налётов. Победа сил аванпоста в стычке с врагами позволит значительно сократить количество нападающих на основное поселение. Более того, из оборонительных аванпостов можно оперативно отправлять транспортные капсулы на помощь поселению.</Outpost_Defensive.description>
+  <Outpost_Defensive.description>Тимчасовий табір, керований автономно. Табір спеціалізується на перехопленні рейдів, що наближаються до основного поселення. Перемога сил аванпоста у сутичці з ворогами дозволить значно скоротити кількість нападаючих на основне поселення. Більше того, з оборонних аванпостів можна оперативно відправляти транспортні капсули до головної колонії для швидкого захисту.</Outpost_Defensive.description>
 
   <!-- EN: drilling outpost -->
-  <Outpost_Drilling.label>буровой аванпост</Outpost_Drilling.label>
+  <Outpost_Drilling.label>буровий аванпост</Outpost_Drilling.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Drilling.description>Временный лагерь, управляемый автономно. Лагерь специализируется на обнаружении и добыче подземных залежей химтоплива. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Drilling.description>
+  <Outpost_Drilling.description>Тимчасовий табір, керований автономно. Табір спеціалізується на виявленні та видобутку підземних покладів хімпалива. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Drilling.description>
 
   <!-- EN: encampment -->
-  <Outpost_Encampment.label>временный лагерь</Outpost_Encampment.label>
+  <Outpost_Encampment.label>перевалочний пункт</Outpost_Encampment.label>
   <!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
-  <Outpost_Encampment.description>Временный лагерь, управляемый автономно. Он позволяет останавливаться отдыхать проходящим мимо караванам. Во время отдыха во временном лагере персонажи получают еду, ночлег и возможность восстановить свои раны.</Outpost_Encampment.description>
+  <Outpost_Encampment.description>Тимчасовий табір, керований автономно. Він дозволяє зупинятися відпочивати караванам, що проходять повз. Під час відпочинку у тимчасовому таборі персонажі отримують їжу, ночівлю та можливість відновити свої рани.</Outpost_Encampment.description>
 
   <!-- EN: hunting outpost -->
-  <Outpost_Hunting.label>аванпост охотников</Outpost_Hunting.label>
+  <Outpost_Hunting.label>аванпост мисливців</Outpost_Hunting.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Hunting.description>Временный лагерь, управляемый автономно. Лагерь специализируется на охоте и заготовке животных. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Hunting.description>
+  <Outpost_Hunting.description>Тимчасовий табір, керований автономно. Табір спеціалізується на полюванні та заготівлі тварин. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Hunting.description>
   <!-- EN: Hunting {0} -->
-  <Outpost_Hunting.modExtensions.0.ChooseLabel>Охотиться на {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Полювати на {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
   <!-- EN: Choose what animal to hunt at this outpost -->
-  <Outpost_Hunting.modExtensions.0.ChooseDesc>Выбрать животное, на которое будут охотиться на этом аванпосте</Outpost_Hunting.modExtensions.0.ChooseDesc>
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Вибрати тварину, на яку полюватимуть цей аванпост</Outpost_Hunting.modExtensions.0.ChooseDesc>
 
   <!-- EN: logging outpost -->
-  <Outpost_Logging.label>аванпост лесорубов</Outpost_Logging.label>
+  <Outpost_Logging.label>аванпост лісорубів</Outpost_Logging.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Logging.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче древесины и не может быть расположен в пустыне. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Logging.description>
+  <Outpost_Logging.description>Тимчасовий табір, керований автономно. Табір спеціалізується на видобутку деревини та не може бути розташований у пустелі. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Logging.description>
   
   <!-- EN: mining outpost -->
-  <Outpost_Mining.label>аванпост шахтёров</Outpost_Mining.label>
+  <Outpost_Mining.label>аванпост шахтарів</Outpost_Mining.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Mining.description>Временный лагерь, управляемый автономно. Лагерь специализируется на добыче и обработке камня или металла и может быть расположен исключительно в горах или на возвышенностях. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Mining.description>
+  <Outpost_Mining.description>Тимчасовий табір, керований автономно. Табір спеціалізується на видобутку та обробці каменю або металу і може бути розташований виключно в горах або на пагорбах. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Mining.description>
   <!-- EN: Mining {0} -->
-  <Outpost_Mining.modExtensions.0.ChooseLabel>Добывать {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Видобувати {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
   <!-- EN: Click to change mining target. -->
-  <Outpost_Mining.modExtensions.0.ChooseDesc>Сменить добываемый ресурс</Outpost_Mining.modExtensions.0.ChooseDesc>
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Змінити ресурс, що видобувається</Outpost_Mining.modExtensions.0.ChooseDesc>
 
   <!-- EN: production outpost -->
-  <Outpost_Production.label>производственный аванпост</Outpost_Production.label>
+  <Outpost_Production.label>виробничий аванпост</Outpost_Production.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Production.description>Временный лагерь, управляемый автономно. Лагерь специализируется на производстве механических или электронных деталей. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Production.description>
+  <Outpost_Production.description>Тимчасовий табір, керований автономно. Табір спеціалізується з виробництва механічних чи електронних деталей. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Production.description>
   <!-- EN: Choose output -->
-  <Outpost_Production.modExtensions.0.ChooseLabel>Выбрать ресурс</Outpost_Production.modExtensions.0.ChooseLabel>
+  <Outpost_Production.modExtensions.0.ChooseLabel>Обрати ресурс</Outpost_Production.modExtensions.0.ChooseLabel>
   <!-- EN: Choose between components and advanced components -->
-  <Outpost_Production.modExtensions.0.ChooseDesc>Выбрать между компонентами и продвинутыми компонентами</Outpost_Production.modExtensions.0.ChooseDesc>
+  <Outpost_Production.modExtensions.0.ChooseDesc>Вибрати між компонентами та просунутими компонентами</Outpost_Production.modExtensions.0.ChooseDesc>
 
   <!-- EN: scavenging outpost -->
-  <Outpost_Scavenging.label>аванпост собирателей</Outpost_Scavenging.label>
+  <Outpost_Scavenging.label>збиральницький аванпост</Outpost_Scavenging.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Scavenging.description>Временный лагерь, управляемый автономно. Лагерь специализируется на разведке интересных мест поблизости и сборе оставшихся в них ценностей. Когда что-то интересное будет найдено, оно будет доставлено на край карты основного поселения.</Outpost_Scavenging.description>
+  <Outpost_Scavenging.description>Тимчасовий табір, керований автономно. Табір спеціалізується на розвідці цікавих місць поблизу і зборі цінностей, що залишилися в них. Коли щось цікаве буде знайдено, його буде доставлено на край карти основного поселення.</Outpost_Scavenging.description>
 
   <!-- EN: science outpost -->
-  <Outpost_Science.label>исследовательский аванпост</Outpost_Science.label>
+  <Outpost_Science.label>дослідницький аванпост</Outpost_Science.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole. -->
-  <Outpost_Science.description>Временный лагерь, управляемый автономно. Лагерь специализируется на научных исследованиях. Любая полученная информация становится доступна всей фракции.</Outpost_Science.description>
+  <Outpost_Science.description>Тимчасовий табір, керований автономно. Табір спеціалізується на наукових дослідженнях. Будь-яка отримана інформація стає доступною для всієї фракції.</Outpost_Science.description>
 
   <!-- EN: town -->
-  <Outpost_Town.label>городок</Outpost_Town.label>
+  <Outpost_Town.label>містечко</Outpost_Town.label>
   <!-- EN: Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes. -->
-  <Outpost_Town.description>Временный город, управляемый автономно. Он предназначен для приёма проходящих мимо путешественников и торговцев. Некоторые гости могут впечатлиться условиями жизни и пожелать остаться в качестве жителя. Городок должен быть расположен на расстоянии не менее 10 клеток от трёх существующих поселений.</Outpost_Town.description>
+  <Outpost_Town.description>Тимчасове місто, кероване автономно. Він призначений для прийому мандрівників і торговців, що проходять повз. Деякі гості можуть вразитись умовами життя та побажати залишитися як мешканець. Містечко має бути розташоване на відстані не менше 10 клітин від трьох існуючих поселень.</Outpost_Town.description>
 
   <!-- EN: trading outpost -->
-  <Outpost_Trading.label>торговый пост</Outpost_Trading.label>
+  <Outpost_Trading.label>торговий аванпост</Outpost_Trading.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Trading.description>Временный лагерь, управляемый автономно. Лагерь специализируется на торговле и обмене товаров на серебро с проходящими мимо странниками, караванами и местными жителями. Когда он добудет достаточное количество ресурсов, они будут доставлены на край карты основного поселения.</Outpost_Trading.description>
+  <Outpost_Trading.description>Тимчасовий табір, керований автономно. Табір спеціалізується на торгівлі та обміні товарів на срібло з мандрівниками, караванами та місцевими жителями. Коли він дістане достатню кількість ресурсів, їх буде доставлено на край карти основного поселення.</Outpost_Trading.description>
 </LanguageData>
