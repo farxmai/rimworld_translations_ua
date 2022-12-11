@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: wargling -->
-  <VFEI_Wargling.label>варглинг</VFEI_Wargling.label>
-  <VFEI_Wargling.corePart.parts.left_elytra.customLabel>левое надкрылье</VFEI_Wargling.corePart.parts.left_elytra.customLabel>
-  <VFEI_Wargling.corePart.parts.right_elytra.customLabel>правое надкрылье</VFEI_Wargling.corePart.parts.right_elytra.customLabel>
-  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>лівий глаз</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
-  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>правий глаз</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
-  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий усик</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
-  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий усик</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
-  <VFEI_Wargling.corePart.parts.front_left_claw.customLabel>передняя ліва клешня</VFEI_Wargling.corePart.parts.front_left_claw.customLabel>
-  <VFEI_Wargling.corePart.parts.front_right_claw.customLabel>передняя права клешня</VFEI_Wargling.corePart.parts.front_right_claw.customLabel>
-  <VFEI_Wargling.corePart.parts.front_left_leg.customLabel>передняя ліва нога</VFEI_Wargling.corePart.parts.front_left_leg.customLabel>
-  <VFEI_Wargling.corePart.parts.front_right_leg.customLabel>передняя права нога</VFEI_Wargling.corePart.parts.front_right_leg.customLabel>
+  <VFEI_Wargling.label>варглінг</VFEI_Wargling.label>
+  <VFEI_Wargling.corePart.parts.left_elytra.customLabel>ліве надкрилля</VFEI_Wargling.corePart.parts.left_elytra.customLabel>
+  <VFEI_Wargling.corePart.parts.right_elytra.customLabel>праве надкрилля</VFEI_Wargling.corePart.parts.right_elytra.customLabel>
+  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ліве око</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>праве око</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий вусик</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий вусик</VFEI_Wargling.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <VFEI_Wargling.corePart.parts.front_left_claw.customLabel>передня ліва клешня</VFEI_Wargling.corePart.parts.front_left_claw.customLabel>
+  <VFEI_Wargling.corePart.parts.front_right_claw.customLabel>передня права клешня</VFEI_Wargling.corePart.parts.front_right_claw.customLabel>
+  <VFEI_Wargling.corePart.parts.front_left_leg.customLabel>передня ліва нога</VFEI_Wargling.corePart.parts.front_left_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.front_right_leg.customLabel>передня права нога</VFEI_Wargling.corePart.parts.front_right_leg.customLabel>
   <VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>середня ліва нога</VFEI_Wargling.corePart.parts.middle_left_leg.customLabel>
   <VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>середня права нога</VFEI_Wargling.corePart.parts.middle_right_leg.customLabel>
-  <VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>задняя ліва нога</VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>
-  <VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>задняя права нога</VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>задня ліва нога</VFEI_Wargling.corePart.parts.rear_left_leg.customLabel>
+  <VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>задня права нога</VFEI_Wargling.corePart.parts.rear_right_leg.customLabel>
 </LanguageData>

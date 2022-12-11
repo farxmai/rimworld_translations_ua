@@ -6,7 +6,7 @@
   <VFEI_RoyalJellyWithdrawal.stages.royal_jelly_withdrawal.description>Никогда бы не {PAWN_gender ? подумал : подумала}, что мне настолько сильно захочется вкусить этого лакомства вновь.</VFEI_RoyalJellyWithdrawal.stages.royal_jelly_withdrawal.description>
 
   <!-- EN: seen an insectoid queen -->
-  <VFEI_SeenInsectoidQueen.stages.0.label>увидел королеву инсектоидов</VFEI_SeenInsectoidQueen.stages.0.label>
+  <VFEI_SeenInsectoidQueen.stages.0.label>увидел королеву інсектоїдов</VFEI_SeenInsectoidQueen.stages.0.label>
   <!-- EN: This insectoid queen is disgusting. It's shivering my body and soul. -->
   <VFEI_SeenInsectoidQueen.stages.0.description>Королева омерзительна. Как мне уснуть сегодня?</VFEI_SeenInsectoidQueen.stages.0.description>
 

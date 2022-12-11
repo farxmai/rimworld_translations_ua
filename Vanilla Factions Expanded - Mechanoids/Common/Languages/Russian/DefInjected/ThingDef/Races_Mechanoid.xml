@@ -56,9 +56,9 @@
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat. Veterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. This particular unit appears to be freshly manufactured and will operate more robustly. -->
   <VFE_Mech_Pikeman.description>Громоздкий многоногий бойовий механоид, используемый в качестве платформы для дальнобойного оружия. Драгуны очень эффективны на большой дальности, но слабы на малых расстояниях и в рукопашном бою.\n\nВетераны войн с механоидами отмечают, что самая безопасная дистанция боя с ними — расстояние вытянутой руки. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Pikeman.description>
   <!-- EN: front left leg -->
-  <VFE_Mech_Pikeman.tools.front_left_leg.label>передняя ліва нога</VFE_Mech_Pikeman.tools.front_left_leg.label>
+  <VFE_Mech_Pikeman.tools.front_left_leg.label>передня ліва нога</VFE_Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <VFE_Mech_Pikeman.tools.front_right_leg.label>передняя права нога</VFE_Mech_Pikeman.tools.front_right_leg.label>
+  <VFE_Mech_Pikeman.tools.front_right_leg.label>передня права нога</VFE_Mech_Pikeman.tools.front_right_leg.label>
   <!-- EN: head -->
   <VFE_Mech_Pikeman.tools.head.label>голова</VFE_Mech_Pikeman.tools.head.label>
 
@@ -67,9 +67,9 @@
   <!-- EN: A swift, quadrupedal, beetle-like utility mechanoid meant to assemble and disassemble structures even in midst of heavy crossfire via a series of claws, blowtorches, and drills. Carpenter mechs analyze nearby structures for conflicting design parameters before skittering to dissemble them. Veterans from the mechanoid wars claim power plants and turrets that take days or even weeks to assemble to have vanished in minutes when approached by a carpenter. This particular unit appears to be freshly manufactured and will operate more robustly. -->
   <VFE_Mech_Carpenter.description>Быстрый, четвероногий, похожий на жука механоид поддержки, предназначенный для сборки и разборки конструкций даже в условиях сильного перекрёстного огня с помощью множества когтей, паяльных ламп и свёрл. Плотники способны анализировать близлежащие структуры на предмет конфликтующих конструктивных параметров, прежде чем начать разбирать их. Ветераны механоидных войн утверждают, что генераторы и турели, на сборку которых уходят дни или даже недели, исчезают за считанные минуты, когда к ним приближается плотник. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Carpenter.description>
   <!-- EN: front left leg -->
-  <VFE_Mech_Carpenter.tools.front_left_leg.label>передняя ліва нога</VFE_Mech_Carpenter.tools.front_left_leg.label>
+  <VFE_Mech_Carpenter.tools.front_left_leg.label>передня ліва нога</VFE_Mech_Carpenter.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <VFE_Mech_Carpenter.tools.front_right_leg.label>передняя права нога</VFE_Mech_Carpenter.tools.front_right_leg.label>
+  <VFE_Mech_Carpenter.tools.front_right_leg.label>передня права нога</VFE_Mech_Carpenter.tools.front_right_leg.label>
   <!-- EN: head -->
   <VFE_Mech_Carpenter.tools.head.label>голова</VFE_Mech_Carpenter.tools.head.label>
 

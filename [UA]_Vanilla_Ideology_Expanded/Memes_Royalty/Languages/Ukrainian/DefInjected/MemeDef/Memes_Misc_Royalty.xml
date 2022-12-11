@@ -60,7 +60,7 @@
   -->
 
   <VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] [deity_spoke] людей пси-здібностями, щоб ті дотримувалися [deity0_possessive] волі.</li>
+    <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] [deity_spoke] людей псі-здібностями, щоб ті дотримувалися [deity0_possessive] волі.</li>
     <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] [deity_told]: «[memberNamePlural], ваш розум - ваш головний помічник. Навчіться користуватися ним і ніхто не зможе встояти проти вас».</li>
     <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural] побудували щось величне в [place_summary] [place_name], назване "[altarName]". Це стало місцем навчання психічним здібностям і божественної волі..</li>
     <li>conflict(tag=meme_PsychicFocus)        ->[foe_envious] [foeLeader] [foe_deny] волю [deity0_name] і [foe_told] наказ, щоб [foeSoldiers] напали на послідовників [deity0_name], закликавши найшаленіші психічні сили.</li>
@@ -76,7 +76,7 @@
     <li>archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd] архотеки дозволять досягти трансцендентності лише тим, хто має найсильніші здібності.</li>
     <li>animistFact(tag=meme_PsychicFocus)     ->Духи мають досконалий розум і коли ми пробуджуємо здібності, з'єднуємося з ними.</li>
     <li>serketistProphecy(tag=meme_PsychicFocus)   ->[itIsSaid], ми розблокуємо прихований потенціал нішах розумів і набуваємо сил для шанування наших комах.</li>
-    <li>chthonianProphecy(tag=meme_PsychicFocus)   ->Надприродні сутності мають досконалий розум, порівнянний з безмежною чорнотою космосу, а їх безумство здатне покрити сотні зоряних систем. Лише пробудивши у собі пси-способности ми можемо сподіватися вистояти.</li>
+    <li>chthonianProphecy(tag=meme_PsychicFocus)   ->Надприродні сутності мають досконалий розум, порівнянний з безмежною чорнотою космосу, а їх безумство здатне покрити сотні зоряних систем. Лише пробудивши у собі псі-способности ми можемо сподіватися вистояти.</li>
     <li>esotericismProphecy(tag=meme_PsychicFocus) ->Ми пробудимо сили і направимо їх на розкриття всіх секретів.</li>
     <li>eschatologismFact(tag=meme_PsychicFocus)   ->Ми пробудемо в собі сили і використовуємо їх, щоб зруйнувати і вбити все, що стане на нас на шляху.</li>
     <li>introMemo(tag=meme_PsychicFocus)           ->Як вам усім добре відомо, інтелект - найважливіша цінність нашої компанії. Тому співробітникам, у яких виявиться псіонічний потенціал, слід негайно доповісти до відділу кадрів для отримання підвищення та переведення в новий відділ для подальшого розвитку здібностей.</li>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: royal insect jelly -->
-  <VFEI_RoyalInsectJelly.label>королевское желе</VFEI_RoyalInsectJelly.label>
+  <VFEI_RoyalInsectJelly.label>королівське желе</VFEI_RoyalInsectJelly.label>
   <!-- EN: A golden, shining jelly used by the queens to create new spawn. It is smooth, rich, and brings joy to those who consume it. Because of its unique biological composition, it boosts immunity and nourishes anyone who has a taste of it. -->
   <VFEI_RoyalInsectJelly.description>Сияющее золотистое желе используется королевами для создания новых выводков. Оно гладкое, питательное и приносящее радость всем попробовавшим. Благодаря уникальному биологическому составу, усиливает иммунитет.</VFEI_RoyalInsectJelly.description>
 
@@ -11,7 +11,7 @@
   <VFEI_InsectMilk.description>Молоко из-под насекомого.</VFEI_InsectMilk.description>
 
   <!-- EN: insectoid egg (unfert.) -->
-  <VFEI_EggInsectoidUnfertilized.label>яйцо инсектоида (неопл.)</VFEI_EggInsectoidUnfertilized.label>
+  <VFEI_EggInsectoidUnfertilized.label>яйцо інсектоїда (неопл.)</VFEI_EggInsectoidUnfertilized.label>
   <!-- EN: An unfertilized insectoid egg. It can be eaten raw, but it's much, much better cooked. -->
-  <VFEI_EggInsectoidUnfertilized.description>Неоплодотворенные яйца инсектоидов. Можно есть сырым, но желательно приготовить.</VFEI_EggInsectoidUnfertilized.description>
+  <VFEI_EggInsectoidUnfertilized.description>Неоплодотворенные яйца інсектоїдов. Можно есть сырым, но желательно приготовить.</VFEI_EggInsectoidUnfertilized.description>
 </LanguageData>

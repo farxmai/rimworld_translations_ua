@@ -36,11 +36,11 @@
   <!-- Platypus -->
 
   <AEXP_Platypus.label>качкодзьоб</AEXP_Platypus.label>
-  <AEXP_Platypus.description>Качкодзьоб - єдиний представник свого сімейства тварин, що вижив. Ці хвостаті ссавці, схожі на бобрів, мають качину дзьоб і відкладають яйця. Качкодзьобі всеїдні і здатні вбивати дрібних гризунів своїми отруйними шпорами, розміщеними на задніх лапах.</AEXP_Platypus.description>
+  <AEXP_Platypus.description>Качкодзьоб - єдиний представник свого сімейства тварин, що вижив. Ці хвістаті ссавці, схожі на бобрів, мають качину дзьоб і відкладають яйця. Качкодзьобі всеїдні і здатні вбивати дрібних гризунів своїми отруйними шпорами, розміщеними на задніх лапах.</AEXP_Platypus.description>
   <AEXP_Platypus.tools.0.label>ліва лапа</AEXP_Platypus.tools.0.label>
   <AEXP_Platypus.tools.1.label>права лапа</AEXP_Platypus.tools.1.label>
-  <AEXP_Platypus.tools.2.label>задняя ліва шпора</AEXP_Platypus.tools.2.label>
-  <AEXP_Platypus.tools.3.label>задняя права шпора</AEXP_Platypus.tools.3.label>
+  <AEXP_Platypus.tools.2.label>задня ліва шпора</AEXP_Platypus.tools.2.label>
+  <AEXP_Platypus.tools.3.label>задня права шпора</AEXP_Platypus.tools.3.label>
   <AEXP_Platypus.tools.4.label>голова</AEXP_Platypus.tools.4.label>
   <AEXP_Platypus.race.meatLabel>м'ясо качкодзьоба</AEXP_Platypus.race.meatLabel>
 

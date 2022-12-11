@@ -65,7 +65,7 @@
   <!-- EN: Activate Incubator -->
   <VFEI_Engage>Активировать инкубатор</VFEI_Engage>
   <!-- EN: Activate Incubator to create a new insectoid from the inserted genetic materials -->
-  <VFEI_EngageDesc>Активируйте инкубатор для создания нового инсектоида из введенного генетического материала</VFEI_EngageDesc>
+  <VFEI_EngageDesc>Активируйте инкубатор для создания нового інсектоїда из введенного генетического материала</VFEI_EngageDesc>
 
   <!-- EN: Your colonists were unable to retrieve the genetic material -->
   <VFEI_NoGenesFound>Ваши поселенцы не смогли получить генетический материал</VFEI_NoGenesFound>
@@ -109,7 +109,7 @@
   <!-- EN: {0} arrive in {1} -->
   <InsectsArriveIn>{0} прибывает через {1}</InsectsArriveIn>
   <!-- EN: {0} before insect spawn. -->
-  <CocoonInsectSpawnIn>{0} до появление инсектоида.</CocoonInsectSpawnIn>
+  <CocoonInsectSpawnIn>{0} до появление інсектоїда.</CocoonInsectSpawnIn>
   <!-- EN: Queen is resting. -->
   <NoMoreSpawningAllowed>Королева отдыхает.</NoMoreSpawningAllowed>
 
@@ -163,35 +163,35 @@
   <TeleportDone>Телепортация удалась.</TeleportDone>
 
   <!-- EN: {0}: Teleport at center -->
-	<TeleportToSiteCenter>{0}: телепортация к центру</TeleportToSiteCenter>
+  <TeleportToSiteCenter>{0}: телепортация к центру</TeleportToSiteCenter>
   <!-- EN: {0}: Teleport at edge -->
-	<TeleportToSiteEdge>{0}: телепортация к границе</TeleportToSiteEdge>
+  <TeleportToSiteEdge>{0}: телепортация к границе</TeleportToSiteEdge>
 
   <!-- EN: Caravan created -->
-	<TeleportDoneCaravan>Создан караван</TeleportDoneCaravan>
+  <TeleportDoneCaravan>Создан караван</TeleportDoneCaravan>
   <!-- EN: Teleport content to {0} -->
-	<TeleportAddToCaravan>Телепортировать груз в {0}</TeleportAddToCaravan>
+  <TeleportAddToCaravan>Телепортировать груз в {0}</TeleportAddToCaravan>
   <!-- EN: Teleportation succeeded, contents was added to {0} -->
   <TeleportDoneCAdded>Телепортация удалась, груз был добавлен в {0}.</TeleportDoneCAdded>
 
   <!-- EN: Give gift to {0} ({1}). -->
-	<TeleportAndGift>Сделать подарок фракции {0} ({1}).</TeleportAndGift>
+  <TeleportAndGift>Сделать подарок фракции {0} ({1}).</TeleportAndGift>
 
   <!-- EN: Zoom in and choose teleporting spot -->
-	<TeleportAndTarget>Приблизить и выбрать точку телепортации</TeleportAndTarget>
+  <TeleportAndTarget>Приблизить и выбрать точку телепортации</TeleportAndTarget>
 
   <!-- EN: Attack {0}: Teleport at center -->
-	<TeleportAndAttackCenter>Нападение на {0}: телепортация к центру</TeleportAndAttackCenter>
+  <TeleportAndAttackCenter>Нападение на {0}: телепортация к центру</TeleportAndAttackCenter>
   <!-- EN: Attack {0}: Teleport at edge -->
-	<TeleportAndAttackEgde>Нападение на {0}: телепортация к границе</TeleportAndAttackEgde>
+  <TeleportAndAttackEgde>Нападение на {0}: телепортация к границе</TeleportAndAttackEgde>
 
   <!-- EN: The teleportation has failed and contents is lost -->
   <TeleportDestroyed>Поскольку не было телепортированных поселенцев, телепортация не удалась, а груз был потерян.</TeleportDestroyed>
 
   <!-- EN: Vanilla Factions Expanded - Insectoids -->
-	<SName>Vanilla Factions Expanded - Insectoids</SName>
+  <SName>Vanilla Factions Expanded - Insectoids</SName>
   <!-- EN: Repeller pulse effect: -->
-	<PusleLabel>Эффект импульса отпугивателя:</PusleLabel>
+  <PusleLabel>Эффект импульса отпугивателя:</PusleLabel>
   <!-- EN: Enable or disable the pulse effect from the sonic infestation repeller. -->
-	<PusleTooltip>Включить или выключить эффект импульса от звукового отпугивателя инсектоидов.</PusleTooltip>
+  <PusleTooltip>Включить или выключить эффект импульса от звукового отпугивателя інсектоїдов.</PusleTooltip>
 </LanguageData>

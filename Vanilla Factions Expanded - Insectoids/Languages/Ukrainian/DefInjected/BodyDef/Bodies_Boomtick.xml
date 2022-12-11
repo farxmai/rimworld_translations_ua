@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: boomtick -->
-  <VFEI_Boomtick.label>бумклещ</VFEI_Boomtick.label>
-  <VFEI_Boomtick.corePart.parts.left_elytra.customLabel>левое надкрылье</VFEI_Boomtick.corePart.parts.left_elytra.customLabel>
-  <VFEI_Boomtick.corePart.parts.right_elytra.customLabel>правое надкрылье</VFEI_Boomtick.corePart.parts.right_elytra.customLabel>
-  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>лівий глаз</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
-  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>правий глаз</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
-  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий усик</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
-  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий усик</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
-  <VFEI_Boomtick.corePart.parts.front_left_leg.customLabel>передняя ліва нога</VFEI_Boomtick.corePart.parts.front_left_leg.customLabel>
-  <VFEI_Boomtick.corePart.parts.front_right_leg.customLabel>передняя права нога</VFEI_Boomtick.corePart.parts.front_right_leg.customLabel>
+  <VFEI_Boomtick.label>бумкліщ</VFEI_Boomtick.label>
+  <VFEI_Boomtick.corePart.parts.left_elytra.customLabel>ліве надкрилля</VFEI_Boomtick.corePart.parts.left_elytra.customLabel>
+  <VFEI_Boomtick.corePart.parts.right_elytra.customLabel>праве надкрилля</VFEI_Boomtick.corePart.parts.right_elytra.customLabel>
+  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ліве око</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>праве око</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>лівий вусик</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правий вусик</VFEI_Boomtick.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <VFEI_Boomtick.corePart.parts.front_left_leg.customLabel>передня ліва нога</VFEI_Boomtick.corePart.parts.front_left_leg.customLabel>
+  <VFEI_Boomtick.corePart.parts.front_right_leg.customLabel>передня права нога</VFEI_Boomtick.corePart.parts.front_right_leg.customLabel>
   <VFEI_Boomtick.corePart.parts.middle_left_leg.customLabel>середня ліва нога</VFEI_Boomtick.corePart.parts.middle_left_leg.customLabel>
   <VFEI_Boomtick.corePart.parts.middle_right_leg.customLabel>середня права нога</VFEI_Boomtick.corePart.parts.middle_right_leg.customLabel>
-  <VFEI_Boomtick.corePart.parts.rear_left_leg.customLabel>задняя ліва нога</VFEI_Boomtick.corePart.parts.rear_left_leg.customLabel>
-  <VFEI_Boomtick.corePart.parts.rear_right_leg.customLabel>задняя права нога</VFEI_Boomtick.corePart.parts.rear_right_leg.customLabel>
-  <VFEI_Boomtick.corePart.parts.explosive_sac.customLabel>взрывмешок</VFEI_Boomtick.corePart.parts.explosive_sac.customLabel>
+  <VFEI_Boomtick.corePart.parts.rear_left_leg.customLabel>задня ліва нога</VFEI_Boomtick.corePart.parts.rear_left_leg.customLabel>
+  <VFEI_Boomtick.corePart.parts.rear_right_leg.customLabel>задня права нога</VFEI_Boomtick.corePart.parts.rear_right_leg.customLabel>
+  <VFEI_Boomtick.corePart.parts.explosive_sac.customLabel>вибуховий мішок</VFEI_Boomtick.corePart.parts.explosive_sac.customLabel>
 </LanguageData>

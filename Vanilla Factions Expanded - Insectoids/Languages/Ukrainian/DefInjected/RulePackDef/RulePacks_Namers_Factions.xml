@@ -126,17 +126,17 @@
   <li>townendevil->thad</li>
   -->
   <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings>
-    <li>r_name(p=9)->[townname_wordgen] во власти роя</li>
-    <li>r_name(p=4)->[townname_fixed] во власти роя</li>
-    <li>r_name(p=3)->[townname_combo] во власти роя</li>
-    <li>r_name->[townname_near] во власти роя</li>
-    <li>r_name->[TerrainFeature] [concept_positive] во власти роя</li>
-    <li>r_name->[TerrainFeature] [of_outlanders] во власти роя</li>
-    <li>r_name->[Community] [of_outlanders] во власти роя</li>
+    <li>r_name(p=9)->[townname_wordgen] у владі рою</li>
+    <li>r_name(p=4)->[townname_fixed] у владі рою</li>
+    <li>r_name(p=3)->[townname_combo] у владі рою</li>
+    <li>r_name->[townname_near] у владі рою</li>
+    <li>r_name->[TerrainFeature] [concept_positive] у владі рою</li>
+    <li>r_name->[TerrainFeature] [of_outlanders] у владі рою</li>
+    <li>r_name->[Community] [of_outlanders] у владі рою</li>
 
     <li>TerrainFeature->[TerrainFeature_masc]</li>
     <li>TerrainFeature->[TerrainFeature_fem]</li>
-    <li>TerrainFeature->[TerrainFeature_neutral]</li>    
+    <li>TerrainFeature->[TerrainFeature_neutral]</li>
     <li>townname_near->[subname]-на-[TerrainFeature_prep]</li>
     <li>townname_near->[subname]-у-[TerrainFeature_gen]</li>
     <li>townname_near->[TerrainFeature]-на-[TerrainFeature_prep]</li>
@@ -153,19 +153,19 @@
     <li>townend->таун</li>
     <li>townend->роща</li>
     <li>townend->бурн</li>
-    <li>townend->брэд</li>
+    <li>townend->бред</li>
     <li>townend->дейл</li>
     <li>townend->хоуп</li>
-    <li>townend->инг</li>
+    <li>townend->інг</li>
     <li>townend->несс</li>
     <li>townend->мир</li>
     <li>townend->шо</li>
-    <li>townend->вик</li>
+    <li>townend->вік</li>
 
-    <li>r_name->[geography] [of_badassanimal] во власти роя</li>
-    <li>r_name->[geography] [of_badassanimals] во власти роя</li>
-    <li>r_name->[geography] [ConceptBadass] во власти роя</li>
-    <li>r_name->[geography] [of_badasspeople] во власти роя</li>
+    <li>r_name->[geography] [of_badassanimal] у владі рою</li>
+    <li>r_name->[geography] [of_badassanimals] у владі рою</li>
+    <li>r_name->[geography] [ConceptBadass] у владі рою</li>
+    <li>r_name->[geography] [of_badasspeople] у владі рою</li>
 
     <li>geography->[TerrainFeature_masc]</li>
     <li>geography->[TerrainFeature_fem]</li>

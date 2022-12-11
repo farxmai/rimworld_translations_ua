@@ -29,7 +29,7 @@
   <!-- EN: head -->
   <VFE_Mech_AdvancedKnight.tools.head.label>голова</VFE_Mech_AdvancedKnight.tools.head.label>
 
- <!-- EN: advanced inquisitor -->
+  <!-- EN: advanced inquisitor -->
   <VFE_Mech_AdvancedInquisitor.label>продвинутый инквизитор</VFE_Mech_AdvancedInquisitor.label>
   <!-- EN: One of two heavy infantry mechanoids equipped with multiple upgrades. Despite much larger chemfuel tanks this variant of the Inquisitor mech is somehow quicker than its counterpart. Less than a dozen encounters with this mechanoid have ever been reported and less than half of those have ended in victory. This Inquisitor not only rushes priority targets with plumes of fire but also is installed with a much more deadly explosive fail-safe system that both detonates the machine but also engulfs targets nearby in chemfuel fire. -->
   <VFE_Mech_AdvancedInquisitor.description>Один из двух тяжёлых пехотных механоидов, оснащенных множеством улучшений. Несмотря на гораздо большие баки с химическим топливом, этот вариант инквизитора каким-то образом быстрее, чем его аналог. Есть информация о менее чем дюжине столкновений с этим механоидом, и лишь меньше половины из них закончились победой. Инквизитор не только бросается на приоритетные цели с огненными шлейфами, но и имеет с гораздо более смертоносной взрывной системой взрыва после смерти, которая одновременно взрывает машину и поглощает цели в округе огнём химтоплива.</VFE_Mech_AdvancedInquisitor.description>
@@ -56,9 +56,9 @@
   <!-- EN: A multi-legged combat mechanoid specialized as a long-range weapons platform. This particular unit appears to have been upgraded with additional limbs for quicker movement as well as a layer of roach-like carapace plates for extra defense against melee combatants. -->
   <VFE_Mech_AdvancedPikeman.description>Многоногий бойовий механоид, специализировавшийся для ведения огня из дальнобойного оружия. Эта модель была оснащена дополнительными конечностями для более быстрого передвижения, а также слоем панцирных пластин, похожих на тараканьи, для дополнительной защиты в ближнем бою.</VFE_Mech_AdvancedPikeman.description>
   <!-- EN: front left leg -->
-  <VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>передняя ліва нога</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
+  <VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>передня ліва нога</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>передняя права нога</VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>
+  <VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>передня права нога</VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>
   <!-- EN: head -->
   <VFE_Mech_AdvancedPikeman.tools.head.label>голова</VFE_Mech_AdvancedPikeman.tools.head.label>
 
@@ -67,9 +67,9 @@
   <!-- EN: An upgraded version of the utility “Carpenter” mechanoid. Set apart from its prior iterations this version of the carpenter mechanoid not only moves faster but also utilizes plasma torches and omnitools to nearly instantly dissemble all risk-posing structures. Compounded with possibly the heaviest armor of all mechanoids this unit needs to be prioritized before reaching the enemy frontline. Finally, should this mechanoid detect that it is about to cease function an EMP shock is emitted that temporarily disables all nearby electronics in a last-ditch effort to break the frontline for its allies.-->
   <VFE_Mech_AdvancedCarpenter.description>Модернизированная версия плотника. В отличие от своих предыдущих итераций, эта версия плотника не только движется быстрее, но и использует плазменные горелки и универсальные инструменты, чтобы почти мгновенно разобрать все представляющие угрозу структуры. В сочетании с, возможно, самой тяжёлой броней среди всех механоидов, этот механоид должен быть приоритетной целью в волне наступающих врагов. И ещё, если этот механоид обнаружит, что он вот-вот перестанет функционировать, то активирует ЭМИ-заряд, который временно отключит всю близлежащую электронику в последней попытке помочь союзникам прорвать линию фронта.</VFE_Mech_AdvancedCarpenter.description>
   <!-- EN: front left leg -->
-  <VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>передняя ліва нога</VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>
+  <VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>передня ліва нога</VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>передняя права нога</VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>
+  <VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>передня права нога</VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>
   <!-- EN: head -->
   <VFE_Mech_AdvancedCarpenter.tools.head.label>голова</VFE_Mech_AdvancedCarpenter.tools.head.label>
 </LanguageData>

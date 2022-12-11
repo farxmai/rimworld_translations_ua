@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: insectoid leg -->
-  <VFEI_InsectoidLeg.label>нога инсектоида</VFEI_InsectoidLeg.label>
+  <VFEI_InsectoidLeg.label>нога інсектоїда</VFEI_InsectoidLeg.label>
   <!-- EN: A jointed appendage of an insectoid, consisting of several chitin covered segments. Whilst it’s an extremely painful mutation, this leg has much higher resistance to damage. -->
-  <VFEI_InsectoidLeg.description>Сочлененный отросток инсектоида, состоящий из нескольких покрытых хитином сегментов. Хотя это чрезвычайно болезненная мутация, эта нога имеет большую устойчивость к повреждениям.</VFEI_InsectoidLeg.description>
+  <VFEI_InsectoidLeg.description>Сочлененный отросток інсектоїда, состоящий из нескольких покрытых хитином сегментов. Хотя это чрезвычайно болезненная мутация, эта нога имеет большую устойчивость к повреждениям.</VFEI_InsectoidLeg.description>
 
   <!-- EN: insectoid arm -->
-  <VFEI_InsectoidArm.label>рука инсектоида</VFEI_InsectoidArm.label>
+  <VFEI_InsectoidArm.label>рука інсектоїда</VFEI_InsectoidArm.label>
   <!-- EN: A jointed appendage of an insectoid, consisting of several chitin covered segments. Whilst it’s an extremely painful mutation, this arm has much higher resistance to damage. -->
-  <VFEI_InsectoidArm.description>Сочлененный отросток инсектоида, состоящий из нескольких покрытых хитином сегментов. Хотя это чрезвычайно болезненная мутация, эта рука имеет большую устойчивость к повреждениям.</VFEI_InsectoidArm.description>
+  <VFEI_InsectoidArm.description>Сочлененный отросток інсектоїда, состоящий из нескольких покрытых хитином сегментов. Хотя это чрезвычайно болезненная мутация, эта рука имеет большую устойчивость к повреждениям.</VFEI_InsectoidArm.description>
 
   <!-- EN: compound eye -->
-  <VFEI_CompoundEye.label>фасеточный глаз</VFEI_CompoundEye.label>
+  <VFEI_CompoundEye.label>фасеточный око</VFEI_CompoundEye.label>
   <!-- EN: An eye consisting of thousands of individual photoreceptor units, compound eyes have a large field of view and help with detecting fast movement, however its visibility range is significantly reduced. Whilst it’s an extremely painful mutation, this eye has a higher resistance to damage. -->
-  <VFEI_CompoundEye.description>Глаз, состоящий из тысячи отдельных фоторецепторных блоков, имеет большое поле зрения и помогает обнаруживать быстрые движения, однако дальность видимости значительно уменьшается. Хотя это чрезвычайно болезненная мутация, этот глаз имеет большую устойчивость к повреждениям.</VFEI_CompoundEye.description>
+  <VFEI_CompoundEye.description>Глаз, состоящий из тысячи отдельных фоторецепторных блоков, имеет большое поле зрения и помогает обнаруживать быстрые движения, однако дальность видимости значительно уменьшается. Хотя это чрезвычайно болезненная мутация, этот око имеет большую устойчивость к повреждениям.</VFEI_CompoundEye.description>
 
   <!-- EN: mandibles -->
   <VFEI_Mandibles.label>жвалы</VFEI_Mandibles.label>
@@ -23,7 +23,7 @@
   <!-- EN: jelly sac -->
   <VFEI_JellySac.label>желейный мешочек</VFEI_JellySac.label>
   <!-- EN: A tube-like organ grown within the body. It allows humans to produce low quantities of insect jelly over time. It’s an extremely painful mutation, in some cases requiring medical enhancement for the person to actually live with it. -->
-  <VFEI_JellySac.description>Трубчатый орган, выращенный внутри тела. Он позволяет людям производить небольшое количество королевского желе с течением времени. Это чрезвычайно болезненная мутация, в некоторых случаях требующая медицинского усовершенствования для того, чтобы человек смог жить с ней.</VFEI_JellySac.description>
+  <VFEI_JellySac.description>Трубчатый орган, вирощений внутри тела. Он позволяет людям производить небольшое количество королевского желе с течением времени. Это чрезвычайно болезненная мутация, в некоторых случаях требующая медицинского усовершенствования для того, чтобы человек смог жить с ней.</VFEI_JellySac.description>
 
   <!-- EN: venom gland -->
   <VFEI_VenomGland.label>ядовитая железа</VFEI_VenomGland.label>
@@ -36,7 +36,7 @@
   <VFEI_PneumaticClaw.description>Мощная пневматическая клешня, способная непрерывно оказывать большое давление на цель ценой потери моторных навыков руки.</VFEI_PneumaticClaw.description>
 
   <!-- EN: antenna -->
-  <VFEI_Antenna.label>усик</VFEI_Antenna.label>
+  <VFEI_Antenna.label>вусик</VFEI_Antenna.label>
   <!-- EN: A slender, mobile sensory organ that serves to compliment vision and locational awareness. A subject with this mutation will no longer suffer from darkness penalties, however sensory overload makes it very difficult to socialize. -->
   <VFEI_Antenna.description>Тонкий, подвижный орган чувств, который дополняет зрение и вестибулярный аппарат. Субъект с этой мутацией больше не будет иметь проблем в темноте, однако сенсорная перегрузка усложнит социальное взаимодействие.</VFEI_Antenna.description>
 
@@ -48,7 +48,7 @@
   <!-- EN: pheromone secretor -->
   <VFEI_PheromoneSecretor.label>феромоновая железа</VFEI_PheromoneSecretor.label>
   <!-- EN: Insectoid glands that slowly leak colorless, odorless, but sticky pheromone, notable for inducing a mild euphoria in those nearby. -->
-  <VFEI_PheromoneSecretor.description>Железы инсектоида, которые медленно выделяют бесцветный, не имеющий запаха, но липкий феромон, вызывающий лёгкую эйфорию у тех, кто находится поблизости.</VFEI_PheromoneSecretor.description>
+  <VFEI_PheromoneSecretor.description>Железы інсектоїда, которые медленно выделяют бесцветный, не имеющий запаха, но липкий феромон, вызывающий лёгкую эйфорию у тех, кто находится поблизости.</VFEI_PheromoneSecretor.description>
 
   <!-- EN: ventricular sleeve -->
   <VFEI_VentricularSleeve.label>желудочковый рукав</VFEI_VentricularSleeve.label>
@@ -58,7 +58,7 @@
   <!-- EN: synaptic cerebellum -->
   <VFEI_SynapticCerebellum.label>синаптический мозжечок</VFEI_SynapticCerebellum.label>
   <!-- EN: An insectoid brain particularly sensitive to residual psychic synapse. A creature with this mutation possesses profound collective thought and psychic sensitivity, however is barely able to form cohesive sentences. -->
-  <VFEI_SynapticCerebellum.description>Мозг инсектоида, особенно чувствительный к остаточному психическому синапсу. Существо с этой мутацией обладает сильным коллективным мышлением и психической чувствительностью, но с трудом формирует связанные предложения.</VFEI_SynapticCerebellum.description>
+  <VFEI_SynapticCerebellum.description>Мозг інсектоїда, особенно чувствительный к остаточному психическому синапсу. Существо с этой мутацией обладает сильным коллективным мышлением и психической чувствительностью, но с трудом формирует связанные предложения.</VFEI_SynapticCerebellum.description>
 
   <!-- EN: royal slime -->
   <VFEI_Filth_Slime.label>желе ползуна</VFEI_Filth_Slime.label>
