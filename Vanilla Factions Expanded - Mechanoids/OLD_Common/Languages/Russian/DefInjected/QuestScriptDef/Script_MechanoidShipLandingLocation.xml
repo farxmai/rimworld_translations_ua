@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:
+	<!-- EN:
 		<li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [landing]</li>
 		<li>questName->Mechanoid [landing]</li>
 		<li>intel->Intel</li>
@@ -13,45 +13,45 @@
 		<li>landing->Landing Site</li>
 		<li>landing->Ship Incoming</li>
   -->
-  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+	<VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
 		<li>questName(priority=1)->[intel] [asker_nameDef] о [landing] механоїдів</li>
 		<li>questName->[landing_sing] механоїдів</li>
-		<li>intel->Информация</li>
-		<li>intel->Разведанные</li>
-		<li>intel->Предположение</li>
+		<li>intel->Інформація</li>
+		<li>intel->Розвіддані</li>
+		<li>intel->Припущення</li>
 		<li>intel->Данные</li>
-		<li>landing->высадке</li>
-		<li>landing->месте приземления</li>
-		<li>landing->неизбежной высадке</li>
-		<li>landing->посадке кораблей</li>
+		<li>landing->висадці</li>
+		<li>landing->місці приземлення</li>
+		<li>landing->неминучу висадку</li>
+		<li>landing->посадці кораблів</li>
 		<li>landing->приближении кораблей</li>
 		<li>landing_sing->высадка</li>
 		<li>landing_sing->место приземления</li>
 		<li>landing_sing->неизбежная высадка</li>
 		<li>landing_sing->посадка кораблей</li>
 		<li>landing_sing->приближение кораблей</li>
-  </VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+	</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
 
 
-  <!-- EN:
+	<!-- EN:
   	<li>questDescription(askerIsNull==true)->We've obtained encrypted information about an incoming mechanoid ship, planning to touch down not far from [map_definite]. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid ship intending to land not too far from our area. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
   -->
-  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
-  	<li>questDescription(askerIsNull==true)->Мы получили зашифрованную информацию о корабле механоїдів, собирающемся приземлиться недалеко от [map_definite]. Протокол этого корабля не допустит посадки, если место приземления небезопасно. Место посадки охраняется механоїдами, но уничтожение четырёх маяков приземление создаст достаточную угрозу, чтобы остановить протокол приземления.\n\nЕсли приземление не предотвратить, присутствие механоїдів увеличится.</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name], передаёт информацию о готовящейся высадке механоїдів неподалёку. Протокол этого корабля не допустит посадки, если место приземления небезопасно. Место посадки охраняется механоїдами, но уничтожение четырёх маяков приземление создаст достаточную угрозу, чтобы остановить протокол приземления.\n\nЕсли приземление не предотвратить, присутствие механоїдів увеличится.</li>
-  </VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+	<VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->Ми отримали зашифровану інформацію про корабель механоїдів, який збирається приземлитися неподалік [map_definite]. Протокол цього корабля не допустить посадки, якщо місце приземлення небезпечне. Місце посадки охороняється механоїдами, але знищення чотирьох маяків приземлення створить достатню загрозу, щоб зупинити протокол приземлення.\n\nЯкщо приземлення не запобігти, присутність механоїдів збільшиться.</li>
+		<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name], передає інформацію про підготовку десантування механоїдів неподалік. Протокол цього корабля не допустить посадки, якщо місце приземлення небезпечне. Місце посадки охороняється механоїдами, але знищення чотирьох маяків приземлення створить достатню загрозу, щоб зупинити протокол приземлення.\n\nЯкщо приземлення не запобігти, присутність механоїдів збільшиться.</li>
+	</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
 
-  <!-- EN: Landing beacons Destroyed -->
-  <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>Маяки уничтожены</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>
-  <!-- EN: All landing beacons have been destroyed. -->
-  <VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>Все посадочные маяки были уничтожены</VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>
-  <!-- EN: Quest expired (failed to destroy beacons 1 ): «[resolvedQuestName]» -->
-  <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>
-  <!-- EN: The mechanoid ship has landed. The quest «[resolvedQuestName]» has expired. -->
-  <VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>Механоиды высадились на поверхность. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
-  <!-- EN: Quest expired (failed to destroy beacons 2 ): «[resolvedQuestName]» -->
-  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
-  <!-- EN: The mechanoid ship has landed. The quest «[resolvedQuestName]» has expired. -->
-  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>Механоиды высадились на поверхность. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
+	<!-- EN: Landing beacons Destroyed -->
+	<VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>Маяки знищено</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>
+	<!-- EN: All landing beacons have been destroyed. -->
+	<VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>Усі посадкові маяки були знищені</VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>
+	<!-- EN: Quest expired (failed to destroy beacons 1 ): «[resolvedQuestName]» -->
+	<VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>
+	<!-- EN: The mechanoid ship has landed. The quest «[resolvedQuestName]» has expired. -->
+	<VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>Механоїди висадились на поверхню. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
+	<!-- EN: Quest expired (failed to destroy beacons 2 ): «[resolvedQuestName]» -->
+	<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
+	<!-- EN: The mechanoid ship has landed. The quest «[resolvedQuestName]» has expired. -->
+	<VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>Механоїди висадились на поверхню. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
 </LanguageData>

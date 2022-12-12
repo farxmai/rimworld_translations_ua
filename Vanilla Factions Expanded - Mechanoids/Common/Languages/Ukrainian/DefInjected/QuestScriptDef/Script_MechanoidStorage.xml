@@ -14,22 +14,22 @@
     <li>storage->Supplies</li>
   -->
   <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
-    <li>questName(priority=1)->[intel] [asker_nameDef] о [storage] механоїдів</li>
+    <li>questName(priority=1)->[intel] [asker_nameDef] про [storage] механоїдів</li>
     <li>questName->[storage_sing] механоїдів</li>
-		<li>intel->Информация</li>
-		<li>intel->Разведанные</li>
-		<li>intel->Предположение</li>
-		<li>intel->Данные</li>
-    <li>storage->хранилище</li>
-    <li>storage->грузе</li>
-    <li>storage->точке сбора</li>
-    <li>storage->сокровищах</li>
-    <li>storage->припасах</li>
-    <li>storage_sing->хранилище</li>
-    <li>storage_sing->груз</li>
-    <li>storage_sing->точка сбора</li>
-    <li>storage_sing->сокровища</li>
-    <li>storage_sing->припасы</li>
+    <li>intel->Інформація</li>
+    <li>intel->Розвіддані</li>
+    <li>intel->Припущення</li>
+    <li>intel->Данные</li>
+    <li>storage->сховище</li>
+    <li>storage->вантаж</li>
+    <li>storage->схрон</li>
+    <li>storage->скарбах</li>
+    <li>storage->запасах</li>
+    <li>storage_sing->сховище</li>
+    <li>storage_sing->вантаж</li>
+    <li>storage_sing->схрон</li>
+    <li>storage_sing->скарби</li>
+    <li>storage_sing->запаси</li>
   </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
 
 
@@ -38,13 +38,13 @@
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid resources [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] informs us that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
   -->
   <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->Мы получили зашифрованную информацию о куче ресурсов, общей ценностью в [itemStashContentsValue] единиц, упакованный и готовых к транспортировке из [map_definite]. Там можно будет найти:\n\n[itemStashContents]\n\nСудя по всему, механоїди будут охранять это место, пока груз не отправится на орбиту.</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name] сообщает о [itemStashContentsValue] единиц ресурсов механойдов, находящихся недалеко от нас. Там можно будет найти:\n\n[itemStashContents]\n\n[asker_label] также сообщает о механоїдах, охраняющих груз до его отправки на орбиту.</li>
+    <li>questDescription(askerIsNull==true)->Ми отримали зашифровану інформацію про купу ресурсів, загальною цінністю в [itemStashContentsValue] одиниць, упакованих та готових до транспортування з [map_definite]. Там можна буде знайти:\n\n[itemStashContents]\n\nЗважаючи на все, механоїди охоронятимуть це місце, доки вантаж не вирушить на орбіту.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name] повідомляє про [itemStashContentsValue] одиниць ресурсів механойдів, що знаходяться недалеко від нас. Там можна буде знайти:\n\n[itemStashContents]\n\n[asker_label] також повідомляє про механоїдів, що охороняють вантаж до його відправлення на орбіту.</li>
   </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
 
 
   <!-- EN: Quest expired: «[resolvedQuestName]» -->
   <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>Термін завдання вичерпано: «[resolvedQuestName]»</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been uplifted to orbit. The quest «[resolvedQuestName]» has expired. -->
-  <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, груз был поднят на орбиту. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
+  <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Судячи з перехоплених повідомлень, вантаж був піднятий на орбіту. Завдання «[resolvedQuestName]» провалено.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
 </LanguageData>

@@ -36,7 +36,7 @@
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] одиницями честі.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] пунктами честі.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Lothurr [hunt]</li>
@@ -74,7 +74,7 @@
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] одиницями честі.</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] пунктами честі</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
 
   <!-- EN:    
     <li>questName(priority=1)->[asker_nameDef]'s Njörun [hunt]</li>
@@ -112,7 +112,7 @@
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] одиницями честі.</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] пунктами честі</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Thrumbo [hunt]</li>
@@ -150,7 +150,7 @@
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] одиницями честі.</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] пунктами честі</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
 
   <!-- EN:     
     <li>questName(priority=1)->[asker_nameDef]'s Odin [hunt]</li>
@@ -188,5 +188,5 @@
   <!-- EN: [asker_faction_royalFavorLabel -->
   <VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest «[resolvedQuestName]». [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] одиницями честі.</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
+  <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Наступні колоністи брали участь у виконанні цього завдання «[resolvedQuestName]». [asker_definite] питає, кого з них необхідно відзначити [royalFavorReward_amount] пунктами честі</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
 </LanguageData>
