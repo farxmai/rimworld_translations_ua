@@ -4,6 +4,8 @@
   <VFEC_Bronze.label>бронза</VFEC_Bronze.label>
   <!-- EN: A metallic alloy made from steel and trace amounts of copper found in stones. Can be used for crafting armor or furnishings when steel is in low supply. -->
   <VFEC_Bronze.description>Сплав із сталі та деякої залишкової кількості міді, знайденої в камінні. Може бути використаний для створення броні та предметів меблів, коли бракує сталі.</VFEC_Bronze.description>
+  <!-- EN: bronze -->
+  <VFEC_Bronze.stuffProps.stuffAdjective>бронзи</VFEC_Bronze.stuffProps.stuffAdjective>
 
   <!-- EN: concrete blocks -->
   <VFEC_BlocksConcrete.label>блоки бетону</VFEC_BlocksConcrete.label>
