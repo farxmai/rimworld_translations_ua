@@ -35,7 +35,7 @@
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
   <VFEC_TileConcrete.description>Акуратно вирізані та підігнані одна до одної кам'яні плитки, як у середньовічному замку. Приємні на вигляд, але укладання потребує часу.</VFEC_TileConcrete.description>
   <!-- EN: concrete flagstone -->
-  <VFEC_FlagstoneConcrete.label>груба бетонна плитка</VFEC_FlagstoneConcrete.label>
+  <VFEC_FlagstoneConcrete.label>бетонна плита</VFEC_FlagstoneConcrete.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <VFEC_FlagstoneConcrete.description>Грубо вирізьблені кам'яні плити. Не дуже красиві, але чудово підходять для покриття доріг та пішохідних доріжок. Розбирання плити не дає ресурсів.</VFEC_FlagstoneConcrete.description>
 </LanguageData>
