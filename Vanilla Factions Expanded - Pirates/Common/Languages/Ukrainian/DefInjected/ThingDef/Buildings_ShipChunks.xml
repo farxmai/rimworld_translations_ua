@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: ship chunk debris -->
-  <VFEP_ShipChunkDebris.label>корабльні уламки</VFEP_ShipChunkDebris.label>
+  <VFEP_ShipChunkDebris.label>корабельні уламки</VFEP_ShipChunkDebris.label>
   <!-- EN: A chunk of a combat-grade spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon. It is densely packed with double-layer armor plating and control systems, which can be acquired by deconstructing it. -->
   <VFEP_ShipChunkDebris.description>Уламок бойового космічного корабля. Ймовірно, його було відірвано внаслідок потужного удару та влучення з якоїсь зброї. На уламку можна розглянути двошарову броню обшивки та залишки систем управління, які можна отримати, розібравши його.</VFEP_ShipChunkDebris.description>
 
   <!-- EN: ship chunk battery -->
-  <VFEP_ShipChunkBattery.label>корабльні уламки батареї</VFEP_ShipChunkBattery.label>
+  <VFEP_ShipChunkBattery.label>корабельні уламки батареї</VFEP_ShipChunkBattery.label>
   <!-- EN: The mangled remains of ship-borne battery, used to power systems with high power draw for short periods. It was leaps and bounds about Rimworld battery technology but it can no longer be recharged and yields decent salvage once it’s stored charge has run out. -->
   <VFEP_ShipChunkBattery.description>Залишки корабельної батареї, яка мала корабель потужними короткочасними сплесками енергії. Батарея виконана за надто старими навіть для цього окраїнного світу технологіями і не може бути заряджена знову. Однак накопичену енергію все ще можна використати.</VFEP_ShipChunkBattery.description>
 
   <!-- EN: ship chunk cryptosleep casket -->
-  <VFEP_ShipChunkCryptosleepCasket.label>корабльні уламки з саркофагом</VFEP_ShipChunkCryptosleepCasket.label>
+  <VFEP_ShipChunkCryptosleepCasket.label>корабельні уламки з саркофагом</VFEP_ShipChunkCryptosleepCasket.label>
   <!-- EN: A self-powered cryptosleep casket caught in the remains of their ship’s hull. The occupant can still be recovered from the module, but most of the material is worth less than scrap metal and offers little salvage. -->
   <VFEP_ShipChunkCryptosleepCasket.description>Автономний саркофаг криптосну, що застряг у уламках корпусу. Більшість матеріалів перетворилася на марне сміття, але якщо всередині знаходиться людина, її все ще можна врятувати.</VFEP_ShipChunkCryptosleepCasket.description>
 
@@ -42,17 +42,17 @@
   <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>Неможливо вести вогонь: необхдна заміна ствола</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
 
   <!-- EN: ship chunk reactor -->
-  <VFEP_ShipChunkReactor.label>корабльні уламки реактору</VFEP_ShipChunkReactor.label>
+  <VFEP_ShipChunkReactor.label>корабельні уламки реактору</VFEP_ShipChunkReactor.label>
   <!-- EN: The remains of a combat-grade spacecraft’s nuclear reactor, low-yield and designed to operate alongside energy storage. Surprisingly, the reactor is fully functional with no structural damage, so it can be safely used for ground operations. -->
   <VFEP_ShipChunkReactor.description>Залишки ядерного реактора бойового космічного корабля. Він малопотужний та призначений для поступової зарядки сховища енергії. Важко повірити, але він все ще працює і може стати джерелом енергії для поселення.</VFEP_ShipChunkReactor.description>
 
   <!-- EN: ship medical crate -->
-  <VFEP_ShipMedicalCrate.label>корабльний контейнер з медикаментами</VFEP_ShipMedicalCrate.label>
+  <VFEP_ShipMedicalCrate.label>корабельний контейнер з медикаментами</VFEP_ShipMedicalCrate.label>
   <!-- EN: A now-unsealed crate containing first-aid supplies. The pallet can be dismantled for steel along with recovering the supplies. -->
   <VFEP_ShipMedicalCrate.description>Пошкоджений контейнер з медикаментами, у якого заклинило замок, тому щоб дістатися до запасів, необхідно повністю розібрати.</VFEP_ShipMedicalCrate.description>
 
   <!-- EN: ship nutrient paste crate -->
-  <VFEP_ShipNutrientPasteCrate.label>корабльний контейнер з їжею</VFEP_ShipNutrientPasteCrate.label>
+  <VFEP_ShipNutrientPasteCrate.label>корабельний контейнер з їжею</VFEP_ShipNutrientPasteCrate.label>
   <!-- EN: A now-unsealed crate containing emergency food rations. The pallet can be dismantled for steel along with recovering the supplies. -->
   <VFEP_ShipNutrientPasteCrate.description>Пошкоджений контейнер з поживною пастою, у якого заклинило замок, тому щоб дістатися до запасів, необхідно повністю розібрати.</VFEP_ShipNutrientPasteCrate.description>
 </LanguageData>

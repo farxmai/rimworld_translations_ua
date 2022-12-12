@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: climate adjuster -->
-  <VFE_ClimateAdjuster.label>регулятор климата</VFE_ClimateAdjuster.label>
+  <VFE_ClimateAdjuster.label>регулятор клімату</VFE_ClimateAdjuster.label>
   <!-- EN: climate adjuster -->
-  <VFE_ClimateAdjuster.letterText>регулятор климата</VFE_ClimateAdjuster.letterText>
+  <VFE_ClimateAdjuster.letterText>регулятор клімату</VFE_ClimateAdjuster.letterText>
   <!-- EN: climate adjuster -->
-  <VFE_ClimateAdjuster.description>регулятор климата</VFE_ClimateAdjuster.description>
+  <VFE_ClimateAdjuster.description>регулятор клімату</VFE_ClimateAdjuster.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
   <VFE_ClimateAdjuster.descriptionFuture>фронт холодного воздуха будет охлаждать [map_definite] и близлежащие окрестности на протяжении [gameConditionDuration_duration], нанося вред посевам. Подвергнутся опасности жизни людей, одетых не по погоде, и животных вне отапливаемых помещений.</VFE_ClimateAdjuster.descriptionFuture>
   <!-- EN: The cold snap is over. -->

@@ -16,14 +16,14 @@
   <VFE_Mechanoids_AutominerBase.description>Станция для сборки и подзарядки автошахтёра.</VFE_Mechanoids_AutominerBase.description>
 
   <!-- EN: combat mechanoid charging station -->
-  <VFE_Mechanoids_CombatBase.label>станция зарядки боевого механоида</VFE_Mechanoids_CombatBase.label>
+  <VFE_Mechanoids_CombatBase.label>станция зарядки боевого механоїда</VFE_Mechanoids_CombatBase.label>
   <!-- EN: A station for assembling and recharging combat mechanoids. -->
-  <VFE_Mechanoids_CombatBase.description>Станция для сборки и подзарядки боевого механоида.</VFE_Mechanoids_CombatBase.description>
+  <VFE_Mechanoids_CombatBase.description>Станция для сборки и подзарядки боевого механоїда.</VFE_Mechanoids_CombatBase.description>
 
   <!-- EN: riot mechanoid charging station -->
-  <VFE_Mechanoids_RiotBase.label>станция зарядки охранного механоида</VFE_Mechanoids_RiotBase.label>
+  <VFE_Mechanoids_RiotBase.label>станция зарядки охранного механоїда</VFE_Mechanoids_RiotBase.label>
   <!-- EN: A station for assembling and recharging riot mechanoids. -->
-  <VFE_Mechanoids_RiotBase.description>Станция для сборки и подзарядки охранного механоида.</VFE_Mechanoids_RiotBase.description>
+  <VFE_Mechanoids_RiotBase.description>Станция для сборки и подзарядки охранного механоїда.</VFE_Mechanoids_RiotBase.description>
 
   <!-- EN: mobile turret charging station -->
   <VFE_Mechanoids_TurretBase.label>станция зарядки подвижной турели</VFE_Mechanoids_TurretBase.label>

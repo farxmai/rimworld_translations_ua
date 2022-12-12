@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: dissembling TargetA. -->
+  <VFEM_Disassemble.reportString>розбирає TargetA</VFEM_Disassemble.reportString>
+  <!-- EN: entering indoctrination pod. -->
+  <VFEM_EnterIndoctrinationPod.reportString>входить до капсули ідеологічної обробки</VFEM_EnterIndoctrinationPod.reportString>
+  <!-- EN: refueling TargetA. -->
+  <VFEM_RefuelSilo.reportString>заправляє TargetA</VFEM_RefuelSilo.reportString>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: factory tab -->
+  <Architect_VFE_Factory.label>меню «Заводи»</Architect_VFE_Factory.label>
+  <!-- EN: Key bindings for the "Factory" section of the Architect menu -->
+  <Architect_VFE_Factory.description>Призначення клавіш для меню «Заводи» в меню Архітектура</Architect_VFE_Factory.description>
+</LanguageData>

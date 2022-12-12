@@ -13,11 +13,11 @@
   <VFEP_SideDropPod.label>транспортна капсула (падає)</VFEP_SideDropPod.label>
 
   <!-- EN: ship chunk debris (incoming) -->
-  <VFEP_IShipChunkDebris.label>корабльні уламки (падає)</VFEP_IShipChunkDebris.label>
+  <VFEP_IShipChunkDebris.label>корабельні уламки (падає)</VFEP_IShipChunkDebris.label>
   <!-- EN: ship chunk battery (incoming) -->
-  <VFEP_IShipChunkBattery.label>корабльні уламки батареї (падає)</VFEP_IShipChunkBattery.label>
+  <VFEP_IShipChunkBattery.label>корабельні уламки батареї (падає)</VFEP_IShipChunkBattery.label>
   <!-- EN: ship chunk cryptosleep casket (incoming) -->
-  <VFEP_IShipChunkCryptosleepCasket.label>корабльні уламки з саркофагом (падає)</VFEP_IShipChunkCryptosleepCasket.label>
+  <VFEP_IShipChunkCryptosleepCasket.label>корабельні уламки з саркофагом (падає)</VFEP_IShipChunkCryptosleepCasket.label>
   <!-- EN: ship chunk volatile engine (incoming) -->
   <VFEP_IShipChunkVolatileEngine.label>корабельний нестабільний двигун (падає)</VFEP_IShipChunkVolatileEngine.label>
   <!-- EN: ship chunk fuel tank (incoming) -->
@@ -25,9 +25,9 @@
   <!-- EN: ship chunk gauntlet turret (incoming) -->
   <VFEP_IShipChunkGauntletTurret.label>корабельна турель «Латниці» (падає)</VFEP_IShipChunkGauntletTurret.label>
   <!-- EN: ship chunk Reactor (incoming) -->
-  <VFEP_IShipChunkReactor.label>корабльні уламки реактору (падає)</VFEP_IShipChunkReactor.label>
+  <VFEP_IShipChunkReactor.label>корабельні уламки реактору (падає)</VFEP_IShipChunkReactor.label>
   <!-- EN: ship chunk medical crate (incoming) -->
-  <VFEP_IShipMedicalCrate.label>корабльний контейнер (падає)</VFEP_IShipMedicalCrate.label>
+  <VFEP_IShipMedicalCrate.label>корабельний контейнер (падає)</VFEP_IShipMedicalCrate.label>
   <!-- EN: ship chunk nutrient paste crate (incoming) -->
-  <VFEP_IShipNutrientPasteCrate.label>корабльний контейнер (падає)</VFEP_IShipNutrientPasteCrate.label>
+  <VFEP_IShipNutrientPasteCrate.label>корабельний контейнер (падає)</VFEP_IShipNutrientPasteCrate.label>
 </LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mechanoid ship -->
+  <VFEM_StrategyMechShipArrival.letterLabelEnemy>Корабль механоїдів</VFEM_StrategyMechShipArrival.letterLabelEnemy>
+  <!-- EN: Mechanoids that landed with it will attack immediately. The ship will lay covering fire and begin the siege as soon as possible. -->
+  <VFEM_StrategyMechShipArrival.arrivalTextEnemy>Механоїди, що висадилися, кидаються в атаку на ваше поселення. Корабель прикриватиме їх вогнем зі своїх знарядь.</VFEM_StrategyMechShipArrival.arrivalTextEnemy>
+</LanguageData>

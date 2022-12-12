@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: mechanoid structures -->
-  <MAO_MechanoidStructures.label>структуры механоидов</MAO_MechanoidStructures.label>
+  <MAO_MechanoidStructures.label>структуры механоїдів</MAO_MechanoidStructures.label>
   <!-- EN: Research the ability to create powerful mechanoid structures, at a high cost. -->
-  <MAO_MechanoidStructures.description>Откройте возможность создавать мощнейшие структуры механоидов... за соответствующую цену.</MAO_MechanoidStructures.description>
+  <MAO_MechanoidStructures.description>Откройте возможность создавать мощнейшие структуры механоїдів... за соответствующую цену.</MAO_MechanoidStructures.description>
 
   <!-- EN: advanced drone assembly -->
   <MAO_AdvancedDroneAssembly.label>продвинутые дроны</MAO_AdvancedDroneAssembly.label>
