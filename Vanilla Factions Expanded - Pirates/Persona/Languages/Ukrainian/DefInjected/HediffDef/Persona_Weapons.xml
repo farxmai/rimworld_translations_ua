@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Voltrender Ability -->
+  <WP_VoltaicComboHD.label>Швкал ударів</WP_VoltaicComboHD.label>
+  <!-- EN: Powers the Voltaic Blitz ability. -->
+  <WP_VoltaicComboHD.description>Можливість використувувати Швкал ударів.</WP_VoltaicComboHD.description>
+
+  <!-- EN: Crustbreaker Ability -->
+  <WP_CrustbreakerAbilityHD.label>Тектонічний крах</WP_CrustbreakerAbilityHD.label>
+  <!-- EN: Gives the Tectonic Crush ability. -->
+  <WP_CrustbreakerAbilityHD.description>Можливість використувувати Тектонічний крах.</WP_CrustbreakerAbilityHD.description>
+
+  <!-- EN: Kyokatana Ability -->
+  <WP_KyokatanaAbilityHD.label>Палючий порив</WP_KyokatanaAbilityHD.label>
+  <!-- EN: Gives the Charge ability. -->
+  <WP_KyokatanaAbilityHD.description>Можливість використувувати Палючий порив.</WP_KyokatanaAbilityHD.description>
+  <!-- EN: Gives the Charge ability. -->
+  <WP_KyokatanaAbilityHD.descriptionCached>Можливість використувувати Палючий порив.</WP_KyokatanaAbilityHD.descriptionCached>
+
+  <!-- EN: Voltrender Ability -->
+  <WP_VoltrenderAbilityHD.label>Швкал ударів</WP_VoltrenderAbilityHD.label>
+  <!-- EN: Gives the Voltaic Blitz ability. -->
+  <WP_VoltrenderAbilityHD.description>Можливість використувувати Швкал ударів.</WP_VoltrenderAbilityHD.description>
+  <!-- EN: Gives the Voltaic Blitz ability. -->
+  <WP_VoltrenderAbilityHD.descriptionCached>Можливість використувувати Швкал ударів.</WP_VoltrenderAbilityHD.descriptionCached>
+
+</LanguageData>

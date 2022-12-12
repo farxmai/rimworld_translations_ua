@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mote -->
+  <Mote_WhiteHotBurn.label>пил</Mote_WhiteHotBurn.label>
+
+  <!-- EN: bifurcator -->
+  <WP_Bifurcator.label>розгалужувач плоті</WP_Bifurcator.label>
+  <!-- EN: A massive Monoblade axe, designed for the loyal guardians of noble families. The Bifurcator shares many similarities with the prestigious Monosword, however this design was made for the titanic hands of a Warcasket. Fitted with a double-bladed cutting edge, with an additional mechanite housing for doubled blade efficiency, this massive hunk of Glitterworld perfection carves its will through even the thickest of armor, with the weight of each swing cleanly splitting whatever lies beneath. Its name is not hyperbole, it is a promise. -->
+  <WP_Bifurcator.description>Масивна моносокира, створена для вірних захистників знатних родин. Біфуркатор багато в чому подібний до престижного мономеча, однак цей дизайн був створений для титанічних рук бойової оболонки. Оснащений ріжучою кромкою з подвійним лезом і додатковим корпусом з механітовим покриттям для подвоєної ефективності леза, цей величезний шматок досконалості прорізає свою волю навіть у найтовстішій броні, при цьому вага кожного помаху чітко розколює все, що лежить під ним. Його назва не гіпербола, це обіцянка.</WP_Bifurcator.description>
+  <!-- EN: blade -->
+  <WP_Bifurcator.tools.blade.label>лезо</WP_Bifurcator.tools.blade.label>
+
+  <!-- EN: crustbreaker -->
+  <WP_Crustbreaker.label>руйнівник панцирів</WP_Crustbreaker.label>
+  <!-- EN: An absolutely titanic ultratech hammer. Especially good at crushing insectoids. It can be slammed into the ground to cause a conic shockwave, knocking back every pawn in a direction and throwing shrapnel. -->
+  <WP_Crustbreaker.description>Абсолютно титанічний ультратехнологічний молот. Особливо добре справляється з подрібненням комах. Його можна вдарити об землю, щоб спричинити конічну ударну хвилю, відкидаючи кожного пішака в певному напрямку та викидаючи осколки.</WP_Crustbreaker.description>
+  <!-- EN: head -->
+  <WP_Crustbreaker.tools.head.label>ударна частина</WP_Crustbreaker.tools.head.label>
+
+  <!-- EN: kyokatana -->
+  <WP_Kyokatana.label>плзмокатана</WP_Kyokatana.label>
+  <!-- EN: A pinnacle of Glitterworld craftwork, gilded with filigree by the nobles who eagerly employ its usage. The Kyokatana is a heavily upgraded descendant of the iconic Plasmablade, scaled and built from the ground up for the hands of a Warcasket. With the edge being heated to well above 13,000 degrees Fahrenheit, the blade of this ceremonial weapon is universally feared. It comes as no surprise that the weapon itself is seen by many groups as a masterwork of Glitter-era blade-smithing, as its capacity to be both light as a gentle dove, yet ferocious as a wrathful dragon, has warranted reverence. Only the most tactful and devout warriors within a noble's honor guard are ever seen wielding this weapon, for it is not bestowed lightly. -->
+  <WP_Kyokatana.description>Вершина ремісничої роботи майстрів утопічних світів, філігранно позолочена для особливо примхливих вельмож, які охоче використовують її. Це значно оновлений нащадок культового плазмового меча, масштабований і створений з нуля для рук бойової оболнки. Оскільки лезо цієї церемоніальної зброї нагріте до температури значно вище 7200℃, лезо цієї церемоніальної зброї викликає побоювання. Не дивно, що сама зброя розглядається багатьма групами як шедевр ковальської справи, оскільки її здатність бути водночас легкою, як пташка, і водночас лютою, як дракон, заслужила повагу. Лише найтактовніших і найвідданіших воїнів із почесної варти знаті можна помітити, володіючих цією зброєю, оскільки її не дарують легковажно.</WP_Kyokatana.description>
+  <!-- EN: point -->
+  <WP_Kyokatana.tools.point.label>вістря</WP_Kyokatana.tools.point.label>
+  <!-- EN: blade -->
+  <WP_Kyokatana.tools.blade.label>лезо</WP_Kyokatana.tools.blade.label>
+
+  <!-- EN: voltrender -->
+  <WP_Voltrender.label>вольтрендер</WP_Voltrender.label>
+  <!-- EN: The low hum from the charged blade of this titanic greatsword imbues a deep-seeded fear into even the most capable and desensitized fighters on the Rim. Prototyped during the Skycrash Endeavor of 5233, the Voltsunder was made as direct retaliation to the mass-invasion of Mechanoid forces seeking to take over the home planet of several noble houses. The design was handed down to the Archon Templars, a devout caste of early Warcasket warriors from many walks of life, as the acts of heroism and prowess displayed throughout the Steel Crusade gave the blade a legendary status. Seen by many as an icon of freedom and rebellion from the ever-fastening grip of the Mechanoid menace, the charged core of this high-voltage blade revokes the privelege of life from even the grandest of machines. -->
+  <WP_Voltrender.description>Тихий гул зарядженого леза цього титанічно великого меча вселяє глибоко вкорінений страх навіть у найздібніших і нечутливих бійців на Краї. Прототип цієї зброї був створений під-час механоїдних воєн, щоб запобігти захопленню рідної планети кількох дворянських родів. Дизайн був переданий тамплієрам архонтів, побожній касті ранніх воїнів, що використовували бойові оболонки, з багатьох верств суспільства, оскільки акти героїзму та доблесті, виявлені під час Сталевого хрестового походу, надали клинку легендарний статус. Заряджене ядро цього високовольтного клинка, яке багато хто вважає іконою свободи та повстання від постійно зростаючої загрози механоїдів, позбавляє привілею життя навіть у найвеличніших машин.</WP_Voltrender.description>
+  <!-- EN: blade -->
+  <WP_Voltrender.tools.blade.label>лезо</WP_Voltrender.tools.blade.label>
+
+</LanguageData>

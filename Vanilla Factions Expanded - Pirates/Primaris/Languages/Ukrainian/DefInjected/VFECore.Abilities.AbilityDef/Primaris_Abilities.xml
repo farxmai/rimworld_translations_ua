@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Rallying cry -->
+  <Primaris_RallyingCry.label>Надихаючий клич</Primaris_RallyingCry.label>
+  <!-- EN: Amplify your voice and give a rallying cry, greatly boosting the morale and combat skills of nearby allies for 12 hours. Onboard amplification modules link to the user's vocal cords, allowing them to deliver an inspiring rallying cry to troops in range. Naturally, a better speaker can inspire more but microprocessors help even the most inept socialite to ignite a fervour. The effect boosts morale, reduces  fatigue and improves accuracy and aiming time. -->
+  <Primaris_RallyingCry.description>Напружити голосові зв'язки і видати клич, здатний навіяти впевненість союзникам навколо, покращуючи їхню мораль і бойові навички на найближчі 12 годин. Вокс-підсилювачі броні роблять цей клич чутним на значній відстані. Зрозуміло, більш майстерний оратор може ефективніше користуватися цією здатністю, але вбудовані в броню мікропроцесори уможливлюють використання цієї здібності навіть далеко не самих харизматичних лідерів. Ефект від клічу покращує мораль, знімає втому, покращує точність та зменшує час прицілювання в бою.</Primaris_RallyingCry.description>
+
+
+</LanguageData>

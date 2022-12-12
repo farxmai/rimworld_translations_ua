@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: flying -->
+  <WP_CuttingDashFlyer.label>політ</WP_CuttingDashFlyer.label>
+
+  <!-- EN: _ -->
+  <WP_ProjectileBlank.label>.</WP_ProjectileBlank.label>
+
+  <!-- EN: shockwave -->
+  <WP_ProjectileTectonicShockwave.label>ударна хвиля</WP_ProjectileTectonicShockwave.label>
+
+  <!-- EN: tectonic shrapnel -->
+  <WP_ProjectileTectonicShrapnel.label>тектонічна шрапнель</WP_ProjectileTectonicShrapnel.label>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Voltaic Attack Speed -->
+  <WP_VoltaicAttackSpeedHD.label>Швидкість вольтової атаки</WP_VoltaicAttackSpeedHD.label>
+  <!-- EN: Manages attack speed through the Voltrender's combo ability. -->
+  <WP_VoltaicAttackSpeedHD.description>Керує швидкістю атаки за допомогою комбо-здатності Волтрендера.</WP_VoltaicAttackSpeedHD.description>
+
+  <!-- EN: voltrender's shock -->
+  <WP_VoltrenderHeartAttackGiver.label>вольтовий шок</WP_VoltrenderHeartAttackGiver.label>
+  <!-- EN: Getting struck by a Voltrender several times causes heart attacks. -->
+  <WP_VoltrenderHeartAttackGiver.description>Кілька ударів Вольтрендером викликає серцеві напади.</WP_VoltrenderHeartAttackGiver.description>
+
+</LanguageData>

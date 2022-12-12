@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tectonic Crash -->
+  <WP_CrustbreakerAbility.label>Тектонічний крах</WP_CrustbreakerAbility.label>
+  <!-- EN: Slam the tectonic head of your hammer into the earth, using the very ground you stand on to throw your adversaries onto the ground, or into their graves. -->
+  <WP_CrustbreakerAbility.description>Вдарте тектонічною головою свого молота в землю, використовуючи саму землю, на якій стоїте, щоб кинути своїх супротивників на землю або в їхні могили.</WP_CrustbreakerAbility.description>
+
+  <!-- EN: Searing Rush -->
+  <WP_KyokatanaAbility2.label>Палючий порив</WP_KyokatanaAbility2.label>
+  <!-- EN: Steady your weapon for a moment to superheat the blade, before going forth to render the oppositions' armor useless. -->
+  <WP_KyokatanaAbility2.description>Заспокойте свою зброю на мить, щоб перегріти клинок, перш ніж розрізати броню противника як ніж масло.</WP_KyokatanaAbility2.description>
+
+  <!-- EN: Voltaic Blitz -->
+  <WP_VoltrenderAbility.label>Швкал ударів</WP_VoltrenderAbility.label>
+  <!-- EN: Bear down on your enemies with a flurry of slashes that leaves them reeling and weakened for a merciless finisher. -->
+  <WP_VoltrenderAbility.description>Знищуйте своїх ворогів шквалом ударів, які змушують їх хитатися та ослабляти свою оборону для нещадного добивання.</WP_VoltrenderAbility.description>
+
+</LanguageData>

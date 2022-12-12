@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Primaris_Warcasket.label>оболонка «Прімарис»</Primaris_Warcasket.label>
+  <Primaris_Warcasket.description>Спеціалізований комплект бойової оболонки космічного технологічного рівня, що має середні захисні характеристики та обладнаний модуляторами голосу. Ця броня здатна захистити свого власника як від отруйних речовин, і від псіонічного впливу. Також цей комплект броні повністю герметичний, що робить його придатним для використання у космосі.\n\nЦя дорога модифікація броні космічної піхоти була створена спеціально для її лідерів та високопосадовців, щоб вони могли підтримувати мораль серед особового складу. З вбудованими в шолом модуляторами голосу, вона дозволяє своєму власнику видавати бойовий клич, що надихає союзників у бою.</Primaris_Warcasket.description>
+
+  <!-- EN:<Primaris_Warcasket.label>Броня мертвеца "Примарис"Primaris warcasket</Primaris_Warcasket.label>
+  <Primaris_Warcasket.description>Specialized space-tech warcasket shell with standard protection,equipped with social high-amplifiers. The complete suit of armor provides the user with full toxic and psychic protection, as well as allows them to maintain suit pressure in space.
+This costly upgraded marine shell was designed to be worn by leaders and high ranked, capable of maintaining the moral of the troops on the front. With incorporated advanced amplifiers it can deliver inspiring cries during battle, boosting the combat capabilities of those near.</Primaris_Warcasket.description> -->
+
+  <Primaris_WarcasketShoulders.label>наплічники оболонки «Прімарис»</Primaris_WarcasketShoulders.label>
+  <Primaris_WarcasketShoulders.description>Спеціалізований наплічники бойової оболонки космічного технологічного рівня, що має середні захисні характеристики та обладнаний модуляторами голосу. Ця броня здатна захистити свого власника як від отруйних речовин, і від псіонічного впливу. Також цей комплект броні повністю герметичний, що робить його придатним для використання у космосі.</Primaris_WarcasketShoulders.description>
+
+  <!-- EN:<Primaris_WarcasketShoulders.label>Primaris warcasket shoulders</Primaris_WarcasketShoulders.label>
+  <Primaris_WarcasketShoulders.description>Specialized space-tech warcasket shoulders with standard protection, equipped with social high-amplifiers. The complete suit of armor provides the user with full toxic and psychic protection, as well as allows them to maintain suit pressure in space.</Primaris_WarcasketShoulders.description> -->
+
+  <Primaris_WarcasketHelmet.label>шолом оболонки «Прімарис»</Primaris_WarcasketHelmet.label>
+  <Primaris_WarcasketHelmet.description>Спеціалізований шолом бойової оболонки космічного технологічного рівня, що має середні захисні характеристики та обладнаний модуляторами голосу. Ця броня здатна захистити свого власника як від отруйних речовин, і від псіонічного впливу. Також цей комплект броні повністю герметичний, що робить його придатним для використання у космосі.</Primaris_WarcasketHelmet.description>
+
+  <!-- EN:<Primaris_WarcasketHelmet.label>Primaris warcasket helmet</Primaris_WarcasketHelmet.label>
+  <Primaris_WarcasketHelmet.description>Specialized space-tech warcasket helmet with standard protection, equipped with social high-amplifiers. The complete suit of armor provides the user with full toxic and psychic protection, as well as allows them to maintain suit pressure in space.</Primaris_WarcasketHelmet.description> -->
+
+  <Primaris_LieutenantWarcasketHelmet.label>шолом оборонки «Прімарис» (лейт.)</Primaris_LieutenantWarcasketHelmet.label>
+  <Primaris_LieutenantWarcasketHelmet.description>Шолом призначений для високопоставлених офіцерів космічної піхоти. Прикрашений невеликим золотим черепом — цей шолом є найвищою нагородою, яку солдат може отримати за роки служби.</Primaris_LieutenantWarcasketHelmet.description>
+  <!-- EN:<Primaris_LieutenantWarcasketHelmet.label>Warcasket P.Lieutenant Helmet</Primaris_LieutenantWarcasketHelmet.label>
+  <Primaris_LieutenantWarcasketHelmet.description>A helmet destined to the high-ranking lieutenants within the marines. Decorated with a small golden skull, this reinforced primaris helmet is the highest distinction a soldier can receive and a solidified proof of their years of service.</Primaris_LieutenantWarcasketHelmet.description> -->
+
+</LanguageData>

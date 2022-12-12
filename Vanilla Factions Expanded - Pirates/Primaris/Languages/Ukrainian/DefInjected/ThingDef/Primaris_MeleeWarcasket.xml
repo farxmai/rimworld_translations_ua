@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_WarcasketMeleeWeapon_PowerSword.label>великогабаритний силовий меч</VFEP_WarcasketMeleeWeapon_PowerSword.label>
+  <VFEP_WarcasketMeleeWeapon_PowerSword.description>Важкий оздоблений золотом меч, оповитий привидним сяйвом енергетичного поля, що дозволяє клинку з однаковою легкістю різати як плоть, так і пласталь. Спочатку призначений як зброя для космодесантників, що особливо відзначилися, досить швидко став рідкістю в умовах безперервних воєн між зоряними системами.</VFEP_WarcasketMeleeWeapon_PowerSword.description>
+  <VFEP_WarcasketMeleeWeapon_PowerSword.tools.0.label>рукоять</VFEP_WarcasketMeleeWeapon_PowerSword.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_PowerSword.tools.1.label>вістря</VFEP_WarcasketMeleeWeapon_PowerSword.tools.1.label>
+  <VFEP_WarcasketMeleeWeapon_PowerSword.tools.2.label>лезо</VFEP_WarcasketMeleeWeapon_PowerSword.tools.2.label>
+  <!-- EN:
+warcasket power sword
+
+ A heavy gilded sword coated in a corona of disruptive energy. This field allows the blade to carve through bones, flesh and plasteel with ease. Originally wielded by high graded space marines, it quickly became a rarity after the wars raging within the systems.-->
+
+
+  <VFEP_WarcasketMeleeWeapon_ChainSword.label>великогабаритний пиломеч</VFEP_WarcasketMeleeWeapon_ChainSword.label>
+  <VFEP_WarcasketMeleeWeapon_ChainSword.description>Меч з однією ріжучою кромкою, вздовж якої розташований ряд гострих зубів. Один вид цієї зброї вселяє страх тим, хто чує його звук і справжній жах тим, хто ось-ось буде безжально розірваний на частини зубами пиломета.</VFEP_WarcasketMeleeWeapon_ChainSword.description>
+  <VFEP_WarcasketMeleeWeapon_ChainSword.tools.0.label>рукоять</VFEP_WarcasketMeleeWeapon_ChainSword.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_ChainSword.tools.1.label>вістря</VFEP_WarcasketMeleeWeapon_ChainSword.tools.1.label>
+  <VFEP_WarcasketMeleeWeapon_ChainSword.tools.2.label>лезо</VFEP_WarcasketMeleeWeapon_ChainSword.tools.2.label>
+
+
+</LanguageData>

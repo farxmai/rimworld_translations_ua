@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--/Defs/Apparel_Various.xml-->
+  <!-- EMP launcher shell -->
+  <WC_Bullet_EMPLauncher.label>ЭМІ-снаряд</WC_Bullet_EMPLauncher.label>
+  <!-- smoke launcher shell -->
+  <WC_Bullet_SmokeLauncher.label>димовий снаряд</WC_Bullet_SmokeLauncher.label>
+
+</LanguageData>
