@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: carpenter -->
-  <VFE_AncientMech_AncientCarpenter.label>плотник</VFE_AncientMech_AncientCarpenter.label>
+  <VFE_AncientMech_AncientCarpenter.label>тесляр</VFE_AncientMech_AncientCarpenter.label>
   <!-- EN: A lurching, quadrupedal utility mechanoid with thick armor meant to absorb enemy fire while rapidly dissembling enemy fortifications using simple sledges and drills. Infantry present during the mechanoid wars were known to assemble decoy pillboxes or barricades as the carpenter mechanoids could not distinguish between them and structures being actively used. -->
   <VFE_AncientMech_AncientCarpenter.description>Неуклюжий четвероногий механоїд поддержки, разбирающий вражеские укрепления при помощи простых кувалд и дрелей не обращая внимания на стрельбу вокруг. Пехота времён механоїдных войн, собирала ложные доты или баррикады, поскольку плотники не могли отличить их от настоящих сооружений.</VFE_AncientMech_AncientCarpenter.description>
   <!-- EN: front left leg -->

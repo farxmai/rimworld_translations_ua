@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: advanced centipede -->
-  <VFE_Mech_AdvancedCentipede.label>продвинутая сентипеда</VFE_Mech_AdvancedCentipede.label>
+  <VFE_Mech_AdvancedCentipede.label>просунута сентипеда</VFE_Mech_AdvancedCentipede.label>
   <!-- EN: An even heavier, more armored version of the Centipede mechanoid propelled by hundreds of tiny legs as well. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover before attempting to break lines of defense. -->
-  <VFE_Mech_AdvancedCentipede.description>Ещё более тяжёлая, более бронированная версия сентипеды, приводимая в движение сотнями крошечных ножек. В отличие от более ранних и менее продвинутых моделей, эта бойова единица гораздо более разумна и будет стараться искать укрытия, прежде чем прорывать линию обороны.</VFE_Mech_AdvancedCentipede.description>
+  <VFE_Mech_AdvancedCentipede.description>Ще більш важка, більш броньована версія сентипеди, що рухається сотнями крихітних ніжок. На відміну від більш ранніх і менш розвинених моделей, ця боєва одиниця набагато розумніша і намагатиметься шукати укриття, перш ніж проривати лінію оборони.</VFE_Mech_AdvancedCentipede.description>
   <!-- EN: head -->
   <VFE_Mech_AdvancedCentipede.tools.head.label>голова</VFE_Mech_AdvancedCentipede.tools.head.label>
 
   <!-- EN: advanced lancer -->
-  <VFE_Mech_AdvancedLancer.label>продвинутый улан</VFE_Mech_AdvancedLancer.label>
+  <VFE_Mech_AdvancedLancer.label>просунутий списник</VFE_Mech_AdvancedLancer.label>
   <!-- EN: A freshly manufactured and heavily upgraded long-range infantry mechanoid. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover and prove to be a much more challenging opponent in melee combat. -->
-  <VFE_Mech_AdvancedLancer.description>Свежесобранный и сильно модернизированный пехотный механоїд дальнего действия. В отличие от более ранних и менее продвинутых моделей, эта бойова единица гораздо более разумна и будет стараться искать укрытия, прежде чем стать гораздо более сложным противником в ближнем бою.</VFE_Mech_AdvancedLancer.description>
+  <VFE_Mech_AdvancedLancer.description>Свіжозібраний та сильно модернізований піхотний механоїд дальньої дії. На відміну від більш ранніх і менш просунутих моделей, ця боєва одиниця набагато розумніша і намагатиметься шукати укриття, перш ніж стати набагато складнішим противником у ближньому бою.</VFE_Mech_AdvancedLancer.description>
   <!-- EN: left fist -->
   <VFE_Mech_AdvancedLancer.tools.left_fist.label>лівий кулак</VFE_Mech_AdvancedLancer.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -19,9 +19,9 @@
   <VFE_Mech_AdvancedLancer.tools.head.label>голова</VFE_Mech_AdvancedLancer.tools.head.label>
 
   <!-- EN: advanced knight -->
-  <VFE_Mech_AdvancedKnight.label>продвинутый витязь</VFE_Mech_AdvancedKnight.label>
+  <VFE_Mech_AdvancedKnight.label>просунутий лицар</VFE_Mech_AdvancedKnight.label>
   <!-- EN: One of two heavy infantry mechanoids equipped with multiple upgrades. This particular Knight variant appears to have an overclocked power cell, allowing quicker movement and a stronger energy shield. Like it’s unupgraded variant, the Knight comes equipped with a devastating burst-fire charge blaster, although its targeting module appears to be much more advanced. -->
-  <VFE_Mech_AdvancedKnight.description>Один из двух тяжёлых пехотных механоїдів, оснащённых множеством улучшений. Этот вариант витязя имеет разогнанную силовую ячейку, позволяющую быстрее двигаться и делающую энергетический щит крепче. Как и его неулучшенный вариант, витязь оснащён разрушительным бластером, но его модуль наведения кажется гораздо более продвинутым.</VFE_Mech_AdvancedKnight.description>
+  <VFE_Mech_AdvancedKnight.description>Один із двох важких піхотних механоїдів, оснащених безліччю покращень. Цей варіант витязя має розігнаний силовий осередок, що дозволяє швидше рухатися і робить енергетичний щит міцнішим. Як і його невдосконалений варіант, цей лицар оснащений руйнівним бластером, але його модуль наведення здається набагато більш просунутим.</VFE_Mech_AdvancedKnight.description>
   <!-- EN: left fist -->
   <VFE_Mech_AdvancedKnight.tools.left_fist.label>лівий кулак</VFE_Mech_AdvancedKnight.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -30,9 +30,9 @@
   <VFE_Mech_AdvancedKnight.tools.head.label>голова</VFE_Mech_AdvancedKnight.tools.head.label>
 
   <!-- EN: advanced inquisitor -->
-  <VFE_Mech_AdvancedInquisitor.label>продвинутый инквизитор</VFE_Mech_AdvancedInquisitor.label>
+  <VFE_Mech_AdvancedInquisitor.label>просунутий інквізитор</VFE_Mech_AdvancedInquisitor.label>
   <!-- EN: One of two heavy infantry mechanoids equipped with multiple upgrades. Despite much larger chemfuel tanks this variant of the Inquisitor mech is somehow quicker than its counterpart. Less than a dozen encounters with this mechanoid have ever been reported and less than half of those have ended in victory. This Inquisitor not only rushes priority targets with plumes of fire but also is installed with a much more deadly explosive fail-safe system that both detonates the machine but also engulfs targets nearby in chemfuel fire. -->
-  <VFE_Mech_AdvancedInquisitor.description>Один из двух тяжёлых пехотных механоїдів, оснащенных множеством улучшений. Несмотря на гораздо большие баки с химическим топливом, этот вариант инквизитора каким-то образом быстрее, чем его аналог. Есть информация о менее чем дюжине столкновений с этим механоїдом, и лишь меньше половины из них закончились победой. Инквизитор не только бросается на приоритетные цели с огненными шлейфами, но и имеет с гораздо более смертоносной взрывной системой взрыва после смерти, которая одновременно взрывает машину и поглощает цели в округе огнём химтоплива.</VFE_Mech_AdvancedInquisitor.description>
+  <VFE_Mech_AdvancedInquisitor.description>Один із двох важких піхотних механоїдів, оснащених безліччю покращень. Незважаючи на набагато більші баки з хімічним паливом, цей варіант інквізитора якимось чином швидший, ніж його аналог. Є інформація про менш ніж дюжину зіткнень із цим механоїдом, і лише менше половини з них закінчилися перемогою. Інквізитор не тільки кидається на пріоритетні цілі з вогненними шлейфами, але й має набагато більш смертоносну вибухову систему вибуху після смерті, яка одночасно підриває машину і поглинає цілі навколо вогнем хімпалива.</VFE_Mech_AdvancedInquisitor.description>
   <!-- EN: left fist -->
   <VFE_Mech_AdvancedInquisitor.tools.left_fist.label>лівий кулак</VFE_Mech_AdvancedInquisitor.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -41,20 +41,20 @@
   <VFE_Mech_AdvancedInquisitor.tools.head.label>голова</VFE_Mech_AdvancedInquisitor.tools.head.label>
 
   <!-- EN: advanced scyther -->
-  <VFE_Mech_AdvancedScyther.label>продвинутый жнец</VFE_Mech_AdvancedScyther.label>
+  <VFE_Mech_AdvancedScyther.label>просунутий жнець</VFE_Mech_AdvancedScyther.label>
   <!-- EN: A dense, spindly and very intelligent scyther unit that appears to be freshly manufactured with additional upgrades. This unit appears to utilize anti-gravity properties to propel itself much quicker than its ancient versions, as well as superheat its bladed arm attachments to more readily cut through flesh and metal alike. -->
-  <VFE_Mech_AdvancedScyther.description>Плотный, долговязый и очень умный жнец, который, похоже, был недавно изготовлен с дополнительными улучшениями. Он использует антигравитационные свойства, чтобы двигаться гораздо быстрее, чем более ранние модели, а также перегревать свои клинки, чтобы легче разрезать плоть и металл.</VFE_Mech_AdvancedScyther.description>
+  <VFE_Mech_AdvancedScyther.description>Щільний, довготелесий і дуже розумний жнець, який, схоже, нещодавно був виготовлений з додатковими поліпшеннями. Він використовує антигравітаційні властивості, щоб рухатися набагато швидше, ніж ранішні моделі, а також перегрівати свої клинки, щоб легше розрізати плоть і метал.</VFE_Mech_AdvancedScyther.description>
   <!-- EN: left blade -->
-  <VFE_Mech_AdvancedScyther.tools.left_blade.label>лівий клинок</VFE_Mech_AdvancedScyther.tools.left_blade.label>
+  <VFE_Mech_AdvancedScyther.tools.left_blade.label>ліве лезо</VFE_Mech_AdvancedScyther.tools.left_blade.label>
   <!-- EN: right blade -->
-  <VFE_Mech_AdvancedScyther.tools.right_blade.label>правий клинок</VFE_Mech_AdvancedScyther.tools.right_blade.label>
+  <VFE_Mech_AdvancedScyther.tools.right_blade.label>праве лезо</VFE_Mech_AdvancedScyther.tools.right_blade.label>
   <!-- EN: head -->
   <VFE_Mech_AdvancedScyther.tools.head.label>голова</VFE_Mech_AdvancedScyther.tools.head.label>
 
   <!-- EN: advanced pikeman -->
-  <VFE_Mech_AdvancedPikeman.label>продвинутый драгун</VFE_Mech_AdvancedPikeman.label>
+  <VFE_Mech_AdvancedPikeman.label>просунутий пікінер</VFE_Mech_AdvancedPikeman.label>
   <!-- EN: A multi-legged combat mechanoid specialized as a long-range weapons platform. This particular unit appears to have been upgraded with additional limbs for quicker movement as well as a layer of roach-like carapace plates for extra defense against melee combatants. -->
-  <VFE_Mech_AdvancedPikeman.description>Многоногий бойовий механоїд, специализировавшийся для ведения огня из дальнобойного оружия. Эта модель была оснащена дополнительными конечностями для более быстрого передвижения, а также слоем панцирных пластин, похожих на тараканьи, для дополнительной защиты в ближнем бою.</VFE_Mech_AdvancedPikeman.description>
+  <VFE_Mech_AdvancedPikeman.description>Багатоногий бойовий механоїд, що спеціалізувався для ведення вогню із далекобійної зброї. Ця модель була оснащена додатковими кінцівками для швидшого пересування, а також шаром панцирних пластин, схожих на тарганини, для додаткового захисту у ближньому бою.</VFE_Mech_AdvancedPikeman.description>
   <!-- EN: front left leg -->
   <VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>передня ліва нога</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
@@ -63,9 +63,9 @@
   <VFE_Mech_AdvancedPikeman.tools.head.label>голова</VFE_Mech_AdvancedPikeman.tools.head.label>
 
   <!-- EN: advanced carpenter -->
-  <VFE_Mech_AdvancedCarpenter.label>продвинутый плотник</VFE_Mech_AdvancedCarpenter.label>
+  <VFE_Mech_AdvancedCarpenter.label>просунутий тесляр</VFE_Mech_AdvancedCarpenter.label>
   <!-- EN: An upgraded version of the utility “Carpenter” mechanoid. Set apart from its prior iterations this version of the carpenter mechanoid not only moves faster but also utilizes plasma torches and omnitools to nearly instantly dissemble all risk-posing structures. Compounded with possibly the heaviest armor of all mechanoids this unit needs to be prioritized before reaching the enemy frontline. Finally, should this mechanoid detect that it is about to cease function an EMP shock is emitted that temporarily disables all nearby electronics in a last-ditch effort to break the frontline for its allies.-->
-  <VFE_Mech_AdvancedCarpenter.description>Модернизированная версия плотника. В отличие от своих предыдущих итераций, эта версия плотника не только движется быстрее, но и использует плазменные горелки и универсальные инструменты, чтобы почти мгновенно разобрать все представляющие угрозу структуры. В сочетании с, возможно, самой тяжёлой броней среди всех механоїдів, этот механоїд должен быть приоритетной целью в волне наступающих врагов. И ещё, если этот механоїд обнаружит, что он вот-вот перестанет функционировать, то активирует ЭМИ-заряд, который временно отключит всю близлежащую электронику в последней попытке помочь союзникам прорвать линию фронта.</VFE_Mech_AdvancedCarpenter.description>
+  <VFE_Mech_AdvancedCarpenter.description>Модернізована версія тесляра. На відміну від своїх попередніх ітерацій, ця версія тесляра не тільки рухається швидше, але й використовує плазмові пальники та універсальні інструменти, щоб майже миттєво розібрати всі структури, що становлять загрозу. У поєднанні з, можливо, найважчою бронею серед усіх механоїдів, цей механоїд має бути пріоритетною метою у хвилі ворогів, що наступають. І ще, якщо цей механоїд виявить, що він ось-ось перестане функціонувати, то активує ЕМІ-заряд, який тимчасово відключить усю найближчу електроніку в останній спробі допомогти союзникам прорвати лінію фронту.</VFE_Mech_AdvancedCarpenter.description>
   <!-- EN: front left leg -->
   <VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>передня ліва нога</VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>
   <!-- EN: front right leg -->
@@ -74,9 +74,9 @@
   <VFE_Mech_AdvancedCarpenter.tools.head.label>голова</VFE_Mech_AdvancedCarpenter.tools.head.label>
 
   <!-- EN: advanced carpenter -->
-  <VFE_Mech_AdvTermite.label>продвинутый термит</VFE_Mech_AdvTermite.label>
+  <VFE_Mech_AdvTermite.label>просунутий терміт</VFE_Mech_AdvTermite.label>
   <!-- EN: A heavy, large-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. Unlike the simple models, advanced termites carry a much more powerful cannon that’s just as effective against structures as it is against organic enemies. -->
-  <VFE_Mech_AdvTermite.description>Большой и важкий механоїд, специализирующийся на рытье туннелей, подкопах и прорыве сквозь оборонительные сооружения. Защитникам остаётся лишь решить, попытаться ли уничтожить термита до того, как он прорвётся или встретить его там, где он появится. По сравнению с обычным термитом, продвинутая модель оснащена мощным оружием, которое эффективно, как против зданий, так и против живой силы.</VFE_Mech_AdvTermite.description>
+  <VFE_Mech_AdvTermite.description>Великий і важкий механоїд, що спеціалізується на копанні тунелів, підкопах та прориві крізь оборонні споруди. Захисникам залишається лише вирішити, спробувати знищити терміта до того, як він прорветься або зустріти його там, де він з'явиться. У порівнянні зі звичайним термітом, просунута модель оснащена потужною зброєю, яка ефективна як проти будівель, так і проти живої сили.</VFE_Mech_AdvTermite.description>
   <!-- EN: head -->
   <VFE_Mech_AdvTermite.tools.0.label>голова</VFE_Mech_AdvTermite.tools.0.label>
 </LanguageData>

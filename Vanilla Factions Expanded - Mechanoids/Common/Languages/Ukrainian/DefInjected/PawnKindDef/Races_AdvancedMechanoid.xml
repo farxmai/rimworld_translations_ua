@@ -6,8 +6,8 @@
   <VFE_Mech_AdvancedCentipede.labelPlural>просунуті сентипеди</VFE_Mech_AdvancedCentipede.labelPlural>
 
   <!-- EN: advanced lancer -->
-  <VFE_Mech_AdvancedLancer.label>просунутий улан</VFE_Mech_AdvancedLancer.label>
-  <VFE_Mech_AdvancedLancer.labelPlural>просунуті улани</VFE_Mech_AdvancedLancer.labelPlural>
+  <VFE_Mech_AdvancedLancer.label>просунутий списник</VFE_Mech_AdvancedLancer.label>
+  <VFE_Mech_AdvancedLancer.labelPlural>просунуті списники</VFE_Mech_AdvancedLancer.labelPlural>
 
   <!-- EN: advanced knight -->
   <VFE_Mech_AdvancedKnight.label>просунутий лицар</VFE_Mech_AdvancedKnight.label>
@@ -22,12 +22,12 @@
   <VFE_Mech_AdvancedScyther.labelPlural>просунуті жнеці</VFE_Mech_AdvancedScyther.labelPlural>
 
   <!-- EN: advanced pikeman -->
-  <VFE_Mech_AdvancedPikeman.label>просунутий драгун</VFE_Mech_AdvancedPikeman.label>
-  <VFE_Mech_AdvancedPikeman.labelPlural>просунуті драгуни</VFE_Mech_AdvancedPikeman.labelPlural>
+  <VFE_Mech_AdvancedPikeman.label>просунутий пікінер</VFE_Mech_AdvancedPikeman.label>
+  <VFE_Mech_AdvancedPikeman.labelPlural>просунуті пікінери</VFE_Mech_AdvancedPikeman.labelPlural>
 
   <!-- EN: advanced carpenter -->
-  <VFE_Mech_AdvancedCarpenter.label>просунутий плотник</VFE_Mech_AdvancedCarpenter.label>
-  <VFE_Mech_AdvancedCarpenter.labelPlural>просунуті плотники</VFE_Mech_AdvancedCarpenter.labelPlural>
+  <VFE_Mech_AdvancedCarpenter.label>просунутий тесляр</VFE_Mech_AdvancedCarpenter.label>
+  <VFE_Mech_AdvancedCarpenter.labelPlural>просунуті теслярі</VFE_Mech_AdvancedCarpenter.labelPlural>
 
   <!-- EN: advanced termite -->
   <VFE_Mech_AdvTermite.label>просунутий терміт</VFE_Mech_AdvTermite.label>

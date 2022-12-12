@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <!-- EN: autocleaner -->
   <VFE_Mechanoids_Autocleaner.label>авто-прибиральник</VFE_Mechanoids_Autocleaner.label>
   <VFE_Mechanoids_Autocleaner.labelPlural>авто-прибиральники</VFE_Mechanoids_Autocleaner.labelPlural>
@@ -10,8 +10,8 @@
   <VFE_Mechanoids_Autohauler.labelPlural>авто-носії</VFE_Mechanoids_Autohauler.labelPlural>
 
   <!-- EN: autominer -->
-  <VFE_Mechanoids_Autominer.label>авто-видобувальник</VFE_Mechanoids_Autominer.label>
-  <VFE_Mechanoids_Autominer.labelPlural>авто-видобувальники</VFE_Mechanoids_Autominer.labelPlural>
+  <VFE_Mechanoids_Autominer.label>авто-шахтар</VFE_Mechanoids_Autominer.label>
+  <VFE_Mechanoids_Autominer.labelPlural>авто-шахтарі</VFE_Mechanoids_Autominer.labelPlural>
 
   <!-- EN: combat mechanoid -->
   <VFE_Mechanoids_Combat.label>авто-стрілець</VFE_Mechanoids_Combat.label>

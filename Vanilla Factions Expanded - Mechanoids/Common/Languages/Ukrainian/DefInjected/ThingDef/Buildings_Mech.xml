@@ -81,9 +81,9 @@
   <VFE_Turret_ChargeLanceCannon.description>Энергетическое орудие точечной защиты. Стреляет заряженными снарядами на дальние дистанции. Является частью большого корабля механоїдів.</VFE_Turret_ChargeLanceCannon.description>
 
   <!-- EN: charge lance -->
-  <VFE_Gun_ChargeLanceCannon.label>энергокопьё</VFE_Gun_ChargeLanceCannon.label>
+  <VFE_Gun_ChargeLanceCannon.label>енергоспис</VFE_Gun_ChargeLanceCannon.label>
   <!-- EN: A mechanoid-tech charge lance. -->
-  <VFE_Gun_ChargeLanceCannon.description>Энергокопьё механоїдів.</VFE_Gun_ChargeLanceCannon.description>
+  <VFE_Gun_ChargeLanceCannon.description>енергоспис механоїдів.</VFE_Gun_ChargeLanceCannon.description>
 
   <!-- EN: trooper storage -->
   <VFE_TrooperStorage.label>хранилище десанта</VFE_TrooperStorage.label>

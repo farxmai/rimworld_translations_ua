@@ -10,7 +10,7 @@
   <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
   <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
-  
+
   <!-- EN: auto charge blaster -->
   <VFE_Gun_AutoChargeBlaster.label>автоматический бластер</VFE_Gun_AutoChargeBlaster.label>
   <!-- EN: A salvaged mechanoid charge blaster made to be mounted on a turret. -->
@@ -26,11 +26,11 @@
   <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
   <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
-  
+
   <!-- EN: auto charge lance -->
-  <VFE_Gun_AutoChargeLance.label>автоматическое энергокопьё</VFE_Gun_AutoChargeLance.label>
+  <VFE_Gun_AutoChargeLance.label>автоматическое енергоспис</VFE_Gun_AutoChargeLance.label>
   <!-- EN: A salvaged mechanoid charge lance made to be mounted on a turret. -->
-  <VFE_Gun_AutoChargeLance.description>Уцелевшее энергокопьё механоїдів. Можно установить на турельную платформу.</VFE_Gun_AutoChargeLance.description>
+  <VFE_Gun_AutoChargeLance.description>Уцелевшее енергоспис механоїдів. Можно установить на турельную платформу.</VFE_Gun_AutoChargeLance.description>
 
   <!-- EN: inferno cannon turret -->
   <VFE_Turret_AutoInfernoCannon.label>инфернальная турель</VFE_Turret_AutoInfernoCannon.label>
@@ -42,7 +42,7 @@
   <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
   <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
-  
+
   <!-- EN: auto inferno cannon -->
   <VFE_Gun_AutoInfernoCannon.label>автоматическая инферно-пушка</VFE_Gun_AutoInfernoCannon.label>
   <!-- EN: A salvaged mechanoid inferno cannon made to be mounted on a turret. -->
@@ -58,7 +58,7 @@
   <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>Оставшиеся снаряды</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of shells -->
   <VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: нет снарядов</VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>
-  
+
   <!-- EN: auto-mortar -->
   <VFE_AutoMortar.label>автоминомёт</VFE_AutoMortar.label>
   <!-- EN: Automatic mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->

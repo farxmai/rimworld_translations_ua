@@ -1,16 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- FROM CORE for consistency -->
+
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>сентипеда</Mech_Centipede.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_Centipede.description>Важкі бойові механоїди, що пересуваються на безлічі крихітних ніг. Товста броня та вогнева міць роблять їх дуже ефективними проти груп нерухомих захисників. Однак вони вразливі для мобільних загонів із тактикою «вдарив-утік».</Mech_Centipede.description>
+  <!-- EN: head -->
+  <Mech_Centipede.tools.head.label>голова</Mech_Centipede.tools.head.label>
+
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>списник</Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
+  <Mech_Lancer.description>Бойові механоїди зростанням із людини, оснащені масивними оптичними сенсорами, ідеальними для далекого бою. У ближньому бою не такі ефективні.\n\nВетерани воєн з механоїдами знають, що найчастіше найбезпечніша тактика боротьби з списниками — лобова атака.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>лівий кулак</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>правий кулак</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>голова</Mech_Lancer.tools.head.label>
+
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>пікінер</Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
+  <Mech_Pikeman.description>Громіздкий багатоногий бойовий механоїд, що використовується як платформа для далекобійної зброї. Драгуни дуже ефективні на великій дальності, але слабкі на малих відстанях і в рукопашному бою.\n\nВетерани воєн з механоїдами відзначають, що найбезпечніша дистанція бою з ними — відстань витягнутої руки.</Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <Mech_Pikeman.tools.front_left_leg.label>передня ліва нога</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <Mech_Pikeman.tools.front_right_leg.label>передня права нога</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <Mech_Pikeman.tools.head.label>голова</Mech_Pikeman.tools.head.label>
+
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>жнець</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Швидкі веретеноподібні бойові механоїди зростом з людини. Їхня тактика — швидке зближення та ближній бій із противником. Їхні тіла всіяні шипами, а маніпулятори оснащені смертоносними лезами, ідеальними для відсікання кінцівок та розпарювання животів.</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>ліве лезо</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>праве лезо</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>голова</Mech_Scyther.tools.head.label>
+
+  <!-- EN: termite -->
+  <Mech_Termite.label>терміт</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>Механоїд середнього розміру, що спеціалізується на копанні тунелів, підкопах та прориві крізь оборонні споруди. Захисникам залишається лише вирішити, спробувати знищити терміта до того, як він прорветься або зустріти його там, де він з'явиться.</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>голова</Mech_Termite.tools.head.label>
+
+  <!-- FROM MOD -->
+
   <!-- EN: centipede -->
   <VFE_Mech_Centipede.label>сентипеда</VFE_Mech_Centipede.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their heavy armor and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Centipede.description>Тяжёлые бойові механоїди, передвигающиеся на множестве крошечных ног. Тяжёлая броня и огневая мощь делают их очень эффективными против групп неподвижных защитников. Однако они уязвимы для мобильных отрядов с тактикой «ударил-убежал». Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Centipede.description>
+  <VFE_Mech_Centipede.description>Важкі бойові механоїди, що пересуваються на безлічі крихітних ніг. Товста броня та вогнева міць роблять їх дуже ефективними проти груп нерухомих захисників. Однак вони вразливі для мобільних загонів із тактикою «вдарив-утік». Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Centipede.description>
   <!-- EN: head -->
   <VFE_Mech_Centipede.tools.head.label>голова</VFE_Mech_Centipede.tools.head.label>
 
   <!-- EN: lancer -->
-  <VFE_Mech_Lancer.label>улан</VFE_Mech_Lancer.label>
+  <VFE_Mech_Lancer.label>списник</VFE_Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Lancer.description>Боевые механоїди ростом с человека, оснащённые массивными оптическими сенсорами, идеальными для дальнего боя. В ближнем бою не так эффективны. Ветераны войн с механоїдами знают, что зачастую самая безопасная тактика борьбы с уланами — лобовая атака. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Lancer.description>
+  <VFE_Mech_Lancer.description>Бойові механоїди зростанням із людини, оснащені масивними оптичними сенсорами, ідеальними для далекого бою. У ближньому бою не такі ефективні.\n\nВетерани воєн з механоїдами знають, що найчастіше найбезпечніша тактика боротьби з списниками — лобова атака. Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Lancer.description>
   <!-- EN: left fist -->
   <VFE_Mech_Lancer.tools.left_fist.label>лівий кулак</VFE_Mech_Lancer.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -19,9 +71,9 @@
   <VFE_Mech_Lancer.tools.head.label>голова</VFE_Mech_Lancer.tools.head.label>
 
   <!-- EN: knight -->
-  <VFE_Mech_Knight.label>витязь</VFE_Mech_Knight.label>
+  <VFE_Mech_Knight.label>лицар</VFE_Mech_Knight.label>
   <!-- EN: A medium-speed bipedal mechanoid slightly larger than an average human designed to take damage from both ranged and melee combatants. Thick armored plating is only further emboldened by a logic-defying shield belt capable of stopping projectiles. Equipped with a mid-range, burst-fire charge rifle, the Knight is best fought off by long-range explosive salvo or mines. -->
-  <VFE_Mech_Knight.description>Двуногий механоїд со средней скоростью. Немного крупнее человека. Разработан для одинаково эффективного ведения боя, как на дальних, так и ближних дистанциях. И без того толстая броня дополнена совершенно нечестным поясным генератором щита, останавливающем пули. Витязь вооружён обычной энерговинтовкой. Лучший способ справиться с ним — мины и бомбардировки.</VFE_Mech_Knight.description>
+  <VFE_Mech_Knight.description>Двоногий механоїд із середньою швидкістю. Трохи більший за людину. Розроблено для однаково ефективного ведення бою як на далеких, так і на ближніх дистанціях. І без того товста броня доповнена абсолютно нечесним поясним генератором щита, що зупиняє кулі. Лицар озброєний звичайною енергогвинтівкою. Найкращий спосіб впоратися з ним — міни та бомбардування.</VFE_Mech_Knight.description>
   <!-- EN: left fist -->
   <VFE_Mech_Knight.tools.left_fist.label>лівий кулак</VFE_Mech_Knight.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -30,9 +82,9 @@
   <VFE_Mech_Knight.tools.head.label>голова</VFE_Mech_Knight.tools.head.label>
 
   <!-- EN: inquisitor -->
-  <VFE_Mech_Inquisitor.label>инквизитор</VFE_Mech_Inquisitor.label>
+  <VFE_Mech_Inquisitor.label>інквізитор</VFE_Mech_Inquisitor.label>
   <!-- EN: A lumbering, slow, superheavy mechanoid meant for area denial and bunker busting via flamethrower. While the plume of flame itself is short ranged, encountering an Inquisitor at close range is ill-advised, as the back-mounted chemfuel tanks are programmed to explode upon a system malfunction. -->
-  <VFE_Mech_Inquisitor.description>Неуклюжий, медлительный, сверхважкий механоїд, предназначенный для зачистки зон и бункеров огнемётом. Даже если не брать во внимание струи огня, встречаться с Инквизитором на близкй дистанции очень опасно хотя бы из-за установленных сзади баком с химтопливом, запрограммированными на взрыв при отказе системы.</VFE_Mech_Inquisitor.description>
+  <VFE_Mech_Inquisitor.description>Незграбний, повільний, надважкий механоїд, призначений для зачистки зон та бункерів вогнеметом. Навіть якщо не брати до уваги струмені вогню, зустрічатися з Інквізитором на близькій дистанції дуже небезпечно хоча б через встановлені позаду баки з хімпаливом, запрограмованими на вибух при відмові системи.</VFE_Mech_Inquisitor.description>
   <!-- EN: left fist -->
   <VFE_Mech_Inquisitor.tools.left_fist.label>лівий кулак</VFE_Mech_Inquisitor.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -41,9 +93,9 @@
   <VFE_Mech_Inquisitor.tools.head.label>голова</VFE_Mech_Inquisitor.tools.head.label>
 
   <!-- EN: scyther -->
-  <VFE_Mech_Scyther.label>жнец</VFE_Mech_Scyther.label>
+  <VFE_Mech_Scyther.label>жнець</VFE_Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use two arm blades to lop off limbs or gut their victims alive. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Scyther.description>Быстрые веретенообразные бойові механоїди ростом с человека. Их тактика — быстрое сближение и ближний бой с противником. Их тела усеяны шипами, а манипуляторы оснащены смертоносными лезвиями, идеальными для отрубания конечностей и вспарывания животов. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Scyther.description>
+  <VFE_Mech_Scyther.description>Швидкі веретеноподібні бойові механоїди зростом з людини. Їхня тактика — швидке зближення та ближній бій із противником. Їхні тіла всіяні шипами, а маніпулятори оснащені смертоносними лезами, ідеальними для відсікання кінцівок та розпарювання животів.Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Scyther.description>
   <!-- EN: left blade -->
   <VFE_Mech_Scyther.tools.left_blade.label>лівий клинок</VFE_Mech_Scyther.tools.left_blade.label>
   <!-- EN: right blade -->
@@ -52,9 +104,9 @@
   <VFE_Mech_Scyther.tools.head.label>голова</VFE_Mech_Scyther.tools.head.label>
 
   <!-- EN: pikeman -->
-  <VFE_Mech_Pikeman.label>драгун</VFE_Mech_Pikeman.label>
+  <VFE_Mech_Pikeman.label>пікінер</VFE_Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat. Veterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Pikeman.description>Громоздкий многоногий бойовий механоїд, используемый в качестве платформы для дальнобойного оружия. Драгуны очень эффективны на большой дальности, но слабы на малых расстояниях и в рукопашном бою.\n\nВетераны войн с механоїдами отмечают, что самая безопасная дистанция боя с ними — расстояние вытянутой руки. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Pikeman.description>
+  <VFE_Mech_Pikeman.description>Громіздкий багатоногий бойовий механоїд, що використовується як платформа для далекобійної зброї. Драгуни дуже ефективні на великій дальності, але слабкі на малих відстанях і в рукопашному бою.\n\nВетерани воєн з механоїдами відзначають, що найбезпечніша дистанція бою з ними — відстань витягнутої руки. Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <VFE_Mech_Pikeman.tools.front_left_leg.label>передня ліва нога</VFE_Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
@@ -63,9 +115,9 @@
   <VFE_Mech_Pikeman.tools.head.label>голова</VFE_Mech_Pikeman.tools.head.label>
 
   <!-- EN: carpenter -->
-  <VFE_Mech_Carpenter.label>плотник</VFE_Mech_Carpenter.label>
+  <VFE_Mech_Carpenter.label>тесляр</VFE_Mech_Carpenter.label>
   <!-- EN: A swift, quadrupedal, beetle-like utility mechanoid meant to assemble and disassemble structures even in midst of heavy crossfire via a series of claws, blowtorches, and drills. Carpenter mechs analyze nearby structures for conflicting design parameters before skittering to dissemble them. Veterans from the mechanoid wars claim power plants and turrets that take days or even weeks to assemble to have vanished in minutes when approached by a carpenter. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Carpenter.description>Быстрый, четвероногий, похожий на жука механоїд поддержки, предназначенный для сборки и разборки конструкций даже в условиях сильного перекрёстного огня с помощью множества когтей, паяльных ламп и свёрл. Плотники способны анализировать близлежащие структуры на предмет конфликтующих конструктивных параметров, прежде чем начать разбирать их. Ветераны механоїдных войн утверждают, что генераторы и турели, на сборку которых уходят дни или даже недели, исчезают за считанные минуты, когда к ним приближается плотник. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Carpenter.description>
+  <VFE_Mech_Carpenter.description>Швидкий, чотирилапий, схожий на жука механоїд підтримки, призначений для збирання та розбирання конструкцій навіть в умовах сильного перехресного вогню за допомогою безлічі кігтів, паяльних ламп та свердл. Теслярі здатні аналізувати прилеглі структури щодо конфліктуючих конструктивних параметрів, перш ніж почати розбирати їх.\n\nВетерани механоїдних воєн стверджують, що генератори та турелі, на складання яких йдуть дні чи навіть тижні, зникають за лічені хвилини, коли до них наближається тесляр. Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Carpenter.description>
   <!-- EN: front left leg -->
   <VFE_Mech_Carpenter.tools.front_left_leg.label>передня ліва нога</VFE_Mech_Carpenter.tools.front_left_leg.label>
   <!-- EN: front right leg -->
@@ -74,9 +126,9 @@
   <VFE_Mech_Carpenter.tools.head.label>голова</VFE_Mech_Carpenter.tools.head.label>
 
   <!-- EN: termite -->
-  <VFE_Mech_Termite.label>термит</VFE_Mech_Termite.label>
+  <VFE_Mech_Termite.label>терміт</VFE_Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. This particular unit appears to be freshly manufactured and will operate more robustly. -->
-  <VFE_Mech_Termite.description>Механоид среднего размера, специализирующийся на рытье туннелей, подкопах и прорыве сквозь оборонительные сооружения. Защитникам остаётся лишь решить, попытаться ли уничтожить термита до того, как он прорвётся или встретить его там, где он появится. Эта бойова единица, похоже, только что с завода и обладает лучшей отказоустойчивостью.</VFE_Mech_Termite.description>
+  <VFE_Mech_Termite.description>Механоїд середнього розміру, що спеціалізується на копанні тунелів, підкопах та прориві крізь оборонні споруди. Захисникам залишається лише вирішити, спробувати знищити терміта до того, як він прорветься або зустріти його там, де він з'явиться. Ця бойова одиниця, схоже, щойно із заводу і має кращу відмовостійкість.</VFE_Mech_Termite.description>
   <!-- EN: head -->
   <VFE_Mech_Termite.tools.0.label>голова</VFE_Mech_Termite.tools.0.label>
 </LanguageData>
