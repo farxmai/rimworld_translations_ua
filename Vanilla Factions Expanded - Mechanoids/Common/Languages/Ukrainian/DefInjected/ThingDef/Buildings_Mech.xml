@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Mechanoid ship engines -->
-  <VFE_MechanoidEngines.label>двигатели корабля механоїдів</VFE_MechanoidEngines.label>
+  <VFE_MechanoidEngines.label>двигуни корабля механоїдів</VFE_MechanoidEngines.label>
   <!-- EN: A set of Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidEngines.description>Двигатели Джонсона-Танака являются частью большого корабля механоїдів. Содержат ценные экзотические ресурсы.</VFE_MechanoidEngines.description>
+  <VFE_MechanoidEngines.description>Двигуни Джонсона-Танака є частиною великого корабля механоїдів. Містять цінні екзотичні ресурси.</VFE_MechanoidEngines.description>
 
   <!-- EN: Small mechanoid ship engines -->
-  <VFE_MechanoidEnginesSmall.label>малые двигатели корабля механоїдів</VFE_MechanoidEnginesSmall.label>
+  <VFE_MechanoidEnginesSmall.label>малі двигуни корабля механоїдів</VFE_MechanoidEnginesSmall.label>
   <!-- EN: A set of small Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidEnginesSmall.description>Малые двигатели Джонсона-Танака являются частью большого корабля механоїдів. Содержат ценные экзотические ресурсы.</VFE_MechanoidEnginesSmall.description>
+  <VFE_MechanoidEnginesSmall.description>Малі двигуни Джонсона-Танака є частиною великого корабля механоїдів. Містять цінні екзотичні ресурси.</VFE_MechanoidEnginesSmall.description>
 
   <!-- EN: heavy structural beam -->
-  <VFE_MechanoidBeamHeavy.label>тяжёлая корабельная балка</VFE_MechanoidBeamHeavy.label>
+  <VFE_MechanoidBeamHeavy.label>важка корабельна балка</VFE_MechanoidBeamHeavy.label>
   <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidBeamHeavy.description>Строительная балка, вокруг которой построен корабель, является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_MechanoidBeamHeavy.description>
+  <VFE_MechanoidBeamHeavy.description>Будівельна балка, навколо якої збудовано корабль, є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_MechanoidBeamHeavy.description>
 
   <!-- EN: light structural beam -->
-  <VFE_MechanoidBeamLight.label>легка корабельная балка</VFE_MechanoidBeamLight.label>
+  <VFE_MechanoidBeamLight.label>легка корабельна балка</VFE_MechanoidBeamLight.label>
   <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidBeamLight.description>Строительная балка, вокруг которой построен корабель, является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_MechanoidBeamLight.description>
+  <VFE_MechanoidBeamLight.description>Будівельна балка, навколо якої збудовано корабль, є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_MechanoidBeamLight.description>
 
   <!-- EN: uplink module -->
-  <VFE_MechanoidUplink.label>модуль связи</VFE_MechanoidUplink.label>
+  <VFE_MechanoidUplink.label>модуль зв'язку</VFE_MechanoidUplink.label>
   <!-- EN: An uplink module, directly connected to the mechanoid swarm. It is responsible for obtaining order updates from war programmers in orbit. It greatly enhances mechanoid capabilities in range, but destroying it will sever the connection with the fleet, greatly harming the mechanoid forces.  It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidUplink.description>Модуль прямой связи с роем. Принимает приказы и обновления директив от стратегов из орбитального штаба. Значительно усиливает механоїдів в радиусе действия, но уничтожения модуля связи разорвёт связь с флотом и сильно навредит наземным силам. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_MechanoidUplink.description>
+  <VFE_MechanoidUplink.description>Модуль прямого зв'язку з роєм. Приймає накази та поновлення директив від стратегів з орбітального штабу. Значно посилює механоїдів у радіусі дії, але знищення модуля зв'язку розірве зв'язок із флотом та сильно нашкодить наземним силам. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_MechanoidUplink.description>
 
   <!-- EN: reactor -->
   <VFE_MechanoidReactor.label>реактор</VFE_MechanoidReactor.label>
   <!-- EN: A mechanoid power generation unit. The gigantic vanometric power core will run forever, extracting energy from quantum foam fluctuations. Despite the huge power output, effort has been made to stabilise it. If enough damage is dealt to the plasteel shell surrounding the core, a huge explosion will wipe out the local area. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidReactor.description>Механоидная энерговырабатывающая единица. Представляет из себя гігантское ванометрическое энергоядро, извлекающее энергию напрямую из флуктуаций квантовой пены. Несмотря на огромную мощность, оно было каким-то образом стабилизировано. Однако если пласталіва оболочка, окружающая ядро, получит достаточный урон, мощнейший взрыв уничтожит всё вокруг. Является частью большого корабля механоїдів.</VFE_MechanoidReactor.description>
+  <VFE_MechanoidReactor.description>Механоїдна енерговиробна одиниця. Представляє собою гігантське ванометричне енергоядро, що витягує енергію безпосередньо з флуктуацій квантової піни. Незважаючи на величезну потужність, воно було якимось чином стабілізоване. Однак якщо пласталива оболонка, що оточує ядро, отримає достатню шкоду, потужний вибух знищить усе довкола. Є частиною великого корабля механоїдів.</VFE_MechanoidReactor.description>
 
   <!-- EN: terraformer -->
   <VFE_MechanoidTerraformer.label>терраформер</VFE_MechanoidTerraformer.label>
   <!-- EN: An ultratech device of mass destruction, mechanoid terraformer harvests available oxygen and extracts toxic fumes in its place. Poison leaking into the ground around it slowly turns the planet into a barren wasteland. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidTerraformer.description>Ультратехнологичное устройство массового поражения, терраформер механоїдів собирает доступный кислород и заменяет его токсичные парами. Яд оседает на землю и медленно превращает планету в бесплодную пустошь. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_MechanoidTerraformer.description>
+  <VFE_MechanoidTerraformer.description>Ультратехнологічний пристрій масового ураження, тераформер механоїдів збирає доступний кисень та замінює його токсичними парами. Отрута осідає на землю і повільно перетворює планету на безплідну пустку. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_MechanoidTerraformer.description>
 
   <!-- EN: heavy machinery -->
-  <VFE_HeavyMachinery.label>машинное отделение</VFE_HeavyMachinery.label>
+  <VFE_HeavyMachinery.label>машинне відділення</VFE_HeavyMachinery.label>
   <!-- EN: A number of complex machinery, motors, support systems and other mysterious apparatus hidden underneath a thick layer of plasteel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_HeavyMachinery.description>Множество сложных механизмов, вспомогательных систем и каких-либо ещё таинственных устройств, скрытых под толстым слоем пластали. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_HeavyMachinery.description>
+  <VFE_HeavyMachinery.description>Безліч складних механізмів, допоміжних систем та будь-яких ще таємничих пристроїв, прихованих під товстим шаром пласталі. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_HeavyMachinery.description>
 
   <!-- EN: cargo container -->
-  <VFE_CargoContainer.label>грузовой контейнер</VFE_CargoContainer.label>
+  <VFE_CargoContainer.label>вантажний контейнер</VFE_CargoContainer.label>
   <!-- EN: A cargo module containing various raw resources often used by mechanoid swarms to fix existing units or construct new ones. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_CargoContainer.description>Грузовой модуль с различными материалами. Ресурсы для ремонта существующих единиц или производства новых, как правило, берутся именно оттуда. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_CargoContainer.description>
+  <VFE_CargoContainer.description>Вантажний модуль із різними матеріалами. Ресурси для ремонту існуючих одиниць чи виробництва нових зазвичай беруться саме звідти. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_CargoContainer.description>
 
   <!-- EN: climate adjuster -->
   <VFE_ClimateAdjuster.label>регулятор клімату</VFE_ClimateAdjuster.label>
   <!-- EN: An ultratech ship-mounted device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_ClimateAdjuster.description>Ультратехнологичное устройство для контроля климата. Оно использует химикаты и экзополя для воздействия на атмосферу с целью изменения температуры в этом регионе. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_ClimateAdjuster.description>
+  <VFE_ClimateAdjuster.description>Ультратехнологічний пристрій контролю клімату. Воно використовує хімікати та екзополь для впливу на атмосферу з метою зміни температури в цьому регіоні. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_ClimateAdjuster.description>
 
   <!-- EN: EMI dynamo -->
-  <VFE_EMIDynamo.label>ЭМИ-генератор</VFE_EMIDynamo.label>
+  <VFE_EMIDynamo.label>ЕМІ-генератор</VFE_EMIDynamo.label>
   <!-- EN: A massive, ship-mounted electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_EMIDynamo.description>Мощный генератор электромагнитных помех. Он воздействует на близлежащие регионы, отключая электрические устройства или мешая их работе. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_EMIDynamo.description>
+  <VFE_EMIDynamo.description>Потужний генератор електромагнітних перешкод. Він впливає на довколишні регіони, відключаючи електричні пристрої або заважаючи їх роботі. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_EMIDynamo.description>
 
   <!-- EN: psychic suppressor -->
-  <VFE_PsychicSuppressor.label>психический подавитель</VFE_PsychicSuppressor.label>
+  <VFE_PsychicSuppressor.label>психічний пригнічувач</VFE_PsychicSuppressor.label>
   <!-- EN: A ship-mounted archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_PsychicSuppressor.description>Архотехнологичное устройство, создающее мощное поле подавления психики. Настроено, чтобы воздействовать на людей определённого пола, снижая их психическую активность и подавляя сознание. На силу воздействия влияет индивидуальная психическая чувствительность. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_PsychicSuppressor.description>
+  <VFE_PsychicSuppressor.description>Архотехнологічний пристрій, що створює сильне поле придушення психіки. Налаштовано, щоб впливати на людей певної статі, знижуючи їхню психічну активність і пригнічуючи свідомість. На силу дії впливає індивідуальна психічна чутливість. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_PsychicSuppressor.description>
 
   <!-- EN: psychic suppressor -->
-  <VFE_PsychicDroner.label>психический излучатель</VFE_PsychicDroner.label>
+  <VFE_PsychicDroner.label>психічний випромінювач</VFE_PsychicDroner.label>
   <!-- EN: A ship-mounted archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_PsychicDroner.description>Это архотехнологичное устройство передаёт мысли сошедшего с ума искусственного сверхинтеллекта. Создаёт психический гул невероятной мощности, влияющий на весь регион. Оно настроено воздействовать на людей определённого пола, ухудшая их настроение и сводя с ума. На силу воздействия влияет индивидуальная психическая чувствительность. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_PsychicDroner.description>
+  <VFE_PsychicDroner.description>Цей архотехнологічний пристрій передає думки штучного надінтелекту, що збожеволів. Створює психічний гул неймовірної потужності, що впливає весь регіон. Воно налаштоване впливати на людей певної статі, погіршуючи їхній настрій і божеволіючи. На силу дії впливає індивідуальна психічна чутливість. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_PsychicDroner.description>
 
   <!-- EN: charge blaster cannon -->
-  <VFE_Turret_ChargeBlasterCannon.label>бластерное орудие</VFE_Turret_ChargeBlasterCannon.label>
+  <VFE_Turret_ChargeBlasterCannon.label>бластерна гармата</VFE_Turret_ChargeBlasterCannon.label>
   <!-- EN: A ship-mounted charge blaster point defense cannon. It is capable of laying suppressive fire over medium distance. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_ChargeBlasterCannon.description>Бластерное орудие точечной защиты. Способно вести подавляющий огонь на средней дистанции. Является частью большого корабля механоїдів.</VFE_Turret_ChargeBlasterCannon.description>
+  <VFE_Turret_ChargeBlasterCannon.description>Бластерна зброя точкового захисту. Здатно вести переважний вогонь на середній дистанції. Є частиною великого корабля механоїдів.</VFE_Turret_ChargeBlasterCannon.description>
 
   <!-- EN: charge blaster -->
   <VFE_Gun_ChargeBlasterCannon.label>бластер</VFE_Gun_ChargeBlasterCannon.label>
@@ -76,103 +76,103 @@
   <VFE_Gun_ChargeBlasterCannon.description>Бластер механоїдів.</VFE_Gun_ChargeBlasterCannon.description>
 
   <!-- EN: charge lance cannon -->
-  <VFE_Turret_ChargeLanceCannon.label>энергетическое орудие</VFE_Turret_ChargeLanceCannon.label>
+  <VFE_Turret_ChargeLanceCannon.label>енергетична гармата</VFE_Turret_ChargeLanceCannon.label>
   <!-- EN: A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_ChargeLanceCannon.description>Энергетическое орудие точечной защиты. Стреляет заряженными снарядами на дальние дистанции. Является частью большого корабля механоїдів.</VFE_Turret_ChargeLanceCannon.description>
+  <VFE_Turret_ChargeLanceCannon.description>Енергетична зброя точкового захисту. Стріляє зарядженими снарядами на далекі відстані. Є частиною великого корабля механоїдів.</VFE_Turret_ChargeLanceCannon.description>
 
   <!-- EN: charge lance -->
   <VFE_Gun_ChargeLanceCannon.label>енергоспис</VFE_Gun_ChargeLanceCannon.label>
   <!-- EN: A mechanoid-tech charge lance. -->
-  <VFE_Gun_ChargeLanceCannon.description>енергоспис механоїдів.</VFE_Gun_ChargeLanceCannon.description>
+  <VFE_Gun_ChargeLanceCannon.description>Енергоспис механоїдів.</VFE_Gun_ChargeLanceCannon.description>
 
   <!-- EN: trooper storage -->
-  <VFE_TrooperStorage.label>хранилище десанта</VFE_TrooperStorage.label>
+  <VFE_TrooperStorage.label>десантний склад</VFE_TrooperStorage.label>
   <!-- EN: A small-sized trooper transport bay, potentially filled with combat-ready mechanoids. It seems to be dormant at the moment, but any kind of damage done to the structure will most likely deploy defensive units. This element is usually a part of a much larger ship. -->
-  <VFE_TrooperStorage.description>Небольшой десантный транспортный отсек, потенциально заполненный готовыми к бою механоїдами. В данный момент он, похоже, бездействует, но любой ущерб, может привести к развёртыванию оборонительных подразделений. Является частью большого корабля механоїдів.</VFE_TrooperStorage.description>
+  <VFE_TrooperStorage.description>Невеликий десантний транспортний відсік, що потенційно заповнений готовими до бою механоїдами. На даний момент він, схоже, не діє, але будь-які збитки можуть призвести до розгортання оборонних підрозділів. Є частиною великого корабля механоїдів.</VFE_TrooperStorage.description>
 
   <!-- EN: hull repair module -->
-  <VFE_HullRepairModule.label>ремонтный модуль</VFE_HullRepairModule.label>
+  <VFE_HullRepairModule.label>ремонтний модуль</VFE_HullRepairModule.label>
   <!-- EN: A nanite container module capable of reinforcing the damaged hull of the ship. Unless destroyed, this module will constantly regenerate any damage done to other ship modules. This element is usually a part of a much larger ship. -->
-  <VFE_HullRepairModule.description>Модуль, содержащий нанитов и выпускающий их для починки любых других модулей корабля. Если этот модуль будет уничтожен, он перестанет восстанавливать повреждения, нанесённые другим корабельным модулям. Является частью большого корабля механоїдів.</VFE_HullRepairModule.description>
+  <VFE_HullRepairModule.description>Модуль, що містить нанітів і випускає їх для ремонту будь-яких інших модулів корабля. Якщо цей модуль буде знищений, він перестане відновлювати пошкодження, завдані іншим корабельним модулям. Є частиною великого корабля механоїдів.</VFE_HullRepairModule.description>
 
   <!-- EN: mechanoid barrier -->
-  <VFE_MechanoidBarrier.label>барьер</VFE_MechanoidBarrier.label>
+  <VFE_MechanoidBarrier.label>бар'єр</VFE_MechanoidBarrier.label>
   <!-- EN: A block of nearly impenetrable plasteel shield, usually used within the ship hull to protect the most vital apparatus. This element is usually a part of a much larger ship. -->
-  <VFE_MechanoidBarrier.description>Блок почти непробиваемого пласталевого щита, обычно используемый внутри корпуса корабля для защиты самого важного оборудования. Является частью большого корабля механоїдів.</VFE_MechanoidBarrier.description>
+  <VFE_MechanoidBarrier.description>Блок майже непробивного пласталевого щита, який зазвичай використовується всередині корпусу корабля для захисту найважливішого обладнання. Є частиною великого корабля механоїдів.</VFE_MechanoidBarrier.description>
 
   <!-- EN: ship-mounted low shield -->
-  <VFE_BulletShield.label>барьерный проектор механоїдів</VFE_BulletShield.label>
+  <VFE_BulletShield.label>бар'єрний проектор механоїдів</VFE_BulletShield.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to low angles, so it will block ground-level projectiles like bullets. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
-  <VFE_BulletShield.description>Проектор импульсно-репульсорного поля, перехватывающего пули извне, но позволяющего вести огонь изнутри. Этот проектор настроен на защиту от снарядов, летящих по настильной траектории, например, от пуль. Щит может быть временно отключён при помощи ЭМИ, ударом по самому устройству или перегрузкой защитного поля. Является частью большого корабля механоїдів.</VFE_BulletShield.description>
+  <VFE_BulletShield.description>Проектор імпульсно-репульсорного поля, що перехоплює кулі ззовні, але дозволяє вести вогонь зсередини. Цей проектор налаштований на захист від снарядів, що летять настильною траєкторією, наприклад, від куль. Щит може бути тимчасово відключений за допомогою ЕМІ, ударом по самому пристрої або перевантаження захисного поля. Є частиною великого корабля механоїдів.</VFE_BulletShield.description>
 
   <!-- EN: ship-mounted high shield -->
-  <VFE_MortarShield.label>купольный проектор механоїдів</VFE_MortarShield.label>
+  <VFE_MortarShield.label>купольний проектор механоїдів</VFE_MortarShield.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to high angles, so it will block mortar rounds. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
-  <VFE_MortarShield.description>Проектор импульсно-репульсорного поля, перехватывающего пули извне, но позволяющего вести огонь изнутри. Этот проектор настроен на защиту от снарядов, падающих по навесной или мортирной траекториям. Щит может быть временно отключён при помощи ЭМИ, ударом по самому устройству или перегрузкой защитного поля. Является частью большого корабля механоїдів.</VFE_MortarShield.description>
+  <VFE_MortarShield.description>Проектор імпульсно-репульсорного поля, що перехоплює кулі ззовні, але дозволяє вести вогонь зсередини. Цей проектор налаштований на захист від снарядів, що падають навісною або мортирною траєкторіями. Щит може бути тимчасово відключений за допомогою ЕМІ, ударом по самому пристрої або перевантаження захисного поля. Є частиною великого корабля механоїдів.</VFE_MortarShield.description>
 
   <!-- EN: auto-mortar cannon -->
-  <VFE_Turret_AutoMortarCannon.label>автоминомётное орудие</VFE_Turret_AutoMortarCannon.label>
+  <VFE_Turret_AutoMortarCannon.label>автомінометна гармата</VFE_Turret_AutoMortarCannon.label>
   <!-- EN: A large, ship-mounted artillery piece, auto-mortar is capable of firing explosive shells over a long distance. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_AutoMortarCannon.description>Большая артиллерийская установка, стреляющая взрывными снарядами на большие расстояния. Является частью большого корабля механоїдів.</VFE_Turret_AutoMortarCannon.description>
+  <VFE_Turret_AutoMortarCannon.description>Велика артилерійська установка, яка стріляє підривними снарядами на великі відстані. Є частиною великого корабля механоїдів.</VFE_Turret_AutoMortarCannon.description>
 
   <!-- EN: auto mortar cannon -->
-  <VFE_Gun_AutoMortarCannon.label>автоминомёт</VFE_Gun_AutoMortarCannon.label>
+  <VFE_Gun_AutoMortarCannon.label>автоміномет</VFE_Gun_AutoMortarCannon.label>
   <!-- EN: A mechanoid-tech automatic mortar. -->
-  <VFE_Gun_AutoMortarCannon.description>Автоминомёт механоїдів.</VFE_Gun_AutoMortarCannon.description>
+  <VFE_Gun_AutoMortarCannon.description>Автоміномет механоїдів.</VFE_Gun_AutoMortarCannon.description>
 
   <!-- EN: inferno launcher artillery -->
-  <VFE_Turret_InfernoLauncherArtillery.label>артиллерия «инферно»</VFE_Turret_InfernoLauncherArtillery.label>
+  <VFE_Turret_InfernoLauncherArtillery.label>артилерія «інферно»</VFE_Turret_InfernoLauncherArtillery.label>
   <!-- EN: A massive, triple barreled inferno launcher, usually mounted on spaceships to deal devastating damage to any organic matter onboard hostile crafts. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_InfernoLauncherArtillery.description>Мощная трёхствольная установка «инферно», обычно устанавливаемая на космических кораблях для нанесения сокрушительного урона любой органике на борту вражеских кораблей. Является частью большого корабля механоїдів.</VFE_Turret_InfernoLauncherArtillery.description>
+  <VFE_Turret_InfernoLauncherArtillery.description>Потужна триствольна установка «інферно», що зазвичай встановлюється на космічних кораблях для нанесення нищівної шкоди будь-якій органіці на борту ворожих кораблів. Є частиною великого корабля механоїдів..</VFE_Turret_InfernoLauncherArtillery.description>
 
   <!-- EN: inferno artillery -->
-  <VFE_Gun_InfernoArtillery.label>артиллерия «инферно»</VFE_Gun_InfernoArtillery.label>
+  <VFE_Gun_InfernoArtillery.label>артилерія «інферно»</VFE_Gun_InfernoArtillery.label>
   <!-- EN: A mechanoid-tech inferno artillery. -->
-  <VFE_Gun_InfernoArtillery.description>Артиллерия «инферно» механоїдів.</VFE_Gun_InfernoArtillery.description>
+  <VFE_Gun_InfernoArtillery.description>Артилерія «інферно» механоїдів.</VFE_Gun_InfernoArtillery.description>
 
   <!-- EN: inferno artillery shell -->
-  <VFE_Bullet_InfernoArtillery.label>снаряд «инферно»</VFE_Bullet_InfernoArtillery.label>
+  <VFE_Bullet_InfernoArtillery.label>снаряд «інферно»</VFE_Bullet_InfernoArtillery.label>
 
   <!-- EN: charge railgun -->
-  <VFE_Turret_ChargeRailgun.label>рельсовая энергопушка</VFE_Turret_ChargeRailgun.label>
+  <VFE_Turret_ChargeRailgun.label>рельсотрон</VFE_Turret_ChargeRailgun.label>
   <!-- EN: A large ship mounted railgun, often used to punch holes in hostile capital ships. This cannon has incredible range and fires charged explosive rounds, allowing it to deal devastating losses before the enemy even gets in range. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_ChargeRailgun.description>Большая корабельная рельсовая пушка, используемая для пробивания дыр во вражеских кораблях. Эта пушка имеет невероятную дальнобойность и стреляет энергетическими разрывными снарядами, нанося сокрушительные потери врагам ещё до того, как они смогут ответить. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_Turret_ChargeRailgun.description>
+  <VFE_Turret_ChargeRailgun.description>Велика корабельна рейкова гармата, що використовується для пробивання дірок у ворожих кораблях. Ця гармата має неймовірну далекобійність і стріляє енергетичними розривними снарядами, завдаючи нищівних втрат ворогам ще до того, як вони зможуть відповісти. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_Turret_ChargeRailgun.description>
 
   <!-- EN: charge railgun -->
-  <VFE_Gun_ChargeRailgun.label>рельсовая энергопушка</VFE_Gun_ChargeRailgun.label>
+  <VFE_Gun_ChargeRailgun.label>рельсотрон</VFE_Gun_ChargeRailgun.label>
   <!-- EN: A powerful, mechanoid-tech charge railgun. -->
-  <VFE_Gun_ChargeRailgun.description>Мощная рельсовая энергопушка механоїдів.</VFE_Gun_ChargeRailgun.description>
+  <VFE_Gun_ChargeRailgun.description>Потужний рельсотрон механоїдів.</VFE_Gun_ChargeRailgun.description>
 
   <!-- EN: charge railgun shot -->
-  <VFE_Bullet_ChargeRailgun.label>снаряд рельсовой энергопушки</VFE_Bullet_ChargeRailgun.label>
+  <VFE_Bullet_ChargeRailgun.label>снаряд рельсотрона</VFE_Bullet_ChargeRailgun.label>
 
   <!-- EN: orbital bombardment uplink -->
-  <VFE_Turret_OrbitalBombardmentUplink.label>модуль бомбардировки</VFE_Turret_OrbitalBombardmentUplink.label>
+  <VFE_Turret_OrbitalBombardmentUplink.label>модуль бомбардування</VFE_Turret_OrbitalBombardmentUplink.label>
   <!-- EN: An uplink module connected to a local orbital strike satellite. It will light up any enemies in range for the orbital bombardment, however long realignment period makes it inefficient for longer encounters. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_OrbitalBombardmentUplink.description>Модуль связи с ближайшим орбитальным ударным спутником. Он будет отмечать любых врагов в радиусе действия орбитальной бомбардировки, однако длительный период перенастройки делает модуль неэффективным для более длительных столкновений. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_Turret_OrbitalBombardmentUplink.description>
+  <VFE_Turret_OrbitalBombardmentUplink.description>Модуль зв'язку із найближчим орбітальним ударним супутником. Він відзначатиме будь-яких ворогів у радіусі дії орбітального бомбардування, проте тривалий період переналаштування робить модуль неефективним для більш тривалих зіткнень. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_Turret_OrbitalBombardmentUplink.description>
 
   <!-- EN: orbital bombardment targeter -->
-  <VFE_Gun_OrbitalBombardmentTargeter.label>целеуказатель для бомбардировки</VFE_Gun_OrbitalBombardmentTargeter.label>
+  <VFE_Gun_OrbitalBombardmentTargeter.label>цілевказівник для бомбардування</VFE_Gun_OrbitalBombardmentTargeter.label>
   <!-- EN: An antenna capable of summoning an orbital bombardment. -->
-  <VFE_Gun_OrbitalBombardmentTargeter.description>Антенна вызывающая орбитальную бомбардировку.</VFE_Gun_OrbitalBombardmentTargeter.description>
+  <VFE_Gun_OrbitalBombardmentTargeter.description>Антена, що викликає орбітальне бомбардування.</VFE_Gun_OrbitalBombardmentTargeter.description>
 
   <!-- EN: mechanoid assembly pod -->
-  <VFE_AssemblyPod.label>сборочный модуль</VFE_AssemblyPod.label>
+  <VFE_AssemblyPod.label>складальний модуль</VFE_AssemblyPod.label>
   <!-- EN: A spaceship module containing a mechanoid factory. It is capable of transforming raw resources directly into different types of mechanoids, and it creates them continuously until destroyed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_AssemblyPod.description>Производственный модуль механоїдів. Он будет непрерывно преобразовывать ресурсы в различных механоїдів. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_AssemblyPod.description>
+  <VFE_AssemblyPod.description>Виробничий модуль механоїдів. Він безперервно перетворюватиме ресурси на різних механоїдів. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_AssemblyPod.description>
 
   <!-- EN: mechanoid foundry -->
-  <VFE_AssemblyFoundry.label>производственный модуль</VFE_AssemblyFoundry.label>
+  <VFE_AssemblyFoundry.label>виробничий модуль</VFE_AssemblyFoundry.label>
   <!-- EN: A spaceship module containing a large scale mechanoid foundry. It is capable of generating large squads of mechanoids at great speed, but it is incapable of constructing larger, more complex variants. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_AssemblyFoundry.description>Модуль с крупной производственной линией механоїдів. Он способен оперативно создавать большие отряды механоїдів, но без возможности создавать крупные и сложные бойові единиці. Является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_AssemblyFoundry.description>
+  <VFE_AssemblyFoundry.description>Модуль із великою виробничою лінією механоїдів. Він здатний оперативно створювати великі загони механоїдів, але без можливості створювати великі та складні бойові одиниці. Є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_AssemblyFoundry.description>
 
   <!-- EN: cargo hold -->
-  <VFE_CargoHold.label>грузовой отсек</VFE_CargoHold.label>
+  <VFE_CargoHold.label>вантажний відсік</VFE_CargoHold.label>
   <!-- EN: A ship-based cargo module containing a vast amount of raw materials for the mechanoid ship to function properly. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
-  <VFE_CargoHold.description>Грузовые отсеки содержат обширные запасы материалов или запасных частей и является частью большого корабля механоїдів. Содержит ценные экзотические ресурсы.</VFE_CargoHold.description>
+  <VFE_CargoHold.description>Вантажні відсіки містять великі запаси матеріалів чи запасних частин та є частиною великого корабля механоїдів. Містить цінні екзотичні ресурси.</VFE_CargoHold.description>
 
   <!-- EN: mechanoid landing beacon -->
-  <VFE_MechLandingBeacon.label>посадочный маяк механоїдів</VFE_MechLandingBeacon.label>
+  <VFE_MechLandingBeacon.label>посадковий маяк механоїдів</VFE_MechLandingBeacon.label>
   <!-- EN: This advanced, spacer tech beacon serves as a guide for a surface-bound mechanoid ship. -->
-  <VFE_MechLandingBeacon.description>Продвинутый посадочный маяк служит ориентиром для приземляющегося корабля механоїдів.</VFE_MechLandingBeacon.description>
+  <VFE_MechLandingBeacon.description>Просунутий посадковий маяк служить орієнтиром для корабля механоїдів, що приземлюється.</VFE_MechLandingBeacon.description>
 </LanguageData>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: a friendly outpost under mech attack -->
-  <VFE_MechanoidAttackParty.label>аванпост союзников атаковано механоїдів</VFE_MechanoidAttackParty.label>
+  <VFE_MechanoidAttackParty.label>аванпост союзників атаковано механоїдами</VFE_MechanoidAttackParty.label>
   <!-- EN: A friendly outpost invaded by a mechanoid force, begging for help. -->
-  <VFE_MechanoidAttackParty.description>Дружественный аванпост попал под атаку механоїдів и умоляет о помощи.</VFE_MechanoidAttackParty.description>
+  <VFE_MechanoidAttackParty.description>Дружній аванпост потрапив під атаку механоїдів та благає про допомогу.</VFE_MechanoidAttackParty.description>
 </LanguageData>

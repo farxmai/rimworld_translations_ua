@@ -9,7 +9,7 @@
   <!-- EN: Shots until out of battery -->
   <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
-  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: батарея розряджена</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: auto charge blaster -->
   <VFE_Gun_AutoChargeBlaster.label>автоматический бластер</VFE_Gun_AutoChargeBlaster.label>
@@ -25,7 +25,7 @@
   <!-- EN: Shots until out of battery -->
   <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
-  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: батарея розряджена</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: auto charge lance -->
   <VFE_Gun_AutoChargeLance.label>автоматическое енергоспис</VFE_Gun_AutoChargeLance.label>
@@ -41,7 +41,7 @@
   <!-- EN: Shots until out of battery -->
   <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>Выстрелов до разрядки</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Out of battery -->
-  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: батарея разряжена</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>Неможливо вести вогонь: батарея розряджена</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
 
   <!-- EN: auto inferno cannon -->
   <VFE_Gun_AutoInfernoCannon.label>автоматическая инферно-пушка</VFE_Gun_AutoInfernoCannon.label>

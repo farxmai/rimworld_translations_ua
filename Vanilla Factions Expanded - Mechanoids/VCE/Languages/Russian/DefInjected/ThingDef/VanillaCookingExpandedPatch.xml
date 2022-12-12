@@ -3,7 +3,7 @@
   <!-- EN: cannery -->
   <VFEM_ProvisionsPackagingFactory_Cannery.label>консервный завод</VFEM_ProvisionsPackagingFactory_Cannery.label>
   <!-- EN: A medium-sized factory module that accepts raw food before vaccuum packing and sealing it tightly, allowing it to last indefinitely. Does not require additional steel after creation.\n\n&lt;color=#33d733&gt;Automation Chain:&lt;/color&gt; Part of the Provisions Packaging Factory (P.P.F.) chain. -->
-  <VFEM_ProvisionsPackagingFactory_Cannery.description>Заводской модуль среднего размера, принимающий свежие продукты без вакуумной упаковки и надёжно запечатывающий их, позволяя еде храниться вечно. Не стребует дополнительной стали после постройки.\n\n&lt;color=#33d733&gt;Производственная цепочка:&lt;/color&gt; Является частью производственной цепочки «Путь упаковки, снабжения и консервирования» (ПУСК).</VFEM_ProvisionsPackagingFactory_Cannery.description>
+  <VFEM_ProvisionsPackagingFactory_Cannery.description>Заводской модуль среднего размера, принимающий свежие продукты без вакуумной упаковки и надёжно запечатывающий их, позволяя еде храниться вечно. Не стребует дополнительной стали после постройки.\n\n&lt;color=#33d733&gt;Производственная цепочка:&lt;/color&gt; Является частью производственной цепочки «М'ясопереробна фабрика» (МФ).</VFEM_ProvisionsPackagingFactory_Cannery.description>
 
   <!-- EN: industrial cheese press -->
   <VFEM_IndustrialCheesePress.label>промышленный пресс для сыра</VFEM_IndustrialCheesePress.label>

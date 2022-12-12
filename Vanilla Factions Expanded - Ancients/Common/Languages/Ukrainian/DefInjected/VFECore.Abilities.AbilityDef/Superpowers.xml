@@ -66,7 +66,7 @@
   <!-- EN: empathy -->
   <VFEA_Empathy.label>емпатія</VFEA_Empathy.label>
   <!-- EN: Cast on an ally to give them a strong mood buff lasting 24 hours. -->
-  <VFEA_Empathy.description>Надає союзникові бонус до настрою на 24 години.</VFEA_Empathy.description>
+  <VFEA_Empathy.description>Надає союзниківі бонус до настрою на 24 години.</VFEA_Empathy.description>
   <VFEA_Empathy.jobReportString>Використовує здібність: {0}</VFEA_Empathy.jobReportString>
   <VFEA_Empathy.verbProperties.label>емпатія</VFEA_Empathy.verbProperties.label>
 

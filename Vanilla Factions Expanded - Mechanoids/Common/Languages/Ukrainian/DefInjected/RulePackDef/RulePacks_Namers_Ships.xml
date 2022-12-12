@@ -31,7 +31,7 @@
     <li>maybe_letter->[Letter][Letter]</li>
   -->
   <VFE_NamerShipDestroyer.rulePack.rulesStrings>
-    <li>r_name->эсминец [maybe_letter]-[maybe_number]</li>
+    <li>r_name->есмінець [maybe_letter]-[maybe_number]</li>
 		
     <li>maybe_letter->[Letter]</li>
     <li>maybe_letter->[Letter][Letter]</li>
@@ -80,7 +80,7 @@
   </VFE_NamerShipTroopship.rulePack.rulesFiles>
 
   <VFE_NamerShipTroopship.rulePack.rulesStrings>
-    <li>r_name->транспортник [maybe_letter]-[maybe_number] «[maybe_name]»</li>
+    <li>r_name->транспортер [maybe_letter]-[maybe_number] «[maybe_name]»</li>
 		
     <li>maybe_letter->[Letter]</li>
     <li>maybe_letter->[Letter][Letter]</li>
@@ -108,7 +108,7 @@
   </VFE_NamerShipCarrier.rulePack.rulesFiles>
 
   <VFE_NamerShipCarrier.rulePack.rulesStrings>
-    <li>r_name->носитель [maybe_letter]-[maybe_number] «[maybe_name]»</li>
+    <li>r_name->носій [maybe_letter]-[maybe_number] «[maybe_name]»</li>
 		
     <li>maybe_letter->[Letter]</li>
     <li>maybe_letter->[Letter][Letter]</li>

@@ -18,9 +18,9 @@
   <!-- EN: ship landing destroyer -->
   <VFEM_ShipLandDestroyer.label>посадка эсминца</VFEM_ShipLandDestroyer.label>
   <!-- EN: Ship Landed: destroyer -->
-  <VFEM_ShipLandDestroyer.letterLabel>Приземлился корабель: эсминец</VFEM_ShipLandDestroyer.letterLabel>
+  <VFEM_ShipLandDestroyer.letterLabel>Приземлился корабель: есмінець</VFEM_ShipLandDestroyer.letterLabel>
   <!-- EN: {0} sent a new ship to land on the planet.\n\nDestroyer is a medium-sized ship usually serving as mechanoid hive defender. It has no short range defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
-  <VFEM_ShipLandDestroyer.letterText>{0} отправил новый корабель на поверхность планеты.\n\nЭто эсминец, корабель среднего размера, обычно используемый для обороны роя. У него нет обороны на короткой дистанции. После разрушения, присутствие механоїдів будет снижено.\n\nЕсли корабель останется целым, количество атакующих механоїдів возрастёт.</VFEM_ShipLandDestroyer.letterText>
+  <VFEM_ShipLandDestroyer.letterText>{0} отправил новый корабель на поверхность планеты.\n\nЭто есмінець, корабель среднего размера, обычно используемый для обороны роя. У него нет обороны на короткой дистанции. После разрушения, присутствие механоїдів будет снижено.\n\nЕсли корабель останется целым, количество атакующих механоїдів возрастёт.</VFEM_ShipLandDestroyer.letterText>
 
   <!-- EN: ship landing cruiser -->
   <VFEM_ShipLandCruiser.label>посадка крейсера</VFEM_ShipLandCruiser.label>

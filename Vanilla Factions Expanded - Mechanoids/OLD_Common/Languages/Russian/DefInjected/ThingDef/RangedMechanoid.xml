@@ -10,14 +10,14 @@
   <VFE_Bullet_ChargeBlasterLight.label>выстрел лёгкого бластера</VFE_Bullet_ChargeBlasterLight.label>
 
   <!-- EN: inferno spewer -->
-  <VFE_Gun_InfernoSpewer.label>огнемёт «инферно»</VFE_Gun_InfernoSpewer.label>
+  <VFE_Gun_InfernoSpewer.label>огнемёт «інферно»</VFE_Gun_InfernoSpewer.label>
   <!-- EN: A surprisingly lightweight flamethrower of mechanoid design, while idle the device seems cold as any other, but can immediately heat up to temperatures well above purely human technology. Two undermounted chemfuel tanks allow for an ammo capacity big enough for large plumes of liquid flame. -->
   <VFE_Gun_InfernoSpewer.description>Огнёмет удивляет своим лёгким весом и холодным корпусом. Но внутри него технологии механоїдів и всего через мгновение всё вокруг способно разогреться до температур, превышающих любые достижения человеческой науки. Два приделанных бака химтоплива обеспечат достаточно огня для превращения местности в инферно.</VFE_Gun_InfernoSpewer.description>
   <!-- EN: barrel -->
   <VFE_Gun_InfernoSpewer.tools.barrel.label>ствол</VFE_Gun_InfernoSpewer.tools.barrel.label>
 
-  <VFE_Bullet_InfernoSpewer.label>выстрел огнемёта «инферно»</VFE_Bullet_InfernoSpewer.label>
-  <VFE_Bullet_AdvancedInfernoSpewer.label>выстрел огнемёта «инферно»</VFE_Bullet_AdvancedInfernoSpewer.label>
+  <VFE_Bullet_InfernoSpewer.label>выстрел огнемёта «інферно»</VFE_Bullet_InfernoSpewer.label>
+  <VFE_Bullet_AdvancedInfernoSpewer.label>выстрел огнемёта «інферно»</VFE_Bullet_AdvancedInfernoSpewer.label>
 
   <!-- EN: advanced light charge blaster -->
   <VFE_Gun_AdvancedChargeBlasterLight.label>продвинутый легкий бластер</VFE_Gun_AdvancedChargeBlasterLight.label>
@@ -26,7 +26,7 @@
   <VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>ствол</VFE_Gun_AdvancedChargeBlasterLight.tools.barrel.label>
 
   <!-- EN: advanced inferno spewer -->
-  <VFE_Gun_AdvancedInfernoSpewer.label>продвинутый огнемёт «инферно»</VFE_Gun_AdvancedInfernoSpewer.label>
+  <VFE_Gun_AdvancedInfernoSpewer.label>продвинутый огнемёт «інферно»</VFE_Gun_AdvancedInfernoSpewer.label>
   <!-- EN: A “bunker-busting” incendiary weapon that not only sets targets ablaze but actually superheats the air around hot enough to melt bone. While overall tank size is decreased the heat and damage potential of each plume of flame is significantly raised. -->
   <VFE_Gun_AdvancedInfernoSpewer.description>Запальна зброя, яка не просто підпалює все навколо, а підвищує температуру повітря до значень, що плавлять кістки. Справжній «вбивця бункерів». Хоча обсяг паливного бака знизився, температура і здатність струменів вражаюче зросла.</VFE_Gun_AdvancedInfernoSpewer.description>
   <VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>ствол</VFE_Gun_AdvancedInfernoSpewer.tools.barrel.label>

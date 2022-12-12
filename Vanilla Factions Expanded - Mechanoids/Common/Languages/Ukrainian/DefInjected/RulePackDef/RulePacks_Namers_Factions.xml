@@ -83,29 +83,28 @@
   </VFE_NamerFactionMechanoid.rulePack.rulesFiles>
 
   <VFE_NamerFactionMechanoid.rulePack.rulesStrings>
-    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]ое [smechpart]»</li>
-    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]ая [smechpartF]»</li>
+    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]е [smechpart]»</li>
+    <li>r_name->Мехрой [natoalphabet]-[Digit] «[fmechpart]а [smechpartF]»</li>
 
-    <li>smechpartF->война</li>
-    <li>smechpartF->опека</li>
-    <li>smechpartF->симуляция</li>
-    <li>smechpartF->жатва</li>
-    <li>smechpartF->операция</li>
-    <li>smechpartF->навигация</li>
-    <li>smechpartF->реакция</li>
-    <li>smechpartF->последовательность</li>
-    <li>smechpartF->эгида</li>
+    <li>smechpartF->війна</li>
+    <li>smechpartF->опіка</li>
+    <li>smechpartF->симуляція</li>
+    <li>smechpartF->жнива</li>
+    <li>smechpartF->операція</li>
+    <li>smechpartF->навігація</li>
+    <li>smechpartF->реакція</li>
+    <li>smechpartF->послідовність</li>
+    <li>smechpartF->егіда</li>
     <li>smechpartF->битва</li>
 
-    <li>smechpart->принуждение</li>
-    <li>smechpart->прикрытие</li>
-		<li>smechpart->обнуление</li>
-    <li>smechpart->удаление</li>
-    <li>smechpart->управление</li>
-    <li>smechpart->терраформирование</li>
-    <li>smechpart->вторжение</li>
-    <li>smechpart->уничтожение</li>
-    <li>smechpart->собрание</li>
-    <li>smechpart->подавление</li>
+    <li>smechpart->прикриття</li>
+    <li>smechpart->обнулення</li>
+    <li>smechpart->видалення</li>
+    <li>smechpart->управління</li>
+    <li>smechpart->тераформування</li>
+    <li>smechpart->вторгнення</li>
+    <li>smechpart->знищення</li>
+    <li>smechpart->збори</li>
+    <li>smechpart->пригнічення</li>
   </VFE_NamerFactionMechanoid.rulePack.rulesStrings>
 </LanguageData>

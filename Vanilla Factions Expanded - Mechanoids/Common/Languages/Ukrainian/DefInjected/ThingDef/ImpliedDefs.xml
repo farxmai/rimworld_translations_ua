@@ -1,86 +1,115 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- FROM CORE for consistency -->
+
+  <Corpse_Mech_Centipede.label>труп сентипеди</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_Centipede.description>Труп сентипеди.</Corpse_Mech_Centipede.description>
+
+  <Corpse_Mech_Lancer.label>труп списника</Corpse_Mech_Lancer.label>
+  <Corpse_Mech_Lancer.description>Труп списника.</Corpse_Mech_Lancer.description>
+
+  <Corpse_Mech_Knight.label>труп лицаря</Corpse_Mech_Knight.label>
+  <Corpse_Mech_Knight.description>Труп лицаря.</Corpse_Mech_Knight.description>
+
+  <Corpse_Mech_Inquisitor.label>труп інквізитора</Corpse_Mech_Inquisitor.label>
+  <Corpse_Mech_Inquisitor.description>Труп інквізитора.</Corpse_Mech_Inquisitor.description>
+
+  <Corpse_Mech_Scyther.label>труп жнеця</Corpse_Mech_Scyther.label>
+  <Corpse_Mech_Scyther.description>Труп жнеця.</Corpse_Mech_Scyther.description>
+
+  <Corpse_Mech_Pikeman.label>труп пікінера</Corpse_Mech_Pikeman.label>
+  <Corpse_Mech_Pikeman.description>Труп пікінера.</Corpse_Mech_Pikeman.description>
+
+  <Corpse_Mech_Carpenter.label>труп тесляра</Corpse_Mech_Carpenter.label>
+  <Corpse_Mech_Carpenter.description>Труп тесляра.</Corpse_Mech_Carpenter.description>
+
+  <Corpse_Mech_Termite.label>труп терміта</Corpse_Mech_Termite.label>
+  <Corpse_Mech_Termite.description>Труп терміта.</Corpse_Mech_Termite.description>
+
+    <!-- FROM MOD -->
+    
   <Corpse_VFE_Mechanoids_AutoMedic.label>труп автомедика</Corpse_VFE_Mechanoids_AutoMedic.label>
   <Corpse_VFE_Mechanoids_AutoMedic.description>Труп автомедика.</Corpse_VFE_Mechanoids_AutoMedic.description>
 
-  <Corpse_VFE_Mechanoids_Autostrider.label>труп автостранника</Corpse_VFE_Mechanoids_Autostrider.label>
-  <Corpse_VFE_Mechanoids_Autostrider.description>Труп автостранника.</Corpse_VFE_Mechanoids_Autostrider.description>
+  <Corpse_VFE_Mechanoids_Autostrider.label>труп автострайдера</Corpse_VFE_Mechanoids_Autostrider.label>
+  <Corpse_VFE_Mechanoids_Autostrider.description>Труп автострайдера.</Corpse_VFE_Mechanoids_Autostrider.description>
 
-  <Corpse_VFE_Mechanoids_Raider.label>труп атакующего механоїда</Corpse_VFE_Mechanoids_Raider.label>
-  <Corpse_VFE_Mechanoids_Raider.description>Труп атакующего механоїда.</Corpse_VFE_Mechanoids_Raider.description>
+  <Corpse_VFE_Mechanoids_Raider.label>труп автосолдата</Corpse_VFE_Mechanoids_Raider.label>
+  <Corpse_VFE_Mechanoids_Raider.description>Труп автосолдата.</Corpse_VFE_Mechanoids_Raider.description>
 
-  <Corpse_VFE_Mechanoids_Pyro.label>труп поджигающего механоїда</Corpse_VFE_Mechanoids_Pyro.label>
-  <Corpse_VFE_Mechanoids_Pyro.description>Труп поджигающего механоїда.</Corpse_VFE_Mechanoids_Pyro.description>
+  <Corpse_VFE_Mechanoids_Pyro.label>труп автопалія</Corpse_VFE_Mechanoids_Pyro.label>
+  <Corpse_VFE_Mechanoids_Pyro.description>Труп автопалія.</Corpse_VFE_Mechanoids_Pyro.description>
 
-  <Corpse_VFE_Mechanoids_Autobroadcaster.label>труп автовещателя</Corpse_VFE_Mechanoids_Autobroadcaster.label>
-  <Corpse_VFE_Mechanoids_Autobroadcaster.description>Труп автовещателя.</Corpse_VFE_Mechanoids_Autobroadcaster.description>
+  <Corpse_VFE_Mechanoids_Autobroadcaster.label>труп авторупора</Corpse_VFE_Mechanoids_Autobroadcaster.label>
+  <Corpse_VFE_Mechanoids_Autobroadcaster.description>Труп авторупора.</Corpse_VFE_Mechanoids_Autobroadcaster.description>
 
-  <Corpse_VFE_Mechanoids_Autocleaner.label>труп автоуборщика</Corpse_VFE_Mechanoids_Autocleaner.label>
-  <Corpse_VFE_Mechanoids_Autocleaner.description>Труп автоуборщика.</Corpse_VFE_Mechanoids_Autocleaner.description>
+  <Corpse_VFE_Mechanoids_Autocleaner.label>труп автопилосмоку</Corpse_VFE_Mechanoids_Autocleaner.label>
+  <Corpse_VFE_Mechanoids_Autocleaner.description>Труп автопилосмоку.</Corpse_VFE_Mechanoids_Autocleaner.description>
 
-  <Corpse_VFE_Mechanoids_Autohauler.label>труп автоносильщика</Corpse_VFE_Mechanoids_Autohauler.label>
-  <Corpse_VFE_Mechanoids_Autohauler.description>Труп автоносильщика.</Corpse_VFE_Mechanoids_Autohauler.description>
+  <Corpse_VFE_Mechanoids_Autohauler.label>труп автоносія</Corpse_VFE_Mechanoids_Autohauler.label>
+  <Corpse_VFE_Mechanoids_Autohauler.description>Труп автоносія.</Corpse_VFE_Mechanoids_Autohauler.description>
 
-  <Corpse_VFE_Mechanoids_Autominer.label>труп автошахтёра</Corpse_VFE_Mechanoids_Autominer.label>
-  <Corpse_VFE_Mechanoids_Autominer.description>Труп автошахтёра.</Corpse_VFE_Mechanoids_Autominer.description>
+  <Corpse_VFE_Mechanoids_Autominer.label>труп автошахтара</Corpse_VFE_Mechanoids_Autominer.label>
+  <Corpse_VFE_Mechanoids_Autominer.description>Труп автошахтара.</Corpse_VFE_Mechanoids_Autominer.description>
 
-  <Corpse_VFE_Mechanoids_Combat.label>труп боевого механоїда</Corpse_VFE_Mechanoids_Combat.label>
-  <Corpse_VFE_Mechanoids_Combat.description>Труп боевого механоїда.</Corpse_VFE_Mechanoids_Combat.description>
+  <Corpse_VFE_Mechanoids_Combat.label>труп автострільця</Corpse_VFE_Mechanoids_Combat.label>
+  <Corpse_VFE_Mechanoids_Combat.description>Труп автострільця.</Corpse_VFE_Mechanoids_Combat.description>
 
-  <Corpse_VFE_Mechanoids_Riot.label>труп охранного механоїда</Corpse_VFE_Mechanoids_Riot.label>
-  <Corpse_VFE_Mechanoids_Riot.description>Труп охранного механоїда.</Corpse_VFE_Mechanoids_Riot.description>
+  <Corpse_VFE_Mechanoids_Riot.label>труп автозахистника</Corpse_VFE_Mechanoids_Riot.label>
+  <Corpse_VFE_Mechanoids_Riot.description>Труп автозахистника.</Corpse_VFE_Mechanoids_Riot.description>
 
-  <Corpse_VFE_Mechanoids_Turret.label>труп подвижной турели</Corpse_VFE_Mechanoids_Turret.label>
-  <Corpse_VFE_Mechanoids_Turret.description>Труп подвижной турели.</Corpse_VFE_Mechanoids_Turret.description>
+  <Corpse_VFE_Mechanoids_Turret.label>труп мобільної турелі</Corpse_VFE_Mechanoids_Turret.label>
+  <Corpse_VFE_Mechanoids_Turret.description>Труп мобільної турелі.</Corpse_VFE_Mechanoids_Turret.description>
 
-  <Corpse_VFE_Mech_Centipede.label>труп сентипеды</Corpse_VFE_Mech_Centipede.label>
-  <Corpse_VFE_Mech_Centipede.description>Труп сентипеды.</Corpse_VFE_Mech_Centipede.description>
+  <Corpse_VFE_Mech_Centipede.label>труп сентипеди</Corpse_VFE_Mech_Centipede.label>
+  <Corpse_VFE_Mech_Centipede.description>Труп сентипеди.</Corpse_VFE_Mech_Centipede.description>
 
-  <Corpse_VFE_Mech_Lancer.label>труп улана</Corpse_VFE_Mech_Lancer.label>
-  <Corpse_VFE_Mech_Lancer.description>Труп улана.</Corpse_VFE_Mech_Lancer.description>
+  <Corpse_VFE_Mech_Lancer.label>труп списника</Corpse_VFE_Mech_Lancer.label>
+  <Corpse_VFE_Mech_Lancer.description>Труп списника.</Corpse_VFE_Mech_Lancer.description>
 
-  <Corpse_VFE_Mech_Knight.label>труп витязя</Corpse_VFE_Mech_Knight.label>
-  <Corpse_VFE_Mech_Knight.description>Труп витязя.</Corpse_VFE_Mech_Knight.description>
+  <Corpse_VFE_Mech_Knight.label>труп лицаря</Corpse_VFE_Mech_Knight.label>
+  <Corpse_VFE_Mech_Knight.description>Труп лицаря.</Corpse_VFE_Mech_Knight.description>
 
-  <Corpse_VFE_Mech_Inquisitor.label>труп инквизитора</Corpse_VFE_Mech_Inquisitor.label>
-  <Corpse_VFE_Mech_Inquisitor.description>Труп инквизитора.</Corpse_VFE_Mech_Inquisitor.description>
+  <Corpse_VFE_Mech_Inquisitor.label>труп інквізитора</Corpse_VFE_Mech_Inquisitor.label>
+  <Corpse_VFE_Mech_Inquisitor.description>Труп інквізитора.</Corpse_VFE_Mech_Inquisitor.description>
 
-  <Corpse_VFE_Mech_Scyther.label>труп жнеца</Corpse_VFE_Mech_Scyther.label>
-  <Corpse_VFE_Mech_Scyther.description>Труп жнеца.</Corpse_VFE_Mech_Scyther.description>
+  <Corpse_VFE_Mech_Scyther.label>труп жнеця</Corpse_VFE_Mech_Scyther.label>
+  <Corpse_VFE_Mech_Scyther.description>Труп жнеця.</Corpse_VFE_Mech_Scyther.description>
 
-  <Corpse_VFE_Mech_Pikeman.label>труп драгуна</Corpse_VFE_Mech_Pikeman.label>
-  <Corpse_VFE_Mech_Pikeman.description>Труп драгуна.</Corpse_VFE_Mech_Pikeman.description>
+  <Corpse_VFE_Mech_Pikeman.label>труп пікінера</Corpse_VFE_Mech_Pikeman.label>
+  <Corpse_VFE_Mech_Pikeman.description>Труп пікінера.</Corpse_VFE_Mech_Pikeman.description>
 
-  <Corpse_VFE_Mech_Carpenter.label>труп плотника</Corpse_VFE_Mech_Carpenter.label>
-  <Corpse_VFE_Mech_Carpenter.description>Труп плотника.</Corpse_VFE_Mech_Carpenter.description>
+  <Corpse_VFE_Mech_Carpenter.label>труп тесляра</Corpse_VFE_Mech_Carpenter.label>
+  <Corpse_VFE_Mech_Carpenter.description>Труп тесляра.</Corpse_VFE_Mech_Carpenter.description>
 
-  <Corpse_VFE_Mech_Termite.label>труп термита</Corpse_VFE_Mech_Termite.label>
-  <Corpse_VFE_Mech_Termite.description>Труп термита.</Corpse_VFE_Mech_Termite.description>
+  <Corpse_VFE_Mech_Termite.label>труп терміта</Corpse_VFE_Mech_Termite.label>
+  <Corpse_VFE_Mech_Termite.description>Труп терміта.</Corpse_VFE_Mech_Termite.description>
 
-  <Corpse_VFE_AncientMech_AncientCarpenter.label>труп плотника</Corpse_VFE_AncientMech_AncientCarpenter.label>
-  <Corpse_VFE_AncientMech_AncientCarpenter.description>Труп плотника.</Corpse_VFE_AncientMech_AncientCarpenter.description>
+  <Corpse_VFE_AncientMech_AncientCarpenter.label>труп тесляра</Corpse_VFE_AncientMech_AncientCarpenter.label>
+  <Corpse_VFE_AncientMech_AncientCarpenter.description>Труп тесляра.</Corpse_VFE_AncientMech_AncientCarpenter.description>
 
-  <Corpse_VFE_Mech_AdvancedCentipede.label>труп продвинутой сентипеды</Corpse_VFE_Mech_AdvancedCentipede.label>
-  <Corpse_VFE_Mech_AdvancedCentipede.description>Труп продвинутой сентипеды.</Corpse_VFE_Mech_AdvancedCentipede.description>
+  <Corpse_VFE_Mech_AdvancedCentipede.label>труп просунутої сентипеди</Corpse_VFE_Mech_AdvancedCentipede.label>
+  <Corpse_VFE_Mech_AdvancedCentipede.description>Труп просунутої сентипеди.</Corpse_VFE_Mech_AdvancedCentipede.description>
 
-  <Corpse_VFE_Mech_AdvancedLancer.label>труп продвинутого улана</Corpse_VFE_Mech_AdvancedLancer.label>
-  <Corpse_VFE_Mech_AdvancedLancer.description>Труп продвинутого улана.</Corpse_VFE_Mech_AdvancedLancer.description>
+  <Corpse_VFE_Mech_AdvancedLancer.label>труп просунутого списника</Corpse_VFE_Mech_AdvancedLancer.label>
+  <Corpse_VFE_Mech_AdvancedLancer.description>Труп просунутого списника.</Corpse_VFE_Mech_AdvancedLancer.description>
 
-  <Corpse_VFE_Mech_AdvancedKnight.label>труп продвинутого витязя</Corpse_VFE_Mech_AdvancedKnight.label>
-  <Corpse_VFE_Mech_AdvancedKnight.description>Труп продвинутого витязя.</Corpse_VFE_Mech_AdvancedKnight.description>
+  <Corpse_VFE_Mech_AdvancedKnight.label>труп просунутого лицаря</Corpse_VFE_Mech_AdvancedKnight.label>
+  <Corpse_VFE_Mech_AdvancedKnight.description>Труп просунутого лицаря.</Corpse_VFE_Mech_AdvancedKnight.description>
 
-  <Corpse_VFE_Mech_AdvancedInquisitor.label>труп продвинутого инквизитора</Corpse_VFE_Mech_AdvancedInquisitor.label>
-  <Corpse_VFE_Mech_AdvancedInquisitor.description>Труп продвинутого инквизитора.</Corpse_VFE_Mech_AdvancedInquisitor.description>
+  <Corpse_VFE_Mech_AdvancedInquisitor.label>труп просунутого інквізитора</Corpse_VFE_Mech_AdvancedInquisitor.label>
+  <Corpse_VFE_Mech_AdvancedInquisitor.description>Труп просунутого інквізитора.</Corpse_VFE_Mech_AdvancedInquisitor.description>
 
-  <Corpse_VFE_Mech_AdvancedScyther.label>труп продвинутого жнеца</Corpse_VFE_Mech_AdvancedScyther.label>
-  <Corpse_VFE_Mech_AdvancedScyther.description>Труп продвинутого жнеца.</Corpse_VFE_Mech_AdvancedScyther.description>
+  <Corpse_VFE_Mech_AdvancedScyther.label>труп просунутого жнеця</Corpse_VFE_Mech_AdvancedScyther.label>
+  <Corpse_VFE_Mech_AdvancedScyther.description>Труп просунутого жнеця.</Corpse_VFE_Mech_AdvancedScyther.description>
 
-  <Corpse_VFE_Mech_AdvancedPikeman.label>труп продвинутого драгуна</Corpse_VFE_Mech_AdvancedPikeman.label>
-  <Corpse_VFE_Mech_AdvancedPikeman.description>Труп продвинутого драгуна.</Corpse_VFE_Mech_AdvancedPikeman.description>
+  <Corpse_VFE_Mech_AdvancedPikeman.label>труп просунутого пікінера</Corpse_VFE_Mech_AdvancedPikeman.label>
+  <Corpse_VFE_Mech_AdvancedPikeman.description>Труп просунутого пікінера.</Corpse_VFE_Mech_AdvancedPikeman.description>
 
-  <Corpse_VFE_Mech_AdvancedCarpenter.label>труп продвинутого плотника</Corpse_VFE_Mech_AdvancedCarpenter.label>
-  <Corpse_VFE_Mech_AdvancedCarpenter.description>Труп продвинутого плотника.</Corpse_VFE_Mech_AdvancedCarpenter.description>
+  <Corpse_VFE_Mech_AdvancedCarpenter.label>труп просунутого тесляра</Corpse_VFE_Mech_AdvancedCarpenter.label>
+  <Corpse_VFE_Mech_AdvancedCarpenter.description>Труп просунутого тесляра.</Corpse_VFE_Mech_AdvancedCarpenter.description>
 
-  <Corpse_VFE_Mech_AdvTermite.label>труп продвинутого термита</Corpse_VFE_Mech_AdvTermite.label>
-  <Corpse_VFE_Mech_AdvTermite.description>Труп продвинутого термита.</Corpse_VFE_Mech_AdvTermite.description>
+  <Corpse_VFE_Mech_AdvTermite.label>труп просунутого терміта</Corpse_VFE_Mech_AdvTermite.label>
+  <Corpse_VFE_Mech_AdvTermite.description>Труп просунутого терміта.</Corpse_VFE_Mech_AdvTermite.description>
 </LanguageData>

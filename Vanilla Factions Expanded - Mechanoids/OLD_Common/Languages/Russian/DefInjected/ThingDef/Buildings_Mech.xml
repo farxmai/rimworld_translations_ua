@@ -76,7 +76,7 @@
   <VFE_Gun_ChargeBlasterCannon.description>Бластер механоїдів.</VFE_Gun_ChargeBlasterCannon.description>
 
   <!-- EN: charge lance cannon -->
-  <VFE_Turret_ChargeLanceCannon.label>энергетическое орудие</VFE_Turret_ChargeLanceCannon.label>
+  <VFE_Turret_ChargeLanceCannon.label>енергетичне орудие</VFE_Turret_ChargeLanceCannon.label>
   <!-- EN: A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship. -->
   <VFE_Turret_ChargeLanceCannon.description>Энергетическое орудие точечной защиты. Стреляет заряженными снарядами на дальние дистанции. Является частью большого корабля механоїдів.</VFE_Turret_ChargeLanceCannon.description>
 
@@ -121,17 +121,17 @@
   <VFE_Gun_AutoMortarCannon.description>Автоминомёт механоїдів.</VFE_Gun_AutoMortarCannon.description>
 
   <!-- EN: inferno launcher artillery -->
-  <VFE_Turret_InfernoLauncherArtillery.label>артиллерия «инферно»</VFE_Turret_InfernoLauncherArtillery.label>
+  <VFE_Turret_InfernoLauncherArtillery.label>артилерія «інферно»</VFE_Turret_InfernoLauncherArtillery.label>
   <!-- EN: A massive, triple barreled inferno launcher, usually mounted on spaceships to deal devastating damage to any organic matter onboard hostile crafts. This element is usually a part of a much larger ship. -->
-  <VFE_Turret_InfernoLauncherArtillery.description>Мощная трёхствольная установка «инферно», обычно устанавливаемая на космических кораблях для нанесения сокрушительного урона любой органике на борту вражеских кораблей. Является частью большого корабля механоїдів.</VFE_Turret_InfernoLauncherArtillery.description>
+  <VFE_Turret_InfernoLauncherArtillery.description>Мощная трёхствольная установка «інферно», обычно устанавливаемая на космических кораблях для нанесения сокрушительного урона любой органике на борту вражеских кораблей. Является частью большого корабля механоїдів.</VFE_Turret_InfernoLauncherArtillery.description>
 
   <!-- EN: inferno artillery -->
-  <VFE_Gun_InfernoArtillery.label>артиллерия «инферно»</VFE_Gun_InfernoArtillery.label>
+  <VFE_Gun_InfernoArtillery.label>артилерія «інферно»</VFE_Gun_InfernoArtillery.label>
   <!-- EN: A mechanoid-tech inferno artillery. -->
-  <VFE_Gun_InfernoArtillery.description>Артиллерия «инферно» механоїдів.</VFE_Gun_InfernoArtillery.description>
+  <VFE_Gun_InfernoArtillery.description>Артиллерия «інферно» механоїдів.</VFE_Gun_InfernoArtillery.description>
 
   <!-- EN: inferno artillery shell -->
-  <VFE_Bullet_InfernoArtillery.label>снаряд «инферно»</VFE_Bullet_InfernoArtillery.label>
+  <VFE_Bullet_InfernoArtillery.label>снаряд «інферно»</VFE_Bullet_InfernoArtillery.label>
 
   <!-- EN: charge railgun -->
   <VFE_Turret_ChargeRailgun.label>рельсовая энергопушка</VFE_Turret_ChargeRailgun.label>
