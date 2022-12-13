@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "DocStu_Sofa"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "DocStu_Sofa"]</xpath>
+      <value>
+        <comps>
+          <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+            <randomGraphics>
+              <li>Things/Buildings/Furniture/Sofa</li>
+              <li>Things/Buildings/Furniture/Sofa_Classy</li>
+              <li>Things/Buildings/Furniture/Sofa_Modern</li>
+            </randomGraphics>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "DocStu_Sofa"]/comps</xpath>
+      <value>
+        <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+          <randomGraphics>
+            <li>Things/Buildings/Furniture/Sofa</li>
+            <li>Things/Buildings/Furniture/Sofa_Classy</li>
+            <li>Things/Buildings/Furniture/Sofa_Modern</li>
+          </randomGraphics>
+        </li>
+      </value>
+    </match>
+  </Operation>
+</Patch>
