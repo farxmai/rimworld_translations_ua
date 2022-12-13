@@ -18,8 +18,8 @@
   <Mech_Fabricor.labelPlural>фабрикатори</Mech_Fabricor.labelPlural>
 
   <!-- EN: lifter -->
-  <Mech_Lifter.label>ліфтер</Mech_Lifter.label>
-  <Mech_Lifter.labelPlural>ліфтери</Mech_Lifter.labelPlural>
+  <Mech_Lifter.label>перевізник</Mech_Lifter.label>
+  <Mech_Lifter.labelPlural>перевізники</Mech_Lifter.labelPlural>
 
   <!-- EN: militor -->
   <Mech_Militor.label>солдат</Mech_Militor.label>

@@ -34,7 +34,7 @@
   <Mech_Fabricor.tools.head.label>голова</Mech_Fabricor.tools.head.label>
 
   <!-- EN: lifter -->
-  <Mech_Lifter.label>ліфтер</Mech_Lifter.label>
+  <Mech_Lifter.label>перевізник</Mech_Lifter.label>
   <!-- EN: A small mechanoid designed for hauling. Lacking a ranged weapon, it can make only weak melee attacks. -->
   <Mech_Lifter.description>Маленький механоїд, призначений для перевезення. Не маючи зброї далекого бою, він може робити лише слабкі атаки ближнього бою.</Mech_Lifter.description>
   <!-- EN: head -->
