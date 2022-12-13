@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Make_StoneBlocksBulkAny.label>зробити будья-які блоки x3</Make_StoneBlocksBulkAny.label>
+  <Make_StoneBlocksBulkAny.description>Зробити будья-які блоки x3.</Make_StoneBlocksBulkAny.description>
+  <Make_StoneBlocksBulkAny.jobString>Виготовляє будья-які блоки.</Make_StoneBlocksBulkAny.jobString>
+
+  <Make_StoneBlocksBulkSandstone.label>зробити блоки пісковику x3</Make_StoneBlocksBulkSandstone.label>
+  <Make_StoneBlocksBulkSandstone.description>Зробити блоки пісковику x3.</Make_StoneBlocksBulkSandstone.description>
+  <Make_StoneBlocksBulkSandstone.jobString>Виготовляє блоки пісковику.</Make_StoneBlocksBulkSandstone.jobString>
+
+  <Make_StoneBlocksBulkGranite.label>зробити блоки граніту x3</Make_StoneBlocksBulkGranite.label>
+  <Make_StoneBlocksBulkGranite.description>Зробити блоки граніту x3.</Make_StoneBlocksBulkGranite.description>
+  <Make_StoneBlocksBulkGranite.jobString>Виготовляє блоки граніту.</Make_StoneBlocksBulkGranite.jobString>
+
+  <Make_StoneBlocksBulkLimestone.label>зробити блоки вапняку x3</Make_StoneBlocksBulkLimestone.label>
+  <Make_StoneBlocksBulkLimestone.description>Зробити блоки вапняку x3.</Make_StoneBlocksBulkLimestone.description>
+  <Make_StoneBlocksBulkLimestone.jobString>Виготовляє блоки вапняку.</Make_StoneBlocksBulkLimestone.jobString>
+
+  <Make_StoneBlocksBulkSlate.label>зробити блоки сланцю x3</Make_StoneBlocksBulkSlate.label>
+  <Make_StoneBlocksBulkSlate.description>Зробити блоки сланцю x3.</Make_StoneBlocksBulkSlate.description>
+  <Make_StoneBlocksBulkSlate.jobString>Виготовляє блоки сланцю.</Make_StoneBlocksBulkSlate.jobString>
+
+  <Make_StoneBlocksBulkMarble.label>зробити блоки мармуру x3</Make_StoneBlocksBulkMarble.label>
+  <Make_StoneBlocksBulkMarble.description>Зробити блоки мармуру x3.</Make_StoneBlocksBulkMarble.description>
+  <Make_StoneBlocksBulkMarble.jobString>Виготовляє блоки мармуру.</Make_StoneBlocksBulkMarble.jobString>
+
+</LanguageData>

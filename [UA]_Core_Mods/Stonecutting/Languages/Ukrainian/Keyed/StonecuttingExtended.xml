@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SCE_UsedSkill_Label>Викортовується навичка</SCE_UsedSkill_Label>
+  <SCE_UsedSkill_Description>Навичка, яка використовується для нарізання кам’яних блоків.</SCE_UsedSkill_Description>
+
+  <SCE_WorkingAndLearningSpeed_Label>Швидкість роботи та навчання</SCE_WorkingAndLearningSpeed_Label>
+  <SCE_WorkingAndLearningSpeed_Description>Встановіть множники швидкості роботи та навчання.</SCE_WorkingAndLearningSpeed_Description>
+
+  <SCE_WorkAmountMultiplier>Множник суми роботи</SCE_WorkAmountMultiplier>
+  <SCE_BulkWorkAmountMultiplier>Множник масової роботи x3</SCE_BulkWorkAmountMultiplier>
+  <SCE_SkillLearnFactor>Множник навчання</SCE_SkillLearnFactor>
+
+</LanguageData>

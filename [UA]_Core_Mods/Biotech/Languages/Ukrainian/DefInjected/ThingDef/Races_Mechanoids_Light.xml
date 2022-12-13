@@ -27,7 +27,7 @@
   <Mech_Constructoid.tools.torso.label>torso</Mech_Constructoid.tools.torso.label>
 
   <!-- EN: fabricor -->
-  <Mech_Fabricor.label>виробник</Mech_Fabricor.label>
+  <Mech_Fabricor.label>фабрикатор</Mech_Fabricor.label>
   <!-- EN: A small work mechanoid designed to craft all manner of manufactured objects. It is equipped with a small slug gun for light defense. -->
   <Mech_Fabricor.description>Невеликий робочий механоїд, призначений для створення будь-яких промислових об’єктів. Він оснащений невеликим кулеметом для легкого захисту.</Mech_Fabricor.description>
   <!-- EN: head -->

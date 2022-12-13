@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: agrihand -->
+  <Mech_Agrihand.label>землероб</Mech_Agrihand.label>
+  <Mech_Agrihand.labelPlural>землероби</Mech_Agrihand.labelPlural>
+
+  <!-- EN: cleansweeper -->
+  <Mech_Cleansweeper.label>очисник</Mech_Cleansweeper.label>
+  <Mech_Cleansweeper.labelPlural>очисники</Mech_Cleansweeper.labelPlural>
+
+  <!-- EN: constructoid -->
+  <Mech_Constructoid.label>конструкоїд</Mech_Constructoid.label>
+  <Mech_Constructoid.labelPlural>конструкоїди</Mech_Constructoid.labelPlural>
+
+  <!-- EN: fabricor -->
+  <Mech_Fabricor.label>фабрикатор</Mech_Fabricor.label>
+  <Mech_Fabricor.labelPlural>фабрикатори</Mech_Fabricor.labelPlural>
+
+  <!-- EN: lifter -->
+  <Mech_Lifter.label>ліфтер</Mech_Lifter.label>
+  <Mech_Lifter.labelPlural>ліфтери</Mech_Lifter.labelPlural>
+
+  <!-- EN: militor -->
+  <Mech_Militor.label>солдат</Mech_Militor.label>
+  <Mech_Militor.labelPlural>солдати</Mech_Militor.labelPlural>
+
+  <!-- EN: paramedic -->
+  <Mech_Paramedic.label>фельдшер</Mech_Paramedic.label>
+  <Mech_Paramedic.labelPlural>фельдшери</Mech_Paramedic.labelPlural>
+
+  <!-- EN: war urchin -->
+  <Mech_WarUrchin.label>їжак</Mech_WarUrchin.label>
+  <Mech_WarUrchin.labelPlural>їжаки</Mech_WarUrchin.labelPlural>
+
+</LanguageData>

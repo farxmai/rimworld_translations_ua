@@ -19,5 +19,7 @@
     <li IfModActive="Jaxe.RimHUD">RimHUD</li>
     <li IfModActive="Krafs.LevelUp">LevelUp</li>
     <li IfModActive="PeteTimesSix.SimpleSidearms">SimpleSidearms</li>
+    <li IfModActive="Scherub.StonecuttingExtended">Stonecutting</li>
+    <li IfModActive="notfood.MendAndRecycle">Mending</li>
   </v1.4>
 </loadFolders>

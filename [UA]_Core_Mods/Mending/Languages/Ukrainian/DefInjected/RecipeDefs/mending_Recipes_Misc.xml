@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- EN: mend simple apparel -->
+	<MendSimpleApparel.label>полагодити простий одяг</MendSimpleApparel.label>
+	<!-- EN: Mend simple apparel. -->
+	<MendSimpleApparel.description>Полагодити простий одяг.</MendSimpleApparel.description>
+	<!-- EN: Mending. -->
+	<MendSimpleApparel.jobString>Лагодить простий одяг.</MendSimpleApparel.jobString>
+
+
+	<!-- EN: mend complex apparel -->
+	<MendComplexApparel.label>полагодити складний одяг</MendComplexApparel.label>
+	<!-- EN: Mend armor. -->
+	<MendComplexApparel.description>Полагодити складний одяг.</MendComplexApparel.description>
+	<!-- EN: Mending. -->
+	<MendComplexApparel.jobString>Лагодить складний одяг.</MendComplexApparel.jobString>
+
+
+	<!-- EN: repair simple weapon -->
+	<MendSimpleWeapon.label>полагодити просту зброю</MendSimpleWeapon.label>
+	<!-- EN: Repair weapon. -->
+	<MendSimpleWeapon.description>Полагодити просту зброю.</MendSimpleWeapon.description>
+	<!-- EN: Repairing. -->
+	<MendSimpleWeapon.jobString>Чинит просту зброю</MendSimpleWeapon.jobString>
+
+
+	<!-- EN: repair complex weapon -->
+	<MendComplexWeapon.label>полагодити складну зброю</MendComplexWeapon.label>
+	<!-- EN: Repair weapon. -->
+	<MendComplexWeapon.description>Полагодити складну зброю.</MendComplexWeapon.description>
+	<!-- EN: Repairing. -->
+	<MendComplexWeapon.jobString>Чинит складну зброю</MendComplexWeapon.jobString>
+
+
+	<!-- EN: recycle apparel -->
+	<RecycleApparel.label>розібрати одяг</RecycleApparel.label>
+	<!-- EN: Recycle apparel into their basic components. -->
+	<RecycleApparel.description>Розібрати одяг на складові.</RecycleApparel.description>
+	<!-- EN: Recycling. -->
+	<RecycleApparel.jobString>Розбирає одяг.</RecycleApparel.jobString>
+
+</LanguageData>
