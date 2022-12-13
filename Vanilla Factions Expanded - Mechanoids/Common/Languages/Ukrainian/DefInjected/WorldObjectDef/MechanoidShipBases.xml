@@ -3,25 +3,25 @@
   <!-- EN: mechanoid frigate -->
   <VFEM_Frigate.label>фрегат механоїдів</VFEM_Frigate.label>
   <!-- EN: Slightly increases mechanoid presence. -->
-  <VFEM_Frigate.description>Немного увеличивает присутствие механоїдів.</VFEM_Frigate.description>
+  <VFEM_Frigate.description>Трохи збільшує присутність механоїдів.</VFEM_Frigate.description>
 
   <!-- EN: mechanoid destroyer -->
   <VFEM_Destroyer.label>есмінець механоїдів</VFEM_Destroyer.label>
   <!-- EN: increases mechanoid presence. -->
-  <VFEM_Destroyer.description>Увеличивает присутствие механоїдів.</VFEM_Destroyer.description>
+  <VFEM_Destroyer.description>Збільшує присутність механоїдів.</VFEM_Destroyer.description>
 
   <!-- EN: mechanoid cruiser -->
   <VFEM_Cruiser.label>крейсер механоїдів</VFEM_Cruiser.label>
   <!-- EN: Greatly increases mechanoid presence. -->
-  <VFEM_Cruiser.description>Сильно увеличивает присутствие механоїдів.</VFEM_Cruiser.description>
+  <VFEM_Cruiser.description>Сильно збільшує присутність механоїдів.</VFEM_Cruiser.description>
 
   <!-- EN: mechanoid troopship -->
-  <VFEM_Troopship.label>транспортник механоїдів</VFEM_Troopship.label>
+  <VFEM_Troopship.label>транспортер механоїдів</VFEM_Troopship.label>
   <!-- EN: Drastically increases mechanoid presence. -->
-  <VFEM_Troopship.description>Значительно увеличивает присутствие механоїдів.</VFEM_Troopship.description>
+  <VFEM_Troopship.description>Значно збільшує присутність механоїдів..</VFEM_Troopship.description>
 
   <!-- EN: mechanoid carrier -->
-  <VFEM_Carrier.label>носитель механоїдів</VFEM_Carrier.label>
+  <VFEM_Carrier.label>носій механоїдів</VFEM_Carrier.label>
   <!-- EN: Tremendously increases mechanoid presence. -->
-  <VFEM_Carrier.description>Катастрофически увеличивает присутствие механоїдів.</VFEM_Carrier.description>
+  <VFEM_Carrier.description>Катастрофічно збільшує присутність механоїдів.</VFEM_Carrier.description>
 </LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Use Smart Targeting? -->
+  <AMSC.ToggleSmartTarget>Використовувати розумне наведення?</AMSC.ToggleSmartTarget>
+  <!-- EN: Smart Targeting will automatically attempt to fire at the targets best for the currently loaded shell. -->
+  <AMSC.ToggleSmartTargetDesc>Розумне наведення дозволить автоматично перемикатися на найкращі цілі для заряджених снарядів.</AMSC.ToggleSmartTargetDesc>
+  <!-- EN: Automaticall fight fires? -->
+  <AMSC.ToggleAutoFirefight>Автоматичне гасіння пожеж?</AMSC.ToggleAutoFirefight>
+  <!-- EN: Automatically fire at fire if loaded with firefoam shells? -->
+  <AMSC.ToggleAutoFirefightDesc>Дозволяє автоматично вести вогонь через пожежі, якщо заряджені пінні снаряди.</AMSC.ToggleAutoFirefightDesc>
+  <!-- EN: Smart Shield Tactics -->
+  <AMSC.SmartShieldTactics>Розумна тактика проти щитів</AMSC.SmartShieldTactics>
+  <!-- EN: None -->
+  <AMSC.SmartShieldTactics0>Вимкнена</AMSC.SmartShieldTactics0>
+  <!-- EN: EMP Only -->
+  <AMSC.SmartShieldTactics1>ЕМІ виключно</AMSC.SmartShieldTactics1>
+  <!-- EN: EMP and Check Target -->
+  <AMSC.SmartShieldTactics2>ЕМІ та перевірка цілей</AMSC.SmartShieldTactics2>
+  <!-- EN: EMP and Check Full Path -->
+  <AMSC.SmartShieldTactics3>ЕМІ та повна перевірка</AMSC.SmartShieldTactics3>
+  <!-- EN: Level of smart shield tactics to employ:\nNone: Vanilla Behavior\nEMP Only: Mortars loaded with EMP shells will fire at shields\nEMP and Check Target: As above, and also mortars loaded with non-EMP shells will avoid firing at targets that are directly covered by shields.\nEMP and Check Full Path: Same as EMP Only, and also mortars with non-EMP shells will check their entire fire arc for shields before firing. WARNING: May cause performance issues. Not Recommended. -->
+  <AMSC.SmartShieldTacticsDesc>Рівень розумної тактики проти щитів:\nВимкнена: Без змін\nЕМІ виключно: Міномети, заряджені ЕМІ-снарядами стрілятимуть по щитах\nЕМІ та перевірка цілей: Попередній рівень + міномети, заряджені не ЕМІ-снарядами, будуть уникати стріляти по цілях, укритих щитами.\nЕМІ та повна перевірка: Як «ЕМІ виключно», але міномети, заряджені не ЕМІ-снарядами, перевірятимуть всю дугу польоту снаряда на наявність щитів. УВАГА: може викликати проблеми з продуктивністю. Не рекомендується.</AMSC.SmartShieldTacticsDesc>
+
+</LanguageData>

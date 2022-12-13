@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial apiary -->
+  <VFE_IndustrialApiary.label>станція автопасіки</VFE_IndustrialApiary.label>
+  <!-- EN: A robot-handled artificial apiary that will allow beekeepers to extract honey from bees much faster than usual, and without needing to be manually tended, at the cost of space, a bit of electricity and needing many more flowers nearby. When placed near flowers the industrial apiary will naturally attract wild bees which will make it their new home. Over time these bees will produce honey which will can harvested and eaten directly, or later fermented into mead. -->
+  <VFE_IndustrialApiary.description>Роботизований вулик. Він бере на себе турботу про бджіл, залишаючи людям лише спростився збір готового меду. Необхідно лише вільне місце для квітів та трохи електроенергії. Після розміщення поряд з квітами, промисловий вулик самостійно залучить диких бджіл, які почнуть жити та виробляти мед у ньому. Мед, що отримується, можна збирати і шляхом бродіння перетворювати на алкогольний напій.</VFE_IndustrialApiary.description>
+</LanguageData>

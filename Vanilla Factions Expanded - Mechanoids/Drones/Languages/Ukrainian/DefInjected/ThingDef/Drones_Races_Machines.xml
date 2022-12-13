@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEMA_Mechanoids_Farmer.label>автофермер</VFEMA_Mechanoids_Farmer.label>
+  <VFEMA_Mechanoids_Farmer.description>Простий напівавтономний дрон приблизно людського зросту. Цей дрон здатний вирощувати та збирати рослини на аматорському рівні.</VFEMA_Mechanoids_Farmer.description>
+  <Corpse_VFEMA_Mechanoids_Farmer.label>труп автофермера</Corpse_VFEMA_Mechanoids_Farmer.label>
+  <Corpse_VFEMA_Mechanoids_Farmer.description>Труп автофермера.</Corpse_VFEMA_Mechanoids_Farmer.description>
+
+  <VFEMA_Mechanoids_Kitchen.label>автокухар</VFEMA_Mechanoids_Kitchen.label>
+  <VFEMA_Mechanoids_Kitchen.description>Простий напівавтономний дрон приблизно людського зросту. Цей дрон здатний готувати їжу на аматорському рівні.</VFEMA_Mechanoids_Kitchen.description>
+  <Corpse_VFEMA_Mechanoids_Kitchen.label>труп автокухаря</Corpse_VFEMA_Mechanoids_Kitchen.label>
+  <Corpse_VFEMA_Mechanoids_Kitchen.description>Труп автокухаря.</Corpse_VFEMA_Mechanoids_Kitchen.description>
+
+</LanguageData>

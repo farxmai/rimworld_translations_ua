@@ -1,25 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
-  <v1.2>
-    <li>OLD_Common</li>
-    <li IfModActive="lc.cmc, lc.cmcalt">CMC</li>
-    <li IfModActive="isorex.mechanoidsaddon">VFEM</li>
-    <li IfModActive="VanillaExpanded.VCookE">VCE</li>
-    <li IfModActive="VanillaExpanded.VCEF">VFISH</li>
-    <li IfModActive="VanillaExpanded.VBrewECandT">CAT</li>
-    <li IfModActive="OskarPotocki.VFE.Vikings">VIK</li>
-    <li IfModActive="legodude17.vfemechscp">LAMP</li>
-    <li IfModActive="VanillaExpanded.VBrewE">VBREW</li>
-  </v1.2>
   <v1.3>
     <li>Common</li>
     <li IfModActive="lc.cmc, lc.cmcalt">CMC</li>
     <li IfModActive="VanillaExpanded.VCookE">VCE</li>
     <li IfModActive="VanillaExpanded.VCEF">VFISH</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">CAT</li>
+    <li IfModActive="VanillaExpanded.VBrewE">VBREW</li>
     <li IfModActive="OskarPotocki.VFE.Vikings">VIK</li>
     <li IfModActive="legodude17.vfemechscp">LAMP</li>
-    <li IfModActive="VanillaExpanded.VBrewE">VBREW</li>
+    <li IfModActive="seos.vfe.mechanoids.tab">Tab</li>
+    <li IfModActive="seos.vfe.mechanoids.drones">Drones</li>
   </v1.3>
   <v1.4>
     <li>Common</li>
@@ -27,8 +18,10 @@
     <li IfModActive="VanillaExpanded.VCookE">VCE</li>
     <li IfModActive="VanillaExpanded.VCEF">VFISH</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">CAT</li>
+    <li IfModActive="VanillaExpanded.VBrewE">VBREW</li>
     <li IfModActive="OskarPotocki.VFE.Vikings">VIK</li>
     <li IfModActive="legodude17.vfemechscp">LAMP</li>
-    <li IfModActive="VanillaExpanded.VBrewE">VBREW</li>
+    <li IfModActive="seos.vfe.mechanoids.tab">Tab</li>
+    <li IfModActive="seos.vfe.mechanoids.drones">Drones</li>
   </v1.4>
 </loadFolders>

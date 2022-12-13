@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: make mechanoid component -->
+  <Make_ComponentMechanoid.label>зробити компонент механоїдів</Make_ComponentMechanoid.label>
+  <!-- EN: Make a mechanoid component. -->
+  <Make_ComponentMechanoid.description>Зробити компонент механоїдів.</Make_ComponentMechanoid.description>
+  <!-- EN: Making mechanoid component. -->
+  <Make_ComponentMechanoid.jobString>Виготовляє компонент механоїдів</Make_ComponentMechanoid.jobString>
+</LanguageData>

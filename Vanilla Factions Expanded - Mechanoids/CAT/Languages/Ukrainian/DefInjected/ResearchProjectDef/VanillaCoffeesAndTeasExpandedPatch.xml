@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial roasting -->
+  <VFE_IndustrialRoasting.label>промислове обсмажування</VFE_IndustrialRoasting.label>
+  <!-- EN: Research an industrial-sized oven that deeply roasts coffee beans before dispensing them to a quern that grinds them into grounds. Boiling water is then forced and filtered through the grounds into a mass amount of coffee. Nearby hoppers can also hold other products for processing a number of coffee-related drinks. -->
+  <VFE_IndustrialRoasting.description>Вивчіть обсмажування кавових зерен промислового класу. Тепер кава буде варитися з зерен, що пройшли глибоку обсмажування, якісно перемелених і відфільтрованого окропу, під тиском подрібнених зерен, що пройшло крізь масу. Завдяки їй ідеальним буде не тільки кава, а й інші кавові напої.</VFE_IndustrialRoasting.description>
+</LanguageData>

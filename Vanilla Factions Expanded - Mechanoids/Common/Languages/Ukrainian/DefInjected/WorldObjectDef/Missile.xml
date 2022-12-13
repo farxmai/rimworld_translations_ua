@@ -3,5 +3,5 @@
   <!-- EN: missile -->
   <VFEM_TravelingMissile.label>ракета</VFEM_TravelingMissile.label>
   <!-- EN: missile in flight. -->
-  <VFEM_TravelingMissile.description>Летящая ракета.</VFEM_TravelingMissile.description>
+  <VFEM_TravelingMissile.description>Ракета, що летить.</VFEM_TravelingMissile.description>
 </LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEMA_Mechanoids_FarmerBase.label>зарядна станція автофермера</VFEMA_Mechanoids_FarmerBase.label>
+  <VFEMA_Mechanoids_FarmerBase.description>Станція для збирання та підзарядки автофермера.</VFEMA_Mechanoids_FarmerBase.description>
+
+  <VFEMA_Mechanoids_KitchenBase.label>зарядна станція автокухаря</VFEMA_Mechanoids_KitchenBase.label>
+  <VFEMA_Mechanoids_KitchenBase.description>Станція для збирання та підзарядки автокухаря.</VFEMA_Mechanoids_KitchenBase.description>
+</LanguageData>

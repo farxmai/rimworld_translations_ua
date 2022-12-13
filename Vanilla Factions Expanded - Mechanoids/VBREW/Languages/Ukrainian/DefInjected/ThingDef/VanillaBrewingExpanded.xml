@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Liquor Mixer -->
+  <VFE_LiquorMixer.label>лікерний міксер</VFE_LiquorMixer.label>
+  <!-- EN: A wondrous machine that takes the concept of a pressure cooker to an intoxicating level. Inserted ingredients are turned into a fine paste and mixed with a piping hot liquid loaded with catalytic fermentation accelerators. The process is thoroughly mixed and oxygenated as it cools before being transferred to a high pressure tank. As the process is accelerated and thus affects the taste, the fermenting liquid is agitated and stimulated with more chemicals and electrolysis to replicate a taste and alcohol content close to its desired output. Once finished, it is bottled and cooled to a palatable temperature. -->
+  <VFE_LiquorMixer.description>Дивовижна машина, яка доводить принцип роботи скороварки на п'янкий рівень. Введені інгредієнти перетворюються на дрібну пасту і змішуються з гарячою рідиною, що обпалює, з каталізаторами процесу ферментації. Далі вони ретельно перемішуються, насичуються киснем та охолоджуються перед перенесенням у резервуар високого тиску. Оскільки прискорений процес змінює смак, рідину, що ферментує, збовтують і наповнюють великою кількістю хімічних речовин методом електролізу, щоб відтворити смак і консистенцію оригінального напою. Напій після приготування розливають по пляшках та охолоджують до правильної температури.</VFE_LiquorMixer.description>
+</LanguageData>

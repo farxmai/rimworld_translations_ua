@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial cheesemaking -->
+  <VFE_CheeseMaking.label>промислове сироваріння</VFE_CheeseMaking.label>
+  <!-- EN: Research a tank capable of rapidly heating milk until curds begin to form, then automatically straining and pressing them into multiple wheels of cheese at once. Nearby hoppers can hold enough milk to make several wheels and finished wheels will automatically be dispensed. -->
+  <VFE_CheeseMaking.description>Відкрийте спеціальну ємність, здатну нагрівати молоко та підтримувати його в такому стані до утворення твердих згустків. Згустки автоматично проціджуються та спресовуються до формування кількох голів сиру. За достатньої кількості молока, відразу кілька сирних голів автоматично готуватимуться і вивантажуватимуться.</VFE_CheeseMaking.description>
+
+  <!-- EN: industrial soups -->
+  <VFE_IndustrialSoups.label>промислове суповаріння</VFE_IndustrialSoups.label>
+  <!-- EN: Research a very large vat with a series of mounted, spinning blades towards the top. Attached hoppers can be filled with a variety of raw food products. Thereafter they are vacuumed through the top, sliced and simmered deeply into a variety of soups. Finished soups will be dispensed to an opposing hopper without the need of processing steps. Input and output both are done en masse and require much less management than traditional slow cooking. -->
+  <VFE_IndustrialSoups.description>Відкрийте великий чан з лопатями, що обертаються. Прикріплені до нього вирви можуть бути заповнені різноманітними продуктами. Вони втягуються в основний чан, нарізаються і за допомогою термічної обробки перетворюються на різні супи. Готові супи переливаються в окрему ємність без додаткової обробки. Вхід та вихід готової продукції здійснюється в масовому порядку і вимагають набагато менше дій, ніж традиційне повільне приготування їжі.</VFE_IndustrialSoups.description>
+</LanguageData>

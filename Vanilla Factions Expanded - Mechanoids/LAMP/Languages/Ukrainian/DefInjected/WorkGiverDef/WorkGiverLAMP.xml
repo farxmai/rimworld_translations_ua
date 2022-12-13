@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: rearm automatic mortars -->
+  <SC_RearmAuto.label>перезарядити автоміномети</SC_RearmAuto.label>
+  <!-- EN: rearming -->
+  <SC_RearmAuto.verb>перезаряджає</SC_RearmAuto.verb>
+  <!-- EN: rearm -->
+  <SC_RearmAuto.gerund>перезарядити</SC_RearmAuto.gerund>
+
+</LanguageData>

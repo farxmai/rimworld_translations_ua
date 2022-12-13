@@ -23,9 +23,10 @@
     <li>VanillaExpanded.VCookE</li>
     <li>VanillaExpanded.VCEF</li>
     <li>VanillaExpanded.VBrewECandT</li>
-    <li>OskarPotocki.VFE.Vikings</li>
-    <li>isorex.mechanoidsaddon</li>
-    <li>legodude17.vfemechscp</li>
     <li>VanillaExpanded.VBrewE</li>
+    <li>OskarPotocki.VFE.Vikings</li>
+    <li>legodude17.vfemechscp</li>
+    <li>seos.vfe.mechanoids.tab</li>
+    <li>seos.vfe.mechanoids.drones</li>
   </loadAfter>
 </ModMetaData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: industrial beekeeping -->
+  <VFE_IndustrialBeekeeping.label>промислове бджільництво</VFE_IndustrialBeekeeping.label>
+  <!-- EN: Research a robot-handled artificial apiary that will allow beekeepers to extract honey from bees much faster than usual. -->
+  <VFE_IndustrialBeekeeping.description>Вивчіть роботизований вулик. Він зможе взяти на себе турботу про бджіл, залишаючи людям лише збір готового меду.</VFE_IndustrialBeekeeping.description>
+</LanguageData>
