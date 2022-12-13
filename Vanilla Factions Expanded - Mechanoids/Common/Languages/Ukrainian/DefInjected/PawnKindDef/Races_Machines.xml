@@ -2,46 +2,46 @@
 <LanguageData>
 
   <!-- EN: autocleaner -->
-  <VFE_Mechanoids_Autocleaner.label>авто-прибиральник</VFE_Mechanoids_Autocleaner.label>
-  <VFE_Mechanoids_Autocleaner.labelPlural>авто-прибиральники</VFE_Mechanoids_Autocleaner.labelPlural>
+  <VFE_Mechanoids_Autocleaner.label>автопилосмок</VFE_Mechanoids_Autocleaner.label>
+  <VFE_Mechanoids_Autocleaner.labelPlural>автопилосмоки</VFE_Mechanoids_Autocleaner.labelPlural>
 
   <!-- EN: autohauler -->
-  <VFE_Mechanoids_Autohauler.label>авто-носій</VFE_Mechanoids_Autohauler.label>
-  <VFE_Mechanoids_Autohauler.labelPlural>авто-носії</VFE_Mechanoids_Autohauler.labelPlural>
+  <VFE_Mechanoids_Autohauler.label>автоносій</VFE_Mechanoids_Autohauler.label>
+  <VFE_Mechanoids_Autohauler.labelPlural>автоносії</VFE_Mechanoids_Autohauler.labelPlural>
 
   <!-- EN: autominer -->
-  <VFE_Mechanoids_Autominer.label>авто-шахтар</VFE_Mechanoids_Autominer.label>
-  <VFE_Mechanoids_Autominer.labelPlural>авто-шахтарі</VFE_Mechanoids_Autominer.labelPlural>
+  <VFE_Mechanoids_Autominer.label>автошахтар</VFE_Mechanoids_Autominer.label>
+  <VFE_Mechanoids_Autominer.labelPlural>автошахтарі</VFE_Mechanoids_Autominer.labelPlural>
 
   <!-- EN: combat mechanoid -->
-  <VFE_Mechanoids_Combat.label>авто-стрілець</VFE_Mechanoids_Combat.label>
-  <VFE_Mechanoids_Combat.labelPlural>авто-стрільці</VFE_Mechanoids_Combat.labelPlural>
+  <VFE_Mechanoids_Combat.label>автострілець</VFE_Mechanoids_Combat.label>
+  <VFE_Mechanoids_Combat.labelPlural>автострільці</VFE_Mechanoids_Combat.labelPlural>
 
   <!-- EN: combat mechanoid -->
-  <VFE_Mechanoids_Riot.label>авто-захистник</VFE_Mechanoids_Riot.label>
-  <VFE_Mechanoids_Riot.labelPlural>авто-захистники</VFE_Mechanoids_Riot.labelPlural>
+  <VFE_Mechanoids_Riot.label>автозахистник</VFE_Mechanoids_Riot.label>
+  <VFE_Mechanoids_Riot.labelPlural>автозахистники</VFE_Mechanoids_Riot.labelPlural>
 
   <!-- EN: mobile turret -->
   <VFE_Mechanoids_Turret.label>мобільна турель</VFE_Mechanoids_Turret.label>
   <VFE_Mechanoids_Turret.labelPlural>мобільні турелі</VFE_Mechanoids_Turret.labelPlural>
 
   <!-- EN: autostrider -->
-  <VFE_Mechanoids_Autostrider.label>авто-страйдер</VFE_Mechanoids_Autostrider.label>
-  <VFE_Mechanoids_Autostrider.labelPlural>авто-страйдери</VFE_Mechanoids_Autostrider.labelPlural>
+  <VFE_Mechanoids_Autostrider.label>автострайдер</VFE_Mechanoids_Autostrider.label>
+  <VFE_Mechanoids_Autostrider.labelPlural>автострайдери</VFE_Mechanoids_Autostrider.labelPlural>
 
   <!-- EN: auto-medic -->
-  <VFE_Mechanoids_AutoMedic.label>авто-медик</VFE_Mechanoids_AutoMedic.label>
-  <VFE_Mechanoids_AutoMedic.labelPlural>авто-медики</VFE_Mechanoids_AutoMedic.labelPlural>
+  <VFE_Mechanoids_AutoMedic.label>автомедик</VFE_Mechanoids_AutoMedic.label>
+  <VFE_Mechanoids_AutoMedic.labelPlural>автомедики</VFE_Mechanoids_AutoMedic.labelPlural>
 
   <!-- EN: raider mechanoid -->
-  <VFE_Mechanoids_Raider.label>авто-нападаючий</VFE_Mechanoids_Raider.label>
-  <VFE_Mechanoids_Raider.labelPlural>авто-нападаючі</VFE_Mechanoids_Raider.labelPlural>
+  <VFE_Mechanoids_Raider.label>автосолдат</VFE_Mechanoids_Raider.label>
+  <VFE_Mechanoids_Raider.labelPlural>автосолдати</VFE_Mechanoids_Raider.labelPlural>
 
   <!-- EN: pyro mechanoid -->
-  <VFE_Mechanoids_Pyro.label>авто-палій</VFE_Mechanoids_Pyro.label>
-  <VFE_Mechanoids_Pyro.labelPlural>авто-палії</VFE_Mechanoids_Pyro.labelPlural>
+  <VFE_Mechanoids_Pyro.label>автопалій</VFE_Mechanoids_Pyro.label>
+  <VFE_Mechanoids_Pyro.labelPlural>автопалії</VFE_Mechanoids_Pyro.labelPlural>
 
   <!-- EN: autobroadcaster -->
-  <VFE_Mechanoids_Autobroadcaster.label>авто-вістник</VFE_Mechanoids_Autobroadcaster.label>
-  <VFE_Mechanoids_Autobroadcaster.labelPlural>авто-вістники</VFE_Mechanoids_Autobroadcaster.labelPlural>
+  <VFE_Mechanoids_Autobroadcaster.label>авторупор</VFE_Mechanoids_Autobroadcaster.label>
+  <VFE_Mechanoids_Autobroadcaster.labelPlural>авторупори</VFE_Mechanoids_Autobroadcaster.labelPlural>
 </LanguageData>
