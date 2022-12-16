@@ -1,4 +1,5 @@
 <Defs>
+
 	<!-- Wood-fired Heater -->
 	<ThingDef ParentName="BuildingBase">
 		<defName>FFE_WoodFiredHeater</defName>
@@ -9,10 +10,10 @@
 		<graphicData>
 			<drawSize>1.2</drawSize>
 			<drawOffsetNorth>(0,1,0.15)</drawOffsetNorth>
-			<texPath>Things/Buildings/WoodFiredHeater</texPath>
+			<texPath>Things/Building/Heater/WoodFiredHeater</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shadowData>
-				<volume>(0.5,0.3,0.7)</volume>1 
+				<volume>(0.5,0.3,0.7)</volume>
 				<offset>(0,0,-0.15)</offset>
 			</shadowData>
 			<damageData>
@@ -53,7 +54,7 @@
 		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
 		<comps>
 			<li Class="CompProperties_Refuelable">
-				<fuelConsumptionRate>6.0</fuelConsumptionRate>
+				<fuelConsumptionRate>4.5</fuelConsumptionRate>
 				<fuelConsumptionPerTickInRain>0.0003</fuelConsumptionPerTickInRain>
 				<fuelCapacity>30.0</fuelCapacity>
 				<fuelFilter>
@@ -80,4 +81,5 @@
 		<designationHotKey>Misc2</designationHotKey>
 		<constructionSkillPrerequisite>3</constructionSkillPrerequisite>
 	</ThingDef>
+
 </Defs>

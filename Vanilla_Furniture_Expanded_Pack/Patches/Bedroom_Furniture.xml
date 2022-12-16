@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "FFE_Sofa"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_Sofa"]</xpath>
+      <value>
+        <comps>
+          <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+            <randomGraphics>
+              <li>Things/Building/Sofa/Sofa</li>
+              <li>Things/Building/Sofa/SofaA</li>
+              <li>Things/Building/Sofa/SofaB</li>
+            </randomGraphics>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_Sofa"]/comps</xpath>
+      <value>
+        <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+          <randomGraphics>
+            <li>Things/Building/Sofa/Sofa</li>
+            <li>Things/Building/Sofa/SofaA</li>
+            <li>Things/Building/Sofa/SofaB</li>
+          </randomGraphics>
+        </li>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "FFE_Mirror"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_Mirror"]</xpath>
+      <value>
+        <comps>
+          <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+            <randomGraphics>
+              <li>Things/Building/Mirror/Mirror</li>
+              <li>Things/Building/Mirror/MirrorA</li>
+              <li>Things/Building/Mirror/MirrorB</li>
+            </randomGraphics>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_Mirror"]/comps</xpath>
+      <value>
+        <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+          <randomGraphics>
+            <li>Things/Building/Mirror/Mirror</li>
+            <li>Things/Building/Mirror/MirrorA</li>
+            <li>Things/Building/Mirror/MirrorB</li>
+          </randomGraphics>
+        </li>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "FFE_CupboardSmall"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_CupboardSmall"]</xpath>
+      <value>
+        <comps>
+          <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+            <randomGraphics>
+              <li>Things/Building/CupboardSmall/Cupboard</li>
+              <li>Things/Building/CupboardSmall/CupboardA</li>
+              <li>Things/Building/CupboardSmall/CupboardB</li>
+              <li>Things/Building/CupboardSmall/CupboardC</li>
+              <li>Things/Building/CupboardSmall/CupboardD</li>
+              <li>Things/Building/CupboardSmall/CupboardE</li>
+            </randomGraphics>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_CupboardSmall"]/comps</xpath>
+      <value>
+        <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+          <randomGraphics>
+            <li>Things/Building/CupboardSmall/Cupboard</li>
+            <li>Things/Building/CupboardSmall/CupboardA</li>
+            <li>Things/Building/CupboardSmall/CupboardB</li>
+            <li>Things/Building/CupboardSmall/CupboardC</li>
+            <li>Things/Building/CupboardSmall/CupboardD</li>
+            <li>Things/Building/CupboardSmall/CupboardE</li>
+          </randomGraphics>
+        </li>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "FFE_CupboardLarge"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_CupboardLarge"]</xpath>
+      <value>
+        <comps>
+          <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+            <randomGraphics>
+              <li>Things/Building/CupboardLarge/Cupboard</li>
+              <li>Things/Building/CupboardLarge/CupboardA</li>
+              <li>Things/Building/CupboardLarge/CupboardB</li>
+              <li>Things/Building/CupboardLarge/CupboardC</li>
+              <li>Things/Building/CupboardLarge/CupboardD</li>
+              <li>Things/Building/CupboardLarge/CupboardE</li>
+            </randomGraphics>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "FFE_CupboardLarge"]/comps</xpath>
+      <value>
+        <li Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+          <randomGraphics>
+            <li>Things/Building/CupboardLarge/Cupboard</li>
+            <li>Things/Building/CupboardLarge/CupboardA</li>
+            <li>Things/Building/CupboardLarge/CupboardB</li>
+            <li>Things/Building/CupboardLarge/CupboardC</li>
+            <li>Things/Building/CupboardLarge/CupboardD</li>
+            <li>Things/Building/CupboardLarge/CupboardE</li>
+          </randomGraphics>
+        </li>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name = "BasicBedBase"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>FFE_Mirror</li>
+      <li>FFE_Divider</li>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <success>Always</success>
+    <mods>
+      <li>Vanilla Furniture Expanded Pack</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Bed_AdvBed" or defName = "Bed_AdvDoubleBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+          <value>
+            <li>FFE_Mirror</li>
+            <li>FFE_Divider</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
