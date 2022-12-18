@@ -253,18 +253,20 @@
 		</match>
 	</Operation>
 
-	<!-- <Operation Class="PatchOperationFindMod">
+	<Operation Class="PatchOperationFindMod">
 		<mods>
 			<li>LWM's Deep Storage</li>
 		</mods>
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="LWM_Clothing_Rack"]/graphicData</xpath>
 			<value>
-				<texPath>Things/Building/ClothingRack/ClothingRack</texPath>
-				<graphicClass>Graphic_Multi</graphicClass>
-				<drawSize>(3,2)</drawSize>
+				<graphicData>
+					<texPath>Things/Building/ClothingRack/ClothingRack</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
 			</value>
 		</match>
-	</Operation> -->
+	</Operation>
 
 </Patch>
