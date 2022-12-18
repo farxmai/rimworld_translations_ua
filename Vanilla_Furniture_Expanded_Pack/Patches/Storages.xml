@@ -253,7 +253,7 @@
 		</match>
 	</Operation>
 
-	<Operation Class="PatchOperationFindMod">
+	<!-- <Operation Class="PatchOperationFindMod">
 		<mods>
 			<li>LWM's Deep Storage</li>
 		</mods>
@@ -265,6 +265,6 @@
 				<drawSize>(3,2)</drawSize>
 			</value>
 		</match>
-	</Operation>
+	</Operation> -->
 
 </Patch>
