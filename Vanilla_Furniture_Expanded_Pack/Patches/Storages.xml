@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
+			<value>
+				<ThingDef ParentName="LWM_DeepStorage">
+					<defName>LWM_Medicine_Cabinet</defName>
+					<label>Medicine Cabinet</label>
+					<description>A set of cabinets and shelves for stocking medicines and drugs.  Recommended: keep an eye on children.</description>
+					<pathCost>50</pathCost>
+					<building>
+						<paintable>true</paintable>
+					</building>
+					<graphicData>
+						<texPath>Things/Building/MedCab/MedShelf</texPath>
+						<graphicClass>Graphic_Multi</graphicClass>
+						<shaderType>CutoutComplex</shaderType>
+						<drawSize>(3.55,3.45)</drawSize>
+						<shadowData>
+							<volume>(0.30, 0.30, 0.40)</volume>
+						</shadowData>
+					</graphicData>
+					<size>(1,1)</size>
+					<uiIconScale>0.5</uiIconScale>
+					<altitudeLayer>Building</altitudeLayer>
+					<defaultPlacingRot>South</defaultPlacingRot>
+					<castEdgeShadows>true</castEdgeShadows>
+					<passability>PassThroughOnly</passability>
+					<stuffCategories>
+						<li>Metallic</li>
+						<li>Woody</li>
+					</stuffCategories>
+					<costStuffCount>50</costStuffCount>
+					<statBases>
+						<Beauty>1</Beauty>
+						<MaxHitPoints>25</MaxHitPoints>
+						<Mass>8</Mass>
+						<WorkToBuild>500</WorkToBuild>
+						<Flammability>1.0</Flammability>
+					</statBases>
+					<building>
+						<fixedStorageSettings>
+							<filter>
+								<categories>
+									<li>Medicine</li>
+									<li>Drugs</li>
+								</categories>
+								<thingDefs>
+									<li>Neutroamine</li>
+								</thingDefs>
+							</filter>
+						</fixedStorageSettings>
+					</building>
+					<comps>
+						<li Class="LWM.DeepStorage.Properties">
+							<maxNumberStacks>5</maxNumberStacks>
+							<minTimeStoringTakes>250</minTimeStoringTakes>
+							<additionalTimeEachStack>25</additionalTimeEachStack>
+							<additionalTimeEachDef>25</additionalTimeEachDef>
+							<additionalTimeStackSize>5</additionalTimeStackSize>
+							<overlayType>SumOfAllItems</overlayType>
+						</li>
+						<li>
+							<compClass>CompQuality</compClass>
+						</li>
+						<li>
+							<compClass>CompColorable</compClass>
+						</li>
+					</comps>
+				</ThingDef>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]</xpath>
+			<value>
+				<ThingDef ParentName="LWM_DeepStorage">
+					<defName>LWM_WeaponsLocker</defName>
+					<label>Weapons Locker</label>
+					<description>A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside.</description>
+					<pathCost>50</pathCost>
+					<building>
+						<paintable>true</paintable>
+					</building>
+					<graphicData>
+						<texPath>Things/Building/WeaponLocker/WeaponLocker</texPath>
+						<graphicClass>Graphic_Multi</graphicClass>
+						<drawSize>(3.55,3.45)</drawSize>
+						<shadowData>
+							<volume>(0.30, 0.30, 0.40)</volume>
+						</shadowData>
+					</graphicData>
+					<size>(1,1)</size>
+					<uiIconScale>0.5</uiIconScale>
+					<altitudeLayer>Building</altitudeLayer>
+					<defaultPlacingRot>South</defaultPlacingRot>
+					<castEdgeShadows>true</castEdgeShadows>
+					<passability>PassThroughOnly</passability>
+					<statBases>
+						<Beauty>0.7</Beauty>
+						<MaxHitPoints>150</MaxHitPoints>
+						<WorkToBuild>600</WorkToBuild>
+						<Flammability>0.1</Flammability>
+						<Mass>8</Mass>
+					</statBases>
+					<stuffCategories>
+						<li>Metallic</li>
+					</stuffCategories>
+					<costStuffCount>70</costStuffCount>
+					<building>
+						<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+						<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+						<fixedStorageSettings>
+							<priority>Important</priority>
+							<filter>
+								<categories>
+									<li>Weapons</li>
+									<li>Artifacts</li>
+									<li>ApparelUtility</li>
+								</categories>
+							</filter>
+						</fixedStorageSettings>
+						<defaultStorageSettings>
+							<priority>Important</priority>
+							<filter>
+								<categories>
+									<li>WeaponsRanged</li>
+								</categories>
+							</filter>
+						</defaultStorageSettings>
+					</building>
+					<comps>
+						<li Class="LWM.DeepStorage.Properties">
+							<minNumberStacks>2</minNumberStacks>
+							<maxNumberStacks>50</maxNumberStacks>
+							<maxTotalMass>50</maxTotalMass>
+							<maxMassOfStoredItem>10</maxMassOfStoredItem>
+							<timeStoringTakes>120</timeStoringTakes>
+							<showContents>false</showContents>
+							<overlayType>CountOfStacksPerCell</overlayType>
+						</li>
+						<li>
+							<compClass>CompQuality</compClass>
+						</li>
+						<li>
+							<compClass>CompColorable</compClass>
+						</li>
+					</comps>
+					<researchPrerequisites>
+						<li>ComplexFurniture</li>
+						<li>Machining</li>
+					</researchPrerequisites>
+				</ThingDef>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]</xpath>
+			<value>
+				<ThingDef ParentName="LWM_DeepStorage">
+					<defName>LWM_WeaponsCabinet</defName>
+					<label>Weapons Cabinet</label>
+					<description>A sturdy cabinet for storing multiple weapons. Items stored in this will not deteriorate, even if outside.</description>
+					<pathCost>50</pathCost>
+					<building>
+						<paintable>true</paintable>
+					</building>
+					<graphicData>
+						<texPath>Things/Building/WeaponLocker/WeaponCabinet</texPath>
+						<graphicClass>Graphic_Multi</graphicClass>
+						<drawSize>(3.55,3.45)</drawSize>
+						<shadowData>
+							<volume>(0.30, 0.30, 0.40)</volume>
+						</shadowData>
+					</graphicData>
+					<size>(1,1)</size>
+					<uiIconScale>0.5</uiIconScale>
+					<altitudeLayer>Building</altitudeLayer>
+					<defaultPlacingRot>South</defaultPlacingRot>
+					<castEdgeShadows>true</castEdgeShadows>
+					<passability>PassThroughOnly</passability>
+					<statBases>
+						<Beauty>3.5</Beauty>
+						<MaxHitPoints>200</MaxHitPoints>
+						<WorkToBuild>600</WorkToBuild>
+						<Flammability>1.0</Flammability>
+						<Mass>8</Mass>
+					</statBases>
+					<stuffCategories>
+						<li>Woody</li>
+						<li>Metallic</li>
+					</stuffCategories>
+					<costStuffCount>75</costStuffCount>
+					<building>
+						<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+						<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+						<fixedStorageSettings>
+							<priority>Important</priority>
+							<filter>
+								<categories>
+									<li>Weapons</li>
+									<li>Artifacts</li>
+									<li>ApparelUtility</li>
+								</categories>
+							</filter>
+						</fixedStorageSettings>
+						<defaultStorageSettings>
+							<priority>Important</priority>
+							<filter>
+								<categories>
+									<li>Weapons</li>
+								</categories>
+							</filter>
+						</defaultStorageSettings>
+					</building>
+					<comps>
+						<li Class="LWM.DeepStorage.Properties">
+							<minNumberStacks>2</minNumberStacks>
+							<maxNumberStacks>30</maxNumberStacks>
+							<maxTotalMass>30</maxTotalMass>
+							<maxMassOfStoredItem>10</maxMassOfStoredItem>
+							<timeStoringTakes>100</timeStoringTakes>
+							<showContents>false</showContents>
+							<overlayType>CountOfStacksPerCell</overlayType>
+						</li>
+						<li>
+							<compClass>CompQuality</compClass>
+						</li>
+						<li>
+							<compClass>CompColorable</compClass>
+						</li>
+					</comps>
+					<researchPrerequisites>
+						<li>ComplexFurniture</li>
+					</researchPrerequisites>
+				</ThingDef>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Clothing_Rack"]/graphicData</xpath>
+			<value>
+				<texPath>Things/Building/ClothingRack/ClothingRack</texPath>
+				<graphicClass>Graphic_Multi</graphicClass>
+				<drawSize>(3,2)</drawSize>
+			</value>
+		</match>
+	</Operation>
+
+</Patch>

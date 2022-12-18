@@ -9,7 +9,7 @@
 		<category>Building</category>
 		<graphicData>
 			<drawSize>1.2</drawSize>
-			<drawOffsetNorth>(0,1,0.15)</drawOffsetNorth>
+			<drawOffset>(0,1,0.15)</drawOffset>
 			<texPath>Things/Building/Heater/WoodFiredHeater</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shadowData>

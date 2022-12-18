@@ -1,7 +1,30 @@
 <Defs>
 
+  <ThingDef Name="FFE_FurnitureWithQualityBase" ParentName="FurnitureWithQualityBase" Abstract="True">
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <pathCost>50</pathCost>
+    <defaultPlacingRot>South</defaultPlacingRot>
+    <surfaceType>Item</surfaceType>
+    <canOverlapZones>true</canOverlapZones>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+    <building>
+      <paintable>true</paintable>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+    <clearBuildingArea>true</clearBuildingArea>
+  </ThingDef>
+
+
   <!-- Sofa -->
-  <ThingDef ParentName="FurnitureWithQualityBase">
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_Sofa</defName>
     <label>sofa</label>
     <description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</description>
@@ -49,7 +72,7 @@
   </ThingDef>
 
   <!-- Mirror -->
-  <ThingDef ParentName="FurnitureWithQualityBase">
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_Mirror</defName>
     <label>mirror</label>
     <description>A standing mirror. Must be placed near the bed. Placing more than one mirror near the same bed has no effect.</description>
@@ -101,7 +124,7 @@
   </ThingDef>
 
   <!-- Divider -->
-  <ThingDef ParentName="FurnitureWithQualityBase">
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_Divider</defName>
     <label>divider</label>
     <description>A tall, impassable room divider. Must be placed near the bed. Placing more than one divider near the same bed has no effect.</description>
@@ -149,7 +172,7 @@
   </ThingDef>
 
   <!-- Small Cupboard -->
-  <ThingDef ParentName="FurnitureWithQualityBase">
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_CupboardSmall</defName>
     <label>small cupboard</label>
     <description>A simple small cupboard for room decorating.</description>
@@ -188,7 +211,7 @@
   </ThingDef>
 
   <!-- Large Cupboard -->
-  <ThingDef ParentName="FurnitureWithQualityBase">
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_CupboardLarge</defName>
     <label>large cupboard</label>
     <description>A simple large cupboard for room decorating.</description>

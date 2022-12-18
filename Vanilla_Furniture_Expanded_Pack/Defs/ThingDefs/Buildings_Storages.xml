@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>StandAlonePalletesDropdownDef</defName>
+  </DesignatorDropdownGroupDef>
+
+  <ThingDef Name="FFE_PalletBase" ParentName="LWM_DeepStorage" Abstract="true">
+    <rotatable>false</rotatable>
+    <staticSunShadowHeight>0.1</staticSunShadowHeight>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <building>
+      <paintable>true</paintable>
+      <isInert>true</isInert>
+      <preventDeteriorationOnTop>false</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>false</ignoreStoredThingsBeauty>
+      <fixedStorageSettings>
+        <filter>
+          <categories>
+            <li>ResourcesRaw</li>
+            <li>Textiles</li>
+          </categories>
+          <disallowedCategories>
+            <li>PlantMatter</li>
+          </disallowedCategories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <categories>
+            <li>ResourcesRaw</li>
+            <li>Textiles</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+  </ThingDef>
+
+  <ThingDef Name="FFE_PalletBoxesBase" ParentName="FFE_PalletBase" Abstract="true">
+    <rotatable>false</rotatable>
+    <staticSunShadowHeight>0.1</staticSunShadowHeight>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <building>
+      <paintable>true</paintable>
+      <isInert>true</isInert>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <fixedStorageSettings>
+        <filter>
+          <categories>
+            <li>ResourcesRaw</li>
+            <li>Manufactured</li>
+            <li>PlantFoodRaw</li>
+            <li>Unfinished</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <categories>
+            <li>ResourcesRaw</li>
+            <li>Textiles</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBase">
+    <defName>FFE_PalletSmall</defName>
+    <label>small pallet</label>
+    <description>A flat small pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/Pallet/PalletSmall</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <uiIconScale>0.5</uiIconScale>
+    <statBases>
+      <MaxHitPoints>30</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>10</Mass>
+    </statBases>
+    <costStuffCount>25</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>3</maxNumberStacks>
+        <minTimeStoringTakes>200</minTimeStoringTakes>
+        <additionalTimeEachStack>110</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBase">
+    <defName>FFE_PalletMedium</defName>
+    <label>medium pallet</label>
+    <description>A flat pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/Pallet/PalletMedium</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <size>(2,1)</size>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>20</Mass>
+    </statBases>
+    <costStuffCount>50</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>3</maxNumberStacks>
+        <minTimeStoringTakes>300</minTimeStoringTakes>
+        <additionalTimeEachStack>120</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBase">
+    <defName>FFE_PalletLarge</defName>
+    <label>large pallet</label>
+    <description>A flat large pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/Pallet/PalletLarge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>40</Mass>
+    </statBases>
+    <costStuffCount>100</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>4</maxNumberStacks>
+        <minTimeStoringTakes>300</minTimeStoringTakes>
+        <additionalTimeEachStack>130</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBoxesBase">
+    <defName>FFE_PalletBoxesSmall</defName>
+    <label>small pallet</label>
+    <description>A flat small pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/PalletBoxesSmall</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <uiIconScale>0.5</uiIconScale>
+    <statBases>
+      <MaxHitPoints>30</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>10</Mass>
+    </statBases>
+    <costStuffCount>25</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>3</maxNumberStacks>
+        <minTimeStoringTakes>200</minTimeStoringTakes>
+        <additionalTimeEachStack>110</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBoxesBase">
+    <defName>FFE_PalletBoxesMedium</defName>
+    <label>medium pallet</label>
+    <description>A flat pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/PalletBoxesMedium</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <size>(2,1)</size>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>20</Mass>
+    </statBases>
+    <costStuffCount>50</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>3</maxNumberStacks>
+        <minTimeStoringTakes>300</minTimeStoringTakes>
+        <additionalTimeEachStack>120</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_PalletBoxesBase">
+    <defName>FFE_PalletBoxesLarge</defName>
+    <label>large pallet</label>
+    <description>A flat large pallet for packing things. Does not protect against the weather. Sometimes difficult to manage, but useful nonetheless.</description>
+    <graphicData>
+      <texPath>Things/Building/PalletBoxesLarge</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Beauty>-2</Beauty>
+      <Mass>40</Mass>
+    </statBases>
+    <costStuffCount>100</costStuffCount>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>4</maxNumberStacks>
+        <minTimeStoringTakes>300</minTimeStoringTakes>
+        <additionalTimeEachStack>130</additionalTimeEachStack>
+        <additionalTimeEachDef>20</additionalTimeEachDef>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+
+  </ThingDef>
+
+</Defs>
