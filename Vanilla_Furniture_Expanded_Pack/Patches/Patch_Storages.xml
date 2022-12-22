@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<!-- DELETED OLD -->
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Hayloft"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Meat_Hook"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Pallet"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Pallet_Covered"]</xpath>
+	</Operation>
+
+	<!-- UPDATED OLD -->
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/WeaponLocker/WeaponLocker</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3.55,3.45)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/WeaponLocker/WeaponCabinet</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3.55,3.45)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Clothing_Rack"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/ClothingRack/ClothingRack</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="Shelf"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/Shelf</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="ShelfSmall"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/ShelfSmall</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/ShelfLarge</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/ShelfTall</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+</Patch>
