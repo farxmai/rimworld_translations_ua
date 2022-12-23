@@ -239,6 +239,7 @@
         <minTimeStoringTakes>200</minTimeStoringTakes>
         <additionalTimeEachStack>110</additionalTimeEachStack>
         <additionalTimeEachDef>20</additionalTimeEachDef>
+        <showContents>false</showContents>
         <overlayType>SumOfAllItems</overlayType>
       </li>
     </comps>
@@ -273,6 +274,7 @@
         <minTimeStoringTakes>300</minTimeStoringTakes>
         <additionalTimeEachStack>120</additionalTimeEachStack>
         <additionalTimeEachDef>20</additionalTimeEachDef>
+        <showContents>false</showContents>
         <overlayType>SumOfAllItems</overlayType>
       </li>
     </comps>
@@ -307,6 +309,7 @@
         <minTimeStoringTakes>300</minTimeStoringTakes>
         <additionalTimeEachStack>130</additionalTimeEachStack>
         <additionalTimeEachDef>20</additionalTimeEachDef>
+        <showContents>false</showContents>
         <overlayType>SumOfAllItems</overlayType>
       </li>
     </comps>

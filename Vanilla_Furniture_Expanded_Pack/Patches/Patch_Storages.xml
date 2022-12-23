@@ -128,6 +128,36 @@
 		</match>
 	</Operation>
 
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/building</xpath>
+			<value>
+				<paintable>true</paintable>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/statBases</xpath>
+			<value>
+				<statBases>
+					<MaxHitPoints>120</MaxHitPoints>
+					<Mass>12</Mass>
+					<WorkToBuild>900</WorkToBuild>
+					<Flammability>1.0</Flammability>
+					<Beauty>0.5</Beauty>
+					<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+				</statBases>
+			</value>
+		</match>
+	</Operation>
 
 	<Operation Class="PatchOperationFindMod">
 		<mods>
@@ -141,6 +171,37 @@
 					<graphicClass>Graphic_Multi</graphicClass>
 					<drawSize>(3,2)</drawSize>
 				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/building</xpath>
+			<value>
+				<paintable>true</paintable>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/statBases</xpath>
+			<value>
+				<statBases>
+					<MaxHitPoints>150</MaxHitPoints>
+					<Mass>16</Mass>
+					<WorkToBuild>1200</WorkToBuild>
+					<Flammability>1.0</Flammability>
+					<Beauty>0.5</Beauty>
+					<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+				</statBases>
 			</value>
 		</match>
 	</Operation>
