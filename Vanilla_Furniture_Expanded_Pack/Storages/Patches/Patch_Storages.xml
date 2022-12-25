@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<!-- DELETED OLD -->
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Hayloft"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Meat_Hook"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Pallet"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Pallet_Covered"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName="LWM_Food_Basket"]</xpath>
+	</Operation>
+
+	<!-- UPDATED OLD -->
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Clothing_Rack"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/ClothingRack/ClothingRack</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="Shelf"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/Shelf</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="ShelfSmall"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/ShelfSmall</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="ShelfSmall"]/uiIconScale</xpath>
+		<value>
+			<uiIconScale>1</uiIconScale>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/graphicData</xpath>
+		<value>
+			<graphicData>
+				<texPath>Things/Building/Shelfs/ShelfLarge</texPath>
+				<graphicClass>Graphic_Multi</graphicClass>
+				<drawSize>(3,2)</drawSize>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/building</xpath>
+		<value>
+			<paintable>true</paintable>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_BigShelf"]/statBases</xpath>
+			<value>
+				<statBases>
+					<MaxHitPoints>120</MaxHitPoints>
+					<Mass>12</Mass>
+					<WorkToBuild>900</WorkToBuild>
+					<Flammability>1.0</Flammability>
+					<Beauty>0.5</Beauty>
+					<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+				</statBases>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Shelfs/ShelfTall</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/building</xpath>
+			<value>
+				<paintable>true</paintable>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_VeryBigShelf"]/statBases</xpath>
+			<value>
+				<statBases>
+					<MaxHitPoints>150</MaxHitPoints>
+					<Mass>16</Mass>
+					<WorkToBuild>1200</WorkToBuild>
+					<Flammability>1.0</Flammability>
+					<Beauty>0.5</Beauty>
+					<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+				</statBases>
+			</value>
+		</match>
+	</Operation>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Safe"]/building</xpath>
+			<value>
+				<building>
+					<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+					<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+					<fixedStorageSettings>
+						<priority>Critical</priority>
+						<filter>
+							<categories>
+								<li>Artifacts</li>
+								<li MayRequire="kikohi.jewelry">K_Jewelry</li>
+							</categories>
+							<thingDefs>
+								<li>Gold</li>
+								<li>Silver</li>
+								<li>Jade</li>
+								<li MayRequire="kikohi.jewelry">Diamond</li>
+								<li MayRequire="kikohi.jewelry">Ruby</li>
+								<li MayRequire="kikohi.jewelry">Sapphire</li>
+								<li MayRequire="VanillaExpanded.VPsycastsE">VPE_Eltex</li>
+							</thingDefs>
+						</filter>
+					</fixedStorageSettings>
+					<defaultStorageSettings>
+						<priority>Critical</priority>
+						<filter>
+							<categories>
+								<li>Artifacts</li>
+							</categories>
+							<thingDefs>
+								<li>Silver</li>
+							</thingDefs>
+						</filter>
+					</defaultStorageSettings>
+				</building>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Safe"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Safe/Safe</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3.55,3.45)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Safe"]/uiIconPath</xpath>
+			<value>
+				<uiIconPath>Things/Building/Safe/SafeUI</uiIconPath>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_MealRack"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/TrayRack/TrayRack</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/Skip/Skip</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/building</xpath>
+					<value>
+						<building>
+							<paintable>true</paintable>
+							<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+							<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+							<fixedStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<categories>
+										<li>Chunks</li>
+										<li>ResourcesRaw</li>
+									</categories>
+									<thingDefs>
+										<li MayRequire="dbhFullMode">Biosolids</li>
+										<li MayRequire="dbhFullMode">FecalSludge</li>
+									</thingDefs>
+									<disallowedCategories>
+										<li>PlantMatter</li>
+									</disallowedCategories>
+								</filter>
+							</fixedStorageSettings>
+							<defaultStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<categories>
+										<li>Chunks</li>
+										<li>ResourcesRaw</li>
+									</categories>
+									<thingDefs>
+										<li MayRequire="dbhFullMode">Biosolids</li>
+										<li MayRequire="dbhFullMode">FecalSludge</li>
+									</thingDefs>
+								</filter>
+							</defaultStorageSettings>
+						</building>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/label</xpath>
+					<value>
+						<label>skip</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/description</xpath>
+					<value>
+						<description>A large metal bin for tossing heavy things in.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/staticSunShadowHeight</xpath>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="LWM_DeepStorage_Skip"]/comps</xpath>
+					<value>
+						<comps>
+							<li Class="LWM.DeepStorage.Properties">
+								<maxNumberStacks>6</maxNumberStacks>
+								<minTimeStoringTakes>100</minTimeStoringTakes>
+								<additionalTimeStackSize>10</additionalTimeStackSize>
+								<showContents>false</showContents>
+								<overlayType>SumOfAllItems</overlayType>
+							</li>
+							<li>
+								<compClass>CompQuality</compClass>
+							</li>
+							<li>
+								<compClass>CompColorable</compClass>
+							</li>
+						</comps>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_FabricHamper"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/FabricHamper/FabricHamper</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(2,1)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+
+</Patch>
