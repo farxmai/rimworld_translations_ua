@@ -9,10 +9,10 @@
 			<li>LWM's Deep Storage</li>
 		</mods>
 		<match Class="PatchOperationReplace">
-			<xpath>/Defs/ThingDef[defName="BiosolidsComposter"]/graphicData</xpath>
+			<xpath>/Defs/ThingDef[defName="WaterButt"]/graphicData</xpath>
 			<value>
 				<graphicData>
-					<texPath>Things/Building/BarellWatter/BarellComposter</texPath>
+					<texPath>Things/Building/BarellWatter</texPath>
 					<graphicClass>Graphic_Single</graphicClass>
 				</graphicData>
 			</value>
@@ -23,15 +23,13 @@
 		<mods>
 			<li>LWM's Deep Storage</li>
 		</mods>
-		<match Class="PatchOperationReplace">
-			<xpath>/Defs/ThingDef[defName="WaterButt"]/graphicData</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="PrimitiveWell"]/graphicData</xpath>
 			<value>
-				<graphicData>
-					<texPath>Things/Building/BarellWatter/BarellWatter</texPath>
-					<graphicClass>Graphic_Single</graphicClass>
-				</graphicData>
+				<shaderType>CutoutComplex</shaderType>
 			</value>
 		</match>
 	</Operation>
+
 
 </Patch>

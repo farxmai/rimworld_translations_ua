@@ -32,9 +32,7 @@
 		<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]</xpath>
 	</Operation>
 
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Food_Basket"]</xpath>
-	</Operation>
+
 
 	<!-- UPDATED OLD -->
 
@@ -295,6 +293,59 @@
 		<mods>
 			<li>LWM's Deep Storage</li>
 		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Food_Basket"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/FoodBaskets/FoodBaskets</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(3,2)</drawSize>
+					<shadowData>
+						<volume>(0.20, 0.20, 0.30)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_Food_Basket"]/stuffCategories</xpath>
+			<value>
+				<stuffCategories>
+					<li>Woody</li>
+				</stuffCategories>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef[defName="LWM_FabricHamper"]/graphicData</xpath>
+			<value>
+				<graphicData>
+					<texPath>Things/Building/FabricHamper/FabricHamper</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<shaderType>CutoutComplex</shaderType>
+					<drawSize>(3,2)</drawSize>
+					<shadowData>
+						<volume>(0.30, 0.30, 0.40)</volume>
+					</shadowData>
+				</graphicData>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>LWM's Deep Storage</li>
+		</mods>
 		<match Class="PatchOperationSequence">
 			<operations>
 				<li Class="PatchOperationReplace">
@@ -375,24 +426,7 @@
 		</match>
 	</Operation>
 
-	<Operation Class="PatchOperationFindMod">
-		<mods>
-			<li>LWM's Deep Storage</li>
-		</mods>
-		<match Class="PatchOperationReplace">
-			<xpath>/Defs/ThingDef[defName="LWM_FabricHamper"]/graphicData</xpath>
-			<value>
-				<graphicData>
-					<texPath>Things/Building/FabricHamper/FabricHamper</texPath>
-					<graphicClass>Graphic_Multi</graphicClass>
-					<drawSize>(2,1)</drawSize>
-					<shadowData>
-						<volume>(0.30, 0.30, 0.40)</volume>
-					</shadowData>
-				</graphicData>
-			</value>
-		</match>
-	</Operation>
+
 
 
 </Patch>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <!-- Cargo Container -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_ShippingContainer</defName>
     <label>cargo container</label>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <description>Simple cargo container which can be used to store items.</description>
+    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/Building/Container/ShippingContainer</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -48,9 +51,12 @@
     </comps>
   </ThingDef>
 
+  <!-- ====================== PALLTES ====================== -->
+
   <ThingDef Name="FFE_PalletBase" ParentName="LWM_DeepStorage" Abstract="true">
     <rotatable>false</rotatable>
     <staticSunShadowHeight>0.1</staticSunShadowHeight>
+    <techLevel>Medieval</techLevel>
     <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
@@ -97,6 +103,7 @@
   <ThingDef Name="FFE_PalletBoxesBase" ParentName="FFE_PalletBase" Abstract="true">
     <rotatable>false</rotatable>
     <staticSunShadowHeight>0.1</staticSunShadowHeight>
+    <techLevel>Medieval</techLevel>
     <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
@@ -278,11 +285,15 @@
     </costList>
   </ThingDef>
 
+  <!-- ====================== PALLTES END ====================== -->
+
+  <!-- Animal feeder -->
 
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_AnimalFeeder</defName>
     <label>animal feeder</label>
     <description>Small feeder for pets.</description>
+    <techLevel>Neolithic</techLevel>
     <graphicData>
       <texPath>Things/Building/AnsmalShelf/SmallAnimalShelf</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -334,10 +345,14 @@
     </comps>
   </ThingDef>
 
+
+  <!-- Animal trough -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_AnimalTrough</defName>
     <label>animal trough</label>
     <description>Simple trough for feeding animals whith hay, kibble or raw food.</description>
+    <techLevel>Medieval</techLevel>
     <graphicData>
       <graphicClass>Graphic_Multi</graphicClass>
       <texPath>Things/Building/AnsmalShelf/LargeAnimalShelf</texPath>
@@ -390,12 +405,13 @@
     </comps>
   </ThingDef>
 
-
+  <!-- Meat hooks (REPLACE) -->
 
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_Meat_Hook</defName>
-    <label>meat hook</label>
+    <label>meat hooks</label>
     <description>A tall metal frame with several hooks hanging from chains to store the dead bodies of fellow animals.</description>
+    <techLevel>Medieval</techLevel>
     <graphicData>
       <texPath>Things/Building/MeatHook/Hook</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -465,10 +481,13 @@
     </researchPrerequisites>
   </ThingDef>
 
+  <!-- Food bags -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_FoodBags</defName>
     <label>food bags</label>
     <description>A set of simple bags for storing raw plants.</description>
+    <techLevel>Neolithic</techLevel>
     <graphicData>
       <texPath>Things/Building/Bags</texPath>
       <graphicClass>Graphic_Random</graphicClass>
@@ -530,10 +549,13 @@
     </comps>
   </ThingDef>
 
+  <!-- Food barell -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_FoodBarell</defName>
     <label>food barell</label>
     <description>A barrel for storing raw food.</description>
+    <techLevel>Medieval</techLevel>
     <graphicData>
       <texPath>Things/Building/Barell</texPath>
       <graphicClass>Graphic_Random</graphicClass>
@@ -592,10 +614,13 @@
     </comps>
   </ThingDef>
 
+  <!-- Box -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_WoodenBox</defName>
     <label>box</label>
     <description>A simple wooden storage for multiple items.</description>
+    <techLevel>Medieval</techLevel>
     <graphicData>
       <texPath>Things/Building/Box</texPath>
       <graphicClass>Graphic_Random</graphicClass>
@@ -653,6 +678,147 @@
     </comps>
   </ThingDef>
 
+  <!-- Spacer container -->
+
+  <ThingDef ParentName="LWM_DeepStorage">
+    <defName>FFE_SpacerContainer</defName>
+    <label>spacer container</label>
+    <description>A complex spacer level box with automatic sorting system allows you to store multiple items and retrieve them easily.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Building/SpacerContainer/SpacerContainer</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <shadowData>
+        <volume>(0.30, 0.30, 0.40)</volume>
+      </shadowData>
+    </graphicData>
+    <uiIconScale>0.8</uiIconScale>
+    <size>(1,1)</size>
+    <pathCost>50</pathCost>
+    <statBases>
+      <Beauty>0</Beauty>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Mass>10</Mass>
+    </statBases>
+    <costList>
+      <Steel>50</Steel>
+      <Plasteel>20</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <building>
+      <paintable>true</paintable>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <fixedStorageSettings>
+        <filter>
+          <disallowNotEverStorable>true</disallowNotEverStorable>
+          <categories>
+            <li>Root</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <categories>
+            <li>Manufactured</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>10</maxNumberStacks>
+        <minTimeStoringTakes>5</minTimeStoringTakes>
+        <additionalTimeEachStack>5</additionalTimeEachStack>
+        <maxTotalMass>200</maxTotalMass>
+        <showContents>false</showContents>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>Fabrication</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <!-- Vanometric storage -->
+
+  <ThingDef ParentName="LWM_DeepStorage">
+    <defName>FFE_VanometricStorage</defName>
+    <label>vanometric storage</label>
+    <description>Strange container that allows to store a huge amount of items. Paradoxically, its interior is shown as being much larger than its exterior, commonly described as being "bigger on the inside". This technology is developed by archotechs, and is beyond even most glitterworld societies.</description>
+    <techLevel>Archotech</techLevel>
+    <graphicData>
+      <texPath>Things/Building/SpacerContainer/VanometricStorage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <drawSize>1.1</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <uiIconScale>0.8</uiIconScale>
+    <size>(1,1)</size>
+    <pathCost>50</pathCost>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Mass>10</Mass>
+    </statBases>
+    <costList>
+      <Steel>50</Steel>
+      <Plasteel>20</Plasteel>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <building>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <fixedStorageSettings>
+        <filter>
+          <disallowNotEverStorable>true</disallowNotEverStorable>
+          <categories>
+            <li>Root</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+    </building>
+    <comps>
+      <li Class="LWM.DeepStorage.Properties">
+        <maxNumberStacks>50</maxNumberStacks>
+        <minTimeStoringTakes>5</minTimeStoringTakes>
+        <additionalTimeEachStack>5</additionalTimeEachStack>
+        <showContents>false</showContents>
+        <overlayType>SumOfAllItems</overlayType>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>1</glowRadius>
+        <glowColor>(227,233,168,0)</glowColor>
+      </li>
+    </comps>
+    <researchPrerequisites />
+    <tradeTags>
+      <li>ExoticBuilding</li>
+    </tradeTags>
+    <thingSetMakerTags>
+      <li>RewardStandardHighFreq</li>
+    </thingSetMakerTags>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <tradeability>Sellable</tradeability>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <designationCategory />
+  </ThingDef>
+
+  <!-- Minibar -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_Minibar</defName>
     <label>minibar</label>
@@ -667,7 +833,7 @@
       </shadowData>
     </graphicData>
     <size>(1,1)</size>
-    <uiIconScale>0.5</uiIconScale>
+    <uiIconPath>Things/Building/Minibar/MinibarUI</uiIconPath>
     <altitudeLayer>Building</altitudeLayer>
     <defaultPlacingRot>South</defaultPlacingRot>
     <castEdgeShadows>true</castEdgeShadows>
@@ -738,6 +904,8 @@
     </comps>
   </ThingDef>
 
+  <!-- Medical cabinet (REPLACE) -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_Medical_Cabinet</defName>
     <label>medical cabinet</label>
@@ -753,7 +921,7 @@
       </shadowData>
     </graphicData>
     <size>(1,1)</size>
-    <uiIconScale>0.5</uiIconScale>
+    <uiIconPath>Things/Building/MedCab/MedShelfUI</uiIconPath>
     <altitudeLayer>Building</altitudeLayer>
     <defaultPlacingRot>South</defaultPlacingRot>
     <castEdgeShadows>true</castEdgeShadows>
@@ -827,6 +995,8 @@
     </comps>
   </ThingDef>
 
+  <!-- Weapons locker (REPLACE) -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_WeaponsLocker</defName>
     <label>weapons locker</label>
@@ -840,7 +1010,7 @@
       </shadowData>
     </graphicData>
     <size>(1,1)</size>
-    <uiIconScale>0.5</uiIconScale>
+    <uiIconPath>Things/Building/WeaponLocker/WeaponLockerUI</uiIconPath>
     <altitudeLayer>Building</altitudeLayer>
     <defaultPlacingRot>South</defaultPlacingRot>
     <castEdgeShadows>true</castEdgeShadows>
@@ -929,6 +1099,7 @@
     </researchPrerequisites>
   </ThingDef>
 
+  <!-- Personal locker -->
 
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_PersonalLockers</defName>
@@ -943,7 +1114,7 @@
       </shadowData>
     </graphicData>
     <size>(1,1)</size>
-    <uiIconScale>0.5</uiIconScale>
+    <uiIconPath>Things/Building/Lockers/LockersUI</uiIconPath>
     <costStuffCount>70</costStuffCount>
     <statBases>
       <Beauty>0</Beauty>
@@ -1006,7 +1177,14 @@
     </researchPrerequisites>
   </ThingDef>
 
-  <ThingDef Name="WeaponRackBase" ParentName="LWM_DeepStorage" Abstract="true">
+  <!-- ============================== WEAPON RACKS ==============================-->
+
+  <DesignatorDropdownGroupDef>
+    <defName>FFE_WeaponRackDropdownDef</defName>
+  </DesignatorDropdownGroupDef>
+
+  <ThingDef Name="FFE_WeaponRackBase" ParentName="LWM_DeepStorage" Abstract="true">
+    <designatorDropdown>FFE_WeaponRackDropdownDef</designatorDropdown>
     <size>(2,1)</size>
     <uiIconScale>0.9</uiIconScale>
     <statBases>
@@ -1035,7 +1213,7 @@
     </comps>
   </ThingDef>
 
-  <ThingDef ParentName="WeaponRackBase">
+  <ThingDef ParentName="FFE_WeaponRackBase">
     <defName>FFE_WeaponRackMelee</defName>
     <label>weapon rack (melee)</label>
     <description>Simple medival rack for melee weapon.</description>
@@ -1081,7 +1259,7 @@
     </building>
   </ThingDef>
 
-  <ThingDef ParentName="WeaponRackBase">
+  <ThingDef ParentName="FFE_WeaponRackBase">
     <defName>FFE_WeaponRackBows</defName>
     <label>weapon rack (bows)</label>
     <description>Simple medival rack for bows.</description>
@@ -1147,7 +1325,7 @@
     </building>
   </ThingDef>
 
-  <ThingDef MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" ParentName="WeaponRackBase">
+  <ThingDef MayRequire="OskarPotocki.VanillaFactionsExpanded.Core" ParentName="FFE_WeaponRackBase">
     <defName>FFE_WeaponRackShields</defName>
     <label>weapon rack (shields)</label>
     <description>Simple medival rack for shields.</description>
@@ -1188,10 +1366,14 @@
     </building>
   </ThingDef>
 
+  <!-- ============================== WEAPON RACKS END ==============================-->
+
+  <!-- Wall meal rack -->
+
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_WallMealRack</defName>
     <label>wall meal rack</label>
-    <description>A tall tray rack for meals. Can be placed over the wall.</description>
+    <description>A tall rack for storing ready-made meals, which can be mounted in the wall for transferring meals between rooms.</description>
     <passability>Impassable</passability>
     <blockWind>true</blockWind>
     <fillPercent>1</fillPercent>

@@ -41,12 +41,12 @@
       </damageData>
     </graphicData>
     <uiIconPath>Things/Building/Sofa/SofaUI</uiIconPath>
-    <uiIconScale>0.9</uiIconScale>
+    <uiIconScale>1.2</uiIconScale>
     <altitudeLayer>Building</altitudeLayer>
     <statBases>
       <MaxHitPoints>180</MaxHitPoints>
       <WorkToBuild>28000</WorkToBuild>
-      <Mass>70</Mass>
+      <Mass>60</Mass>
       <Flammability>1.0</Flammability>
       <Beauty>8</Beauty>
       <Comfort>0.8</Comfort>
@@ -59,17 +59,67 @@
     <researchPrerequisites>
       <li>ComplexFurniture</li>
     </researchPrerequisites>
-    <costStuffCount>210</costStuffCount>
+    <costStuffCount>200</costStuffCount>
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
     <defaultPlacingRot>South</defaultPlacingRot>
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-    <uiOrder>2420</uiOrder>
     <building>
       <isSittable>true</isSittable>
       <multiSittable>true</multiSittable>
       <destroySound>BuildingDestroyed_Soft_Small</destroySound>
     </building>
+  </ThingDef>
+
+  <!-- Royal Sofa -->
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
+    <defName>FFE_RoyalSofa</defName>
+    <label>royal sofa</label>
+    <description>A large, soft, luxurious seat. Fitted inside a golden frame for only the wealthiest elites. Can be used at tables, work stations, and elsewhere.</description>
+    <size>(2,1)</size>
+    <graphicData>
+      <texPath>Things/Building/Sofa/RoyalSofa</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(2.8,2.8)</drawSize>
+      <damageData>
+        <rectN>(0,0,2,1)</rectN>
+        <rectS>(0,0,2,1)</rectS>
+        <rectE>(0,0,1,2)</rectE>
+        <rectW>(0,0,1,2)</rectW>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <WorkToBuild>32000</WorkToBuild>
+      <Mass>70</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>100</Beauty>
+      <Comfort>0.95</Comfort>
+    </statBases>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>280</costStuffCount>
+    <costList>
+      <Gold>110</Gold>
+    </costList>
+    <pathCost>30</pathCost>
+    <fillPercent>0.40</fillPercent>
+    <defaultPlacingRot>South</defaultPlacingRot>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <building>
+      <isSittable>true</isSittable>
+      <multiSittable>true</multiSittable>
+      <destroySound>BuildingDestroyed_Soft_Small</destroySound>
+    </building>
+    <researchPrerequisites>
+      <li MayRequire="VanillaExpanded.VFECore">MF_RoyalFurniture</li>
+    </researchPrerequisites>
+    <designationCategory MayRequire="VanillaExpanded.VFECore">AOMorefurniture</designationCategory>
   </ThingDef>
 
   <!-- Mirror -->
@@ -196,7 +246,7 @@
       <Mass>10</Mass>
       <WorkToBuild>1750</WorkToBuild>
       <Flammability>1.0</Flammability>
-      <Beauty>8</Beauty>
+      <Beauty>5.5</Beauty>
     </statBases>
     <size>(1,1)</size>
     <uiIconScale>0.5</uiIconScale>
@@ -236,7 +286,7 @@
       <Mass>20</Mass>
       <WorkToBuild>2500</WorkToBuild>
       <Flammability>1.0</Flammability>
-      <Beauty>15</Beauty>
+      <Beauty>10</Beauty>
     </statBases>
     <size>(2,1)</size>
     <uiIconScale>1</uiIconScale>
@@ -249,6 +299,61 @@
     <researchPrerequisites>
       <li>ComplexFurniture</li>
     </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
+    <defName>FFE_Banner</defName>
+    <label>banner</label>
+    <description>A decorative banner hanging from a vertical wooden frame.</description>
+    <designationCategory>Furniture</designationCategory>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.40</fillPercent>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <WorkToBuild>1000</WorkToBuild>
+      <Mass>10</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>5.5</Beauty>
+    </statBases>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>75</costStuffCount>
+    <costList>
+      <WoodLog>25</WoodLog>
+    </costList>
+    <canOverlapZones>true</canOverlapZones>
+    <pathCost>14</pathCost>
+    <rotatable>true</rotatable>
+    <size>(1,1)</size>
+    <uiIconOffset>(0, 0.15)</uiIconOffset>
+    <uiIconScale>0.8</uiIconScale>
+    <filthLeaving>Filth_Trash</filthLeaving>
+    <building>
+      <destroySound>BuildingDestroyed_Soft_Medium</destroySound>
+      <destroyShakeAmount>0</destroyShakeAmount>
+    </building>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+    <graphicData>
+      <drawSize>(2,2)</drawSize>
+      <texPath>Things/Building/Banner/Banner</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <shadowData>
+        <volume>(0.6,0.5,0.3)</volume>
+        <offset>(0,0,-0.2</offset>
+      </shadowData>
+      <damageData>
+        <rectN>(0.1, 0.1, 1.8, 1.5)</rectN>
+        <rectS>(0.1, 0.1, 1.8, 1.5)</rectS>
+        <rectE>(0.25, 0.5, 0.5, 1.5)</rectE>
+        <rectW>(0.25, 0.5, 0.5, 1.5)</rectW>
+      </damageData>
+    </graphicData>
   </ThingDef>
 
   <!-- <ThingDef ParentName="FurnitureWithQualityBase">
@@ -298,5 +403,72 @@
       </li>
     </comps>
   </ThingDef> -->
+
+  <ThingDef ParentName="BedWithQualityBase">
+    <defName>FFE_AnimalMedTable</defName>
+    <thingClass>Building_Bed</thingClass>
+    <label>аnimal hospital bed</label>
+    <description>A bed specially designed for animals surgery and recovery. It improves medical outcomes over normal beds.</description>
+    <rotatable>false</rotatable>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>60</pathCost>
+    <leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <passability>PassThroughOnly</passability>
+    <canOverlapZones>false</canOverlapZones>
+    <graphicData>
+      <texPath>Things/Building/AnimalShack/AnimalHospital</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>1.1</drawSize>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <uiIconScale>0.8</uiIconScale>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>20</costStuffCount>
+    <costList>
+      <Steel>30</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <building>
+      <paintable>true</paintable>
+      <bed_humanlike>false</bed_humanlike>
+      <bed_showSleeperBody>true</bed_showSleeperBody>
+      <bed_healPerDay>10</bed_healPerDay>
+      <bed_defaultMedical>true</bed_defaultMedical>
+    </building>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>0.9</Flammability>
+      <WorkToBuild>750</WorkToBuild>
+      <Mass>10</Mass>
+      <BedRestEffectiveness>1</BedRestEffectiveness>
+      <Comfort>0.35</Comfort>
+      <ImmunityGainSpeedFactor>1.20</ImmunityGainSpeedFactor>
+      <MedicalTendQualityOffset>0.15</MedicalTendQualityOffset>
+      <SurgerySuccessChanceFactor>1.3</SurgerySuccessChanceFactor>
+    </statBases>
+    <researchPrerequisites>
+      <li>HospitalBed</li>
+    </researchPrerequisites>
+    <techLevel>Industrial</techLevel>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>VitalsMonitor</li>
+          <li MayRequire="VanillaExpanded.VFEMedical">Facility_VitalsCentre</li>
+          <li MayRequire="VanillaExpanded.VFEMedical">Facility_IVDrip</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_AssignableToPawn">
+        <drawAssignmentOverlay>true</drawAssignmentOverlay>
+        <compClass>CompAssignableToPawn_Bed</compClass>
+      </li>
+    </comps>
+  </ThingDef>
 
 </Defs>

@@ -7,7 +7,7 @@
   <FFE_KitchenFridgeLarge.label>промисловий холодильник</FFE_KitchenFridgeLarge.label>
   <FFE_KitchenFridgeLarge.description>Великий кухонний холодильник, що використовується для тривалого зберігання продуктів та готових страв.</FFE_KitchenFridgeLarge.description>
 
-  <FFE_KitchenFridgeLarge.label>охолоджувальний контейнер</FFE_KitchenFridgeLarge.label>
-  <FFE_KitchenFridgeLarge.description>Великий вантажний контейнер, що використовується для тривалого зберігання продуктів та готових страв.</FFE_KitchenFridgeLarge.description>
+  <FFE_FridgeContainer.label>морозильний контейнер</FFE_FridgeContainer.label>
+  <FFE_FridgeContainer.description>Великий вантажний контейнер, що використовується для тривалого зберігання продуктів та готових страв.</FFE_FridgeContainer.description>
 
 </LanguageData>

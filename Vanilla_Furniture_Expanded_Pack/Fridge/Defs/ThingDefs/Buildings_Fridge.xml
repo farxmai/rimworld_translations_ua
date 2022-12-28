@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <DesignatorDropdownGroupDef>
+    <defName>FFE_FridgeBaseDropdownDef</defName>
+  </DesignatorDropdownGroupDef>
+
   <ThingDef Name="FFE_FridgeBase" Abstract="True">
     <minifiedDef>MinifiedThing</minifiedDef>
     <thingClass>RimFridge.RimFridge_Building</thingClass>
@@ -109,6 +113,7 @@
     <defName>FFE_KitchenFridge</defName>
     <label>kitchen fridge</label>
     <description>A powered, kitchen fridge which can be used to freeze and store perishable food.</description>
+    <designatorDropdown>FFE_FridgeBaseDropdownDef</designatorDropdown>
     <graphicData>
       <graphicClass>Graphic_Multi</graphicClass>
       <texPath>Things/Building/Fridge/Fridge</texPath>
@@ -146,6 +151,7 @@
     <defName>FFE_KitchenFridgeLarge</defName>
     <label>industrial fridge</label>
     <description>A powered, large industrial fridge which can be used to freeze and store perishable food.</description>
+    <designatorDropdown>FFE_FridgeBaseDropdownDef</designatorDropdown>
     <graphicData>
       <graphicClass>Graphic_Multi</graphicClass>
       <texPath>Things/Building/Fridge/FridgeLarge</texPath>
