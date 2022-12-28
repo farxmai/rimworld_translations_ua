@@ -28,4 +28,10 @@
 	<FFE_AnimalMedTable.label>лікарняне ліжко для тварин</FFE_AnimalMedTable.label>
 	<FFE_AnimalMedTable.description>Ліжко, спеціально розроблене для операцій і відновлення тварин. Воно покращує медичні показники порівняно зі звичайними ліжками.</FFE_AnimalMedTable.description>
 
+	<FFE_CookingTable.label>кухонний стіл</FFE_CookingTable.label>
+	<FFE_CookingTable.description>Простий стіл для приготування вегетаріанських страв. Не придатний для приготування мєясних страв, оскільки не має методів термічної обробки.</FFE_CookingTable.description>
+
+	<FFE_MeatMincer.label>м'ясорубка</FFE_MeatMincer.label>
+	<FFE_MeatMincer.description>Стіл із встановленою на ньому м'ясорубкою. Дозволяє перетворити сире м'ясо на фарш.</FFE_MeatMincer.description>
+
 </LanguageData>

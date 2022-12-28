@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimFridge.TargetTemperature>Цільова темп-ра</RimFridge.TargetTemperature>
+  <RimFridge.CurrentTemperature>Поточна темп-ра</RimFridge.CurrentTemperature>
+  <RimFridge.Power>Живлення</RimFridge.Power>
+  <RimFridge.RenameTheRefrigerator>Перейменувати</RimFridge.RenameTheRefrigerator>
+
+</LanguageData>

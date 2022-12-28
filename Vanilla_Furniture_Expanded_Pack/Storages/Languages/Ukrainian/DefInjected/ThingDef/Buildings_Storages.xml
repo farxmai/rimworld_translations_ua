@@ -61,8 +61,8 @@
 	<FFE_WeaponRackShields.label>стійка для щитів</FFE_WeaponRackShields.label>
 	<FFE_WeaponRackShields.description>Проста стійка для щитів у сернедньовічному стилі. Може вміщувати до 30 предметів одночасно та має обможення за вагою.</FFE_WeaponRackShields.description>
 
-	<FFE_WallMealRack.label>стінна полиця для страв</FFE_WallMealRack.label>
-	<FFE_WallMealRack.description>Висока стійка для зберігання готових страв, яка може бути вмонтована в стіну для передачі страв між приміщеннями.</FFE_WallMealRack.description>
+	<FFE_WallMealRack.label>вбудована полиця для страв</FFE_WallMealRack.label>
+	<FFE_WallMealRack.description>Висока стійка для зберігання готових страв, яка може бути вмонтована в стіну для передачі страв між приміщеннями. Може бути використана як стіна, що розділяє приміщення.</FFE_WallMealRack.description>
 
 	<FFE_SpacerContainer.label>герметичний контейнер</FFE_SpacerContainer.label>
 	<FFE_SpacerContainer.description>Комплексний контейнер космічного рівня з автоматичною системою сортування, дозволяє компактно зберігати багато предметів і легко їх діставати.</FFE_SpacerContainer.description>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Make_StoneBlocksBulkAny.label>зробити будья-які блоки x3</Make_StoneBlocksBulkAny.label>
-  <Make_StoneBlocksBulkAny.description>Зробити будья-які блоки x3.</Make_StoneBlocksBulkAny.description>
-  <Make_StoneBlocksBulkAny.jobString>Виготовляє будья-які блоки.</Make_StoneBlocksBulkAny.jobString>
+  <Make_StoneBlocksBulkAny.label>зробити будь-які блоки x3</Make_StoneBlocksBulkAny.label>
+  <Make_StoneBlocksBulkAny.description>Зробити будь-які блоки x3.</Make_StoneBlocksBulkAny.description>
+  <Make_StoneBlocksBulkAny.jobString>Виготовляє будь-які блоки.</Make_StoneBlocksBulkAny.jobString>
 
   <Make_StoneBlocksBulkSandstone.label>зробити блоки пісковику x3</Make_StoneBlocksBulkSandstone.label>
   <Make_StoneBlocksBulkSandstone.description>Зробити блоки пісковику x3.</Make_StoneBlocksBulkSandstone.description>

@@ -14,12 +14,12 @@
   <LWM_VeryBigShelf.description>Набір високих критих полиць для зберігання різноманітних предметів, від артилерійських снарядів до творів мистецтва, від біонічної зброї до цегли, від стільців до трупів.\n\nЛішаки отримують доступ до верхніх полиць за допомогою невеликої рухомої драбини (наразі не зображено), тому, хоча тут можна зберігати багато речей, це може зайняти деякий час, якщо ви ставите багато маленьких пляшечок на верхній полиці. Предмети, які зберігаються в цьому сховищі, не зіпсуються, навіть якщо знаходяться на вулиці.</LWM_VeryBigShelf.description>
 
   <LWM_MealRack.label>полиця для страв</LWM_MealRack.label>
-  <LWM_MealRack.description>Це висока стійка для зберігання страв.</LWM_MealRack.description>
+  <LWM_MealRack.description>Висока стійка для зберігання готових страв.</LWM_MealRack.description>
 
-  <LWM_Food_Basket.label>бочки для продуктів</LWM_Food_Basket.label>
+  <LWM_Food_Basket.label>кошики для продуктів</LWM_Food_Basket.label>
   <LWM_Food_Basket.description>Сховище для зберігання сирих продуктів і рослинної сировини.</LWM_Food_Basket.description>
 
-  <LWM_Meat_Hook.label>гаки для м'яса</LWM_Meat_Hook.label> 
+  <LWM_Meat_Hook.label>гаки для м'яса</LWM_Meat_Hook.label>
   <LWM_Meat_Hook.description>Високий металевий каркас з кількома гачками на ланцюгах. Проста рукоятка дозволяє піднімати кілька підвісних туш у повітря. Хороший спосіб зберігання трупів тварин, яких ви вбили, перед тим, як різати та вживати їхнє м'ясо. Ви монстр.</LWM_Meat_Hook.description>
 
   <LWM_Hayloft.label>сінник</LWM_Hayloft.label>
@@ -34,12 +34,12 @@
   <LWM_Pallet_Covered.label>пакувальний піддон</LWM_Pallet_Covered.label>
   <LWM_Pallet_Covered.description>Плоский піддон для зберігання речей. Обертаючи речі в товсту клейонку, ви зберігаєте їх у цілості та безпеці. Ви можете запакувати більше речей на цю палету, тому що предмети обертаються клейонкою.</LWM_Pallet_Covered.description>
 
- <LWM_DeepStorage_Skip.label>контейнер</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.label>контейнер</LWM_DeepStorage_Skip.label>
   <LWM_DeepStorage_Skip.description>Великий металевий контейнер для сміття. Контейнер не закривається повністю від негоди, речі можуть псуватися поза приміщенням. \n\nПримітка: розкидання великої кількості сталі мимоволі означає, що знадобиться деякий час, щоб знайти сталь на складі, якщо вона пізніше вам знадобиться. Автор мода створив це для компактнішого зберігання великих стеків предметів. Уявіть, що ваші колоністи повинні залазити і складати все в нього, щоб потім собачки могли легко розтягти це.</LWM_DeepStorage_Skip.description>
 
   <LWM_Medicine_Cabinet.label>медична шафа</LWM_Medicine_Cabinet.label>
   <LWM_Medicine_Cabinet.description>Шафа з полицями для зберігання медикаментів та ліків. Рекомендується: дивитися за дітьми.</LWM_Medicine_Cabinet.description>
- 
+
   <LWM_Clothing_Rack.label>полиця для одягу</LWM_Clothing_Rack.label>
   <LWM_Clothing_Rack.description>Накрита полиця для зберігання а також для легкого та швидкого доступу до одягу.</LWM_Clothing_Rack.description>
 

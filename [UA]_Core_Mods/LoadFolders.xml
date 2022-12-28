@@ -21,5 +21,7 @@
     <li IfModActive="PeteTimesSix.SimpleSidearms">SimpleSidearms</li>
     <li IfModActive="Scherub.StonecuttingExtended">Stonecutting</li>
     <li IfModActive="notfood.MendAndRecycle">Mending</li>
+    <li IfModActive="rimfridge.kv.rw">RimFridge</li>
+
   </v1.4>
 </loadFolders>

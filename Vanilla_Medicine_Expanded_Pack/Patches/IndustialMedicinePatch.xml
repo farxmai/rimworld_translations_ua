@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-	<Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationReplace">
 		<xpath>*/ThingDef[defName = "MedicineIndustrial"]/recipeMaker</xpath>
 		<value>
 			<bulkRecipeCount>5</bulkRecipeCount>
 		</value>
 	</Operation>
+
 	<Operation Class="PatchOperationAdd">
 		<xpath>*/ResearchProjectDef[defName = "MedicineProduction"]/prerequisites</xpath>
 		<value>
 			<li>FF_BasicMedicineProduction</li>
 		</value>
 	</Operation>
+
 	<Operation Class="PatchOperationReplace">
 		<xpath>*/ResearchProjectDef[defName = "MedicineProduction"]/baseCost</xpath>
 		<value>

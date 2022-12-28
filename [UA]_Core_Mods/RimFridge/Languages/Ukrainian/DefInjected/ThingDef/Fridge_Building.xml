@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimFridge_Refrigerator.label>морозилка (2х1)</RimFridge_Refrigerator.label>
+  <RimFridge_Refrigerator.description>Побутовий холодильник, що використовується для зберігання продуктів, що швидко псуються.</RimFridge_Refrigerator.description>
+
+  <RimFridge_SingleRefrigerator.label>морозилка (1х1)</RimFridge_SingleRefrigerator.label>
+  <RimFridge_SingleRefrigerator.description>Компактний побутовий холодильник, що використовується для зберігання продуктів, що швидко псуються.</RimFridge_SingleRefrigerator.description>
+
+  <RimFridge_QuadRefrigerator.label>морозилка (2х2)</RimFridge_QuadRefrigerator.label>
+  <RimFridge_QuadRefrigerator.description>Великий побутовий холодильник, що використовується для зберігання продуктів, що швидко псуються. Частіше за все зустрічається на великих підприємствах.</RimFridge_QuadRefrigerator.description>
+
+  <LWM_DS_RimFridge_Refrigerator.label>глибока морозилка</LWM_DS_RimFridge_Refrigerator.label>
+  <LWM_DS_RimFridge_Refrigerator.description>Морозильна скриня виведена на новий рівень: низка полиць простягається в землю, що дозволяє зберігати велику кількість предметів із гідною теплоізоляцією. Щоб дістатися до нижніх штабелів, потрібна низка тріскачок і ланцюгів, але їжа, що зберігається тут, захищена від гниття.\n\nПеремістити цю структуру неможливо, враховуючи роботу, яка була витрачена на копання достатньо великої ями для холодильної системи та глибокої зберігання.</LWM_DS_RimFridge_Refrigerator.description>
+
+</LanguageData>

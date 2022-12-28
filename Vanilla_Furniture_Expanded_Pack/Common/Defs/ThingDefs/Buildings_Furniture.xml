@@ -181,11 +181,11 @@
     <description>A tall, impassable room divider. Must be placed near the bed. Placing more than one divider near the same bed has no effect.</description>
     <surfaceType>Item</surfaceType>
     <uiIconScale>1.1</uiIconScale>
-    <size>(3,1)</size>
+    <size>(2,1)</size>
     <graphicData>
       <texPath>Things/Building/Divider/Divider</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(3.5,3.5)</drawSize>
+      <drawSize>(2.5,2.5)</drawSize>
       <shadowData>
         <volume>(0.3, 0.6, 0.3)</volume>
       </shadowData>

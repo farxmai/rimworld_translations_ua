@@ -60,11 +60,11 @@
   <Make_Patchleather.jobString>Виготовляє латкову шкіру.</Make_Patchleather.jobString>
 
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>зробити будья-які блоки</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>зробити будь-які блоки</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>Зробити будья-які блоки .</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Зробити будь-які блоки .</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>Виготовляє будья-які блоки.</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Виготовляє будь-які блоки.</Make_StoneBlocksAny.jobString>
 
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>переплавити броню</SmeltApparel.label>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimFridge_WallRefrigerator.label>вбудована морозилка (2х1)</RimFridge_WallRefrigerator.label>
+  <RimFridge_WallRefrigerator.description>Побутовий холодильник, вбудований у стіну. Може бути використаний як стіна, що розділяє приміщення.</RimFridge_WallRefrigerator.description>
+
+  <RimFridge_SingleWallRefrigerator.label>вбудована морозилка (1х1)</RimFridge_SingleWallRefrigerator.label>
+  <RimFridge_SingleWallRefrigerator.description>Побутовий холодильник, вбудований у стіну. Може бути використаний як стіна, що розділяє приміщення.</RimFridge_SingleWallRefrigerator.description>
+</LanguageData>
