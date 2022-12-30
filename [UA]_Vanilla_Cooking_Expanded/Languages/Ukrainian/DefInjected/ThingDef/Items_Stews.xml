@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VCE_UncookedStewSimple.label>сыре просте рагу</VCE_UncookedStewSimple.label>
+  <VCE_UncookedStewSimple.label>сире просте рагу</VCE_UncookedStewSimple.label>
   <VCE_UncookedStewSimple.description>Сире просте рагу. Воно має бути доготовлене на дров'яній стійці з каструлею, щоб бути їстівним.</VCE_UncookedStewSimple.description>
 
   <VCE_CookedStewSimple.label>просте рагу</VCE_CookedStewSimple.label>
-  <VCE_CookedStewSimple.description>Простое рагу, быстро приготовленное из нескольких ингредиентов.</VCE_CookedStewSimple.description>
+  <VCE_CookedStewSimple.description>Просте рагу, що швидко приготоване з декількох інгредієнтів.</VCE_CookedStewSimple.description>
 
-  <VCE_UncookedStewFine.label>сыре чудове рагу</VCE_UncookedStewFine.label>
+  <VCE_UncookedStewFine.label>сире чудове рагу</VCE_UncookedStewFine.label>
   <VCE_UncookedStewFine.description>Сире чудове рагу. Воно має бути доготовлене на дров'яній стійці з каструлею, щоб бути їстівним.</VCE_UncookedStewFine.description>
 
   <VCE_CookedStewFine.label>чудове рагу</VCE_CookedStewFine.label>
   <VCE_CookedStewFine.description>Комплексне рагу, зроблене з обережністю з широкого асортименту інгредієнтів.</VCE_CookedStewFine.description>
 
-  <VCE_UncookedStewLavish.label>сыре вишукане рагу</VCE_UncookedStewLavish.label>
+  <VCE_UncookedStewLavish.label>сире вишукане рагу</VCE_UncookedStewLavish.label>
   <VCE_UncookedStewLavish.description>Сире вишукане рагу. Воно має бути доготовлене на дров'яній стійці з каструлею, щоб бути їстівним.</VCE_UncookedStewLavish.description>
 
   <VCE_CookedStewLavish.label>вишукане рагу</VCE_CookedStewLavish.label>

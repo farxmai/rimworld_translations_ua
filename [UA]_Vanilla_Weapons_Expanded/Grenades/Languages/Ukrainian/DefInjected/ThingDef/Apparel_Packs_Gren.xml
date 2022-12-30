@@ -4,18 +4,18 @@
   <VWE_Apparel_GrenadeEMPBelt.description>Зв'язка електромагнітних гранат, що завдають шкоди електронному обладнанню, закріплена на поясі. Їх можна кинути на невелику відстань і, коли вони вибухнуть, вимикають всю електроніку довкола. Зв'язку можна поповнювати ЕМІ-гранатами.</VWE_Apparel_GrenadeEMPBelt.description>
   <VWE_Apparel_GrenadeEMPBelt.verbs.0.label>кинути ЕМІ-гранату</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
   <VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>ЕМІ</VWE_Apparel_GrenadeEMPBelt.comps.CompReloadable.chargeNoun>
-  
+
 
   <VWE_Apparel_GrenadeFragBelt.label>зв'язка осколкових гранат</VWE_Apparel_GrenadeFragBelt.label>
   <VWE_Apparel_GrenadeFragBelt.description>Зв'язка старих добрих осколкових гранат, закріплена на поясі. Їх можна кинути на невелику відстань і, коли вони вибухнуть, пошкоджуючи усе навколо. Зв'язку можна поповнювати уламковими гранатами.</VWE_Apparel_GrenadeFragBelt.description>
   <VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>кинути осколочную гранату</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
-  <VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>осколочных</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>осколкових</VWE_Apparel_GrenadeFragBelt.comps.CompReloadable.chargeNoun>
 
 
   <VWE_Apparel_GrenadeMolotovBelt.label>зв'язка коктейлів Молотова</VWE_Apparel_GrenadeMolotovBelt.label>
   <VWE_Apparel_GrenadeMolotovBelt.description>Зв'язка скляних пляшок з легкозаймистою рідиною, закріплене на поясі. Улюблена зброя хуліганів та відчайдушних бійців. Їх можна кинути на невелику відстань і, коли вони вибухнуть, підпалять усіх і всі довкола. Зв'язку можна поповнювати коктейлями Молотова.</VWE_Apparel_GrenadeMolotovBelt.description>
   <VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>кинути коктейль Молотова</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
-  <VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>Молотовых</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>запальних</VWE_Apparel_GrenadeMolotovBelt.comps.CompReloadable.chargeNoun>
 
 
   <VWE_Apparel_GrenadeSmokeBelt.label>зв'язка димових гранат</VWE_Apparel_GrenadeSmokeBelt.label>

@@ -166,24 +166,6 @@
     </match>
   </Operation>
 
-  <Operation Class="PatchOperationFindMod">
-    <mods>
-      <li>Vanilla Furniture Expanded - Security</li>
-    </mods>
-    <match Class="PatchOperationReplace">
-      <xpath>/Defs/ThingDef[defName="VFES_AmmoCrate"]/building</xpath>
-      <value>
-        <building>
-          <fixedStorageSettings>
-            <filter>
-              <categories>
-                <li>MortarShells</li>
-              </categories>
-            </filter>
-          </fixedStorageSettings>
-        </building>
-      </value>
-    </match>
-  </Operation>
+
 
 </Patch>

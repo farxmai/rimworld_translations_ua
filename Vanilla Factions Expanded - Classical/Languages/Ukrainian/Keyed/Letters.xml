@@ -9,7 +9,7 @@
   <!-- EN: Since you now have all senators from {0}, you have now unlocked the perk {1}. Additionally, perks will no longer be lost if a senator dies. -->
   <VFEC.Letters.SenatorJoins.Desc.All>Зібравши всіх сенаторів з {replace: {0}; "Центральна Республіка"-"центральної республіки"; "Західна Республіка"-"західної республіки"; "Східна Республіка"-"східної республіки"}, ви відкрили привілей «{1}». Крім того, привілеї більше не пропадуть через смерть сенатора.</VFEC.Letters.SenatorJoins.Desc.All>
   <!-- EN: Finally, combining the knowledge of all {0} senators means you have automatically researched {1}. -->
-  <VFEC.Letters.SenatorJoins.Desc.All.Research>Собрав знания всех {0} сенаторов вы автоматически открыли «{1}».</VFEC.Letters.SenatorJoins.Desc.All.Research>
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>Зібравши знання всіх сенаторів {0} ви автоматично відкрили «{1}».</VFEC.Letters.SenatorJoins.Desc.All.Research>
   <!-- EN: Senator Lost: {0} -->
   <VFEC.Letters.SenatorLost>Сенатор {0} потерян</VFEC.Letters.SenatorLost>
   <!-- EN: {0}, a senator from {1}, has died in your care. {1} will no elect a new senator, who you will have to gain the favor of. As such, the perk {2} has been lost. -->

@@ -61,7 +61,7 @@
   <VWE_Gun_SemiAutomaticRifle.tools.1.label>ствол</VWE_Gun_SemiAutomaticRifle.tools.1.label>
 
 
-  <VWE_Bullet_LeverActionRifle.label>пуля рычажной винтовки</VWE_Bullet_LeverActionRifle.label>
+  <VWE_Bullet_LeverActionRifle.label>куля важільної гвинтівки</VWE_Bullet_LeverActionRifle.label>
 
   <VWE_Gun_LeverActionRifle.label>важільна гвинтівка</VWE_Gun_LeverActionRifle.label>
   <VWE_Gun_LeverActionRifle.description>Гвинтівка, яка використовує важіль, розташований поряд зі спусковим гачком, для завантаження в ствол патронів. Хоча ця зброя не така потужна, як інші гвинтівки, її можна швидко перезаряджати.\n\nНабула широкого поширення у вестернах, завдяки можливості стріляти сидячи верхи на коні, використовуючи лише одну руку.</VWE_Gun_LeverActionRifle.description>

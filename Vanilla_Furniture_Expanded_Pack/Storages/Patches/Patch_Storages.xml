@@ -426,7 +426,56 @@
 		</match>
 	</Operation>
 
-
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Furniture Expanded - Security</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VFES_AmmoCrate"]/building</xpath>
+					<value>
+						<building>
+							<fixedStorageSettings>
+								<filter>
+									<categories>
+										<li>MortarShells</li>
+									</categories>
+								</filter>
+							</fixedStorageSettings>
+						</building>
+					</value>
+				</li>
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/ThingDef[defName = "VFES_AmmoCrate"]/comps/li[@Class = "LWM.DeepStorage.Properties"]</xpath>
+					<nomatch Class="PatchOperationAdd">
+						<xpath>/Defs/ThingDef[defName = "VFES_AmmoCrate"]/comps</xpath>
+						<value>
+							<li Class="LWM.DeepStorage.Properties">
+								<maxNumberStacks>3</maxNumberStacks>
+								<minTimeStoringTakes>100</minTimeStoringTakes>
+								<additionalTimeStackSize>10</additionalTimeStackSize>
+								<showContents>false</showContents>
+								<overlayType>SumOfAllItems</overlayType>
+							</li>
+						</value>
+					</nomatch>
+					<match Class="PatchOperationReplace">
+						<xpath>/Defs/ThingDef[defName = "VFES_AmmoCrate"]/comps/li[@Class = "LWM.DeepStorage.Properties"]</xpath>
+						<value>
+							<li Class="LWM.DeepStorage.Properties">
+								<maxNumberStacks>3</maxNumberStacks>
+								<minTimeStoringTakes>100</minTimeStoringTakes>
+								<additionalTimeStackSize>10</additionalTimeStackSize>
+								<showContents>false</showContents>
+								<overlayType>SumOfAllItems</overlayType>
+							</li>
+						</value>
+					</match>
+				</li>
+			</operations>
+		</match>
+	</Operation>
 
 
 </Patch>

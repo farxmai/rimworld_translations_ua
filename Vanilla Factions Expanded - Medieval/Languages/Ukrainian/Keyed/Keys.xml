@@ -2,7 +2,7 @@
 <LanguageData>
 
     <!-- Wine barrel -->
-    <VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Выбір сусла</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
+    <VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Вибір сусла</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
     <VanillaFactionsExpanded.Wine.bringIngredientsText>Принести сусло</VanillaFactionsExpanded.Wine.bringIngredientsText>
     <VanillaFactionsExpanded.Wine.bringIngredientsDesc>Принести сусло до винної бочки, щоб розпочати процес бродіння.</VanillaFactionsExpanded.Wine.bringIngredientsDesc>
     <VanillaFactionsExpanded.Wine.cancelIngredientsText>Скасувати доставку сусла</VanillaFactionsExpanded.Wine.cancelIngredientsText>
@@ -11,7 +11,7 @@
     <VanillaFactionsExpanded.Wine.removeProductDesc>Вилучити вино з бочки. Вино цієї бочки буде готове на рівні якості: ({0})</VanillaFactionsExpanded.Wine.removeProductDesc>
 
     <!-- Smoker -->
-    <VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Выбір м'яса</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
+    <VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Вибір м'яса</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
     <VanillaFactionsExpanded.Smoker.bringIngredientsText>Принести м'ясо</VanillaFactionsExpanded.Smoker.bringIngredientsText>
     <VanillaFactionsExpanded.Smoker.bringIngredientsDesc>Принести м'ясо до коптильні, щоб розпочати процес копчення.</VanillaFactionsExpanded.Smoker.bringIngredientsDesc>
     <VanillaFactionsExpanded.Smoker.cancelIngredientsText>Скасувати доставку м'яса</VanillaFactionsExpanded.Smoker.cancelIngredientsText>

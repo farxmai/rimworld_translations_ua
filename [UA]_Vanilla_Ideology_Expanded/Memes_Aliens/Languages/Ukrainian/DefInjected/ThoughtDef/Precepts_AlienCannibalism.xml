@@ -3,6 +3,8 @@
 	<!--1.3/Mods/Ideology/Defs/PreceptDefs/Precepts_AlienCannibalism.xml-->
 	<!-- Abhorrent -->
 
+	<!-- TODO -->
+
 	<HAR_AteAlienMeat_Abhorrent.stages.0.label>ел инопланетное мясо</HAR_AteAlienMeat_Abhorrent.stages.0.label>
 	<HAR_AteAlienMeat_Abhorrent.stages.0.description>Мне пришлось съесть мясо разумного инопланетянина. Это преступление против всего, во что я верю.</HAR_AteAlienMeat_Abhorrent.stages.0.description>
 

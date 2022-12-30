@@ -23,7 +23,7 @@
 
   <VME_Healthcare.descriptionMaker.rules.rulesStrings>
 
-    <li>creation(tag=meme_Healthcare) ->[deity0_name] [deity0_spoke] своїм послідовникам: «Дайте людям те, що їм потрібно: їжу, ліки, чисте повітря, чисту воду, дерева та траву. Не питайте, хто цього вартийб адже життя усых рівноцінне».</li>
+    <li>creation(tag=meme_Healthcare) ->[deity0_name] [deity0_spoke] своїм послідовникам: «Дайте людям те, що їм потрібно: їжу, ліки, чисте повітря, чисту воду, дерева та траву. Не питайте, хто цього вартий, адже життя усіх рівноцінне».</li>
     <li>episode(uses=1,tag=meme_Healthcare) ->Як [deity0_commanded] [deity0_name], ми завжди дбали один про одного і об'єднували наші сили, щоб ніхто не страждав на самоті.</li>
     <li>intro(tag=meme_Healthcare) ->У місці, що відоме як [place_summary] [place_name], [memberNamePlural] побудували гігантську лікарню, де дбали про хворих та немічних.</li>
     <li>conflict(tag=meme_Healthcare) ->Злісний продавець страхових полісів, бачачи, як прибуток [foeLeader_possessive] випаровується через громадську охорону здоров'я, вирішив шкодити лікарні всіма доступними засобами.</li>

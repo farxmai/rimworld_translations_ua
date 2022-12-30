@@ -9,7 +9,7 @@
   <VFES_Wanted.root.nodes.11.node.nodes.0.text>[criminal_nameFull] стало відомо що їх схованку викрито, тому встигли втекти. Срок действия «[resolvedQuestName]» истёк.</VFES_Wanted.root.nodes.11.node.nodes.0.text>
   <VFES_Wanted.root.nodes.12.node.nodes.0.label>Завдання провалено: «[resolvedQuestName]»</VFES_Wanted.root.nodes.12.node.nodes.0.label>
   <VFES_Wanted.root.nodes.12.node.nodes.0.text>Розбійники зібрали речі та пішли далі. Завдання «[resolvedQuestName]» провалено.</VFES_Wanted.root.nodes.12.node.nodes.0.text>
-  <VFES_Wanted.root.nodes.13.node.customLetterLabel>Вознаграждение прибыло</VFES_Wanted.root.nodes.13.node.customLetterLabel>
+  <VFES_Wanted.root.nodes.13.node.customLetterLabel>Винагорода прибула</VFES_Wanted.root.nodes.13.node.customLetterLabel>
   <VFES_Wanted.root.nodes.13.node.customLetterText>Ви перемогли [criminal_nameFull] и ликвидировали лагерь!\n\nПолучено вознаграждение от [asker_faction_name].</VFES_Wanted.root.nodes.13.node.customLetterText>
 
   <VFES_CaravanRaid.questNameRules.rulesStrings.0>questName->Караван: [raid]</VFES_CaravanRaid.questNameRules.rulesStrings.0>

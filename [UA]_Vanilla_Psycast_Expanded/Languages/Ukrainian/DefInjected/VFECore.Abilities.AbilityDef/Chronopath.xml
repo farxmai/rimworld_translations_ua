@@ -41,7 +41,7 @@
   <VPE_TimeSphere.description>Псіонічно стиснути плин часу у обмеженому просторі. Живі істоти стрімко старіють, рослини цвітуть і висихають, а будови руйнуються під впливом часу.</VPE_TimeSphere.description>
 
   <!-- EN:time reversal -->
-  <VPE_TimeReversal.label>возврат времени</VPE_TimeReversal.label>
+  <VPE_TimeReversal.label>повернення часу</VPE_TimeReversal.label>
   <!-- EN:Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma. -->
   <VPE_TimeReversal.description>Досить неефективне вливання життєвої сили в живу ціль, старить псіоніка на 5 років і омолоджує ціль на 10. Має віковий поріг. Усуває вікові хвороби та занурює псіоніка у стан коми.</VPE_TimeReversal.description>
 

@@ -85,7 +85,7 @@
 	<Designator_context_similar>Виділити схожі предмети на карті</Designator_context_similar>
 	<Designator_context_similar_succ>Виділено {0} схожих предметів на карті.</Designator_context_similar_succ>
 	<Designator_context_similar_part>Виділено {0} з доступних {1} схожих предметів на карті.</Designator_context_similar_part>
-	<Designator_context_similar_fail>Что-нибудь должно быть уже виділено щоб знайти и виділити схожие предметів.</Designator_context_similar_fail>
+	<Designator_context_similar_fail>Ви маєте виділити що-небудь щоб знати схожі предмети у виділеній області.</Designator_context_similar_fail>
 	<Designator_context_similar_visible>Виділити схожі предмети у видимій області</Designator_context_similar_visible>
 	<Designator_context_similar_visible_succ>Виділено {0} схожих предметів у видимій області.</Designator_context_similar_visible_succ>
 	<Designator_context_similar_visible_part>Виділено {0} з доступних {1} схожих предметів у видимій області.</Designator_context_similar_visible_part>

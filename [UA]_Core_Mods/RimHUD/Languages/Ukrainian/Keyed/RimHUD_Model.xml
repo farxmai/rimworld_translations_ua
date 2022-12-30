@@ -91,7 +91,7 @@
   <RimHUD.Model.Component.Food>Вибір дієти</RimHUD.Model.Component.Food>
   <RimHUD.Model.Component.Rules>Вибір правил (Потрібне Pawn Rules)</RimHUD.Model.Component.Rules>
   <RimHUD.Model.Component.Timetable>Вибір графика</RimHUD.Model.Component.Timetable>
-  <RimHUD.Model.Component.Area>Вибір зоны</RimHUD.Model.Component.Area>
+  <RimHUD.Model.Component.Area>Вибір зони</RimHUD.Model.Component.Area>
   <RimHUD.Model.Component.RelationKindAndFaction>Професія та фракція</RimHUD.Model.Component.RelationKindAndFaction>
   <RimHUD.Model.Component.GenderRaceAndAge>Стать, раса та вік</RimHUD.Model.Component.GenderRaceAndAge>
   <RimHUD.Model.Component.SimpleGenderRaceAndAge>Проста стать, раса та вік</RimHUD.Model.Component.SimpleGenderRaceAndAge>

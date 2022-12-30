@@ -3,7 +3,7 @@
   <!-- EN: carpenter -->
   <VFE_AncientMech_AncientCarpenter.label>тесляр</VFE_AncientMech_AncientCarpenter.label>
   <!-- EN: A lurching, quadrupedal utility mechanoid with thick armor meant to absorb enemy fire while rapidly dissembling enemy fortifications using simple sledges and drills. Infantry present during the mechanoid wars were known to assemble decoy pillboxes or barricades as the carpenter mechanoids could not distinguish between them and structures being actively used. -->
-  <VFE_AncientMech_AncientCarpenter.description>Неуклюжий четвероногий механоїд поддержки, разбирающий вражеские укрепления при помощи простых кувалд и дрелей не обращая внимания на стрельбу вокруг. Пехота времён механоїдных войн, собирала ложные доты или баррикады, поскольку плотники не могли отличить их от настоящих сооружений.</VFE_AncientMech_AncientCarpenter.description>
+  <VFE_AncientMech_AncientCarpenter.description>Незграбний чотирилапий механоїд підтримки, що розбирає ворожі укріплення за допомогою простих кувалд і дрилів, не звертаючи уваги на стрілянину навколо. Піхота часів механоїдних воєн збирала хибні доти чи барикади, оскільки теслярі не могли відрізнити їх від справжніх споруд.</VFE_AncientMech_AncientCarpenter.description>
   <!-- EN: front left leg -->
   <VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>передня ліва нога</VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>
   <!-- EN: front right leg -->

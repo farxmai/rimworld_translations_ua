@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_SingleRefrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_SingleRefrigerator"]</xpath>
+      <value>
+        <uiIconPath>Building/Temperature/Fridge/SingleFridgeUI</uiIconPath>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_Refrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_Refrigerator"]</xpath>
+      <value>
+        <uiIconPath>Building/Temperature/Fridge/DualFridgeUI</uiIconPath>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_Refrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_Refrigerator"]</xpath>
+      <value>
+        <defaultPlacingRot>South</defaultPlacingRot>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_QuadRefrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_QuadRefrigerator"]</xpath>
+      <value>
+        <uiIconPath>Building/Temperature/Fridge/QuadFridgeUI</uiIconPath>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_SingleWallRefrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_SingleWallRefrigerator"]</xpath>
+      <value>
+        <uiIconPath>Building/Temperature/Fridge/WallSingleFridgeUI</uiIconPath>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "RimFridge_WallRefrigerator"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "RimFridge_WallRefrigerator"]</xpath>
+      <value>
+        <uiIconPath>Building/Temperature/Fridge/WallDualFridgeUI</uiIconPath>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <success>Always</success>
+    <mods>
+      <li>Vanilla Factions Expanded - Mechanoids</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName = "VFE_MechanoidLiquidFreezer"]/graphicData</xpath>
+          <value>
+            <graphicData>
+              <texPath>Things/Building/MechanoidLiquidFreezer/MechanoidLiquidFreezer</texPath>
+              <graphicClass>Graphic_Multi</graphicClass>
+              <drawSize>(3,3)</drawSize>
+            </graphicData>
+          </value>
+        </li>
+        <!-- <li Class="PatchOperationAttributeSet">
+          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]</xpath>
+          <attribute>ParentName</attribute>
+          <value>FridgeBase</value>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]/comps/li[@Class = "CompProperties_Flickable"]</xpath>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]/comps/li[@Class = "CompProperties_Breakdownable"]</xpath>
+        </li> -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "VFE_MechanoidLiquidFreezer"]</xpath>
+          <value>
+            <uiIconPath>Things/Building/MechanoidLiquidFreezer/MechanoidLiquidFreezerUI</uiIconPath>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "VFE_MechanoidLiquidFreezer"]/comps</xpath>
+          <value>
+            <li Class="RimFridge.CompProperties_SecondLayer">
+              <graphicData>
+                <texPath>Things/Building/MechanoidLiquidFreezer/MechanoidLiquidFreezerLid</texPath>
+                <graphicClass>Graphic_Multi</graphicClass>
+                <shaderType>Transparent</shaderType>
+                <drawSize>(3,3)</drawSize>
+              </graphicData>
+              <altitudeLayer>Projectile</altitudeLayer>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <success>Always</success>
+    <mods>
+      <li>LWM's Deep Storage</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/ThingDef[defName="LWM_DS_RimFridge_Refrigerator"]/comps/li[@Class = "RimFridge.CompProperties_SecondLayer"]</xpath>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "LWM_DS_RimFridge_Refrigerator"]/comps/li[@Class = "LWM.DeepStorage.Properties"]</xpath>
+          <value>
+            <showContents>false</showContents>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "LWM_DS_RimFridge_Refrigerator"]</xpath>
+          <value>
+            <defaultPlacingRot>South</defaultPlacingRot>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+
+</Patch>

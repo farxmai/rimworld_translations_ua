@@ -88,8 +88,8 @@
   <TG.OptionsGearTooltip>Відкрити меню налаштувань</TG.OptionsGearTooltip>
   <TG.LookBusyTooltip>Наказати групі виконати будь-яке завдання</TG.LookBusyTooltip>
 
-	<TG.WorkTaskTooltipResearch>Дослідження</TG.WorkTaskTooltipResearch>
-	<TG.WorkTaskTooltipResearchMenu>Відкрити меню дослідень</TG.WorkTaskTooltipResearchMenu>
+  <TG.WorkTaskTooltipResearch>Дослідження</TG.WorkTaskTooltipResearch>
+  <TG.WorkTaskTooltipResearchMenu>Відкрити меню дослідень</TG.WorkTaskTooltipResearchMenu>
 
   <TG.ForcedLaborTooltip>ПКМ - позначити як пріорітетну задача\nПКМ x2  - позначити як примусову задача</TG.ForcedLaborTooltip>
 
@@ -187,37 +187,37 @@
 
   <TG.Pawn>Колоніст</TG.Pawn>
   <TG.Box>Рамка</TG.Box>
-  
-  <TG.ResetToDefault>Скинути до значень за замовчуванням</TG.ResetToDefault>
-	<TG.ResetPawnView>Скинути відображення</TG.ResetPawnView>
 
-	<TG.WorkTypeLeftClickToApply>ЛКМ щоб прийняти</TG.WorkTypeLeftClickToApply>
-	<TG.WorkTypeForcedLabor>Примусова праця</TG.WorkTypeForcedLabor>
-	<TG.WorkTypeSlaveLabor>Рабська праця</TG.WorkTypeSlaveLabor>
-	<TG.GroupWorkPrioritiesReset>Скинути пріорітети праці\n\nЗелена рамка означає групове призначення, натисніть СКМ щоб скинути</TG.GroupWorkPrioritiesReset>
-	
-	<TG.GroupColorTooltip>Призначити колір одягу для цієї групи. Колоністи перефарбуть його за потреби як тільки виявиться нагода.</TG.GroupColorTooltip>
-	<TG.SetIdeologyColor>Колір ідології</TG.SetIdeologyColor>
-	<TG.SetPawnFavoritesColor>Улюблений колір</TG.SetPawnFavoritesColor>
-	<TG.ClearGroupColor>Прибрати колір групи</TG.ClearGroupColor>
-	
-	<TG.All>Все</TG.All>
-	<TG.Torso>Тіло</TG.Torso>
-	<TG.Legs>Ноги</TG.Legs>
-	<TG.Hands>Руки</TG.Hands>
-	<TG.Head>Голова</TG.Head>
-	<TG.Feet>Ступні</TG.Feet>
-	<TG.Hair>Волосся</TG.Hair>
-	<TG.HealthBarWidth>Розмір шкали здоров'я</TG.HealthBarWidth>
-	<TG.AutoDisbandTooltip>Авто-видалення\n\nГрупу буде розформавано якщо в ній не залишилось колоністів.</TG.AutoDisbandTooltip>
-	<TG.WeaponSizeScale>Розмір зброї</TG.WeaponSizeScale>
-	<TG.ModSettingsText>Параметры для групп колоний можно найти в игре, используя значок шестеренки, расположенный под кнопкой «Создать группу».</TG.ModSettingsText>
-	<TG.PawnRowCount>Колоністів в рядку: </TG.PawnRowCount>
+  <TG.ResetToDefault>Скинути до значень за замовчуванням</TG.ResetToDefault>
+  <TG.ResetPawnView>Скинути відображення</TG.ResetPawnView>
+
+  <TG.WorkTypeLeftClickToApply>ЛКМ щоб прийняти</TG.WorkTypeLeftClickToApply>
+  <TG.WorkTypeForcedLabor>Примусова праця</TG.WorkTypeForcedLabor>
+  <TG.WorkTypeSlaveLabor>Рабська праця</TG.WorkTypeSlaveLabor>
+  <TG.GroupWorkPrioritiesReset>Скинути пріорітети праці\n\nЗелена рамка означає групове призначення, натисніть СКМ щоб скинути</TG.GroupWorkPrioritiesReset>
+
+  <TG.GroupColorTooltip>Призначити колір одягу для цієї групи. Колоністи перефарбуть його за потреби як тільки виявиться нагода.</TG.GroupColorTooltip>
+  <TG.SetIdeologyColor>Колір ідології</TG.SetIdeologyColor>
+  <TG.SetPawnFavoritesColor>Улюблений колір</TG.SetPawnFavoritesColor>
+  <TG.ClearGroupColor>Прибрати колір групи</TG.ClearGroupColor>
+
+  <TG.All>Все</TG.All>
+  <TG.Torso>Тіло</TG.Torso>
+  <TG.Legs>Ноги</TG.Legs>
+  <TG.Hands>Руки</TG.Hands>
+  <TG.Head>Голова</TG.Head>
+  <TG.Feet>Ступні</TG.Feet>
+  <TG.Hair>Волосся</TG.Hair>
+  <TG.HealthBarWidth>Розмір шкали здоров'я</TG.HealthBarWidth>
+  <TG.AutoDisbandTooltip>Авто-видалення\n\nГрупу буде розформавано якщо в ній не залишилось колоністів.</TG.AutoDisbandTooltip>
+  <TG.WeaponSizeScale>Розмір зброї</TG.WeaponSizeScale>
+  <TG.ModSettingsText>Параметри для груп колоній можна знайти у грі, використовуючи значок шестерні, розташований під кнопкою «Створити групу».</TG.ModSettingsText>
+  <TG.PawnRowCount>Колоністів в рядку: </TG.PawnRowCount>
 
   <TG.GroupSlavesSection>{0} (раби)</TG.GroupSlavesSection>
-	<TG.UngroupedColonistsSection>Незгруповані колоністи</TG.UngroupedColonistsSection>
-	<TG.UngroupedSlavesSection>Незгруповані раби</TG.UngroupedSlavesSection>
-	
-	<TG.AnyPawnOfGroup>Будь-хто з {0}</TG.AnyPawnOfGroup>
-	<TG.DisbandSelectedPawns>Натисніть, щоб розпустити вибраних пішаків із цієї групи</TG.DisbandSelectedPawns>
+  <TG.UngroupedColonistsSection>Незгруповані колоністи</TG.UngroupedColonistsSection>
+  <TG.UngroupedSlavesSection>Незгруповані раби</TG.UngroupedSlavesSection>
+
+  <TG.AnyPawnOfGroup>Будь-хто з {0}</TG.AnyPawnOfGroup>
+  <TG.DisbandSelectedPawns>Натисніть, щоб розпустити вибраних пішаків із цієї групи</TG.DisbandSelectedPawns>
 </LanguageData>

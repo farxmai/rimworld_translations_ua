@@ -3,7 +3,7 @@
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <VME_LeadershipChallengeRitualOutcome.description>Залежно від якості ритуалу настрій учасників зміниться на величину від {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день: дні: днів}.</VME_LeadershipChallengeRitualOutcome.description>
   <!-- EN: This is a duel to the death. Whoever wins will get (or keep) the leader title. -->
-  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>Это смертельный поединок. Победивший получит или сохранит титул лидера.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
+  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>Це смертельний поєдинок. Переможець отримає або збереже титул лідера.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
 
   <!-- EN: challenge organizer present -->
   <VME_LeadershipChallengeRitualOutcome.comps.0.label>присутній організатор поєдинку</VME_LeadershipChallengeRitualOutcome.comps.0.label>
