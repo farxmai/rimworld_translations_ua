@@ -105,6 +105,7 @@
     <costStuffCount>25</costStuffCount>
     <costList>
       <Steel>25</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
     </costList>
     <stuffCategories>
       <li>Metallic</li>

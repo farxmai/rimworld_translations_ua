@@ -69,6 +69,15 @@
       <multiSittable>true</multiSittable>
       <destroySound>BuildingDestroyed_Soft_Small</destroySound>
     </building>
+    <comps>
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/Sofa/Sofa</li>
+          <li>Things/Building/Sofa/SofaA</li>
+          <li>Things/Building/Sofa/SofaB</li>
+        </randomGraphics>
+      </li>
+    </comps>
   </ThingDef>
 
   <!-- Royal Sofa -->
@@ -105,7 +114,7 @@
     </stuffCategories>
     <costStuffCount>280</costStuffCount>
     <costList>
-      <Gold>110</Gold>
+      <Gold>100</Gold>
     </costList>
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
@@ -171,6 +180,13 @@
         <maxSimultaneous>1</maxSimultaneous>
         <maxDistance>6</maxDistance>
       </li>
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/Mirror/Mirror</li>
+          <li>Things/Building/Mirror/MirrorA</li>
+          <li>Things/Building/Mirror/MirrorB</li>
+        </randomGraphics>
+      </li>
     </comps>
   </ThingDef>
 
@@ -219,6 +235,13 @@
         <maxSimultaneous>1</maxSimultaneous>
         <maxDistance>5</maxDistance>
       </li>
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/Divider/Divider</li>
+          <li>Things/Building/Divider/DividerA</li>
+          <li>Things/Building/Divider/DividerB</li>
+        </randomGraphics>
+      </li>
     </comps>
   </ThingDef>
 
@@ -226,7 +249,7 @@
   <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_CupboardSmall</defName>
     <label>small cupboard</label>
-    <description>A simple small cupboard for room decorating.</description>
+    <description>A simple small cupboard for room decorating. Increases the attractiveness of the room.</description>
     <graphicData>
       <texPath>Things/Building/CupboardSmall/Cupboard</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -259,13 +282,25 @@
     <researchPrerequisites>
       <li>ComplexFurniture</li>
     </researchPrerequisites>
+    <comps>
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/CupboardSmall/Cupboard</li>
+          <li>Things/Building/CupboardSmall/CupboardA</li>
+          <li>Things/Building/CupboardSmall/CupboardB</li>
+          <li>Things/Building/CupboardSmall/CupboardC</li>
+          <li>Things/Building/CupboardSmall/CupboardD</li>
+          <li>Things/Building/CupboardSmall/CupboardE</li>
+        </randomGraphics>
+      </li>
+    </comps>
   </ThingDef>
 
   <!-- Large Cupboard -->
   <ThingDef ParentName="FFE_FurnitureWithQualityBase">
     <defName>FFE_CupboardLarge</defName>
     <label>large cupboard</label>
-    <description>A simple large cupboard for room decorating.</description>
+    <description>A simple large cupboard for room decorating. Increases the attractiveness of the room.</description>
     <graphicData>
       <texPath>Things/Building/CupboardLarge/Cupboard</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -299,6 +334,18 @@
     <researchPrerequisites>
       <li>ComplexFurniture</li>
     </researchPrerequisites>
+    <comps>
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/CupboardLarge/Cupboard</li>
+          <li>Things/Building/CupboardLarge/CupboardA</li>
+          <li>Things/Building/CupboardLarge/CupboardB</li>
+          <li>Things/Building/CupboardLarge/CupboardC</li>
+          <li>Things/Building/CupboardLarge/CupboardD</li>
+          <li>Things/Building/CupboardLarge/CupboardE</li>
+        </randomGraphics>
+      </li>
+    </comps>
   </ThingDef>
 
   <ThingDef ParentName="FFE_FurnitureWithQualityBase">
@@ -309,7 +356,13 @@
     <altitudeLayer>BuildingOnTop</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <fillPercent>0.40</fillPercent>
+    <ritualFocus MayRequire="Ludeon.RimWorld.Ideology">
+      <spectateDistance>2~3</spectateDistance>
+      <allowedSpectateSides>All</allowedSpectateSides>
+    </ritualFocus>
     <statBases>
+      <StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
+      <MeditationFocusStrength>0.05</MeditationFocusStrength>
       <MaxHitPoints>75</MaxHitPoints>
       <WorkToBuild>1000</WorkToBuild>
       <Mass>10</Mass>
@@ -334,6 +387,9 @@
     <building>
       <destroySound>BuildingDestroyed_Soft_Medium</destroySound>
       <destroyShakeAmount>0</destroyShakeAmount>
+      <buildingTags>
+        <li>RitualFocus</li>
+      </buildingTags>
     </building>
     <researchPrerequisites>
       <li>ComplexFurniture</li>
@@ -354,6 +410,24 @@
         <rectW>(0.25, 0.5, 0.5, 1.5)</rectW>
       </damageData>
     </graphicData>
+    <comps>
+      <li Class="CompProperties_Styleable" />
+      <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
+        <randomGraphics>
+          <li>Things/Building/Banner/Banner</li>
+          <li>Things/Building/Banner/BannerA</li>
+          <li>Things/Building/Banner/BannerB</li>
+          <li>Things/Building/Banner/BannerC</li>
+          <li>Things/Building/Banner/BannerD</li>
+        </randomGraphics>
+      </li>
+      <li Class="CompProperties_MeditationFocus">
+        <statDef>MeditationFocusStrength</statDef>
+        <focusTypes>
+          <li>Artistic</li>
+        </focusTypes>
+      </li>
+    </comps>
   </ThingDef>
 
   <!-- <ThingDef ParentName="FurnitureWithQualityBase">

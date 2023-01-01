@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
 
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>LWM's Deep Storage</li>
+    </mods>
+    <match Class="PatchOperationConditional">
+      <xpath>/Defs/ThingDef[@Name = "FridgeBase"]</xpath>
+      <match Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[@Name = "FridgeBase"]/researchPrerequisites</xpath>
+        <value>
+          <researchPrerequisites>
+            <li>FFE_BasicFridges</li>
+          </researchPrerequisites>
+        </value>
+      </match>
+    </match>
+  </Operation>
+
   <Operation Class="PatchOperationConditional">
     <xpath>/Defs/ThingDef[defName = "RimFridge_SingleRefrigerator"]</xpath>
     <match Class="PatchOperationAdd">
@@ -61,6 +78,8 @@
     </match>
   </Operation>
 
+  <!-- VFE_MechanoidLiquidFreezer -->
+
   <Operation Class="PatchOperationFindMod">
     <success>Always</success>
     <mods>
@@ -78,17 +97,6 @@
             </graphicData>
           </value>
         </li>
-        <!-- <li Class="PatchOperationAttributeSet">
-          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]</xpath>
-          <attribute>ParentName</attribute>
-          <value>FridgeBase</value>
-        </li>
-        <li Class="PatchOperationRemove">
-          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]/comps/li[@Class = "CompProperties_Flickable"]</xpath>
-        </li>
-        <li Class="PatchOperationRemove">
-          <xpath>/Defs/ThingDef[defName="VFE_MechanoidLiquidFreezer"]/comps/li[@Class = "CompProperties_Breakdownable"]</xpath>
-        </li> -->
         <li Class="PatchOperationAdd">
           <xpath>/Defs/ThingDef[defName = "VFE_MechanoidLiquidFreezer"]</xpath>
           <value>
@@ -113,6 +121,8 @@
     </match>
   </Operation>
 
+  <!-- LWM_DS_RimFridge_Refrigerator -->
+
   <Operation Class="PatchOperationFindMod">
     <success>Always</success>
     <mods>
@@ -120,6 +130,20 @@
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="LWM_DS_RimFridge_Refrigerator"]/researchPrerequisites</xpath>
+          <value>
+            <researchPrerequisites Inherit="false">
+              <li>FFE_IndustrialFridges</li>
+            </researchPrerequisites>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName = "LWM_DS_RimFridge_Refrigerator"]</xpath>
+          <value>
+            <uiIconPath>OtherMods/RimFridge/DeepDualFridgeUI</uiIconPath>
+          </value>
+        </li>
         <li Class="PatchOperationRemove">
           <xpath>/Defs/ThingDef[defName="LWM_DS_RimFridge_Refrigerator"]/comps/li[@Class = "RimFridge.CompProperties_SecondLayer"]</xpath>
         </li>

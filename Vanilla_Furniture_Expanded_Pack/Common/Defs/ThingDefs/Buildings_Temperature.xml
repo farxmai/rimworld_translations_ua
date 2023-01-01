@@ -52,6 +52,9 @@
 			<li>PlaceWorker_Heater</li>
 		</placeWorkers>
 		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<researchPrerequisites>
+			<li>Smithing</li>
+		</researchPrerequisites>
 		<comps>
 			<li Class="CompProperties_Refuelable">
 				<fuelConsumptionRate>4.5</fuelConsumptionRate>

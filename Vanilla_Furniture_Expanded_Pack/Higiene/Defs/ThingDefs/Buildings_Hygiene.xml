@@ -1,8 +1,8 @@
 <Defs>
 
   <ThingDef ParentName="BasedWaterTower">
-    <defName>FFE_SmallWhaterTank</defName>
-    <label>whater tank</label>
+    <defName>FFE_SmallWaterTank</defName>
+    <label>water tank</label>
     <category>Building</category>
     <graphicData>
       <texPath>Things/Building/WaterTank/WaterTank</texPath>
@@ -36,14 +36,17 @@
     <tradeNeverStack>true</tradeNeverStack>
     <tradeability>Sellable</tradeability>
     <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsHygiene</li>
+    </thingCategories>
     <researchPrerequisites>
       <li>Plumbing</li>
     </researchPrerequisites>
   </ThingDef>
 
   <ThingDef ParentName="BasedWaterTower">
-    <defName>FFE_WhaterTank</defName>
-    <label>large whater tank</label>
+    <defName>FFE_WaterTank</defName>
+    <label>large water tank</label>
     <graphicData>
       <texPath>Things/Building/LiquidTank/LiquidTank</texPath>
       <graphicClass>Graphic_Multi</graphicClass>

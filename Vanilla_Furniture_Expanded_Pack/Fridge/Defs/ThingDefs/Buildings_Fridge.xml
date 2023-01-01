@@ -100,7 +100,7 @@
       <li>PlaceWorker_Heater</li>
     </placeWorkers>
     <researchPrerequisites>
-      <li>AirConditioning</li>
+      <li>FFE_IndustrialFridges</li>
     </researchPrerequisites>
     <surfaceType>Item</surfaceType>
     <staticSunShadowHeight>0.5</staticSunShadowHeight>
@@ -137,9 +137,10 @@
         <basePowerConsumption>80</basePowerConsumption>
       </li>
       <li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
-        <maxNumberStacks>8</maxNumberStacks>
-        <minNumberStacks>8</minNumberStacks>
+        <minNumberStacks>3</minNumberStacks>
+        <maxNumberStacks>3</maxNumberStacks>
         <timeStoringTakes>80</timeStoringTakes>
+        <maxMassOfStoredItem>100</maxMassOfStoredItem>
         <additionalTimeEachStack>50</additionalTimeEachStack>
         <showContents>false</showContents>
         <overlayType>SumOfAllItems</overlayType>
@@ -175,9 +176,10 @@
         <basePowerConsumption>120</basePowerConsumption>
       </li>
       <li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
-        <maxNumberStacks>8</maxNumberStacks>
-        <minNumberStacks>8</minNumberStacks>
+        <minNumberStacks>4</minNumberStacks>
+        <maxNumberStacks>4</maxNumberStacks>
         <timeStoringTakes>80</timeStoringTakes>
+        <maxMassOfStoredItem>100</maxMassOfStoredItem>
         <additionalTimeEachStack>50</additionalTimeEachStack>
         <showContents>false</showContents>
         <overlayType>SumOfAllItems</overlayType>
@@ -197,7 +199,7 @@
     </graphicData>
     <uiIconScale>0.9</uiIconScale>
     <costList>
-      <Steel>200</Steel>
+      <Steel>300</Steel>
       <ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <statBases>
@@ -219,7 +221,7 @@
       </li>
       <li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
         <maxNumberStacks>5</maxNumberStacks>
-        <minNumberStacks>5</minNumberStacks>
+        <minNumberStacks>3</minNumberStacks>
         <timeStoringTakes>80</timeStoringTakes>
         <additionalTimeEachStack>50</additionalTimeEachStack>
         <showContents>false</showContents>
