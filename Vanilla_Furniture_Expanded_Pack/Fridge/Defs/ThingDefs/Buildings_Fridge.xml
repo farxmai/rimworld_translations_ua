@@ -34,8 +34,8 @@
       <preventDeteriorationInside>true</preventDeteriorationInside>
       <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
-      <fixedStorageSettings>
-        <filter Inherit="false">
+      <fixedStorageSettings Inherit="false">
+        <filter>
           <categories>
             <li>Foods</li>
             <li MayRequire="vanillaexpanded.vbrewe">VBE_Musts</li>
@@ -57,6 +57,7 @@
             <li MayRequire="ludeon.rimworld.ideology">Dye</li>
             <li>Hay</li>
             <li>Kibble</li>
+            <li>MealSurvivalPack</li>
           </disallowedThingDefs>
         </filter>
       </fixedStorageSettings>
@@ -66,9 +67,15 @@
           <categories>
             <li>Foods</li>
           </categories>
-          <disallowedThingDefs>
-            <li>MealSurvivalPack</li>
-          </disallowedThingDefs>
+          <thingDefs>
+            <li>Beer</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Gin</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Lemonade</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Soda</li>
+            <li MayRequire="VanillaExpanded.VBrewE">VBE_Cider</li>
+          </thingDefs>
         </filter>
       </defaultStorageSettings>
     </building>
@@ -78,10 +85,12 @@
       <li Class="RimFridge.CompProperties_Refrigerator">
         <drinksBestCold>
           <li>Beer</li>
-          <li>RC2_Ale</li>
-          <li>RC2_Cider</li>
-          <li>RC2_Grog</li>
-          <li>RC2_Stout</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Gin</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Lemonade</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Soda</li>
+          <li MayRequire="VanillaExpanded.VBrewE">VBE_Cider</li>
         </drinksBestCold>
         <findAllRottableForFilters>true</findAllRottableForFilters>
       </li>

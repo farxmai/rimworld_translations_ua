@@ -124,14 +124,13 @@
   <!-- LWM_DS_RimFridge_Refrigerator -->
 
   <Operation Class="PatchOperationFindMod">
-    <success>Always</success>
     <mods>
       <li>LWM's Deep Storage</li>
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
         <li Class="PatchOperationAdd">
-          <xpath>/Defs/ThingDef[defName="LWM_DS_RimFridge_Refrigerator"]/researchPrerequisites</xpath>
+          <xpath>/Defs/ThingDef[defName="LWM_DS_RimFridge_Refrigerator"]</xpath>
           <value>
             <researchPrerequisites Inherit="false">
               <li>FFE_IndustrialFridges</li>
