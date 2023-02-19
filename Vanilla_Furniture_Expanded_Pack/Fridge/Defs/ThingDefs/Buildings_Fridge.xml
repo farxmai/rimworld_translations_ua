@@ -6,7 +6,6 @@
   </DesignatorDropdownGroupDef>
 
   <ThingDef Name="FFE_FridgeBase" Abstract="True">
-    <minifiedDef>MinifiedThing</minifiedDef>
     <thingClass>RimFridge.RimFridge_Building</thingClass>
     <drawGUIOverlay>true</drawGUIOverlay>
     <tradeTags>
@@ -26,6 +25,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <defaultPlacingRot>South</defaultPlacingRot>
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <minifiedDef>MinifiedThing</minifiedDef>
     <thingCategories>
       <li>BuildingsFurniture</li>
     </thingCategories>
@@ -71,8 +71,7 @@
             <li>Beer</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Gin</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
-            <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
-            <li MayRequire="VanillaExpanded.VBrewE">VBE_Lemonade</li>
+            <li MayRequire="VanillaExpanded.VBrewECandT">VBE_Lemonade</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Soda</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Cider</li>
           </thingDefs>
@@ -87,8 +86,7 @@
           <li>Beer</li>
           <li MayRequire="VanillaExpanded.VBrewE">VBE_Gin</li>
           <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
-          <li MayRequire="VanillaExpanded.VBrewE">VBE_Vodka</li>
-          <li MayRequire="VanillaExpanded.VBrewE">VBE_Lemonade</li>
+          <li MayRequire="VanillaExpanded.VBrewECandT">VBE_Lemonade</li>
           <li MayRequire="VanillaExpanded.VBrewE">VBE_Soda</li>
           <li MayRequire="VanillaExpanded.VBrewE">VBE_Cider</li>
         </drinksBestCold>
@@ -109,7 +107,8 @@
       <li>PlaceWorker_Heater</li>
     </placeWorkers>
     <researchPrerequisites>
-      <li>FFE_IndustrialFridges</li>
+      <li>AirConditioning</li>
+      <li MayRequire="LWM.DeepStorage">FFE_IndustrialFridges</li>
     </researchPrerequisites>
     <surfaceType>Item</surfaceType>
     <staticSunShadowHeight>0.5</staticSunShadowHeight>
@@ -196,7 +195,7 @@
     </comps>
   </ThingDef>
 
-  <ThingDef ParentName="FFE_FridgeBase">
+  <ThingDef ParentName="FFE_FridgeBase" MayRequire="LWM.DeepStorage">
     <defName>FFE_FridgeContainer</defName>
     <label>fridge container</label>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
@@ -218,7 +217,6 @@
       <Flammability>0.5</Flammability>
     </statBases>
     <blockWind>true</blockWind>
-    <passability>Impassable</passability>
     <fillPercent>1.1</fillPercent>
     <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <repairEffect>ConstructMetal</repairEffect>
@@ -230,7 +228,7 @@
       </li>
       <li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
         <maxNumberStacks>5</maxNumberStacks>
-        <minNumberStacks>3</minNumberStacks>
+        <minNumberStacks>5</minNumberStacks>
         <timeStoringTakes>80</timeStoringTakes>
         <additionalTimeEachStack>50</additionalTimeEachStack>
         <showContents>false</showContents>

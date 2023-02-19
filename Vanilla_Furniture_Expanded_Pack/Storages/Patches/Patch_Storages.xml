@@ -4,32 +4,93 @@
 
 	<!-- DELETED OLD -->
 
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Hayloft"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Meat_Hook"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Pallet"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Pallet_Covered"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]</xpath>
-	</Operation>
-
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]</xpath>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Hayloft"]</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Hayloft"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="LWM_Meat_Hook"]/researchPrerequisites</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Meat_Hook"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Pallet"]</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Pallet"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Pallet_Covered"]</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Pallet_Covered"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_Medicine_Cabinet"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]/researchPrerequisites</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_WeaponsCabinet"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]/researchPrerequisites</xpath>
+				<value>
+					<researchPrerequisites Inherit="false"/>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="LWM_WeaponsLocker"]</xpath>
+				<value>
+					<designationCategory Inherit="false" />
+				</value>
+			</li>
+		</operations>
 	</Operation>
 
 	<!-- UPDATED OLD -->
@@ -609,6 +670,102 @@
 	</Operation>
 
 
+	<!-- EXPEREMENTAL UPDATE -->
 
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Ideology</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="AncientContainer"]</xpath>
+					<value>
+						<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+
+						<thingClass>Building_Storage</thingClass>
+						<surfaceType>Item</surfaceType>
+						<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+						<repairEffect>ConstructMetal</repairEffect>
+						<minifiedDef>MinifiedThing</minifiedDef>
+						<inspectorTabs>
+							<li>ITab_Storage</li>
+							<li>LWM.DeepStorage.ITab_DeepStorage_Inventory</li>
+						</inspectorTabs>
+						<thingCategories>
+							<li>BuildingsFurniture</li>
+						</thingCategories>
+						<filthLeaving>Filth_RubbleBuilding</filthLeaving>
+						<building>
+							<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+							<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+							<fixedStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<categories>
+										<li>Root</li>
+									</categories>
+								</filter>
+							</fixedStorageSettings>
+							<defaultStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<disallowedCategories>
+										<li>Root</li>
+									</disallowedCategories>
+								</filter>
+							</defaultStorageSettings>
+						</building>
+						<comps>
+							<li Class="LWM.DeepStorage.Properties">
+								<maxNumberStacks>3</maxNumberStacks>
+								<minNumberStacks>3</minNumberStacks>
+								<timeStoringTakes>90</timeStoringTakes>
+								<additionalTimeEachStack>50</additionalTimeEachStack>
+								<showContents>false</showContents>
+								<overlayType>SumOfAllItems</overlayType>
+							</li>
+						</comps>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="AncientContainer"]/statBases</xpath>
+					<value>
+						<statBases>
+							<MaxHitPoints>250</MaxHitPoints>
+							<Mass>60</Mass>
+							<WorkToBuild>10500</WorkToBuild>
+							<Flammability>0.5</Flammability>
+						</statBases>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="AncientContainer"]/passability</xpath>
+					<value>
+						<passability>PassThroughOnly</passability>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="AncientContainer"]/graphicData</xpath>
+					<value>
+						<graphicData>
+							<texPath>Things/Building/Ruins/AncientContainer</texPath>
+							<graphicClass>Graphic_Multi</graphicClass>
+							<drawSize>(2.5,4)</drawSize>
+							<shadowData>
+								<volume>(2.4, 0.9, 4.2)</volume>
+							</shadowData>
+						</graphicData>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="AncientContainer"]/size</xpath>
+					<value>
+						<size>(2,4)</size>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
 
 </Patch>

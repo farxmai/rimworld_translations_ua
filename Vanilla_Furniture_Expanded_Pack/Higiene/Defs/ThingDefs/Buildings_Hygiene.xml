@@ -55,6 +55,7 @@
         <volume>(0.55, 0.30, 0.40)</volume>
       </shadowData>
     </graphicData>
+    <rotatable>true</rotatable>
     <size>(2,3)</size>
     <comps>
       <li Class="DubsBadHygiene.CompProperties_WaterStorage">
@@ -73,39 +74,5 @@
       <li>LargeWaterPumps</li>
     </researchPrerequisites>
   </ThingDef>
-
-  <!-- <ThingDef MayRequire="dbhlitemode" ParentName="DubsDirtyBasinBase">
-    <defName>FFE_WaterDispenser</defName>
-    <label>water dispenser</label>
-    <description>A large, standing fresh water dispenser.</description>
-    <graphicData>
-      <texPath>Things/Building/WaterDispenser/WaterDispenser</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(1.9,1.9)</drawSize>
-    </graphicData>
-    <hasInteractionCell>false</hasInteractionCell>
-    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
-    <rotatable>true</rotatable>
-    <defaultPlacingRot>South</defaultPlacingRot>
-    <fillPercent>0.3</fillPercent>
-    <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
-      <WorkToBuild>50</WorkToBuild>
-      <Mass>10</Mass>
-      <Beauty>2</Beauty>
-      <Flammability>1</Flammability>
-    </statBases>
-    <size>(1,1)</size>
-    <costList>
-      <Steel>25</Steel>
-    </costList>
-    <uiIconScale>0.9</uiIconScale>
-    <designationCategory>Hygiene</designationCategory>
-    <researchPrerequisites>
-      <li>ComplexFurniture</li>
-      <li MayRequire="dbhlitemode">Plumbing</li>
-      <li MayRequire="dbhlitemode">ModernFixtures</li>
-    </researchPrerequisites>
-  </ThingDef> -->
 
 </Defs>

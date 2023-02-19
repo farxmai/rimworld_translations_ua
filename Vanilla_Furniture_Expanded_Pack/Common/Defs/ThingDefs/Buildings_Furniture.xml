@@ -24,7 +24,7 @@
 
 
   <!-- Sofa -->
-  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
+  <ThingDef ParentName="FurnitureWithQualityBase">
     <defName>FFE_Sofa</defName>
     <label>sofa</label>
     <description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</description>
@@ -64,12 +64,17 @@
     <fillPercent>0.40</fillPercent>
     <defaultPlacingRot>South</defaultPlacingRot>
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <drawPlaceWorkersWhileSelected>True</drawPlaceWorkersWhileSelected>
     <building>
+      <paintable>true</paintable>
       <isSittable>true</isSittable>
       <multiSittable>true</multiSittable>
       <destroySound>BuildingDestroyed_Soft_Small</destroySound>
     </building>
     <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
       <li MayRequire="VanillaExpanded.VTEXVariations" Class="VanillaFurnitureExpanded.CompProperties_RandomBuildingGraphic">
         <randomGraphics>
           <li>Things/Building/Sofa/Sofa</li>
@@ -81,7 +86,7 @@
   </ThingDef>
 
   <!-- Royal Sofa -->
-  <ThingDef ParentName="FFE_FurnitureWithQualityBase">
+  <ThingDef ParentName="FurnitureWithQualityBase">
     <defName>FFE_RoyalSofa</defName>
     <label>royal sofa</label>
     <description>A large, soft, luxurious seat. Fitted inside a golden frame for only the wealthiest elites. Can be used at tables, work stations, and elsewhere.</description>
@@ -121,10 +126,16 @@
     <defaultPlacingRot>South</defaultPlacingRot>
     <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
     <building>
+      <paintable>true</paintable>
       <isSittable>true</isSittable>
       <multiSittable>true</multiSittable>
       <destroySound>BuildingDestroyed_Soft_Small</destroySound>
     </building>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
     <researchPrerequisites>
       <li MayRequire="VanillaExpanded.VFECore">MF_RoyalFurniture</li>
     </researchPrerequisites>
@@ -481,7 +492,7 @@
   <ThingDef ParentName="BedWithQualityBase">
     <defName>FFE_AnimalMedTable</defName>
     <thingClass>Building_Bed</thingClass>
-    <label>аnimal hospital bed</label>
+    <label>animal hospital bed</label>
     <description>A bed specially designed for animals surgery and recovery. It improves medical outcomes over normal beds.</description>
     <rotatable>false</rotatable>
     <fillPercent>0.4</fillPercent>

@@ -31,7 +31,7 @@
       <ignoreStoredThingsBeauty>false</ignoreStoredThingsBeauty>
     </building>
     <blockWind>true</blockWind>
-    <passability>Impassable</passability>
+    <passability>PassThroughOnly</passability>
     <fillPercent>1.1</fillPercent>
     <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <repairEffect>ConstructMetal</repairEffect>
@@ -39,7 +39,7 @@
     <comps>
       <li MayRequire="lwm.deepstorage" Class="LWM.DeepStorage.Properties">
         <maxNumberStacks>5</maxNumberStacks>
-        <minNumberStacks>3</minNumberStacks>
+        <minNumberStacks>5</minNumberStacks>
         <timeStoringTakes>80</timeStoringTakes>
         <additionalTimeEachStack>50</additionalTimeEachStack>
         <showContents>false</showContents>
@@ -52,6 +52,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ModernStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- ====================== PALLTES ====================== -->
@@ -73,13 +74,11 @@
       <fixedStorageSettings>
         <filter>
           <categories>
-            <li>ResourcesRaw</li>
-            <li>Textiles</li>
-            <li>Buildings</li>
-            <li>Chunks</li>
+            <li>Root</li>
           </categories>
           <disallowedCategories>
-            <li>PlantMatter</li>
+            <li>Animals</li>
+            <li>Corpses</li>
           </disallowedCategories>
         </filter>
       </fixedStorageSettings>
@@ -88,6 +87,8 @@
           <categories>
             <li>ResourcesRaw</li>
             <li>Textiles</li>
+            <li>Buildings</li>
+            <li>Chunks</li>
           </categories>
         </filter>
       </defaultStorageSettings>
@@ -104,6 +105,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <ThingDef Name="FFE_PalletBoxesBase" ParentName="FFE_PalletBase" Abstract="true">
@@ -120,16 +122,6 @@
       <isInert>true</isInert>
       <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
-      <fixedStorageSettings>
-        <filter>
-          <categories>
-            <li>ResourcesRaw</li>
-            <li>Manufactured</li>
-            <li>PlantFoodRaw</li>
-            <li>Unfinished</li>
-          </categories>
-        </filter>
-      </fixedStorageSettings>
       <defaultStorageSettings>
         <filter>
           <categories>
@@ -152,6 +144,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ComplexStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <ThingDef ParentName="FFE_PalletBase">
@@ -355,6 +348,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
 
@@ -418,6 +412,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Meat hooks (REPLACE) -->
@@ -494,6 +489,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ComplexStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Food bags -->
@@ -565,6 +561,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Food barell -->
@@ -633,6 +630,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Box -->
@@ -700,6 +698,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ComplexStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Spacer container -->
@@ -765,6 +764,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_AdvancedStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Vanometric storage -->
@@ -886,6 +886,7 @@
           <thingDefs>
             <li>Beer</li>
             <li>SmokeleafJoint</li>
+            <li>PsychiteTea</li>
             <li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule">VFEM_Wine</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFEV_Mead</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Cigars</li>
@@ -901,6 +902,7 @@
           <thingDefs>
             <li>Beer</li>
             <li>SmokeleafJoint</li>
+            <li>PsychiteTea</li>
             <li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule">VFEM_Wine</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFEV_Mead</li>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Cigars</li>
@@ -929,6 +931,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ModernStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Medical cabinet (REPLACE) -->
@@ -976,6 +979,7 @@
           </categories>
           <thingDefs>
             <li>Neutroamine</li>
+            <li MayRequire="Ludeon.RimWorld.Biotech">HemogenPack</li>
           </thingDefs>
           <disallowedCategories>
             <li MayRequire="VanillaExpanded.VBrewE">VBE_Drinks</li>
@@ -999,6 +1003,7 @@
           </categories>
           <thingDefs>
             <li>Neutroamine</li>
+            <li MayRequire="Ludeon.RimWorld.Biotech">HemogenPack</li>
           </thingDefs>
         </filter>
       </defaultStorageSettings>
@@ -1023,6 +1028,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ModernStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Weapons locker (REPLACE) -->
@@ -1126,6 +1132,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ModernStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- Personal locker -->
@@ -1203,6 +1210,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ModernStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <!-- ============================== WEAPON RACKS ==============================-->
@@ -1242,6 +1250,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_ComplexStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
   <ThingDef ParentName="FFE_WeaponRackBase">
@@ -1458,6 +1467,7 @@
     <researchPrerequisites Inherit="false">
       <li>FFE_BasicStorages</li>
     </researchPrerequisites>
+    <designationCategory>LWM_DS_Storage</designationCategory>
   </ThingDef>
 
 </Defs>
