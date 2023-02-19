@@ -7,7 +7,7 @@
   <VFEM_MeleeWeapon_Claymore.tools.1.label>вістря</VFEM_MeleeWeapon_Claymore.tools.1.label>
   <VFEM_MeleeWeapon_Claymore.tools.2.label>лезо</VFEM_MeleeWeapon_Claymore.tools.2.label>
 
-  <VFEM_MeleeWeapon_HeavyMace.label>тяжёлая булава</VFEM_MeleeWeapon_HeavyMace.label>
+  <VFEM_MeleeWeapon_HeavyMace.label>важка булава</VFEM_MeleeWeapon_HeavyMace.label>
   <VFEM_MeleeWeapon_HeavyMace.description>Важка булава, що складається з держака і важкої кулі, обвішаної шипами. Ця зброя дуже ефективно пробиває латну броню.</VFEM_MeleeWeapon_HeavyMace.description>
   <VFEM_MeleeWeapon_HeavyMace.tools.0.label>рукоять</VFEM_MeleeWeapon_HeavyMace.tools.0.label>
   <VFEM_MeleeWeapon_HeavyMace.tools.1.label>ударна частина</VFEM_MeleeWeapon_HeavyMace.tools.1.label>

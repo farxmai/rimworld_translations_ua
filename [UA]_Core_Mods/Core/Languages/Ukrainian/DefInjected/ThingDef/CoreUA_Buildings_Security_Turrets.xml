@@ -56,7 +56,7 @@
   <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
   <Turret_Autocannon.description>Важка автоматична турель. Її крупнокаліберні снаряди наносять важкі пошкодження на значних дистанціях, але її ствол треба оновлювати після використання. Влучна на середній дистанції, але не може вести вогонь на близькій. Може вибухнути після пошкодження.</Turret_Autocannon.description>
   <!-- EN: autocannon -->
-  <Turret_Autocannon.verbs.Verb_Shoot.label>пушка тяжёлой турели</Turret_Autocannon.verbs.Verb_Shoot.label>
+  <Turret_Autocannon.verbs.Verb_Shoot.label>пушка важкої турели</Turret_Autocannon.verbs.Verb_Shoot.label>
 
   <!-- EN: uranium slug cannon -->
   <Turret_Sniper.label>снайперска важка турель</Turret_Sniper.label>

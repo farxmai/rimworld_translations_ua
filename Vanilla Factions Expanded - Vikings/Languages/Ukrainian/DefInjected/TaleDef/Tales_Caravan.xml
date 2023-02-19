@@ -25,7 +25,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Outlander] панічно тікають.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal] панічно тікають.</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
-  
+
   <CaravanAssaultSuccessful.label>успішний напад</CaravanAssaultSuccessful.label>
   <CaravanAssaultSuccessful.rulePack.rulesStrings>
     <li>tale_noun->як караван [PAWN_nameDef] знищує поселення противника</li>
@@ -46,7 +46,7 @@
     <li>desc_sentence->[Outlander], що стоїть неподалік, заплющує очі від жаху.</li>
     <li>desc_sentence->Перелякані тварини тікають.</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
-  
+
   <CaravanFled.label>караван що втік</CaravanFled.label>
   <CaravanFled.rulePack.rulesStrings>
     <li>tale_noun->як [PAWN_nameDef] рятує своє життя</li>
@@ -61,7 +61,7 @@
     <li>circumstance_phrase->, поки [PAWN_possessive] переслідують [Enemies]</li>
     <li>circumstance_phrase->, поки [Enemies] заняті [PAWN_possessive] пошуками</li>
     <li>circumstance_phrase->[empty] від [Quantity_adjphrase] [Enemies]</li>
-    <li>circumstance_phrase->[empty] від злобных животных</li>
+    <li>circumstance_phrase->[empty] від злісних тварин</li>
     <li>circumstance_phrase->[empty] від [huge] [Enemies]</li>
     <li>desc_sentence->Переслідувачі бряцають своєю зброєю, у кожного з них в руках - [Weapon].</li>
     <li>desc_sentence->Дим, [Color] и зловістний застилає дорогу переслідувачам.</li>
@@ -70,7 +70,7 @@
     <li>desc_sentence->[PAWN_nameDef] пітніє від страху.</li>
     <li>desc_sentence->[PAWN_nameDef] у відчаї хапає ртом повітря.</li>
   </CaravanFled.rulePack.rulesStrings>
-  
+
   <CaravanFormed.label>збір каравану</CaravanFormed.label>
   <CaravanFormed.rulePack.rulesStrings>
     <li>tale_noun->як [PAWN_nameDef] відпраляється на пошуки пригод</li>
@@ -91,7 +91,7 @@
     <li>desc_sentence->За цим здалека дивляться [Quantity_adjphrase] [Outlander].</li>
     <li>desc_sentence->Повз спокійно проходять [Quantity_adjphrase] [Animal].</li>
   </CaravanFormed.rulePack.rulesStrings>
-  
+
   <CaravanRemoteMining.label>далекий кар'єр</CaravanRemoteMining.label>
   <CaravanRemoteMining.rulePack.rulesStrings>
     <li>tale_noun->як [PAWN_nameDef] видобуває [MATERIAL_label] далеко від дому</li>

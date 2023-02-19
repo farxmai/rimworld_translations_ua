@@ -2,20 +2,20 @@
 <LanguageData>
   <!--1.3/Mods/Ideology/Defs/PreceptDefs/Precepts_AlienRaces.xml-->
   <!-- disgusting aliens! -->
-  <HAR_AlienRaces_Abhorrent.stages.0.label>отвратительные инопланетяне!</HAR_AlienRaces_Abhorrent.stages.0.label>
+  <HAR_AlienRaces_Abhorrent.stages.0.label>огидні інопланетяни</HAR_AlienRaces_Abhorrent.stages.0.label>
   <!-- Other races are absolutely repulsive and I can’t stand them! -->
-  <HAR_AlienRaces_Abhorrent.stages.0.description>Другие расы абсолютно отвратительны, и я их терпеть не могу!</HAR_AlienRaces_Abhorrent.stages.0.description>
+  <HAR_AlienRaces_Abhorrent.stages.0.description>Інші раси абсолютно огидні, і я їх терпіти не можу!</HAR_AlienRaces_Abhorrent.stages.0.description>
   <!-- disgusting alien! -->
-  <HAR_AlienRaces_Abhorrent_Social.stages.0.label>отвратительные инопланетяне!</HAR_AlienRaces_Abhorrent_Social.stages.0.label>
+  <HAR_AlienRaces_Abhorrent_Social.stages.0.label>огидні ксеноси</HAR_AlienRaces_Abhorrent_Social.stages.0.label>
   <!-- distrust for xenos -->
-  <HAR_AlienRaces_Horrible_Social.stages.0.label>недоверие к ксеносам</HAR_AlienRaces_Horrible_Social.stages.0.label>
+  <HAR_AlienRaces_Horrible_Social.stages.0.label>недовіра до ксеносів</HAR_AlienRaces_Horrible_Social.stages.0.label>
   <!-- respect for xenos -->
-  <HAR_AlienRaces_Respected_Social.stages.0.label>уважение к ксеносам</HAR_AlienRaces_Respected_Social.stages.0.label>
+  <HAR_AlienRaces_Respected_Social.stages.0.label>повага до ксеносів</HAR_AlienRaces_Respected_Social.stages.0.label>
   <!-- amazing aliens! -->
-  <HAR_AlienRaces_Exalted.stages.0.label>удивительные инопланетяне!</HAR_AlienRaces_Exalted.stages.0.label>
+  <HAR_AlienRaces_Exalted.stages.0.label>дивовижні ксеноси</HAR_AlienRaces_Exalted.stages.0.label>
   <!-- I can’t believe I’m in the company of other races! -->
-  <HAR_AlienRaces_Exalted.stages.0.description>Я не могу поверить, что нахожусь в компании других рас!</HAR_AlienRaces_Exalted.stages.0.description>
+  <HAR_AlienRaces_Exalted.stages.0.description>Я не можу повірити, що перебуваю в компанії інших рас!</HAR_AlienRaces_Exalted.stages.0.description>
   <!-- amazing alien! -->
-  <HAR_AlienRaces_Exalted_Social.stages.0.label>удивительные инопланетяне!</HAR_AlienRaces_Exalted_Social.stages.0.label>
+  <HAR_AlienRaces_Exalted_Social.stages.0.label>дивовижні ксеноси</HAR_AlienRaces_Exalted_Social.stages.0.label>
 
 </LanguageData>
