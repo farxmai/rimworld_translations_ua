@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<FFE_SmallWhaterTank.label>бак для води</FFE_SmallWhaterTank.label>
-	<FFE_WhaterTank.label>цистерна для води</FFE_WhaterTank.label>
+	<FFE_SmallWaterTank.label>бак для води</FFE_SmallWaterTank.label>
+	<FFE_WaterTank.label>цистерна для води</FFE_WaterTank.label>
 
 </LanguageData>
