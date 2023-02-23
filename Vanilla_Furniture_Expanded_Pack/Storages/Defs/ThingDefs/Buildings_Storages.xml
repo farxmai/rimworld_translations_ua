@@ -406,7 +406,7 @@
         <maxNumberStacks>4</maxNumberStacks>
         <minTimeStoringTakes>60</minTimeStoringTakes>
         <additionalTimeStackSize>4</additionalTimeStackSize>
-        <overlayType>CountOfStacksPerCell</overlayType>
+        <overlayType>SumOfAllItems</overlayType>
       </li>
     </comps>
     <researchPrerequisites Inherit="false">

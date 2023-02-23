@@ -673,6 +673,7 @@
 	<!-- EXPEREMENTAL UPDATE -->
 
 	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
 		<mods>
 			<li>Ideology</li>
 		</mods>
@@ -682,7 +683,6 @@
 					<xpath>/Defs/ThingDef[defName="AncientContainer"]</xpath>
 					<value>
 						<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-
 						<thingClass>Building_Storage</thingClass>
 						<surfaceType>Item</surfaceType>
 						<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
@@ -693,7 +693,7 @@
 							<li>LWM.DeepStorage.ITab_DeepStorage_Inventory</li>
 						</inspectorTabs>
 						<thingCategories>
-							<li>BuildingsFurniture</li>
+							<li>BuildingsMisc</li>
 						</thingCategories>
 						<filthLeaving>Filth_RubbleBuilding</filthLeaving>
 						<building>
@@ -716,7 +716,30 @@
 								</filter>
 							</defaultStorageSettings>
 						</building>
-						<comps>
+						<pathCost>80</pathCost>
+					</value>
+				</li>
+				<li Class="PatchOperationConditional">
+					<success>Always</success>
+					<xpath>/Defs/ThingDef[defName = "AncientContainer"]/comps</xpath>
+					<nomatch Class="PatchOperationAdd">
+						<xpath>/Defs/ThingDef[defName = "AncientContainer"]</xpath>
+						<value>
+							<comps>
+								<li Class="LWM.DeepStorage.Properties">
+									<maxNumberStacks>3</maxNumberStacks>
+									<minNumberStacks>3</minNumberStacks>
+									<timeStoringTakes>90</timeStoringTakes>
+									<additionalTimeEachStack>50</additionalTimeEachStack>
+									<showContents>false</showContents>
+									<overlayType>SumOfAllItems</overlayType>
+								</li>
+							</comps>
+						</value>
+					</nomatch>
+					<match Class="PatchOperationAdd">
+						<xpath>/Defs/ThingDef[defName = "AncientContainer"]/comps</xpath>
+						<value>
 							<li Class="LWM.DeepStorage.Properties">
 								<maxNumberStacks>3</maxNumberStacks>
 								<minNumberStacks>3</minNumberStacks>
@@ -725,8 +748,8 @@
 								<showContents>false</showContents>
 								<overlayType>SumOfAllItems</overlayType>
 							</li>
-						</comps>
-					</value>
+						</value>
+					</match>
 				</li>
 				<li Class="PatchOperationReplace">
 					<xpath>/Defs/ThingDef[defName="AncientContainer"]/statBases</xpath>
@@ -760,6 +783,100 @@
 				</li>
 				<li Class="PatchOperationReplace">
 					<xpath>/Defs/ThingDef[defName="AncientContainer"]/size</xpath>
+					<value>
+						<size>(2,4)</size>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="VME_AncientContainer"]</xpath>
+					<value>
+						<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+						<thingClass>Building_Storage</thingClass>
+						<surfaceType>Item</surfaceType>
+						<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+						<repairEffect>ConstructMetal</repairEffect>
+						<inspectorTabs>
+							<li>ITab_Storage</li>
+							<li>LWM.DeepStorage.ITab_DeepStorage_Inventory</li>
+						</inspectorTabs>
+						<filthLeaving>Filth_RubbleBuilding</filthLeaving>
+						<building>
+							<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+							<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+							<fixedStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<categories>
+										<li>Root</li>
+									</categories>
+								</filter>
+							</fixedStorageSettings>
+							<defaultStorageSettings>
+								<priority>Important</priority>
+								<filter>
+									<disallowedCategories>
+										<li>Root</li>
+									</disallowedCategories>
+								</filter>
+							</defaultStorageSettings>
+						</building>
+						<comps>
+							<li Class="LWM.DeepStorage.Properties">
+								<maxNumberStacks>3</maxNumberStacks>
+								<minNumberStacks>3</minNumberStacks>
+								<timeStoringTakes>90</timeStoringTakes>
+								<additionalTimeEachStack>50</additionalTimeEachStack>
+								<showContents>false</showContents>
+								<overlayType>SumOfAllItems</overlayType>
+							</li>
+						</comps>
+						<pathCost>80</pathCost>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VME_AncientContainer"]/statBases</xpath>
+					<value>
+						<statBases>
+							<MaxHitPoints>250</MaxHitPoints>
+							<Mass>60</Mass>
+							<WorkToBuild>10500</WorkToBuild>
+							<Flammability>0.5</Flammability>
+						</statBases>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VME_AncientContainer"]/passability</xpath>
+					<value>
+						<passability>PassThroughOnly</passability>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VME_AncientContainer"]/graphicData</xpath>
+					<value>
+						<graphicData>
+							<texPath>Things/Building/Ruins/AncientContainer</texPath>
+							<graphicClass>Graphic_Multi</graphicClass>
+							<drawSize>(2.5,4)</drawSize>
+							<shadowData>
+								<volume>(2.4, 0.9, 4.2)</volume>
+							</shadowData>
+						</graphicData>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VME_AncientContainer"]/size</xpath>
 					<value>
 						<size>(2,4)</size>
 					</value>
