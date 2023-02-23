@@ -11,8 +11,8 @@
           </researchPrerequisites>
         </value>
       </li>
-      <li MayRequire="LWM.DeepStorage" Class="PatchOperationReplace">
-        <xpath>/Defs/ThingDef[@Name="FFE_FridgeBase"]/researchPrerequisites</xpath>
+      <li MayRequire="LWM.DeepStorage" Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[@Name="FFE_FridgeBase"]</xpath>
         <value>
           <researchPrerequisites Inherit="false">
             <li>FFE_IndustrialFridges</li>
