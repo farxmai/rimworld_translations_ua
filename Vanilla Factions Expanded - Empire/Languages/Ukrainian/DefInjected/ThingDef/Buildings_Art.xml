@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: grand imperial sculpture -->
+  <VFEE_RoyalSculptureGrand.label>грандіозна імперська скульптура</VFEE_RoyalSculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <VFEE_RoyalSculptureGrand.description>Величезна скульптура створеня щоб займати домінуючи позицію у кімнаті.</VFEE_RoyalSculptureGrand.description>
+
+  <!-- EN: large imperial sculpture -->
+  <VFEE_RoyalSculptureLarge.label>велика імперська скульптура</VFEE_RoyalSculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <VFEE_RoyalSculptureLarge.description>Скульптура, розміром приблизно з людину.</VFEE_RoyalSculptureLarge.description>
+
+  <!-- EN: small imperial sculpture -->
+  <VFEE_RoyalSculptureSmall.label>маленька імперська скульптура</VFEE_RoyalSculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <VFEE_RoyalSculptureSmall.description>Скульптура, яка зображає бюст.</VFEE_RoyalSculptureSmall.description>
+
+</LanguageData>

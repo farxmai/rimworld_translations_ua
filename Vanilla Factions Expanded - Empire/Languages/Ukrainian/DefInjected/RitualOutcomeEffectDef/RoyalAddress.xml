@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VFEE_RoyalAddres_Outcome.description>Залежно від якості ритуалу учасники матимуть настрій від {MINMOOD} до {MAXMOOD} протягом {MOODDAYS} днів.</VFEE_RoyalAddres_Outcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VFEE_RoyalAddres_Outcome.comps.0.label>Соціальний вплив {PAWN_labelShort}</VFEE_RoyalAddres_Outcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>соціальний вплив мовця</VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VFEE_RoyalAddres_Outcome.comps.1.label>кількість учасників</VFEE_RoyalAddres_Outcome.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <VFEE_RoyalAddres_Outcome.comps.2.label>вражаючість приміщення</VFEE_RoyalAddres_Outcome.comps.2.label>
+  <!-- EN: Terrible -->
+  <VFEE_RoyalAddres_Outcome.outcomeChances.0.label>жахливо</VFEE_RoyalAddres_Outcome.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <VFEE_RoyalAddres_Outcome.outcomeChances.1.label>нудно</VFEE_RoyalAddres_Outcome.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <VFEE_RoyalAddres_Outcome.outcomeChances.2.label>бадьоро</VFEE_RoyalAddres_Outcome.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <VFEE_RoyalAddres_Outcome.outcomeChances.3.label>вражаюче</VFEE_RoyalAddres_Outcome.outcomeChances.3.label>
+
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: OR -->
+  <VFEE.OR>або</VFEE.OR>
+  <!-- EN: Unable to start due to {0} not having a dignified throne. -->
+  <VFEE.StartBestower.NoThrone>Не можна розпочати через відсутність у {0} гідного трону.</VFEE.StartBestower.NoThrone>
+  <!-- EN: Unable to start due to no valid throne rooms for the bestowing of the title. -->
+  <VFEE.StartBestower.NoTarget>Неможливо розпочати через відсутність діючих тронних залів для присвоєння титулу.</VFEE.StartBestower.NoTarget>
+  <!-- EN: Unable to start due to target already possesing a higher title -->
+  <VFEE.StartBestower.HigherTitle>Неможливо почати через те, що мета вже має вищий титул.</VFEE.StartBestower.HigherTitle>
+  <!-- EN: Unable to start while an existing ritual is ongoing. -->
+  <VFEE.StartBestower.DisabledExistingRitual>Неможливо розпочати, доки триває поточний ритуал.</VFEE.StartBestower.DisabledExistingRitual>
+  <!-- EN: Gallery requirements -->
+  <VFEE.GalleryRequirements>Вимоги до галереї</VFEE.GalleryRequirements>
+  <!-- EN: Ballroom requirements unmet: {0} -->
+  <VFEE.GalleryRequirements.Unmet>Незадоволені вимоги до галереї: {0}</VFEE.GalleryRequirements.Unmet>
+  <!-- EN: Ballroom requirements -->
+  <VFEE.BallroomRequirements>Вимоги до бальної зали</VFEE.BallroomRequirements>
+  <!-- EN: Ballroom requirements unmet for: {0} -->
+  <VFEE.BallroomRequirements.Unmet>Незадоволені вимоги до бальної зали: {0}</VFEE.BallroomRequirements.Unmet>
+  <!-- EN: Ballroom does not have a big enough dance floor for the guests! They would like an open floor space of {0} infront of an instrument  -->
+  <VFEE.BallroomRequirements.DanceFloorToSmall>Бальна зала не має достатньо великого танцполу для гостей! Їм потрібна відкрита площа розміром {0} перед інструментом.</VFEE.BallroomRequirements.DanceFloorToSmall>
+  <!-- EN: Noble court requirements -->
+  <VFEE.CourtRequirements>Вимоги шляхетного двору</VFEE.CourtRequirements>
+
+  <!-- EN: Host Grandball -->
+  <VFEE.GrandBall.Begin>Організація великого балу</VFEE.GrandBall.Begin>
+  <!-- EN: Grandball -->
+  <VFEE.GrandBall.Label>Великий бал</VFEE.GrandBall.Label>
+  <!-- EN: Leave Grandball -->
+  <VFEE.GrandBall.Leave.label>Покинути великий бал</VFEE.GrandBall.Leave.label>
+  <!-- EN: This pawn will leave the grandball, they will not be able to rejoin the festivities later -->
+  <VFEE.GrandBall.Leave.Desc>Колоніст покине великий бал і не зможе приєднатися пізніше.</VFEE.GrandBall.Leave.Desc>
+  <!-- EN: Cancel Grandball -->
+  <VFEE.GrandBall.Cancel.Label>Скасувати великий бал</VFEE.GrandBall.Cancel.Label>
+  <!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
+  <VFEE.GrandBall.Cancel.Desc>Скасуйте грандіозний бал, відправивши всіх додому та проваливши завдання.</VFEE.GrandBall.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+  <VFEE.GrandBall.Cancel.Confirm>Можливості перезапустити цей ритуал не буде, ваші гості розійдуться додому невдоволеними, завдання буде провалено.</VFEE.GrandBall.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the grand ball. They wont wait long however -->
+  <VFEE.GrandBall.Waiting>Ваші гості чекають на вас, щоб почати бал, та їх терпіння не вічне.</VFEE.GrandBall.Waiting>
+  <!-- EN: An exclusive ball to only be attended by those with a royal title, and a few who can play instruments -->
+  <VFEE.GrandBall.Description>Ексклюзивний бал, на який можуть потрапити лише ті, хто має королівський титул, і кілька тих, хто вміє грати на інструментах.</VFEE.GrandBall.Description>
+  <!-- EN: Participants -->
+  <VFEE.GrandBall.ChooseParticipants>Учасники</VFEE.GrandBall.ChooseParticipants>
+
+  <!-- EN: Host Art Exhibit -->
+  <VFEE.ArtExhibit.Begin>Ведучий</VFEE.ArtExhibit.Begin>
+  <!-- EN: Art Exhibit -->
+  <VFEE.ArtExhibit.Label>Художня виставка</VFEE.ArtExhibit.Label>
+  <!-- EN: Leave exhibit -->
+  <VFEE.ArtExhibit.Leave.label>Покинути виставку</VFEE.ArtExhibit.Leave.label>
+  <!-- EN: This pawn will leave the exhibit, they will not be able to rejoin the festivities later -->
+  <VFEE.ArtExhibit.Leave.Desc>Колоніст покине виставку і не зможе приєднатися пізніше</VFEE.ArtExhibit.Leave.Desc>
+  <!-- EN: Cancel Exhibit -->
+  <VFEE.ArtExhibit.Cancel.Label>Скасувати виставку</VFEE.ArtExhibit.Cancel.Label>
+  <!-- EN: Cancel the grand ball sending everyone home and failing the quest -->
+  <VFEE.ArtExhibit.Cancel.Desc>Скасуйте виставку, відправивши всіх додому та проваливши завдання.</VFEE.ArtExhibit.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unappy and the quest will be failed. -->
+  <VFEE.ArtExhibit.Cancel.Confirm>Можливості перезапустити цей ритуал не буде, ваші гості розійдуться додому невдоволеними, завдання буде провалено.</VFEE.ArtExhibit.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the art exhibit. They wont wait long however -->
+  <VFEE.ArtExhibit.Waiting>Ваші гості чекають на вас, щоб почати виставку, та їх терпіння не вічне.</VFEE.ArtExhibit.Waiting>
+  <!-- EN: An art expedition to only be attended by those with a royal title, to view your galley and gossip with eachother. -->
+  <VFEE.ArtExhibit.Description>Мистецька виставка, в якій беруть участь лише ті, хто має королівський титул, щоб переглянути вашу галерею та попліткувати один з одним.</VFEE.ArtExhibit.Description>
+  <!-- EN: Participants -->
+  <VFEE.ArtExhibit.ChooseParticipants>Учасники</VFEE.ArtExhibit.ChooseParticipants>
+
+  <!-- EN: Host Parade -->
+  <VFEE.Parade.Begin>Ведучий</VFEE.Parade.Begin>
+  <!-- EN: Driven by jealousy {0} is attempting to murder the stellarch! -->
+  <VFEE.Parade.Murder>Керований ревнощами, {0} намагається вбити стеларха!</VFEE.Parade.Murder>
+  <!-- EN: Parade -->
+  <VFEE.Parade.Label>Парад</VFEE.Parade.Label>
+  <!-- EN: Leave Parade -->
+  <VFEE.Parade.Leave.label>Покинути парад</VFEE.Parade.Leave.label>
+  <!-- EN: This pawn will leave the Parade, they will not be able to rejoin the festivities later -->
+  <VFEE.Parade.Leave.Desc>Колоніст покине парад і не зможе приєднатися пізніше</VFEE.Parade.Leave.Desc>
+  <!-- EN: Cancel Parade -->
+  <VFEE.Parade.Cancel.Label>Скасувати парад</VFEE.Parade.Cancel.Label>
+  <!-- EN: Cancel the parade sending everyone home and failing the quest -->
+  <VFEE.Parade.Cancel.Desc>Скасуйте парад, відправивши всіх додому та проваливши завдання.</VFEE.Parade.Cancel.Desc>
+  <!-- EN: There will be no opportunity to restart this ritual, your guests will go home unhappy and the quest will be failed. -->
+  <VFEE.Parade.Cancel.Confirm>Можливості перезапустити цей ритуал не буде, ваші гості розійдуться додому невдоволеними, завдання буде провалено.</VFEE.Parade.Cancel.Confirm>
+  <!-- EN: Your guests are waiting for you to start the Parade. They wont wait long however -->
+  <VFEE.Parade.Waiting>Ваші гості чекають на вас, щоб почати парад, та їх терпіння не вічне.</VFEE.Parade.Waiting>
+  <!-- EN: A traditional ascension parade to send off the stellarch! -->
+  <VFEE.Parade.Description>Традиційний Парад Вознесіння, який проводиться для піднесення стеларха!</VFEE.Parade.Description>
+  <!-- EN: The stellarch does not trust {0} enough. -->
+  <VFEE.Parade.InvalidGuard>Стелларх недостатньо довіряє {0}</VFEE.Parade.InvalidGuard>
+  <!-- EN: Participants -->
+  <VFEE.Parade.ChooseParticipants>Учасники</VFEE.Parade.ChooseParticipants>
+  <!-- EN: Unable to find a suitable drop beacon for the guests to land their shuttle at -->
+  <VFEE.Parade.LandingAreaUnmet>Не вдається знайти відповідний маяк, щоб гості могли посадити свій шатл</VFEE.Parade.LandingAreaUnmet>
+  <!-- EN: Stellarch Ascension -->
+  <VFEE.Parade.Reward.Label>Вознесіння Стелаха</VFEE.Parade.Reward.Label>
+  <!-- EN: Your Stellarch will achieve ascension with passage off world to progress further in the grand hierachy, serving directly with the emperor -->
+  <VFEE.Parade.Reward.Description>Ваш Стелларх досягне сходження, покинувши світ, щоб просуватися далі у Великій Ієрархії, служачи безпосередньо Імператором.</VFEE.Parade.Reward.Description>
+
+  <!-- EN: Defuse bomb -->
+  <VFEE.DefuseBomb>Розмінувати бомбу</VFEE.DefuseBomb>
+  <!-- EN: Deserters are leaving as they have eliminated their target. -->
+  <VFEE.AssassinationSuccess>Дезертири йдуть, оскільки вони досягли своєї мети.</VFEE.AssassinationSuccess>
+  <!-- EN: Discard -->
+  <VFEE.Discard>Відкинути</VFEE.Discard>
+  <!-- EN: Deserters are leaving as they have eliminated every imperial title holder in the area. -->
+  <VFEE.RoyaltyDead>Дезертири йдуть, оскільки вони знищили всіх власників імперського титулу в цьому районі.</VFEE.RoyaltyDead>
+  <!-- EN: {0} has sent you a celebration package of aperitif! -->
+  <VFEE.GotDrug>{0} надсилає вам святкову упаковку аперитиву!</VFEE.GotDrug>
+</LanguageData>

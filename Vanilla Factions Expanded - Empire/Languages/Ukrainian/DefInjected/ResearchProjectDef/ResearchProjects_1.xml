@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: janissary gear -->
+  <VFEE_JanissaryGear.label>яничарське спорядження</VFEE_JanissaryGear.label>
+  <!-- EN: Craft janissary armor, light powered armor that’s commonly used by imperial recon troops. Note that these also require advanced components. -->
+  <VFEE_JanissaryGear.description>Виготовте яничарські обладунки, полегшену версію силової броні, яку зазвичай використовують імперські розвідувальні війська. Зауважте, що для цього також потрібні додаткові компоненти.</VFEE_JanissaryGear.description>
+
+  <!-- EN: noble decorations -->
+  <VFEE_NobleDecorations.label>благородні прикраси</VFEE_NobleDecorations.label>
+  <!-- EN: Build noble decorations like royal rugs, mirrors, grand chairs, imperial slabs, candelabras, and more. -->
+  <VFEE_NobleDecorations.description>Створюйте благородні декорації, як-от королівські килими, дзеркала, великі крісла, імператорські плити, канделябри тощо.</VFEE_NobleDecorations.description>
+
+  <!-- EN: pipe organs -->
+  <VFEE_PipeOrgans.label>трубні органи</VFEE_PipeOrgans.label>
+  <!-- EN: Craft the pipe organs, an incredibly advanced and intricate stationary musical instrument. -->
+  <VFEE_PipeOrgans.description>Створіть трубні органи, неймовірно просунуті і складні стаціонарні музичні інструменти.</VFEE_PipeOrgans.description>
+
+  <!-- EN: stellic throne -->
+  <VFEE_StellicThrone.label>стельний трон</VFEE_StellicThrone.label>
+  <!-- EN: Construct the most grand, most beautiful stellic throne for your high ranking nobility. -->
+  <VFEE_StellicThrone.description>Побудуйте найграндіозніший, найкрасивіший стелевий трон для свого високопоставленого дворянства.</VFEE_StellicThrone.description>
+
+</LanguageData>

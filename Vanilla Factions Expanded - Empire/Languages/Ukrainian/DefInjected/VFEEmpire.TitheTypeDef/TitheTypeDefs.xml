@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: farming -->
+  <VFEE_Farming.label>податки їжею</VFEE_Farming.label>
+  <!-- EN: This settlement produces survival meals for their overlord. -->
+  <VFEE_Farming.description>Це поселення платить десятину сухпайками.</VFEE_Farming.description>
+
+  <!-- EN: gold tax -->
+  <VFEE_Gold.label>податки золотом</VFEE_Gold.label>
+  <!-- EN: This settlement pays gold to their overlord. -->
+  <VFEE_Gold.description>Це поселення платить десятину золотом.</VFEE_Gold.description>
+
+  <!-- EN: honor tax -->
+  <VFEE_Honor.label>податки почестями</VFEE_Honor.label>
+  <!-- EN: This settlement provides honor to their overlord. -->
+  <VFEE_Honor.description>Це поселення платить десятину очками Честі.</VFEE_Honor.description>
+
+  <!-- EN: silver tax -->
+  <VFEE_Silver.label>податки сріблом</VFEE_Silver.label>
+  <!-- EN: This settlement pays silver to their overlord. -->
+  <VFEE_Silver.description>Це поселення платить десятину сріблом.</VFEE_Silver.description>
+
+  <!-- EN: slavery -->
+  <VFEE_Slavery.label>податки рабами</VFEE_Slavery.label>
+  <!-- EN: This settlement captures slaves for their overlord. -->
+  <VFEE_Slavery.description>Це поселення платить десятину рабами.</VFEE_Slavery.description>
+
+  <!-- EN: steel mining -->
+  <VFEE_Steel.label>податки сталлю</VFEE_Steel.label>
+  <!-- EN: This settlement mines steel for their overlord. -->
+  <VFEE_Steel.description>Це поселення платить десятину сталлю.</VFEE_Steel.description>
+
+  <!-- EN: wood cutting -->
+  <VFEE_Wood.label>податки деревиною</VFEE_Wood.label>
+  <!-- EN: This settlement chops wood for their overlord. -->
+  <VFEE_Wood.description>Це поселення платить десятину деревиною.</VFEE_Wood.description>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Українська мова для Vanilla Factions Expanded - Empire [UA]</name>
+  <author>Farxmai2</author>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>Farxmai2.VanillaFactionsExpandedEmpire.UA</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2901156812</url>
+  <description>Переклад українською мовою Vanilla Factions Expanded - Empire.</description>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VFE.Empire</packageId>
+      <displayName>Vanilla Factions Expanded - Empire</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2149755445</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>OskarPotocki.VFE.Empire</li>
+  </loadAfter>
+</ModMetaData>

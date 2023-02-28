@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: candelabra -->
+  <VFEE_Candelabra.label>канделябри</VFEE_Candelabra.label>
+  <!-- EN: An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <VFEE_Candelabra.description>Витончена електрична напольна лампа, яка освітлює територію. Людям потрібне світло, щоб рухатися та працювати на повну швидкість.</VFEE_Candelabra.description>
+
+  <!-- EN: grand chair -->
+  <VFEE_GrandChair.label>величне крісло</VFEE_GrandChair.label>
+  <!-- EN: A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere. -->
+  <VFEE_GrandChair.description>Зручне та елегантне крісло, воно саме по собі є витвором мистецтва. Можна використовувати за столами, на робочих місцях тощо.</VFEE_GrandChair.description>
+
+  <!-- EN: grand table -->
+  <VFEE_GrandTable.label>величний стіл</VFEE_GrandTable.label>
+  <!-- EN: A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them. -->
+  <VFEE_GrandTable.description>Розкішний, красивий, інкрустований золотом стіл, який підходить для знатних людей, він сам по собі є витвором мистецтва.</VFEE_GrandTable.description>
+
+  <!-- EN: imperial banner -->
+  <VFEE_ImperialBanner.label>імперський стяг</VFEE_ImperialBanner.label>
+  <!-- EN: A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms. -->
+  <VFEE_ImperialBanner.description>Декоративна смужка тканини, що звисає з вертикальної дерев’яної рами. Підходить для королівських покоїв.</VFEE_ImperialBanner.description>
+
+  <!-- EN: royal mirror -->
+  <VFEE_RoyalMirror.label>королівське дзеркало</VFEE_RoyalMirror.label>
+  <!-- EN: A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect. -->
+  <VFEE_RoyalMirror.description>Красиве та елегантне дзеркало. Дає невеликий бонус комфорту всім сусіднім ліжкам. Розміщення більше ніж одного дзеркала біля одного ліжка не має ефекту.</VFEE_RoyalMirror.description>
+
+  <!-- EN: royal stool -->
+  <VFEE_RoyalStool.label>королівський табурет</VFEE_RoyalStool.label>
+  <!-- EN: A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere. -->
+  <VFEE_RoyalStool.description>Розкішний табурет, інкрустований золотом, підходить для знаті. Можна використовувати за столами, на робочих місцях тощо.</VFEE_RoyalStool.description>
+
+  <!-- EN: stellic meditation throne -->
+  <VFEE_StellicThrone.label>імператорський трон</VFEE_StellicThrone.label>
+  <!-- EN: A titanic, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+  <VFEE_StellicThrone.description>Титанічне вишукане крісло, створене для того, щоб представник вищої знаті з псі-здібностями, зосереджений на честі, міг ефективно медитувати. Правління з трону є формою медитації, та дозволяє підвищувати рівень псі-концентрації знатних псионіків. Чим краще враження справляє трон і трона зала, тим швидше підвищується псі-концентрація.</VFEE_StellicThrone.description>
+
+</LanguageData>

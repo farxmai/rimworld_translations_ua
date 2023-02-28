@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: royal gossip -->
+  <VFEE_RoyalGossip.label>королівські плітки</VFEE_RoyalGossip.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] with [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->joked about</li>
+    <li>talkedabout->quipped about</li>
+  -->
+  <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>talkedabout(p=4)->балакали про</li>
+    <li>talkedabout->поділився думкою про</li>
+    <li>talkedabout->говорили про</li>
+    <li>talkedabout->обговорювали</li>
+    <li>talkedabout->жартували про</li>
+    <li>talkedabout->шепотілися про</li>
+    <li>talkedabout->обмінялися думками щодо</li>
+  </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+
+</LanguageData>

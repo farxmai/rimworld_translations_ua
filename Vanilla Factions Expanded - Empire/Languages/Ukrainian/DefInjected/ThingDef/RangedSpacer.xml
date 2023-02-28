@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: fletcher -->
+  <VEE_Gun_Fletcher.label>флетчер</VEE_Gun_Fletcher.label>
+  <!-- EN: An ultra-long range sniper rifle which fires fin-stabilized flechettes with acidifier injectors. Due to their lethality and danger of falling into enemy hands, they are always biocoded and will self-destruct if their owner either dies or is disarmed. Lethal to organics and almost useless against non-organics, such as mechanoids.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed. -->
+  <VEE_Gun_Fletcher.description>Ультра-дальнобійна снайперська гвинтівка, яка стріляє стрілами зі стабілізуючими пір'ями та інжекторами кислотоутворювачів. Оскільки вони дуже смертоносні та можуть потрапити у руки ворога, вони завжди біокодовані і самознищуються, якщо їх власник помирає або його роззброюють. Ефективні проти органіки, але майже безпідставні проти неорганічних матеріалів, таких як механоіди. Цілі будуть інфіковані нестабільною рідиною з кислотоутворювачів, призначеною для розчинення істот зсередини, а не для знищення їхнього обладнання. Кислота розповсюдиться через тіло цілі та зазвичай призводить до розчинення життєво важливих органів, хоча летальність не гарантується.</VEE_Gun_Fletcher.description>
+  <!-- EN: barrel -->
+  <VEE_Gun_Fletcher.tools.barrel.label>ствол</VEE_Gun_Fletcher.tools.barrel.label>
+  <!-- EN: fletcher -->
+  <VEE_Gun_Fletcher.verbs.Verb_Shoot.label>постріл флетчера</VEE_Gun_Fletcher.verbs.Verb_Shoot.label>
+
+  <!-- EN: thump charge -->
+  <VFEE_Bullet_ChargeThumper.label>ударний заряд</VFEE_Bullet_ChargeThumper.label>
+
+  <!-- EN: fletcher dart -->
+  <VFEE_Bullet_FletcherDart.label>дротик флетчера</VFEE_Bullet_FletcherDart.label>
+
+  <!-- EN: charge thumper -->
+  <VFEE_Gun_ChargeThumper.label>енергорушниця</VFEE_Gun_ChargeThumper.label>
+  <!-- EN: A modified charged-shot assault shotgun that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to produce a portable ranged weapon capable of firing blunt projectiles. Quite powerful but short ranged, with high performance against structures and heavily armored targets. -->
+  <VFEE_Gun_ChargeThumper.description>Модифікована штурмова рушниця, яка випускає ударні заряди за технологію механоїдів. Відновлені ударні гармати були перероблені, щоб створити портативну зброю, здатну стріляти тупими снарядами. Досить потужний, але малої дальності, з високою ефективністю проти конструкцій і важкоброньованих цілей.</VFEE_Gun_ChargeThumper.description>
+  <!-- EN: stock -->
+  <VFEE_Gun_ChargeThumper.tools.stock.label>ложа</VFEE_Gun_ChargeThumper.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFEE_Gun_ChargeThumper.tools.barrel.label>ствол</VFEE_Gun_ChargeThumper.tools.barrel.label>
+  <!-- EN: charge thumper -->
+  <VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>постріл енергорушниці</VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>
+
+</LanguageData>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: burnout shield drop -->
+  <VFEI_BurnoutShieldDrop.label>викликати встановлення щита</VFEI_BurnoutShieldDrop.label>
+  <!-- EN: Call for a drop of a burnout low shield to aid you in battle. It activates where it lands and will last 30 seconds before deactivating. -->
+  <VFEI_BurnoutShieldDrop.description>Викличте на допомогу капсулу, яка активує щит після приземлення і підтримуватиме його протягом 30 секунд, захищаючи ваших колоністів.</VFEI_BurnoutShieldDrop.description>
+
+  <!-- EN: call absolver -->
+  <VFEI_CallAbsolver.label>викликати визволителя</VFEI_CallAbsolver.label>
+  <!-- EN: Call an absolver to assist you for 4 days. This guildmember is a master assassin and will not perform any tasks other than killing. You can control him as though he is your own colonists. If an absolver dies, a new one will replace them immediately, inheriting the remaining contract time. -->
+  <VFEI_CallAbsolver.description>Викличте захисника, який перебуватиме під вашим контролем протягом 4 днів. Цей член гільдії є майстерним вбивцею і не виконуватиме жодних завдань, окрім вбивства. Ви можете контролювати його, ніби він ваш власний колоніст. Якщо визволитель помирає, його негайно замінить новий, успадковуючи час, що залишився за контрактом.</VFEI_CallAbsolver.description>
+
+  <!-- EN: call cataphract platoon -->
+  <VFEI_CallCataphractPlatoon.label>викликати взвод катарфрактарїів</VFEI_CallCataphractPlatoon.label>
+  <!-- EN: Call a group of 8 heavy cataphracts to aid you in battle. -->
+  <VFEI_CallCataphractPlatoon.description>Викличте групу з 8 важких катарфрактарїів для допомоги вам у бою.</VFEI_CallCataphractPlatoon.description>
+
+  <!-- EN: call evac shuttle -->
+  <VFEI_CallEvacShuttle.label>викликати евакуаційний шатл</VFEI_CallEvacShuttle.label>
+  <!-- EN: Call an armed shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 40 world tiles. It will stay in the area only for a brief moment. -->
+  <VFEI_CallEvacShuttle.description>Викличте озброєний шатл для власного використання. Він транспортуватиме колоністів, предмети та тварин куди завгодно в межах 40 клтинок. Він залишиться в цьому районі лише на короткий момент.</VFEI_CallEvacShuttle.description>
+
+  <!-- EN: call imperial regiment -->
+  <VFEI_CallImperialRegiment.label>викликати імператорський полк</VFEI_CallImperialRegiment.label>
+  <!-- EN: Call a group of 10 janissaries and 6 heavy cataphracts that will arrive in an armed shuttle, to aid you in battle. You cannot control them, but they will help you eliminate any threats in the area. They will leave after all threats are eliminated. -->
+  <VFEI_CallImperialRegiment.description>Викличте групу з 10 яничарів і 6 важких катарфрактарїів, які прибудуть на озброєному шатлі, щоб допомогти вам у битві. Ви не можете контролювати їх, але вони допоможуть вам усунути будь-які загрози в цьому районі. Вони підуть після усунення всіх загроз.</VFEI_CallImperialRegiment.description>
+
+  <!-- EN: call janissary platoon -->
+  <VFEI_CallJanissaryPlatoon.label>викликати взвод яничарів</VFEI_CallJanissaryPlatoon.label>
+  <!-- EN: Call a group of 8 professional janissaries to aid you in battle. -->
+  <VFEI_CallJanissaryPlatoon.description>Викличте групу з 8 яничарів для допомоги вам у бою..</VFEI_CallJanissaryPlatoon.description>
+
+  <!-- EN: call laborer union -->
+  <VFEI_CallLaborerUnion.label>викликати профспілку працівників</VFEI_CallLaborerUnion.label>
+  <!-- EN: Call a group of 12 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <VFEI_CallLaborerUnion.description>Викличте групу з 12 робітників для допомоги вам на 4 дні. Ці працівники можуть виконувати лише загальні трудові завдання. Ви можете контролювати їх, наче вони є вашими власними колоністами. Ви повинні зберігати їх у безпеці.</VFEI_CallLaborerUnion.description>
+
+  <!-- EN: call orbital slicing beam -->
+  <VFEI_CallOrbitalSlicingBeam.label>викликати орбітальний зрізний промінь</VFEI_CallOrbitalSlicingBeam.label>
+  <!-- EN: Call an orbital slicing beam from an imperial flagship in orbit. This beam will travel in a direction specified by you, burning everything it touches. -->
+  <VFEI_CallOrbitalSlicingBeam.description>Викличте орбітальний промінь з імперського флагмана на орбіті. Цей промінь рухатиметься у вказаному вами напрямку, спалюючи все, до чого він торкнеться.</VFEI_CallOrbitalSlicingBeam.description>
+
+  <!-- EN: call stellic guards -->
+  <VFEI_CallStellicGuards.label>викликати зіркових вартових</VFEI_CallStellicGuards.label>
+  <!-- EN: Call a group of 6 stellic guards, ranged and melee, to aid you in battle. -->
+  <VFEI_CallStellicGuards.description>Викличте групу з 6 стельних охоронців, які спеціалізуються на ближньому і дальньому бою, для допомоги вам у бою..</VFEI_CallStellicGuards.description>
+
+  <!-- EN: call techfriar -->
+  <VFEI_CallTechfriar.label>викликати техно-монаха</VFEI_CallTechfriar.label>
+  <!-- EN: Call a techfriar to assist you for 4 days. This guildmember can only do research-related tasks. You can control him as though he is your own colonists. You are required to keep him safe. -->
+  <VFEI_CallTechfriar.description>Викличте технічного спеціаліста, який допоможе вам протягом 4 днів. Цей член гільдії може виконувати лише завдання, пов’язані з дослідженнями. Ви можете контролювати його, ніби він ваш власний колоніст. Ви зобов'язані забезпечити його безпеку.</VFEI_CallTechfriar.description>
+
+  <!-- EN: call trooper platoon -->
+  <VFEI_CallTrooperPlatoon.label>викликати взвод піхотинців</VFEI_CallTrooperPlatoon.label>
+  <!-- EN: Call a group of 8 light troopers to aid you in battle. -->
+  <VFEI_CallTrooperPlatoon.description>Викличте групу з 8 легких піхотинців для допомоги вам у бою.</VFEI_CallTrooperPlatoon.description>
+
+  <!-- EN: chemfuel drop -->
+  <VFEI_ChemfuelDrop.label>скид хімпалива</VFEI_ChemfuelDrop.label>
+  <!-- EN: Call for a drop of 220 chemfuel. -->
+  <VFEI_ChemfuelDrop.description>Викличте скид 220 одиниць хімпалива.</VFEI_ChemfuelDrop.description>
+
+  <!-- EN: cloth drop -->
+  <VFEI_ClothDrop.label>скид тканини</VFEI_ClothDrop.label>
+  <!-- EN: Call for a drop of 330 cloth. -->
+  <VFEI_ClothDrop.description>Викличте скид 330 одиниць тканини.</VFEI_ClothDrop.description>
+
+  <!-- EN: component drop -->
+  <VFEI_ComponentDrop.label>скид компонентів</VFEI_ComponentDrop.label>
+  <!-- EN: Call for a drop of 15 components. -->
+  <VFEI_ComponentDrop.description>Викличте скид 15 одиниць компонентів.</VFEI_ComponentDrop.description>
+
+  <!-- EN: advanced component drop -->
+  <VFEI_ComponentSpacerDrop.label>скид просунутих компонентів</VFEI_ComponentSpacerDrop.label>
+  <!-- EN: Call for a drop of 3 advanced components. -->
+  <VFEI_ComponentSpacerDrop.description>Викличте скид 3 одиниць просунутих компонентів.</VFEI_ComponentSpacerDrop.description>
+
+  <!-- EN: devilstrand drop -->
+  <VFEI_DevilstrandDrop.label>скид дияволокна</VFEI_DevilstrandDrop.label>
+  <!-- EN: Call for a drop of 90 devilstrand. -->
+  <VFEI_DevilstrandDrop.description>Викличте скид 90 одиниць дияволокна.</VFEI_DevilstrandDrop.description>
+
+  <!-- EN: gold drop -->
+  <VFEI_GoldDrop.label>скид золота</VFEI_GoldDrop.label>
+  <!-- EN: Call for a drop of 50 gold. -->
+  <VFEI_GoldDrop.description>Викличте скид 50 одиниць золота.</VFEI_GoldDrop.description>
+
+  <!-- EN: herbal med drop -->
+  <VFEI_HerbalMedDrop.label>скид лікувальних трав</VFEI_HerbalMedDrop.label>
+  <!-- EN: Call for a drop of 40 herbal medicine. -->
+  <VFEI_HerbalMedDrop.description>Викличте скид 40 одиниць лікувальних трав.</VFEI_HerbalMedDrop.description>
+
+  <!-- EN: shells drop -->
+  <VFEI_HEShellsDrop.label>скид мінометних снарядів</VFEI_HEShellsDrop.label>
+  <!-- EN: Call for a drop of 10 high-explosive shells. -->
+  <VFEI_HEShellsDrop.description>Викличте скид 10 одиниць снарядів.</VFEI_HEShellsDrop.description>
+
+  <!-- EN: hyperweave drop -->
+  <VFEI_HyperweaveDrop.label>скид гіпертканини</VFEI_HyperweaveDrop.label>
+  <!-- EN: Call for a drop of 55 hyperweave. -->
+  <VFEI_HyperweaveDrop.description>Викличте скид 55 одиниць гіпертканини.</VFEI_HyperweaveDrop.description>
+
+  <!-- EN: jade drop -->
+  <VFEI_JadeDrop.label>скид нефриту</VFEI_JadeDrop.label>
+  <!-- EN: Call for a drop of 100 jade. -->
+  <VFEI_JadeDrop.description>Викличте скид 100 одиниць нефриту.</VFEI_JadeDrop.description>
+
+  <!-- EN: med drop -->
+  <VFEI_MedDrop.label>скид медикаментів</VFEI_MedDrop.label>
+  <!-- EN: Call for a drop of 25 medicine. -->
+  <VFEI_MedDrop.description>Викличте скид 25 одиниць медикаментів.</VFEI_MedDrop.description>
+
+  <!-- EN: noble food drop -->
+  <VFEI_NobleFoodDrop.label>скид розкішної їжі</VFEI_NobleFoodDrop.label>
+  <!-- EN: Call for a drop of 15 lavish meals. -->
+  <VFEI_NobleFoodDrop.description>Замовте 15 розкішних страв.</VFEI_NobleFoodDrop.description>
+
+  <!-- EN: plasteel drop -->
+  <VFEI_PlasteelDrop.label>скид пласталі</VFEI_PlasteelDrop.label>
+  <!-- EN: Call for a drop of 55 plasteel. -->
+  <VFEI_PlasteelDrop.description>Викличте скид 55 одиниць пласталі.</VFEI_PlasteelDrop.description>
+
+  <!-- EN: stone drop -->
+  <VFEI_StoneDrop.label>скид каміння</VFEI_StoneDrop.label>
+  <!-- EN: Call for a drop of 500 random stone bricks. -->
+  <VFEI_StoneDrop.description>Викличте скид 500 випадкових кам'яних блоків.</VFEI_StoneDrop.description>
+
+  <!-- EN: striker drop -->
+  <VFEI_StrikerTurretDrop.label>викликати БПЛА</VFEI_StrikerTurretDrop.label>
+  <!-- EN: Call for a drop of three striker turrets to aid you in battle. After they fire all their ammo, striker turrets self-detonate. -->
+  <VFEI_StrikerTurretDrop.description>Викличте 3 ударні турелі які допомогатимуть вам у битві та самознищуяться як тільки в них закінчиться боєкомплект.</VFEI_StrikerTurretDrop.description>
+
+  <!-- EN: synthread drop -->
+  <VFEI_SynthreadDrop.label>скид синтканини</VFEI_SynthreadDrop.label>
+  <!-- EN: Call for a drop of 125 synthread. -->
+  <VFEI_SynthreadDrop.description>Викличте скид 125 одиниць синтканини.</VFEI_SynthreadDrop.description>
+
+  <!-- EN: uranium drop -->
+  <VFEI_UraniumDrop.label>скид урану</VFEI_UraniumDrop.label>
+  <!-- EN: Call for a drop of 80 uranium. -->
+  <VFEI_UraniumDrop.description>Викличте скид 80 одиниць урану.</VFEI_UraniumDrop.description>
+
+  <!-- EN: wood drop -->
+  <VFEI_WoodDrop.label>скид деревини</VFEI_WoodDrop.label>
+  <!-- EN: Call for a drop of 400 wood. -->
+  <VFEI_WoodDrop.description>Викличте скид 400 одиниць деревини.</VFEI_WoodDrop.description>
+
+</LanguageData>

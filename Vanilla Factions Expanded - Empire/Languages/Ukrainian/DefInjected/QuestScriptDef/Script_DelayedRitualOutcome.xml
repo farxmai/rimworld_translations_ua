@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>rewardLetterLabel->Noble's Gift</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Шляхетний подарунок</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] зв’язався з вами. [rewardDelayTicks_duration] тому ви організували мистецьку виставку [outcome] для [rewardGiver_possessive] \n\nЗ тих пір [rewardGiver_pronoun] безпечно повернувся додому, і був настільки вдячним [rewardGiver_pronoun], що вирішив зробити вам особистий подарунок. [rewardGiver_pronoun] надсилає вам транспортною капсулою наступне:\n\n[listOfRewards]</li>
+  </VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->a delayed reward for art exhibit quest</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+    <li>questDescription->відкладена винагорода за квест художньої виставки</li>
+  </VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Art Exhibit delayed reward</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+    <li>questDescription->відкладена винагорода за художню виставку</li>
+  </VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+
+  <!-- EN:
+    <li>rewardLetterLabel->Noble's Gift</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Шляхетний подарунок</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] зв’язався з вами. [rewardDelayTicks_duration] тому ви організували великий бал [outcome] для [rewardGiver_possessive] \n\nЗ тих пір [rewardGiver_pronoun] безпечно повернувся додому, і був настільки вдячним [rewardGiver_pronoun], що вирішив зробити вам особистий подарунок. [rewardGiver_pronoun] надсилає вам транспортною капсулою наступне:\n\n[listOfRewards]</li>
+  </VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->a delayed reward for grand ball quest</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+    <li>questDescription->відкладена винагорода за квест великого балу</li>
+  </VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Grandball delayed reward</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+    <li>questDescription->відкладена винагорода за проведений бал</li>
+  </VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+
+</LanguageData>

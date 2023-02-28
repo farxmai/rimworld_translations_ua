@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription-> [asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] has informed us about a deserter hideout near [colonyName].\nDeserters are a group of ex-imperial soldiers and nobility who have decided to split away from the Great Hierarchy and adapt to the new, post-shattering life. They are considered public enemy number one./nApparently, [siteFaction_pawnsPlural] have been raiding imperial convoys./n[asker_nameDef] is planning an aerial assault on the hideout, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [requiredPawnCount] soliders to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTime_duration].\n\n[asker_nameDef] will send [alliesCount] of their personal guards and place them under your command. [asker_pronoun] will not be unhappy if they are killed.\n		</li>
+  -->
+  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+    <li>questDescription-> [asker_nameFull], [asker_royalTitleInCurrentFaction] з [asker_faction_name] повідомив нас про схованку дезертирів поблизу [colonyName].\nДезертири — це група колишніх імперських солдатів і знаті, які вирішили відокремитися від Великої Ієрархії та адаптуватися до нового життя після руйнування. Вони вважаються ворогом номер один./nМабуть, [siteFaction_pawnsPlural] здійснювали набіги на імперські конвої./n[asker_nameDef] планує повітряний напад на схованку, яку охороняють [enemiesCount] [enemiesLabel]. [asker_pronoun] хоче, щоб ви надали [requiredPawnCount] солдатів для здійснення атаки.\n\n[asker_pronoun] надішле шаттл, щоб забрати ваших бійців, доставити їх до місця атаки, а потім відвезе додому. Вони отримають їжу та медичний догляд по дорозі.\n\nЯкщо атака почнеться, ви повинні перемогти всіх ворогів і турелі протягом [timeoutTime_duration].\n\n[asker_nameDef] надішле [alliesCount] своїх особистих охоронців і розмістить їх під вашим командуванням. [asker_pronoun] не буде за ними сумувати у разі їх смерті.\n</li>
+  </VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <VFEE_DeserterHideout.questNameRules.rulesStrings>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->Військова допомога для [asker_nameDef]</li>
+    <li>camp->Табір</li>
+    <li>camp->Аванпост</li>
+    <li>camp->Схованка</li>
+    <li>camp->Лігвище</li>
+    <li>bandit->Бандитів</li>
+    <li>bandit->Рейдерів</li>
+    <li>bandit->Дезертирів</li>
+    <li>bandit->Втікачів</li>
+    <li>bandit->Вбивць</li>
+    <li>bandit->Розбійників</li>
+  </VFEE_DeserterHideout.questNameRules.rulesStrings>
+
+</LanguageData>

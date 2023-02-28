@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: orbital slicer -->
+  <VFEE_OrbitalSlicer.label>орбітальний різак</VFEE_OrbitalSlicer.label>
+
+  <!-- EN: poison -->
+  <VFEE_Poison.label>отрута</VFEE_Poison.label>
+  <!-- EN: text_todo -->
+  <VFEE_Poison.description>отрута</VFEE_Poison.description>
+
+</LanguageData>

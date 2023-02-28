@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Presenting TargetB. -->
+  <VFEE_ArtPresent.reportString>презентує TargetB.</VFEE_ArtPresent.reportString>
+
+  <!-- EN: Spectating TargetB. -->
+  <VFEE_ArtSpectate.reportString>споглядає TargetB.</VFEE_ArtSpectate.reportString>
+
+  <!-- EN: waiting. -->
+  <VFEE_ArtStandBy.reportString>очікує.</VFEE_ArtStandBy.reportString>
+
+  <!-- EN: Honoring TargetB. -->
+  <VFEE_GiveHonor.reportString>вшанувує TargetB.</VFEE_GiveHonor.reportString>
+
+  <!-- EN: Guarding. -->
+  <VFEE_ParadeGuardGoto.reportString>охороняє.</VFEE_ParadeGuardGoto.reportString>
+
+  <!-- EN: dancing with TargetB. -->
+  <VFEE_WaltzDip.reportString>танцює з TargetB.</VFEE_WaltzDip.reportString>
+
+  <!-- EN: dancing with TargetA. -->
+  <VFEE_WaltzDipped.reportString>танцює з TargetA.</VFEE_WaltzDipped.reportString>
+
+  <!-- EN: dancing with TargetA. -->
+  <VFEE_WaltzGoTo.reportString>танцює з TargetA.</VFEE_WaltzGoTo.reportString>
+
+  <!-- EN: going to my position. -->
+  <VFEE_WaltzGoToStart.reportString>переходить на позицію.</VFEE_WaltzGoToStart.reportString>
+
+  <!-- EN: dancing with TargetA. -->
+  <VFEE_WaltzWait.reportString>танцює з TargetA.</VFEE_WaltzWait.reportString>
+
+</LanguageData>

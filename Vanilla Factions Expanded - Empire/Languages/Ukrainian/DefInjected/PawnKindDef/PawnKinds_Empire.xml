@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: absolver -->
+  <VFEE_Empire_Fighter_Absolver.label>відшкодувальник</VFEE_Empire_Fighter_Absolver.label>
+
+  <!-- EN: archcount -->
+  <VFEE_Empire_Royal_Archcount.label>архіграф</VFEE_Empire_Royal_Archcount.label>
+  <!-- EN: archcountess -->
+  <VFEE_Empire_Royal_Archcount.labelFemale>архіграфиня</VFEE_Empire_Royal_Archcount.labelFemale>
+
+  <!-- EN: archduke -->
+  <VFEE_Empire_Royal_Archduke.label>ерцгерцог</VFEE_Empire_Royal_Archduke.label>
+  <!-- EN: archduchess -->
+  <VFEE_Empire_Royal_Archduke.labelFemale>ерцгерцогиня</VFEE_Empire_Royal_Archduke.labelFemale>
+
+  <!-- EN: despot -->
+  <VFEE_Empire_Royal_Despot.label>деспот</VFEE_Empire_Royal_Despot.label>
+
+  <!-- EN: emperor -->
+  <VFEE_Empire_Royal_Emperor.label>імператор</VFEE_Empire_Royal_Emperor.label>
+
+  <!-- EN: high stellarch -->
+  <VFEE_Empire_Royal_HighStellarch.label>високий стеларх</VFEE_Empire_Royal_HighStellarch.label>
+
+  <!-- EN: magister -->
+  <VFEE_Empire_Royal_Magister.label>магістр</VFEE_Empire_Royal_Magister.label>
+
+  <!-- EN: marquess -->
+  <VFEE_Empire_Royal_Marquess.label>маркіз</VFEE_Empire_Royal_Marquess.label>
+  <!-- EN: marchioness -->
+  <VFEE_Empire_Royal_Marquess.labelFemale>маркіза</VFEE_Empire_Royal_Marquess.labelFemale>
+
+  <!-- EN: techfriar -->
+  <VFEE_Empire_Royal_Techfriar.label>техно-монах</VFEE_Empire_Royal_Techfriar.label>
+
+</LanguageData>

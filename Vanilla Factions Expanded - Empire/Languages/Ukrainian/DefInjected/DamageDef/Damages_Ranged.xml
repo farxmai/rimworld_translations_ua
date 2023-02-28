@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: fletcher dart -->
+  <VFEE_Fletcher.label>дротик флетчера</VFEE_Fletcher.label>
+  <!-- EN: {0} has been shot to death. -->
+  <VFEE_Fletcher.deathMessage>{0} було застрелено.</VFEE_Fletcher.deathMessage>
+
+</LanguageData>

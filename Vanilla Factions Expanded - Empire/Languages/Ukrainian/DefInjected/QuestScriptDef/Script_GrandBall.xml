@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Are leaving immediately, and will not remember this event fondly!</li>
+    <li>oneOfThe->one of the nobles you invited to the grand ball</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>CeremonyFailedLetterLabel->GrandBall failed</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Ball. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <li>CeremonyTimeoutLetterLabel->GrandBall failed</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the ball. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed</li>
+    <li>ShuttleDestroyedLabel->Shuttle destroyed: Ball Cancelled</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel->Deserter assasination attempt</li>
+    <li>raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".</li>
+    <li>BallSuccessLetterLetterLabel->GrandBall Success</li>
+    <li>BallSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.</li>
+  -->
+  <VFEE_GrandBall.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-></li>
+    <li>lastOrNot(nobleCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>decidedToLeave->Гості розходяться та намагатимуться не згадувати цю подію.</li>
+    <li>oneOfThe->одного з дворян, яких ви запросили на Великий Бал</li>
+    <li>questOver->Квест "[resolvedQuestName]" завершено.</li>
+    <li>CeremonyFailedLetterLabel->Великий Бал провалився</li>
+    <li>CeremonyFailedLetterText->[asker_nameFull] розчарований вашою невдачею провести Великий Бал. [asker_pronoun] йде з [asker_possessive] гостями.</li>
+    <li>CeremonyTimeoutLetterLabel->Великий Бал провалився</li>
+    <li>CeremonyTimeoutLetterText->[asker_nameFull] втомився чекати, поки ви почнете бал. [asker_pronoun] йде з [asker_possessive] гостями.</li>
+    <li>letterIntroArrested->Ви заарештували {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] заарештовано</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] було вбито.</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] помер: Подію скасовано</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], було насильно прооперовано.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] прооперовано: Подію скасовано</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], було викрадено.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] викрадено: Подію скасовано</li>
+    <li>lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished->{SUBJECT_definite}, [oneOfThe], було вигнано.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] вигнано: Подію скасовано</li>
+    <li>lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro->{SUBJECT_definite} було знищено</li>
+    <li>ShuttleDestroyedLabel->Шатл знищено: бал скасована</li>
+    <li>ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel->Рейд дезертирів</li>
+    <li>raidArrivedLetterText->Прибула група дезертирів, щоб спробувати зірвати бал та вбити членів королівської сім’ї\n\n[asker_nameFull] не зважає на загрозу та вимагає, щоб виставка продовжилася! [asker_possessive] також вимагає, щоб ви зберегли їх та поскоріше розібралися з «селюками».</li>
+    <li>BallSuccessLetterLetterLabel->Успішне завершення балу</li>
+    <li>ArtExhibitSuccessLetterText->Шатл відправився з гостями [asker_nameFull] і [asker_possessive]. Загалом захід пройшов успішно, і всі безпечно повернулися до своїх домівок.</li>
+  </VFEE_GrandBall.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>lodgersLabel->noble</li>
+    <li>lodgersLabelPlural->nobles</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]</li>
+    <li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->their</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->they</li>
+    <li>lodgersWasWere(nobleCount==1)->was</li>
+    <li>lodgersWasWere(nobleCount>=2)->were</li>
+    <li>appreciateAppreciates(nobleCount==1)->appreciates</li>
+    <li>appreciateAppreciates(nobleCount>=2)->appreciate</li>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like you to organise a grand ball. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a ballroom present in your colony. If at any point the ballroom is destroyed or the instruments in it become unusable, the grand ball will be called off\n[asker_nameFull] has forwarded you a list of nobility that was invited to the ball and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the ball. If anything happens to any of the guests, the grand ball will be cancelled. \nDeserters might use this opportunity to launch an assassination attempt.\n\n\n			</li>
+  -->
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->дворянином</li>
+    <li>lodgersLabelPlural->дворянинами</li>
+    <li>lodgersDef(nobleCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount>=2)->[lodgersLabelPlural]</li>
+    <li>joinerEnding->Ви зможете керувати [lodgersDef] так само, як керуєте своїми колоністами.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount>=2)->їх</li>
+    <li>lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount>=2)->вони</li>
+    <li>lodgersWasWere(nobleCount==1)->був</li>
+    <li>lodgersWasWere(nobleCount>=2)->були</li>
+    <li>appreciateAppreciates(nobleCount==1)->вдячний</li>
+    <li>appreciateAppreciates(nobleCount>=2)->вдячні</li>
+    <li>questDescription->[asker_nameFull], [asker_royalTitleInCurrentFaction] з [asker_faction_name] хоче, щоб ви організували великий бал. Це чудова нагода для благородних пліток і налагодження стосунків з іншими представниками імперської знаті.\nВи повинні мати бальний зал у своїй колонії. Якщо в будь-який момент бальний зал буде зруйновано або інструменти в ньому стануть непридатними для використання, великий бал буде скасовано\n[asker_nameFull] надіслав вам список знаті, яка була запрошена на бал і прибуде на шатлі:\n [noblesDetailList]\n\nВам потрібно подбати про те, щоб гості перебували в безпеці та комфорті під час балу. Якщо з кимось із гостей щось трапиться, великий бал буде скасовано. \nДезертири можуть скористатися цією нагодою, щоб вчинити замах.\n\n\n</li>
+  </VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[lodgerIndef] desires a grand ball</li>
+    <li>lodgerIndef->a royal</li>
+    <li>lodgerIndef->a noble</li>
+  -->
+  <VFEE_GrandBall.questNameRules.rulesStrings>
+    <li>questName->[lodgerIndef] жадає Великого Балу</li>
+    <li>lodgerIndef->знатна особа</li>
+    <li>lodgerIndef->дворянин</li>
+  </VFEE_GrandBall.questNameRules.rulesStrings>
+
+</LanguageData>

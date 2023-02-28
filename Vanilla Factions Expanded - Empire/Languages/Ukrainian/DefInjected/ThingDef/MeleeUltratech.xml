@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: toxblade -->
+  <VFEE_MeleeWeapon_Toxblade.label>отруйний ніж</VFEE_MeleeWeapon_Toxblade.label>
+  <!-- EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon. -->
+  <VFEE_MeleeWeapon_Toxblade.description>Захисна зброя для ближнього бою призначена для імперського дворянства рангом не нижче Йомана. Хоча він і може пробити броню не гірше за стандартні пласталеві кинджали, основна функція полягає у розпиленні кислотно-токсичних рідин та парів після завдання порізів. Ефект діє лише декілька секунд і наноситься приблизно наполовину часу через обмежений розмір зброї.</VFEE_MeleeWeapon_Toxblade.description>
+  <!-- EN: handle -->
+  <VFEE_MeleeWeapon_Toxblade.tools.handle.label>рукоятка</VFEE_MeleeWeapon_Toxblade.tools.handle.label>
+  <!-- EN: point -->
+  <VFEE_MeleeWeapon_Toxblade.tools.point.label>вістря</VFEE_MeleeWeapon_Toxblade.tools.point.label>
+  <!-- EN: edge -->
+  <VFEE_MeleeWeapon_Toxblade.tools.edge.label>лезо</VFEE_MeleeWeapon_Toxblade.tools.edge.label>
+
+</LanguageData>

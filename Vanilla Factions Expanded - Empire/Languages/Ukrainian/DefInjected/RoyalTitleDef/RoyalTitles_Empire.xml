@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: consul -->
+  <Consul.label>консул</Consul.label>
+  <!-- EN: The Imperial title of consul is a lower level of high nobility.\n\nIn the Empire, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures. -->
+  <Consul.description>Імперський титул консула є нижчим рівнем високого дворянства.\n\nВ Імперії консули контролюють планети. На війні консул зазвичай може виставити армію чисельністю з кількома дивізіями за підтримки кількох флотів. Деякі з них керують флагманами або космічними мегаструктурами.</Consul.description>
+
+  <!-- EN: duke -->
+  <Duke.label>герцог</Duke.label>
+  <!-- EN: The Imperial title of duke is the highest of the middle nobility.\n\nIn the Empire, dukes control provinces, mega-cities, or moons. At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
+  <Duke.description>Імперський титул герцога — це найвищий титул середнього дворянства.\n\nВ Імперії герцоги контролюють провінції, мега-міста або місяці. На війні герцог може виставити війська рівня дивізії або флот із великими кораблями та десятками допоміжних кораблів.</Duke.description>
+  <!-- EN: duchess -->
+  <Duke.labelFemale>герцогиня</Duke.labelFemale>
+
+  <!-- EN: stellarch -->
+  <Stellarch.label>стеларх</Stellarch.label>
+  <!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
+  <Stellarch.description>Імперський титул стеларха означає панування над цілою зоряною системою.\n\nВ Імперії, оскільки час міжзоряних подорожей триває роки, стелархи керують своїми системами з великим ступенем незалежності. Кожен з них присягає на вірність Імператору, але оскільки Імператор може бути за багато світлових років від нас, стеларх може роками чи десятиліттями не взаємодіяти з ним.</Stellarch.description>
+
+  <!-- EN: archcount -->
+  <VFEE_Archcount.label>архіграф</VFEE_Archcount.label>
+  <!-- EN: The Imperial title of archcount is bestowed upon those counts who have established impressive holdings, which are capable of supporting and entertaining important guests. -->
+  <VFEE_Archcount.description>Імператорський титул архиграфа присвоюється тим графам, які створили значні володіння, які здатні підтримувати та приймати важливих гостей.</VFEE_Archcount.description>
+  <!-- EN: archcountess -->
+  <VFEE_Archcount.labelFemale>архіграфиня</VFEE_Archcount.labelFemale>
+
+  <!-- EN: archduke -->
+  <VFEE_Archduke.label>ерцгерцог</VFEE_Archduke.label>
+  <!-- EN: The Imperial title of archduke is bestowed upon dukes whose territory requires a competent retinue to maintain order. They are expected to host their own divisions as well as their training, and in peacetime can establish a minor House. -->
+  <VFEE_Archduke.description>Імперський титул ерцгерцога присвоюється герцогам, чия територія потребує компетентної свити для підтримки порядку. Очікується, що вони розмістять власні підрозділи, а також навчатимуться, а в мирний час можуть заснувати незначний будинок.</VFEE_Archduke.description>
+  <!-- EN: archduchess -->
+  <VFEE_Archduke.labelFemale>ерцгерцогиня</VFEE_Archduke.labelFemale>
+
+  <!-- EN: despot -->
+  <VFEE_Despot.label>деспот</VFEE_Despot.label>
+  <!-- EN: The Imperial title of despot maintains dominion over a small star system of strategic importance. In the Empire, despots maintain an iron grip to ensure that resources continue to flow into Imperial coffers and factories, as their major House holds important administrative positions throughout the system of governance. -->
+  <VFEE_Despot.description>Імперський титул деспота підтримує панування над невеликою зоряною системою стратегічного значення. В Імперії деспоти тримають залізну хватку, щоб гарантувати, що ресурси продовжують надходити в імперську скарбницю та на заводи, оскільки їхній головний дім займає важливі адміністративні посади в усій системі управління.</VFEE_Despot.description>
+  <!-- EN: despot -->
+  <VFEE_Despot.labelFemale>деспот</VFEE_Despot.labelFemale>
+
+  <!-- EN: high stellarch -->
+  <VFEE_HighStellarch.label>високий стеларх</VFEE_HighStellarch.label>
+  <!-- EN: The Imperial title of high stellarch represents dominion over multiple star systems, and control of one of the powerful Houses in the Empire. They answer to no one except the emperor and are expected to not only maintain but also expand their influence across space. Very few are capable of receiving this title, even fewer wish to take on the responsibilities. -->
+  <VFEE_HighStellarch.description>Імперський титул високого стеларха символізує панування над кількома зоряними системами та контроль над одним із могутніх Будинків Імперії. Вони не відповідають нікому, крім імператора, і очікується, що вони не тільки збережуть, але й розширять свій вплив у космосі. Мало хто здатний отримати це звання, ще менше бажають взяти на себе обов'язки.</VFEE_HighStellarch.description>
+
+  <!-- EN: magister -->
+  <VFEE_Magister.label>магістр</VFEE_Magister.label>
+  <!-- EN: The Imperial title of magister is the middle rank of high nobility. In the Empire, a magister is expected to coordinate the vast military capabilities of the Empire, in both peace and wartime, commanding in the presence of the Emperor. -->
+  <VFEE_Magister.description>Імператорський титул магістра — середній ступінь вищого дворянства. В Імперії очікується, що магістр координуватиме величезні військові можливості Імперії як у мирний, так і у воєнний час, командуючи в присутності Імператора.</VFEE_Magister.description>
+  <!-- EN: magister -->
+  <VFEE_Magister.labelFemale>магістр</VFEE_Magister.labelFemale>
+
+  <!-- EN: marquess -->
+  <VFEE_Marquess.label>маркіз</VFEE_Marquess.label>
+  <!-- EN: The Imperial title of marquess is the second highest of the middle nobility. In the Empire, they control colonies that border the edge of Imperial space. During wartime, they can field fleets that either prevent the enemy from penetrating the borders or be the anvil to the hammer of supporting friendlies. -->
+  <VFEE_Marquess.description>Імператорський титул маркіза є другим найвищим титулом середнього дворянства. В Імперії вони контролюють колонії, які межують з межами Імперського простору. Під час війни вони можуть виставляти флоти, які або перешкоджають ворогові проникнути через кордони, або є наковалом для молота підтримки дружніх сил.</VFEE_Marquess.description>
+  <!-- EN: marchioness -->
+  <VFEE_Marquess.labelFemale>маркіза</VFEE_Marquess.labelFemale>
+
+</LanguageData>

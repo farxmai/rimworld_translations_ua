@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: See also: -->
+  <VFEE.SeeAlso>Дивись також:</VFEE.SeeAlso>
+  <!-- EN: Change character -->
+  <VFEE.ChangeCharacter>Змінити персонажа</VFEE.ChangeCharacter>
+  <!-- EN: Current title: {0} -->
+  <VFEE.CurrentTitle>Поточний титул:{0}</VFEE.CurrentTitle>
+  <!-- EN: Honor: {0} -->
+  <VFEE.CurrentHonor>Честь:{0}</VFEE.CurrentHonor>
+  <!-- EN: Unused permit points: {0} -->
+  <VFEE.PermitPoints>Невикористані очки Честі：{0}</VFEE.PermitPoints>
+  <!-- EN: Developer mode -->
+  <VFEE.DevMode>Режим розробника</VFEE.DevMode>
+  <!-- EN: Unused vassalage points: {0} -->
+  <VFEE.VassalPoints>Невикористані очки Васалітету: {0}</VFEE.VassalPoints>
+  <!-- EN: Release all vassals -->
+  <VFEE.ReleaseAllVassals>Звільнити всіх васалів</VFEE.ReleaseAllVassals>
+  <!-- EN: Releasing vassals will causes resources stored to be lost. Are you sure? -->
+  <VFEE.ReleaseAllVassals.Confirm>Звільнення васалів призведе до втрати збережених ресурсів. Ви впевнені?</VFEE.ReleaseAllVassals.Confirm>
+  <!-- EN: Vassals of {0}, {1} -->
+  <VFEE.VassalsOf>Васали {0}, {1}</VFEE.VassalsOf>
+  <!-- EN: Tithes will be delivered via drop-pods after designated time has elapsed. -->
+  <VFEE.TitheDesc>Десятину буде доставлено транспортними капсулами коли прийде час.</VFEE.TitheDesc>
+  <!-- EN: Deliver -->
+  <VFEE.Deliver>Доставка</VFEE.Deliver>
+  <!-- EN: Every 7 days -->
+  <VFEE.Deliver.EveryWeek>Кожні 7 днів</VFEE.Deliver.EveryWeek>
+  <!-- EN: Every 15 days -->
+  <VFEE.Deliver.EveryQuadrum>Кожні 15 днів</VFEE.Deliver.EveryQuadrum>
+  <!-- EN: Once a year -->
+  <VFEE.Deliver.EveryYear>Раз на рік</VFEE.Deliver.EveryYear>
+  <!-- EN: Never (pause) -->
+  <VFEE.Deliver.Never>Ніколи (пауза)</VFEE.Deliver.Never>
+  <!-- EN: {0} {1} created every day. -->
+  <VFEE.Created>{0} {1} створюється щодня.</VFEE.Created>
+  <!-- EN: {0} {1} created every {2} days. -->
+  <VFEE.CreatedSpecial>{0} {1} створюється кожні {2} дні(в).</VFEE.CreatedSpecial>
+  <!-- EN: {0} in stockpile: {1} -->
+  <VFEE.InStockpile>{0} на складах: {1}</VFEE.InStockpile>
+  <!-- EN: You can only vassalize bases that are less than 100 tiles away from you or your vassals\nVassalize more towns to increase the reach and unlock more potential vassal subjects -->
+  <VFEE.VassalDesc>Ви можете васалізувати лише бази, розташовані менше ніж за 100 клітинок від вас або ваших васалів\nЗбільшість кількість васалізованих міст, щоб збільшити охоплення та розблокувати більше потенційних підданих васалів.</VFEE.VassalDesc>
+  <!-- EN: Can't vassalize: Too far away -->
+  <VFEE.NoVassalize>Не можна васалізувати: Занадто далеко</VFEE.NoVassalize>
+  <!-- EN: Vassalize -->
+  <VFEE.Vassalize>Васалізувати</VFEE.Vassalize>
+  <!-- EN: dance space for all instruments -->
+  <VFEE.RoomRequirementInstrumentSpace>танцювальний простір для всіх інструментів</VFEE.RoomRequirementInstrumentSpace>
+  <!-- EN: {0} of the {1} -->
+  <VFEE.OfThe>{0} з {1}</VFEE.OfThe>
+  <!-- EN: Invite as visitor -->
+  <VFEE.Invite>Запросити</VFEE.Invite>
+  <!-- EN: Invite as {0} (Cost: {1} honor) -->
+  <VFEE.InviteAs>Запросити {0} (Вартість:{1} Честі)</VFEE.InviteAs>
+  <!-- EN: Skip to previous title -->
+  <VFEE.Skip.Title.Previous>Перейти до попереднього титулу</VFEE.Skip.Title.Previous>
+  <!-- EN: Skip to next title -->
+  <VFEE.Skip.Title.Next>Перейти до наступного титулу</VFEE.Skip.Title.Next>
+  <!-- EN: Skip to previous Colonist -->
+  <VFEE.Skip.Colonist.Previous>Перейти до попереднього колоніста</VFEE.Skip.Colonist.Previous>
+  <!-- EN: Skip to next Colonist -->
+  <VFEE.Skip.Colonist.Next>Перейти до наступного колоніста</VFEE.Skip.Colonist.Next>
+  <!-- EN: Remove all honors -->
+  <VFEE.Honors.RemoveAll>Видалити всі почесті</VFEE.Honors.RemoveAll>
+  <!-- EN: These honors are active on your noble. Drag them to the right to remove them from this character. -->
+  <VFEE.Honors.Active>Ці почесті активні на вашому дворянині. Перетягніть їх праворуч, щоб видалити.</VFEE.Honors.Active>
+  <!-- EN: These honors are available to be equipped on your nobles. Drag them to the left to activate them on the chosen noble. -->
+  <VFEE.Honors.Available>Ці почесті можна дарувати вашим дворянам. Перетягніть їх ліворуч, щоб активувати.</VFEE.Honors.Available>
+  <!-- EN: Honors of {0}, {1} -->
+  <VFEE.HonorsOf>Почесті {0}, {1}</VFEE.HonorsOf>
+  <!-- EN: you will gain the honor {0} to assign to a colonist -->
+  <VFEE.Honors.Reward>ви отримаєте почесть {0}, яку можна назначити колоністу</VFEE.Honors.Reward>
+  <!-- EN: Honors -->
+  <VFEE.Honors>Почесті</VFEE.Honors>
+  <!-- EN: Must be lord of {0} -->
+  <VFEE.MustBeLordOf>Має бути володарем {0}</VFEE.MustBeLordOf>
+  <!-- EN: Must wield {0} -->
+  <VFEE.MustWield>Має володіти {0}</VFEE.MustWield>
+  <!-- EN: Must have a parent -->
+  <VFEE.MustHaveParent>Має бути нащадком </VFEE.MustHaveParent>
+  <!-- EN: This must be bestowed in a ceramony before it will become active. -->
+  <VFEE.Honor.Pending>Це має бути даровано на церемонії, перш ніж воно стане активним.</VFEE.Honor.Pending>
+  <!-- EN: Bestow Honor -->
+  <VFEE.Honor.Bestow>Дарування почестей</VFEE.Honor.Bestow>
+  <!-- EN: Bestow Honors -->
+  <VFEE.Honor.BestowPlural>Дарування почестей</VFEE.Honor.BestowPlural>
+  <!-- EN: Bestow pending honors for this noble. Will give the following honors:\n{0} -->
+  <VFEE.Honor.Bestow.Desc>Віддайте належні почесті цьому дворянину. Віддасть такі почесті:\n{0}</VFEE.Honor.Bestow.Desc>
+  <!-- EN: Successful -->
+  <VFEE.Successful>Успішно</VFEE.Successful>
+  <!-- EN: {0} has been bestowed with their pending honors. They have gained:\n{0} -->
+  <VFEE.Honor.Bestow.Success>{0} був нагороджений їхніми очікуваними почестями. Вони здобули:\n{0}</VFEE.Honor.Bestow.Success>
+  <!-- EN: Must have pending honors to bestow. -->
+  <VFEE.Honor.NoHonors>Повинні бути незавершені почесті для надання.</VFEE.Honor.NoHonors>
+</LanguageData>

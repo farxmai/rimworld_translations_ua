@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: defusing TargetA. -->
+  <VFEE_DefuseBomb.reportString>знешкоджує TargetA.</VFEE_DefuseBomb.reportString>
+
+  <!-- EN: discarding TargetA -->
+  <VFEE_DiscardMeal.reportString>відкидає TargetA.</VFEE_DiscardMeal.reportString>
+
+  <!-- EN: placing bomb -->
+  <VFEE_PlaceBomb.reportString>закладає бомбу.</VFEE_PlaceBomb.reportString>
+
+  <!-- EN: poisoning TargetA -->
+  <VFEE_PoisonMeal.reportString>отруює TargetA.</VFEE_PoisonMeal.reportString>
+
+</LanguageData>

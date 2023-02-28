@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: The Architect -->
+  <VFEE_Architect.label>Архітектор</VFEE_Architect.label>
+  <!-- EN: Construction skill never decays. -->
+  <VFEE_Architect.description>Навики будівництва ніколи не втрачаються.</VFEE_Architect.description>
+
+  <!-- EN: The Artist -->
+  <VFEE_Artist.label>Митець</VFEE_Artist.label>
+  <!-- EN: Artistic skill never decays. -->
+  <VFEE_Artist.description>Художня майстерність ніколи не втрачається.</VFEE_Artist.description>
+
+  <!-- EN: The Chef -->
+  <VFEE_Chef.label>Шеф</VFEE_Chef.label>
+  <!-- EN: Cooking skill never decays. -->
+  <VFEE_Chef.description>Кухарські навички ніколи не втрачаються.</VFEE_Chef.description>
+
+  <!-- EN: {CHILD} of {PARENT_labelShort} -->
+  <VFEE_ChildOf.label>{CHILD} {PARENT_labelShort}</VFEE_ChildOf.label>
+  <!-- EN: Opinion of {PARENT_labelShort} about {PAWN_labelShort} is locked at 100. Opinion of {PAWN_labelShort} about {PARENT_labelShort} is locked at 100. -->
+  <VFEE_ChildOf.description>Думка {PARENT_labelShort} та {PAWN_labelShort} щодо один одного завжди буде на рівні 100.</VFEE_ChildOf.description>
+
+  <!-- EN: Chosen of {FACTION_name} -->
+  <VFEE_Chosen.label>Обраний {FACTION_name}</VFEE_Chosen.label>
+  <!-- EN: +10 Opinion from every pawn of {FACTION_name}. +10 Opinion about every pawn of {FACTION_name}. -->
+  <VFEE_Chosen.description>+10 до думки кожного пішака {FACTION_name}. +10 Думка про кожного пішака {FACTION_name}.</VFEE_Chosen.description>
+
+  <!-- EN: The Craftsman -->
+  <VFEE_Craftsman.label>Ремісник</VFEE_Craftsman.label>
+  <!-- EN: Crafting skill never decays. -->
+  <VFEE_Craftsman.description>Реміснича майстерність ніколи не втрачається.</VFEE_Craftsman.description>
+
+  <!-- EN: Destroyer of {FACTION_name} -->
+  <VFEE_Destroyer.label>Руйнівник {FACTION_name}</VFEE_Destroyer.label>
+  <!-- EN: +10% Trade Price Improvement with Enemies of {FACTION_name}. -->
+  <VFEE_Destroyer.description>+10% підвищення ціни торгівлі з ворогами {FACTION_name}.</VFEE_Destroyer.description>
+
+  <!-- EN: First of {PAWN_possessive} Name -->
+  <VFEE_FirstOfName.label>Перший свого імені</VFEE_FirstOfName.label>
+  <!-- EN: Every noble person has +5 opinion of this pawn. -->
+  <VFEE_FirstOfName.description>Кожна благородна людина має +5 думки про цього пішака.</VFEE_FirstOfName.description>
+
+  <!-- EN: The Gardener -->
+  <VFEE_Gardener.label>Садівник</VFEE_Gardener.label>
+  <!-- EN: Plants skill never decays. -->
+  <VFEE_Gardener.description>Навички садівництва ніколи не втрачаються.</VFEE_Gardener.description>
+
+  <!-- EN: The Healer -->
+  <VFEE_Healer.label>Лікар</VFEE_Healer.label>
+  <!-- EN: Medicine skill never decays. -->
+  <VFEE_Healer.description>Навички медицини ніколи не втрачаються.</VFEE_Healer.description>
+
+  <!-- EN: The Intellectual -->
+  <VFEE_Intellectual.label>Інтелектуал</VFEE_Intellectual.label>
+  <!-- EN: Intellectual skill never decays. -->
+  <VFEE_Intellectual.description>Дослідницькі навички ніколи не втрачаються.</VFEE_Intellectual.description>
+
+  <!-- EN: {RANK} of {SETTLEMENT_label} -->
+  <VFEE_LordOf.label>{RANK} {SETTLEMENT_label}</VFEE_LordOf.label>
+  <!-- EN: +1 Honor every 5 days when {PAWN_pronoun} is in {SETTLEMENT_label}. -->
+  <VFEE_LordOf.description>+1 Честь кожні 5 днів, коли {PAWN_pronoun} знаходиться в {SETTLEMENT_label}.</VFEE_LordOf.description>
+
+  <!-- EN: The Marksman -->
+  <VFEE_Marksman.label>Влучний стрілець</VFEE_Marksman.label>
+  <!-- EN: Shooting skill never decays. -->
+  <VFEE_Marksman.description>Навички стрільби ніколи не втрачаються.</VFEE_Marksman.description>
+
+  <!-- EN: The Miner -->
+  <VFEE_Miner.label>Гірник</VFEE_Miner.label>
+  <!-- EN: Mining skill never decays. -->
+  <VFEE_Miner.description>Навички шахтарства ніколи не втрачаються.</VFEE_Miner.description>
+
+  <!-- EN: The Negotiator -->
+  <VFEE_Negotiator.label>Посередник</VFEE_Negotiator.label>
+  <!-- EN: Social skill never decays. -->
+  <VFEE_Negotiator.description>Соціальні навички ніколи не втрачаються.</VFEE_Negotiator.description>
+
+  <!-- EN: Patron of Arts -->
+  <VFEE_PatronOfArts.label>Меценат</VFEE_PatronOfArts.label>
+  <!-- EN: +3 Honor after successful art exhibition -->
+  <VFEE_PatronOfArts.description>+3 Честь після успішної художньої виставки</VFEE_PatronOfArts.description>
+
+  <!-- EN: The Rancher -->
+  <VFEE_Rancher.label>Скотар</VFEE_Rancher.label>
+  <!-- EN: Animals skill never decays. -->
+  <VFEE_Rancher.description>Навички тваринництва ніколи не втрачаються.</VFEE_Rancher.description>
+
+  <!-- EN: Ruler of {SETTLEMENT_label} -->
+  <VFEE_RulerOf.label>Правитель {SETTLEMENT_label}</VFEE_RulerOf.label>
+  <!-- EN: Tithe collection speed of {SETTLEMENT_label} is doubled. -->
+  <VFEE_RulerOf.description>Швидкість збору десятини у {SETTLEMENT_label} подвоюється.</VFEE_RulerOf.description>
+
+  <!-- EN: The Great -->
+  <VFEE_TheGreat.label>Великий</VFEE_TheGreat.label>
+  <!-- EN: +5 mood -->
+  <VFEE_TheGreat.description>+5 до настрою</VFEE_TheGreat.description>
+
+  <!-- EN: The Warrior -->
+  <VFEE_Warrior.label>Воїн</VFEE_Warrior.label>
+  <!-- EN: Melee skill never decays. -->
+  <VFEE_Warrior.description>авички ближнього бою ніколи не втрачаються.</VFEE_Warrior.description>
+
+  <!-- EN: Wielder of the {WEAPON_label} -->
+  <VFEE_WieldOfWeapon.label>Власник {WEAPON_label}</VFEE_WieldOfWeapon.label>
+  <!-- EN: 50% chance of +1 Honor for every kill with {WEAPON_label}. -->
+  <VFEE_WieldOfWeapon.description>50% шанс отримати +1 Честі за кожне вбивство за допомогою {WEAPON_label}.</VFEE_WieldOfWeapon.description>
+
+</LanguageData>

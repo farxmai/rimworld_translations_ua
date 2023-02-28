@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VFEE_ArtExhibit_Outcome.description>Залежно від якості ритуалу учасники матимуть настрій від {MINMOOD} до {MAXMOOD} протягом {MOODDAYS} днів.</VFEE_ArtExhibit_Outcome.description>
+  <!-- EN: participant count -->
+  <VFEE_ArtExhibit_Outcome.comps.0.label>кількість учасників</VFEE_ArtExhibit_Outcome.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <VFEE_ArtExhibit_Outcome.comps.1.label>вражаючість приміщення</VFEE_ArtExhibit_Outcome.comps.1.label>
+  <!-- EN: Terrible -->
+  <VFEE_ArtExhibit_Outcome.outcomeChances.0.label>жахливо</VFEE_ArtExhibit_Outcome.outcomeChances.0.label>
+  <!-- EN: Boring -->
+  <VFEE_ArtExhibit_Outcome.outcomeChances.1.label>нудно</VFEE_ArtExhibit_Outcome.outcomeChances.1.label>
+  <!-- EN: Enjoyable -->
+  <VFEE_ArtExhibit_Outcome.outcomeChances.2.label>приємно</VFEE_ArtExhibit_Outcome.outcomeChances.2.label>
+  <!-- EN: Amazing -->
+  <VFEE_ArtExhibit_Outcome.outcomeChances.3.label>дивовижно</VFEE_ArtExhibit_Outcome.outcomeChances.3.label>
+
+</LanguageData>

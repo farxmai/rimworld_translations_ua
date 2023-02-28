@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bestow: Acolyte -->
+  <VFEE_BestowAcolyte.label>присвоїти титул: Аколіт</VFEE_BestowAcolyte.label>
+  <!-- EN: Bestows the Acolyte title on a selected pawn. That pawn now has 13 honor. Can’t be cast on a pawn that’s already a Acolyte or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowAcolyte.description>Надає титул Аколіта вибраному пішаку. Цей пішак тепер має 13 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowAcolyte.description>
+
+  <!-- EN: bestow: Baron -->
+  <VFEE_BestowBaron.label>присвоїти титул: Барон</VFEE_BestowBaron.label>
+  <!-- EN: Bestows the Baron/Baroness title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Baron/Baroness or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowBaron.description>Надає титул Барона/Баронеси вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowBaron.description>
+
+  <!-- EN: bestow: Count -->
+  <VFEE_BestowCount.label>присвоїти титул: Граф</VFEE_BestowCount.label>
+  <!-- EN: Bestows the Count/Countess title on a selected pawn. That pawn now has 45 honor. Can’t be cast on a pawn that’s already a Count/Countess or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowCount.description>Надає титул Графа/Графині вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowCount.description>
+
+  <!-- EN: bestow: Freeholder -->
+  <VFEE_BestowFreeholder.label>присвоїти титул: Фріхолдер</VFEE_BestowFreeholder.label>
+  <!-- EN: Bestows the Freeholder title on a selected pawn. That pawn receives 1 Honor. Can’t be cast on a pawn that’s already a Freeholder or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowFreeholder.description>Надає титул Фріхолдера вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowFreeholder.description>
+
+  <!-- EN: bestow: Knight -->
+  <VFEE_BestowKnight.label>присвоїти титул: Лицар</VFEE_BestowKnight.label>
+  <!-- EN: Bestows the Knight/Dame title on a selected pawn. That pawn now has 21 honor. Can’t be cast on a pawn that’s already a Knight/Dame or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowKnight.description>Надає титул Лицара вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowKnight.description>
+
+  <!-- EN: bestow: Praetor -->
+  <VFEE_BestowPraetor.label>присвоїти титул: Претор</VFEE_BestowPraetor.label>
+  <!-- EN: Bestows the Praetor title on a selected pawn. That pawn now has 31 honor. Can’t be cast on a pawn that’s already a Praetor or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowPraetor.description>Надає титул Претора вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowPraetor.description>
+
+  <!-- EN: bestow: Yeoman -->
+  <VFEE_BestowYeoman.label>присвоїти титул: Йомен</VFEE_BestowYeoman.label>
+  <!-- EN: Bestows the Yeoman title on a selected pawn. That pawn now has 7 honor. Can’t be cast on a pawn that’s already a Yeoman or higher. Has a 3 day cooldown. -->
+  <VFEE_BestowYeoman.description>Надає титул Йомена вибраному пішаку. Цей пішак тепер має 45 очок честі. Не можна застосувати на пішака, який вже має цей або вищий титут. Пісдя застовуння вміння буде відновлено впродовж 3 днів.</VFEE_BestowYeoman.description>
+
+  <!-- EN: royal address -->
+  <VFEE_RoyalAddress.label>кололівська промова</VFEE_RoyalAddress.label>
+  <!-- EN: is giving a royal address from the throne.If all goes well, every titled participant will gain a small amount of honor, and they will gain honor for each titled participant. If it goes poorly, the speech will do social damage and will lose honor for each titled participant. The outcome depends on their social abilities. Imperial nobility currently residing in the area will join the speech and count as titled participants. -->
+  <VFEE_RoyalAddress.description>виголошує королівську промову з трону. Якщо все піде добре, кожен титулований учасник отримає невелику кількість очок честі, а мовець отримає честь за кожного титулованого учасника. Якщо промова вийде невдалою, це завдасть соціальної шкоди та втратить очки честі кожного присутнього титулованого учасника. Результат залежить від їхніх соціальних здібностей. Імперська знать, яка зараз проживає в цьому районі, приєднається до промови та вважатиметься титулованими учасниками.</VFEE_RoyalAddress.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bestow title -->
+  <VFEE_BestowTitle.label>дарувати титул</VFEE_BestowTitle.label>
+  <!-- EN: Bestows a royal title to a worthy pawn -->
+  <VFEE_BestowTitle.description>Дарує титул гідному пішаку</VFEE_BestowTitle.description>
+
+</LanguageData>

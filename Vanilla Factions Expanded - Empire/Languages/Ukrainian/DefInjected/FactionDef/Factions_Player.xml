@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: New Family -->
+  <VFEE_NewFamily.label>Новий Рід</VFEE_NewFamily.label>
+  <!-- EN: A colony of a royal family. -->
+  <VFEE_NewFamily.description>Колонія королівської родини.</VFEE_NewFamily.description>
+  <!-- EN: leader -->
+  <VFEE_NewFamily.leaderTitle>лідер</VFEE_NewFamily.leaderTitle>
+  <!-- EN: imperial -->
+  <VFEE_NewFamily.pawnSingular>імперець</VFEE_NewFamily.pawnSingular>
+  <!-- EN: imperials -->
+  <VFEE_NewFamily.pawnsPlural>імперці</VFEE_NewFamily.pawnsPlural>
+
+</LanguageData>
