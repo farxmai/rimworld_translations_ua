@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: planting saplingchild. -->
+  <VRE_PlantSaplingchild.reportString>висаджує саджанець</VRE_PlantSaplingchild.reportString>
+  <!-- EN: consuming TargetA. -->
+  <VRE_ConsumeWastepack.reportString>їсть {lookup: {TargetA}; Case; 3}</VRE_ConsumeWastepack.reportString>
+</LanguageData>

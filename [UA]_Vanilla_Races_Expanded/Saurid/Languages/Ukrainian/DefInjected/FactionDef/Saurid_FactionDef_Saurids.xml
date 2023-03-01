@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: rough saurid union -->
+  <VRESaurids_OutlanderRoughSaurid.label>союз завридів</VRESaurids_OutlanderRoughSaurid.label>
+  <!-- EN: These cold-blooded lizard-like people have lived here for centuries, and instead of embracing technological progress, they chose industrial reliability. They are not afraid to utilise their military might to bring peace and order in the surrounding lands.\n\nOriginally engineered to survive on not-fully-terraformed planets with no humidity what-so-ever, saurids are a closely knit community that prefers to treat outsiders with aggression and show of force. -->
+  <VRESaurids_OutlanderRoughSaurid.description>Ці холоднокровні люди-рептилії живуть тут століттями. Замість технологічного прогресу вони зупинилися на етапі індустріальної громади. Вони мирні, але не побояться продемонструвати свою військову міць, щоб принести мир у сусідні землі.\n\nОскільки вони були спроектованими генними інженерами для життя і роботи на ще не до кінця терраформованих планетах, то намагаються утворювати міцні громади, а до чужинців ставитися з агресією.</VRESaurids_OutlanderRoughSaurid.description>
+  <!-- EN: saurids -->
+  <VRESaurids_OutlanderRoughSaurid.pawnsPlural>завриди</VRESaurids_OutlanderRoughSaurid.pawnsPlural>
+  <!-- EN: saurid -->
+  <VRESaurids_OutlanderRoughSaurid.pawnSingular>заврид</VRESaurids_OutlanderRoughSaurid.pawnSingular>
+  <!-- EN: prime councilor -->
+  <VRESaurids_OutlanderRoughSaurid.leaderTitle>голова ради</VRESaurids_OutlanderRoughSaurid.leaderTitle>
+</LanguageData>

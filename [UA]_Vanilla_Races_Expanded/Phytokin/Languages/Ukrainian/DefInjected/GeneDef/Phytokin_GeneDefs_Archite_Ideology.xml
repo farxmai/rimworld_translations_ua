@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gauranlen affinity -->
+  <VRE_GauranlenAffinity.label>спорідненість із деревом Гауранлен</VRE_GauranlenAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the gauranlen tree, allowing them to act as an amplifier to the special properties of the tree. They can swiftly prune the tree and increase the success chance of any tree-related rituals. Most importantly, carriers of this gene act as an extension of the gauranlen ecosystem, and can spawn and command two dryads wherever they go. -->
+  <VRE_GauranlenAffinity.description>Носії цього гена мають особливий зв'язок із деревом Гауранлен, що дозволяє їм посилювати його властивості. Вони можуть швидко обстригати дерево та збільшувати шанси на успіх будь-яких ритуалів, пов'язаних з ним. Але найголовніше те, що носії гена можуть розширювати екосистему Гауранлен і закликати двох дріад.</VRE_GauranlenAffinity.description>
+
+  <!-- EN: 
+	Guarantees Natural Meditation focus on the pawn.
+		
+	Pawns with this gene included in the gauranlen tree connection ritual increase its success by 10% each, stacking up to 5 times.
+  -->
+  <VRE_GauranlenAffinity.customEffectDescriptions.0>Гарантований вид медитації «природа».</VRE_GauranlenAffinity.customEffectDescriptions.0>
+  <VRE_GauranlenAffinity.customEffectDescriptions.1>Кожен носій гена збільшує можливість успіху ритуалу зв'язування з деревом Гауранлен на 10%. Стакається до 5 разів.</VRE_GauranlenAffinity.customEffectDescriptions.1>
+</LanguageData>

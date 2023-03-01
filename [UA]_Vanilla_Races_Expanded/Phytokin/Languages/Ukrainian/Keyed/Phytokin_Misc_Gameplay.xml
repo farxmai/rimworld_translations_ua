@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Progressive attunement gene -->
+  <VRE_ProgressiveAttunementOffset>ген поступового псі-налаштування</VRE_ProgressiveAttunementOffset>
+
+  <!-- EN: Sapling child -->
+  <VRE_SaplingBirthReady>саджанець-нащадок</VRE_SaplingBirthReady>
+
+  <!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_SaplingBirthReadyDesc>Когда поселенец с геном размножения саженцами беременеет, необходимо выбрать место для посадки своего потомка. Если он этого не сделает до начала второго триместра (6 дней), беременность будет считаться прерванной.</VRE_SaplingBirthReadyDesc>
+
+  <!-- EN: Plant saplingchild -->
+  <VRE_PlantSaplingchild>Висадити саджанець-нащадок</VRE_PlantSaplingchild>
+  <!-- EN: Plant a saplingchild. If this isn't done before the second semester begins (6 days since pregnancy) it will count as a miscarriage. The saplingchild will need to be protected. -->
+  <VRE_PlantSaplingchildDesc>Висадити саджанець-нащадок. Якщо це не було зроблено до початку другого триместру (6 днів з моменту вагітності), він вважатиметься викиднем. Саджанець-нащадок потребує захисту.</VRE_PlantSaplingchildDesc>
+  <!-- EN: Saplingchild needs to be planted on soil -->
+  <VRE_SaplingNeedsSoil>Саджанець-нащадок має бути посаджений у грунт</VRE_SaplingNeedsSoil>
+
+  <!-- EN: Saplingchild needs to be planted -->
+  <VRE_SaplingchildNeedsToBePlanted>Саджанець-нащадок має бути посаджений</VRE_SaplingchildNeedsToBePlanted>
+  <!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to plant their saplingchild:\n\n{0} -->
+  <VRE_SaplingchildNeedsToBePlantedDesc>Коли поселенець із геном розмноження саджанцями вагітніє, необхідно вибрати місце для посадки свого нащадка. Якщо він цього не зробить до початку другого триместру (6 днів), вагітність вважатиметься перерваною. Наступні поселенці повинні вибрати місце для посадки нащадка:\n\n{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+
+  <!-- EN: Mother xenotype: {0} -->
+  <VRE_MotherXenotype>Ксенотип матері: {0}</VRE_MotherXenotype>
+
+  <!-- EN:  has been destroyed by temperature -->
+  <VRE_DestroyedByTemp> загинув через температурні умови.</VRE_DestroyedByTemp>
+
+  <!-- EN: {0} has hatched from a sapling! -->
+  <VRE_SaplingHatched>{0} {0_gender? народився : народилася} із саджанця!</VRE_SaplingHatched>
+  <!-- EN: {0} hatched! -->
+  <VRE_SaplingHatchedLabel>{0} {0_gender ? народився : народилася}!</VRE_SaplingHatchedLabel>
+
+  <!-- EN: Time until birth: {0} -->
+  <VRE_TimeToHatch>Час до народження: {0}</VRE_TimeToHatch>
+
+  <!-- EN: Unlocked via Anima Affinity gene -->
+  <VRE_UnlockedByGeneAnima>Відкрито завдяки гену спорідненості із древом Аніми</VRE_UnlockedByGeneAnima>
+  <!-- EN: Unlocked via Gauranlen Affinity gene -->
+  <VRE_UnlockedByGeneGau>Відкрито завдяки гену спорідненості з деревом Гауранлен</VRE_UnlockedByGeneGau>
+
+  <!-- EN: This ability needs to be used on an anima tree -->
+  <VRE_CanOnlyBeUsedOnAnimaTree>Ця здатність має бути використана на дереві Аніми.</VRE_CanOnlyBeUsedOnAnimaTree>
+  <!-- EN: This ability needs to be used on terrain with fertility of at least 0.05 -->
+  <VRE_CanOnlyBePlantedOnFertile>Ця здатність має бути використана на землі з родючістю не менше 0.05.</VRE_CanOnlyBePlantedOnFertile>
+
+  <!-- EN: A maximum of two dryads per colonist with Gauranlen affinity can be alive at the same time -->
+  <VRE_TwoPreviousDryadsMustBeDead>Одночасно тільки дві дріади можуть бути живі під контролем поселенця з спорідненістю з деревом Гауранлен.</VRE_TwoPreviousDryadsMustBeDead>
+
+  <!-- EN: Anima Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCount>ген спорідненості з древом Аніми</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+  <!-- EN: Gauranlen Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>ген спорідненості з древом Гауранлен</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+</LanguageData>

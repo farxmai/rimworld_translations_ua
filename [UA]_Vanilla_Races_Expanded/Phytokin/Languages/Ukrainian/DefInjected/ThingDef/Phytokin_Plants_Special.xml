@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: polux bush -->
+  <VRE_PoluxBush.label>кущ Поллукса</VRE_PoluxBush.label>
+  <!-- EN: A bush that has evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux bushes do not create toxic wastepacks. -->
+  <VRE_PoluxBush.description>Кущ, що росте на забруднених ґрунтах і протягом багатьох поколінь виробив механізми переробки забруднюючих речовин. Його велика коренева система повільно очищає від токсинів землю навколо себе, але тільки коли над нею немає жодних споруд. На відміну від інших методів очищення забрудненого ґрунту, використання куща Поллукса не залишає мішків з відходами.</VRE_PoluxBush.description>
+</LanguageData>

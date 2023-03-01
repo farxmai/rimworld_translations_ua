@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: photosynthesis -->
+  <VRE_Photosynthesis.label>фотосинтез</VRE_Photosynthesis.label>
+  <!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
+  <VRE_Photosynthesis.description>Носії цього гена здатні перетворювати енергію світла на хімічну енергію завдяки особливій генетичній структурі їхньої шкіри. Їхній ступінь голоду не змінюється, поки вони знаходяться під сонячним промінням.</VRE_Photosynthesis.description>
+
+
+  <!-- EN: saplingbirth -->
+  <VRE_SaplingBirth.label>брунькування</VRE_SaplingBirth.label>
+  <!-- EN: Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it. -->
+  <VRE_SaplingBirth.description>Носії цього гена вирощують свою дитину поза утробою у вигляді саджанця-нащадка. З саджанця, що повністю виріс, можна витягти дитину.</VRE_SaplingBirth.description>
+  <!-- EN: 
+	Plants saplingchild instead of pregnancy and live birth.
+	
+	Planting a saplingchild makes the pawn temporarily infertile.
+  -->
+  <VRE_SaplingBirth.customEffectDescriptions.0>Посадка саджанця-нащадка замість вагітності та живородження.</VRE_SaplingBirth.customEffectDescriptions.0>
+  <VRE_SaplingBirth.customEffectDescriptions.1>Посадка саджанця-нащадка робить персонажа тимчасово безплідним.</VRE_SaplingBirth.customEffectDescriptions.1>
+
+
+  <!-- EN: polux affinity -->
+  <VRE_PoluxAffinity.label>спорідненість із деревом Поллукса</VRE_PoluxAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger. -->
+  <VRE_PoluxAffinity.description>Носії цього гена мають особливий зв'язок із деревом Поллукса, що дозволяє їм посилювати його властивості. Щороку вони можуть садити кущ Поллукса, який поступово зростатиме і, у присутності носіїв гена, посилювати свій ефект очищення забрудненого грунту. Крім цього, носії гена поглинають мішки з токсичними відходами та стають незадоволеними, якщо не можуть цього зробити. Поглинання відходів не втамовує голоду.</VRE_PoluxAffinity.description>
+  <!-- EN: 
+	All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map.
+  -->
+  <VRE_PoluxAffinity.customEffectDescriptions.0>Усі кущі Поллукса одержують +2 до радіусу дії за кожного персонажа з геном спорідненості з деревом Поллукса на карті.</VRE_PoluxAffinity.customEffectDescriptions.0>
+  <!-- EN: wastepacks -->
+  <VRE_PoluxAffinity.resourceLabel>відходи</VRE_PoluxAffinity.resourceLabel>
+  <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
+  <VRE_PoluxAffinity.resourceDescription>{PAWN_nameDef} має потребу поглинати відходи</VRE_PoluxAffinity.resourceDescription>
+</LanguageData>

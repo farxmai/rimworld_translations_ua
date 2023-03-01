@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sowed a plant -->
+  <VRE_GreenThumbHappy.stages.0.label>посаджено рослину</VRE_GreenThumbHappy.stages.0.label>
+  <!-- EN: What the world needs is more plants! -->
+  <VRE_GreenThumbHappy.stages.0.description>Цьому світу потрібно більше рослин!</VRE_GreenThumbHappy.stages.0.description>
+
+  <!-- EN: need wastepacks -->
+  <VRE_WastepacksNeed.stages.0.label>потрібні відходи</VRE_WastepacksNeed.stages.0.label>
+  <!-- EN: I have a need to consume and metabolize waste. It’s my purpose. -->
+  <VRE_WastepacksNeed.stages.0.description>Мені необхідно їсти та перетравлювати відходи. Це моє призначення.</VRE_WastepacksNeed.stages.0.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: sapling fatigue -->
+  <VRE_TempSterile.label>втома брунькування</VRE_TempSterile.label>
+  <!-- EN: After being ready to create a sapligchild, the person with the saplingbirth gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects. -->
+  <VRE_TempSterile.description>Після створення саджанця-нащадка, у персонажа настає короткочасний період безплідності до тих пір, поки тіло не буде готове зробити ще один саджанець. Це лише тимчасовий стан і він не викличе жодних довгострокових наслідків.</VRE_TempSterile.description>
+</LanguageData>

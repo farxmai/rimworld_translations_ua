@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: anima song -->
+  <VRE_AnimaSong.label>пісня душі</VRE_AnimaSong.label>
+  <!-- EN: Target an Anima tree to cause it to sing a beautiful psychic orchestra. Instantly triggers a psychic soothe, but can only be cast once a quadrum. -->
+  <VRE_AnimaSong.description>Виберіть дерево Аніми, щоб змусити його виконати чудову психічну пісню. Миттєво викликає заспокоєння, але може бути використане лише один раз за квартал.</VRE_AnimaSong.description>
+</LanguageData>

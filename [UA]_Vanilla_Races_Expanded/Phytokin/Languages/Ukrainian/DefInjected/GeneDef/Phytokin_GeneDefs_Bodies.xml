@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: barkskin -->
+  <VRE_BarkSkin.label>дубова шкіра</VRE_BarkSkin.label>
+  <!-- EN: barkskinned -->
+  <VRE_BarkSkin.labelShortAdj>дубошкірний</VRE_BarkSkin.labelShortAdj>
+  <!-- EN: Carriers of this gene have their skin resembling tree bark. This allows them to withstand blunt trauma that would normally knock people unconscious. -->
+  <VRE_BarkSkin.description>Носії цього гена мають схожу на кору шкіру. Вона дозволяє їм витримувати удари, що дроблять, які зазвичай позбавляють свідомості.</VRE_BarkSkin.description>
+</LanguageData>

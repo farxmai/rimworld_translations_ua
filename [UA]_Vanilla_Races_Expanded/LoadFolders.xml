@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li IfModActive="ludeon.rimworld.biotech">Common</li>
+    <li IfModActive="VanillaRacesExpanded.Hussar">Hussar</li>
+    <li IfModActive="VanillaRacesExpanded.Saurid">Saurid</li>
+    <li IfModActive="VanillaRacesExpanded.Genie">Genie</li>
+    <li IfModActive="VanillaRacesExpanded.Phytokin">Phytokin</li>
+  </v1.4>
+</loadFolders>

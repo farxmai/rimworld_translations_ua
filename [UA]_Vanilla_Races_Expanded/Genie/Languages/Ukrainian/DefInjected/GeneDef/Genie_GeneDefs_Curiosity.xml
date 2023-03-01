@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: shooting curiosity -->
+  <VRE_Curiosity_Shooting.label>потяг до стрільби</VRE_Curiosity_Shooting.label>
+  <!-- EN: The carrier has a natural curiosity for Shooting which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Shooting completely. -->
+  <VRE_Curiosity_Shooting.description>Носій даного гена має природну тягу до стрільби. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Shooting.description>
+
+  <!-- EN: melee curiosity -->
+  <VRE_Curiosity_Melee.label>потяг до бою</VRE_Curiosity_Melee.label>
+  <!-- EN: The carrier has a natural curiosity for Melee which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Melee completely. -->
+  <VRE_Curiosity_Melee.description>Носій даного гена має природний потяг до ближнього бою. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Melee.description>
+
+  <!-- EN: construction curiosity -->
+  <VRE_Curiosity_Construction.label>потяг до будівництва</VRE_Curiosity_Construction.label>
+  <!-- EN: The carrier has a natural curiosity for Construction which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Construction completely. -->
+  <VRE_Curiosity_Construction.description>Носій даного гена має природний потяг до будівництва. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Construction.description>
+
+  <!-- EN: mining curiosity -->
+  <VRE_Curiosity_Mining.label>потяг до шахтарства</VRE_Curiosity_Mining.label>
+  <!-- EN: The carrier has a natural curiosity for Mining which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Mining completely. -->
+  <VRE_Curiosity_Mining.description>Носій даного гена має природний потяг до шахтарства. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Mining.description>
+
+  <!-- EN: cooking curiosity -->
+  <VRE_Curiosity_Cooking.label>потяг до кулінарії</VRE_Curiosity_Cooking.label>
+  <!-- EN: The carrier has a natural curiosity for Cooking which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Cooking completely. -->
+  <VRE_Curiosity_Cooking.description>Носій даного гена має природний потяг до кулінарії. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Cooking.description>
+
+  <!-- EN: plants curiosity -->
+  <VRE_Curiosity_Plants.label>потяг до рослинництва</VRE_Curiosity_Plants.label>
+  <!-- EN: The carrier has a natural curiosity for Plants which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Plants completely. -->
+  <VRE_Curiosity_Plants.description>Носій даного гена має природний потяг до рослинництва. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Plants.description>
+
+  <!-- EN: animals curiosity -->
+  <VRE_Curiosity_Animals.label>потяг до тваринництва</VRE_Curiosity_Animals.label>
+  <!-- EN: The carrier has a natural curiosity for Animals which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Animals completely. -->
+  <VRE_Curiosity_Animals.description>Носій даного гена має природний потяг до тваринництва. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Animals.description>
+
+  <!-- EN: crafting curiosity -->
+  <VRE_Curiosity_Crafting.label>потяг до ремесла</VRE_Curiosity_Crafting.label>
+  <!-- EN: The carrier has a natural curiosity for Crafting which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Crafting completely. -->
+  <VRE_Curiosity_Crafting.description>Носій даного гена має природний потяг до ремесла. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Crafting.description>
+
+  <!-- EN: artistic curiosity -->
+  <VRE_Curiosity_Artistic.label>потяг до мистецтва</VRE_Curiosity_Artistic.label>
+  <!-- EN: The carrier has a natural curiosity for Artistic which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Artistic completely. -->
+  <VRE_Curiosity_Artistic.description>Носій даного гена має природний потяг до мистецтва. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Artistic.description>
+
+  <!-- EN: medicine curiosity -->
+  <VRE_Curiosity_Medicine.label>потяг до медицини</VRE_Curiosity_Medicine.label>
+  <!-- EN: The carrier has a natural curiosity for Medicine which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Medical completely. -->
+  <VRE_Curiosity_Medicine.description>Носій даного гена має природний потяг до медицини. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Medicine.description>
+
+  <!-- EN: social curiosity -->
+  <VRE_Curiosity_Social.label>потяг до спілкування</VRE_Curiosity_Social.label>
+  <!-- EN: The carrier has a natural curiosity for Social which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Social completely. -->
+  <VRE_Curiosity_Social.description>Носій даного гена має природний потяг до спілкування. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Social.description>
+
+  <!-- EN: intellectual curiosity -->
+  <VRE_Curiosity_Intellectual.label>потяг до досліджень</VRE_Curiosity_Intellectual.label>
+  <!-- EN: The carrier has a natural curiosity for Intellectual which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Intellectual completely. -->
+  <VRE_Curiosity_Intellectual.description>Носій даного гена має природний потяг до досліджень. Це не тільки приносить задоволення від процесу навчання даній навичці, а й запобігає втраті досвіду в цьому.</VRE_Curiosity_Intellectual.description>
+</LanguageData>

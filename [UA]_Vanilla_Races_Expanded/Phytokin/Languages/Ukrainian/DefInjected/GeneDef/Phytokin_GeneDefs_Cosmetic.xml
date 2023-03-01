@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: foliage hair -->
+  <VRE_FoliageHair.label>листяне волосся</VRE_FoliageHair.label>
+  <!-- EN: Carriers of this gene have natural-looking, leafy hair. -->
+  <VRE_FoliageHair.description>Носії цього гена мають природне листяне волосся.</VRE_FoliageHair.description>
+
+  <!-- EN: anima hair -->
+  <VRE_HairColor_Anima.label>волосся Аніма</VRE_HairColor_Anima.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <VRE_HairColor_Anima.description>Носії цього гена мають певний колір волосся. За наявності кількох генів, які відповідають за колір волосся, випадково вибирається один із них.</VRE_HairColor_Anima.description>
+
+  <!-- EN: gauranlen hair -->
+  <VRE_HairColor_Gauranlen.label>волосся Гауранлен</VRE_HairColor_Gauranlen.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <VRE_HairColor_Gauranlen.description>Носії цього гена мають певний колір волосся. За наявності кількох генів, які відповідають за колір волосся, випадково вибирається один із них.</VRE_HairColor_Gauranlen.description>
+
+  <!-- EN: pollux hair -->
+  <VRE_HairColor_Pollux.label>волосся Поллукса</VRE_HairColor_Pollux.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <VRE_HairColor_Pollux.description>Носії цього гена мають певний колір волосся. За наявності кількох генів, які відповідають за колір волосся, випадково вибирається один із них.</VRE_HairColor_Pollux.description>
+</LanguageData>

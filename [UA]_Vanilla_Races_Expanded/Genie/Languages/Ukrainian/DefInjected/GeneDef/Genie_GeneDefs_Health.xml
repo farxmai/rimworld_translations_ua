@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: very slow wound healing -->
+  <VRE_WoundHealing_VerySlow.label>загоєння ран (надповільне)</VRE_WoundHealing_VerySlow.label>
+  <!-- EN: Carriers of this gene take a very long time to heal from even the most basic wounds. -->
+  <VRE_WoundHealing_VerySlow.description>Носіям цього гена потрібно дуже багато часу, щоб вилікуватися навіть від незначних ран.</VRE_WoundHealing_VerySlow.description>
+
+  <!-- EN: no immunity -->
+  <VRE_Immunity_VeryWeak.label>імунітет (відсутній)</VRE_Immunity_VeryWeak.label>
+  <!-- EN: Carriers of this gene lack any sort of immune system, and will gain almost no immunity to any diseases or infections through natural ways. They will die from even the smallest infection or disease. -->
+  <VRE_Immunity_VeryWeak.description>У носіїв цього гена повністю відсутня імунна система, тому вони практично не можуть виробити імунітет до хвороб чи інфекцій природним способом. Вони помруть навіть від найлегшого зараження чи хвороби.</VRE_Immunity_VeryWeak.description>
+
+  <!-- EN: slow diseases -->
+  <VRE_Slow_Diseases.label>уповільнення хвороб</VRE_Slow_Diseases.label>
+  <!-- EN: Carriers of this gene create special anti-bodies in their blood that slow down progress of any infection and disease, giving them more time to obtain medical care. -->
+  <VRE_Slow_Diseases.description>Носії цього гена створюють у своїй крові спеціальні антитіла, які уповільнюють прогрес будь-якого зараження чи хвороби, даючи їм більше часу на отримання медичної допомоги.</VRE_Slow_Diseases.description>
+</LanguageData>

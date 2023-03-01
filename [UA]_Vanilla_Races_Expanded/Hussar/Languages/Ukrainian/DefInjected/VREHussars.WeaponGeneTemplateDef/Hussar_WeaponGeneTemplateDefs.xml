@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: aptitude for {0} -->
+  <VREHT_WeaponAptitude.label>{0} (здібність)</VREHT_WeaponAptitude.label>
+  <!-- EN: The carrier's aptitude in {0} is greatly increased. Aptitude acts like an offset on hit chance and accuracy when the weapon is equipped. -->
+  <VREHT_WeaponAptitude.description>Вміння поводитися з {lookup: {0}; Case; 4} у носія цього гена дуже високо від природи. Воно виявляється у підвищенні шансу потрапити в ціль із цієї зброї.</VREHT_WeaponAptitude.description>
+</LanguageData>

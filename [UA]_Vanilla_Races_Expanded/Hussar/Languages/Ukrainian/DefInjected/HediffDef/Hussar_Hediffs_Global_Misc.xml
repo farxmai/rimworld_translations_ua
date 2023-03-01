@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: glidewings -->
+  <VREH_Glidewings.label>легкі крила</VREH_Glidewings.label>
+  <!-- EN: A small set of wings growing from this person's shoulderblades. They are not capable of flight, but they will not be slowed down by any obstacles. -->
+  <VREH_Glidewings.description>Невеликі крила, що ростуть із лопаток. Вони надто слабкі для польоту, але дозволяють долати перешкоди без уповільнення.</VREH_Glidewings.description>
+
+  <!-- EN: chemical dependency -->
+  <VREH_GeneticDrugNeed_Luci.label>залежність від люциферія</VREH_GeneticDrugNeed_Luci.label>
+  <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
+  <VREH_GeneticDrugNeed_Luci.description>Цей персонаж має генетичну залежність від певного наркотику. Без його регулярного прийому, тіло персонажа почне відмовляти, а стан здоров'я та настрої погіршуватись аж до смерті.\n\nВік, з якого ефект почне виявлятися: 13.</VREH_GeneticDrugNeed_Luci.description>
+  <!-- EN: deficiency -->
+  <VREH_GeneticDrugNeed_Luci.stages.1.label>залежність</VREH_GeneticDrugNeed_Luci.stages.1.label>
+  <!-- EN: deficiency coma -->
+  <VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>кома</VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>
+</LanguageData>

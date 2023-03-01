@@ -1104,8 +1104,8 @@
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Knives</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Tool_Whip</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Rocks</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Sling</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Shards</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Sling</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Throwing_Shards</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_ThrowingAxe</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_Harpoon</li>
           </disallowedThingDefs>
@@ -1331,8 +1331,8 @@
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Knives</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Tool_Whip</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Rocks</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Sling</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Shards</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Sling</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Throwing_Shards</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_ThrowingAxe</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_Harpoon</li>
           </thingDefs>
@@ -1355,8 +1355,8 @@
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Knives</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Tool_Whip</li>
             <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Rocks</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Sling</li>
-            <li MayRequire="VanillaExpanded.VWE">VWE_Throwing_Shards</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Sling</li>
+            <li MayRequire="VanillaExpanded.VWETB">VWE_Throwing_Shards</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_ThrowingAxe</li>
             <li MayRequire="OskarPotocki.VFE.Vikings">VFE_Harpoon</li>
           </thingDefs>

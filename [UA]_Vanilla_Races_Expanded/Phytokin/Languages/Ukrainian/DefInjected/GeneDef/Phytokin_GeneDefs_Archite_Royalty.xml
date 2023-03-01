@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: anima affinity -->
+  <VRE_AnimaAffinity.label>спорідненість із деревом Аніми</VRE_AnimaAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the anima tree, allowing them to act as an amplifier to the special properties of the tree. They can encourage anima trees to sing, giving everyone in large radius a psychic soothe, as well as help with connection and meditation to it. -->
+  <VRE_AnimaAffinity.description>Носії цього гена мають особливий зв'язок із древом Аніми, що дозволяє їм посилювати його властивості. Вони можуть стимулювати співи древ душі, даючи всім присутнім на великому радіусі умиротворення, а також допомагати зі встановленням зв'язку та медитацією.</VRE_AnimaAffinity.description>
+
+  <!-- EN: 
+	Guarantees Natural Meditation focus on the pawn.
+	
+	Pawns with this gene included in the anima tree linking ritual increase its success by 10% each, stacking up to 5 times.
+  -->
+  <VRE_AnimaAffinity.customEffectDescriptions.0>Гарантований вид медитації «природа».</VRE_AnimaAffinity.customEffectDescriptions.0>
+  <VRE_AnimaAffinity.customEffectDescriptions.1>Кожен носій гена збільшує можливість успіху ритуалу зв'язування з деревом Аніми на 10%. Стакається до 5 разів.</VRE_AnimaAffinity.customEffectDescriptions.1>
+</LanguageData>

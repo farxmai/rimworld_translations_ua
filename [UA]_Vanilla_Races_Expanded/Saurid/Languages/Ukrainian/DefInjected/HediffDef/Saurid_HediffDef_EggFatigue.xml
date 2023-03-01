@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: egg fatigue -->
+  <VRESaurids_EggFatigue.label>відновлення тіла</VRESaurids_EggFatigue.label>
+  <!-- EN: After laying an egg, it is common with those with the oviparous gene to go through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects. -->
+  <VRESaurids_EggFatigue.description>Після того, як яйцекладна істота відкладає яйце, у нього настає короткочасний період безпліддя доти, доки тіло не буде готове зробити ще одне яйце. Це лише тимчасовий стан і він не викличе жодних довгострокових наслідків.</VRESaurids_EggFatigue.description>
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: {0} screeches something only saurids could understand into the microphone and disconnects. -->
+  <VRESaurids_FactionGreetingHostile>{0} вигукує у мікрофон якісь тваринні звуки, зрозумілі лише завридам і відключається.</VRESaurids_FactionGreetingHostile>
+  <!-- EN: Hissing and screeching angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nHissing an insult, {0_pronoun} disconnects. -->
+  <VRESaurids_FactionGreetingHostileAppreciative>{0} зло шипить і гарчить, вимагає вас зробити жест «єдності», наприклад, принести подарунок якомусь їхньому поселенню або відпустити неушкодженим полоненого з фракції.\n\nДо того часу {0_pronoun} не бажає з вами розмовляти.</VRESaurids_FactionGreetingHostileAppreciative>
+  <!-- EN: {0} hisses a greeting and asks what business you need done. -->
+  <VRESaurids_FactionGreetingWary>{0} вітально шипить і питає, з чим ви прийшли.</VRESaurids_FactionGreetingWary>
+  <!-- EN: Barks out enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
+  <VRESaurids_FactionGreetingWarm>Радісно вигукуючи грубі тварини звуки, {0} тепло вітає {NEGOTIATOR_labelShort} і запитує, чим може допомогти {LEADER_pronoun}.</VRESaurids_FactionGreetingWarm>
+  <!-- EN: {0} agrees to send saurid fighters to help you. -->
+  <VRESaurids_MilitaryAidSent>{0} погоджується відправити бійців-завридів вам на допомогу.</VRESaurids_MilitaryAidSent>
+
+  <!-- EN: {0} laid an egg! -->
+  <VRESaurids.EggLaidLabel>{0} відкладає яйце!</VRESaurids.EggLaidLabel>
+  <!-- EN: {0} has laid an egg due to being oviparous. Make sure to keep the egg in a safe environment, under the roof and between 0°C - 50°C. After some time the egg will hatch into a child. {0} will be unable to lay another egg until their body recovers from this process. -->
+  <VRESaurids.EggLaidDesc>{0} відкладає яйце, тому що є яйцекладним. Переконайтеся, що яйце буде в безпеці: під дахом та при температурі 0°C - 50°C. Через деякий час з яйця вилупиться дитина. {0} не зможе відкласти ще одне яйце, доки тіло не відновиться.</VRESaurids.EggLaidDesc>
+  <!-- EN: {0}'s egg hatched! -->
+  <VRESaurids.EggHatchedLabel>Дитина вилупилася з яйця {0}!</VRESaurids.EggHatchedLabel>
+  <!-- EN: {0}'s egg has hatched successfully, adding a new baby to the colony! Remember to take care of them and ensure they grow up healthy. -->
+  <VRESaurids.EggHatchedDesc>Яйце {0} дозріло і дало нову дитину поселенню! Пам'ятайте: щоб діти росли здоровими, про них треба дбати.</VRESaurids.EggHatchedDesc>
+  <!-- EN: oviparous -->
+  <VRESaurids.CannotOviparous>яйцекладний</VRESaurids.CannotOviparous>
+  <!-- EN: Cold-blooded Danger! -->
+  <VRESaurids.ColdBloodedDanger>Холоднокровні у небезпеці!</VRESaurids.ColdBloodedDanger>
+  <!-- EN: Cold-blooded pawns will fall to extreme temperatures much easier and faster than others, these pawns are currently at risk -->
+  <VRESaurids.ColdBloodedDangerExplanation>Тіла холоднокровних персонажів легше і раніше теплокровних починають страждати від екстремальних температур. У зоні ризику зараз перебувають</VRESaurids.ColdBloodedDangerExplanation>
+</LanguageData>

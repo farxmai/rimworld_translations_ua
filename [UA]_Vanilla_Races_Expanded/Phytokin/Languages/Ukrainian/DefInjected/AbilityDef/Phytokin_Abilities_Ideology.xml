@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: summon companion dryads -->
+  <VRE_SummonCompanionDryads.label>заклик дріад-компаньйонів</VRE_SummonCompanionDryads.label>
+  <!-- EN: Summons two companion dryads under the control of the caster. These dryads are permanent colony animals, and can haul, clean, caravan, and be drafted. Two new dryads can be summoned if the previous ones are killed. -->
+  <VRE_SummonCompanionDryads.description>Закликати двох дріад-компаньйонів під свій контроль. Вони будуть вважатися тваринами поселення і зможуть переносити речі, забиратися, ставати частиною каравану та боротися. Двох нових дріад можна покликати лише після смерті попередніх.</VRE_SummonCompanionDryads.description>
+</LanguageData>
