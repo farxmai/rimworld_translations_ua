@@ -11,5 +11,6 @@
     <li IfModActive="Orion.Gastronomy">Gastronomy</li>
     <li IfModActive="Orion.CashRegister">CashRegister</li>
     <li IfModActive="Orion.Therapy">Therapy</li>
+    <li IfModActive="Adamas.HospitalityCasino">Casino</li>
   </v1.4>
 </loadFolders>

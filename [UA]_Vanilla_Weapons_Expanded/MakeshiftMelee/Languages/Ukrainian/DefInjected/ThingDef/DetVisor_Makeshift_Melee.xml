@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Makeshift Hammer -->
+  <DV_MakeshiftHammer.label>кустарний молот</DV_MakeshiftHammer.label>
+  <!-- EN: A small, improvised hammer, built out of an ancient car piston and old parts, the uneven weight makes it unreliable for damage. -->
+  <DV_MakeshiftHammer.description>Маленький саморобний молоток, виготовлений із поршня старовинного автомобіля та старих деталей, нерівна вага робить його ненадійним.</DV_MakeshiftHammer.description>
+  <!-- EN: handle -->
+  <DV_MakeshiftHammer.tools.handle.label>рукоятка</DV_MakeshiftHammer.tools.handle.label>
+  <!-- EN: head -->
+  <DV_MakeshiftHammer.tools.head-0.label>обух</DV_MakeshiftHammer.tools.head-0.label>
+  <!-- EN: head -->
+  <DV_MakeshiftHammer.tools.head-1.label>обух</DV_MakeshiftHammer.tools.head-1.label>
+  <!-- EN: head -->
+  <DV_MakeshiftHammer.tools.head-2.label>обух</DV_MakeshiftHammer.tools.head-2.label>
+  <!-- EN: head -->
+  <DV_MakeshiftHammer.tools.head-3.label>обух</DV_MakeshiftHammer.tools.head-3.label>
+
+  <!-- EN: Makeshift Mace -->
+  <DV_MakeshiftMace.label>кустарна булава</DV_MakeshiftMace.label>
+  <!-- EN: A heavy, improvised mace, which consists of a chunk of concrete joined to a metal rod for swinging, the uneven weight makes it unreliable for damage. -->
+  <DV_MakeshiftMace.description>Важка імпровізована булава, яка складається з шматка бетону, з’єднаного з металевим стрижнем для розгойдування, нерівна вага робить її ненадійною.</DV_MakeshiftMace.description>
+  <!-- EN: handle -->
+  <DV_MakeshiftMace.tools.handle.label>рукоятка</DV_MakeshiftMace.tools.handle.label>
+  <!-- EN: head -->
+  <DV_MakeshiftMace.tools.head-0.label>ударна частина</DV_MakeshiftMace.tools.head-0.label>
+  <!-- EN: head -->
+  <DV_MakeshiftMace.tools.head-1.label>ударна частина</DV_MakeshiftMace.tools.head-1.label>
+  <!-- EN: head -->
+  <DV_MakeshiftMace.tools.head-2.label>ударна частина</DV_MakeshiftMace.tools.head-2.label>
+  <!-- EN: head -->
+  <DV_MakeshiftMace.tools.head-3.label>ударна частина</DV_MakeshiftMace.tools.head-3.label>
+
+  <!-- EN: Makeshift Scythe -->
+  <DV_MakeshiftScythe.label>кустарна коса</DV_MakeshiftScythe.label>
+  <!-- EN: An improvised scythe, made out of sloppily welded pipes holding a tough steel blade, the uneven weight makes it unreliable for damage. -->
+  <DV_MakeshiftScythe.description>Імпровізована коса, зроблена з недбало зварених труб, що тримають міцне сталеве лезо, нерівна вага робить її ненадійною.</DV_MakeshiftScythe.description>
+  <!-- EN: handle -->
+  <DV_MakeshiftScythe.tools.handle.label>рукоятка</DV_MakeshiftScythe.tools.handle.label>
+  <!-- EN: edge -->
+  <DV_MakeshiftScythe.tools.edge-0.label>лезо</DV_MakeshiftScythe.tools.edge-0.label>
+  <!-- EN: edge -->
+  <DV_MakeshiftScythe.tools.edge-1.label>лезо</DV_MakeshiftScythe.tools.edge-1.label>
+  <!-- EN: edge -->
+  <DV_MakeshiftScythe.tools.edge-2.label>лезо</DV_MakeshiftScythe.tools.edge-2.label>
+  <!-- EN: edge -->
+  <DV_MakeshiftScythe.tools.edge-3.label>лезо</DV_MakeshiftScythe.tools.edge-3.label>
+
+</LanguageData>

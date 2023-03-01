@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_WonSlotMachineGame.stages.0.label>Нарешті пощастило</HC_WonSlotMachineGame.stages.0.label>
+  <HC_WonSlotMachineGame.stages.0.description>Нарешті я виграв у цих автоматах.</HC_WonSlotMachineGame.stages.0.description>
+
+  <HC_WonSlotMachineGameBig.stages.0.label>Джекпот!</HC_WonSlotMachineGameBig.stages.0.label>
+  <HC_WonSlotMachineGameBig.stages.0.description>Трясця твоїй матері, я мільонер!</HC_WonSlotMachineGameBig.stages.0.description>
+
+</LanguageData>

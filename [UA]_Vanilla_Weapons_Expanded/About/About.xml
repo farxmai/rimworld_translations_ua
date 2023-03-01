@@ -10,6 +10,7 @@
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2867799915</url>
   <description>Переклад українською мовою Vanilla Weapons Expanded та всіх доповнень (наявність доповнень не є обов'язковою).</description>
   <loadAfter>
+    <li>VanillaExpanded.Achievements</li>
     <li>VanillaExpanded.VWE</li>
     <li>VanillaExpanded.VWEQ</li>
     <li>VanillaExpanded.VWEL</li>
@@ -22,8 +23,8 @@
     <li>VanillaExpanded.VWETB</li>
     <li>VanillaExpanded.VPersonaWeaponsE</li>
     <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
-    <li>vanillaexpanded.achievements</li>
     <li>legodude17.heavyweaponsreloading</li>
     <li>legodude17.rocketreloading</li>
+    <li>DetVisor.Makeshiftweapons</li>
   </loadAfter>
 </ModMetaData>

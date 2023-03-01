@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_SlotMachineRed.label>автомат "Однорукий бандит"</HC_SlotMachineRed.label>
+  <HC_SlotMachineRed.description>Ігровий автомат з важелем для запуску гри, зазвичай мають три барабани і від однієї до п'яти ігрових ліній. Існують і автомати з кнопковим пуском, нині не такі популярні.\n\nОбмеження виграшу: х10</HC_SlotMachineRed.description>
+
+  <HC_SlotMachineGreen.label>автомат "Космолот"</HC_SlotMachineGreen.label>
+  <HC_SlotMachineGreen.description>Сучасна модель ігрового автомата, яка за час роботи створила кілька десятків мільйонерів!\n\nОбмеження виграшу: х100</HC_SlotMachineGreen.description>
+
+  <HC_SlotMachineBlue.label>автомат "Джой-казіно"</HC_SlotMachineBlue.label>
+  <HC_SlotMachineBlue.description>Гравці зазвичай звертають увагу на привабливі пропозиції, такі як безкоштовні спіни, бонуси на перший депозит, великі джекпоти та інші...\n\nОбмеження виграшу: відсутнє</HC_SlotMachineBlue.description>
+
+</LanguageData>

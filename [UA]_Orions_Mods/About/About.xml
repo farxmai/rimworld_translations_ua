@@ -14,11 +14,13 @@
     Gastronomy
     Cach Register
     Therapy
+    Casino
   </description>
   <loadAfter>
     <li>Orion.Hospitality</li>
     <li>Orion.Gastronomy</li>
     <li>Orion.CashRegister</li>
     <li>Orion.Therapy</li>
+    <li>Adamas.HospitalityCasino</li>
   </loadAfter>
 </ModMetaData>

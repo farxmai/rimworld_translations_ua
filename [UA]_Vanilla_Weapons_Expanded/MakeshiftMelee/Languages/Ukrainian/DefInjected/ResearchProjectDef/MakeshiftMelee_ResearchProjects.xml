@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: makeshift weapons -->
+  <VWE_MakeshiftWeapons.label>кустарна зброя</VWE_MakeshiftWeapons.label>
+  <!-- EN: Assemble very crude makeshift weapons, prone to jamming and very unreliable. -->
+  <VWE_MakeshiftWeapons.description>Створюйте грубу зброю у кустарних умовах. Воно дуже ненадійне і дасть клин у невідповідний момент.</VWE_MakeshiftWeapons.description>
+
+</LanguageData>

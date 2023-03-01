@@ -16,6 +16,7 @@
     <li IfModActive="legodude17.heavyweaponsreloading">LRP</li>
     <li IfModActive="legodude17.rocketreloading">LRR</li>
     <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Persona</li>
+    <li IfModActive="DetVisor.Makeshiftweapons">MakeshiftMelee</li>
   </v1.3>
   <v1.4>
     <li>Common</li>
@@ -33,5 +34,6 @@
     <li IfModActive="legodude17.heavyweaponsreloading">LRP</li>
     <li IfModActive="legodude17.rocketreloading">LRR</li>
     <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Persona</li>
+    <li IfModActive="DetVisor.Makeshiftweapons">MakeshiftMelee</li>
   </v1.4>
 </loadFolders>
