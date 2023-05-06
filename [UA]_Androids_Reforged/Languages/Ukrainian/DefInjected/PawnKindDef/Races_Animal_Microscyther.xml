@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MicroScyther.label>Microscyther</ATR_MicroScyther.label>
+  <ATR_MicroScyther.labelPlural>Microscythers</ATR_MicroScyther.labelPlural>
+  <ATR_MicroScyther.labelMale>male Microscyther</ATR_MicroScyther.labelMale>
+  <ATR_MicroScyther.labelMalePlural>male Microscythers</ATR_MicroScyther.labelMalePlural>
+  <ATR_MicroScyther.labelFemale>female Microscyther</ATR_MicroScyther.labelFemale>
+  <ATR_MicroScyther.labelFemalePlural>female Microscythers</ATR_MicroScyther.labelFemalePlural>
+
+
+  <!--<ATR_MicroScyther.labelMale>male Microscyther</ATR_MicroScyther.labelMale>-->
+  <!--<ATR_MicroScyther.labelMalePlural>male Microscythers</ATR_MicroScyther.labelMalePlural>-->
+  <!--<ATR_MicroScyther.labelFemale>female Microscyther</ATR_MicroScyther.labelFemale>-->
+  <!--<ATR_MicroScyther.labelFemalePlural>female Microscythers</ATR_MicroScyther.labelFemalePlural>-->
+
+</LanguageData>

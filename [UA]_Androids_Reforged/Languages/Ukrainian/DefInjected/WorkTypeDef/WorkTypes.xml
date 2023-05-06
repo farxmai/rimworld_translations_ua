@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Mechanic.label>mechanic</ATR_Mechanic.label>
+  <ATR_Mechanic.description>Repair injured mechanical units, handle operations, and rescue disabled units. Mechanics will care for both colonists and prisoners.</ATR_Mechanic.description>
+  <ATR_Mechanic.labelShort>mechanic</ATR_Mechanic.labelShort>
+  <ATR_Mechanic.pawnLabel>Mechanic</ATR_Mechanic.pawnLabel>
+  <ATR_Mechanic.gerundLabel>repairing</ATR_Mechanic.gerundLabel>
+  <ATR_Mechanic.verb>Repair</ATR_Mechanic.verb>
+
+
+</LanguageData>

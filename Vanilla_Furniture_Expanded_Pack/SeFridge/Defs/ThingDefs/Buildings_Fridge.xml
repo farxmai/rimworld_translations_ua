@@ -25,6 +25,8 @@
     <minifiedDef>MinifiedThing</minifiedDef>
     <building>
       <paintable>true</paintable>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
       <fixedStorageSettings Inherit="false">
         <filter>
           <categories>

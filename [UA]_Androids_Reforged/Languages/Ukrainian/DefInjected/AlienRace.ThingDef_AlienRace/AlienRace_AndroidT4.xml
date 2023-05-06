@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier4Android.label>T4 Android</ATR_Tier4Android.label>
+  <ATR_Tier4Android.description>The pinnacle of known android theory and practice, the class of tier four androids is marked by the possession of a special AI persona core. While these cores are ultratech technology, the chassis and internals are all high spacer technology. \n\nTier four androids are a cut above the rest, and they know it too - ego complexes and disdain toward others are very common amongst them.</ATR_Tier4Android.description>
+  <ATR_Tier4Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_Tier4Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_Tier4Android.tools.0.label>right fist</ATR_Tier4Android.tools.0.label>
+  <ATR_Tier4Android.tools.1.label>left fist</ATR_Tier4Android.tools.1.label>
+  <ATR_Tier4Android.tools.2.label>head</ATR_Tier4Android.tools.2.label>
+
+
+</LanguageData>

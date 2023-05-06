@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneMineralUnit.label>Mineral unit</ATR_DroneMineralUnit.label>
+  <ATR_DroneMineralUnit.labelPlural>Mineral units</ATR_DroneMineralUnit.labelPlural>
+  <ATR_DroneMineralUnit.labelMale>male Mineral unit</ATR_DroneMineralUnit.labelMale>
+  <ATR_DroneMineralUnit.labelMalePlural>male Mineral units</ATR_DroneMineralUnit.labelMalePlural>
+  <ATR_DroneMineralUnit.labelFemale>female Mineral unit</ATR_DroneMineralUnit.labelFemale>
+  <ATR_DroneMineralUnit.labelFemalePlural>female Mineral units</ATR_DroneMineralUnit.labelFemalePlural>
+
+
+  <!--<ATR_DroneMineralUnit.labelMale>male Mineral unit</ATR_DroneMineralUnit.labelMale>-->
+  <!--<ATR_DroneMineralUnit.labelMalePlural>male Mineral units</ATR_DroneMineralUnit.labelMalePlural>-->
+  <!--<ATR_DroneMineralUnit.labelFemale>female Mineral unit</ATR_DroneMineralUnit.labelFemale>-->
+  <!--<ATR_DroneMineralUnit.labelFemalePlural>female Mineral units</ATR_DroneMineralUnit.labelFemalePlural>-->
+
+</LanguageData>

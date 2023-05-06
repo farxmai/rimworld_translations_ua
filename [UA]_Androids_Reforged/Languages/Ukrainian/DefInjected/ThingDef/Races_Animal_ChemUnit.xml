@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneChemUnit.label>Chemical processing unit</ATR_DroneChemUnit.label>
+  <ATR_DroneChemUnit.description>A highly specialized intricate autonomous drone capable of identifying, seeking, and absorbing biological matter for processing into a synthetic chemical precursor to neutroamine or chemfuel. The process's order of operations lent itself well to shaping a machine in the form of a small bird, with the product outputted as a self-stored egg-like capsule. The wings are purely cosmetic.</ATR_DroneChemUnit.description>
+  <ATR_DroneChemUnit.tools.0.label>head</ATR_DroneChemUnit.tools.0.label>
+
+
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!--<ATR_DroneChemUnit_Corpse.label>Chemical processing unit corpse</ATR_DroneChemUnit_Corpse.label>-->
+  <!--<ATR_DroneChemUnit_Corpse.description>Chemical processing unit corpse</ATR_DroneChemUnit_Corpse.description>-->
+
+</LanguageData>

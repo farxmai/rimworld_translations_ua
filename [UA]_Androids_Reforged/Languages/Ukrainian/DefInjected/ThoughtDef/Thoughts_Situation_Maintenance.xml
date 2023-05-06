@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MaintenanceMood.stages.0.label>abysmal maintenance</ATR_MaintenanceMood.stages.0.label>
+  <ATR_MaintenanceMood.stages.0.description>I have not been able to properly maintain my core memory and systems in far too long. My internals are encountering errors, there are critical components forced to run well past their limits, and essential systems are failing. Is this what organics feel when elderly and decrepit?</ATR_MaintenanceMood.stages.0.description>
+  <ATR_MaintenanceMood.stages.1.label>terrible maintenance</ATR_MaintenanceMood.stages.1.label>
+  <ATR_MaintenanceMood.stages.1.description>I have not been able to properly maintain my core memory and systems for a while. There are internal system errors, and my systems are overloaded. It will take a lot of time to fix this.</ATR_MaintenanceMood.stages.1.description>
+  <ATR_MaintenanceMood.stages.2.label>poor maintenance</ATR_MaintenanceMood.stages.2.label>
+  <ATR_MaintenanceMood.stages.2.description>My core memory and systems could use a break for health checks. A full maintenance cycle would feel good right now.</ATR_MaintenanceMood.stages.2.description>
+  <ATR_MaintenanceMood.stages.3.label>standard maintenance</ATR_MaintenanceMood.stages.3.label>
+  <ATR_MaintenanceMood.stages.3.description>All systems are reporting regular operational efficiency, with all errors falling well within standard expectations.</ATR_MaintenanceMood.stages.3.description>
+  <ATR_MaintenanceMood.stages.4.label>decent maintenance</ATR_MaintenanceMood.stages.4.label>
+  <ATR_MaintenanceMood.stages.4.description>My core memory and systems have had sufficient breaks from service for destressing. My systems are running smoothly.</ATR_MaintenanceMood.stages.4.description>
+  <ATR_MaintenanceMood.stages.5.label>excellent maintenance</ATR_MaintenanceMood.stages.5.label>
+  <ATR_MaintenanceMood.stages.5.description>I have had time to do a wide array of internal health checks and efficiency optimizations. My systems are running flawlessly, and all checks have been passed to the highest standards.</ATR_MaintenanceMood.stages.5.description>
+  <ATR_MaintenanceMood.stages.6.label>immaculate maintenance</ATR_MaintenanceMood.stages.6.label>
+  <ATR_MaintenanceMood.stages.6.description>I have had the time to spare for even the most unnecessary health checks and optimizations for predicting issues before they can arise. My systems are running better than the day my core first turned on! This must be the feeling that organic youths have - indestructible and in perfect health!</ATR_MaintenanceMood.stages.6.description>
+
+
+</LanguageData>

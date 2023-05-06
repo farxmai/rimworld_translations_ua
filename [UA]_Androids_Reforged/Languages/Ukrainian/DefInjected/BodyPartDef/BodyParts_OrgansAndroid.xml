@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_InternalCorePump.label>Coolant Pump</ATR_InternalCorePump.label>
+  <ATR_MechanicalHeatsink.label>Left Heatsink</ATR_MechanicalHeatsink.label>
+  <ATR_InternalBattery.label>Battery</ATR_InternalBattery.label>
+  <ATR_MechaniteStorage.label>Mechanite Storage</ATR_MechaniteStorage.label>
+  <ATR_InternalGenerator.label>Generator</ATR_InternalGenerator.label>
+
+
+</LanguageData>

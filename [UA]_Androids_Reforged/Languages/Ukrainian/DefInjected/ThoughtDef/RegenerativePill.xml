@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_RegenOrganic_Thought.stages.0.label>Insignificant</ATR_RegenOrganic_Thought.stages.0.label>
+  <ATR_RegenOrganic_Thought.stages.0.description>The strangeness has faded. I'm alright.</ATR_RegenOrganic_Thought.stages.0.description>
+  <ATR_RegenOrganic_Thought.stages.1.label>Regeneration (Minor)</ATR_RegenOrganic_Thought.stages.1.label>
+  <ATR_RegenOrganic_Thought.stages.1.description>I have a creeping sensation that something doesn't feel right, but I am in control.</ATR_RegenOrganic_Thought.stages.1.description>
+  <ATR_RegenOrganic_Thought.stages.2.label>Regeneration (Moderate)</ATR_RegenOrganic_Thought.stages.2.label>
+  <ATR_RegenOrganic_Thought.stages.2.description>I feel extremely uncomfortable and strange. My body is sending my all sorts of warning signs.</ATR_RegenOrganic_Thought.stages.2.description>
+  <ATR_RegenOrganic_Thought.stages.3.label>Regeneration (Significant)</ATR_RegenOrganic_Thought.stages.3.label>
+  <ATR_RegenOrganic_Thought.stages.3.description>My whole body feels really wrong and weird - like my flesh is crawling.</ATR_RegenOrganic_Thought.stages.3.description>
+  <ATR_RegenOrganic_Thought.stages.4.label>Regeneration (Peak)</ATR_RegenOrganic_Thought.stages.4.label>
+  <ATR_RegenOrganic_Thought.stages.4.description>My body squirms, twists, burns, and twitches without my control! It feels like my body has a mind of its own!</ATR_RegenOrganic_Thought.stages.4.description>
+
+
+</LanguageData>

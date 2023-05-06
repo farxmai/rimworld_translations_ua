@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Українська мова для Android Tiers Reforged [UA]</name>
+	<author>Farxmai2</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<!-- <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2888397564</url> -->
+	<packageId>Farxmai2.AndroidTiersReforged.UA</packageId>
+	<description>Переклад українською мовою Android Tiers Reforged</description>
+
+	<loadAfter>
+		<li>killathon.androidtiersreforged</li>
+		<li>mlie.androidtierstxseries</li>
+	</loadAfter>
+</ModMetaData>

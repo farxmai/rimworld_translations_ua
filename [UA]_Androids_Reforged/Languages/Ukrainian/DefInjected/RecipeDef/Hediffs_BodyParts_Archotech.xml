@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cybertech Arm -->
+
+  <ATR_Install_CybertechArm.label>Install Cybertech arm</ATR_Install_CybertechArm.label>
+  <ATR_Install_CybertechArm.description>Installs an Cybertech arm.</ATR_Install_CybertechArm.description>
+  <ATR_Install_CybertechArm.jobString>Installing Cybertech arm.</ATR_Install_CybertechArm.jobString>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_Install_CybertechLeg.label>Install Cybertech leg</ATR_Install_CybertechLeg.label>
+  <ATR_Install_CybertechLeg.description>Installs an Cybertech leg.</ATR_Install_CybertechLeg.description>
+  <ATR_Install_CybertechLeg.jobString>Installing Cybertech leg.</ATR_Install_CybertechLeg.jobString>
+
+
+  <!-- Cybertech Visual Sensor -->
+
+  <ATR_Install_CybertechVisualSensor.label>Install Cybertech visual sensor</ATR_Install_CybertechVisualSensor.label>
+  <ATR_Install_CybertechVisualSensor.description>Installs an Cybertech visual sensor.</ATR_Install_CybertechVisualSensor.description>
+  <ATR_Install_CybertechVisualSensor.jobString>Installing Cybertech visual sensor.</ATR_Install_CybertechVisualSensor.jobString>
+
+
+  <!-- Cybertech Audio Sensor -->
+
+  <ATR_Install_CybertechAudioSensor.label>install Cybertech hearing sensor</ATR_Install_CybertechAudioSensor.label>
+  <ATR_Install_CybertechAudioSensor.description>Installs an Cybertech audio sensor.</ATR_Install_CybertechAudioSensor.description>
+  <ATR_Install_CybertechAudioSensor.jobString>Installing Cybertech audio sensor.</ATR_Install_CybertechAudioSensor.jobString>
+
+
+  <!-- Cybertech Heatsink -->
+
+  <ATR_Install_CybertechHeatsink.label>Install Cybertech heatsink</ATR_Install_CybertechHeatsink.label>
+  <ATR_Install_CybertechHeatsink.description>Installs an Cybertech heatsink.</ATR_Install_CybertechHeatsink.description>
+  <ATR_Install_CybertechHeatsink.jobString>Installing Cybertech heatsink.</ATR_Install_CybertechHeatsink.jobString>
+
+
+  <!-- Cybertech Coolant Pump -->
+
+  <ATR_Install_CybertechCoolantPump.label>Install Cybertech coolant pump</ATR_Install_CybertechCoolantPump.label>
+  <ATR_Install_CybertechCoolantPump.description>Installs an Cybertech coolant pump.</ATR_Install_CybertechCoolantPump.description>
+  <ATR_Install_CybertechCoolantPump.jobString>Installing Cybertech coolant pump.</ATR_Install_CybertechCoolantPump.jobString>
+
+
+  <!-- Cybertech Battery -->
+
+  <ATR_Install_CybertechBattery.label>Install Cybertech battery</ATR_Install_CybertechBattery.label>
+  <ATR_Install_CybertechBattery.description>Installs an Cybertech battery.</ATR_Install_CybertechBattery.description>
+  <ATR_Install_CybertechBattery.jobString>Installing Cybertech battery.</ATR_Install_CybertechBattery.jobString>
+
+
+  <!-- Cybertech Mechanite Storage -->
+
+  <ATR_Install_CybertechMechaniteStorage.label>Install Cybertech mechanite storage</ATR_Install_CybertechMechaniteStorage.label>
+  <ATR_Install_CybertechMechaniteStorage.description>Installs Cybertech mechanite storage.</ATR_Install_CybertechMechaniteStorage.description>
+  <ATR_Install_CybertechMechaniteStorage.jobString>Installing Cybertech mechanite storage.</ATR_Install_CybertechMechaniteStorage.jobString>
+
+
+  <!-- Cybertech Reactor -->
+
+  <ATR_Install_CybertechReactor.label>install Cybertech bio-reactor</ATR_Install_CybertechReactor.label>
+  <ATR_Install_CybertechReactor.description>Installs an Cybertech bio-reactor.</ATR_Install_CybertechReactor.description>
+  <ATR_Install_CybertechReactor.jobString>Installing Cybertech bio-reactor.</ATR_Install_CybertechReactor.jobString>
+
+
+</LanguageData>

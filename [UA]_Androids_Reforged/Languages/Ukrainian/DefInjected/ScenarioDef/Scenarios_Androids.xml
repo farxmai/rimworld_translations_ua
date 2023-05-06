@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_CrashlandedAndroids.label>Crashlanding Androids</ATR_CrashlandedAndroids.label>
+  <ATR_CrashlandedAndroids.description>You completed system reinitialization right before breaking atmosphere in what seems to be an escape pod. Memory banks for recent data are blank, and there are no files indicating recent purpose, directive, or history. You are intact - that will suffice for now.</ATR_CrashlandedAndroids.description>
+  <ATR_CrashlandedAndroids.scenario.name>Crashlanding Androids</ATR_CrashlandedAndroids.scenario.name>
+  <ATR_CrashlandedAndroids.scenario.summary>Three crashlanded android survivors - the classic RimWorld experience with a mechanical twist.</ATR_CrashlandedAndroids.scenario.summary>
+  <ATR_CrashlandedAndroids.scenario.description>You completed system reinitialization right before breaking atmosphere in what seems to be an escape pod. Memory banks for recent data are blank, and there are no files indicating recent purpose, directive, or history. You are intact - that will suffice for now.</ATR_CrashlandedAndroids.scenario.description>
+  <ATR_CrashlandedAndroids.scenario.parts.16.text>The crash site is marked by organic life and broken ship parts. A life-sustaining planet. Survival chance estimates are within acceptable bounds.</ATR_CrashlandedAndroids.scenario.parts.16.text>
+
+
+</LanguageData>

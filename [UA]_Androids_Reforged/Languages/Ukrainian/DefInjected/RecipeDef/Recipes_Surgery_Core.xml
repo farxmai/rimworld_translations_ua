@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgery to shutdown any incapacitated mechanical unit -->
+
+  <ATR_ShutdownMechanical.label>Shut down central core</ATR_ShutdownMechanical.label>
+  <ATR_ShutdownMechanical.description>Shuts down a mechanical unit by disconnecting core hardware. This does not permanently destroy the unit's memory.</ATR_ShutdownMechanical.description>
+  <ATR_ShutdownMechanical.jobString>Shutting down mechanical unit.</ATR_ShutdownMechanical.jobString>
+
+
+  <!-- Surgery to remove body parts from mechanical units -->
+
+  <ATR_RemoveBodyPartAndroid.label>Remove part</ATR_RemoveBodyPartAndroid.label>
+  <ATR_RemoveBodyPartAndroid.description>Removes body part.</ATR_RemoveBodyPartAndroid.description>
+  <ATR_RemoveBodyPartAndroid.jobString>Removing body part.</ATR_RemoveBodyPartAndroid.jobString>
+
+
+  <!-- Surgery to restore body parts in mechanical units -->
+
+  <ATR_RestoreBodyPartAndroid.label>Restore part</ATR_RestoreBodyPartAndroid.label>
+  <ATR_RestoreBodyPartAndroid.description>Restores a particular body part.</ATR_RestoreBodyPartAndroid.description>
+  <ATR_RestoreBodyPartAndroid.jobString>Restoring body part.</ATR_RestoreBodyPartAndroid.jobString>
+
+
+  <!-- Surgery to repaint mechanical units -->
+
+  <ATR_RepaintMechanical.label>Repaint</ATR_RepaintMechanical.label>
+  <ATR_RepaintMechanical.description>Changes the paint color of a mechanical unit.</ATR_RepaintMechanical.description>
+  <ATR_RepaintMechanical.jobString>Painting mechanical unit.</ATR_RepaintMechanical.jobString>
+
+
+  <!-- Surgery to increase the maintenance level of a unit to a certain extent. -->
+
+  <ATR_DoEmergencyMaintenance.label>Do makeshift maintenance</ATR_DoEmergencyMaintenance.label>
+  <ATR_DoEmergencyMaintenance.description>Use parts to repair severe maintenance flaws. Since maintenance is primarily an internal activity, this can only bring it to 40%.</ATR_DoEmergencyMaintenance.description>
+  <ATR_DoEmergencyMaintenance.jobString>Restoring body part.</ATR_DoEmergencyMaintenance.jobString>
+
+
+  <!-- Surgery to reprogram drones to serve the colony -->
+
+  <ATR_ReprogramDrone.label>reprogram drone</ATR_ReprogramDrone.label>
+  <ATR_ReprogramDrone.description>A straightforward but delicate operation, reprogramming drones to suit the colony's purposes is an excellent way to strengthen capabilities. However, the previous owners may have installed safeguards against such operations, so there is a high risk of death should it fail.</ATR_ReprogramDrone.description>
+  <ATR_ReprogramDrone.jobString>Reprogramming drone.</ATR_ReprogramDrone.jobString>
+
+
+</LanguageData>

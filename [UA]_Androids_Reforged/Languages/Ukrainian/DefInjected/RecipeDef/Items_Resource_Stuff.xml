@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Make_ChemfuelFromChemCapsule.label>synthesize chemfuel from chemical capsules</ATR_Make_ChemfuelFromChemCapsule.label>
+  <ATR_Make_ChemfuelFromChemCapsule.description>Make a batch of chemfuel by refining the raw resources within chemical capsules.</ATR_Make_ChemfuelFromChemCapsule.description>
+  <ATR_Make_ChemfuelFromChemCapsule.jobString>Refining chemfuel from capsules.</ATR_Make_ChemfuelFromChemCapsule.jobString>
+
+  <ATR_Make_NeutroamineFromChemCapsule.label>synthesize neutroamine from chemical capsules</ATR_Make_NeutroamineFromChemCapsule.label>
+  <ATR_Make_NeutroamineFromChemCapsule.description>Make a batch of neutroamine by refining the raw resources within chemical capsules.</ATR_Make_NeutroamineFromChemCapsule.description>
+  <ATR_Make_NeutroamineFromChemCapsule.jobString>Refining neutroamine from capsules.</ATR_Make_NeutroamineFromChemCapsule.jobString>
+
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.label>stabilize nutrient solution with chemical capsules</ATR_Make_NutritionBlockFromSolutionAndCapsules.label>
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.description>Make a batch of stabilized nutrition blocks by refining nutrient solution with chemical capsules. This is a time-intensive task.</ATR_Make_NutritionBlockFromSolutionAndCapsules.description>
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.jobString>Stabilizing nutrient solution with capsules.</ATR_Make_NutritionBlockFromSolutionAndCapsules.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CORE MODEL DEFINITIONS -->
+
+  <ATR_AndroidT2Surrogate.label>T2 Android Surrogate</ATR_AndroidT2Surrogate.label>
+  <ATR_AndroidT2Surrogate.labelPlural>Surrogate Androids</ATR_AndroidT2Surrogate.labelPlural>
+  <ATR_AndroidT2Surrogate.labelMale>male T2 Android Surrogate</ATR_AndroidT2Surrogate.labelMale>
+  <ATR_AndroidT2Surrogate.labelMalePlural>male Surrogate Androids</ATR_AndroidT2Surrogate.labelMalePlural>
+  <ATR_AndroidT2Surrogate.labelFemale>female T2 Android Surrogate</ATR_AndroidT2Surrogate.labelFemale>
+  <ATR_AndroidT2Surrogate.labelFemalePlural>female Surrogate Androids</ATR_AndroidT2Surrogate.labelFemalePlural>
+
+  <ATR_AndroidT3Surrogate.label>T3 Android Surrogate</ATR_AndroidT3Surrogate.label>
+  <ATR_AndroidT3Surrogate.labelPlural>Surrogate Androids</ATR_AndroidT3Surrogate.labelPlural>
+  <ATR_AndroidT3Surrogate.labelMale>male T3 Android Surrogate</ATR_AndroidT3Surrogate.labelMale>
+  <ATR_AndroidT3Surrogate.labelMalePlural>male Surrogate Androids</ATR_AndroidT3Surrogate.labelMalePlural>
+  <ATR_AndroidT3Surrogate.labelFemale>female T3 Android Surrogate</ATR_AndroidT3Surrogate.labelFemale>
+  <ATR_AndroidT3Surrogate.labelFemalePlural>female Surrogate Androids</ATR_AndroidT3Surrogate.labelFemalePlural>
+
+  <ATR_AndroidT4Surrogate.label>T4 Android Surrogate</ATR_AndroidT4Surrogate.label>
+  <ATR_AndroidT4Surrogate.labelPlural>Surrogate Androids</ATR_AndroidT4Surrogate.labelPlural>
+  <ATR_AndroidT4Surrogate.labelMale>male T4 Android Surrogate</ATR_AndroidT4Surrogate.labelMale>
+  <ATR_AndroidT4Surrogate.labelMalePlural>male Surrogate Androids</ATR_AndroidT4Surrogate.labelMalePlural>
+  <ATR_AndroidT4Surrogate.labelFemale>female T4 Android Surrogate</ATR_AndroidT4Surrogate.labelFemale>
+  <ATR_AndroidT4Surrogate.labelFemalePlural>female Surrogate Androids</ATR_AndroidT4Surrogate.labelFemalePlural>
+
+
+</LanguageData>

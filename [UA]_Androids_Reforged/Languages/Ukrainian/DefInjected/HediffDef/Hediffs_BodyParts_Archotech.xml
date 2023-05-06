@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cybertech Arm -->
+
+  <ATR_CybertechArm.label>Cybertech arm</ATR_CybertechArm.label>
+  <ATR_CybertechArm.description>An archotech device in the form of a cybernetic arm. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechArm.description>
+  <ATR_CybertechArm.comps.0.tools.0.label>fist</ATR_CybertechArm.comps.0.tools.0.label>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_CybertechLeg.label>Cybertech leg</ATR_CybertechLeg.label>
+  <ATR_CybertechLeg.description>An archotech device in the form of a cybernetic leg. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechLeg.description>
+
+
+  <!-- Cybertech Visual Sensor -->
+
+  <ATR_CybertechVisualSensor.label>Cybertech visual sensor</ATR_CybertechVisualSensor.label>
+  <ATR_CybertechVisualSensor.description>An archotech device in the form of a cybernetic eye. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechVisualSensor.description>
+
+
+  <!-- Cybertech Audio Sensor -->
+
+  <ATR_CybertechAudioSensor.label>Cybertech audio sensor</ATR_CybertechAudioSensor.label>
+  <ATR_CybertechAudioSensor.description>An archotech device in the form of a cybernetic ear. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechAudioSensor.description>
+
+
+  <!-- Cybertech Heatsink -->
+
+  <ATR_CybertechHeatsink.label>Cybertech heatsink</ATR_CybertechHeatsink.label>
+  <ATR_CybertechHeatsink.description>An archotech device in the form of a cybernetic heatsink. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechHeatsink.description>
+
+
+  <!-- Cybertech Coolant Pump -->
+
+  <ATR_CybertechCoolantPump.label>Cybertech coolant pump</ATR_CybertechCoolantPump.label>
+  <ATR_CybertechCoolantPump.description>An archotech device in the form of a cybernetic coolant pump. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechCoolantPump.description>
+
+
+  <!-- Cybertech Battery -->
+
+  <ATR_CybertechBattery.label>Cybertech battery pack</ATR_CybertechBattery.label>
+  <ATR_CybertechBattery.description>An archotech device in the form of a cybernetic battery. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechBattery.description>
+
+
+  <!-- Cybertech Mechanite Storage -->
+
+  <ATR_CybertechMechaniteStorage.label>Cybertech mechanite storage</ATR_CybertechMechaniteStorage.label>
+  <ATR_CybertechMechaniteStorage.description>An archotech device in the form of a cybernetic foundry of nanites with storage for them. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechMechaniteStorage.description>
+
+
+  <!-- Cybertech Reactor -->
+
+  <ATR_CybertechReactor.label>Cybertech bio-reactor</ATR_CybertechReactor.label>
+  <ATR_CybertechReactor.description>An archotech device in the form of a bio-reactor - but it seems to reduce power consumption as well. Significantly more powerful than even glitterworld advanced parts, the esoteric knowledge and skill necessary to produce one is worth nothing without the explicit blessing of an archotech. Perhaps that is the secret to its strength?</ATR_CybertechReactor.description>
+
+
+</LanguageData>

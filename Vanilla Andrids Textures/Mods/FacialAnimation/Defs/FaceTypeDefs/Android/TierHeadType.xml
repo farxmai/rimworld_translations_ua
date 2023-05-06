@@ -1,0 +1,16 @@
+<Defs>
+  <FacialAnimation.HeadTypeDef>
+    <defName>ATR_Tier3_HeadNormal</defName>
+    <texPath>Things/Pawn/Tier3/Heads_Blank/Normal</texPath>
+    <raceName>ATR_Tier3Android</raceName>
+    <shader>Map/Transparent</shader>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+    <defName>ATR_Tier4_HeadNormal</defName>
+    <texPath>Things/Pawn/Tier4/Heads_Blank/Normal</texPath>
+    <raceName>ATR_Tier4Android</raceName>
+    <shader>Map/Transparent</shader>
+  </FacialAnimation.HeadTypeDef>
+
+</Defs>

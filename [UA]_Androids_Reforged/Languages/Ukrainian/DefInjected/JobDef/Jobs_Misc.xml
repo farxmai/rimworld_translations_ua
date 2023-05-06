@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_RechargeBattery.reportString>Recharging battery.</ATR_RechargeBattery.reportString>
+  <ATR_ResurrectMechanical.reportString>repairing TargetA.</ATR_ResurrectMechanical.reportString>
+  <ATR_TendMechanical.reportString>tending to TargetA.</ATR_TendMechanical.reportString>
+  <ATR_GenerateInsight.reportString>generating SkyMind insight.</ATR_GenerateInsight.reportString>
+  <ATR_DoMaintenanceUrgent.reportString>doing self maintenance.</ATR_DoMaintenanceUrgent.reportString>
+  <ATR_DoMaintenanceIdle.reportString>doing self maintenance.</ATR_DoMaintenanceIdle.reportString>
+
+
+</LanguageData>

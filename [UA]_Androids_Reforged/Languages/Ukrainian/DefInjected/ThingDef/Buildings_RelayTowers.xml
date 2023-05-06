@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SkyMind Towers Abstract -->
+
+  <ATR_SkyMindRelay.label>SkyMind Relay Tower</ATR_SkyMindRelay.label>
+  <ATR_SkyMindRelay.description>This tower acts as a relay for SkyMind-connected devices to communicate and operate. Towers like these are necessary for surrogate or SkyMind operations - this tower has capacity for three continuous device connections.</ATR_SkyMindRelay.description>
+
+  <ATR_SkyMindNetwork.label>SkyMind Network Tower</ATR_SkyMindNetwork.label>
+  <ATR_SkyMindNetwork.description>This tower acts as a powerful network host for SkyMind-connected devices to communicate and operate. Towers like these are necessary for surrogate or SkyMind operations - this tower has capacity for fifteen continuous device connections.</ATR_SkyMindNetwork.description>
+
+
+  <!--<ATR_SkyMindRelay_Blueprint.label>SkyMind Relay Tower (blueprint)</ATR_SkyMindRelay_Blueprint.label>-->
+  <!--<ATR_SkyMindRelay_Blueprint_Install.label>SkyMind Relay Tower (blueprint)</ATR_SkyMindRelay_Blueprint_Install.label>-->
+  <!--<ATR_SkyMindRelay_Frame.label>SkyMind Relay Tower (building)</ATR_SkyMindRelay_Frame.label>-->
+  <!--<ATR_SkyMindRelay_Frame.description>This tower acts as a relay for SkyMind-connected devices to communicate and operate. Towers like these are necessary for surrogate or SkyMind operations - this tower has capacity for three continuous device connections.</ATR_SkyMindRelay_Frame.description>-->
+  <!--<ATR_SkyMindNetwork_Blueprint.label>SkyMind Network Tower (blueprint)</ATR_SkyMindNetwork_Blueprint.label>-->
+  <!--<ATR_SkyMindNetwork_Blueprint_Install.label>SkyMind Network Tower (blueprint)</ATR_SkyMindNetwork_Blueprint_Install.label>-->
+  <!--<ATR_SkyMindNetwork_Frame.label>SkyMind Network Tower (building)</ATR_SkyMindNetwork_Frame.label>-->
+  <!--<ATR_SkyMindNetwork_Frame.description>This tower acts as a powerful network host for SkyMind-connected devices to communicate and operate. Towers like these are necessary for surrogate or SkyMind operations - this tower has capacity for fifteen continuous device connections.</ATR_SkyMindNetwork_Frame.description>-->
+
+</LanguageData>

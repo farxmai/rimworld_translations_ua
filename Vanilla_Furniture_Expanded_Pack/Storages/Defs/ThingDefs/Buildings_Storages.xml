@@ -27,8 +27,8 @@
     <building>
       <paintable>true</paintable>
       <isInert>true</isInert>
-      <preventDeteriorationOnTop>false</preventDeteriorationOnTop>
-      <ignoreStoredThingsBeauty>false</ignoreStoredThingsBeauty>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
     </building>
     <blockWind>true</blockWind>
     <passability>PassThroughOnly</passability>
@@ -379,7 +379,7 @@
     </stuffCategories>
     <costStuffCount>50</costStuffCount>
     <building>
-      <preventDeteriorationOnTop>false</preventDeteriorationOnTop>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
       <fixedStorageSettings>
         <filter>
@@ -568,7 +568,7 @@
 
   <ThingDef ParentName="LWM_DeepStorage">
     <defName>FFE_FoodBarell</defName>
-    <label>food barell</label>
+    <label>food barrel</label>
     <description>A barrel for storing raw food.</description>
     <techLevel>Medieval</techLevel>
     <graphicData>

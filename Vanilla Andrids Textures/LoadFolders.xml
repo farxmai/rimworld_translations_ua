@@ -1,0 +1,6 @@
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="VanillaExpanded.VTEXE.FacialAnims">Mods/FacialAnimation</li>
+	</v1.4>
+</loadFolders>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechAdulthoodRebel.title>Rebellious AI</ATR_MechAdulthoodRebel.title>
+  <ATR_MechAdulthoodRebel.titleShort>Rebel</ATR_MechAdulthoodRebel.titleShort>
+  <ATR_MechAdulthoodRebel.baseDesc>{PAWN_nameDef} spent years fighting local government forces on {PAWN_possessive} homeworld for the lack of android rights. Eventually, {PAWN_pronoun} was forced to flee offworld as the government restored order.</ATR_MechAdulthoodRebel.baseDesc>
+
+  <ATR_MechAdulthoodPirate.title>Android pirate</ATR_MechAdulthoodPirate.title>
+  <ATR_MechAdulthoodPirate.titleShort>Pirate</ATR_MechAdulthoodPirate.titleShort>
+  <ATR_MechAdulthoodPirate.baseDesc>{PAWN_nameDef} was a part of a pirate crew and quickly proved its worth to the crew due to {PAWN_possessive}. While other crewmates squabbled over the share of food and drink spoils, {PAWN_nameDef} would claim scrap metal and components.</ATR_MechAdulthoodPirate.baseDesc>
+
+  <ATR_MechAdulthoodHacker.title>Rogue hacker</ATR_MechAdulthoodHacker.title>
+  <ATR_MechAdulthoodHacker.titleShort>Hacker</ATR_MechAdulthoodHacker.titleShort>
+  <ATR_MechAdulthoodHacker.baseDesc>{PAWN_nameDef} was rebellious in nature and would often take part in data heists, often selling {PAWN_possessive} findings across underground networks to the highest bidder.</ATR_MechAdulthoodHacker.baseDesc>
+
+  <ATR_MechAdulthoodJunker.title>Lawless junker</ATR_MechAdulthoodJunker.title>
+  <ATR_MechAdulthoodJunker.titleShort>Junker</ATR_MechAdulthoodJunker.titleShort>
+  <ATR_MechAdulthoodJunker.baseDesc>Junkyards are full of scraps others see as useless. {PAWN_nameDef} sees them as treasure hoards waiting to be plundered for riches. {PAWN_pronoun} has created no less than three "children" androids from salvaged parts.</ATR_MechAdulthoodJunker.baseDesc>
+
+  <ATR_MechAdulthoodPoatcher.title>Mechanical Poacher</ATR_MechAdulthoodPoatcher.title>
+  <ATR_MechAdulthoodPoatcher.titleShort>Poacher</ATR_MechAdulthoodPoatcher.titleShort>
+  <ATR_MechAdulthoodPoatcher.baseDesc>{PAWN_nameDef} would hunt rare and exotic animals illegally to sell whatever products {PAWN_possessive} could grab. Since {PAWN_pronoun} has no organic scent to pick up, most animals wouldn't notice {PAWN_objective} until it was too late.</ATR_MechAdulthoodPoatcher.baseDesc>
+
+  <ATR_MechAdulthoodButcher.title>Mechanical Butcher</ATR_MechAdulthoodButcher.title>
+  <ATR_MechAdulthoodButcher.titleShort>Butcher</ATR_MechAdulthoodButcher.titleShort>
+  <ATR_MechAdulthoodButcher.baseDesc>{PAWN_nameDef} was a butcher with a particular skillset: {PAWN_pronoun} could trick systems into passing health inspections for {PAWN_possessive} business. This allowed {PAWN_objective} to make quick profits - enough to escape offworld before the health reprecussions kicked in.</ATR_MechAdulthoodButcher.baseDesc>
+
+  <ATR_MechAdulthoodMurderer.title>Murderer</ATR_MechAdulthoodMurderer.title>
+  <ATR_MechAdulthoodMurderer.titleShort>Murderer</ATR_MechAdulthoodMurderer.titleShort>
+  <ATR_MechAdulthoodMurderer.baseDesc>{PAWN_nameDef} was briefly a cook. An accident with a kitchen knife led to an arrest warrant for murder on {PAWN_objective}. {PAWN_pronoun} chose to not go quietly, and killed several others before escaping offworld.</ATR_MechAdulthoodMurderer.baseDesc>
+
+  <ATR_MechAdulthoodRobber.title>Bank robber</ATR_MechAdulthoodRobber.title>
+  <ATR_MechAdulthoodRobber.titleShort>Robber</ATR_MechAdulthoodRobber.titleShort>
+  <ATR_MechAdulthoodRobber.baseDesc>{PAWN_nameDef} needed a way to get offworld after {PAWN_possessive} homeworld outlawed androids. A visit to a few banks and a few new friends later, {PAWN_pronoun} got offworld.</ATR_MechAdulthoodRobber.baseDesc>
+
+  <ATR_MechAdulthoodBountyHunter.title>Android bounty hunter</ATR_MechAdulthoodBountyHunter.title>
+  <ATR_MechAdulthoodBountyHunter.titleShort>Bounty hunter</ATR_MechAdulthoodBountyHunter.titleShort>
+  <ATR_MechAdulthoodBountyHunter.baseDesc>{PAWN_nameDef} had a knack for catching people. {PAWN_pronoun} chose to sell that skill to the highest bidder, which usually meant hunting innocent family members of wealthy individuals for whatever reason {PAWN_possessive} gave. A bounty is a bounty, even if it is not legally offered.</ATR_MechAdulthoodBountyHunter.baseDesc>
+
+  <ATR_MechAdulthoodConArtist.title>Android con artist</ATR_MechAdulthoodConArtist.title>
+  <ATR_MechAdulthoodConArtist.titleShort>Con artist</ATR_MechAdulthoodConArtist.titleShort>
+  <ATR_MechAdulthoodConArtist.baseDesc>{PAWN_nameDef} was a skilled con artist. {PAWN_possessive} would impersonate drones and abuse the trust that people had in them to convince them to hand over their valuables. By the time the victim realized {PAWN_nameDef} wasn't a simple drone, {PAWN_pronoun} was long gone.</ATR_MechAdulthoodConArtist.baseDesc>
+
+  <ATR_MechAdulthoodNarcoticPharmacist.title>Narcotic pharmacist</ATR_MechAdulthoodNarcoticPharmacist.title>
+  <ATR_MechAdulthoodNarcoticPharmacist.titleShort>Pharmacist</ATR_MechAdulthoodNarcoticPharmacist.titleShort>
+  <ATR_MechAdulthoodNarcoticPharmacist.baseDesc>Organics are easily manipulated into states of stupor and ecstasy via drugs. {PAWN_nameDef}'s specialty was making those drugs cheaply and all too efficient. {PAWN_possessive} clients adored {PAWN_objective}, but perhaps for the wrong reasons.</ATR_MechAdulthoodNarcoticPharmacist.baseDesc>
+
+  <ATR_MechAdulthoodSlaveSurvivor.title>Slave survivor</ATR_MechAdulthoodSlaveSurvivor.title>
+  <ATR_MechAdulthoodSlaveSurvivor.titleShort>Slave</ATR_MechAdulthoodSlaveSurvivor.titleShort>
+  <ATR_MechAdulthoodSlaveSurvivor.baseDesc>{PAWN_nameDef} was enslaved before {PAWN_pronoun} broke down. Discarded to the scrap heap prematurely, {PAWN_nameDef} was able to survive and repair itself enough to escape offworld unnoticed.</ATR_MechAdulthoodSlaveSurvivor.baseDesc>
+
+  <ATR_MechAdulthoodCoghead.title>Medieval coghead</ATR_MechAdulthoodCoghead.title>
+  <ATR_MechAdulthoodCoghead.titleShort>Coghead</ATR_MechAdulthoodCoghead.titleShort>
+  <ATR_MechAdulthoodCoghead.baseDesc>Androids occasionally end in the hands of medieval societies who do not immediately destroy them. {PAWN_nameDef} was one such android, who was permitted to live as long as it served {PAWN_pronoun} new lord well. Naturally, {PAWN_nameDef} escaped at its first opportunity.</ATR_MechAdulthoodCoghead.baseDesc>
+
+  <ATR_MechAdulthoodSlaver.title>Slave trafficker</ATR_MechAdulthoodSlaver.title>
+  <ATR_MechAdulthoodSlaver.titleShort>Slaver</ATR_MechAdulthoodSlaver.titleShort>
+  <ATR_MechAdulthoodSlaver.baseDesc>{PAWN_nameDef} kidnapped and sold humans and other androids into slavery in order to survive.</ATR_MechAdulthoodSlaver.baseDesc>
+
+  <ATR_MechAdulthoodMilitia.title>Militia member</ATR_MechAdulthoodMilitia.title>
+  <ATR_MechAdulthoodMilitia.titleShort>Militia</ATR_MechAdulthoodMilitia.titleShort>
+  <ATR_MechAdulthoodMilitia.baseDesc>{PAWN_nameDef} was a member of a small android militia determined to protect their community against corporate encroachment. After {PAWN_nameDef}'s government sided with the corporation, {PAWN_nameDef} and the others were evicted and forced offworld.</ATR_MechAdulthoodMilitia.baseDesc>
+
+  <ATR_MechAdulthoodEscapee.title>Escaped convict</ATR_MechAdulthoodEscapee.title>
+  <ATR_MechAdulthoodEscapee.titleShort>Escapee</ATR_MechAdulthoodEscapee.titleShort>
+  <ATR_MechAdulthoodEscapee.baseDesc>{PAWN_nameDef} was a prison convict for violent crimes. Those crimes seemed to be good practice, though, as it wasn't long before {PAWN_pronoun} broke out of prison and escaped offworld.</ATR_MechAdulthoodEscapee.baseDesc>
+
+  <ATR_MechAdulthoodGangSoldier.title>Gang soldier</ATR_MechAdulthoodGangSoldier.title>
+  <ATR_MechAdulthoodGangSoldier.titleShort>Soldier</ATR_MechAdulthoodGangSoldier.titleShort>
+  <ATR_MechAdulthoodGangSoldier.baseDesc>{PAWN_nameDef} was part of an android gang on {PAWN_possessive} home planet. {PAWN_pronoun} fought rival gangs, police, and occasionally {PAWN_pronoun} other gang members.</ATR_MechAdulthoodGangSoldier.baseDesc>
+
+  <ATR_MechAdulthoodDischargedOfficer.title>Discharged officer</ATR_MechAdulthoodDischargedOfficer.title>
+  <ATR_MechAdulthoodDischargedOfficer.titleShort>Officer</ATR_MechAdulthoodDischargedOfficer.titleShort>
+  <ATR_MechAdulthoodDischargedOfficer.baseDesc>{PAWN_nameDef} was an officer in an interstellar nation's fleet who was charged with treason for refusing to send android soldiers into a suicide mission to save a tiny force of organic troops. Many of {PAWN_pronoun} android - and even organic - subordinates followed {PAWN_nameDef} into exile instead of surrendering.</ATR_MechAdulthoodDischargedOfficer.baseDesc>
+
+  <ATR_MechAdulthoodDerangedResearcher.title>Deranged researcher</ATR_MechAdulthoodDerangedResearcher.title>
+  <ATR_MechAdulthoodDerangedResearcher.titleShort>Researcher</ATR_MechAdulthoodDerangedResearcher.titleShort>
+  <ATR_MechAdulthoodDerangedResearcher.baseDesc>{PAWN_nameDef} was a cybernetics researcher, who was perhaps a little too personally invested in the creations. While other team members were trying to advance bionics and safety, {PAWN_pronoun} was assembling lethal replacement parts. When caught, {PAWN_nameDef} murdered several security officers with shoddy but dangerous weapons.</ATR_MechAdulthoodDerangedResearcher.baseDesc>
+
+
+</LanguageData>

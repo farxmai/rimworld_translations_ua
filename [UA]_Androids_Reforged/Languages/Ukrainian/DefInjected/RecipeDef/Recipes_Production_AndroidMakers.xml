@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_CreateT1Android.label>Create T1 Android</ATR_CreateT1Android.label>
+  <ATR_CreateT1Android.description>Create a blank T1 Android from Plasteel and components.</ATR_CreateT1Android.description>
+  <ATR_CreateT1Android.jobString>Making mechanical unit</ATR_CreateT1Android.jobString>
+
+  <ATR_CreateT2Android.label>Create T2 Android</ATR_CreateT2Android.label>
+  <ATR_CreateT2Android.description>Create a blank T2 Android from Plasteel, Gold and components.</ATR_CreateT2Android.description>
+  <ATR_CreateT2Android.jobString>Making mechanical unit</ATR_CreateT2Android.jobString>
+
+  <ATR_CreateT3Android.label>Create T3 Android</ATR_CreateT3Android.label>
+  <ATR_CreateT3Android.description>Create a blank T3 Android from Plasteel, Gold and advanced components.</ATR_CreateT3Android.description>
+  <ATR_CreateT3Android.jobString>Making mechanical unit</ATR_CreateT3Android.jobString>
+
+  <ATR_CreateT4Android.label>Create T4 Android</ATR_CreateT4Android.label>
+  <ATR_CreateT4Android.description>Create a blank T4 Android from Plasteel, Gold and advanced components.</ATR_CreateT4Android.description>
+  <ATR_CreateT4Android.jobString>Making Android</ATR_CreateT4Android.jobString>
+
+  <ATR_CreateWatchdog.label>Create drone watchdog</ATR_CreateWatchdog.label>
+  <ATR_CreateWatchdog.description>Create a drone watchdog unit, a mechanical wolf analogue that combines lethality, intelligence, and amicability into a companionable frame.</ATR_CreateWatchdog.description>
+  <ATR_CreateWatchdog.jobString>Making mechanical unit</ATR_CreateWatchdog.jobString>
+
+  <ATR_CreateTORT.label>Create TORT unit</ATR_CreateTORT.label>
+  <ATR_CreateTORT.description>Create a TORT unit for all retrieval and transportation needs.</ATR_CreateTORT.description>
+  <ATR_CreateTORT.jobString>Making mechanical unit</ATR_CreateTORT.jobString>
+
+  <ATR_CreateMineralUnit.label>Create drone mineral unit</ATR_CreateMineralUnit.label>
+  <ATR_CreateMineralUnit.description>Create a drone mineral unit, a simple utility machine that ravenously consumes organic matter to synthesize steel.</ATR_CreateMineralUnit.description>
+  <ATR_CreateMineralUnit.jobString>Making mechanical unit</ATR_CreateMineralUnit.jobString>
+
+  <ATR_CreateNutritionUnit.label>Create nutrition unit</ATR_CreateNutritionUnit.label>
+  <ATR_CreateNutritionUnit.description>Create a simple mechanical unit that consumes organic matter to synthesize a long-lasting milk-like foodstuff that is extremely high in nutritive value.</ATR_CreateNutritionUnit.description>
+  <ATR_CreateNutritionUnit.jobString>Making mechanical unit</ATR_CreateNutritionUnit.jobString>
+
+  <ATR_CreateChemUnit.label>Create chemical processing unit</ATR_CreateChemUnit.label>
+  <ATR_CreateChemUnit.description>Create a simple mechanical unit that consumes organic matter to produce a synthetic chemical precursor that can be processed into chemfuel or neutroamine.</ATR_CreateChemUnit.description>
+  <ATR_CreateChemUnit.jobString>Making mechanical unit</ATR_CreateChemUnit.jobString>
+
+
+</LanguageData>

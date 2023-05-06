@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surrogate Limit Bonus -->
+
+  <ATR_SurrogateLimitBonus.label>surrogate limit bonus</ATR_SurrogateLimitBonus.label>
+  <ATR_SurrogateLimitBonus.description>How many additional surrogates this pawn may control at once without suffering a consciousness or learning rate penalty.</ATR_SurrogateLimitBonus.description>
+
+
+</LanguageData>

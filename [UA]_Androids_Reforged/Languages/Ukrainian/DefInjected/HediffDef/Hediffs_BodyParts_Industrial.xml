@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ATR_MiningArm.label>Mining arm</ATR_MiningArm.label>
+  <ATR_MiningArm.description>A simple mechanical arm designed with the extraction and processing of minerals in mind. The arm prominently features a plasteel drill which feeds contents into an internal processor, separating minerals efficiently and swiftly discarding waste to ensure maximal drilling and minimal sorting time.</ATR_MiningArm.description>
+  <ATR_MiningArm.comps.0.tools.0.label>drill</ATR_MiningArm.comps.0.tools.0.label>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ATR_AgriArm.label>Agri arm</ATR_AgriArm.label>
+  <ATR_AgriArm.description>A simple mechanical arm designed with agriculture and horticulture in mind. The arm features several internal multi-tools that appropriately harvest products and feeds contents into an internal processor, discarding waste products to ensure optimal harvest and minimal sorting time. Ejecting products out of specialized elbow ports is efficient, if rather odd to observe.</ATR_AgriArm.description>
+  <ATR_AgriArm.comps.0.tools.0.label>scythe</ATR_AgriArm.comps.0.tools.0.label>
+
+
+  <!-- Makeshift Leg -->
+
+  <ATR_MakeshiftMechLeg.label>Makeshift mechanical leg</ATR_MakeshiftMechLeg.label>
+  <ATR_MakeshiftMechLeg.description>An installed makeshift leg, with only minimal functionality. While it functions admirably given its ad-hoc nature and its lack of distinct feet or toes, it is still significantly inferior to a properly designed and manufactured leg.</ATR_MakeshiftMechLeg.description>
+
+
+  <!-- Makeshift Arm -->
+
+  <ATR_MakeshiftMechArm.label>Makeshift mechanical arm</ATR_MakeshiftMechArm.label>
+  <ATR_MakeshiftMechArm.description>An installed makeshift arm, with only minimal functionality. While it functions admirably given its ad-hoc nature and its lack of distinct hands or fingers, it is still significantly inferior to a properly designed and manufactured arm.</ATR_MakeshiftMechArm.description>
+  <ATR_MakeshiftMechArm.comps.0.tools.0.label>fist</ATR_MakeshiftMechArm.comps.0.tools.0.label>
+
+
+</LanguageData>

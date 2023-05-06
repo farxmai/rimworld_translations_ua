@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneWatchdog.label>Watchdog unit</ATR_DroneWatchdog.label>
+  <ATR_DroneWatchdog.labelPlural>Watchdog units</ATR_DroneWatchdog.labelPlural>
+  <ATR_DroneWatchdog.labelMale>male Watchdog unit</ATR_DroneWatchdog.labelMale>
+  <ATR_DroneWatchdog.labelMalePlural>male Watchdog units</ATR_DroneWatchdog.labelMalePlural>
+  <ATR_DroneWatchdog.labelFemale>female Watchdog unit</ATR_DroneWatchdog.labelFemale>
+  <ATR_DroneWatchdog.labelFemalePlural>female Watchdog units</ATR_DroneWatchdog.labelFemalePlural>
+
+
+  <!--<ATR_DroneWatchdog.labelMale>male Watchdog unit</ATR_DroneWatchdog.labelMale>-->
+  <!--<ATR_DroneWatchdog.labelMalePlural>male Watchdog units</ATR_DroneWatchdog.labelMalePlural>-->
+  <!--<ATR_DroneWatchdog.labelFemale>female Watchdog unit</ATR_DroneWatchdog.labelFemale>-->
+  <!--<ATR_DroneWatchdog.labelFemalePlural>female Watchdog units</ATR_DroneWatchdog.labelFemalePlural>-->
+
+</LanguageData>

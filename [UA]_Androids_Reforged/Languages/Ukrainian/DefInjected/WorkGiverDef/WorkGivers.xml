@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanic -->
+
+  <ATR_MechanicTendEmergency.label>repair patients with urgent needs</ATR_MechanicTendEmergency.label>
+  <ATR_MechanicTendEmergency.verb>repair</ATR_MechanicTendEmergency.verb>
+  <ATR_MechanicTendEmergency.gerund>repairing</ATR_MechanicTendEmergency.gerund>
+
+  <ATR_MechanicTendToHumanlikes.label>repair patients</ATR_MechanicTendToHumanlikes.label>
+  <ATR_MechanicTendToHumanlikes.verb>repair</ATR_MechanicTendToHumanlikes.verb>
+  <ATR_MechanicTendToHumanlikes.gerund>repairing</ATR_MechanicTendToHumanlikes.gerund>
+
+  <ATR_MechanicTendToSelf.label>repair self</ATR_MechanicTendToSelf.label>
+  <ATR_MechanicTendToSelf.verb>repair</ATR_MechanicTendToSelf.verb>
+  <ATR_MechanicTendToSelf.gerund>repairing</ATR_MechanicTendToSelf.gerund>
+
+  <MechanicTendToSelfEmergency.label>repair self</MechanicTendToSelfEmergency.label>
+  <MechanicTendToSelfEmergency.verb>repair</MechanicTendToSelfEmergency.verb>
+  <MechanicTendToSelfEmergency.gerund>repairing</MechanicTendToSelfEmergency.gerund>
+
+  <ATR_DoBillsMechanicalOperation.label>operate on humanlikes</ATR_DoBillsMechanicalOperation.label>
+  <ATR_DoBillsMechanicalOperation.verb>operate on</ATR_DoBillsMechanicalOperation.verb>
+  <ATR_DoBillsMechanicalOperation.gerund>operating on</ATR_DoBillsMechanicalOperation.gerund>
+
+  <ATR_MechanicRescue.label>rescue downed allies to bed</ATR_MechanicRescue.label>
+  <ATR_MechanicRescue.verb>rescue</ATR_MechanicRescue.verb>
+  <ATR_MechanicRescue.gerund>rescuing</ATR_MechanicRescue.gerund>
+
+  <ATR_MechanicTendToAnimals.label>repair animals</ATR_MechanicTendToAnimals.label>
+  <ATR_MechanicTendToAnimals.verb>repair</ATR_MechanicTendToAnimals.verb>
+  <ATR_MechanicTendToAnimals.gerund>repairing</ATR_MechanicTendToAnimals.gerund>
+
+  <ATR_DoBillsMechanicalAnimalOperation.label>operate on animals</ATR_DoBillsMechanicalAnimalOperation.label>
+  <ATR_DoBillsMechanicalAnimalOperation.verb>operate on</ATR_DoBillsMechanicalAnimalOperation.verb>
+  <ATR_DoBillsMechanicalAnimalOperation.gerund>operating on</ATR_DoBillsMechanicalAnimalOperation.gerund>
+
+  <ATR_TakeMechanicalToBedToOperate.label>take patients to bed for operations</ATR_TakeMechanicalToBedToOperate.label>
+  <ATR_TakeMechanicalToBedToOperate.verb>take to operate</ATR_TakeMechanicalToBedToOperate.verb>
+  <ATR_TakeMechanicalToBedToOperate.gerund>taking to operate</ATR_TakeMechanicalToBedToOperate.gerund>
+
+
+  <!-- Research -->
+
+  <ATR_GenerateInsight.label>generate SkyMind insight points</ATR_GenerateInsight.label>
+  <ATR_GenerateInsight.verb>generate insight</ATR_GenerateInsight.verb>
+  <ATR_GenerateInsight.gerund>generating insight</ATR_GenerateInsight.gerund>
+
+
+</LanguageData>

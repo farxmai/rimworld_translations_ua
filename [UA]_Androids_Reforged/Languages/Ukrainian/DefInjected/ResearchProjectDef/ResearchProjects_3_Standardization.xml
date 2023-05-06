@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicalStandardization.label>Mechanical standardization</ATR_MechanicalStandardization.label>
+  <ATR_MechanicalStandardization.description>In order to reach a state of consistent manufactured quality and scaling quantity, a standard of production and maintenance must be established. Androids come in a vast number of styles and designs - standardizing the colony's parts will be critical for success in mechanical fields.</ATR_MechanicalStandardization.description>
+
+  <ATR_MassCharging.label>Charging station</ATR_MassCharging.label>
+  <ATR_MassCharging.description>In order to maximize charging and space efficiency, an effective way to charge a number of mechanical units simultaneously must be developed. A small charging port that can charge 8 at a time could prove essential to expansion.</ATR_MassCharging.description>
+
+  <ATR_MechanicalFrameworks.label>Mechanical framework enhancements</ATR_MechanicalFrameworks.label>
+  <ATR_MechanicalFrameworks.description>The framework of a mechanical unit is its most visible feature, as it quite literally holds the entire chassis together. Framework modifications could result in significant gains in a wide range of particular tasks - but does require committing to one particular modification at a time.</ATR_MechanicalFrameworks.description>
+
+  <ATR_T1Androids.label>T1 androids</ATR_T1Androids.label>
+  <ATR_T1Androids.description>Tier one androids are marked by humanlike resemblance, but are still no more than machines. Impressive in their resemblance and capabilities, they represent the higher echelons of Urbworld creativity and Midworld dreams. A fine advancement in our progress, and the dawn of a bright future.</ATR_T1Androids.description>
+
+  <ATR_MechanicalStimulators.label>Mechanical stimulants</ATR_MechanicalStimulators.label>
+  <ATR_MechanicalStimulators.description>While mechanical units are largely unconcerned by the passage of time and therefore unconcerned about the efficiency of its use, there are times when efficiency at a particular moment is critical. Consumable short-term stimulants could prove useful in these moments.</ATR_MechanicalStimulators.description>
+
+  <ATR_AdvancedMechParts.label>Advanced mechanical parts</ATR_AdvancedMechParts.label>
+  <ATR_AdvancedMechParts.description>With the acquisition of properly fabrication and a strong standardization scheme, advancements in the quality of mechanical parts is now within reach. These parts will function significantly better than factory standard equivalents while remaining within reasonable cost estimates.</ATR_AdvancedMechParts.description>
+
+  <ATR_T2Androids.label>T2 androids</ATR_T2Androids.label>
+  <ATR_T2Androids.description>Tier two androids are marked by the lowest specifications required for full sapience. The most common android produced, it is widely seen as a new species distinct from humanity. With this, the colony will step across the threshold of mechanical autonomy - are we prepared for what comes next?</ATR_T2Androids.description>
+
+  <ATR_StandardizedCommunications.label>Standardized communications</ATR_StandardizedCommunications.label>
+  <ATR_StandardizedCommunications.description>If physical standardization can be achieved, then there should similarly be a method for standardizing the methods of communication, thought, and philosophy. The advent of a theoretical cloud environment connecting consciousnesses could promise vast improvements across many fields. A simple relay tower allowing mechanical intra-net communications is a strong start.</ATR_StandardizedCommunications.description>
+
+  <ATR_RemoteControlProtocols.label>Remote control protocols</ATR_RemoteControlProtocols.label>
+  <ATR_RemoteControlProtocols.description>With standardized communication methods across hosts, it is theoretically possible to develop a framework for remotely controlling so-called surrogate bodies. Technical limitations prevent organic involvement in this service due to a lack of efficiency and universal organic applications, but this could prove revolutionary for mechanical units.</ATR_RemoteControlProtocols.description>
+
+
+</LanguageData>

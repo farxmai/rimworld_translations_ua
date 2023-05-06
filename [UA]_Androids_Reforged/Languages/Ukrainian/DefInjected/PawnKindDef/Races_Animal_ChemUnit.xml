@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneChemUnit.label>Chemical processing unit</ATR_DroneChemUnit.label>
+  <ATR_DroneChemUnit.labelPlural>Chemical processing units</ATR_DroneChemUnit.labelPlural>
+  <ATR_DroneChemUnit.labelMale>male Chemical processing unit</ATR_DroneChemUnit.labelMale>
+  <ATR_DroneChemUnit.labelMalePlural>male Chemical processing units</ATR_DroneChemUnit.labelMalePlural>
+  <ATR_DroneChemUnit.labelFemale>female Chemical processing unit</ATR_DroneChemUnit.labelFemale>
+  <ATR_DroneChemUnit.labelFemalePlural>female Chemical processing units</ATR_DroneChemUnit.labelFemalePlural>
+
+
+  <!--<ATR_DroneChemUnit.labelMale>male Chemical processing unit</ATR_DroneChemUnit.labelMale>-->
+  <!--<ATR_DroneChemUnit.labelMalePlural>male Chemical processing units</ATR_DroneChemUnit.labelMalePlural>-->
+  <!--<ATR_DroneChemUnit.labelFemale>female Chemical processing unit</ATR_DroneChemUnit.labelFemale>-->
+  <!--<ATR_DroneChemUnit.labelFemalePlural>female Chemical processing units</ATR_DroneChemUnit.labelFemalePlural>-->
+
+</LanguageData>

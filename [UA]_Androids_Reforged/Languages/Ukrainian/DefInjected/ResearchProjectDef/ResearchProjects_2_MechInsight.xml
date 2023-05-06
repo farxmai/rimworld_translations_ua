@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicalInsight.label>Mechanical insight</ATR_MechanicalInsight.label>
+  <ATR_MechanicalInsight.description>Initiate research into the possibility of creating mechanical recreations of living things - and related opportunities.</ATR_MechanicalInsight.description>
+
+  <ATR_UtilityBiomimetics.label>Utility biomimetics</ATR_UtilityBiomimetics.label>
+  <ATR_UtilityBiomimetics.description>Biomimetics is the theoretical field of creating mechanical versions of living things. The earliest successful mechanical prototypes always iterate upon biological successes. Research in this field could recreate many of humanity's selective breeding successes in a robotic form.</ATR_UtilityBiomimetics.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneNutritionUnit.label>Nutrition unit</ATR_DroneNutritionUnit.label>
+  <ATR_DroneNutritionUnit.description>A lumbering drone unit specialized in the optimization of generating nutrition from organic matter for human consumption. Unlike other mechanical drones, this unit is quite rare amongst android societies given its intended purpose. With an almost disturbingly long shelf-life and extremely high nutritive content, acquisition of units like this have led to population booms on many worlds - and curiously enough by extension, many wars.</ATR_DroneNutritionUnit.description>
+  <ATR_DroneNutritionUnit.tools.0.label>head</ATR_DroneNutritionUnit.tools.0.label>
+
+
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!--<ATR_DroneNutritionUnit_Corpse.label>Nutrition unit corpse</ATR_DroneNutritionUnit_Corpse.label>-->
+  <!--<ATR_DroneNutritionUnit_Corpse.description>Nutrition unit corpse</ATR_DroneNutritionUnit_Corpse.description>-->
+
+</LanguageData>

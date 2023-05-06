@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Vanilla Androids Textures</name>
+	<packageId>Farxmai2.VanillaAndroidsTextures</packageId>
+	<author>Farxmai2</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>This mod add high quality textures for Android Reforged.</description>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2946603028</url>
+	<modDependencies>
+		<li>
+			<packageId>Killathon.AndroidTiersReforged</packageId>
+			<displayName>Android Tiers Reforged</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2917948202</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Killathon.AndroidTiersReforged</li>
+		<li>Tkhakiro.AndroidTiersReforged.ReturnMUFF</li>
+		<li>nals.facialanimation</li>
+		<li>VanillaExpanded.VTEXE.FacialAnims</li>
+	</loadAfter>
+</ModMetaData>

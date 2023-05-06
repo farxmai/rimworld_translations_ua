@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechSwarm.label>Mechanite swarm</ATR_MechSwarm.label>
+  <ATR_MechSwarm.description>A small pill containing a veritable legion of mechanites. These mechanites greatly enhance the hosts ability to control the chassis, for two days, as natural mechanite production can not sustain the surge.</ATR_MechSwarm.description>
+
+
+  <!--<ATR_MechSwarm.ingestible.ingestCommandString>Take {0}</ATR_MechSwarm.ingestible.ingestCommandString>-->
+  <!--<ATR_MechSwarm.ingestible.ingestReportString>Taking {0}.</ATR_MechSwarm.ingestible.ingestReportString>-->
+
+</LanguageData>

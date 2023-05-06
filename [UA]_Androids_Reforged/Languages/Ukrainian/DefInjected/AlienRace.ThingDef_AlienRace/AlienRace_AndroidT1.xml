@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier1Android.label>T1 Android</ATR_Tier1Android.label>
+  <ATR_Tier1Android.description>Tier one androids are simply humanlike-machines, designed to mimic the general image and minimal capabilities of humanity. Lacking true sapience, many view them like very intelligent and responsive animals. Their existence is to serve, and they do so uncomplainingly.\n\nDue to minimal investment and design, tier one androids suffer from maintenance and efficiency flaws, leaving them relatively obsoleted by later, more durable, iterations - except for jobs where minimal specifications and resources is explicitly required or desired.</ATR_Tier1Android.description>
+  <ATR_Tier1Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_Tier1Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_Tier1Android.tools.0.label>right fist</ATR_Tier1Android.tools.0.label>
+  <ATR_Tier1Android.tools.1.label>left fist</ATR_Tier1Android.tools.1.label>
+  <ATR_Tier1Android.tools.2.label>head</ATR_Tier1Android.tools.2.label>
+
+
+</LanguageData>

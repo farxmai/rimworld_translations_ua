@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_PartPack.label>Make a mechanical part pack</ATR_PartPack.label>
+  <ATR_PartPack.description>Create a pack of half-assembled parts designed to replace standard components ranging from whole legs and arms to intricate batteries and adaptors. Programmed mechanites shape themselves to fit more complicated tasks.</ATR_PartPack.description>
+  <ATR_PartPack.jobString>Making part pack</ATR_PartPack.jobString>
+
+  <ATR_MakeAIPersonaCore.label>Make an AI persona core</ATR_MakeAIPersonaCore.label>
+  <ATR_MakeAIPersonaCore.description>Create a complexe AI core capable of sentience.</ATR_MakeAIPersonaCore.description>
+  <ATR_MakeAIPersonaCore.jobString>Making AI Core</ATR_MakeAIPersonaCore.jobString>
+
+
+  <!-- Android Resurrection Kit -->
+
+  <ATR_AndroidResurrectorKit.label>Make an android resurrector kit</ATR_AndroidResurrectorKit.label>
+  <ATR_AndroidResurrectorKit.description>Create a specialized kit of tools capable of reviving offline mechanical units to full functionality. The process of reactivating a deceased unit can be exceedingly expensive due to the inherent difficulties of restoring a deceased intelligence.</ATR_AndroidResurrectorKit.description>
+  <ATR_AndroidResurrectorKit.jobString>Making android resurrector kit</ATR_AndroidResurrectorKit.jobString>
+
+
+  <!-- Drone Resurrector Kit -->
+
+  <ATR_DroneResurrectorKit.label>Make a drone resurrector kit</ATR_DroneResurrectorKit.label>
+  <ATR_DroneResurrectorKit.description>Create a specialized suite of tools capable of bringing disabled simple mechanical drones back to life. The tools are sufficiently advanced to bring simple-minded mechanical units like animals back to life. Revived units must fully reboot in order to begin operating again.</ATR_DroneResurrectorKit.description>
+  <ATR_DroneResurrectorKit.jobString>Making drone resurrector kit</ATR_DroneResurrectorKit.jobString>
+
+
+</LanguageData>

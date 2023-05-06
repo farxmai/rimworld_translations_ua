@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Maintenance Retention -->
+
+  <ATR_MaintenanceRetention.label>maintenance retention efficiency</ATR_MaintenanceRetention.label>
+  <ATR_MaintenanceRetention.description>How well this mechanical unit retains its level of maintenance over time. This stat affects how quickly the pawn's maintenance need naturally falls, and is primarily affected by coolant filtration and pumping.</ATR_MaintenanceRetention.description>
+
+
+</LanguageData>

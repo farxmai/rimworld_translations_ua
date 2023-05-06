@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanical Surgery Success Chance (Base) -->
+
+  <ATR_MechanicalSurgerySuccessChance.label>mechanical surgery success chance</ATR_MechanicalSurgerySuccessChance.label>
+  <ATR_MechanicalSurgerySuccessChance.description>The base chance that a character will succeed when performing an operation on an android. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the operation, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation.</ATR_MechanicalSurgerySuccessChance.description>
+
+
+  <!-- Mechanical Surgery Operation Speed -->
+
+  <ATR_MechanicalOperationSpeed.label>mechanical operation speed</ATR_MechanicalOperationSpeed.label>
+  <ATR_MechanicalOperationSpeed.description>The speed at which the character performs mechanical operations.</ATR_MechanicalOperationSpeed.description>
+
+
+  <!-- Mechanical Tend Quality -->
+
+  <ATR_MechanicalTendQuality.label>mechanical tend quality</ATR_MechanicalTendQuality.label>
+  <ATR_MechanicalTendQuality.description>The base quality of tending given when repairing integrity damage.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on.</ATR_MechanicalTendQuality.description>
+
+
+  <!-- Mechanical tend speed -->
+
+  <ATR_MechanicalTendSpeed.label>mechanical tend speed</ATR_MechanicalTendSpeed.label>
+  <ATR_MechanicalTendSpeed.description>Speed at which the character tends to integrity damage.</ATR_MechanicalTendSpeed.description>
+
+
+</LanguageData>

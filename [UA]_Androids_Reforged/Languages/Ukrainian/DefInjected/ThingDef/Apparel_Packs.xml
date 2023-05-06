@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Apparel_ScorchPack.label>Scorch pack</ATR_Apparel_ScorchPack.label>
+  <ATR_Apparel_ScorchPack.description>A reusable backpack containing a highly flammable chemical mixture with the mechanics necessary to trigger an explosive release of the otherwise inert mixture. When the wearer activates the pack, it will violently expel flame.\n\nOnce used, it must be reloaded with chemfuel before it can be used again.\n\nScorch packs are often used by android martyrs who despise organic life, or by squads of flameproof android troopers to clear insect hives.</ATR_Apparel_ScorchPack.description>
+  <ATR_Apparel_ScorchPack.verbs.0.label>deploy scorchpack</ATR_Apparel_ScorchPack.verbs.0.label>
+
+
+</LanguageData>

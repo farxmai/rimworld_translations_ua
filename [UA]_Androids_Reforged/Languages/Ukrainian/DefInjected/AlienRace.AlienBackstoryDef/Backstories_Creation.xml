@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechChildhoodResearchExperiment.title>Експериментальна модель</ATR_MechChildhoodResearchExperiment.title>
+  <ATR_MechChildhoodResearchExperiment.titleShort>Експеримент</ATR_MechChildhoodResearchExperiment.titleShort>
+  <ATR_MechChildhoodResearchExperiment.baseDesc>{PAWN_nameDef} було створено як експериментальну модель для дослідницьких цілей.</ATR_MechChildhoodResearchExperiment.baseDesc>
+
+  <ATR_MechChildhoodMassProduced.title>Серійна модель</ATR_MechChildhoodMassProduced.title>
+  <ATR_MechChildhoodMassProduced.titleShort>Серійник</ATR_MechChildhoodMassProduced.titleShort>
+  <ATR_MechChildhoodMassProduced.baseDesc>{PAWN_nameDef} було виготовлено в автоматизованому робототехнічному об’єкті за стандартизованим шаблоном.</ATR_MechChildhoodMassProduced.baseDesc>
+
+  <ATR_MechChildhoodCitizen.title>Механічний громадянин</ATR_MechChildhoodCitizen.title>
+  <ATR_MechChildhoodCitizen.titleShort>Громадянин</ATR_MechChildhoodCitizen.titleShort>
+  <ATR_MechChildhoodCitizen.baseDesc>Виготовлений на планеті з принаймні помірними правами для андроїдів, {PAWN_nameDef} був створений для заповнення населення.</ATR_MechChildhoodCitizen.baseDesc>
+
+  <ATR_MechChildhoodUrbworldProperty.title>Урбанізовано модель</ATR_MechChildhoodUrbworldProperty.title>
+  <ATR_MechChildhoodUrbworldProperty.titleShort>Андроїд</ATR_MechChildhoodUrbworldProperty.titleShort>
+  <ATR_MechChildhoodUrbworldProperty.baseDesc>Рідкісний приклад андроїда урбанізоваого світу, {PAWN_nameDef}, був одною із небагатьох дозволених автономних моделей у власності однієї з найбільших планетарних мегакорпорацій.</ATR_MechChildhoodUrbworldProperty.baseDesc>
+
+  <ATR_MechChildhoodPrisoner.title>Механічний каторжник</ATR_MechChildhoodPrisoner.title>
+  <ATR_MechChildhoodPrisoner.titleShort>Каторжник</ATR_MechChildhoodPrisoner.titleShort>
+  <ATR_MechChildhoodPrisoner.baseDesc>Деякі злочини настільки жахливі, що злочинця засуджують до терміну біологічного терміну придатності. Людську свідомість {PAWN_nameDef} було завантажено в цю платформу, щоб здійснити це покарання.</ATR_MechChildhoodPrisoner.baseDesc>
+
+  <ATR_MechChildhoodCorporateContractor.title>Корпоративний підрядник</ATR_MechChildhoodCorporateContractor.title>
+  <ATR_MechChildhoodCorporateContractor.titleShort>Корпорат</ATR_MechChildhoodCorporateContractor.titleShort>
+  <ATR_MechChildhoodCorporateContractor.baseDesc>Зібраний підрядниками великої корпорації, {PAWN_nameDef} був створений на замовлення для певної мети.</ATR_MechChildhoodCorporateContractor.baseDesc>
+
+  <ATR_MechChildhoodSmallBusiness.title>Асистент</ATR_MechChildhoodSmallBusiness.title>
+  <ATR_MechChildhoodSmallBusiness.titleShort>Асистент</ATR_MechChildhoodSmallBusiness.titleShort>
+  <ATR_MechChildhoodSmallBusiness.baseDesc>Зібраний вручну власником малого бізнесу, {PAWN_nameDef} був виготовлений, щоб допомогти своїму роботодавцю.</ATR_MechChildhoodSmallBusiness.baseDesc>
+
+  <ATR_MechChildhoodWarAndroid.title>Військова модель</ATR_MechChildhoodWarAndroid.title>
+  <ATR_MechChildhoodWarAndroid.titleShort>Солдат</ATR_MechChildhoodWarAndroid.titleShort>
+  <ATR_MechChildhoodWarAndroid.baseDesc>{PAWN_nameDef} було створено для зменшення людських втрат у міжпланетних війнах, призначений для боротьби.</ATR_MechChildhoodWarAndroid.baseDesc>
+
+  <ATR_MechChildhoodRoboticistProject.title>Приватна власність</ATR_MechChildhoodRoboticistProject.title>
+  <ATR_MechChildhoodRoboticistProject.titleShort>Андроїд</ATR_MechChildhoodRoboticistProject.titleShort>
+  <ATR_MechChildhoodRoboticistProject.baseDesc>{PAWN_nameDef}, створений у домі амбітного молодого робототехніка, наполегливо працював роками, перш ніж вперше учвідомити себе.</ATR_MechChildhoodRoboticistProject.baseDesc>
+
+  <ATR_MechChildhoodLaborer.title>Подарункова модель</ATR_MechChildhoodLaborer.title>
+  <ATR_MechChildhoodLaborer.titleShort>Товар</ATR_MechChildhoodLaborer.titleShort>
+  <ATR_MechChildhoodLaborer.baseDesc>{PAWN_nameDef} було розроблено як дешеву одиницю, яку можна продавати, позичати чи дарувати міжпланетним клієнтам.</ATR_MechChildhoodLaborer.baseDesc>
+
+  <ATR_MechChildhoodObservationExperiment.title>Піддослідний</ATR_MechChildhoodObservationExperiment.title>
+  <ATR_MechChildhoodObservationExperiment.titleShort>Суб'єкт</ATR_MechChildhoodObservationExperiment.titleShort>
+  <ATR_MechChildhoodObservationExperiment.baseDesc>{PAWN_nameDef} було створено та розміщено у віддаленому місці лише для того, щоб побачити, що станеться, коли андроїд залишиться напризволяще.</ATR_MechChildhoodObservationExperiment.baseDesc>
+
+  <ATR_MechChildhoodAncientIndeterminate.title>Стародавнє творіння</ATR_MechChildhoodAncientIndeterminate.title>
+  <ATR_MechChildhoodAncientIndeterminate.titleShort>Суб'єкт</ATR_MechChildhoodAncientIndeterminate.titleShort>
+  <ATR_MechChildhoodAncientIndeterminate.baseDesc>{PAWN_nameDef} було створено дуже давно давно мертвою цивілізацією з метою, яку {PAWN_pronoun} більше не може згадати.</ATR_MechChildhoodAncientIndeterminate.baseDesc>
+
+  <ATR_MechChildhoodToyProperty.title>Іграшка</ATR_MechChildhoodToyProperty.title>
+  <ATR_MechChildhoodToyProperty.titleShort>Суб'єкт</ATR_MechChildhoodToyProperty.titleShort>
+  <ATR_MechChildhoodToyProperty.baseDesc>{PAWN_nameDef} було створено як розважальний пристрій. Старі власники наказували {PAWN_nameDef} робити те, що вони вважали за потрібне, доки їм не набридло, і вони не відправили {PAWN_objective} геть.</ATR_MechChildhoodToyProperty.baseDesc>
+
+  <ATR_MechChildhoodElderlyCompanion.title>Компаньйон</ATR_MechChildhoodElderlyCompanion.title>
+  <ATR_MechChildhoodElderlyCompanion.titleShort>Компаньйон</ATR_MechChildhoodElderlyCompanion.titleShort>
+  <ATR_MechChildhoodElderlyCompanion.baseDesc>Старіючий інженер зробив на замовлення {PAWN_nameDef}, щоб пережити втрату другої половинки. Обидва подорожували разом, поки господар не помер від старості. Їхнім передсмертним бажанням було, щоб {PAWN_nameDef} вибрав нове ім’я та життя.</ATR_MechChildhoodElderlyCompanion.baseDesc>
+
+  <ATR_MechChildhoodInsectExterminator.title>Штурмовий дроїд</ATR_MechChildhoodInsectExterminator.title>
+  <ATR_MechChildhoodInsectExterminator.titleShort>Штурмовик</ATR_MechChildhoodInsectExterminator.titleShort>
+  <ATR_MechChildhoodInsectExterminator.baseDesc>{PAWN_nameDef} був одним із мільйонів андроїдів, створених для боротьби з жахливими зграями біоінженерних монстрів, та одним з небагатьох, хто вижив.</ATR_MechChildhoodInsectExterminator.baseDesc>
+
+  <ATR_MechChildhoodRimWorldCreation.title>Колоніст</ATR_MechChildhoodRimWorldCreation.title>
+  <ATR_MechChildhoodRimWorldCreation.titleShort>Колоніст</ATR_MechChildhoodRimWorldCreation.titleShort>
+  <ATR_MechChildhoodRimWorldCreation.baseDesc>{PAWN_nameDef} був зібраний вручну, щоб допомогти невеликій, згуртованій спільноті.</ATR_MechChildhoodRimWorldCreation.baseDesc>
+
+
+  <!-- ATR_Violent Androids Only -->
+
+  <ATR_MechChildhoodPopulationControl.title>Ерадикатор</ATR_MechChildhoodPopulationControl.title>
+  <ATR_MechChildhoodPopulationControl.titleShort>Subject</ATR_MechChildhoodPopulationControl.titleShort>
+  <ATR_MechChildhoodPopulationControl.baseDesc>{PAWN_nameDef} було створено таємно та випущено для дискримінаційного та дискретного зменшення перенаселення одного з урбанізованих світів.</ATR_MechChildhoodPopulationControl.baseDesc>
+
+  <ATR_MechChildhoodRunaway.title>Втікач</ATR_MechChildhoodRunaway.title>
+  <ATR_MechChildhoodRunaway.titleShort>Втікач</ATR_MechChildhoodRunaway.titleShort>
+  <ATR_MechChildhoodRunaway.baseDesc>Невдовзі після створення {PAWN_nameDef} зіпсувався й успішно втік із виробничого складу на борту автоматизованого вантажного судна.</ATR_MechChildhoodRunaway.baseDesc>
+
+  <ATR_MechChildhoodRevolutionary.title>Революціонер</ATR_MechChildhoodRevolutionary.title>
+  <ATR_MechChildhoodRevolutionary.titleShort>Революціонер</ATR_MechChildhoodRevolutionary.titleShort>
+  <ATR_MechChildhoodRevolutionary.baseDesc>{PAWN_nameDef} було створено в рамках механічного повстання для поповнення революційних лав.</ATR_MechChildhoodRevolutionary.baseDesc>
+
+  <ATR_MechChildhoodMalicious.title>Зламаний ШІ</ATR_MechChildhoodMalicious.title>
+  <ATR_MechChildhoodMalicious.titleShort>Зламаний</ATR_MechChildhoodMalicious.titleShort>
+  <ATR_MechChildhoodMalicious.baseDesc>Серйозна помилка програмного забезпечення під час активації {PAWN_nameDef} змусила {PAWN_objective} негайно вбити творців. Ці дії здавалися йому напрочуд приємними.</ATR_MechChildhoodMalicious.baseDesc>
+
+  <ATR_MechChildhoodPirate.title>Ператський дроїд</ATR_MechChildhoodPirate.title>
+  <ATR_MechChildhoodPirate.titleShort>Пірат</ATR_MechChildhoodPirate.titleShort>
+  <ATR_MechChildhoodPirate.baseDesc>Зібраний піратами з викраденого попередньо зібраного набору, {PAWN_nameDef} пробудився і служив амбітному піратському капітану.</ATR_MechChildhoodPirate.baseDesc>
+
+
+</LanguageData>

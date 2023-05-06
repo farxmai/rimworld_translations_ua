@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_AndroidBody.label>Android</ATR_AndroidBody.label>
+  <ATR_AndroidBody.corePart.parts.3.customLabel>left heatsink</ATR_AndroidBody.corePart.parts.3.customLabel>
+  <ATR_AndroidBody.corePart.parts.4.customLabel>right heatsink</ATR_AndroidBody.corePart.parts.4.customLabel>
+  <ATR_AndroidBody.corePart.parts.7.parts.0.parts.3.customLabel>left visual sensor</ATR_AndroidBody.corePart.parts.7.parts.0.parts.3.customLabel>
+  <ATR_AndroidBody.corePart.parts.7.parts.0.parts.4.customLabel>right visual sensor</ATR_AndroidBody.corePart.parts.7.parts.0.parts.4.customLabel>
+  <ATR_AndroidBody.corePart.parts.7.parts.0.parts.5.customLabel>left audio sensor</ATR_AndroidBody.corePart.parts.7.parts.0.parts.5.customLabel>
+  <ATR_AndroidBody.corePart.parts.7.parts.0.parts.6.customLabel>right audio sensor</ATR_AndroidBody.corePart.parts.7.parts.0.parts.6.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.customLabel>left shoulder</ATR_AndroidBody.corePart.parts.8.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.customLabel>left arm</ATR_AndroidBody.corePart.parts.8.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.customLabel>left hand</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>left pinky</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>left ring finger</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>left middle finger</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>left index finger</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>
+  <ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>left thumb</ATR_AndroidBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.customLabel>right shoulder</ATR_AndroidBody.corePart.parts.9.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.customLabel>right arm</ATR_AndroidBody.corePart.parts.9.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.customLabel>right hand</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>right pinky</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>right ring finger</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>right middle finger</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.3.customLabel>right index finger</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.3.customLabel>
+  <ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.4.customLabel>right thumb</ATR_AndroidBody.corePart.parts.9.parts.0.parts.0.parts.4.customLabel>
+  <ATR_AndroidBody.corePart.parts.11.customLabel>left leg</ATR_AndroidBody.corePart.parts.11.customLabel>
+  <ATR_AndroidBody.corePart.parts.11.parts.0.customLabel>left foot</ATR_AndroidBody.corePart.parts.11.parts.0.customLabel>
+  <ATR_AndroidBody.corePart.parts.12.customLabel>right leg</ATR_AndroidBody.corePart.parts.12.customLabel>
+  <ATR_AndroidBody.corePart.parts.12.parts.0.customLabel>right foot</ATR_AndroidBody.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

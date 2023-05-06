@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_OpportunitySite_ArchotechArrival.root.nodes.5.node.name>siteThreatChance</ATR_OpportunitySite_ArchotechArrival.root.nodes.5.node.name>
+  <ATR_OpportunitySite_ArchotechArrival.root.nodes.5.elseNode.name>siteThreatChance</ATR_OpportunitySite_ArchotechArrival.root.nodes.5.elseNode.name>
+  <ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.label>Quest expired: [resolvedQuestName]</ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.label>
+  <ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.text>The mysterious signal beckoning you to the crashsite of the ominous meterorite has suddenly ceased. The quest [resolvedQuestName] has expired.</ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.text>
+  <ATR_OpportunitySite_ArchotechArrival.questDescriptionRules.rulesStrings.0>questDescription-&gt;With a screetching roar, a fiery ball of metal hurtles through the sky. The very air seems to quake. It did not seem to come from space. Eventually, it lands beyond the horizon - and yet somehow its exact landing spot is known to you. What could possibly be beckoning you there, and for what purpose?
+                \nInexplicably, you sense that [allSitePartsDescriptionsExceptFirst]</ATR_OpportunitySite_ArchotechArrival.questDescriptionRules.rulesStrings.0>
+  <ATR_OpportunitySite_ArchotechArrival.questNameRules.rulesStrings.0>questName-&gt;Ominous Meteorite</ATR_OpportunitySite_ArchotechArrival.questNameRules.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_AndroidT2CollectiveTrader.label>T2 Android Trader</ATR_AndroidT2CollectiveTrader.label>
+  <ATR_AndroidT2CollectiveTrader.labelPlural>Union traders</ATR_AndroidT2CollectiveTrader.labelPlural>
+  <ATR_AndroidT2CollectiveTrader.labelMale>male T2 Android Trader</ATR_AndroidT2CollectiveTrader.labelMale>
+  <ATR_AndroidT2CollectiveTrader.labelMalePlural>male Union traders</ATR_AndroidT2CollectiveTrader.labelMalePlural>
+  <ATR_AndroidT2CollectiveTrader.labelFemale>female T2 Android Trader</ATR_AndroidT2CollectiveTrader.labelFemale>
+  <ATR_AndroidT2CollectiveTrader.labelFemalePlural>female Union traders</ATR_AndroidT2CollectiveTrader.labelFemalePlural>
+
+  <ATR_AndroidT1CollectiveSoldier.label>T1 Android Soldier</ATR_AndroidT1CollectiveSoldier.label>
+  <ATR_AndroidT1CollectiveSoldier.labelPlural>Android soldiers</ATR_AndroidT1CollectiveSoldier.labelPlural>
+  <ATR_AndroidT1CollectiveSoldier.labelMale>male T1 Android Soldier</ATR_AndroidT1CollectiveSoldier.labelMale>
+  <ATR_AndroidT1CollectiveSoldier.labelMalePlural>male Android soldiers</ATR_AndroidT1CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT1CollectiveSoldier.labelFemale>female T1 Android Soldier</ATR_AndroidT1CollectiveSoldier.labelFemale>
+  <ATR_AndroidT1CollectiveSoldier.labelFemalePlural>female Android soldiers</ATR_AndroidT1CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT2CollectiveSoldier.label>T2 Android Soldier</ATR_AndroidT2CollectiveSoldier.label>
+  <ATR_AndroidT2CollectiveSoldier.labelPlural>Android Soldiers</ATR_AndroidT2CollectiveSoldier.labelPlural>
+  <ATR_AndroidT2CollectiveSoldier.labelMale>male T2 Android Soldier</ATR_AndroidT2CollectiveSoldier.labelMale>
+  <ATR_AndroidT2CollectiveSoldier.labelMalePlural>male Android Soldiers</ATR_AndroidT2CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT2CollectiveSoldier.labelFemale>female T2 Android Soldier</ATR_AndroidT2CollectiveSoldier.labelFemale>
+  <ATR_AndroidT2CollectiveSoldier.labelFemalePlural>female Android Soldiers</ATR_AndroidT2CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT3CollectiveSoldier.label>T3 Android Soldier</ATR_AndroidT3CollectiveSoldier.label>
+  <ATR_AndroidT3CollectiveSoldier.labelPlural>Union soldiers</ATR_AndroidT3CollectiveSoldier.labelPlural>
+  <ATR_AndroidT3CollectiveSoldier.labelMale>male T3 Android Soldier</ATR_AndroidT3CollectiveSoldier.labelMale>
+  <ATR_AndroidT3CollectiveSoldier.labelMalePlural>male Union soldiers</ATR_AndroidT3CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT3CollectiveSoldier.labelFemale>female T3 Android Soldier</ATR_AndroidT3CollectiveSoldier.labelFemale>
+  <ATR_AndroidT3CollectiveSoldier.labelFemalePlural>female Union soldiers</ATR_AndroidT3CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT4CollectiveSoldier.label>T4 Android Soldier</ATR_AndroidT4CollectiveSoldier.label>
+  <ATR_AndroidT4CollectiveSoldier.labelPlural>Android Soldiers</ATR_AndroidT4CollectiveSoldier.labelPlural>
+  <ATR_AndroidT4CollectiveSoldier.labelMale>male T4 Android Soldier</ATR_AndroidT4CollectiveSoldier.labelMale>
+  <ATR_AndroidT4CollectiveSoldier.labelMalePlural>male Android Soldiers</ATR_AndroidT4CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT4CollectiveSoldier.labelFemale>female T4 Android Soldier</ATR_AndroidT4CollectiveSoldier.labelFemale>
+  <ATR_AndroidT4CollectiveSoldier.labelFemalePlural>female Android Soldiers</ATR_AndroidT4CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT4CollectiveLeader.label>Android leader</ATR_AndroidT4CollectiveLeader.label>
+  <ATR_AndroidT4CollectiveLeader.labelPlural>Android leaders</ATR_AndroidT4CollectiveLeader.labelPlural>
+  <ATR_AndroidT4CollectiveLeader.labelMale>male Android leader</ATR_AndroidT4CollectiveLeader.labelMale>
+  <ATR_AndroidT4CollectiveLeader.labelMalePlural>male Android leaders</ATR_AndroidT4CollectiveLeader.labelMalePlural>
+  <ATR_AndroidT4CollectiveLeader.labelFemale>female Android leader</ATR_AndroidT4CollectiveLeader.labelFemale>
+  <ATR_AndroidT4CollectiveLeader.labelFemalePlural>female Android leaders</ATR_AndroidT4CollectiveLeader.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechFallTargetterBeam.label>Mechfall</ATR_MechFallTargetterBeam.label>
+
+  <ATR_OrbitalTargeterMechFall.label>M7-Series deployment targeter</ATR_OrbitalTargeterMechFall.label>
+  <ATR_OrbitalTargeterMechFall.description>An ancient targetting unit for an M7-Series war mech. The device indicates that there is indeed a fully active mech awaiting the command to drop on a designated target. It doesn't seem to indicate what it will target, however.</ATR_OrbitalTargeterMechFall.description>
+
+
+</LanguageData>

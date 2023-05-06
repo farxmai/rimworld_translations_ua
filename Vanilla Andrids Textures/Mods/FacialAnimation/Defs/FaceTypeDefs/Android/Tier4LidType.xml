@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidAndroid</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Android4</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidAlmond</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Almond</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidCheerful</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Cheerful</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidUnimpressed</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Sleepy</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidFlirty</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Flashy</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+		<gender>Female</gender>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidHardened</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Hardened</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+		<gender>Male</gender>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidSimple</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Simple</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>ATR_Tier4_LidSquinting</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Squinting</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>ATR_Tier4Android</raceName>
+	</FacialAnimation.LidTypeDef>
+
+</Defs>

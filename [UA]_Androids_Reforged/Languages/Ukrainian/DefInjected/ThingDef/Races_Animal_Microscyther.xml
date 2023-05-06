@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MicroScyther.label>Micro Scyther</ATR_MicroScyther.label>
+  <ATR_MicroScyther.description>A small flying drone with two side-mounted plasteel blades. While not particularly dangerous alone, these drones are rarely ever seen alone. Swarms can shred targets to pieces swiftly.\n\nThese drones have barebones IFF sensors, and will attack any non-microscyther.</ATR_MicroScyther.description>
+  <ATR_MicroScyther.tools.0.label>head</ATR_MicroScyther.tools.0.label>
+  <ATR_MicroScyther.tools.1.label>left wing</ATR_MicroScyther.tools.1.label>
+  <ATR_MicroScyther.tools.2.label>right wing</ATR_MicroScyther.tools.2.label>
+
+
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!--<ATR_MicroScyther_Corpse.label>Micro Scyther corpse</ATR_MicroScyther_Corpse.label>-->
+  <!--<ATR_MicroScyther_Corpse.description>Micro Scyther corpse</ATR_MicroScyther_Corpse.description>-->
+
+</LanguageData>

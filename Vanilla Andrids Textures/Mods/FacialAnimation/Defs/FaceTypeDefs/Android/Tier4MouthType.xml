@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthSad</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SadMouth</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SmileMouth</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthCheekFrown</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/CheekFrown</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthHawk</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Hawk</texPath>
+		<gender>Male</gender>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthLittleFrown</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LittleFrown</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthLittleGrin</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LittleGrin</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthScowl</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Scowl</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>ATR_Tier4Android</raceName>
+		<gender>Male</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthSimpleMouth</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SimpleMouth</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthSmug</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Smug</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthLittleSuperSmirk</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SuperSmirk</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthClassicSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Simple</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>ATR_Tier4_MouthSmirkSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Smile</texPath>
+		<raceName>ATR_Tier4Android</raceName>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+</Defs>

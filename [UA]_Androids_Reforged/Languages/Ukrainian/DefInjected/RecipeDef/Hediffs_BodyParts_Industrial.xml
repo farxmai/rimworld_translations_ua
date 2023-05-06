@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ATR_Install_MiningArm.label>Install mining arm</ATR_Install_MiningArm.label>
+  <ATR_Install_MiningArm.description>Installs a mining arm.</ATR_Install_MiningArm.description>
+  <ATR_Install_MiningArm.jobString>Installing mining arm.</ATR_Install_MiningArm.jobString>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ATR_Install_AgriArm.label>Install agri arm</ATR_Install_AgriArm.label>
+  <ATR_Install_AgriArm.description>Installs an agri arm.</ATR_Install_AgriArm.description>
+  <ATR_Install_AgriArm.jobString>Installing agri arm.</ATR_Install_AgriArm.jobString>
+
+
+  <!-- Makeshift Leg -->
+
+  <ATR_Install_MakeshiftReplacementLeg.label>Install makeshift mechanical leg</ATR_Install_MakeshiftReplacementLeg.label>
+  <ATR_Install_MakeshiftReplacementLeg.description>Installs a makeshift mechanical leg.</ATR_Install_MakeshiftReplacementLeg.description>
+  <ATR_Install_MakeshiftReplacementLeg.jobString>Installing makeshift mechanical leg.</ATR_Install_MakeshiftReplacementLeg.jobString>
+
+
+  <!-- Makeshift Arm -->
+
+  <ATR_Install_MakeshiftReplacementArm.label>Install makeshift mechanical arm</ATR_Install_MakeshiftReplacementArm.label>
+  <ATR_Install_MakeshiftReplacementArm.description>Installs a makeshift mechanical arm.</ATR_Install_MakeshiftReplacementArm.description>
+  <ATR_Install_MakeshiftReplacementArm.jobString>Installing makeshift mechanical arm.</ATR_Install_MakeshiftReplacementArm.jobString>
+
+
+</LanguageData>

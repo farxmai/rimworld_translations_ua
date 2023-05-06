@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_PartPack.label>Mechanical Part Pack</ATR_PartPack.label>
+  <ATR_PartPack.description>This pack of half-assembled parts is designed to replace standard components ranging from whole legs and arms to intricate batteries and adaptors. Programmed mechanites shape themselves to fit more complicated tasks.</ATR_PartPack.description>
+
+
+  <!-- Simple Repair Stim -->
+
+  <ATR_RepairStimSimple.label>Simple Repair Stim</ATR_RepairStimSimple.label>
+  <ATR_RepairStimSimple.description>A small, simple assembled kit of industrial components, and tools for assisting and stimulating mechanical repairs. The kit lacks a number of very helpful assets for more serious injuries or operations, and is suited more for battlefield triage than professional use.</ATR_RepairStimSimple.description>
+
+
+  <!-- Intermediate Repair Stim -->
+
+  <ATR_RepairStimIntermediate.label>Intermediate Repair Stim</ATR_RepairStimIntermediate.label>
+  <ATR_RepairStimIntermediate.description>An assembled kit of industrial components, mechanites and tools for assisting and stimulating mechanical repairs. Stimulation kits like this are the core tools of any mechanic who believes in quality. Well-suited to a range of tasks, it is functionally capable and practical.</ATR_RepairStimIntermediate.description>
+
+
+  <!-- Advanced Repair Stim -->
+
+  <ATR_RepairStimAdvanced.label>Advanced Repair Stim</ATR_RepairStimAdvanced.label>
+  <ATR_RepairStimAdvanced.description>An array of high-tech mechanites and tools for assisting and stimulating mechanical repairs. Relatively uncommon outside Glitterworlds, kits like these are highly prized by mechanics and any self-respecting android. The autonomous mechanites can make even poor mechanics seem very competent.</ATR_RepairStimAdvanced.description>
+
+
+  <!-- Android Resurrection Kit -->
+
+  <ATR_AndroidResurrectorKit.label>Android Resurrector Kit</ATR_AndroidResurrectorKit.label>
+  <ATR_AndroidResurrectorKit.description>A specialized suite of tools capable of bringing disabled mechanical units back to life. The tools are sufficiently advanced to bring any such unit back to nominal functionality. Revived units must fully reboot in order to begin operating again.</ATR_AndroidResurrectorKit.description>
+  <ATR_AndroidResurrectorKit.comps.0.useLabel>Use resurrector kit</ATR_AndroidResurrectorKit.comps.0.useLabel>
+
+
+  <!-- Drone Resurrector Kit -->
+
+  <ATR_DroneResurrectorKit.label>Drone Resurrector Kit</ATR_DroneResurrectorKit.label>
+  <ATR_DroneResurrectorKit.description>A specialized suite of tools capable of bringing disabled simple mechanical drones back to life. The tools are sufficiently advanced to bring simple-minded mechanical units like animals back to life. Revived units must fully reboot in order to begin operating again.</ATR_DroneResurrectorKit.description>
+  <ATR_DroneResurrectorKit.comps.0.useLabel>Use resurrector kit</ATR_DroneResurrectorKit.comps.0.useLabel>
+
+
+  <!--<ATR_AndroidResurrectorKit.comps.1.useLabel>Use resurrector kit</ATR_AndroidResurrectorKit.comps.1.useLabel>-->
+  <!--<ATR_DroneResurrectorKit.comps.1.useLabel>Use resurrector kit</ATR_DroneResurrectorKit.comps.1.useLabel>-->
+  <!--<ATR_AndroidResurrectorKit.comps.0.useLabel>Use resurrector kit</ATR_AndroidResurrectorKit.comps.0.useLabel>-->
+  <!--<ATR_DroneResurrectorKit.comps.0.useLabel>Use resurrector kit</ATR_DroneResurrectorKit.comps.0.useLabel>-->
+
+</LanguageData>

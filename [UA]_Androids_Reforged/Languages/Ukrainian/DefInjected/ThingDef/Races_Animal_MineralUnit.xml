@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneMineralUnit.label>Mineral unit</ATR_DroneMineralUnit.label>
+  <ATR_DroneMineralUnit.description>These drones are ubiquitous in android societies on life-bearing worlds thanks to their specialized machinery capable of extracting minerals from organic material in order to refine and forge into steel. Their ravenous consumption of said organic matter has led to planet-wide bans on many worlds - and to many worlds being turned near lifeless by roaming android "pastoralists" who take "herds" of these creatures from planet to planet.</ATR_DroneMineralUnit.description>
+  <ATR_DroneMineralUnit.tools.0.label>head</ATR_DroneMineralUnit.tools.0.label>
+
+
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!--<ATR_DroneMineralUnit_Corpse.label>Mineral unit corpse</ATR_DroneMineralUnit_Corpse.label>-->
+  <!--<ATR_DroneMineralUnit_Corpse.description>Mineral unit corpse</ATR_DroneMineralUnit_Corpse.description>-->
+
+</LanguageData>

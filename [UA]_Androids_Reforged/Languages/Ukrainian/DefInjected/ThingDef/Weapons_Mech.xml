@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rotary Autocannon -->
+
+  <ATR_AutocannonShell.label>Autocannon shell</ATR_AutocannonShell.label>
+
+  <ATR_RotaryAutocannon.label>Rotary Autocannon</ATR_RotaryAutocannon.label>
+  <ATR_RotaryAutocannon.description>This massive weapon, larger than entire humans, is designed to bring even the largest opponents down under a barrage of direct-fire artillery shells. Rotating barrels integrated with a high efficiency autoloading magazine ensure steady rate of lethal fire. \n\nWeapons like this, mountable only on massive weapons of war, raise the question: Was such weaponry invented to defeat mechs or were mechs invented in order to wield it?</ATR_RotaryAutocannon.description>
+  <ATR_RotaryAutocannon.tools.0.label>barrel</ATR_RotaryAutocannon.tools.0.label>
+  <ATR_RotaryAutocannon.tools.1.label>stock</ATR_RotaryAutocannon.tools.1.label>
+  <ATR_RotaryAutocannon.tools.2.label>grip</ATR_RotaryAutocannon.tools.2.label>
+
+
+  <!-- Rotary Shrapnelcannon -->
+
+  <ATR_ShrapnelcannonChunk.label>Shrapnel chunk</ATR_ShrapnelcannonChunk.label>
+
+  <ATR_RotaryShrapnelcannon.label>Rotary Shrapnelcannon</ATR_RotaryShrapnelcannon.label>
+  <ATR_RotaryShrapnelcannon.description>This massive weapon, larger than entire humans, is designed to shred densely packed targets with a barrage of shrapnel the size of a bench. Rotating barrels integrated with a high efficiency autoloading magazine ensure steady rate of lethal fire. \n\nWeapons like this, mountable only on massive weapons of war, raise the question: Was such weaponry invented to defeat mechs or were mechs invented in order to wield it?</ATR_RotaryShrapnelcannon.description>
+  <ATR_RotaryShrapnelcannon.tools.0.label>barrel</ATR_RotaryShrapnelcannon.tools.0.label>
+  <ATR_RotaryShrapnelcannon.tools.1.label>stock</ATR_RotaryShrapnelcannon.tools.1.label>
+  <ATR_RotaryShrapnelcannon.tools.2.label>grip</ATR_RotaryShrapnelcannon.tools.2.label>
+
+
+  <!-- Headhunter Cannon -->
+
+  <ATR_HeadhunterCannon.label>Headhunter Cannon</ATR_HeadhunterCannon.label>
+  <ATR_HeadhunterCannon.description>This massive weapon, the size of a full-grown human, is designed to fire long-range direct-fire artillery shells with pinpoint accuracy to take out key targets before they can retaliate. With a great deal of internal auto-correcting components, this weapon is a tank-buster by nature. \n\nWeapons like this, mountable only on massive weapons of war, raise the question: Was such weaponry invented to defeat mechs or were mechs invented in order to wield it?</ATR_HeadhunterCannon.description>
+  <ATR_HeadhunterCannon.tools.0.label>barrel</ATR_HeadhunterCannon.tools.0.label>
+  <ATR_HeadhunterCannon.tools.1.label>stock</ATR_HeadhunterCannon.tools.1.label>
+  <ATR_HeadhunterCannon.tools.2.label>grip</ATR_HeadhunterCannon.tools.2.label>
+
+
+  <!-- Mech Poleaxe -->
+
+  <ATR_MechPoleaxe.label>Mech Poleaxe</ATR_MechPoleaxe.label>
+  <ATR_MechPoleaxe.description>This massive weapon, the size of a full-grown human, serves the exact same purpose its smaller cousins serve: to close with the enemy and hack them apart. Of course, this tool is better at it than its ancestors - it is made of fine glitterworld grade materials and honed to perfection... and is large enough to splatter people rather than need to stab or cut. \n\nWeapons like this, usable only be massive weapons of war, raise the question: Was such weaponry invented to defeat mechs or were mechs invented in order to wield it?</ATR_MechPoleaxe.description>
+  <ATR_MechPoleaxe.tools.0.label>spike</ATR_MechPoleaxe.tools.0.label>
+  <ATR_MechPoleaxe.tools.1.label>axe</ATR_MechPoleaxe.tools.1.label>
+  <ATR_MechPoleaxe.tools.2.label>hammer</ATR_MechPoleaxe.tools.2.label>
+
+
+</LanguageData>

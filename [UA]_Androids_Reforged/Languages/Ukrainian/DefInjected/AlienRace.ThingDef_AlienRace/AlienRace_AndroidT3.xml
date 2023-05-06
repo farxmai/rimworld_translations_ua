@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier3Android.label>T3 Android</ATR_Tier3Android.label>
+  <ATR_Tier3Android.description>Androids classified as tier three are often qualified by their large stature - standing at a height ranging from seven to nine feet - and impressive capabilities. They are incredibly durable, modular, and capable. Requiring extensive amounts of rare resources, they are generally only mass-produced on glitterworlds.</ATR_Tier3Android.description>
+  <ATR_Tier3Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_Tier3Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_Tier3Android.tools.0.label>right fist</ATR_Tier3Android.tools.0.label>
+  <ATR_Tier3Android.tools.1.label>left fist</ATR_Tier3Android.tools.1.label>
+  <ATR_Tier3Android.tools.2.label>head</ATR_Tier3Android.tools.2.label>
+
+
+</LanguageData>

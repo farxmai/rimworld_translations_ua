@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_ChargingStation.label>Android charging station</ATR_ChargingStation.label>
+  <ATR_ChargingStation.description>A station built to charge 8 adjacent androids simultaneously.</ATR_ChargingStation.description>
+
+
+  <!-- Bedside Charger -->
+
+  <ATR_BedsideCharger.label>bedside charger</ATR_BedsideCharger.label>
+  <ATR_BedsideCharger.description>A bedside device that allows the occupant of the linked bed to charge. It provides energy while in bed, but consumes a lot of power to do so. It must be placed directly adjacent to and facing the head of the bed.</ATR_BedsideCharger.description>
+
+
+  <!-- Charging Pods -->
+
+  <ATR_ChargingPod.label>Charging pod</ATR_ChargingPod.label>
+  <ATR_ChargingPod.description>A simple charging pod that can charge mechanical units. It is not designed for comfort.</ATR_ChargingPod.description>
+
+  <ATR_ChargingPodMech.label>Mech pod</ATR_ChargingPodMech.label>
+  <ATR_ChargingPodMech.description>An extremely large charging pod capable of storing the bulk of a war mech that can not fit in any smaller pod.</ATR_ChargingPodMech.description>
+
+
+  <!-- Minified Vanometric Power Cell for SkyMind Core needs -->
+
+  <ATR_VanometricPowerCellMinified.label>minified vanometric power cell</ATR_VanometricPowerCellMinified.label>
+
+
+  <!--<ATR_ChargingStation_Blueprint.label>Android charging station (blueprint)</ATR_ChargingStation_Blueprint.label>-->
+  <!--<ATR_ChargingStation_Blueprint_Install.label>Android charging station (blueprint)</ATR_ChargingStation_Blueprint_Install.label>-->
+  <!--<ATR_ChargingStation_Frame.label>Android charging station (building)</ATR_ChargingStation_Frame.label>-->
+  <!--<ATR_ChargingStation_Frame.description>A station built to charge 8 adjacent androids simultaneously.</ATR_ChargingStation_Frame.description>-->
+  <!--<ATR_BedsideCharger_Blueprint.label>bedside charger (blueprint)</ATR_BedsideCharger_Blueprint.label>-->
+  <!--<ATR_BedsideCharger_Blueprint_Install.label>bedside charger (blueprint)</ATR_BedsideCharger_Blueprint_Install.label>-->
+  <!--<ATR_BedsideCharger_Frame.label>bedside charger (building)</ATR_BedsideCharger_Frame.label>-->
+  <!--<ATR_BedsideCharger_Frame.description>A bedside device that allows the occupant of the linked bed to charge. It provides energy while in bed, but consumes a lot of power to do so. It must be placed directly adjacent to and facing the head of the bed.</ATR_BedsideCharger_Frame.description>-->
+  <!--<ATR_ChargingPod_Blueprint.label>Charging pod (blueprint)</ATR_ChargingPod_Blueprint.label>-->
+  <!--<ATR_ChargingPod_Blueprint_Install.label>Charging pod (blueprint)</ATR_ChargingPod_Blueprint_Install.label>-->
+  <!--<ATR_ChargingPod_Frame.label>Charging pod (building)</ATR_ChargingPod_Frame.label>-->
+  <!--<ATR_ChargingPod_Frame.description>A simple charging pod that can charge mechanical units. It is not designed for comfort.</ATR_ChargingPod_Frame.description>-->
+  <!--<ATR_ChargingPodMech_Blueprint.label>Mech pod (blueprint)</ATR_ChargingPodMech_Blueprint.label>-->
+  <!--<ATR_ChargingPodMech_Blueprint_Install.label>Mech pod (blueprint)</ATR_ChargingPodMech_Blueprint_Install.label>-->
+  <!--<ATR_ChargingPodMech_Frame.label>Mech pod (building)</ATR_ChargingPodMech_Frame.label>-->
+  <!--<ATR_ChargingPodMech_Frame.description>An extremely large charging pod capable of storing the bulk of a war mech that can not fit in any smaller pod.</ATR_ChargingPodMech_Frame.description>-->
+
+</LanguageData>

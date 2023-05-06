@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechAntifreeze.label>Mechanite antifreeze</ATR_MechAntifreeze.label>
+  <ATR_MechAntifreeze.description>Synthetic chemical compound designed to reduce chassis susceptibility to adverse temperature - positive and negative. Not safe for organic consumption.</ATR_MechAntifreeze.description>
+
+
+  <!--<ATR_MechAntifreeze.ingestible.ingestCommandString>Take {0}</ATR_MechAntifreeze.ingestible.ingestCommandString>-->
+  <!--<ATR_MechAntifreeze.ingestible.ingestReportString>Taking {0}.</ATR_MechAntifreeze.ingestible.ingestReportString>-->
+
+</LanguageData>

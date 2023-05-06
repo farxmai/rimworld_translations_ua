@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <ATR_FractalAbomination.label>Fractal abomination</ATR_FractalAbomination.label>
+  <ATR_FractalAbomination.labelPlural>Fractal abominations</ATR_FractalAbomination.labelPlural>
+  <ATR_FractalAbomination.labelMale>male Fractal abomination</ATR_FractalAbomination.labelMale>
+  <ATR_FractalAbomination.labelMalePlural>male Fractal abominations</ATR_FractalAbomination.labelMalePlural>
+  <ATR_FractalAbomination.labelFemale>female Fractal abomination</ATR_FractalAbomination.labelFemale>
+  <ATR_FractalAbomination.labelFemalePlural>female Fractal abominations</ATR_FractalAbomination.labelFemalePlural>
+
+
+  <!--<ATR_FractalAbomination.labelMale>male Fractal abomination</ATR_FractalAbomination.labelMale>-->
+  <!--<ATR_FractalAbomination.labelMalePlural>male Fractal abominations</ATR_FractalAbomination.labelMalePlural>-->
+  <!--<ATR_FractalAbomination.labelFemale>female Fractal abomination</ATR_FractalAbomination.labelFemale>-->
+  <!--<ATR_FractalAbomination.labelFemalePlural>female Fractal abominations</ATR_FractalAbomination.labelFemalePlural>-->
+
+</LanguageData>

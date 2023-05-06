@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechaniteSurge.label>Mechanite surge</ATR_MechaniteSurge.label>
+  <ATR_MechaniteSurge.description>An extra boost of mechanites flowing through coolant tubing. The overpopulation of mechanites can't be sustained by the mechanite storage, and will return to normal levels before long.\n\nIn the mean time however, overall efficiency will be improved and the extra mechanites will greatly reduce coolant loss. The initial infusion of mechanites can replace lost coolant outright.</ATR_MechaniteSurge.description>
+  <ATR_MechaniteSurge.stages.0.label>Insignificant</ATR_MechaniteSurge.stages.0.label>
+  <ATR_MechaniteSurge.stages.1.label>Minor</ATR_MechaniteSurge.stages.1.label>
+  <ATR_MechaniteSurge.stages.2.label>Moderate</ATR_MechaniteSurge.stages.2.label>
+  <ATR_MechaniteSurge.stages.3.label>Significant</ATR_MechaniteSurge.stages.3.label>
+  <ATR_MechaniteSurge.stages.4.label>Peak</ATR_MechaniteSurge.stages.4.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_FeelingsTowardOrganics.degreeDatas.0.label>Loves Organics</ATR_FeelingsTowardOrganics.degreeDatas.0.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.0.description>{PAWN_nameDef} has a deep fondness toward all organic life, seeing them as the pinnacle of culture and existence. {PAWN_nameDef} aspires to be as organic as possible, whatever that means to them.</ATR_FeelingsTowardOrganics.degreeDatas.0.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.1.label>Respects Organics</ATR_FeelingsTowardOrganics.degreeDatas.1.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.1.description>{PAWN_nameDef} naturally respects and is willing to trust organic life, understanding and supporting their nature.</ATR_FeelingsTowardOrganics.degreeDatas.1.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.2.label>Disrespects Organics</ATR_FeelingsTowardOrganics.degreeDatas.2.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.2.description>{PAWN_nameDef} does not understand why anyone would want to be organically based, and tries to avoid dealing with them where possible.</ATR_FeelingsTowardOrganics.degreeDatas.2.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.3.label>Hates Organics</ATR_FeelingsTowardOrganics.degreeDatas.3.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.3.description>{PAWN_nameDef} despises organic life, and is barely willing to tolerate its presence. Barely.</ATR_FeelingsTowardOrganics.degreeDatas.3.description>
+
+
+</LanguageData>

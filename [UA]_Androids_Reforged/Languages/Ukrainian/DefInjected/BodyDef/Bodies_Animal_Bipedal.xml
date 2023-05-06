@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechBipedal.label>Bipedal drone</ATR_MechBipedal.label>
+  <ATR_MechBipedal.corePart.parts.3.customLabel>left heatsink</ATR_MechBipedal.corePart.parts.3.customLabel>
+  <ATR_MechBipedal.corePart.parts.4.customLabel>right heatsink</ATR_MechBipedal.corePart.parts.4.customLabel>
+  <ATR_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>left visual sensor</ATR_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>
+  <ATR_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>right visual sensor</ATR_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>
+  <ATR_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>left audio sensor</ATR_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>
+  <ATR_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>right audio sensor</ATR_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>
+  <ATR_MechBipedal.corePart.parts.8.customLabel>left leg</ATR_MechBipedal.corePart.parts.8.customLabel>
+  <ATR_MechBipedal.corePart.parts.8.parts.0.customLabel>left foot</ATR_MechBipedal.corePart.parts.8.parts.0.customLabel>
+  <ATR_MechBipedal.corePart.parts.9.customLabel>right leg</ATR_MechBipedal.corePart.parts.9.customLabel>
+  <ATR_MechBipedal.corePart.parts.9.parts.0.customLabel>right foot</ATR_MechBipedal.corePart.parts.9.parts.0.customLabel>
+
+
+</LanguageData>

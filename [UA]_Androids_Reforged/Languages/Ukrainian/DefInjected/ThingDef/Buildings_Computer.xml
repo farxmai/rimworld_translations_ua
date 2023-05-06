@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SkyMind Core -->
+
+  <ATR_SkyMindCore.label>SkyMind Core</ATR_SkyMindCore.label>
+  <ATR_SkyMindCore.description>A network of persona intelligences collectively forming a single supercomputer capable of processing, storing, and manipulating vast quantities of information - that which ultimately defines a consciousness. This device is capable of providing digital immortality, consciousness operations, and remote controls to properly outfitted organic and mechanical individuals alike. Its existence is proof of strength, willpower, and wealth.\n\nInternalized vanometric power cells support the whole structure, and are judiciously managed by the networked personas to prevent any power disruption of any kind at an immense heat output cost.\n\nShould the device be destroyed or lost, all consciousnesses which can't be stored by other Cores will perish - immortality is not risk-free.</ATR_SkyMindCore.description>
+
+
+  <!-- Networked Database -->
+
+  <ATR_NetworkedDatabase.label>Networked Database</ATR_NetworkedDatabase.label>
+  <ATR_NetworkedDatabase.description>A basic server for data tabulation, storage, and calculations. It is incapable of generating insights, but greatly enhances the workflow of those who wish to spend less time doing math and more time analyzing. It generates a small amount of heat, and may be damaged if the heat exceeds its safety threshold.\n\nDatabases store server points generated from other sources for use when powered and connected to the SkyMind, but does not generate points itself.</ATR_NetworkedDatabase.description>
+
+
+  <!-- Networked Analyst -->
+
+  <ATR_NetworkedAnalyst.label>Networked Analyst</ATR_NetworkedAnalyst.label>
+  <ATR_NetworkedAnalyst.description>A basic server for analyzing data and generating insights into the chosen task focus using rudimentary machine learning algorithms. Due to its small size and number of calculations, it relies on data servers for storage and generates significant heat. It may be damaged if the heat exceeds its safety threshold.\n\nAnalysts generate server points in a chosen category when powered and connected to the SkyMind, but can not store points.</ATR_NetworkedAnalyst.description>
+
+
+  <!-- Networked Intelligence -->
+
+  <ATR_NetworkedIntelligence.label>Networked Intelligence</ATR_NetworkedIntelligence.label>
+  <ATR_NetworkedIntelligence.description>An advanced server for data analysis, tabulation, storage, and insight generation in a chosen task focus using an autonomous AI persona. While it theoretically makes other servers obsolete, the space efficiency and use cases come at a high cost of power and heat generation. It is very susceptible to overheating and may become damaged if it overheats.\n\nIntelligences store and produce server points in a chosen field when powered and connected to the SkyMind, but requires a persona core.</ATR_NetworkedIntelligence.description>
+
+
+  <!-- Archotech Network -->
+
+  <ATR_ArchotechNetwork.label>Archotech Server Network</ATR_ArchotechNetwork.label>
+  <ATR_ArchotechNetwork.description>An incredibly powerful archotech device that seems to readily offer equally incredible insights in training skills, and how to both secure and breach critical data. It neither uses energy nor produces heat to the amazement of any who have the honor of witnessing it. Many believe that they serve as the eyes and ears of invisible archotech societies interested in monitoring the universe, and that they only gift information to those who have earned an archotech's blessing. Others believe them to be cursed, as they serve as beacons to the unfortunate souls corrupted by fractal warping. \n\nThis is an extremely powerful asset, and many have sought to claim it as their own. Most of those who have tried have become fractal abominations. Even in that sad state, they will continue to seek it out. Be warned.\n\nThe network will produce vast amounts of insight into all fields, and can easily store equally vast quantities of information - and amazingly, does so without power or any SkyMind connection whatsoever.</ATR_ArchotechNetwork.description>
+
+
+  <!--<ATR_SkyMindCore_Blueprint.label>SkyMind Core (blueprint)</ATR_SkyMindCore_Blueprint.label>-->
+  <!--<ATR_SkyMindCore_Frame.label>SkyMind Core (building)</ATR_SkyMindCore_Frame.label>-->
+  <!--<ATR_SkyMindCore_Frame.description>A network of persona intelligences collectively forming a single supercomputer capable of processing, storing, and manipulating vast quantities of information - that which ultimately defines a consciousness. This device is capable of providing digital immortality, consciousness operations, and remote controls to properly outfitted organic and mechanical individuals alike. Its existence is proof of strength, willpower, and wealth.\n\nInternalized vanometric power cells support the whole structure, and are judiciously managed by the networked personas to prevent any power disruption of any kind at an immense heat output cost.\n\nShould the device be destroyed or lost, all consciousnesses which can't be stored by other Cores will perish - immortality is not risk-free.</ATR_SkyMindCore_Frame.description>-->
+  <!--<ATR_NetworkedDatabase_Blueprint.label>Networked Database (blueprint)</ATR_NetworkedDatabase_Blueprint.label>-->
+  <!--<ATR_NetworkedDatabase_Blueprint_Install.label>Networked Database (blueprint)</ATR_NetworkedDatabase_Blueprint_Install.label>-->
+  <!--<ATR_NetworkedDatabase_Frame.label>Networked Database (building)</ATR_NetworkedDatabase_Frame.label>-->
+  <!--<ATR_NetworkedDatabase_Frame.description>A basic server for data tabulation, storage, and calculations. It is incapable of generating insights, but greatly enhances the workflow of those who wish to spend less time doing math and more time analyzing. It generates a small amount of heat, and may be damaged if the heat exceeds its safety threshold.\n\nDatabases store server points generated from other sources for use when powered and connected to the SkyMind, but does not generate points itself.</ATR_NetworkedDatabase_Frame.description>-->
+  <!--<ATR_NetworkedAnalyst_Blueprint.label>Networked Analyst (blueprint)</ATR_NetworkedAnalyst_Blueprint.label>-->
+  <!--<ATR_NetworkedAnalyst_Blueprint_Install.label>Networked Analyst (blueprint)</ATR_NetworkedAnalyst_Blueprint_Install.label>-->
+  <!--<ATR_NetworkedAnalyst_Frame.label>Networked Analyst (building)</ATR_NetworkedAnalyst_Frame.label>-->
+  <!--<ATR_NetworkedAnalyst_Frame.description>A basic server for analyzing data and generating insights into the chosen task focus using rudimentary machine learning algorithms. Due to its small size and number of calculations, it relies on data servers for storage and generates significant heat. It may be damaged if the heat exceeds its safety threshold.\n\nAnalysts generate server points in a chosen category when powered and connected to the SkyMind, but can not store points.</ATR_NetworkedAnalyst_Frame.description>-->
+  <!--<ATR_NetworkedIntelligence_Blueprint.label>Networked Intelligence (blueprint)</ATR_NetworkedIntelligence_Blueprint.label>-->
+  <!--<ATR_NetworkedIntelligence_Blueprint_Install.label>Networked Intelligence (blueprint)</ATR_NetworkedIntelligence_Blueprint_Install.label>-->
+  <!--<ATR_NetworkedIntelligence_Frame.label>Networked Intelligence (building)</ATR_NetworkedIntelligence_Frame.label>-->
+  <!--<ATR_NetworkedIntelligence_Frame.description>An advanced server for data analysis, tabulation, storage, and insight generation in a chosen task focus using an autonomous AI persona. While it theoretically makes other servers obsolete, the space efficiency and use cases come at a high cost of power and heat generation. It is very susceptible to overheating and may become damaged if it overheats.\n\nIntelligences store and produce server points in a chosen field when powered and connected to the SkyMind, but requires a persona core.</ATR_NetworkedIntelligence_Frame.description>-->
+  <!--<ATR_ArchotechNetwork_Blueprint_Install.label>Archotech Server Network (blueprint)</ATR_ArchotechNetwork_Blueprint_Install.label>-->
+
+</LanguageData>

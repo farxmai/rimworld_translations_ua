@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_RegenOrganic.label>Organic regeneration</ATR_RegenOrganic.label>
+  <ATR_RegenOrganic.description>Specialized mechanites are repairing and fortifying damaged parts of the body.</ATR_RegenOrganic.description>
+  <ATR_RegenOrganic.stages.0.label>Insignificant</ATR_RegenOrganic.stages.0.label>
+  <ATR_RegenOrganic.stages.1.label>Minor</ATR_RegenOrganic.stages.1.label>
+  <ATR_RegenOrganic.stages.2.label>Moderate</ATR_RegenOrganic.stages.2.label>
+  <ATR_RegenOrganic.stages.3.label>Significant</ATR_RegenOrganic.stages.3.label>
+  <ATR_RegenOrganic.stages.4.label>Peak</ATR_RegenOrganic.stages.4.label>
+
+
+  <!-- HediffMechanical -->
+
+  <ATR_RegenMechanical.label>Mechanical regeneration</ATR_RegenMechanical.label>
+  <ATR_RegenMechanical.description>Specially designed mechanites are repairing and fortifying damaged regions of the chassis.</ATR_RegenMechanical.description>
+
+
+</LanguageData>

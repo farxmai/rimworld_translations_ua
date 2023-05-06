@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SkyMind Receiver -->
+
+  <ATR_SkyMindReceiver.label>SkyMind Receiver</ATR_SkyMindReceiver.label>
+  <ATR_SkyMindReceiver.description>A small module that can be implanted into an organic brain to completely override the subject's neural network, converting them into a blank husk to be controlled by an external force. Due to the complexity of the device and the inherent difficulty of controlling organic matter, this device has a tendency to combust violently upon destruction. \n\nMany forces have used this to their advantage to destroy surrogates rather than let them fall into enemy hands.</ATR_SkyMindReceiver.description>
+
+
+  <!-- SkyMind Transceiver -->
+
+  <ATR_SkyMindTransceiver.label>SkyMind Transceiver</ATR_SkyMindTransceiver.label>
+  <ATR_SkyMindTransceiver.description>A small module that can be implaned into an organic brain, allowing the subject to freely interact with the SkyMind network. Successfully implanting or removing this implant has no major consequences.</ATR_SkyMindTransceiver.description>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <ATR_FractalAbomination.label>Fractal Abomination</ATR_FractalAbomination.label>
+  <ATR_FractalAbomination.description>The warped and horrific results of fully fledged fractal warping, abominations are relentless killers and nightmarish beings. Capable of and willing to chase any creature that crosses its path, their echoing screams of damnation are common fodder for even glitterworld horror media. \n\nTo those who know no fear, or to researchers of the archotechs, these beings are of great interest. Born of and yielding so-called fractal pills, abominations are drawn to archotech devices - often congregating around especially powerful artifacts. For this reason, morally corrupt archeologists have been known to stalk abominations in order to follow them to archotech ruins, often only to be murdered by it upon arrival.</ATR_FractalAbomination.description>
+  <ATR_FractalAbomination.tools.1.label>right fist</ATR_FractalAbomination.tools.1.label>
+  <ATR_FractalAbomination.tools.2.label>left fist</ATR_FractalAbomination.tools.2.label>
+  <ATR_FractalAbomination.tools.3.label>head</ATR_FractalAbomination.tools.3.label>
+  <ATR_FractalAbomination.tools.4.label>fractal lance</ATR_FractalAbomination.tools.4.label>
+
+
+  <!--<ATR_FractalAbomination_Leather.label>Fractal Abomination leather</ATR_FractalAbomination_Leather.label>-->
+  <!--<ATR_FractalAbomination_Leather.description>Fractal Abomination leather</ATR_FractalAbomination_Leather.description>-->
+  <!--<ATR_FractalAbomination_Leather.stuffProps.stuffAdjective>Fractal Abomination leather</ATR_FractalAbomination_Leather.stuffProps.stuffAdjective>-->
+  <!-- Use Meat From: Human -->
+  <!--<ATR_FractalAbomination_Corpse.label>Fractal Abomination corpse</ATR_FractalAbomination_Corpse.label>-->
+  <!--<ATR_FractalAbomination_Corpse.description>Fractal Abomination corpse</ATR_FractalAbomination_Corpse.description>-->
+
+</LanguageData>

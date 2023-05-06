@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Framework.label>framework</ATR_Framework.label>
+  <ATR_MechanicalThorax.label>thorax</ATR_MechanicalThorax.label>
+  <ATR_MechanicalNeck.label>neck</ATR_MechanicalNeck.label>
+  <ATR_MechanicalHead.label>head</ATR_MechanicalHead.label>
+  <ATR_VoiceSynthesizer.label>Voice synthesizer</ATR_VoiceSynthesizer.label>
+  <ATR_MechanicalVisualSensor.label>visual sensor</ATR_MechanicalVisualSensor.label>
+  <ATR_MechanicalAudioSensor.label>audio sensor</ATR_MechanicalAudioSensor.label>
+  <ATR_SmellSensor.label>smell sensor</ATR_SmellSensor.label>
+  <ATR_MechanicalShoulder.label>shoulder</ATR_MechanicalShoulder.label>
+  <ATR_MechanicalArm.label>arm</ATR_MechanicalArm.label>
+  <ATR_MechanicalHand.label>hand</ATR_MechanicalHand.label>
+  <ATR_MechanicalFinger.label>finger</ATR_MechanicalFinger.label>
+  <ATR_MechanicalWaist.label>utility slot</ATR_MechanicalWaist.label>
+  <ATR_MechanicalLeg.label>leg</ATR_MechanicalLeg.label>
+  <ATR_MechanicalFoot.label>foot</ATR_MechanicalFoot.label>
+  <ATR_ArtificialBrain.label>artificial brain</ATR_ArtificialBrain.label>
+  <ATR_CoreAssistant.label>core assistant</ATR_CoreAssistant.label>
+  <ATR_CounterWeightTail.label>counterweight</ATR_CounterWeightTail.label>
+  <ATR_MechanicalJaw.label>jaw</ATR_MechanicalJaw.label>
+  <ATR_MechanicalWing.label>wing</ATR_MechanicalWing.label>
+  <ATR_MechanicalPropeller.label>propeller</ATR_MechanicalPropeller.label>
+  <ATR_CounterWeightTop.label>small counterweight</ATR_CounterWeightTop.label>
+
+
+</LanguageData>

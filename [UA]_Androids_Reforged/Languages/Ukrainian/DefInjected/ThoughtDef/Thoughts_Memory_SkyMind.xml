@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_ConnectedSkyMindAttacked.stages.0.label>SkyMind hacked</ATR_ConnectedSkyMindAttacked.stages.0.label>
+  <ATR_ConnectedSkyMindAttacked.stages.0.description>A SkyMind network I connected to was breached! I don't feel safe.</ATR_ConnectedSkyMindAttacked.stages.0.description>
+
+  <ATR_AttackedViaSkyMind.stages.0.label>Directly hacked</ATR_AttackedViaSkyMind.stages.0.label>
+  <ATR_AttackedViaSkyMind.stages.0.description>I was mentally assaulted through a breach in a SkyMind network I connected to! I feel violated - how could I have trusted it to be safe?</ATR_AttackedViaSkyMind.stages.0.description>
+
+  <ATR_TrolledViaSkyMind.stages.0.label>Trolled</ATR_TrolledViaSkyMind.stages.0.label>
+  <ATR_TrolledViaSkyMind.stages.0.description>Hackers went far out of their way to breach the SkyMind network just to hurt and insult me! Who has the audacity to do such a thing - and why couldn't we stop it?</ATR_TrolledViaSkyMind.stages.0.description>
+
+  <ATR_SurrogatePuppetThought.stages.0.label>Murderous puppeteering</ATR_SurrogatePuppetThought.stages.0.label>
+  <ATR_SurrogatePuppetThought.stages.0.description>An intelligent being has been transformed by the colony into a puppet. They may look the same, but now there is no intelligence. We killed them and turned their body into a soulless husk.</ATR_SurrogatePuppetThought.stages.0.description>
+
+
+</LanguageData>

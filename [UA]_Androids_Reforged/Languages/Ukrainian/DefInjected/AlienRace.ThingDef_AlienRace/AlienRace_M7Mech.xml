@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_M7Mech.label>M7 Mechanised infantry</ATR_M7Mech.label>
+  <ATR_M7Mech.description>A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.</ATR_M7Mech.description>
+  <ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <ATR_M7Mech.tools.0.label>right fist</ATR_M7Mech.tools.0.label>
+  <ATR_M7Mech.tools.1.label>left fist</ATR_M7Mech.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MaintenanceSpot.label>maintenance spot</ATR_MaintenanceSpot.label>
+  <ATR_MaintenanceSpot.description>Designates a spot for maintenance. Mechanical pawns will prefer to do maintenance here, and can be assigned to specific units.</ATR_MaintenanceSpot.description>
+
+
+  <!--<ATR_MaintenanceSpot_Blueprint.label>maintenance spot (blueprint)</ATR_MaintenanceSpot_Blueprint.label>-->
+  <!--<ATR_MaintenanceSpot_Frame.label>maintenance spot (building)</ATR_MaintenanceSpot_Frame.label>-->
+  <!--<ATR_MaintenanceSpot_Frame.description>Designates a spot for maintenance. Mechanical pawns will prefer to do maintenance here, and can be assigned to specific units.</ATR_MaintenanceSpot_Frame.description>-->
+
+</LanguageData>

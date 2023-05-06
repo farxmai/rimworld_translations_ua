@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier5Android.label>T5 Android</ATR_Tier5Android.label>
+  <ATR_Tier5Android.description>It is undeniable that this is an archotech device in the form of a mechanical humanoid. It is also undeniable that this is not a true archotech, however. It enigmatically states that "I myself am a common misconception about archotechs," and refuses to elaborate - and also admits that it lies about its birthdate. It is of completely alien comprehension, and can not integrate with the SkyMind. Beings such as this speak nothing of their origin, purpose, or reason for being on a rim world. What could it want, and why does it seem content to participate in normal society? \n\nAnd why are clothes the only thing it refuses to participate in and seems upset by - is it some secret archotech code?</ATR_Tier5Android.description>
+  <ATR_Tier5Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_Tier5Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_Tier5Android.tools.0.label>right fist</ATR_Tier5Android.tools.0.label>
+  <ATR_Tier5Android.tools.1.label>left fist</ATR_Tier5Android.tools.1.label>
+  <ATR_Tier5Android.tools.2.label>head</ATR_Tier5Android.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier2Android.label>T2 Android</ATR_Tier2Android.label>
+  <ATR_Tier2Android.description>The most common tier of androids, tier two androids are classified as the lowest specifications required for fully autonomous sapience. When fully clothed or when viewed from afar, they are easily mistaken for shorter, scrawnier humans. Indeed, tier two intelligences are often the most humanlike and most likely to seek integration into human society.</ATR_Tier2Android.description>
+  <ATR_Tier2Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATR_Tier2Android.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_Tier2Android.tools.0.label>right fist</ATR_Tier2Android.tools.0.label>
+  <ATR_Tier2Android.tools.1.label>left fist</ATR_Tier2Android.tools.1.label>
+  <ATR_Tier2Android.tools.2.label>head</ATR_Tier2Android.tools.2.label>
+
+
+</LanguageData>

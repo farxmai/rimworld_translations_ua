@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicalAssemblyPod.label>Mechanical assembly casket</ATR_MechanicalAssemblyPod.label>
+  <ATR_MechanicalAssemblyPod.description>A casket designed to shape itself to form the chassis and assemble all necessary parts for androids and mechanical animals.</ATR_MechanicalAssemblyPod.description>
+
+  <ATR_MechPartWorkbench.label>Mechanical parts workbench</ATR_MechPartWorkbench.label>
+  <ATR_MechPartWorkbench.description>A workbench that holds all equipment needed to make a variety of android replacement parts.</ATR_MechPartWorkbench.description>
+
+
+  <!--<ATR_MechanicalAssemblyPod_Blueprint.label>Mechanical assembly casket (blueprint)</ATR_MechanicalAssemblyPod_Blueprint.label>-->
+  <!--<ATR_MechanicalAssemblyPod_Blueprint_Install.label>Mechanical assembly casket (blueprint)</ATR_MechanicalAssemblyPod_Blueprint_Install.label>-->
+  <!--<ATR_MechanicalAssemblyPod_Frame.label>Mechanical assembly casket (building)</ATR_MechanicalAssemblyPod_Frame.label>-->
+  <!--<ATR_MechanicalAssemblyPod_Frame.description>A casket designed to shape itself to form the chassis and assemble all necessary parts for androids and mechanical animals.</ATR_MechanicalAssemblyPod_Frame.description>-->
+  <!--<ATR_MechPartWorkbench_Blueprint.label>Mechanical parts workbench (blueprint)</ATR_MechPartWorkbench_Blueprint.label>-->
+  <!--<ATR_MechPartWorkbench_Blueprint_Install.label>Mechanical parts workbench (blueprint)</ATR_MechPartWorkbench_Blueprint_Install.label>-->
+  <!--<ATR_MechPartWorkbench_Frame.label>Mechanical parts workbench (building)</ATR_MechPartWorkbench_Frame.label>-->
+  <!--<ATR_MechPartWorkbench_Frame.description>A workbench that holds all equipment needed to make a variety of android replacement parts.</ATR_MechPartWorkbench_Frame.description>-->
+
+</LanguageData>

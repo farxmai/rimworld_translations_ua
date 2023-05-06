@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_FractalPillOrganic.label>Fractal Warping</ATR_FractalPillOrganic.label>
+  <ATR_FractalPillOrganic.description>Fractal warping of the body. As flesh toughens and takes on metallic qualities and the mind rots and yet also grows, a uniquely enlightening and agonizing perspective takes hold. This is the archotech's work, but for what inscrutable purpose was this warping manifested?</ATR_FractalPillOrganic.description>
+  <ATR_FractalPillOrganic.stages.0.label>Transcendant</ATR_FractalPillOrganic.stages.0.label>
+  <ATR_FractalPillOrganic.stages.1.label>Blessed</ATR_FractalPillOrganic.stages.1.label>
+  <ATR_FractalPillOrganic.stages.2.label>Gifted</ATR_FractalPillOrganic.stages.2.label>
+  <ATR_FractalPillOrganic.stages.3.label>Balanced</ATR_FractalPillOrganic.stages.3.label>
+  <ATR_FractalPillOrganic.stages.4.label>Tainted</ATR_FractalPillOrganic.stages.4.label>
+  <ATR_FractalPillOrganic.stages.5.label>Vile</ATR_FractalPillOrganic.stages.5.label>
+  <ATR_FractalPillOrganic.stages.6.label>Corrupted</ATR_FractalPillOrganic.stages.6.label>
+
+
+  <!-- HediffMechanical -->
+
+  <ATR_FractalPillMechanical.label>Fractal Integration</ATR_FractalPillMechanical.label>
+  <ATR_FractalPillMechanical.description>Fractal integration into the whole chassis. While the warping that occurs is harmless to the unit, the effects are decidedly double-edged. Indeed, an inflated ego and power consumption increase are the primary effects - although affected units inexplicably take less damage from the same blows, and have a stronger grasp on reality's true nature.\n\nPerhaps archotechs did not design fractal warping with machines in mind, and find its application to them uninteresting? Or, perhaps, fractal warping is a curse upon all things, not just organics?</ATR_FractalPillMechanical.description>
+  <ATR_FractalPillMechanical.stages.0.label>Little effect</ATR_FractalPillMechanical.stages.0.label>
+  <ATR_FractalPillMechanical.stages.1.label>Awakened</ATR_FractalPillMechanical.stages.1.label>
+  <ATR_FractalPillMechanical.stages.2.label>Illuminated</ATR_FractalPillMechanical.stages.2.label>
+  <ATR_FractalPillMechanical.stages.3.label>Enlightened</ATR_FractalPillMechanical.stages.3.label>
+  <ATR_FractalPillMechanical.stages.4.label>Transcendant</ATR_FractalPillMechanical.stages.4.label>
+
+
+</LanguageData>

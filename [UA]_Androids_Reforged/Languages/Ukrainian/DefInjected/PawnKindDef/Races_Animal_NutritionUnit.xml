@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneNutritionUnit.label>Nutrition unit</ATR_DroneNutritionUnit.label>
+  <ATR_DroneNutritionUnit.labelPlural>Nutrition units</ATR_DroneNutritionUnit.labelPlural>
+  <ATR_DroneNutritionUnit.labelMale>male Nutrition unit</ATR_DroneNutritionUnit.labelMale>
+  <ATR_DroneNutritionUnit.labelMalePlural>male Nutrition units</ATR_DroneNutritionUnit.labelMalePlural>
+  <ATR_DroneNutritionUnit.labelFemale>female Nutrition unit</ATR_DroneNutritionUnit.labelFemale>
+  <ATR_DroneNutritionUnit.labelFemalePlural>female Nutrition units</ATR_DroneNutritionUnit.labelFemalePlural>
+
+
+  <!--<ATR_DroneNutritionUnit.labelMale>male Nutrition unit</ATR_DroneNutritionUnit.labelMale>-->
+  <!--<ATR_DroneNutritionUnit.labelMalePlural>male Nutrition units</ATR_DroneNutritionUnit.labelMalePlural>-->
+  <!--<ATR_DroneNutritionUnit.labelFemale>female Nutrition unit</ATR_DroneNutritionUnit.labelFemale>-->
+  <!--<ATR_DroneNutritionUnit.labelFemalePlural>female Nutrition units</ATR_DroneNutritionUnit.labelFemalePlural>-->
+
+</LanguageData>

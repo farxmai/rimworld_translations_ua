@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicBed.label>Mechanic bed</ATR_MechanicBed.label>
+  <ATR_MechanicBed.description>A hospital bed analogue for mechanics to handle operations on mechanical units. Units can charge while using this bed, and a number of built-in features grant mechanics advantages in completing operations.</ATR_MechanicBed.description>
+
+  <ATR_MechanicCabinet.label>Mechanic cabinet</ATR_MechanicCabinet.label>
+  <ATR_MechanicCabinet.description>A small cabinet that can be used in conjunction with mechanical-compatible beds. It contains a number of useful tools for further enhancing mechanic operations.</ATR_MechanicCabinet.description>
+
+
+  <!--<ATR_MechanicBed_Blueprint.label>Mechanic bed (blueprint)</ATR_MechanicBed_Blueprint.label>-->
+  <!--<ATR_MechanicBed_Blueprint_Install.label>Mechanic bed (blueprint)</ATR_MechanicBed_Blueprint_Install.label>-->
+  <!--<ATR_MechanicBed_Frame.label>Mechanic bed (building)</ATR_MechanicBed_Frame.label>-->
+  <!--<ATR_MechanicBed_Frame.description>A hospital bed analogue for mechanics to handle operations on mechanical units. Units can charge while using this bed, and a number of built-in features grant mechanics advantages in completing operations.</ATR_MechanicBed_Frame.description>-->
+  <!--<ATR_MechanicCabinet_Blueprint.label>Mechanic cabinet (blueprint)</ATR_MechanicCabinet_Blueprint.label>-->
+  <!--<ATR_MechanicCabinet_Blueprint_Install.label>Mechanic cabinet (blueprint)</ATR_MechanicCabinet_Blueprint_Install.label>-->
+  <!--<ATR_MechanicCabinet_Frame.label>Mechanic cabinet (building)</ATR_MechanicCabinet_Frame.label>-->
+  <!--<ATR_MechanicCabinet_Frame.description>A small cabinet that can be used in conjunction with mechanical-compatible beds. It contains a number of useful tools for further enhancing mechanic operations.</ATR_MechanicCabinet_Frame.description>-->
+
+</LanguageData>

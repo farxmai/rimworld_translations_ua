@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechAdulthoodRuthlessEnforcer.title>Overzealous enforcer</ATR_MechAdulthoodRuthlessEnforcer.title>
+  <ATR_MechAdulthoodRuthlessEnforcer.titleShort>enforcer</ATR_MechAdulthoodRuthlessEnforcer.titleShort>
+  <ATR_MechAdulthoodRuthlessEnforcer.baseDesc>{PAWN_nameDef} was an Urbworld enforcer for one of the large corporations. {PAWN_pronoun} was too rough and ready for the position, and ended up working as a gang enforcer instead. {PAWN_nameDef} proved too overt for them, though, and decided to leave the planet behind.</ATR_MechAdulthoodRuthlessEnforcer.baseDesc>
+
+
+</LanguageData>

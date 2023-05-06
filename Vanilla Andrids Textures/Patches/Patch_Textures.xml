@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_MicroscytherShell"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Items/Shells/MicroscytherShell</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_MechSwarm"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Drugs/MechSwarm</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_StasisPill"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Drugs/StasisPill</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_UnfinishedAndroid"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Items/UnfinishedAndroid</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1,1)</drawSize>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_AndroidResurrectorKit"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Items/Manufactured/AndroidResurrectionKit</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_DroneResurrectorKit"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Items/Manufactured/DroneResurrectionKit</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="ATR_PartPack"]/graphicData</xpath>
+        <value>
+          <graphicData>
+            <texPath>Things/Items/Manufactured/PartPack</texPath>
+            <graphicClass>Graphic_StackCount</graphicClass>
+          </graphicData>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+
+
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "ATR_DroneChemUnit"]</xpath>
+        <value>
+          <alternateGraphicChance>0.66</alternateGraphicChance>
+          <alternateGraphics>
+            <li>
+              <color>(113,111,111)</color>
+            </li>
+            <li>
+              <color>(85,84,84)</color>
+            </li>
+            <li>
+              <color>(157,158,158)</color>
+            </li>
+          </alternateGraphics>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "ATR_DroneWatchdog"]</xpath>
+        <value>
+          <alternateGraphicChance>0.66</alternateGraphicChance>
+          <alternateGraphics>
+            <li>
+              <color>(113,111,111)</color>
+            </li>
+            <li>
+              <color>(85,84,84)</color>
+            </li>
+            <li>
+              <color>(157,158,158)</color>
+            </li>
+          </alternateGraphics>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "ATR_DroneMineralUnit"]</xpath>
+        <value>
+          <alternateGraphicChance>0.66</alternateGraphicChance>
+          <alternateGraphics>
+            <li>
+              <color>(113,111,111)</color>
+            </li>
+            <li>
+              <color>(85,84,84)</color>
+            </li>
+            <li>
+              <color>(157,158,158)</color>
+            </li>
+          </alternateGraphics>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "ATR_DroneTORT"]</xpath>
+        <value>
+          <alternateGraphicChance>0.66</alternateGraphicChance>
+          <alternateGraphics>
+            <li>
+              <color>(113,111,111)</color>
+            </li>
+            <li>
+              <color>(85,84,84)</color>
+            </li>
+            <li>
+              <color>(157,158,158)</color>
+            </li>
+          </alternateGraphics>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/factionIconPath</xpath>
+        <value>
+          <factionIconPath>UI/Icons/Sites/AndroidUnion</factionIconPath>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+
+</Patch>

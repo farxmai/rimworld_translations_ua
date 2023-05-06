@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ATR_MiningArm.label>Mining arm</ATR_MiningArm.label>
+  <ATR_MiningArm.description>A simple mechanical arm designed with the extraction and processing of minerals in mind. The arm prominently features a plasteel drill which feeds contents into an internal processor, separating minerals efficiently and swiftly discarding waste to ensure maximal drilling and minimal sorting time.</ATR_MiningArm.description>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ATR_AgriArm.label>Agri arm</ATR_AgriArm.label>
+  <ATR_AgriArm.description>A simple mechanical arm designed with agriculture and horticulture in mind. The arm features several internal multi-tools that appropriately harvest products and feeds contents into an internal processor, discarding waste products to ensure optimal harvest and minimal sorting time. Ejecting products out of specialized elbow ports is efficient, if rather odd to observe.</ATR_AgriArm.description>
+
+
+</LanguageData>
